@@ -21,7 +21,7 @@ jobs:
           popd
       - name: Upload
         run: |
-#         UQ
+          # UQ
           aws s3 sync ./client/dist/uq s3://unifinal-uq
           aws s3 sync ./data/uq s3://unifinal-uq/data
         env:

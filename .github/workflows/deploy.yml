@@ -14,10 +14,10 @@ jobs:
         with:
           node-version: '12.x'
       - run: |
-          pushdir client
+          pushd client
           yarn install
           yarn build:production
-          popdir
+          popd
       - run: |
           aws s3 sync ./client/dist/uq s3://uqfinal --endpoint=https://nyc3.digitaloceanspaces.com
           aws s3 sync ./data/uq s3://uqfinal/data --endpoint=https://nyc3.digitaloceanspaces.com

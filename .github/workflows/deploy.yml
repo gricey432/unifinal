@@ -13,14 +13,18 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - run: |
+      - name: Build Client
+        run: |
           pushd client
           yarn install
           yarn build:production
           popd
-      - run: |
-          aws s3 sync ./client/dist/uq s3://uqfinal --endpoint=https://nyc3.digitaloceanspaces.com
-          aws s3 sync ./data/uq s3://uqfinal/data --endpoint=https://nyc3.digitaloceanspaces.com
+      - name: Upload
+        run: |
+#         UQ
+          aws s3 sync ./client/dist/uq s3://unifinal-uq
+          aws s3 sync ./data/uq s3://unifinal-uq/data
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: 'ap-southeast-2'

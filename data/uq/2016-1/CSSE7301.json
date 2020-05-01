@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative study of RTOS ",
+			"weight": 5
+		},
+		{
+			"name": "Project stage sessions ",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Project1 ",
+			"weight": 25
+		},
+		{
+			"name": "Project2 milestone",
+			"weight": 10
+		},
+		{
+			"name": "Project2 - final demo",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 35
+		}
+	]
+}

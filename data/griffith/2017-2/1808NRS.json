@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid-trimester exam",
+			"weight": 30
+		},
+		{
+			"name": "End of trimester exam",
+			"weight": 50
+		}
+	]
+}

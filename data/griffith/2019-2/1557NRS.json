@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 Part A: Descriptive Appraisal",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1 Part B: Descriptive Appraisal ",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2 Part A: Literature search",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2 Part B: Synthesis of Literature",
+			"weight": 45
+		}
+	]
+}

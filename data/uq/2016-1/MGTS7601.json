@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project on the \"Latest thinking\"",
+			"weight": 25
+		},
+		{
+			"name": "Midsemester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Individual Organisational Problem Analysis",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Social Context Mini-Essay",
+			"weight": 35
+		},
+		{
+			"name": "Community-Participation Report",
+			"weight": 40
+		},
+		{
+			"name": "Presentation of Community-Participation Report",
+			"weight": 10
+		}
+	]
+}

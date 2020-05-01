@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sales Pitch Simulation (Group)",
+			"weight": 20
+		},
+		{
+			"name": "Online Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Reflection - Sales Pitch Simulation (Group) ",
+			"weight": 10
+		},
+		{
+			"name": "Individual Case Study",
+			"weight": 50
+		}
+	]
+}

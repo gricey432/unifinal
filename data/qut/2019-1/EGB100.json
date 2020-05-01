@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 60
+		},
+		{
+			"name": "Scoping  Study (Report)",
+			"weight": 20
+		}
+	]
+}

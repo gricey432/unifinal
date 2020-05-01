@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Prosection",
+			"weight": 40
+		},
+		{
+			"name": "Donor Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Demonstration",
+			"weight": 30
+		}
+	]
+}

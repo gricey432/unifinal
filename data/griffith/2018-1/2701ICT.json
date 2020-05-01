@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops",
+			"weight": 16
+		},
+		{
+			"name": "Quizzes",
+			"weight": 24
+		},
+		{
+			"name": "Assignment 1 - Mobile App Design and Prototype",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 - Interactive App",
+			"weight": 30
+		}
+	]
+}

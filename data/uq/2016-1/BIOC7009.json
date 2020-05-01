@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Keeping a diary of meetings with supervisor ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written research proposal",
+			"weight": 100
+		}
+	]
+}

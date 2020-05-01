@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group A: Complex Case: Video Project, Q&A session",
+			"weight": 25
+		},
+		{
+			"name": "Group A: Complex Case: Individual component",
+			"weight": 25
+		},
+		{
+			"name": "Group B: Clinical immersion ",
+			"weight": 50
+		},
+		{
+			"name": "Group B: Complex Case: Individual component",
+			"weight": 25
+		},
+		{
+			"name": "Group B: Complex Case: Video, Q&A session",
+			"weight": 25
+		},
+		{
+			"name": "Group A: Clinical immersion",
+			"weight": 50
+		}
+	]
+}

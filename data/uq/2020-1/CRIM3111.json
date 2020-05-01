@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets x 5 (Wk 2, 3, 4, 5 & 6)",
+			"weight": 10
+		},
+		{
+			"name": "Restorative Justice Conference Plan (2000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Cybercrime and Security Report (2000 Words)",
+			"weight": 25
+		},
+		{
+			"name": "Financial Crime Investigation",
+			"weight": 45
+		}
+	]
+}

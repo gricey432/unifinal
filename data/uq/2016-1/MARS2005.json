@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard quizes",
+			"weight": 21
+		},
+		{
+			"name": "Introductory Skills in Scientific Communication",
+			"weight": 9
+		},
+		{
+			"name": "Coral Reef Environments",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

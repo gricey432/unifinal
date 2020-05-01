@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence based poster and synopsis",
+			"weight": 35
+		},
+		{
+			"name": "Written Assignment: Practice critique essay",
+			"weight": 45
+		},
+		{
+			"name": "Online Quiz (School-based)",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice Portfolio",
+			"weight": 0
+		}
+	]
+}

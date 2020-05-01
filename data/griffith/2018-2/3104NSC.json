@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 25
+		},
+		{
+			"name": "Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 25
+		},
+		{
+			"name": "Student Seminar Presentation",
+			"weight": 15
+		}
+	]
+}

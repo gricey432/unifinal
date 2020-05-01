@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Problem sets",
+			"weight": 10
+		},
+		{
+			"name": "Strain gauge practical",
+			"weight": 5
+		},
+		{
+			"name": "Industrial control practical",
+			"weight": 5
+		},
+		{
+			"name": "Integrated Project Part 1: Sense",
+			"weight": 10
+		},
+		{
+			"name": "Motors practical",
+			"weight": 5
+		},
+		{
+			"name": "Integrated Project Part 2: Decide and Act",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Development Portfolio",
+			"weight": "Affects grade"
+		},
+		{
+			"name": "Preliminary Memo (Team-based)",
+			"weight": 15
+		},
+		{
+			"name": "Peer Assessment (Individual)",
+			"weight": "P/F (affects team marks)"
+		},
+		{
+			"name": "Materials Quiz (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Model Test and Demonstration (Team-based)",
+			"weight": 40
+		},
+		{
+			"name": "Problem Solving Quiz (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 25
+		}
+	]
+}

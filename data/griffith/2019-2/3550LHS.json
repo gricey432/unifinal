@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion and debate",
+			"weight": 20
+		},
+		{
+			"name": "Briefing Paper",
+			"weight": 35
+		},
+		{
+			"name": "Community Analysis",
+			"weight": 45
+		}
+	]
+}

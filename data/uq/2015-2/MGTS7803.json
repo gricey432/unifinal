@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scoping presentation for case study",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation on case company at QT Hotel",
+			"weight": 40
+		},
+		{
+			"name": "Individual strategy map of case company",
+			"weight": 40
+		}
+	]
+}

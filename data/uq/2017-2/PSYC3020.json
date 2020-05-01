@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "10 quizzes to be completed in tutorials",
+			"weight": "The scores from your best 8 quizzes will account for 40"
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 30
+		}
+	]
+}

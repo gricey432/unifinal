@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Plan",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Reflective essay",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Multimedia Presentation",
+			"weight": "Compliance Hurdle: Students must complete regardless of overall course marks"
+		}
+	]
+}

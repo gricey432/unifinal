@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Supervised Teaching Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflection on Practice",
+			"weight": "Pass/Fail"
+		}
+	]
+}

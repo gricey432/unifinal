@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal ",
+			"weight": 15
+		},
+		{
+			"name": "Project progress report",
+			"weight": 15
+		},
+		{
+			"name": "Final project report",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing tasks 1 ~ 10",
+			"weight": 50
+		},
+		{
+			"name": "Oral Task 1: Self Introduction",
+			"weight": 10
+		},
+		{
+			"name": "Oral Task 2: Interview with a native speaker",
+			"weight": 20
+		},
+		{
+			"name": "Oral Task 3",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Group Assignment 1. Prelim Hazard Analysis (PHA)",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment 2. Risk control analysis",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3. Literature and case study review",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

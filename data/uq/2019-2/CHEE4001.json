@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Introduction Sessions - Week 1",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Advising and Presentation Sessions",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Design Package 1",
+			"weight": "Approximately 25"
+		},
+		{
+			"name": "Design Package 2",
+			"weight": "Approximately 25"
+		},
+		{
+			"name": "Final Design Package and Presentation",
+			"weight": "Approximately 50"
+		},
+		{
+			"name": "HAZOP of Section",
+			"weight": "Compulsory"
+		}
+	]
+}

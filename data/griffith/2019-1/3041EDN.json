@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment item: Lesson plan and rationale",
+			"weight": 60
+		},
+		{
+			"name": "Assessment item:  Examination",
+			"weight": 40
+		}
+	]
+}

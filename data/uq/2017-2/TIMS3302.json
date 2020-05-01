@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly (10) quiz on material covered",
+			"weight": 20
+		},
+		{
+			"name": "Idea Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Investment Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Business Case report",
+			"weight": 35
+		}
+	]
+}

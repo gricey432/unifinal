@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assign 1 (Structures) Shear flow thin-walled tubes",
+			"weight": 5
+		},
+		{
+			"name": "Assign 2 (Structures) - Column Buckling",
+			"weight": 5
+		},
+		{
+			"name": "Assign 3 (Structures) - Box beam design",
+			"weight": 15
+		},
+		{
+			"name": "Assign 4 (Materials) - Manufacture Process Design",
+			"weight": 25
+		},
+		{
+			"name": "Closed book exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Pasture and Feed Analysis ",
+			"weight": 10
+		},
+		{
+			"name": "Beef",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

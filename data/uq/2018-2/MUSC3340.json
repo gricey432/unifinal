@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Folio and In-Class Poster Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Music Cognition Experiment Participation",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project (Part 1 - Proposal, individual)",
+			"weight": 30
+		},
+		{
+			"name": "Research Project (Part 2 - Final report, group)",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

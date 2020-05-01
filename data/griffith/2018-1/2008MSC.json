@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "On line communication skills quiz",
+			"weight": 0
+		},
+		{
+			"name": "Communication workshop - reflective journal",
+			"weight": 5
+		},
+		{
+			"name": "Pipetting technique assessment",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory Theory assessment",
+			"weight": 3
+		},
+		{
+			"name": "Fold it computer laboratory",
+			"weight": 1
+		},
+		{
+			"name": "Quizzes 1, 2",
+			"weight": 30
+		},
+		{
+			"name": "Pre-Laboratory questions",
+			"weight": 4
+		},
+		{
+			"name": "Enzyme Kinetics laboratory report",
+			"weight": 9
+		},
+		{
+			"name": "Laboratory Exam ",
+			"weight": 9
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

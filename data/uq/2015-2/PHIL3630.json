@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "3 Minute Work-In-Progress seminar",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		}
+	]
+}

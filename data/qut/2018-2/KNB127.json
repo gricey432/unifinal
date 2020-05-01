@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "3D Workflow Demonstration",
+			"weight": 40
+		},
+		{
+			"name": "3D Project",
+			"weight": 60
+		}
+	]
+}

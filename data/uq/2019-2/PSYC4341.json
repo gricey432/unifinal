@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation in discussion",
+			"weight": 10
+		},
+		{
+			"name": "Session Chair",
+			"weight": 15
+		},
+		{
+			"name": "Presentation on a Loss trauma and resilience topic",
+			"weight": 35
+		},
+		{
+			"name": "Essay Paper on Loss, Trauma & Resilience Topic",
+			"weight": 40
+		}
+	]
+}

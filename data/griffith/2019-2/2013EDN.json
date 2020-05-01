@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Technologies Portfolio (Part 1)",
+			"weight": 25
+		},
+		{
+			"name": "Technologies Learning Log",
+			"weight": 50
+		},
+		{
+			"name": "Technologies Portfolio (Part 2)",
+			"weight": 25
+		}
+	]
+}

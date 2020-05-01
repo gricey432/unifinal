@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Brand Audit",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2: MID-TERM EXAM (online)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Buyer Behaviour-Theoretical Analysis",
+			"weight": 55
+		}
+	]
+}

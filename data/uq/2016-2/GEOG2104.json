@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Report #1:  The Infrastructural Needs of Cities",
+			"weight": 20
+		},
+		{
+			"name": "Report #2:  Defining Southeast Qld as a Region",
+			"weight": 20
+		},
+		{
+			"name": "Field Trip Report",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

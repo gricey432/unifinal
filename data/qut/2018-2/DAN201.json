@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exhibition and Report",
+			"weight": 40
+		},
+		{
+			"name": "Student Negotiated Assessment",
+			"weight": 60
+		}
+	]
+}

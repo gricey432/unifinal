@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VETS4021 mid semester poultry exam",
+			"weight": 40
+		},
+		{
+			"name": "Pig visual quiz",
+			"weight": 10
+		},
+		{
+			"name": "Intensive Livestock Practice - pigs/aquaculture",
+			"weight": 50
+		}
+	]
+}

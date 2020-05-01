@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design a collaborative or other engagement process",
+			"weight": 25
+		},
+		{
+			"name": "Design of Collaboration process",
+			"weight": 15
+		},
+		{
+			"name": "A short talk answering questions based on the soci",
+			"weight": 10
+		},
+		{
+			"name": "PBL: Individual Task ",
+			"weight": 50
+		}
+	]
+}

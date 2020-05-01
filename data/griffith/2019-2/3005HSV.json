@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography/Case Study",
+			"weight": 50
+		},
+		{
+			"name": "Written Essay",
+			"weight": 50
+		}
+	]
+}

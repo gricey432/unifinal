@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "ASSESSMENT 1, Pt 1 of 2: Premiere Edit",
+			"weight": 15
+		},
+		{
+			"name": "ASSESSMENT 3, Pt 1 of 3: Premiere & workflow quiz",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 1, Pt 2 of 2: Editing a TV Commercial",
+			"weight": 15
+		},
+		{
+			"name": "ASSESSMENT 3, Pt 2 of 2: DaVinci & workflow",
+			"weight": 5
+		},
+		{
+			"name": "ASSESSMENT 2, Pt 1 of 4: Pressure Test 1",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 2, Pt 2 of 4: Pressure Test 2",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 3, Pt 3 of 4: Pressure Test 3",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 2, Pt 4 of 4: Pressure Test 4.",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 3, Pt 3 of 3: Lecture content",
+			"weight": 15
+		}
+	]
+}

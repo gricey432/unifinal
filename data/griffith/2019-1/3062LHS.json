@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Contributions",
+			"weight": 15
+		},
+		{
+			"name": "In-Class Presentation & Essay",
+			"weight": 20
+		},
+		{
+			"name": "Research Project",
+			"weight": 65
+		}
+	]
+}

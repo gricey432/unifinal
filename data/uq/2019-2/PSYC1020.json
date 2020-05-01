@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Quizzes",
+			"weight": 64
+		},
+		{
+			"name": "Submission 1 - Draft of Essay Introduction",
+			"weight": 0
+		},
+		{
+			"name": "Submission 2 - Complete Essay",
+			"weight": 30
+		}
+	]
+}

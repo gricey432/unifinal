@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets: Reflection and analysis",
+			"weight": 10
+		},
+		{
+			"name": "Media item Report",
+			"weight": 30
+		},
+		{
+			"name": "A critical examination of legislation or policy",
+			"weight": 60
+		}
+	]
+}

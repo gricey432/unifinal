@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Participating in Learning Activities",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 65
+		}
+	]
+}

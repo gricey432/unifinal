@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration (Practical)",
+			"weight": 40
+		},
+		{
+			"name": "Training Program Portfolio",
+			"weight": 60
+		}
+	]
+}

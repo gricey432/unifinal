@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ass 1 (Structures) - Torsion in thin-walled tubes",
+			"weight": 5
+		},
+		{
+			"name": "Ass 2 (Structures) - Column Buckling",
+			"weight": 5
+		},
+		{
+			"name": "Ass 3 (Structures) - Wing box beam design",
+			"weight": 15
+		},
+		{
+			"name": "Ass 4 (Materials) - Process Design for Manufacture",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

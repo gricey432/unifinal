@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Clicker Participation",
+			"weight": 3
+		},
+		{
+			"name": "Weekly Concept Questions",
+			"weight": 5
+		},
+		{
+			"name": "Homework & Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "In-class test 1 - week 5",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam ",
+			"weight": 15
+		},
+		{
+			"name": "In-class test 2 -week 10",
+			"weight": 10
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 55
+		}
+	]
+}

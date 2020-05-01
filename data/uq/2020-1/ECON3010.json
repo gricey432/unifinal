@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Test 1, 2, 3",
+			"weight": 21
+		},
+		{
+			"name": "Mid-semester Exam During Lecture Time (Online)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": 49
+		}
+	]
+}

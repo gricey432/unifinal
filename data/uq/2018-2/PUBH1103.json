@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Workbook and Teamwork ",
+			"weight": 15
+		},
+		{
+			"name": "In class Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Australia's Health System",
+			"weight": 30
+		},
+		{
+			"name": "Social determinants of health",
+			"weight": 35
+		}
+	]
+}

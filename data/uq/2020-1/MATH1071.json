@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Matlab online modules",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online short answer test",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review of chosen topic",
+			"weight": 30
+		},
+		{
+			"name": "Essay on chosen topic",
+			"weight": 50
+		}
+	]
+}

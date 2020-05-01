@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Site Plan",
+			"weight": 30
+		},
+		{
+			"name": "Examination of Course Content ",
+			"weight": 40
+		},
+		{
+			"name": "Event Operations Report",
+			"weight": 30
+		}
+	]
+}

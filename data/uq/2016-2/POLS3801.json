@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Internship Agreement (Submit via Turnitin)",
+			"weight": "N/A"
+		},
+		{
+			"name": "2 page Project Proposal (Submit via Turnitin)",
+			"weight": "N/A"
+		},
+		{
+			"name": "Record Keeping (Submit via Turnitin)",
+			"weight": "N/A"
+		},
+		{
+			"name": "6,000 word Research Report (Submit via Turnitin)",
+			"weight": "N/A"
+		},
+		{
+			"name": "Record Keeping (submit via Turnitin)",
+			"weight": 0
+		}
+	]
+}

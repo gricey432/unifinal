@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Memorandum of Understanding (MoU)",
+			"weight": 5
+		},
+		{
+			"name": "Schedule",
+			"weight": 15
+		},
+		{
+			"name": "FEED Report",
+			"weight": 30
+		},
+		{
+			"name": "Industrial Design",
+			"weight": 10
+		},
+		{
+			"name": "Competition ",
+			"weight": 40
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 0
+		}
+	]
+}

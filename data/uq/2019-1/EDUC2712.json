@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experiences",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Statement of Philosophy of Teaching",
+			"weight": "Pass/Fail (300 words)"
+		},
+		{
+			"name": "Portfolio of lesson plans and associated resources",
+			"weight": "Pass/Fail (1000 words)"
+		}
+	]
+}

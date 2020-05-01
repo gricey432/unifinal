@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in guest lectures & debates",
+			"weight": 5
+		},
+		{
+			"name": "Socio-political aspects",
+			"weight": 5
+		},
+		{
+			"name": "Economics",
+			"weight": 5
+		},
+		{
+			"name": "Physcology",
+			"weight": 5
+		},
+		{
+			"name": "International case study (ICS)",
+			"weight": 40
+		},
+		{
+			"name": "Position Paper",
+			"weight": 5
+		},
+		{
+			"name": "Local case study (LCS)",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 15
+		}
+	]
+}

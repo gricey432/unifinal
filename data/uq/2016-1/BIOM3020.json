@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomy of Endocrine Organs",
+			"weight": 5
+		},
+		{
+			"name": "Analysis of glucose tolerance and body composition",
+			"weight": 16
+		},
+		{
+			"name": "Histological assessment of an endocrine organ",
+			"weight": 10
+		},
+		{
+			"name": "Hot topic 1",
+			"weight": 3
+		},
+		{
+			"name": "Hot topic 2",
+			"weight": 3
+		},
+		{
+			"name": "Hot topic 3",
+			"weight": 3
+		},
+		{
+			"name": "EOS exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Association Application",
+			"weight": 20
+		},
+		{
+			"name": "Professional Resources Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Ethical dilemmas",
+			"weight": 30
+		}
+	]
+}

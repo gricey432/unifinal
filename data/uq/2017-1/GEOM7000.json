@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Basic remote sensing concepts and applications",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		},
+		{
+			"name": "#1: Linking field and image data",
+			"weight": 30
+		},
+		{
+			"name": "#2 Image Processing, Analysis",
+			"weight": 20
+		},
+		{
+			"name": "#3 Automated Image Analysis & Application Review",
+			"weight": 10
+		}
+	]
+}

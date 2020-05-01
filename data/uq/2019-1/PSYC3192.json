@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Class Quizzes",
+			"weight": 12
+		},
+		{
+			"name": "Number 1",
+			"weight": 4
+		},
+		{
+			"name": "Number 2",
+			"weight": 4
+		},
+		{
+			"name": "Number 3",
+			"weight": 4
+		},
+		{
+			"name": "Number 4",
+			"weight": 4
+		},
+		{
+			"name": "Class Research Project",
+			"weight": 32
+		},
+		{
+			"name": "Number 5",
+			"weight": 4
+		},
+		{
+			"name": "Number 6",
+			"weight": 4
+		},
+		{
+			"name": "Research Essay",
+			"weight": 32
+		}
+	]
+}

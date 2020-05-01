@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation video",
+			"weight": 30
+		},
+		{
+			"name": "Critical Appraisal part 1",
+			"weight": 15
+		},
+		{
+			"name": "Critical Appraisal part 2",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 25
+		}
+	]
+}

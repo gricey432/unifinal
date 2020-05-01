@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hypothetical case study",
+			"weight": 20
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 40
+		},
+		{
+			"name": "Case Studies",
+			"weight": 40
+		}
+	]
+}

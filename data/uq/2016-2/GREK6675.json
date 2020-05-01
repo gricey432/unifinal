@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Exam",
+			"weight": 15
+		},
+		{
+			"name": "Translation Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Guided reading ",
+			"weight": 10
+		},
+		{
+			"name": "In-class Presentation",
+			"weight": 10
+		},
+		{
+			"name": "2000 word research essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 35
+		}
+	]
+}

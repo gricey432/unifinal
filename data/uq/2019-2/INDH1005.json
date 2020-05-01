@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal standpoint: Introducing yourself",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Poster and Oral Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Article for TheConversation.com",
+			"weight": 45
+		}
+	]
+}

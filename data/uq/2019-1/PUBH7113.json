@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analyse and present health and development data",
+			"weight": 30
+		},
+		{
+			"name": "Prepare a concise summary of evidence for policy",
+			"weight": 25
+		},
+		{
+			"name": "Conduct a systematic review of the literature",
+			"weight": 45
+		}
+	]
+}

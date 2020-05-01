@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Classes",
+			"weight": 4
+		},
+		{
+			"name": "Contact Activities - Statics & Dynamics",
+			"weight": 0
+		},
+		{
+			"name": "Tutorial assignments- Statics",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial assignments- Dynamics ",
+			"weight": 6
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

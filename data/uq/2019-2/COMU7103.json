@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concepts and developments in PR across its history",
+			"weight": 30
+		},
+		{
+			"name": "Interpersonal communication and relations today",
+			"weight": 40
+		},
+		{
+			"name": "\"Newsworthy\" piece",
+			"weight": 30
+		}
+	]
+}

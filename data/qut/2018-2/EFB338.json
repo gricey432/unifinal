@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Participation",
+			"weight": 35
+		},
+		{
+			"name": "Academic Essay",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam (written)",
+			"weight": 30
+		}
+	]
+}

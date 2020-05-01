@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Field visit assignment",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 65
+		}
+	]
+}

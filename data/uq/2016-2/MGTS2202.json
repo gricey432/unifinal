@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Group Assignment Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

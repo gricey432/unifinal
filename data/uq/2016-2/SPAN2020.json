@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Asistencia y participación",
+			"weight": 5
+		},
+		{
+			"name": "Prueba 1  Capítulos 12 y 13",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation and peer assessment",
+			"weight": 12
+		},
+		{
+			"name": "Prueba de comprensión de lectura",
+			"weight": 10
+		},
+		{
+			"name": "Prueba 2 Capítulos 14 y 15",
+			"weight": 28
+		},
+		{
+			"name": "Entrevista oral",
+			"weight": 20
+		}
+	]
+}

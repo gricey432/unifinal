@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Engagement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Journal and Portfolio of Resources",
+			"weight": 40
+		},
+		{
+			"name": "Performance - Strings, Wind/Brass, Keyboard",
+			"weight": 60
+		}
+	]
+}

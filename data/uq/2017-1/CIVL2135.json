@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual assignments",
+			"weight": 10
+		},
+		{
+			"name": "Project 1 - Case study assessment",
+			"weight": 30
+		},
+		{
+			"name": "Case study Ethics in engineering",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

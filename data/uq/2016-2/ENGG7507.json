@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 60
+		},
+		{
+			"name": "Assignment 1 - Market Structure and Price Dynamics",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 - Value of Appraisal",
+			"weight": 25
+		}
+	]
+}

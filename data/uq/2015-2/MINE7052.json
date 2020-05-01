@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "On-line participation",
+			"weight": 20
+		},
+		{
+			"name": "Scenario briefing",
+			"weight": 20
+		},
+		{
+			"name": "Short essay",
+			"weight": 25
+		},
+		{
+			"name": "Analysis of social performance of a resource proje",
+			"weight": 35
+		}
+	]
+}

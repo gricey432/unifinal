@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Outline or plan for research paper",
+			"weight": 15
+		},
+		{
+			"name": "Research paper (essay)",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

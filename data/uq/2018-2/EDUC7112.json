@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design a Presentation for Professional Colleagues ",
+			"weight": 30
+		},
+		{
+			"name": " Online Professional Learning Community/Network",
+			"weight": 20
+		},
+		{
+			"name": "Designing and Evaluating an Innovation",
+			"weight": 50
+		}
+	]
+}

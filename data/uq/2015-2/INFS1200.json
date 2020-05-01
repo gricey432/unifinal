@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

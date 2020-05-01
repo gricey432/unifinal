@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essays (1200 words each)",
+			"weight": 75
+		},
+		{
+			"name": "Weekly Diary Entries (8 total) ",
+			"weight": 25
+		}
+	]
+}

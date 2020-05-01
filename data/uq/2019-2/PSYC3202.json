@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Activities",
+			"weight": 8
+		},
+		{
+			"name": "Online Quiz 1 (Weeks 1 - 3)",
+			"weight": 6
+		},
+		{
+			"name": "Draft of Applied Report",
+			"weight": "Formative"
+		},
+		{
+			"name": "Online Quiz 2 (Weeks 4 - 6)",
+			"weight": 6
+		},
+		{
+			"name": "Online Quiz 3 (Weeks 7 - 9)",
+			"weight": 6
+		},
+		{
+			"name": "Applied Report & Critical Essay",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentations & Peer Assessment",
+			"weight": 28
+		},
+		{
+			"name": "Online Quiz 4 (Weeks 11 - 13)",
+			"weight": 6
+		}
+	]
+}

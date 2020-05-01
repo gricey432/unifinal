@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment #1 Computer Lab Exercises ",
+			"weight": 20
+		},
+		{
+			"name": "Assignment #2 Community Demographic Profile",
+			"weight": 25
+		},
+		{
+			"name": "Assignment #3 Demographic Projections ",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

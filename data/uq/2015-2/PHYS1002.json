@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Written examination",
+			"weight": 50
+		},
+		{
+			"name": "Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 15
+		},
+		{
+			"name": "Reading quiz",
+			"weight": "0.5 grade bonus"
+		},
+		{
+			"name": "Mastering Physics Online Quizzes",
+			"weight": 5
+		}
+	]
+}

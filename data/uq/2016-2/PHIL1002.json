@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "5 part Dialogue Preparation Task",
+			"weight": 10
+		},
+		{
+			"name": "Grading Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Dialogue",
+			"weight": 35
+		},
+		{
+			"name": "Take home examination ",
+			"weight": 25
+		}
+	]
+}

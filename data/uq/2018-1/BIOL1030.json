@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets/reports",
+			"weight": 19
+		},
+		{
+			"name": "Pre-and post-prac activities",
+			"weight": "Pass"
+		},
+		{
+			"name": "Problem-based workshops",
+			"weight": 9
+		},
+		{
+			"name": "ID plants, animals & processes & answer questions",
+			"weight": 12
+		},
+		{
+			"name": "Mid-semester exam ",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

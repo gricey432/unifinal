@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		},
+		{
+			"name": "Progress Examination",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 30
+		}
+	]
+}

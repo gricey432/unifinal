@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Diary",
+			"weight": 33
+		},
+		{
+			"name": "Supervisor's Report",
+			"weight": 33
+		},
+		{
+			"name": "End of Semester Report",
+			"weight": 34
+		}
+	]
+}

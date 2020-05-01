@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Orientated Medical Record (POMR)",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Case Presentation (CCP)",
+			"weight": 25
+		},
+		{
+			"name": "Surgery Assessment - Short Answer (SAQ) Exam",
+			"weight": 40
+		},
+		{
+			"name": "Surgery Assessment - Multiple Choice (MCQ) Exam",
+			"weight": 20
+		}
+	]
+}

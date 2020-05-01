@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Poem Recitation",
+			"weight": 10
+		},
+		{
+			"name": "Short essay",
+			"weight": 20
+		},
+		{
+			"name": "Long Essay",
+			"weight": 30
+		},
+		{
+			"name": "Date TBA",
+			"weight": 30
+		}
+	]
+}

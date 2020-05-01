@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Task 1",
+			"weight": 5
+		},
+		{
+			"name": "Writing Task 2",
+			"weight": 5
+		},
+		{
+			"name": "Writing Task 3",
+			"weight": 5
+		},
+		{
+			"name": "Writing Task 4",
+			"weight": 5
+		},
+		{
+			"name": "SPSE Research Paper",
+			"weight": 25
+		},
+		{
+			"name": "Team Pitch & Media Release",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Final Examination",
+			"weight": 40
+		}
+	]
+}

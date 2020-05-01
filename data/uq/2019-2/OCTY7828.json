@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork experience",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "People Handling Competency",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "OSCE Examination",
+			"weight": 35
+		},
+		{
+			"name": "Fieldwork Report",
+			"weight": 35
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

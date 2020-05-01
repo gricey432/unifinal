@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "To Think Like an Economist",
+			"weight": 4
+		},
+		{
+			"name": "Supply and Demand",
+			"weight": 4
+		},
+		{
+			"name": "Elasticity and Perfectly Competitive Supply",
+			"weight": 4
+		},
+		{
+			"name": "The Quest for Profit, Imperfect Comp & Monopoly",
+			"weight": 4
+		},
+		{
+			"name": "Imperfect Comp (cont.), Externalities, Prop Rights",
+			"weight": 4
+		},
+		{
+			"name": "Public Goods and Economics of Information",
+			"weight": 4
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1: Critical Reflection Journal",
+			"weight": 10
+		},
+		{
+			"name": "Assessment Task 2: Digital Story",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Task 3: Case Study Analysis",
+			"weight": 50
+		}
+	]
+}

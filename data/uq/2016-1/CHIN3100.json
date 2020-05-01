@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation and attendance ",
+			"weight": 10
+		},
+		{
+			"name": "Oral exercise",
+			"weight": 10
+		},
+		{
+			"name": "Dictation Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Listening comprehension Test ",
+			"weight": 25
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 25
+		}
+	]
+}

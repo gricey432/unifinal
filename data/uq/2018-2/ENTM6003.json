@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment: Create a webpage ",
+			"weight": 12
+		},
+		{
+			"name": "Project report on scanning electron microscopy",
+			"weight": 12
+		},
+		{
+			"name": "Insect Collection",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "The Medical Imaging Problem",
+			"weight": 10
+		},
+		{
+			"name": "X-ray Computed Tomography (ELEC7606)",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "The Future of Medical Imaging",
+			"weight": 10
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		}
+	]
+}

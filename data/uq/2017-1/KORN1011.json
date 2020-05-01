@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Vocab test 1",
+			"weight": 10
+		},
+		{
+			"name": "Written exam",
+			"weight": 20
+		},
+		{
+			"name": "Vocab test 2",
+			"weight": 10
+		},
+		{
+			"name": "Listening and Written test",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

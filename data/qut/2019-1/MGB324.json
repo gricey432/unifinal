@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Formation Process",
+			"weight": 30
+		},
+		{
+			"name": "Business Growth Report",
+			"weight": 40
+		},
+		{
+			"name": "Personal Learning Statement",
+			"weight": 30
+		}
+	]
+}

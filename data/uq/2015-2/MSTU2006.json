@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Programming Film History",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of two Australian films",
+			"weight": 50
+		}
+	]
+}

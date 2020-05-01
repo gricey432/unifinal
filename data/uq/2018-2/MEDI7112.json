@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL - formative",
+			"weight": "P/F (provides formal feedback of performance towards the summative CBL participation assessment)"
+		},
+		{
+			"name": "Contribution to CBL - summative",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7112."
+		},
+		{
+			"name": "Weekly online quizzes - formative",
+			"weight": 0
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam II - spotter",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam I",
+			"weight": 50
+		}
+	]
+}

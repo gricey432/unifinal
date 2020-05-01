@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem based learning",
+			"weight": 40
+		},
+		{
+			"name": "Professional Practice Portfoli",
+			"weight": 60
+		},
+		{
+			"name": "OSCE",
+			"weight": 0
+		}
+	]
+}

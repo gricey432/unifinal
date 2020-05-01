@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Critically Reflective Journal Part A",
+			"weight": 15
+		},
+		{
+			"name": "Critically Reflective Journal Part B",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 40
+		}
+	]
+}

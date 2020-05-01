@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Report #1:  The Infrastructural Needs of Cities",
+			"weight": 20
+		},
+		{
+			"name": "Report #2:  Brisbane as a World City",
+			"weight": 20
+		},
+		{
+			"name": "Field Trip Report",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

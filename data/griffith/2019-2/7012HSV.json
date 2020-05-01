@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Court Visit - Observation Report",
+			"weight": 40
+		},
+		{
+			"name": "Exam on course content to date",
+			"weight": 10
+		},
+		{
+			"name": "Policy submission",
+			"weight": 50
+		}
+	]
+}

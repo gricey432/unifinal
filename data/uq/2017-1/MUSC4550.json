@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Literature/Context Review",
+			"weight": 20
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Exegesis",
+			"weight": 30
+		},
+		{
+			"name": "Project Presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Artistic Research Output",
+			"weight": 50
+		}
+	]
+}

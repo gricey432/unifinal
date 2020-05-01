@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Standardised Patient and Simulation Fieldwork ",
+			"weight": 15
+		},
+		{
+			"name": "Case Assignment with Oral Examination",
+			"weight": 50
+		},
+		{
+			"name": "Mid-Semester Exam (in class)",
+			"weight": 35
+		}
+	]
+}

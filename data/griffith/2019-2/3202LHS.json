@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of readings",
+			"weight": 20
+		},
+		{
+			"name": "Media representation",
+			"weight": 15
+		},
+		{
+			"name": "Essay proposal",
+			"weight": 15
+		},
+		{
+			"name": "Issues in Intercultural Communication",
+			"weight": 50
+		}
+	]
+}

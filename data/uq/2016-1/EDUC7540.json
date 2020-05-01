@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Experience: Block practicum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional portfolio presentation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Virology Exam",
+			"weight": 15
+		},
+		{
+			"name": "Parasitology Semester One Exam",
+			"weight": 25
+		},
+		{
+			"name": "Practical Skills Examination (PSE)",
+			"weight": 10
+		},
+		{
+			"name": "Integration VIVA (Semester 2)",
+			"weight": 20
+		},
+		{
+			"name": "Bacteriology & Public Health Exam(Semester 2)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 25
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 55
+		},
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 20
+		}
+	]
+}

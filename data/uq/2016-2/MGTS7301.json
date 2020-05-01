@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case analysis using Minto pyramid",
+			"weight": 30
+		},
+		{
+			"name": "Capsim simulation experience",
+			"weight": 20
+		},
+		{
+			"name": "Final exam (2 hours)",
+			"weight": 50
+		}
+	]
+}

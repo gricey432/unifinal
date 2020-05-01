@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Preparation of a will and advice",
+			"weight": 50
+		},
+		{
+			"name": "Grants and personal representation quiz",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Exercise Questions",
+			"weight": 7
+		},
+		{
+			"name": "Exp 1 (Aerofoil)",
+			"weight": 2
+		},
+		{
+			"name": "Exp 2 (Shock Tube)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 3 (Pipe Flow)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 4 (Turbomachinery)",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

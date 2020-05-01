@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Written Commentary",
+			"weight": 20
+		},
+		{
+			"name": "Oral Health Infographic",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation; contribtuion to class discussions",
+			"weight": 10
+		},
+		{
+			"name": "Assessment piece 1",
+			"weight": 20
+		},
+		{
+			"name": "Assessment piece 2",
+			"weight": 30
+		},
+		{
+			"name": "AT3 Implications of disability for teaching",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lesson plan and micro teaching activity",
+			"weight": 30
+		},
+		{
+			"name": "Learning and teaching sequence and assessment task",
+			"weight": 40
+		},
+		{
+			"name": "Professional development module",
+			"weight": 30
+		}
+	]
+}

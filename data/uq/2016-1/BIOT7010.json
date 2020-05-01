@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Maintain witnessed laboratory book",
+			"weight": 20
+		},
+		{
+			"name": "Report on research project",
+			"weight": 80
+		}
+	]
+}

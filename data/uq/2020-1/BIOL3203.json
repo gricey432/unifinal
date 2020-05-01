@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "P2 Computer prac assignment",
+			"weight": 15
+		},
+		{
+			"name": "P3 (GFP) laboratory report + lab performance",
+			"weight": 15
+		},
+		{
+			"name": "P1 (GUS) laboratory report + lab performance",
+			"weight": 15
+		},
+		{
+			"name": "Exam - Final",
+			"weight": 55
+		}
+	]
+}

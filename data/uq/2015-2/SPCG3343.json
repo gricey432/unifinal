@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hot Topics in Sport Science",
+			"weight": 30
+		},
+		{
+			"name": "Annual Training Plan and S&C Program",
+			"weight": 25
+		},
+		{
+			"name": "Developing the Elite Athlete",
+			"weight": 45
+		}
+	]
+}

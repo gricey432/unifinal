@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation with Professional P",
+			"weight": 60
+		},
+		{
+			"name": "Take home exam",
+			"weight": 40
+		}
+	]
+}

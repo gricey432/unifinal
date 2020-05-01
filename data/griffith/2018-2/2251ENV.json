@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Collection",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Group Poster Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 35
+		}
+	]
+}

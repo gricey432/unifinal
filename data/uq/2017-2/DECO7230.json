@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Prototype Suite",
+			"weight": 70
+		},
+		{
+			"name": "Video Prototype",
+			"weight": 25
+		},
+		{
+			"name": "Interactive Prototype I",
+			"weight": 25
+		},
+		{
+			"name": "Interactive Prototype II",
+			"weight": 25
+		},
+		{
+			"name": "Interactive Prototype III",
+			"weight": 25
+		},
+		{
+			"name": "Prototyping Designs",
+			"weight": 30
+		}
+	]
+}

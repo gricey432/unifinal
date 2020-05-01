@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Project Phase 1",
+			"weight": 10
+		},
+		{
+			"name": "Project Phase 2",
+			"weight": 15
+		},
+		{
+			"name": "Project Final Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

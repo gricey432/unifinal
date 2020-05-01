@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibligraphy",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of Research Findings",
+			"weight": 15
+		},
+		{
+			"name": "Individual Research Essay",
+			"weight": 65
+		}
+	]
+}

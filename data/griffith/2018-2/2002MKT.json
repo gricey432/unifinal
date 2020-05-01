@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Test",
+			"weight": 25
+		},
+		{
+			"name": "PR Campaign (Part A): Company Background Analysis",
+			"weight": 15
+		},
+		{
+			"name": "PR Campaign (Part B): Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

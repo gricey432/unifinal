@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal and Remarkable Me Video",
+			"weight": 20
+		},
+		{
+			"name": "Group Report and Peer & Self Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

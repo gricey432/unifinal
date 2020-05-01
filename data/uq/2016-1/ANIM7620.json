@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": " Animal Reproduction Or online Physio 2",
+			"weight": 25
+		},
+		{
+			"name": "Animal physiology",
+			"weight": 25
+		},
+		{
+			"name": "Animal behaviour",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination Animal Nutrition",
+			"weight": 25
+		}
+	]
+}

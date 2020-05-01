@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pin-Up/Critique First Intensive Module",
+			"weight": 25
+		},
+		{
+			"name": "Pin-Up/Critique Second Intensive Module",
+			"weight": 25
+		},
+		{
+			"name": "Pin-Up/Critique Third Intensive Module",
+			"weight": 25
+		},
+		{
+			"name": "Pin-Up/Critique Fourth Intensive Module",
+			"weight": 25
+		}
+	]
+}

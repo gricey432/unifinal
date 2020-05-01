@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Plan Microteaching/Learning Sequence/Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Hard to Teach Concept and Managing Learning",
+			"weight": 30
+		},
+		{
+			"name": "Professional Engagement and Communication",
+			"weight": 30
+		}
+	]
+}

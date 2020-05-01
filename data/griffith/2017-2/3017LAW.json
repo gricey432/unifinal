@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Test",
+			"weight": 5
+		},
+		{
+			"name": "Online Test",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 80
+		}
+	]
+}

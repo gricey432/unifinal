@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Supervision Reports",
+			"weight": 50
+		},
+		{
+			"name": "Visual Reflection",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Practicum Log",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Development of professionalism",
+			"weight": 5
+		},
+		{
+			"name": "Homework translation for assessment 1 (medical)",
+			"weight": 22
+		},
+		{
+			"name": "Homework translation for assessment 2 (legal)",
+			"weight": 22
+		},
+		{
+			"name": "Homework translation for assessment 3 (medical)",
+			"weight": 25
+		},
+		{
+			"name": "Homework translation for assessment 4 (legal)",
+			"weight": 25
+		}
+	]
+}

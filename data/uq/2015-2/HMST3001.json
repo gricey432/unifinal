@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professionalism",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim & Final Supervisors Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student Presentations and Discussion ",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Summary, log book & Reference Form",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

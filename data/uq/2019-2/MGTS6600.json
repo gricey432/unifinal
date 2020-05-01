@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3x Annotated bibliography for Readings 1-3",
+			"weight": 9
+		},
+		{
+			"name": "7x Translational Research Tweets",
+			"weight": 21
+		},
+		{
+			"name": "7x Annotated bibliography for Readings 4-10",
+			"weight": 70
+		}
+	]
+}

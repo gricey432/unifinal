@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Implementation of Recent Educational Developments",
+			"weight": "Pass/Fail 2000 words"
+		},
+		{
+			"name": "Observations, lesson plans & teaching philosophy",
+			"weight": "Pass/Fail 3000 words"
+		}
+	]
+}

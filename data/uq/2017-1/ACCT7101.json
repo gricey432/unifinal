@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quizes",
+			"weight": 30
+		},
+		{
+			"name": "Financial Report Analysis and Decision Making",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Student presentation",
+			"weight": 10
+		},
+		{
+			"name": "Plant disease project - applying Koch's rules",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "End of semester Exam",
+			"weight": 20
+		}
+	]
+}

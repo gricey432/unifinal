@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Management Clinical Case Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "PASS/FAIL (To pass the course, students must pass the summative CPA)"
+		},
+		{
+			"name": "Diagnostic Clinical Case Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "Multiple Choice Question (MCQ) Exam",
+			"weight": "Equal"
+		}
+	]
+}

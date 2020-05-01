@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Community Placement Attendance & Evaluation",
+			"weight": 0
+		},
+		{
+			"name": "Hospital Pharmacy Placement/Visit",
+			"weight": 0
+		},
+		{
+			"name": "Consultation Exam",
+			"weight": 25
+		},
+		{
+			"name": "Five (5) Reflective Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Dispensing Examination",
+			"weight": 0
+		},
+		{
+			"name": "Written End-of-Semester Examination",
+			"weight": 55
+		}
+	]
+}

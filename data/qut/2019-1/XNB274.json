@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Movement Analysis Examination",
+			"weight": 50
+		},
+		{
+			"name": "Written Examination",
+			"weight": 50
+		}
+	]
+}

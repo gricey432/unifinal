@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly summaries of set texts",
+			"weight": 14
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 6
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Summary & Comparison of Selected Texts: 1000 words",
+			"weight": 35
+		}
+	]
+}

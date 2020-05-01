@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch and portfolio of evidence",
+			"weight": 20
+		},
+		{
+			"name": "Treatment proposal",
+			"weight": 20
+		},
+		{
+			"name": "Story package",
+			"weight": 60
+		}
+	]
+}

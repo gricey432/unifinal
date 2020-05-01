@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "online discussion and in-class discussion ",
+			"weight": 35
+		},
+		{
+			"name": "define keywords ",
+			"weight": 30
+		},
+		{
+			"name": "research paper ",
+			"weight": 35
+		}
+	]
+}

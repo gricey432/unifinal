@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lectures and Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Assessment Task 1 (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 2 ",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 3 (Individual)",
+			"weight": 40
+		}
+	]
+}

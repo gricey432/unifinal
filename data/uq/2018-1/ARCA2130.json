@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on a Turkish archaeological site",
+			"weight": 30
+		},
+		{
+			"name": "Essay in Turkish Archaeology",
+			"weight": 40
+		},
+		{
+			"name": "Final exam (online)",
+			"weight": 30
+		}
+	]
+}

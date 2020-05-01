@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Industry Project (Report/Presentation)",
+			"weight": 40
+		},
+		{
+			"name": "Ad pitch",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

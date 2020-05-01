@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 30
+		},
+		{
+			"name": "Doing things with Foucault/Serres",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

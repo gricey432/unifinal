@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Essays (1200 words each)",
+			"weight": 75
+		}
+	]
+}

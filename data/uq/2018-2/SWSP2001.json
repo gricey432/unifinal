@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets: Reflection and analysis",
+			"weight": 15
+		},
+		{
+			"name": "Facilitated class discussion",
+			"weight": 30
+		},
+		{
+			"name": "A critical examination of legislation or policy",
+			"weight": 55
+		}
+	]
+}

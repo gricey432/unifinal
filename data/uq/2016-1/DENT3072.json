@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Sessions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "OSCE",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

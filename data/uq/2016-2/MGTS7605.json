@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Job Analysis Project",
+			"weight": 25
+		},
+		{
+			"name": "Performance Management/Appraisal System",
+			"weight": 40
+		}
+	]
+}

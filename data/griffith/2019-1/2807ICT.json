@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Module 2 workshops",
+			"weight": 15
+		},
+		{
+			"name": "Module 3 Workshops",
+			"weight": 15
+		},
+		{
+			"name": "Module 4 Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

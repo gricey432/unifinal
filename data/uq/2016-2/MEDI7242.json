@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Paper 10 best resources on...",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Group assignment and presentation",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Summary writing",
+			"weight": 5
+		},
+		{
+			"name": "Argumentative genre",
+			"weight": 5
+		},
+		{
+			"name": "Opening & closing paragraphs",
+			"weight": 5
+		},
+		{
+			"name": "Problem-solving genre",
+			"weight": 5
+		},
+		{
+			"name": "Research Paper",
+			"weight": 25
+		},
+		{
+			"name": "Team Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Final Examination",
+			"weight": 40
+		}
+	]
+}

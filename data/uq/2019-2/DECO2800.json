@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "GIT Exercise",
+			"weight": 0
+		},
+		{
+			"name": "Team Charter",
+			"weight": 0
+		},
+		{
+			"name": "First Ticket",
+			"weight": 0
+		},
+		{
+			"name": "Sprint 1 Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Team Work Process",
+			"weight": 10
+		},
+		{
+			"name": "Sprint 2 Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Sprint 3 Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Course Content Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Sprint 4 Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Sprint 5 Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Individual Portfolio",
+			"weight": 20
+		}
+	]
+}

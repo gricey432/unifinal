@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Assessment: Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Essay Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

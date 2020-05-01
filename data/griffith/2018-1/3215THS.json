@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "HOTS quiz",
+			"weight": 30
+		},
+		{
+			"name": "HOTS Balanced Scorecard",
+			"weight": 30
+		},
+		{
+			"name": "Hotel Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		}
+	]
+}

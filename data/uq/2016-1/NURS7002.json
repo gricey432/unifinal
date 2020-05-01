@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Physical Examination (PE) x 4 ",
+			"weight": 25
+		},
+		{
+			"name": "X-ray interpretation",
+			"weight": 25
+		},
+		{
+			"name": "X-ray interpretation Abdominal ",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Viva voce- Full Episode of Care",
+			"weight": 50
+		},
+		{
+			"name": "X-ray Interpretation Distal Limb",
+			"weight": "Pass/Fail "
+		}
+	]
+}

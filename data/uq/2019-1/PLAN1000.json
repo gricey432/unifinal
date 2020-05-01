@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Local Planning Report",
+			"weight": 35
+		},
+		{
+			"name": "Urban Design Report and Video Presentation",
+			"weight": 35
+		},
+		{
+			"name": "On Line Quiz ",
+			"weight": 30
+		}
+	]
+}

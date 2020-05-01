@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Job application package",
+			"weight": 40
+		},
+		{
+			"name": "A written response to an exhibitor at MILE",
+			"weight": 10
+		},
+		{
+			"name": "Industry Placement & Reflective Portfolio ",
+			"weight": 50
+		}
+	]
+}

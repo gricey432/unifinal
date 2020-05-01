@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical laboratory worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Weekly problem sets",
+			"weight": 20
+		},
+		{
+			"name": "Reading quiz",
+			"weight": "Must complete 75"
+		},
+		{
+			"name": "Participation in clicker questions",
+			"weight": 3
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester test",
+			"weight": 40
+		},
+		{
+			"name": "OHS Case Study Reports",
+			"weight": 30
+		},
+		{
+			"name": "Paddington Train Disaster",
+			"weight": 5
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": 5
+		},
+		{
+			"name": "Bhopal",
+			"weight": 5
+		},
+		{
+			"name": "Piper Alpha",
+			"weight": 5
+		},
+		{
+			"name": "Legislation Quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Photo Essay on Innovation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective essay on Back-Bay Battery simulation",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

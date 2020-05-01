@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical, Legal & Professional Conduct",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Part I: Diagnosis",
+			"weight": 50
+		},
+		{
+			"name": "Part II: Revised Diagnosis & Final Proposal ",
+			"weight": 50
+		}
+	]
+}

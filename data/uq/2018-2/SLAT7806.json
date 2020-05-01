@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and Reading assignment",
+			"weight": 11
+		},
+		{
+			"name": "Research seminar web-log",
+			"weight": 9
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "P/F"
+		},
+		{
+			"name": "Library research project",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal, presentation, & peer assessment",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch presentation (group assignment)",
+			"weight": 10
+		},
+		{
+			"name": "Group assignment",
+			"weight": 60
+		},
+		{
+			"name": "Final presentation",
+			"weight": 30
+		}
+	]
+}

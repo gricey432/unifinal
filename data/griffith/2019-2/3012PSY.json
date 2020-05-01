@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester exam",
+			"weight": 20
+		},
+		{
+			"name": "Critical reflection activity",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal; 2000 words",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Test Administration",
+			"weight": 20
+		},
+		{
+			"name": "Psychological Report & Court Letter",
+			"weight": 50
+		}
+	]
+}

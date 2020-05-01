@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1 and 2",
+			"weight": 50
+		},
+		{
+			"name": "Real World Project",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Mid- Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "ePortfolio & LinkedIn Profile",
+			"weight": 10
+		},
+		{
+			"name": "Experiment 1 practical write-up",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Workbook",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module Activities",
+			"weight": 12
+		},
+		{
+			"name": "Participation in Group Discussion",
+			"weight": 18
+		},
+		{
+			"name": "Written Abstract ",
+			"weight": 15
+		},
+		{
+			"name": "Critical Appraisal Journal Club Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Journal Club Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Drug Information Response",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom Physical Activity Integration",
+			"weight": 65
+		},
+		{
+			"name": "Applying for Funding for a School PA Program",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HPE Fundamentals",
+			"weight": 15
+		},
+		{
+			"name": "Unit critique & redesign",
+			"weight": 45
+		},
+		{
+			"name": "\"Conversation\" article",
+			"weight": 40
+		}
+	]
+}

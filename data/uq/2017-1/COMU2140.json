@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study of a Media Company",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of a Media Firm",
+			"weight": 35
+		},
+		{
+			"name": "Research Report on Digital Disruptions",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Log of learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Written tasks (compiti)",
+			"weight": 50
+		},
+		{
+			"name": "Oral Exam on 'American Parmigiano'",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation on 'Io e te'",
+			"weight": 20
+		},
+		{
+			"name": "Oral exams on 'Una storia semplice'",
+			"weight": 10
+		}
+	]
+}

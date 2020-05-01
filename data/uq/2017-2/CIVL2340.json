@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tension and Compression",
+			"weight": 5
+		},
+		{
+			"name": "Compression and Bending",
+			"weight": 5
+		},
+		{
+			"name": "Bending",
+			"weight": 5
+		},
+		{
+			"name": "Combined Actions and Shear",
+			"weight": 5
+		},
+		{
+			"name": "Loads on Structures",
+			"weight": 5
+		},
+		{
+			"name": "Design of Connections",
+			"weight": 5
+		},
+		{
+			"name": "Final Examamination",
+			"weight": 70
+		}
+	]
+}

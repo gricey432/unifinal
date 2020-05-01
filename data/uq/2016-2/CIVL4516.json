@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Design report - Brief 1",
+			"weight": 25
+		},
+		{
+			"name": "Design report - Brief 2",
+			"weight": 35
+		},
+		{
+			"name": "Group Assessment - Brief 1",
+			"weight": 0
+		},
+		{
+			"name": "Design Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Tender - Design Brief 1",
+			"weight": 10
+		},
+		{
+			"name": "Tender - Design Brief 2",
+			"weight": 10
+		},
+		{
+			"name": "Design Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Assessment - Brief 2",
+			"weight": 0
+		}
+	]
+}

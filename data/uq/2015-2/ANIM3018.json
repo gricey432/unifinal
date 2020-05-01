@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TEAM data analysis",
+			"weight": 30
+		},
+		{
+			"name": "Wildlife project",
+			"weight": 50
+		},
+		{
+			"name": "Wildlife project presentation",
+			"weight": 20
+		}
+	]
+}

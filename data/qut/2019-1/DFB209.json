@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Fashion Exhibition Website",
+			"weight": 40
+		},
+		{
+			"name": "Fashion History Critique",
+			"weight": 60
+		}
+	]
+}

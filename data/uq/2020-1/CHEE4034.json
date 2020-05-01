@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In class Quizzes (2 in total)",
+			"weight": 10
+		},
+		{
+			"name": "Online Quizzes (6 in total, best 5 used)",
+			"weight": 10
+		},
+		{
+			"name": "Virtual laboratory Report",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "C&T Engineering Innovation Project Proposal",
+			"weight": 45
+		},
+		{
+			"name": "C&T Engineering Innovation Project Pitch",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blog",
+			"weight": 10
+		},
+		{
+			"name": "Fichier",
+			"weight": 10
+		},
+		{
+			"name": "Forum recording - Devinette",
+			"weight": 10
+		},
+		{
+			"name": "Interview Radiophonique",
+			"weight": 20
+		},
+		{
+			"name": "Written and Listening exam",
+			"weight": 40
+		}
+	]
+}

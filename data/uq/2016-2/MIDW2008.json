@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio 1 -  Formative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 2 - Summative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Birthing requirements",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA Simulation ",
+			"weight": "NGP"
+		}
+	]
+}

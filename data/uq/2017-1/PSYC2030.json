@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation Questions",
+			"weight": 10
+		},
+		{
+			"name": "Quiz #1",
+			"weight": 9
+		},
+		{
+			"name": "Attachment: How Much Influence?",
+			"weight": 30
+		},
+		{
+			"name": "Quiz #2",
+			"weight": 16
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

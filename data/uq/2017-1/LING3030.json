@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets",
+			"weight": 13
+		},
+		{
+			"name": "Research project 1",
+			"weight": 29
+		},
+		{
+			"name": "Research project 2",
+			"weight": 29
+		},
+		{
+			"name": "Research project 3",
+			"weight": 29
+		}
+	]
+}

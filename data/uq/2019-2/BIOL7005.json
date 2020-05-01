@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Observational log of research and discussions",
+			"weight": 10
+		},
+		{
+			"name": "Grant application",
+			"weight": 90
+		}
+	]
+}

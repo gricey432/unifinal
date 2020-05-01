@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester multiple choice exam",
+			"weight": 20
+		},
+		{
+			"name": "Student presentation",
+			"weight": 30
+		},
+		{
+			"name": "Fieldwork Project Report",
+			"weight": 50
+		}
+	]
+}

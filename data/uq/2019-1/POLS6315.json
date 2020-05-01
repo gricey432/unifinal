@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Statement of Intent paper (1250w)",
+			"weight": 20
+		},
+		{
+			"name": "Annotated thesis bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (3 500w)",
+			"weight": 50
+		}
+	]
+}

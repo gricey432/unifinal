@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises for Weeks 2-13",
+			"weight": 40
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

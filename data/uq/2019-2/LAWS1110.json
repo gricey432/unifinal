@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises (various weeks)",
+			"weight": 25
+		},
+		{
+			"name": "Human Rights and Criminal Justice",
+			"weight": 40
+		},
+		{
+			"name": "Understanding Courts",
+			"weight": 35
+		}
+	]
+}

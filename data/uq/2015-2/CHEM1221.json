@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop booklets",
+			"weight": 7
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 22
+		},
+		{
+			"name": "Laboratory Class - 5 practicals",
+			"weight": 20
+		},
+		{
+			"name": "Mastering Chemistry Online Computer quizzes",
+			"weight": 7
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 42
+		}
+	]
+}

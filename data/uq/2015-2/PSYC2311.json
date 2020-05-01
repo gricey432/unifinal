@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Individual Case Report",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 40
+		}
+	]
+}

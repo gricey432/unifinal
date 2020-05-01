@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Presentation and written paper",
+			"weight": 25
+		},
+		{
+			"name": "Analysis of a theoretical approach",
+			"weight": 30
+		},
+		{
+			"name": "Final Paper",
+			"weight": 35
+		}
+	]
+}

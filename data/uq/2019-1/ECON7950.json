@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Diary 1 (750 Words)",
+			"weight": 7
+		},
+		{
+			"name": "1,000-word review of journal article - JAR 1",
+			"weight": 18
+		},
+		{
+			"name": "750-word research proposal topic",
+			"weight": 10
+		},
+		{
+			"name": "1,000-word review of journal article - JAR 2",
+			"weight": 18
+		},
+		{
+			"name": "Learning Diary 2: 750 words",
+			"weight": 7
+		},
+		{
+			"name": "3,000-word research proposal",
+			"weight": 40
+		}
+	]
+}

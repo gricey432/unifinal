@@ -1,0 +1,26 @@
+name: Upload Websites
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - run: |
+          pushdir client
+          yarn install
+          yarn build:production
+          popdir
+      - run: |
+          aws s3 sync ./client/dist/uq s3://uqfinal --endpoint=https://nyc3.digitaloceanspaces.com
+          aws s3 sync ./data/uq s3://uqfinal/data --endpoint=https://nyc3.digitaloceanspaces.com
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

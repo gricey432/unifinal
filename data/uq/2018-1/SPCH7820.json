@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice (Module 1)",
+			"weight": "Pass/Fail MUST PASS."
+		},
+		{
+			"name": "Mid-semester examination (Module 2)",
+			"weight": "This exam is worth 40"
+		},
+		{
+			"name": "Final examination (Module 2)",
+			"weight": "This exam is worth 60"
+		}
+	]
+}

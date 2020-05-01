@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Microbiology andInfection Control Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of Modules 1, 2 & 3",
+			"weight": 45
+		},
+		{
+			"name": "Online invigilated Assessment of Modules 4, 5 & 6",
+			"weight": 45
+		}
+	]
+}

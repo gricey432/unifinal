@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Qualitative Analysis &amp; Coding",
+			"weight": 40
+		},
+		{
+			"name": "Open Book Lab-Based Exam",
+			"weight": 20
+		},
+		{
+			"name": "Research Brief",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Early Prototype",
+			"weight": 20
+		},
+		{
+			"name": "Work-in-Progress",
+			"weight": 25
+		},
+		{
+			"name": "Final Delivery",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio & Participation",
+			"weight": 25
+		}
+	]
+}

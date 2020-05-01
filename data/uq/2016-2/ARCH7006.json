@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research, Field Trip and Project concept",
+			"weight": 40
+		},
+		{
+			"name": "Architectural Project ",
+			"weight": 60
+		}
+	]
+}

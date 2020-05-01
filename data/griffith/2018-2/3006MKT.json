@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester quiz",
+			"weight": 20
+		},
+		{
+			"name": "Service Design and Standard Report (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

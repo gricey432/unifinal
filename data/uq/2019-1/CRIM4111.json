@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Critique",
+			"weight": 20
+		},
+		{
+			"name": "Project Proposal Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Honours Project Proposal",
+			"weight": 50
+		}
+	]
+}

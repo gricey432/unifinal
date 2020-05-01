@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Notebook (Weeks 1-13)",
+			"weight": 9
+		},
+		{
+			"name": "Online Quiz (optional) (Weeks 2-6)",
+			"weight": 5
+		},
+		{
+			"name": "Written Reports (Weeks 1-6)",
+			"weight": 36
+		},
+		{
+			"name": "Extended investigation (Weeks 7-13)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Reading Test",
+			"weight": 15
+		},
+		{
+			"name": "Intercultural conversation project",
+			"weight": 20
+		},
+		{
+			"name": "Mid-term exam",
+			"weight": 20
+		},
+		{
+			"name": "Final oral interview",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Write Up - Seeds",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam - Open Book",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Write Up - Photosynthesis",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Write Up - Flowering",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination - Open Book",
+			"weight": 40
+		}
+	]
+}

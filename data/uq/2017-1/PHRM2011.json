@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes (x5)",
+			"weight": 10
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Overview",
+			"weight": 15
+		},
+		{
+			"name": "Written Exam",
+			"weight": 55
+		},
+		{
+			"name": "Consultation Exam",
+			"weight": 20
+		}
+	]
+}

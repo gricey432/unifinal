@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory online Laboratory Safety Training",
+			"weight": 80
+		},
+		{
+			"name": "Progressive quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Video presentation of a scientific paper",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Practical Sessions",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - End of semester",
+			"weight": 30
+		}
+	]
+}

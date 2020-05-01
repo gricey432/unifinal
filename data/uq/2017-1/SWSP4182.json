@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Developmentally appropriate communication prop",
+			"weight": 10
+		},
+		{
+			"name": "Youth justice simulation",
+			"weight": 5
+		},
+		{
+			"name": "Social with Children, Young People and Families",
+			"weight": 45
+		},
+		{
+			"name": "Collaborative Family Work Simulation and Analysis",
+			"weight": 40
+		}
+	]
+}

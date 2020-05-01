@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester take-home exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester assignment",
+			"weight": 40
+		}
+	]
+}

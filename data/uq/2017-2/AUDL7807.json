@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "One page written summary of your presentation",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Module 1 topic",
+			"weight": 0
+		},
+		{
+			"name": "One page written summary of your presentation",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Module 2 topic",
+			"weight": 0
+		},
+		{
+			"name": "One page written summary of your presentation",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Module 3 topic",
+			"weight": 0
+		},
+		{
+			"name": "One page written summary of your presentation",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Module 4 topic",
+			"weight": 0
+		},
+		{
+			"name": "Online Module on Aboriginal Cultural Orientation",
+			"weight": 0
+		},
+		{
+			"name": "Short Essay on Module 1 topic",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Module 2 topic",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Module 3 topic",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Module 4 topic",
+			"weight": 25
+		}
+	]
+}

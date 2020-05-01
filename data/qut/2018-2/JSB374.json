@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Policy Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Applied Case Study",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Panel Discussion",
+			"weight": 25
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

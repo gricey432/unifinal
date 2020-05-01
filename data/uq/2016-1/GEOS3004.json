@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Profile Page",
+			"weight": 0
+		},
+		{
+			"name": "Reading Reflection #1",
+			"weight": 10
+		},
+		{
+			"name": "Reading Reflection #2",
+			"weight": 10
+		},
+		{
+			"name": "Consultancy Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Course Field Booklet",
+			"weight": 30
+		},
+		{
+			"name": "Group presentation",
+			"weight": 30
+		}
+	]
+}

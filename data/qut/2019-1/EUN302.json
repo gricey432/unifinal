@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short statement",
+			"weight": 0
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 0
+		},
+		{
+			"name": "Short film",
+			"weight": 0
+		},
+		{
+			"name": "Diagnostic assessment",
+			"weight": 0
+		}
+	]
+}

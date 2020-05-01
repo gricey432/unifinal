@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Summary of weekly readings",
+			"weight": 10
+		},
+		{
+			"name": "Research essay proposal & annotated bibliography ",
+			"weight": 20
+		},
+		{
+			"name": "Peer assessment of research proposal",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay(2500 words)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Vid Presentation: \"This is me\"",
+			"weight": 10
+		},
+		{
+			"name": "Video Project 1",
+			"weight": 40
+		},
+		{
+			"name": "Video Project 2",
+			"weight": 50
+		}
+	]
+}

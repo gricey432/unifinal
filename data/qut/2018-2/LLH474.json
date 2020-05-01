@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Problem-solving Task",
+			"weight": 40
+		},
+		{
+			"name": "Internal Memo",
+			"weight": 60
+		}
+	]
+}

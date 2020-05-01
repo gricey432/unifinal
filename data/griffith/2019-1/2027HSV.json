@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Group Process",
+			"weight": 25
+		},
+		{
+			"name": "Facilitation Session",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis of Facilitation Session",
+			"weight": 45
+		},
+		{
+			"name": "Reflection on Group Process ",
+			"weight": 25
+		},
+		{
+			"name": "Facilitation Session",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis of Facilitation Session",
+			"weight": 45
+		}
+	]
+}

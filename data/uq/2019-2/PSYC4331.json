@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Presenting contemporary research",
+			"weight": 30
+		},
+		{
+			"name": "Critical Essay on contemporary research",
+			"weight": 50
+		}
+	]
+}

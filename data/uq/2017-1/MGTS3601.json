@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article Critique by Individual",
+			"weight": 20
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

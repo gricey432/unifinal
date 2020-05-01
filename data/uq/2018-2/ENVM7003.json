@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Applied exercises",
+			"weight": 30
+		},
+		{
+			"name": "Topical Essay",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on Practical 1",
+			"weight": 10
+		},
+		{
+			"name": "Detection of Genes and/or gene products in cells",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam: Modules and 2",
+			"weight": 20
+		},
+		{
+			"name": "End of semester online invigilated exam",
+			"weight": 60
+		}
+	]
+}

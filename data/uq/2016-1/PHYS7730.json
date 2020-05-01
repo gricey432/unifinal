@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research",
+			"weight": 0
+		},
+		{
+			"name": "Research report",
+			"weight": 100
+		},
+		{
+			"name": "Mid-Semester Progress Report",
+			"weight": 0
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

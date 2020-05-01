@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 01 Strategic Planning",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 02 Industry Collaboration",
+			"weight": 50
+		}
+	]
+}

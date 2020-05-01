@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Goal-setting blog",
+			"weight": 10
+		},
+		{
+			"name": "Reflective blogs",
+			"weight": 20
+		},
+		{
+			"name": "Written assignment plan",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Post-tutorial synthesis",
+			"weight": 25
+		},
+		{
+			"name": "Pre-tutorial preparation",
+			"weight": 10
+		},
+		{
+			"name": "Skills test",
+			"weight": 20
+		},
+		{
+			"name": "Main Project",
+			"weight": 45
+		}
+	]
+}

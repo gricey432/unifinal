@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "6 Prac Sessions;2 Lab Reports;Laboratory Notebook",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

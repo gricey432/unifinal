@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pharmacy Practice 2 - QUIZ 1 (Week 3)",
+			"weight": 2
+		},
+		{
+			"name": "Pharmacy Practice 2 - QUIZ 2 (Week 4)",
+			"weight": 2
+		},
+		{
+			"name": "Practical Assessment: Application of the law",
+			"weight": 15
+		},
+		{
+			"name": "My placement: A reflection",
+			"weight": 10
+		},
+		{
+			"name": "Prescription Processing / Dispensing Law",
+			"weight": 20
+		},
+		{
+			"name": "End-of-semester written examination",
+			"weight": 50
+		}
+	]
+}

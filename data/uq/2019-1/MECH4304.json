@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Prac #1: Solidification Microstructures",
+			"weight": 20
+		},
+		{
+			"name": "Prac #2: Sand Casting",
+			"weight": 20
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 60
+		}
+	]
+}

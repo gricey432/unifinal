@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Expectations",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Sport Education model",
+			"weight": 15
+		},
+		{
+			"name": "Sport Education model",
+			"weight": 25
+		},
+		{
+			"name": "Peer Teaching - Planning, Teaching, & Reflecting",
+			"weight": 40
+		},
+		{
+			"name": "Reflection on teaching of FMS",
+			"weight": 20
+		},
+		{
+			"name": "Certification",
+			"weight": "Pass / Fail"
+		}
+	]
+}

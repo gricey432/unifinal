@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "*'Learned Standpoint'",
+			"weight": 10
+		},
+		{
+			"name": "'This Is Where I Stand'",
+			"weight": 35
+		},
+		{
+			"name": "'This Is My Website'",
+			"weight": 35
+		},
+		{
+			"name": "'This Is What I Now Know'",
+			"weight": 20
+		}
+	]
+}

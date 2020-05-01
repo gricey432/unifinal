@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets and participation",
+			"weight": 10
+		},
+		{
+			"name": "Sociological analysis of media item",
+			"weight": 20
+		},
+		{
+			"name": "Research essay",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (1200 words)",
+			"weight": 30
+		}
+	]
+}

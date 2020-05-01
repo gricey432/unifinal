@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 3 online group discussion",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 Making Connections Video diary",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 1 MCPR background",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 4 MCPR Foreground",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Parliamentary Report",
+			"weight": 40
+		},
+		{
+			"name": "Policy Submission and Strategy",
+			"weight": 60
+		}
+	]
+}

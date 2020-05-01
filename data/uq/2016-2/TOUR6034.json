@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mega Trend Drivers and Implications",
+			"weight": 50
+		},
+		{
+			"name": "Innovation Report",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 20
+		}
+	]
+}

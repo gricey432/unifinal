@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Poster",
+			"weight": 40
+		},
+		{
+			"name": "Chronic Illness ConsumerCaseSt",
+			"weight": 60
+		}
+	]
+}

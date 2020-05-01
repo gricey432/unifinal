@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Endodontics In class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Preclinical competency - Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "Removable prosthodontics - clinical competency",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Written End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

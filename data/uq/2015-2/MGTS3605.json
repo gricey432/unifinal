@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Enterprise bargaining exercise",
+			"weight": 40
+		},
+		{
+			"name": "EBA Personal Reflection",
+			"weight": 20
+		}
+	]
+}

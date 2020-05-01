@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated readings list",
+			"weight": 20
+		},
+		{
+			"name": "DRAFT Review report",
+			"weight": 20
+		},
+		{
+			"name": "Review report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project plan: Option 1 & 2 (milestone task)",
+			"weight": 0
+		},
+		{
+			"name": "Project/Thesis Draft: Options 1 & 2 (milestone)",
+			"weight": 0
+		},
+		{
+			"name": "Final sub Option 1: Communication research thesis",
+			"weight": 100
+		},
+		{
+			"name": "Final submission Option 2: Communication project ",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 2: Five quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 1: Parenting Strategies Summary ",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Presentation and feedback",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4: Observational coding",
+			"weight": 20
+		}
+	]
+}

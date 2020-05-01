@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practicum",
+			"weight": 0
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Patient Safety and Inter-Professional Essay",
+			"weight": 50
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": 30
+		}
+	]
+}

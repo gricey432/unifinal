@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

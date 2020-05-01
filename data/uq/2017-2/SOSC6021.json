@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Title, Abstract and Introduction",
+			"weight": 30
+		},
+		{
+			"name": "Critical literature review/theoretical framework",
+			"weight": 30
+		},
+		{
+			"name": "Final Draft of Paper (Front-End)",
+			"weight": 40
+		}
+	]
+}

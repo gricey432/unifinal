@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Preliminary literature review",
+			"weight": 8
+		},
+		{
+			"name": "Group Assignment 1. Prelim Hazard Analysis (PHA)",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment for Group Assignment 1",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Group Assignment 2. System Hazard Analysis (SHA)",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment for Group Assignment 2",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Assignment 3. Literature review",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 32
+		}
+	]
+}

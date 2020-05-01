@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short Answer Questions",
+			"weight": 60
+		},
+		{
+			"name": "Invigilated Exam",
+			"weight": 40
+		}
+	]
+}

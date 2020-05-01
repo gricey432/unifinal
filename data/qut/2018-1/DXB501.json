@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Research Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Tangible Media Prototype",
+			"weight": 60
+		}
+	]
+}

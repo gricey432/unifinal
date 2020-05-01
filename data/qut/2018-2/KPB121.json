@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Presentation",
+			"weight": 50
+		},
+		{
+			"name": "YouTube concept",
+			"weight": 50
+		}
+	]
+}

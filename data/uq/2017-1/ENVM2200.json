@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Scoping for the report",
+			"weight": 15
+		},
+		{
+			"name": "Participation (weeks 9-13 lectures)  ",
+			"weight": 5
+		},
+		{
+			"name": "Biodiversity planning and management",
+			"weight": 30
+		},
+		{
+			"name": "Communicating conservation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		}
+	]
+}

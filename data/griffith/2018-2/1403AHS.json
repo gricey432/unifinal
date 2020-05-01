@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Career Focus Assessment Task",
+			"weight": 10
+		},
+		{
+			"name": "Practical Viva (mid-trimester)",
+			"weight": 10
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Written Exam",
+			"weight": 40
+		},
+		{
+			"name": "Practical Viva (end-trimester)",
+			"weight": 20
+		}
+	]
+}

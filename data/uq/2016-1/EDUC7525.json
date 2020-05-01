@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and review",
+			"weight": 25
+		},
+		{
+			"name": "Child Study",
+			"weight": 35
+		},
+		{
+			"name": "Short essays",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory written reports",
+			"weight": 20
+		},
+		{
+			"name": "Problem sets",
+			"weight": 50
+		},
+		{
+			"name": "Oral exam",
+			"weight": "Not required to pass, 12 marks"
+		},
+		{
+			"name": "Project",
+			"weight": "Not required to pass, 12 marks"
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

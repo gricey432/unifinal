@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of hotel operations",
+			"weight": 30
+		},
+		{
+			"name": "Operational Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

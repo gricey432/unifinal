@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Earmould Impressions",
+			"weight": 25
+		},
+		{
+			"name": "REM",
+			"weight": 15
+		},
+		{
+			"name": "AUDL7823 Final Examination",
+			"weight": 60
+		}
+	]
+}

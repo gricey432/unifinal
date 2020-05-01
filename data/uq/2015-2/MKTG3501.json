@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Industry Project Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Industry Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Professional requirements",
+			"weight": 0
+		},
+		{
+			"name": "Assessment of communication (Video)",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Theory Exam (MCQ & Short Answer)",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Soft Tissue Mobilisation Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Movement Analysis Exam (MCQ)",
+			"weight": 10
+		},
+		{
+			"name": "Written Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Two problem-based tutorial quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of 'Churnalism'",
+			"weight": 50
+		}
+	]
+}

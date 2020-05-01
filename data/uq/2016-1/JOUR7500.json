@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Led Online Discussion Forum",
+			"weight": "Pass/Fail 2000 words over 6 topics"
+		},
+		{
+			"name": "The professional landscape & key ethical issues",
+			"weight": 30
+		},
+		{
+			"name": "Legal and Ethical case study and critical analysis",
+			"weight": 70
+		}
+	]
+}

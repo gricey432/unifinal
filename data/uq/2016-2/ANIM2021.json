@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports",
+			"weight": 25
+		},
+		{
+			"name": "Climate change impacts on animals",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Massing Models",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: The Whole and the Parts ",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Tectonic and Precision",
+			"weight": 50
+		}
+	]
+}

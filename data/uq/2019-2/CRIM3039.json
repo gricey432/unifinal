@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project",
+			"weight": 50
+		},
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Theory Application Paper",
+			"weight": 40
+		}
+	]
+}

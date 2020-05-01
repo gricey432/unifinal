@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Log of Simulation - Everest",
+			"weight": 10
+		},
+		{
+			"name": "Team-based learning activities",
+			"weight": 15
+		},
+		{
+			"name": "Written Analysis of Everest Simulation",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

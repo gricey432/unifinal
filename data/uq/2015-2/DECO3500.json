@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project idea",
+			"weight": 10
+		},
+		{
+			"name": "Oral pitch and project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Design Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Reflection",
+			"weight": 30
+		}
+	]
+}

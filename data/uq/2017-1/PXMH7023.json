@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Mental Health in Australian Health Care System",
+			"weight": 20
+		},
+		{
+			"name": "Fields of Practice in Mental Health",
+			"weight": 50
+		},
+		{
+			"name": "Reflection on and analysis of tutorial reading",
+			"weight": 30
+		}
+	]
+}

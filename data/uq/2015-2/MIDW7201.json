@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quality use of medicines scenarios x 5",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quality use of medicines case studies x 2",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Prescribing Formulary Portfolio",
+			"weight": 50
+		}
+	]
+}

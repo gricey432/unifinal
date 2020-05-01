@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of three research papers",
+			"weight": 10
+		},
+		{
+			"name": "Topic, aim, questions and introduction",
+			"weight": 15
+		},
+		{
+			"name": "Comparative description of research methods",
+			"weight": 15
+		},
+		{
+			"name": "Draft Project Proposal (for Review)",
+			"weight": 0
+		},
+		{
+			"name": "Peer review of research proposal",
+			"weight": 10
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Written project proposal",
+			"weight": 35
+		},
+		{
+			"name": "Response to Review Comments",
+			"weight": 5
+		}
+	]
+}

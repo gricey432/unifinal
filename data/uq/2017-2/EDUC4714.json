@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "GTPA and Professional Portfolio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

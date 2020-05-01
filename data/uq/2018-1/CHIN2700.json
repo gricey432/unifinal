@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 45
+		},
+		{
+			"name": "Multiple-choice e-quizzes on Bb",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Analyse elements present in one health video",
+			"weight": 15
+		},
+		{
+			"name": "Individual written assignment",
+			"weight": 50
+		},
+		{
+			"name": "Group presentation",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 10
+		}
+	]
+}

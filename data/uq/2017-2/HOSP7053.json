@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership Coaching Video",
+			"weight": 25
+		},
+		{
+			"name": "Leadership Analysis and Self-Evaluation",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

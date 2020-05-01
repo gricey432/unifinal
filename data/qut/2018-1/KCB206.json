@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Digital Strategy Critique",
+			"weight": 40
+		}
+	]
+}

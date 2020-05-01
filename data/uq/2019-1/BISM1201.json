@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz #1 and #2 BPMN, Excel and ISD",
+			"weight": 30
+		},
+		{
+			"name": "Business Solutions-EXCEL/BPMN/ISD - Group Based",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

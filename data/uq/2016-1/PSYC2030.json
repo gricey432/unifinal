@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Discussion Questions",
+			"weight": 10
+		},
+		{
+			"name": "Quiz #1 Week 6",
+			"weight": 9
+		},
+		{
+			"name": "Topic given below",
+			"weight": 30
+		},
+		{
+			"name": "Quiz #2 Week 12",
+			"weight": 16
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group assignment - Report & Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory exercise",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Exercise 2",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

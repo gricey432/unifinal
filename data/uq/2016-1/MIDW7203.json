@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Development of a learning contract",
+			"weight": 40
+		},
+		{
+			"name": "Completion of the Learning Contract",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Blog",
+			"weight": 10
+		}
+	]
+}

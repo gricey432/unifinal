@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Informed Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly response to readings",
+			"weight": 20
+		},
+		{
+			"name": "Opinion piece & letters",
+			"weight": 30
+		},
+		{
+			"name": "Contemporary Australia: an exhibition",
+			"weight": 40
+		}
+	]
+}

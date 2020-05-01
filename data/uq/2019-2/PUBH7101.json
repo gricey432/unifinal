@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online short answer Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Communicable Disease Outbreak Control Plan",
+			"weight": 50
+		},
+		{
+			"name": "Short answer question assignment",
+			"weight": 25
+		}
+	]
+}

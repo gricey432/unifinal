@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Advising and Presentation Sessions",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Design Package 1",
+			"weight": 20
+		},
+		{
+			"name": "Design Package 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Design Package",
+			"weight": 60
+		},
+		{
+			"name": "Final Presentation",
+			"weight": "Inluded in weighting of final design package"
+		}
+	]
+}

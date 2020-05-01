@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HPE Fundamentals",
+			"weight": 15
+		},
+		{
+			"name": "Design an integrated HPE unit of work",
+			"weight": 45
+		},
+		{
+			"name": "Teaching showcase interview",
+			"weight": 40
+		}
+	]
+}

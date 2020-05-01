@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MID-SEMESTER EXAM",
+			"weight": 40
+		},
+		{
+			"name": "RESEARCH PROPOSAL PRESENTATION",
+			"weight": 10
+		},
+		{
+			"name": "END OF SEMESTER EXAM",
+			"weight": 50
+		}
+	]
+}

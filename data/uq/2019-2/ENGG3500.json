@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Online self-study quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Daily in class quizzes (iCQ)",
+			"weight": 10
+		},
+		{
+			"name": "PS1 - fluid properties and phase behaviour",
+			"weight": 6
+		},
+		{
+			"name": "PS2-virtual core lab problems",
+			"weight": 2
+		},
+		{
+			"name": "PS-3 Single phase flow equations",
+			"weight": 2
+		},
+		{
+			"name": "Mid-semester in class quiz",
+			"weight": 10
+		},
+		{
+			"name": "PS-4 Material Balance Equations",
+			"weight": 2
+		},
+		{
+			"name": "PS-5 Water influx",
+			"weight": 2
+		},
+		{
+			"name": "PS-6 Water flooding and recovery methods",
+			"weight": 2
+		},
+		{
+			"name": "In-class group Reservoir assessment exercise",
+			"weight": 4
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

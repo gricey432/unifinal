@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Blog - Aged Care Clinical Visit",
+			"weight": 5
+		},
+		{
+			"name": "Falls Risk Factors and Management in Older People",
+			"weight": 20
+		},
+		{
+			"name": "Practical Exam - Balance and Vestibular",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 45
+		}
+	]
+}

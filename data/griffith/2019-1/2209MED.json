@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester exam",
+			"weight": 25
+		},
+		{
+			"name": "Oral Presentation of Intervention Critique",
+			"weight": 25
+		},
+		{
+			"name": "Intervention Critique",
+			"weight": 50
+		}
+	]
+}

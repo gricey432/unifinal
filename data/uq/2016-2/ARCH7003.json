@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Regulatory and site analysis",
+			"weight": 0
+		},
+		{
+			"name": "Task 2: Design precedent study",
+			"weight": 0
+		},
+		{
+			"name": "Task 3: Individual brief",
+			"weight": 20
+		},
+		{
+			"name": "Task 4: Interim Critique Design Submission",
+			"weight": 20
+		},
+		{
+			"name": "Pre-critique pin-up",
+			"weight": 0
+		},
+		{
+			"name": "Task 5: Final Design",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Company Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Corporate Communications Strategy",
+			"weight": 60
+		}
+	]
+}

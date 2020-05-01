@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communication across the lifespan",
+			"weight": 40
+		},
+		{
+			"name": "Standardised Patient Clinical assessment",
+			"weight": "MUST PASS Pass/Fail"
+		},
+		{
+			"name": "Clinic Functioning and Disorder",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

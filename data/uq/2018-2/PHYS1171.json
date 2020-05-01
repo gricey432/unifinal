@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-reading and class clicker questions",
+			"weight": 5
+		},
+		{
+			"name": "Weekly tutorial worksheets",
+			"weight": 5
+		},
+		{
+			"name": "Practical reports",
+			"weight": 20
+		},
+		{
+			"name": "Module Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 50
+		}
+	]
+}

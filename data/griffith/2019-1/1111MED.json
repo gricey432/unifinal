@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Communicating on an environmental health priority",
+			"weight": 45
+		},
+		{
+			"name": "Career Development Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engineering principles - Quiz 1-Week 5",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Test-Quiz 2-Week 8",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of existing structures",
+			"weight": 20
+		},
+		{
+			"name": "Design Project",
+			"weight": 50
+		}
+	]
+}

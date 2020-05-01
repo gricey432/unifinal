@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation ",
+			"weight": 5
+		},
+		{
+			"name": "HSK Test 1 in Week 1 and Test 2 in Week 13 ",
+			"weight": 5
+		},
+		{
+			"name": "Communication with NS",
+			"weight": 15
+		},
+		{
+			"name": "Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

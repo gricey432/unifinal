@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mastery of clinical skill assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Care of the woman with Gestational Diabetes",
+			"weight": 20
+		},
+		{
+			"name": "Care of complex pregnancy",
+			"weight": 30
+		},
+		{
+			"name": "Exam for MIDW2108",
+			"weight": 50
+		}
+	]
+}

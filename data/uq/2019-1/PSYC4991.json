@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and reflections on course content",
+			"weight": 15
+		},
+		{
+			"name": "Journal in two parts",
+			"weight": 15
+		},
+		{
+			"name": "In class presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay on Indigenous mental health and welling",
+			"weight": 40
+		}
+	]
+}

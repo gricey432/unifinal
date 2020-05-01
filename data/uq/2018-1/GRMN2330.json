@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Home Exercises ",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial presentation ",
+			"weight": 10
+		},
+		{
+			"name": "2000 words in English or in German",
+			"weight": 40
+		},
+		{
+			"name": "Oral Interview",
+			"weight": 30
+		}
+	]
+}

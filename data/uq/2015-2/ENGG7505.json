@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Examination - set by Heriot Watt University",
+			"weight": 100
+		},
+		{
+			"name": "Well flow in pipe computer simulation",
+			"weight": 0
+		}
+	]
+}

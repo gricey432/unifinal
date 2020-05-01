@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case study presentations and debates (in class)",
+			"weight": 5
+		},
+		{
+			"name": "Weekly in-class quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Online medical terminology course",
+			"weight": "P/F"
+		},
+		{
+			"name": "Case study write-up",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Participation",
+			"weight": 27
+		},
+		{
+			"name": "Research Essay (2200 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Final Exam (1500 words)",
+			"weight": 33
+		}
+	]
+}

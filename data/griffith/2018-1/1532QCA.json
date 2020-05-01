@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual ethnography Research Workbook and Instagram",
+			"weight": 30
+		},
+		{
+			"name": "Ethnographic interviewing Transcript, Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Sensory ethnography Chart, Infographic and Report",
+			"weight": 40
+		}
+	]
+}

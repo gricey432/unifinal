@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Physical Oceanography",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory report 1",
+			"weight": 10
+		},
+		{
+			"name": "Science skills and field activities",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 35
+		}
+	]
+}

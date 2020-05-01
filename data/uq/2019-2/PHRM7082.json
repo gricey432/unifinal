@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Medication Management Review",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Board 5",
+			"weight": 20
+		},
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Discussion Board 6",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Board 7",
+			"weight": 20
+		},
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 20
+		}
+	]
+}

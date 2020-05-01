@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Issue Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Consulting Project",
+			"weight": 45
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 35
+		}
+	]
+}

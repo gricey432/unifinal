@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Works Cited Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Proposal & presentation to discipline area",
+			"weight": 0
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Chapter Outline and Table of Contents",
+			"weight": 40
+		}
+	]
+}

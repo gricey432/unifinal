@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar to class",
+			"weight": 20
+		},
+		{
+			"name": "Advanced Study in Animal Production Science",
+			"weight": 40
+		},
+		{
+			"name": "Advanced Study in Animal Production Science",
+			"weight": 40
+		}
+	]
+}

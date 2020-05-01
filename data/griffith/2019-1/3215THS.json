@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annual department heads staff meeting",
+			"weight": 5
+		},
+		{
+			"name": "HOTS quiz",
+			"weight": 25
+		},
+		{
+			"name": "HOTS Balanced Scorecard",
+			"weight": 35
+		},
+		{
+			"name": "Annual Shareholders Meeting",
+			"weight": 35
+		}
+	]
+}

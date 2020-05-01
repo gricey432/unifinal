@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Week 5 Review",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

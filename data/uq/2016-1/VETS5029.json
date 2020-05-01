@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical EMS Performance",
+			"weight": 50
+		},
+		{
+			"name": "e-Learning Examination",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice ",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral video advocacy submission",
+			"weight": 25
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ EXAM",
+			"weight": 30
+		},
+		{
+			"name": "Critical Review Paper ",
+			"weight": 50
+		},
+		{
+			"name": "Case Study",
+			"weight": 20
+		}
+	]
+}

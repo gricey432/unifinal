@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

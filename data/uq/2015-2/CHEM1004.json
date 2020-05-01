@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "eQuizzes",
+			"weight": 15
+		},
+		{
+			"name": "Five Laboratory Experiments and Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

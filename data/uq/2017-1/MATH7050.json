@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Investigation",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 12
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 23
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

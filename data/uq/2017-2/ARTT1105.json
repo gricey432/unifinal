@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation & Participation",
+			"weight": 20
+		},
+		{
+			"name": "On-Line Take Home Exam",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

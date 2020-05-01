@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Health & Safety Induction Module",
+			"weight": 0
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Research Encounter",
+			"weight": 15
+		},
+		{
+			"name": "Competency Based Lab Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

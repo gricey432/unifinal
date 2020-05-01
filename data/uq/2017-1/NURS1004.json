@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Assessment ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Preparation for Placement Requirements",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Vital Signs Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessent",
+			"weight": "NGP"
+		}
+	]
+}

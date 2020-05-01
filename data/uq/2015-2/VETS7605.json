@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Background, review outline & search plan",
+			"weight": 30
+		},
+		{
+			"name": "Postgraduate Advanced Veterinary Topic Literature ",
+			"weight": 70
+		}
+	]
+}

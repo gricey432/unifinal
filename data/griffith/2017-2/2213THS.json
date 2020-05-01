@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project components",
+			"weight": 15
+		},
+		{
+			"name": "Project Case Study",
+			"weight": 45
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

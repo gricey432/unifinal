@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1500 word report on planned stories ",
+			"weight": 20
+		},
+		{
+			"name": "\"First Impressions\" story",
+			"weight": 20
+		},
+		{
+			"name": "1000 word reflection on what you learnt",
+			"weight": 10
+		},
+		{
+			"name": "Personalised Learning Portfolio",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Workshop",
+			"weight": 5
+		},
+		{
+			"name": "Placement Supervisor's Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Placement Experience Poster",
+			"weight": 20
+		},
+		{
+			"name": "Poster Showcase Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Placement Supervisor's Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Micro Teaching Activity",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Unit of work driven by ICTs",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 3: Newsletter to Families and Rationale",
+			"weight": 35
+		}
+	]
+}

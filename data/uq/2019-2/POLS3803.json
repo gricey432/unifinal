@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly summary posts",
+			"weight": 10
+		},
+		{
+			"name": "Seminar attendance and participation",
+			"weight": 12
+		},
+		{
+			"name": "Extended Summary (1000 words)",
+			"weight": 10
+		},
+		{
+			"name": "Choose your own political thinker 1",
+			"weight": 5
+		},
+		{
+			"name": "Choose your own political thinker 2",
+			"weight": 8
+		},
+		{
+			"name": "Choose your own political thinker 3",
+			"weight": 25
+		},
+		{
+			"name": "Take Home Exam (2000 words)",
+			"weight": 30
+		}
+	]
+}

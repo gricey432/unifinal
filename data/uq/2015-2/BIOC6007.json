@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at classes in Weeks 1-12 + 2 CALs",
+			"weight": "P/F"
+		},
+		{
+			"name": "Topic 1 - Submission and Peer review",
+			"weight": 3
+		},
+		{
+			"name": "Topic 2 - Submission and Peer review",
+			"weight": 3
+		},
+		{
+			"name": "Topic 3 - Submission and Peer review",
+			"weight": 3
+		},
+		{
+			"name": "Topic 4 - Submission and Peer review",
+			"weight": 3
+		},
+		{
+			"name": "Topic 5 - Submission and Peer review",
+			"weight": 3
+		},
+		{
+			"name": "Submission of three assignments (student choice)",
+			"weight": 55
+		},
+		{
+			"name": "Sound file for the major assignment slides",
+			"weight": 15
+		},
+		{
+			"name": "PowerPoint slides for talk on the major assignment",
+			"weight": 15
+		}
+	]
+}

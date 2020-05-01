@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 01: Points and Lines",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Item 02 : River Building ",
+			"weight": 0
+		},
+		{
+			"name": "Assessment Item 02: River Building",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal: Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Research Question and Sampling Strategy",
+			"weight": 35
+		},
+		{
+			"name": "Research Design",
+			"weight": 35
+		}
+	]
+}

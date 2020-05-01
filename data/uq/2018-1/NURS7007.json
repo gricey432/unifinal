@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Nurse Practitioner & Legislation ",
+			"weight": 30
+		},
+		{
+			"name": "Quality, Safety and Accessibility to Care",
+			"weight": 40
+		},
+		{
+			"name": "Nurse Practitioner Model of Care",
+			"weight": 30
+		}
+	]
+}

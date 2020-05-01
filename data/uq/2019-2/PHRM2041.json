@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Drug Analysis Lab Assessment (Group & Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Drug Analysis Written Exam (Individual)",
+			"weight": 35
+		},
+		{
+			"name": "Medicinal Chemistry Written Exam (Individual)",
+			"weight": 35
+		}
+	]
+}

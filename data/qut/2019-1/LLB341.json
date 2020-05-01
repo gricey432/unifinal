@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Memorandum of Advice",
+			"weight": 40
+		},
+		{
+			"name": "Law Reform Submission",
+			"weight": 60
+		}
+	]
+}

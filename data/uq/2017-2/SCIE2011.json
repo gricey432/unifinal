@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Surviving a Pandemic",
+			"weight": 10
+		},
+		{
+			"name": "Global Consumption",
+			"weight": 10
+		},
+		{
+			"name": "Artificial Intelligence",
+			"weight": 10
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 10
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Modules, Symposium and Conference",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "3 Minute Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Researcher Profile",
+			"weight": 15
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		}
+	]
+}

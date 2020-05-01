@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "MYOB Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

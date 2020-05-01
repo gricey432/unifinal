@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participación y Asistencia",
+			"weight": 10
+		},
+		{
+			"name": "Narración",
+			"weight": 10
+		},
+		{
+			"name": "Descripción",
+			"weight": 15
+		},
+		{
+			"name": "Exposición",
+			"weight": 20
+		},
+		{
+			"name": "Argumentación",
+			"weight": 25
+		},
+		{
+			"name": "Portafolio reflexivo del estudiante",
+			"weight": 20
+		}
+	]
+}

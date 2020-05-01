@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and presentation ",
+			"weight": 15
+		},
+		{
+			"name": "Powerpoint or short paper",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Exam (1200 words)",
+			"weight": 35
+		}
+	]
+}

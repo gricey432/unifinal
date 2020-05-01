@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Paper Ortho",
+			"weight": 30
+		},
+		{
+			"name": "Paediatric Dentistry Preclinical Sessions",
+			"weight": 20
+		},
+		{
+			"name": "Second semester diagnostic quiz (Ortho)",
+			"weight": 20
+		},
+		{
+			"name": "Written Paper Paedodontics",
+			"weight": 30
+		}
+	]
+}

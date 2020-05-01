@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Development and Analysis of a Teaching Plan",
+			"weight": 50
+		},
+		{
+			"name": "The Transtheoretical Model of Change",
+			"weight": 50
+		}
+	]
+}

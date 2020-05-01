@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Report on Music in Your Life",
+			"weight": 35
+		},
+		{
+			"name": "Presentation and Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Music Psychology Experiment Participation",
+			"weight": 5
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 30
+		}
+	]
+}

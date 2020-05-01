@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medical Calculation Assessments 1 - 6",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Assessment - Formative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Mini OSCA - Medication Administration",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Assessment - Summative",
+			"weight": "NGP"
+		}
+	]
+}

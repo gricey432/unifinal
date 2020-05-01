@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Discussion on Country Representation",
+			"weight": 20
+		},
+		{
+			"name": "Opinion Statement*",
+			"weight": 10
+		},
+		{
+			"name": "Country brief",
+			"weight": 20
+		},
+		{
+			"name": "Position Papers Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

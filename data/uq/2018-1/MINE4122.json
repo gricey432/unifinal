@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Project Progress Report",
+			"weight": 70
+		},
+		{
+			"name": "Project Plan Agreement",
+			"weight": "Pass/Fail"
+		}
+	]
+}

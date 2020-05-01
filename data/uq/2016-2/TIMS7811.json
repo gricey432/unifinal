@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation on industry projects",
+			"weight": 20
+		},
+		{
+			"name": "Individual critical reflection ",
+			"weight": 20
+		},
+		{
+			"name": "Innovation strategy report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Correct Referencing",
+			"weight": 10
+		},
+		{
+			"name": "Multi-choice exam",
+			"weight": 20
+		},
+		{
+			"name": "A key theme in archaeology",
+			"weight": 30
+		},
+		{
+			"name": "Multi-choice and short-answer exam",
+			"weight": 30
+		}
+	]
+}

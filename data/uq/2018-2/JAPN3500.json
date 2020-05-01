@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "completion of weekly tasks",
+			"weight": 10
+		},
+		{
+			"name": "Summary 1",
+			"weight": 10
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Summary 2",
+			"weight": 10
+		},
+		{
+			"name": "Project essay ",
+			"weight": 25
+		},
+		{
+			"name": "Individual Oral presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Final exam ",
+			"weight": 25
+		}
+	]
+}

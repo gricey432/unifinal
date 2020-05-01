@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomy Open Book Online Exam",
+			"weight": 10
+		},
+		{
+			"name": "Case Study Online Resource",
+			"weight": 30
+		},
+		{
+			"name": "Debate",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

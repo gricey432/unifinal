@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Print editing test",
+			"weight": 25
+		},
+		{
+			"name": "Editing with Purpose",
+			"weight": 45
+		},
+		{
+			"name": "Converged/online editing test",
+			"weight": 30
+		}
+	]
+}

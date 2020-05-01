@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Development Log",
+			"weight": 30
+		},
+		{
+			"name": "Post-placement workshop and presentation",
+			"weight": 40
+		},
+		{
+			"name": "Workplace Supervisor's Report",
+			"weight": 30
+		}
+	]
+}

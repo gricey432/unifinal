@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Question (MCQ) Exam",
+			"weight": 60
+		},
+		{
+			"name": "In-Tutorial Assessment - Clinical Cases",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		}
+	]
+}

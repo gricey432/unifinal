@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Blackboard Tasks",
+			"weight": 10
+		},
+		{
+			"name": "CBOS Unit 5 Module - Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Short essay examination",
+			"weight": 50
+		}
+	]
+}

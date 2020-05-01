@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorial Discussions on Case studies",
+			"weight": 25
+		},
+		{
+			"name": "Progression of the Business Model and Financials",
+			"weight": 25
+		},
+		{
+			"name": "Investor Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Entrepreneurial Journey and Expertise",
+			"weight": 25
+		}
+	]
+}

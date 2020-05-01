@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral defence",
+			"weight": 0
+		},
+		{
+			"name": "Coursework project or thesis ",
+			"weight": 90
+		},
+		{
+			"name": "Research proposal and presentation",
+			"weight": 10
+		}
+	]
+}

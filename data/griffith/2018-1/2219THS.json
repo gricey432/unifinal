@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Exam",
+			"weight": 25
+		},
+		{
+			"name": "Event Concept Plan",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

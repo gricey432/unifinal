@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Cases Presentation/Meetings Contribution",
+			"weight": 20
+		},
+		{
+			"name": "Team FinTech Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

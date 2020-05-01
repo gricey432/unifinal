@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement in weekly discussions",
+			"weight": 8
+		},
+		{
+			"name": "Weekly reading summaries",
+			"weight": 12
+		},
+		{
+			"name": "1500 words",
+			"weight": 25
+		},
+		{
+			"name": "3000 words",
+			"weight": 55
+		}
+	]
+}

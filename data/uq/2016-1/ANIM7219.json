@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Reproductive endocrinology",
+			"weight": 10
+		},
+		{
+			"name": "Goat artificial breeding program",
+			"weight": 10
+		},
+		{
+			"name": "Reproductive Biology (Species of choice)",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

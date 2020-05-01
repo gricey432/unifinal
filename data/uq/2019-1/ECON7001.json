@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Application of theory and concept",
+			"weight": 15
+		},
+		{
+			"name": "RBA Official Cash Rate Forecasting",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

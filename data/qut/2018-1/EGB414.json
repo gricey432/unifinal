@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Case study report",
+			"weight": 40
+		}
+	]
+}

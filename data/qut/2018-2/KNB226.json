@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Art",
+			"weight": 40
+		},
+		{
+			"name": "Production Design",
+			"weight": 60
+		}
+	]
+}

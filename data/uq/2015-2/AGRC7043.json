@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "John Ralph Essay Competition",
+			"weight": 20
+		},
+		{
+			"name": "Industry visit case study comparison",
+			"weight": 20
+		},
+		{
+			"name": "Strategic Plan Case Study ",
+			"weight": 25
+		},
+		{
+			"name": "Strategic plan Case Study Presentation",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 25
+		}
+	]
+}

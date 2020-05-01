@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Performance",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 35
+		},
+		{
+			"name": "Objective Structured Clinical",
+			"weight": 45
+		}
+	]
+}

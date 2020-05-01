@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Intra-semester test",
+			"weight": 40
+		},
+		{
+			"name": "Hazardous Chemicals Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Hazardous Manual Tasks Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Part A",
+			"weight": 6
+		},
+		{
+			"name": "Part B",
+			"weight": 6
+		},
+		{
+			"name": "Part C",
+			"weight": 6
+		},
+		{
+			"name": "On-line Legislation Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Part D",
+			"weight": 9
+		}
+	]
+}

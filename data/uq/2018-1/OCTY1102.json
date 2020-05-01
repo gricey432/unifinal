@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Communication Exam",
+			"weight": 35
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Interview assessment and Reflection report",
+			"weight": 35
+		}
+	]
+}

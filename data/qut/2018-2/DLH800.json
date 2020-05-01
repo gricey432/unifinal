@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Volume 1",
+			"weight": 15
+		},
+		{
+			"name": "Volume 2",
+			"weight": 25
+		},
+		{
+			"name": "Volume 3",
+			"weight": 60
+		}
+	]
+}

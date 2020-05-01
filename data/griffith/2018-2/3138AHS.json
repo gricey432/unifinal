@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz #1",
+			"weight": 5
+		},
+		{
+			"name": "Applied Sports Nutrition Assignment  - Fluid",
+			"weight": 40
+		},
+		{
+			"name": "In Class Quiz #2",
+			"weight": 5
+		},
+		{
+			"name": "In Class Quiz #3",
+			"weight": 5
+		},
+		{
+			"name": "In Class Quiz #4",
+			"weight": 5
+		},
+		{
+			"name": "End of Trimester Exam (Must Pass)",
+			"weight": 40
+		}
+	]
+}

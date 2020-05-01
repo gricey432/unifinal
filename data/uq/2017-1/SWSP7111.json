@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The nature of social work",
+			"weight": 10
+		},
+		{
+			"name": "Ethics and values in social work",
+			"weight": 30
+		},
+		{
+			"name": "Video analysis - 'I'll call Australia home'",
+			"weight": 30
+		},
+		{
+			"name": "Video analysis - 'I'll call Australia home'",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Or 1000 word reflection (if unable to attend)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "To be submitted via Turnitin (= Form)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "To be submitted via Turnitin",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "To be submit via Turnitin",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "To be submitted via Turnitin",
+			"weight": "Pass/Fail"
+		}
+	]
+}

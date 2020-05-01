@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Burden of a chronic condition",
+			"weight": 40
+		},
+		{
+			"name": "Professional Action Plan",
+			"weight": 60
+		}
+	]
+}

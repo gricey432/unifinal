@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "WHS and Risk Assessment to be read & consented to.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "MCQ quiz in week 7 class time",
+			"weight": 5
+		},
+		{
+			"name": "Instrumentation amplifier & filter demonstration",
+			"weight": 10
+		},
+		{
+			"name": "MCQ quiz in week 11 class time",
+			"weight": 5
+		},
+		{
+			"name": "Demo. of digitisation and feature detection",
+			"weight": 10
+		},
+		{
+			"name": "R wave detection using DSP approaches",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

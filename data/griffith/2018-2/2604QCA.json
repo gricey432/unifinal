@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Designing for Process 1",
+			"weight": 30
+		},
+		{
+			"name": "Designing for Process 2",
+			"weight": 70
+		}
+	]
+}

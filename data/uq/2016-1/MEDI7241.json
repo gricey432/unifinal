@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Protocol",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Community Organisation Profile",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": "pass/fail"
+		}
+	]
+}

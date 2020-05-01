@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Context Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Initial Investigation",
+			"weight": 15
+		},
+		{
+			"name": "5 Minute Thesis (5MT)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Literature Review & Project Design",
+			"weight": 35
+		},
+		{
+			"name": "Findings & Implications",
+			"weight": 35
+		},
+		{
+			"name": "Teaching Performance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Quiz during prac session in week 11",
+			"weight": 5
+		},
+		{
+			"name": "Quiz during prac session in week 12",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

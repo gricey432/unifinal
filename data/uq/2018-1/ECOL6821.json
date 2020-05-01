@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Water remoteness and grazing at Idalia",
+			"weight": 20
+		},
+		{
+			"name": "Exam on readings",
+			"weight": 40
+		},
+		{
+			"name": "Scientific Report ",
+			"weight": 40
+		}
+	]
+}

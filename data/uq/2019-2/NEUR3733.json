@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Participation Assessments 4 x 2.5%",
+			"weight": 10
+		},
+		{
+			"name": "Exams",
+			"weight": 50
+		},
+		{
+			"name": "Neuromechanics in Practice Project",
+			"weight": 40
+		}
+	]
+}

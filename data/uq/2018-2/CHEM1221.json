@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester examination",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Class - 5 practicals",
+			"weight": 20
+		},
+		{
+			"name": "Sapling Learning Online Computer quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

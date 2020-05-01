@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "X-ray Computed Tomography (ELEC4601)",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

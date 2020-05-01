@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflection: My Sport Development Journey",
+			"weight": 30
+		},
+		{
+			"name": "Spotlight Report and Poster Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Personal Reflection: My Sport Development Future",
+			"weight": 30
+		}
+	]
+}

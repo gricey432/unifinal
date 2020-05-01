@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "WebPA Team Peer Review",
+			"weight": "P/F - Affects team marks"
+		},
+		{
+			"name": "Deisgn Logbooks (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "PDR Report (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Attendance at Workshops",
+			"weight": 0
+		},
+		{
+			"name": "PDR Video Presentation (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Critical Design Review (Team)",
+			"weight": 15
+		},
+		{
+			"name": "Written Reflection (Individual)",
+			"weight": 0
+		},
+		{
+			"name": "Final Design Report (Team)",
+			"weight": 55
+		}
+	]
+}

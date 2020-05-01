@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mathematics Teaching Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Closed book examination ",
+			"weight": 50
+		}
+	]
+}

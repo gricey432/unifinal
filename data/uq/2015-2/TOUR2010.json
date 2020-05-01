@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Tourism Industry Economic Report",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

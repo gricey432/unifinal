@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contributions to discussion and one presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Project Outline/Story Board",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal and Sources",
+			"weight": 20
+		},
+		{
+			"name": "Project",
+			"weight": 60
+		}
+	]
+}

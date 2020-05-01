@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch Document",
+			"weight": 40
+		},
+		{
+			"name": "Original Short-Form Script",
+			"weight": 60
+		}
+	]
+}

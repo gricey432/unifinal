@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Report",
+			"weight": 15
+		},
+		{
+			"name": "Project Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Campaign and Pitch Presentation",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard based video workbook",
+			"weight": 10
+		},
+		{
+			"name": "In-class tests for listening, speaking, & reading",
+			"weight": 45
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 25
+		},
+		{
+			"name": "Oral interview",
+			"weight": 20
+		}
+	]
+}

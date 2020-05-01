@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment during each workshop",
+			"weight": 20
+		},
+		{
+			"name": "Brief experimental reports",
+			"weight": 10
+		},
+		{
+			"name": "Experimental report",
+			"weight": 10
+		},
+		{
+			"name": "Presentation on advanced characterisation",
+			"weight": 10
+		},
+		{
+			"name": "Open book end of semester exam",
+			"weight": 50
+		}
+	]
+}

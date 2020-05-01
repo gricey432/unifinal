@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Extended experimental activity",
+			"weight": 30
+		},
+		{
+			"name": "4 Written assignments during workshops",
+			"weight": 20
+		},
+		{
+			"name": "Written examination paper",
+			"weight": 50
+		}
+	]
+}

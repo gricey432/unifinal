@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement in practicals",
+			"weight": 15
+		},
+		{
+			"name": "Weekly Online Quizzes",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Essay (1500 words)",
+			"weight": 50
+		}
+	]
+}

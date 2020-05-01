@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural safety essay",
+			"weight": 40
+		},
+		{
+			"name": "Report",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		}
+	]
+}

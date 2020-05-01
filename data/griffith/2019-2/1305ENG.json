@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Accelerated Programming Laboratories",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory presentations",
+			"weight": 10
+		},
+		{
+			"name": "Software Project",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester exam",
+			"weight": 50
+		}
+	]
+}

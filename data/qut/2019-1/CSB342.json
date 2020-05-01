@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 0
+		},
+		{
+			"name": "In-field Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Examination (practical)",
+			"weight": 0
+		}
+	]
+}

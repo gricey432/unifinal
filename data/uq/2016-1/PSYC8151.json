@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "core couple therapy competency",
+			"weight": 40
+		},
+		{
+			"name": "Case Write up",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Blackboard Discussion Post",
+			"weight": 20
+		},
+		{
+			"name": "Presentation & Written Summary",
+			"weight": 10
+		},
+		{
+			"name": "Film Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Major Research Essay ",
+			"weight": 45
+		}
+	]
+}

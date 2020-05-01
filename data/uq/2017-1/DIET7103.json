@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Ready reckoner activity and interview critique",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

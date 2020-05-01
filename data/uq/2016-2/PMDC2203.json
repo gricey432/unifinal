@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Occupational Health and Safety Risk Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pre Placement Workshop",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Placement Portfolio",
+			"weight": "Satisfactory / Unsatisfactory"
+		}
+	]
+}

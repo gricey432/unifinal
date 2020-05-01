@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Opinion Piece",
+			"weight": 20
+		},
+		{
+			"name": "Integration Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Customer Experience Management",
+			"weight": 40
+		}
+	]
+}

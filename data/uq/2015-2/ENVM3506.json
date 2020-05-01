@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of a group exercise max 5 slides",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of the Aichi Targets",
+			"weight": 20
+		},
+		{
+			"name": "Conservation NGO briefing for government",
+			"weight": 20
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 50
+		}
+	]
+}

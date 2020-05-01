@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Drivers License",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Modelling the Movies",
+			"weight": 30
+		},
+		{
+			"name": "Major Project - Data Plan",
+			"weight": 20
+		},
+		{
+			"name": "Major Project - Data Analysis",
+			"weight": 50
+		}
+	]
+}

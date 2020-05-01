@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research conference presentation",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory performance",
+			"weight": 25
+		},
+		{
+			"name": "Manuscript",
+			"weight": 45
+		}
+	]
+}

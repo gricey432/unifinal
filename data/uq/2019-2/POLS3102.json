@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Full Tutorial Management",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Essay (3000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 20
+		}
+	]
+}

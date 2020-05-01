@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Proposed Assessment Below",
+			"weight": 0
+		},
+		{
+			"name": "In-class quizzes and Web Assignment",
+			"weight": 16
+		},
+		{
+			"name": "First Philosophical Essay",
+			"weight": 34
+		},
+		{
+			"name": "Final Philosophical Essay",
+			"weight": 50
+		}
+	]
+}

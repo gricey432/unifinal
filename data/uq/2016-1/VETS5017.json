@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Performance Assessment ",
+			"weight": 30
+		},
+		{
+			"name": "Complete Journal Article",
+			"weight": 60
+		},
+		{
+			"name": "Oral Presentation of Research Project",
+			"weight": 10
+		}
+	]
+}

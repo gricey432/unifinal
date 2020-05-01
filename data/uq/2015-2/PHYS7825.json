@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Electronics Lab",
+			"weight": 10
+		},
+		{
+			"name": "Report on LabView Prac",
+			"weight": 20
+		},
+		{
+			"name": "Report on Analogue Feedback Control System",
+			"weight": 20
+		},
+		{
+			"name": "In Class Tutorial Exercise on Data Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Report on the open-ended experiment",
+			"weight": 30
+		},
+		{
+			"name": "In Class Tutorial Exercise on Data Analysis",
+			"weight": 10
+		}
+	]
+}

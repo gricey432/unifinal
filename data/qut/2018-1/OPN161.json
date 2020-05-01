@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical",
+			"weight": 15
+		},
+		{
+			"name": "Problem Solving Tasks",
+			"weight": 25
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 60
+		}
+	]
+}

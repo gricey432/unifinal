@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam-Closed Book with Permitted Items",
+			"weight": 20
+		},
+		{
+			"name": "eQuizzes (Best 7 eQuizzes)",
+			"weight": 14
+		},
+		{
+			"name": "Five Laboratory Experiments at Residential School",
+			"weight": 20
+		},
+		{
+			"name": "Practical Examination at Residential School",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Design; Online Submission",
+			"weight": 45
+		},
+		{
+			"name": "Research Design; Presentation",
+			"weight": "Based on the submission"
+		},
+		{
+			"name": "Design Proposal; Online Submission",
+			"weight": 55
+		},
+		{
+			"name": "Design Proposal; Presentation",
+			"weight": "Based on the submission"
+		}
+	]
+}

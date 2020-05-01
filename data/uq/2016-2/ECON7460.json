@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Empirical Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

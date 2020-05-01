@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation ",
+			"weight": 40
+		},
+		{
+			"name": "Active participation in class ",
+			"weight": 10
+		},
+		{
+			"name": "Exam for MIDW2006",
+			"weight": 50
+		}
+	]
+}

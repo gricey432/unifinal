@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Report Water Relations",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Group presentation- seed & flower laboratory",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

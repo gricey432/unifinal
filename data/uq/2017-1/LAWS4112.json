@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Client Advice",
+			"weight": 40
+		},
+		{
+			"name": "FinalExamination",
+			"weight": 60
+		}
+	]
+}

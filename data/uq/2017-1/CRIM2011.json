@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1500 words",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

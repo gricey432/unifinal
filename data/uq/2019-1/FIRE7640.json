@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual report of laboratory work",
+			"weight": 70
+		},
+		{
+			"name": "Theoretical background and experimental setup",
+			"weight": 20
+		},
+		{
+			"name": "Risk assessment",
+			"weight": 10
+		}
+	]
+}

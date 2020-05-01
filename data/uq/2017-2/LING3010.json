@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Units of analysis",
+			"weight": 25
+		},
+		{
+			"name": "Information Packaging",
+			"weight": 25
+		},
+		{
+			"name": "Person Reference and argument structure",
+			"weight": 25
+		},
+		{
+			"name": "Stance Taking",
+			"weight": 25
+		}
+	]
+}

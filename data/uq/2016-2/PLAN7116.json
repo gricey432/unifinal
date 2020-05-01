@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Transport Planning for University campuses",
+			"weight": 15
+		},
+		{
+			"name": "Case Studies of University Transport Plans",
+			"weight": 20
+		},
+		{
+			"name": "Develop a Transport Plan for UQ",
+			"weight": 35
+		},
+		{
+			"name": "Transport Planning",
+			"weight": 30
+		}
+	]
+}

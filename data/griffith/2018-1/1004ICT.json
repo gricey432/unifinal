@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Your Career Action Plan",
+			"weight": 10
+		},
+		{
+			"name": "Envisioning Your Future",
+			"weight": 50
+		},
+		{
+			"name": "Creating Your ePortfolio",
+			"weight": 40
+		}
+	]
+}

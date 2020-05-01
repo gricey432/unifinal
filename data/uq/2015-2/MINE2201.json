@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "10 x Weekly Tutorial",
+			"weight": 20
+		},
+		{
+			"name": "Commodity market assessment - Group project",
+			"weight": 5
+		},
+		{
+			"name": "Group Assignment - Process options",
+			"weight": 15
+		},
+		{
+			"name": "individual attendance and group reports",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

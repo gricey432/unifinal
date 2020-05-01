@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Veterinary Professional Practice & Research Skills",
+			"weight": 25
+		},
+		{
+			"name": "Consultation Skills",
+			"weight": 5
+		},
+		{
+			"name": "Veterinary Health & Wellness",
+			"weight": 2
+		},
+		{
+			"name": "Suture Skills",
+			"weight": 2
+		},
+		{
+			"name": "First Aid",
+			"weight": 2
+		},
+		{
+			"name": "Veterinary calculations",
+			"weight": 2
+		},
+		{
+			"name": "End-of-Semester Exam - Online exam",
+			"weight": 60
+		}
+	]
+}

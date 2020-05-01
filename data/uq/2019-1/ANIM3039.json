@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly learning quiz",
+			"weight": 10
+		},
+		{
+			"name": "Equine Exercise Physiology and Training",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation of an injured horse",
+			"weight": 15
+		},
+		{
+			"name": "Presentation of a review of a journal article/s",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

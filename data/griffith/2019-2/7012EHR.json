@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Journals",
+			"weight": 35
+		},
+		{
+			"name": "Self-reflection report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

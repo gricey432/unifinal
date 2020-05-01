@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Units, Case Studies",
+			"weight": 20
+		},
+		{
+			"name": "Individual business report & presentation ",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Major weighting"
+		},
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Major weighting"
+		},
+		{
+			"name": "Problem Analysis (individual)",
+			"weight": "Minor weighting"
+		},
+		{
+			"name": "Progress Review 1 (individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Progress Seminar (team)",
+			"weight": "Medium weighting"
+		},
+		{
+			"name": "Progress Review 2 (individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Preliminary Report (individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Product Mark (team)",
+			"weight": "Major weighting"
+		},
+		{
+			"name": "Final Report (individual)",
+			"weight": "Medium weighting"
+		}
+	]
+}

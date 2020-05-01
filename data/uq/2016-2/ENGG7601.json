@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1 Array Design",
+			"weight": 10
+		},
+		{
+			"name": "Experiment Design Plan",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 2 error analysis",
+			"weight": 10
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Experiment Design Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

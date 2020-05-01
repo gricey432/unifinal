@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomy of Endocrine Organs",
+			"weight": 5
+		},
+		{
+			"name": "Analysis of glucose tolerance and body composition",
+			"weight": 16
+		},
+		{
+			"name": "Histological assessment of an endocrine organ",
+			"weight": 12
+		},
+		{
+			"name": "Hot topic 1",
+			"weight": 4
+		},
+		{
+			"name": "Hot topic 2",
+			"weight": 4
+		},
+		{
+			"name": "Hot topic 3",
+			"weight": 4
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 55
+		}
+	]
+}

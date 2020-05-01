@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Medication calculation",
+			"weight": 0
+		},
+		{
+			"name": "Health assessment",
+			"weight": 0
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		}
+	]
+}

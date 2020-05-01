@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Resource",
+			"weight": 30
+		},
+		{
+			"name": "Module 2 Resource",
+			"weight": 30
+		},
+		{
+			"name": "Lesson Plans",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Challenges & solutions",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Assess other presentation",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

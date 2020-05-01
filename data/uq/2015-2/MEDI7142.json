@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Ethics & Integrity Multiple Choice Exam",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Indigenous Health Student Led Symposium",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Research Ethics & Integrity Case Studies",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Indigenous Health Multiple Choice Exam",
+			"weight": "Pass / Fail"
+		}
+	]
+}

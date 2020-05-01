@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Social Marketing Critical Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Social Marketing Situation Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Consumer Insight Analysis & Beh Change Strategy",
+			"weight": 40
+		}
+	]
+}

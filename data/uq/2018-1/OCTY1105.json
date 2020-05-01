@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Library tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fieldwork Report: Lived Experience",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Sociological Perspectives and Occupation",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning 2",
+			"weight": 2
+		},
+		{
+			"name": "Hypothesis, outline & bibliography (group work)",
+			"weight": 5
+		},
+		{
+			"name": "Experiment proposal (group work) ",
+			"weight": 7
+		},
+		{
+			"name": "Proposal oral presentation (group work)",
+			"weight": 2
+		},
+		{
+			"name": "Lab Report (individual)",
+			"weight": 20
+		},
+		{
+			"name": "Online discussion 1",
+			"weight": 5
+		},
+		{
+			"name": "Outline & annotated bibliography",
+			"weight": 5
+		},
+		{
+			"name": "Literature Review",
+			"weight": 20
+		},
+		{
+			"name": "Online discussion 2",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

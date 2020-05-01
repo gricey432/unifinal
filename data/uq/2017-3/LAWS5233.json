@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Report OR Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Research Paper",
+			"weight": 70
+		}
+	]
+}

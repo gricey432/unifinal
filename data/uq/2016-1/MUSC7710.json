@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Initial Project Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Updated Project Plan and Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Project Report",
+			"weight": 70
+		}
+	]
+}

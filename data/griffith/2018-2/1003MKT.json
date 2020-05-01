@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic online quiz",
+			"weight": 0
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Situation Analysis (INDIVIDUAL)",
+			"weight": 40
+		},
+		{
+			"name": "Marketing Plan (GROUP)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Campaign Project (Individual & Group)",
+			"weight": 55
+		},
+		{
+			"name": "In Class mid-semester online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ad Topic Presentation and Evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Conceptual Paper",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

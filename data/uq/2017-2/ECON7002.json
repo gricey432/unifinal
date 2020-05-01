@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Markets in action",
+			"weight": 30
+		},
+		{
+			"name": "ECON7002 Final Examination",
+			"weight": 45
+		}
+	]
+}

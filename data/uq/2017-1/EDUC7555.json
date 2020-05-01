@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Activities Task",
+			"weight": 20
+		},
+		{
+			"name": "Personal Learning Plan (PLP)",
+			"weight": "Pass/Fail - 500 words"
+		},
+		{
+			"name": "Critical Review",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Portfolio & Statement of Pedagogical Practices",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case 1 - 4. Written assignments",
+			"weight": 60
+		},
+		{
+			"name": "Nurse Practitioner Candidate Competency Assessment",
+			"weight": "Pass/Fail See 5.4 "
+		},
+		{
+			"name": "Full Episode of Care, Written assignment",
+			"weight": 40
+		}
+	]
+}

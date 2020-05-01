@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written submission (200wds)",
+			"weight": 10
+		},
+		{
+			"name": "Essay (3500 words)",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

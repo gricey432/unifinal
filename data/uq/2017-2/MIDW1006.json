@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in weekly PBL session",
+			"weight": 10
+		},
+		{
+			"name": "Asthma in pregnancy:The role of the midwife",
+			"weight": 40
+		},
+		{
+			"name": "Examination for MIDW1006 ",
+			"weight": 50
+		}
+	]
+}

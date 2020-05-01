@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Essay",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 60
+		}
+	]
+}

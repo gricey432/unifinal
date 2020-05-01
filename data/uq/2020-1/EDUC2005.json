@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Expectations",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Reflection on FMS Lesson Plan",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Sport Education model",
+			"weight": 40
+		},
+		{
+			"name": "Planning & Justification",
+			"weight": 60
+		}
+	]
+}

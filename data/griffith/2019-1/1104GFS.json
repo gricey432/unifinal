@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Perspective and Compositional Scenes ",
+			"weight": 30
+		},
+		{
+			"name": "Drawing Folio",
+			"weight": 30
+		},
+		{
+			"name": "Character Design",
+			"weight": 40
+		}
+	]
+}

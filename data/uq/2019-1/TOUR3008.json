@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "5 minute pitch of service experience",
+			"weight": 20
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

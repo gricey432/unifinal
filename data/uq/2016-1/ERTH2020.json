@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration of understanding of material",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Practical Exercises ",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Field Trip Report",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		}
+	]
+}

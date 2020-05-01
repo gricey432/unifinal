@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Nurse Practitioner Competency",
+			"weight": "Pass/Fail see 5.4"
+		},
+		{
+			"name": "Full Episode of Care/ Viva voce",
+			"weight": 30
+		},
+		{
+			"name": "Conceptual Framework",
+			"weight": 70
+		}
+	]
+}

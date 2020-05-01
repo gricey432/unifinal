@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Review of Triage Practices and/or Policies",
+			"weight": 50
+		},
+		{
+			"name": "Triage assessment tool & Treatment Protocol ",
+			"weight": 50
+		}
+	]
+}

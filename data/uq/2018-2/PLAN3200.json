@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay",
+			"weight": 15
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Workbook",
+			"weight": 50
+		}
+	]
+}

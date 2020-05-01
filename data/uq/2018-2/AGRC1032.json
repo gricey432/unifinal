@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ecological monitoring with camera traps",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Monitoring biodiversity with TEAM Network",
+			"weight": 20
+		},
+		{
+			"name": "Vegetation succession ",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

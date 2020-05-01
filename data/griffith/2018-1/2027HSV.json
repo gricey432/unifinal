@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Facilitation Session",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 45
+		},
+		{
+			"name": "Group Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Facilitation Session",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 45
+		}
+	]
+}

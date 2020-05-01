@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Are Bellbirds as Bad as They Say? ",
+			"weight": 40
+		},
+		{
+			"name": "Floristic diversity study",
+			"weight": 60
+		}
+	]
+}

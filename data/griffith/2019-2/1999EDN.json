@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflecting on teacher autonomy ",
+			"weight": 25
+		},
+		{
+			"name": "Policy observations in schooling",
+			"weight": 45
+		},
+		{
+			"name": "Group presentation about policy in practice",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critique (written)",
+			"weight": 50
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 50
+		}
+	]
+}

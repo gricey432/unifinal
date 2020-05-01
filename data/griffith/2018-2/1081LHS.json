@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Computer Mediated Activities  ",
+			"weight": 20
+		},
+		{
+			"name": "Written 1 Exam",
+			"weight": 20
+		},
+		{
+			"name": "Oral 1 Exam",
+			"weight": 20
+		},
+		{
+			"name": "Oral 2 Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written 2 Exam",
+			"weight": 20
+		}
+	]
+}

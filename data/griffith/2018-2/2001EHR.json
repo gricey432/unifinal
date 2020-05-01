@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test No. 1",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay - On a Week 6-11 topic",
+			"weight": 30
+		},
+		{
+			"name": "Stakeholders - Comparing Award / Ent. Agreement",
+			"weight": 45
+		}
+	]
+}

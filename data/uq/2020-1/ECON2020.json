@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "CML1",
+			"weight": 7
+		},
+		{
+			"name": "CML2",
+			"weight": 7
+		},
+		{
+			"name": "Assignment",
+			"weight": 29
+		},
+		{
+			"name": "CML3",
+			"weight": 7
+		},
+		{
+			"name": "CML4",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam - Online Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading task",
+			"weight": 20
+		},
+		{
+			"name": "Analytical Project",
+			"weight": 40
+		},
+		{
+			"name": "Online examination",
+			"weight": 40
+		}
+	]
+}

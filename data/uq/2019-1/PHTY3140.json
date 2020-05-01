@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Motor Assessment Scale Scoring",
+			"weight": 10
+		},
+		{
+			"name": "Problem solving case studies",
+			"weight": 15
+		},
+		{
+			"name": "Functional task analysis - Mid Semester Theory",
+			"weight": 15
+		},
+		{
+			"name": "Practical skills & problem solving exam",
+			"weight": 25
+		},
+		{
+			"name": "Problem solving practical exam",
+			"weight": 35
+		}
+	]
+}

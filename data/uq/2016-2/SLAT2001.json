@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of learner language",
+			"weight": 25
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 35
+		},
+		{
+			"name": "Theoretical essay",
+			"weight": 40
+		}
+	]
+}

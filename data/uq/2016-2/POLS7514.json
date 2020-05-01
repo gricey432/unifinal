@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Nonviolence: A weapon of the weak or the strong",
+			"weight": 15
+		},
+		{
+			"name": "Preparatory work for final essay",
+			"weight": 35
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 50
+		}
+	]
+}

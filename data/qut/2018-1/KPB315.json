@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay (critical)",
+			"weight": 50
+		},
+		{
+			"name": "Take-home Exam",
+			"weight": 50
+		}
+	]
+}

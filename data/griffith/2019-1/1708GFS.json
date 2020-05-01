@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "ASSESSMENT 1: Premiere & workflow",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 2: Editing a short self shot drama",
+			"weight": 20
+		},
+		{
+			"name": "ASSESSMENT 3: TVC edit",
+			"weight": 20
+		},
+		{
+			"name": "ASSESSMENT 4: Pressure Test",
+			"weight": 30
+		},
+		{
+			"name": "ASSESSMENT 5: Lecture and Tutorial Content Exam",
+			"weight": 20
+		}
+	]
+}

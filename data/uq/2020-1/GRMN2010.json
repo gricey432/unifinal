@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": 60
+		},
+		{
+			"name": "Individual Oral Interview",
+			"weight": 40
+		}
+	]
+}

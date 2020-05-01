@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning Report",
+			"weight": 40
+		},
+		{
+			"name": "PLAN4100 Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SWOT Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Advice to Client Essay",
+			"weight": 35
+		},
+		{
+			"name": "Rehabilitation Plan Seminar",
+			"weight": 45
+		}
+	]
+}

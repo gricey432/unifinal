@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Statement of Support/Opposition",
+			"weight": 25
+		},
+		{
+			"name": "Stakeholder Presentations & participation ",
+			"weight": 25
+		},
+		{
+			"name": "Impact Report",
+			"weight": 50
+		}
+	]
+}

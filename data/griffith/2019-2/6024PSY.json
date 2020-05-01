@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Elective Choice 1 Exam (Gold Coast)",
+			"weight": 40
+		},
+		{
+			"name": "Elective Choice 2 Exam (Gold Coast)",
+			"weight": 40
+		},
+		{
+			"name": "Conference style e-poster (Gold Coast)",
+			"weight": 20
+		},
+		{
+			"name": "Elective Choice 2 Exam (Mt Gravatt)",
+			"weight": 40
+		},
+		{
+			"name": "Elective Choice 1 Exam (Mt Gravatt)",
+			"weight": 40
+		},
+		{
+			"name": "Conference style e-poster (Mt Gravatt)",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Record Keeping",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Project Report",
+			"weight": 70
+		}
+	]
+}

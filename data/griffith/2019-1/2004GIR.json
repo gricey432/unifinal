@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop preparation and contribution",
+			"weight": 10
+		},
+		{
+			"name": "Media Log",
+			"weight": 10
+		},
+		{
+			"name": "Business submission OR Essay",
+			"weight": 40
+		},
+		{
+			"name": "Exam (during exam period)",
+			"weight": 40
+		}
+	]
+}

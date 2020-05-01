@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar preparation",
+			"weight": 10
+		},
+		{
+			"name": "Client Questions",
+			"weight": 5
+		},
+		{
+			"name": "Business Letter of Advice",
+			"weight": 20
+		},
+		{
+			"name": "File Note - Research",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

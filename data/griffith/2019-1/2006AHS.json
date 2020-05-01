@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory assessment 1",
+			"weight": 3
+		},
+		{
+			"name": "Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory assessment 2",
+			"weight": 3
+		},
+		{
+			"name": "Exam 2",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory assessment 3",
+			"weight": 4
+		},
+		{
+			"name": "Exam 3",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Business Model Canvas",
+			"weight": 20
+		},
+		{
+			"name": "Individual Report on Business Concept",
+			"weight": 20
+		},
+		{
+			"name": "Business Plan presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Draft of Business Plan",
+			"weight": 40
+		}
+	]
+}

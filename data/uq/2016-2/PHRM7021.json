@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Green Discussion Board contributions",
+			"weight": 7
+		},
+		{
+			"name": "Blogs and on-line quizzes",
+			"weight": 7
+		},
+		{
+			"name": " Preparation and participation  ",
+			"weight": 15
+		},
+		{
+			"name": "Peer evaluation of tutorial prep and participation",
+			"weight": 2
+		},
+		{
+			"name": "Collecting and analysing qualitative data",
+			"weight": 21
+		},
+		{
+			"name": "Research proposal Masters project",
+			"weight": 27
+		},
+		{
+			"name": "Drug Utilisation Evaluation (DUE) ",
+			"weight": 20
+		}
+	]
+}

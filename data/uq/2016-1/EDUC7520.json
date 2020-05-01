@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1, 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Task 2, 3500 words",
+			"weight": 60
+		}
+	]
+}

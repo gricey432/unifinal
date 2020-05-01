@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class Quiz week 10",
+			"weight": 10
+		},
+		{
+			"name": "Removable prosthodontics - clinical competency",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical competency - Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "End of semester Theory Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hotel Guest Experience Video Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Change and Hotel Innovation Individual Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

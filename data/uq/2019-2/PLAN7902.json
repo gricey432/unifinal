@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Management Report (team x 4) and Peer Evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Preparation for full paper (individual work)",
+			"weight": 30
+		},
+		{
+			"name": "Journal article (Individual work)",
+			"weight": 50
+		}
+	]
+}

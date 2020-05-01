@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz | 4 sets over 10 weeks; due weekly",
+			"weight": 20
+		},
+		{
+			"name": "Business Model Pitch*",
+			"weight": 10
+		},
+		{
+			"name": "Assumptions Pitch*",
+			"weight": 10
+		},
+		{
+			"name": "Business Opportunity Appraisal with presentation*",
+			"weight": 30
+		},
+		{
+			"name": "TIMS7301 Final Exam",
+			"weight": 30
+		}
+	]
+}

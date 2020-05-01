@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Read mapping exercise",
+			"weight": 0
+		},
+		{
+			"name": "Metagenome analysis",
+			"weight": 35
+		},
+		{
+			"name": "De novo assembly and phylogenomics",
+			"weight": 30
+		},
+		{
+			"name": "Human genomics analysis",
+			"weight": 35
+		}
+	]
+}

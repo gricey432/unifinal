@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "One Quiz per week over 5 weeks",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Metalearning Task 1",
+			"weight": 2
+		},
+		{
+			"name": "Metalearning Task 2",
+			"weight": 2
+		},
+		{
+			"name": "Online BB quiz 1",
+			"weight": 4
+		},
+		{
+			"name": "Online BB quiz 2",
+			"weight": 4
+		},
+		{
+			"name": "Online BB quiz 3",
+			"weight": 4
+		},
+		{
+			"name": "Prac exam - REGIONAL ANATOMY",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 43
+		},
+		{
+			"name": "Prac exam - REGIONAL ANATOMY",
+			"weight": 20
+		}
+	]
+}

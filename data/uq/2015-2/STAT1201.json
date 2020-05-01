@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Survey (compulsory)",
+			"weight": 1
+		},
+		{
+			"name": "Paper Review",
+			"weight": 11
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Residential school",
+			"weight": 10
+		},
+		{
+			"name": "A4 Project ",
+			"weight": 1
+		},
+		{
+			"name": "Research project",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

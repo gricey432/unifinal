@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation (or written work)",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Reading Reports",
+			"weight": 10
+		},
+		{
+			"name": "Liberalisms Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		},
+		{
+			"name": "Short Answer Final Exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Concept questions",
+			"weight": 15
+		},
+		{
+			"name": "Wastewater treatment plant field trip report",
+			"weight": 2
+		},
+		{
+			"name": "Wastewater treatment and nutrient cycles",
+			"weight": 10
+		},
+		{
+			"name": "North Stradbroke Island assignment",
+			"weight": 5
+		},
+		{
+			"name": "Pre-poster proposal",
+			"weight": 2
+		},
+		{
+			"name": "Resilience in socio-ecological systems",
+			"weight": 10
+		},
+		{
+			"name": "Systems analysis of environmental issues",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

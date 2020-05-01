@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Literature review essay",
+			"weight": 50
+		}
+	]
+}

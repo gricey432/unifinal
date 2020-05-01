@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "10 x Weekly Class quiz (1%)",
+			"weight": 10
+		},
+		{
+			"name": "Min proc quiz",
+			"weight": 5
+		},
+		{
+			"name": "hydro met quiz",
+			"weight": 5
+		},
+		{
+			"name": "individual attendance and reports",
+			"weight": 15
+		},
+		{
+			"name": "Commodity Assignment - team oral presentation",
+			"weight": 5
+		},
+		{
+			"name": "Commodity Assignment - Process options",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

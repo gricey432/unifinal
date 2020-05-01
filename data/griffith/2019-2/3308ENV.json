@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Policy brief outline",
+			"weight": 5
+		},
+		{
+			"name": "Video presentation",
+			"weight": 15
+		},
+		{
+			"name": "Critical  evaluation 1",
+			"weight": 20
+		},
+		{
+			"name": "Peer review",
+			"weight": 5
+		},
+		{
+			"name": "Policy brief",
+			"weight": 35
+		},
+		{
+			"name": "Critical evaluation 2",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 15
+		},
+		{
+			"name": "Process analysis",
+			"weight": 15
+		},
+		{
+			"name": "Best practice in particle size analysis",
+			"weight": 5
+		},
+		{
+			"name": "Analysing Bond ball mill data",
+			"weight": 5
+		},
+		{
+			"name": "Analysing data from impact breakage testing",
+			"weight": 5
+		},
+		{
+			"name": "Analysing data from compression breakage testing",
+			"weight": 5
+		},
+		{
+			"name": "Comminution circuit design",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

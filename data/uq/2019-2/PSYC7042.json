@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Competency 1",
+			"weight": 25
+		},
+		{
+			"name": "Competency 2",
+			"weight": 25
+		},
+		{
+			"name": "Case Study - based on integrated framework",
+			"weight": 50
+		}
+	]
+}

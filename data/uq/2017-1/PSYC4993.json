@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Engaged Audience Role",
+			"weight": 10
+		},
+		{
+			"name": "Presentation on Behavioral Medicine Topic",
+			"weight": 35
+		},
+		{
+			"name": "Session Chair Role",
+			"weight": 15
+		},
+		{
+			"name": "Presentation Peer Review",
+			"weight": 5
+		},
+		{
+			"name": "Paper",
+			"weight": 35
+		}
+	]
+}

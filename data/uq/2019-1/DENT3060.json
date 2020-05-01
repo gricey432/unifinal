@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Written Exam",
+			"weight": 35
+		},
+		{
+			"name": "Reflections on patient management",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Case Identification Task",
+			"weight": "P/F"
+		},
+		{
+			"name": "Written examination",
+			"weight": 50
+		}
+	]
+}

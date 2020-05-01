@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review - Respiratory Emergencies",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 7
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 8
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		},
+		{
+			"name": "End of Semester OSCE",
+			"weight": 0
+		}
+	]
+}

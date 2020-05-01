@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Attendance and participation",
+			"weight": 5
+		},
+		{
+			"name": "Reading Test",
+			"weight": 10
+		},
+		{
+			"name": "Sound file",
+			"weight": 15
+		},
+		{
+			"name": "Mid-term exam",
+			"weight": 25
+		},
+		{
+			"name": "Final oral interview",
+			"weight": 35
+		}
+	]
+}

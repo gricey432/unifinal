@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 5
+		},
+		{
+			"name": "Health Sciences Language Screening Test",
+			"weight": "Completion required"
+		},
+		{
+			"name": "Peer Teaching Videos (group assignment)",
+			"weight": 10
+		},
+		{
+			"name": "Weekly feedback quizzes (outside class time)",
+			"weight": 15
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Participation and completion required"
+		},
+		{
+			"name": "Academic Integrity Tutorial Quiz",
+			"weight": "Completion Required"
+		},
+		{
+			"name": "Written Exam",
+			"weight": 50
+		},
+		{
+			"name": "Oral Exam (OTC product request)",
+			"weight": 20
+		}
+	]
+}

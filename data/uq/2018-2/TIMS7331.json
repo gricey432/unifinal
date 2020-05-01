@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test the Problem and Solution Cycle 1 ",
+			"weight": 35
+		},
+		{
+			"name": "Test the Solution Cycle 2",
+			"weight": 30
+		},
+		{
+			"name": "Personal Development",
+			"weight": 35
+		}
+	]
+}

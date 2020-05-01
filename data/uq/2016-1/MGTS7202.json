@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Microsoft Office Assignment PART 1-- ACCESS",
+			"weight": 15
+		},
+		{
+			"name": "Agile Information Systems Characteristics ",
+			"weight": 10
+		},
+		{
+			"name": "Microsoft Office Assignment PART 2-- EXCEL",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

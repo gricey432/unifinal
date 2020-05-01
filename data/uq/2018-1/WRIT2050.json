@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Responses to Set Texts",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of Writing Craft",
+			"weight": 20
+		},
+		{
+			"name": "Three Minute Synopsis",
+			"weight": 10
+		},
+		{
+			"name": "Opening Scenes of a Novel",
+			"weight": 60
+		}
+	]
+}

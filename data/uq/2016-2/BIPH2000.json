@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Experimental techniques",
+			"weight": 15
+		},
+		{
+			"name": "Biophysics",
+			"weight": 60
+		}
+	]
+}

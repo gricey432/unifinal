@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial assessment",
+			"weight": 10
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 25
+		},
+		{
+			"name": "Mid semester class test",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

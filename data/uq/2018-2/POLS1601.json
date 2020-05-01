@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "TUTORIAL PARTICIPATION",
+			"weight": 9
+		},
+		{
+			"name": "TUTORIAL DISCUSSION PAPER (500 words)",
+			"weight": 11
+		},
+		{
+			"name": "REFLECTIVE REPORT 1 - FILMS (1300 words)",
+			"weight": 20
+		},
+		{
+			"name": "REFLECTIVE REPORT 2 - ART (1300 words)",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

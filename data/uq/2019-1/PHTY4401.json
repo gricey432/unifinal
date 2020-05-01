@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "OSCE - Cardiorespiratory",
+			"weight": 33
+		},
+		{
+			"name": "OSCE - Neuro",
+			"weight": 33
+		},
+		{
+			"name": "OSCE - Musculoskeletal",
+			"weight": 33
+		}
+	]
+}

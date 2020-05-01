@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Startup investor pitch",
+			"weight": 20
+		},
+		{
+			"name": "Company analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 25
+		}
+	]
+}

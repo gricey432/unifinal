@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Work-in-progress",
+			"weight": 60
+		},
+		{
+			"name": "Portfolio of creative works",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "OSCE Question 2",
+			"weight": 10
+		},
+		{
+			"name": "OSCE Question 1",
+			"weight": 10
+		},
+		{
+			"name": "mini-CEX #3 LONG CASE mini-CEX",
+			"weight": 5
+		},
+		{
+			"name": "mini-CEX #2 SHORT CASE mini-CEX",
+			"weight": 5
+		},
+		{
+			"name": "OSCE Question 3",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+		},
+		{
+			"name": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+			"weight": 45
+		},
+		{
+			"name": "OSCE Question 4",
+			"weight": 10
+		},
+		{
+			"name": "mini-CEX #1 NEONATAL mini-CEX",
+			"weight": 5
+		},
+		{
+			"name": "Research Paper in Journal Format",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual presentation",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Attendance and summaries of readings",
+			"weight": 20
+		},
+		{
+			"name": "Feedback and discussion of presentations",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		}
+	]
+}

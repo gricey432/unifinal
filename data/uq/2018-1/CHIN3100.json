@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "2 HSK tests",
+			"weight": 3
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Oral exercise",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Listening comprehension Test ",
+			"weight": 30
+		},
+		{
+			"name": "Final Oral Interviews",
+			"weight": 35
+		}
+	]
+}

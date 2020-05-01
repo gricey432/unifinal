@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Nernst Potential",
+			"weight": 5
+		},
+		{
+			"name": "Meta-Learning Task 1",
+			"weight": 3
+		},
+		{
+			"name": "Endocrinology",
+			"weight": 13
+		},
+		{
+			"name": "Woodroach",
+			"weight": 13
+		},
+		{
+			"name": "Meta-Learning Task 2",
+			"weight": 3
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

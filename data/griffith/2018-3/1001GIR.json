@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Attendance & Participation",
+			"weight": 20
+		},
+		{
+			"name": "Revision Test: UNSC P-5 Members' Foreign Policies",
+			"weight": 10
+		},
+		{
+			"name": "Policy Memorandum & Reflection",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

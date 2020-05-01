@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Flipped Classroom Activities",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Activity:Group(10%)+Individual Task (10%)",
+			"weight": 20
+		},
+		{
+			"name": "Teaching Concepts",
+			"weight": 30
+		},
+		{
+			"name": "Modelling an Inquiry: Poster and Oral",
+			"weight": 30
+		}
+	]
+}

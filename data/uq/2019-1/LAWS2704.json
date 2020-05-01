@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance",
+			"weight": 10
+		},
+		{
+			"name": "Formal legal advice and essay - 1",
+			"weight": 40
+		},
+		{
+			"name": "Formal legal advice and essay - 2",
+			"weight": 50
+		}
+	]
+}

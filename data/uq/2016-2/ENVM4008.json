@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class activities based on preparatory work",
+			"weight": 55
+		},
+		{
+			"name": "Assignment 1: Conceptual Models in Research",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Environmental risk assessment",
+			"weight": 30
+		}
+	]
+}

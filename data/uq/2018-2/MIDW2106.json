@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation Competency ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 1 - AMSAT",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 2 - AMSAT",
+			"weight": "NGP"
+		}
+	]
+}

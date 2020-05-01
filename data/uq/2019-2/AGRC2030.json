@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "AGRC2030 Assignment",
+			"weight": 20
+		},
+		{
+			"name": "AGRC2030 First exam",
+			"weight": 40
+		},
+		{
+			"name": "AGRC2030 Second exam",
+			"weight": 40
+		}
+	]
+}

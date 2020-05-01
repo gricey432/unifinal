@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Self-Practice/Self-Reflection on First Session",
+			"weight": 35
+		},
+		{
+			"name": "Self-Practice/Self-Reflection on Goal Setting",
+			"weight": 35
+		},
+		{
+			"name": "Addresing Therapeutic Rupture",
+			"weight": 30
+		}
+	]
+}

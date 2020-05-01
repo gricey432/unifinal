@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report: Sport Organisation Environment. ",
+			"weight": 35
+		},
+		{
+			"name": "Essay: Problem-Based Case Study ",
+			"weight": 40
+		},
+		{
+			"name": "Interactive Oral (Interview) ",
+			"weight": 25
+		}
+	]
+}

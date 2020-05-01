@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Two (2)ON-LINE Multiple Choice Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1 - Narración",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2 - Descripción",
+			"weight": 20
+		},
+		{
+			"name": "Exposición",
+			"weight": 25
+		},
+		{
+			"name": "Argumentación",
+			"weight": 30
+		}
+	]
+}

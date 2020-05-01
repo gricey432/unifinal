@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation and essay",
+			"weight": 40
+		},
+		{
+			"name": "Lecture and Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 35
+		}
+	]
+}

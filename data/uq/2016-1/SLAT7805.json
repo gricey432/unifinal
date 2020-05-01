@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short answer quiz",
+			"weight": 25
+		},
+		{
+			"name": "What and how of SLA project",
+			"weight": 40
+		},
+		{
+			"name": "Synthesis essay: A theory of SLA",
+			"weight": 35
+		}
+	]
+}

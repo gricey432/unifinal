@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Health Team Challenge",
+			"weight": 40
+		},
+		{
+			"name": "Progressive on line quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

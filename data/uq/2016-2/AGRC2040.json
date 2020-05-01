@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Plant population report",
+			"weight": 10
+		},
+		{
+			"name": "Crop nutrition report",
+			"weight": 25
+		},
+		{
+			"name": "Paper review presentations",
+			"weight": 5
+		},
+		{
+			"name": "Class presentations",
+			"weight": 10
+		},
+		{
+			"name": "Final examination at end of semester",
+			"weight": 50
+		}
+	]
+}

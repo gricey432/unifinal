@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation and essay",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW2002 ",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Introductory Seminar",
+			"weight": 25
+		},
+		{
+			"name": "Final Seminar",
+			"weight": 75
+		}
+	]
+}

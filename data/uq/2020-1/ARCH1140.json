@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Buildings in History & Culture - Take Home Test",
+			"weight": 40
+		},
+		{
+			"name": "Mapping Architecture Animated Essay",
+			"weight": 50
+		}
+	]
+}

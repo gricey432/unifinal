@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Posts and Essay",
+			"weight": 50
+		},
+		{
+			"name": "Research Report",
+			"weight": 50
+		}
+	]
+}

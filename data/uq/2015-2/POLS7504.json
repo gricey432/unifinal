@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation ",
+			"weight": 20
+		},
+		{
+			"name": "Thematic Essay (3000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Case Study (Comparative) (3000 words)",
+			"weight": 40
+		}
+	]
+}

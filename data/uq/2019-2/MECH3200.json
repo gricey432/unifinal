@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorial Problems",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Lecture Viewing",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formal Report (1) & Logbook entries (3)",
+			"weight": 10
+		},
+		{
+			"name": "Demonstration Project",
+			"weight": 20
+		},
+		{
+			"name": "Quiz on Part A",
+			"weight": "max 10"
+		},
+		{
+			"name": "Quiz on Part B",
+			"weight": "max 10"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "min 50"
+		}
+	]
+}

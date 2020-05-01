@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Analysis and Implementation",
+			"weight": 40
+		},
+		{
+			"name": "Managing Change Review",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

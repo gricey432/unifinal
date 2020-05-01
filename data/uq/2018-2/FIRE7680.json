@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "1. Tender document",
+			"weight": 5
+		},
+		{
+			"name": "2. Presentation for the tendering process",
+			"weight": 10
+		},
+		{
+			"name": "3. Egress and evacuation strategy report",
+			"weight": 15
+		},
+		{
+			"name": "4. Smoke management strategy report",
+			"weight": 15
+		},
+		{
+			"name": "5. Fire safe structural design report",
+			"weight": 15
+		},
+		{
+			"name": "6. Fire Engineering Report (FER)",
+			"weight": 10
+		},
+		{
+			"name": "7. Presentations of the Fire Engineering Report",
+			"weight": 30
+		}
+	]
+}

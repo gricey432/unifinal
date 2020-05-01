@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Enterprise Management ",
+			"weight": 60
+		},
+		{
+			"name": "Applied Enterprise Management",
+			"weight": 40
+		},
+		{
+			"name": "Preclinical Extramural Placements",
+			"weight": "Pass/Fail"
+		}
+	]
+}

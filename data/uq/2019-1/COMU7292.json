@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Statement & project plan",
+			"weight": 20
+		},
+		{
+			"name": "Literature review and research questions",
+			"weight": 40
+		},
+		{
+			"name": "Research proposal",
+			"weight": 40
+		}
+	]
+}

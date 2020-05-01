@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group workshop presentation ",
+			"weight": 20
+		},
+		{
+			"name": "SHRM Consultant Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

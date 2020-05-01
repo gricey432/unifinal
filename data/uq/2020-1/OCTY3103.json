@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork (Adult Physical)",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Decision Making Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Viva Examination",
+			"weight": 40
+		}
+	]
+}

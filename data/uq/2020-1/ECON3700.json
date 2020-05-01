@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": 10
+		},
+		{
+			"name": "ONLINE Mid-Semester Test",
+			"weight": 30
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 10
+		},
+		{
+			"name": "Online invigilated examination",
+			"weight": 50
+		}
+	]
+}

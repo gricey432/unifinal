@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Adult Physical Fieldwork and Report",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Viva Examination ",
+			"weight": 40
+		}
+	]
+}

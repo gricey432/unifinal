@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 8
+		},
+		{
+			"name": "Science Communication in the Media",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 12
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

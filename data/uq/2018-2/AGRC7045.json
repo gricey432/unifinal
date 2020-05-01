@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Topic and research questions",
+			"weight": 5
+		},
+		{
+			"name": "Title and Introduction",
+			"weight": 10
+		},
+		{
+			"name": "Proposed Methodologies",
+			"weight": 25
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Comprehensive final exam",
+			"weight": 50
+		}
+	]
+}

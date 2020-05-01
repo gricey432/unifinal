@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Test of knowledge for Practical Module 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Maintenance of a laboratory notebook",
+			"weight": 15
+		},
+		{
+			"name": "Abstract for an oral presentation",
+			"weight": 5
+		},
+		{
+			"name": "Assessment of video presentations",
+			"weight": 20
+		},
+		{
+			"name": "Short report of practical 1 as a paper",
+			"weight": 25
+		},
+		{
+			"name": "Group ePoster of Practical 2",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of the appropriate use of techniques",
+			"weight": 25
+		}
+	]
+}

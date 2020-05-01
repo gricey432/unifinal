@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Court Scenario or Court Report",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Common Law & Australian Legal System",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 60
+		}
+	]
+}

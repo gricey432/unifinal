@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation",
+			"weight": 10
+		},
+		{
+			"name": "Firelab report",
+			"weight": 15
+		},
+		{
+			"name": "Design project report",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

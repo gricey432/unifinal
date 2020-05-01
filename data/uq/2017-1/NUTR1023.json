@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 4
+		},
+		{
+			"name": "Online MCQs",
+			"weight": 16
+		},
+		{
+			"name": "Personal diet and exercise plan",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

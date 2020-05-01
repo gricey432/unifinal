@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Term Test I",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Project I",
+			"weight": 5
+		},
+		{
+			"name": "Term Test II",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Project II",
+			"weight": 5
+		},
+		{
+			"name": "Case Study Learning Module",
+			"weight": 24
+		},
+		{
+			"name": "Laboratory Project III",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory Project IV",
+			"weight": 5
+		},
+		{
+			"name": "Geomicrobiology final exam",
+			"weight": 26
+		}
+	]
+}

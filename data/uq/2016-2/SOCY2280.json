@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Four in-class quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Sociological story and essay",
+			"weight": 30
+		},
+		{
+			"name": "Sociological case-study presentation ",
+			"weight": 40
+		}
+	]
+}

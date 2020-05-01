@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Minor Assignment ",
+			"weight": 40
+		},
+		{
+			"name": "Open Book Examination",
+			"weight": 60
+		}
+	]
+}

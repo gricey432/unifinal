@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro teaching numeracy task",
+			"weight": 30
+		},
+		{
+			"name": "Literacy assignment",
+			"weight": 50
+		},
+		{
+			"name": "Numeracy Quiz",
+			"weight": 20
+		}
+	]
+}

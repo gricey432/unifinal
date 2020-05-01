@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mapping Architecture",
+			"weight": 60
+		},
+		{
+			"name": "Buildings in History & Culture - Open Book Exam",
+			"weight": 40
+		}
+	]
+}

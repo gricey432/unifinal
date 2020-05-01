@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Concept Reviews on Blackboard",
+			"weight": 30
+		},
+		{
+			"name": "Applied quantitative and qualitative exercises",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

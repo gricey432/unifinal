@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student-led Readings Workshop Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Assessing and Teaching Children's Writing",
+			"weight": 30
+		},
+		{
+			"name": "Quality Literature-Book Trailer & Critical Review ",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Reading",
+			"weight": 20
+		}
+	]
+}

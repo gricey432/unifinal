@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Review of a DSM-V diagnosis (NOT M. App. Psy)",
+			"weight": 40
+		},
+		{
+			"name": "Review of a DSM-V diagnosis (M. App. Psych)",
+			"weight": 40
+		},
+		{
+			"name": "Case Study of a client with a mental illness",
+			"weight": 40
+		}
+	]
+}

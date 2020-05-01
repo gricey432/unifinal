@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ODE Boundary Value Problem",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "PDE Boundary Value Problem",
+			"weight": 20
+		},
+		{
+			"name": "Computer Laboratory Exam",
+			"weight": 30
+		}
+	]
+}

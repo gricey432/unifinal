@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Issues Seminars",
+			"weight": 40
+		},
+		{
+			"name": "Professional Practice Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Community Education Project, Assessed in 2 stages",
+			"weight": 50
+		}
+	]
+}

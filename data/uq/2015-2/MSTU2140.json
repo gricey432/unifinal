@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class exercises",
+			"weight": 5
+		},
+		{
+			"name": "Visual Analysis Test",
+			"weight": 45
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

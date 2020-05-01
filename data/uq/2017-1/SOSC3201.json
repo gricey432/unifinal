@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Key References",
+			"weight": 20
+		},
+		{
+			"name": "Work in Progress Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Group Ethics Application",
+			"weight": 25
+		},
+		{
+			"name": "Group Research Proposal",
+			"weight": 35
+		}
+	]
+}

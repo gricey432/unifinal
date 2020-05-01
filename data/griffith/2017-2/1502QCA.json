@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual e-workbook / e-profile Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Design Proposals Midpoint Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Design Proposals Final Presentation",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Learning Logbook",
+			"weight": 40
+		},
+		{
+			"name": "Theories into Practice (Group Task)",
+			"weight": 20
+		},
+		{
+			"name": "Learning theories: Essay and reflection",
+			"weight": 40
+		}
+	]
+}

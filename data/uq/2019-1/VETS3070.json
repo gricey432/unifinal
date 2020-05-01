@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Anatomy Online Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Clinical Case Reflection",
+			"weight": 5
+		},
+		{
+			"name": "Medical Record ",
+			"weight": 5
+		},
+		{
+			"name": "Clinical Skills Log",
+			"weight": 0
+		},
+		{
+			"name": "Surgical Suture and Instrumentation",
+			"weight": 4
+		},
+		{
+			"name": "Semester 1 Examination",
+			"weight": 20
+		},
+		{
+			"name": "Clinical examination of species OSCE",
+			"weight": 0
+		},
+		{
+			"name": "Surgery and anaesthesia OSCE",
+			"weight": 18
+		},
+		{
+			"name": "Semester 2 Examination",
+			"weight": 20
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 25
+		}
+	]
+}

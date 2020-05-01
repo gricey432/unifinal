@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ORAL PRESENTATION OF A CASE STUDY",
+			"weight": 10
+		},
+		{
+			"name": "Continuous Clinical Assessment: School of Dentistr",
+			"weight": 60
+		},
+		{
+			"name": "Semester 1 Written Examination",
+			"weight": 30
+		}
+	]
+}

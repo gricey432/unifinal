@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Competency Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory Quizzes ",
+			"weight": 10
+		},
+		{
+			"name": "Mid trimester exam",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

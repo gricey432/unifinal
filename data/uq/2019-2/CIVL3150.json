@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental Systems Modelling",
+			"weight": 40
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

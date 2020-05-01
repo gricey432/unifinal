@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Examination",
+			"weight": 55
+		},
+		{
+			"name": "System Development",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scenario based critical analysis",
+			"weight": 20
+		},
+		{
+			"name": "Group Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

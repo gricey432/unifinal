@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Study Exercise A",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 Poverty Reduction & Protected Areas",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 3 Monitoring & Evaluation.",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 4 Study Exercise B",
+			"weight": 5
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

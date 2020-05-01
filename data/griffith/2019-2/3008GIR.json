@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam (multiple choice questions) ",
+			"weight": 20
+		},
+		{
+			"name": "Critical Reading Essay",
+			"weight": 35
+		},
+		{
+			"name": "Policy Paper",
+			"weight": 45
+		}
+	]
+}

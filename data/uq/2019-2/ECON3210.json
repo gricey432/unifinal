@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "In class quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Online Test #1",
+			"weight": 2
+		},
+		{
+			"name": "Online Test #2",
+			"weight": 2
+		},
+		{
+			"name": "Online Test #3",
+			"weight": 2
+		},
+		{
+			"name": "Online Test #4",
+			"weight": 2
+		},
+		{
+			"name": "Online Test #5",
+			"weight": 2
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

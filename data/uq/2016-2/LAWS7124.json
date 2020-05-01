@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Prepared answer and class participation",
+			"weight": "9 marks"
+		},
+		{
+			"name": "Mid-semester take home 2000 words",
+			"weight": "40 marks"
+		},
+		{
+			"name": "Skills sessions: Weeks 12 and 13",
+			"weight": "6 marks"
+		},
+		{
+			"name": "Law Reform Submission 2500 words",
+			"weight": "45 marks"
+		}
+	]
+}

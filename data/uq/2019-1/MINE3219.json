@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Phase 1 - process analysis",
+			"weight": 15
+		},
+		{
+			"name": "Comminution practical exercises",
+			"weight": 15
+		},
+		{
+			"name": "Impact of comminution on sustainability in mining",
+			"weight": 5
+		},
+		{
+			"name": "Phase 2 - final integrated report",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 35
+		}
+	]
+}

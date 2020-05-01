@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Template response & Seminar Contributions",
+			"weight": 20
+		},
+		{
+			"name": "'Journal Entries' X 4",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay (3000 Words)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio, Review and Reflection",
+			"weight": 30
+		},
+		{
+			"name": "5000 word Marketing Plan - Team based assignment",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester online test",
+			"weight": 30
+		}
+	]
+}

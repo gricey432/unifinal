@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion sessions",
+			"weight": 5
+		},
+		{
+			"name": "Proteomics practical: Reflective essay & question ",
+			"weight": 2
+		},
+		{
+			"name": "Proteomics practical: group risk assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical analysis of research paper 1",
+			"weight": 10
+		},
+		{
+			"name": "Critical analysis of research paper 2",
+			"weight": 10
+		},
+		{
+			"name": "Proteomics Practical: practical report",
+			"weight": 18
+		},
+		{
+			"name": "NMR-based metabolomics ",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

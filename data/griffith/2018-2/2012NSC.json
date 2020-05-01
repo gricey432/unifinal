@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Wiki Workshops ",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 1 of Two Semester Quizzes; ~45mins each",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 of two semester quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End-of-Semester Examination, 2 hrs",
+			"weight": 60
+		}
+	]
+}

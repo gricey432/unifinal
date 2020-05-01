@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Lectures 1-13 & Tutorials 1-10",
+			"weight": 10
+		},
+		{
+			"name": "Map Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Essay",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

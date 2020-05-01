@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Presentation / Participation",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 7
+		},
+		{
+			"name": "Mid-Term Research Paper",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 7
+		},
+		{
+			"name": "Final Take Home Assessment-Constructed response   ",
+			"weight": 50
+		}
+	]
+}

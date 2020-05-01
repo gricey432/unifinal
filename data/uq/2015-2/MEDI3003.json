@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "General Surgery Assessment-Short Answer Questions",
+			"weight": 40
+		},
+		{
+			"name": "General Surgery Assessment-Multiple Choice Exam",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Case Presentation (CCP)",
+			"weight": 20
+		},
+		{
+			"name": "Problem Oriented Medical Record (POMR)",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL (Students must pass this regardless of marks in other assessments)"
+		}
+	]
+}

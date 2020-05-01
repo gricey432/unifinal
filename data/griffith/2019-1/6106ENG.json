@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theoretical and Statistics Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Theoretical and Statistics Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (closed book)",
+			"weight": 60
+		}
+	]
+}

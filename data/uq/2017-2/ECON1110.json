@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short Notes on KCIs",
+			"weight": 10
+		},
+		{
+			"name": "Short Paper",
+			"weight": 10
+		},
+		{
+			"name": "Quiz on Topics 1-5",
+			"weight": 20
+		},
+		{
+			"name": "Short Paper ",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester examination",
+			"weight": 50
+		}
+	]
+}

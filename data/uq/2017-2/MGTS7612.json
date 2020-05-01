@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of weeks 1- 6",
+			"weight": 30
+		},
+		{
+			"name": "Latest Thinking in Org Design and Staffing",
+			"weight": 30
+		},
+		{
+			"name": "Staffing Best Practice Recommendation ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Care of  a woman with a complex health condition",
+			"weight": 20
+		},
+		{
+			"name": "Health Complexity in Pregnancy",
+			"weight": 30
+		},
+		{
+			"name": "Online invigilated exam",
+			"weight": 50
+		}
+	]
+}

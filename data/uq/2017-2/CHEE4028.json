@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Content review",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2: Network modelling",
+			"weight": 20
+		},
+		{
+			"name": "Design of Metabolic Network",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

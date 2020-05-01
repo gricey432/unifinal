@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Tasks addressing material covered to date",
+			"weight": 25
+		},
+		{
+			"name": "Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities -- Individual",
+			"weight": 10
+		},
+		{
+			"name": "Group work report -- Group",
+			"weight": 10
+		},
+		{
+			"name": "Bibliography -- Individual",
+			"weight": 20
+		},
+		{
+			"name": "Online exhibition -- Group project",
+			"weight": 30
+		},
+		{
+			"name": "Research essay - Individual project",
+			"weight": 30
+		}
+	]
+}

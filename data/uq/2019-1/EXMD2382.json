@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "skill assessment (contact)",
+			"weight": 5
+		},
+		{
+			"name": "Theory Quizzes",
+			"weight": 24
+		},
+		{
+			"name": "Reflection after Prac 5",
+			"weight": 5
+		},
+		{
+			"name": "Personal Data in Excel",
+			"weight": 1
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 65
+		}
+	]
+}

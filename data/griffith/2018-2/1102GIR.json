@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class preparation and contribution",
+			"weight": 20
+		},
+		{
+			"name": "Short Essay",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 30
+		}
+	]
+}

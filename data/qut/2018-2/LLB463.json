@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 40
+		},
+		{
+			"name": "Virtual showcase (Group)",
+			"weight": 10
+		},
+		{
+			"name": "Journal and evaluation",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Prof Proj Practice (Applied)",
+			"weight": 50
+		},
+		{
+			"name": "Crit Refl Prac Eval (Applied)",
+			"weight": 40
+		}
+	]
+}

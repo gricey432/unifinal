@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Insect identification",
+			"weight": 10
+		},
+		{
+			"name": "Module 1 - Vegetation succession ",
+			"weight": 10
+		},
+		{
+			"name": "Monitoring biodiversity with TEAM Network",
+			"weight": 20
+		},
+		{
+			"name": "Ecological monitoring with camera traps",
+			"weight": 10
+		},
+		{
+			"name": "Module 3 - Aquatic ecology",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

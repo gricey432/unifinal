@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Lipid oxidation",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "Practical 2: Metabolic Pathways",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "Practical 3: Purine Degradation",
+			"weight": 25
+		},
+		{
+			"name": "Understanding research in metabolism: Part 1",
+			"weight": "Marks awarded when assessed in \"Understanding research in metabolism: Part 2\""
+		},
+		{
+			"name": "Understanding research in metabolism: Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

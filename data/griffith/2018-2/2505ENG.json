@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Gearbox exploring project",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Problems",
+			"weight": 8
+		},
+		{
+			"name": "In-class test (week 10)",
+			"weight": 20
+		},
+		{
+			"name": "Site Visit Reflection & Linked-in Profile",
+			"weight": 10
+		},
+		{
+			"name": "Gearbox design project",
+			"weight": 50
+		}
+	]
+}

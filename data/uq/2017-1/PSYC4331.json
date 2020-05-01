@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation Throughout the Semester",
+			"weight": 10
+		},
+		{
+			"name": "Presentation Peer Review",
+			"weight": 5
+		},
+		{
+			"name": "Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Essay peer review",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "10 quizzes to be completed in tutorials",
+			"weight": "The scores from your best 8 quizzes will account for 30"
+		},
+		{
+			"name": "Lecture workshop participation points",
+			"weight": 10
+		},
+		{
+			"name": "Computer lab worksheets",
+			"weight": 15
+		},
+		{
+			"name": "First submission of assignment",
+			"weight": 25
+		},
+		{
+			"name": "Second submission of assignment & cover letter",
+			"weight": 20
+		}
+	]
+}

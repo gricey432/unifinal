@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participación y asistencia ",
+			"weight": 5
+		},
+		{
+			"name": "Online Revision Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Oral Video Presentation ",
+			"weight": 8
+		},
+		{
+			"name": "Written Test 1 - Cap 12 & 13",
+			"weight": 24
+		},
+		{
+			"name": "Written Test 2 - Cap 14 & 15",
+			"weight": 30
+		},
+		{
+			"name": "Entrevista oral",
+			"weight": 25
+		}
+	]
+}

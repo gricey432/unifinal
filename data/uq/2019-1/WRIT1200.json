@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Writing journal",
+			"weight": 10
+		},
+		{
+			"name": "Reading Exercise - Annotation tasks",
+			"weight": 5
+		},
+		{
+			"name": "Writing project (Stage 1): Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Writing project (Stage 2): Draft & peer feedback",
+			"weight": 10
+		},
+		{
+			"name": "Writing project (Stage 3): Final submission",
+			"weight": 50
+		}
+	]
+}

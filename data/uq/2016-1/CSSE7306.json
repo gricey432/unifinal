@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Thesis report submission ",
+			"weight": 50
+		}
+	]
+}

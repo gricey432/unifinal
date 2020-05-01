@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Mid Trimester Written Exam",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Exam 1",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Exam 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Written Exam",
+			"weight": 35
+		}
+	]
+}

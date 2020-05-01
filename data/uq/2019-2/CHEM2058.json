@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Essential on-line modules",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Workshop Module Reports",
+			"weight": 45
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Laboratory performance",
+			"weight": 10
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Report on Laboratory Project",
+			"weight": 30
+		}
+	]
+}

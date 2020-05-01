@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for written assignment",
+			"weight": 20
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

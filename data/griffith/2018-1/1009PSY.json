@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "1500 word essay topic to be advised",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

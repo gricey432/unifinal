@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal and Essay",
+			"weight": 25
+		},
+		{
+			"name": "Participation at internship and at class meetings",
+			"weight": 25
+		},
+		{
+			"name": "Negotiated Essay Topic",
+			"weight": 50
+		}
+	]
+}

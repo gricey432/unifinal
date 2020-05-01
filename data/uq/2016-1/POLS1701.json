@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Essay (1000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Second Essay (2000)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 30
+		}
+	]
+}

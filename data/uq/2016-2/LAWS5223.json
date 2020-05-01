@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class seminar and problem solving participation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 60
+		}
+	]
+}

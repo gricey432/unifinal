@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "In Tutorial of Week 6 & Lecture 2 of Week 7",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam (1000 words)",
+			"weight": 40
+		}
+	]
+}

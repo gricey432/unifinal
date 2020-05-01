@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective learning journal",
+			"weight": 30
+		},
+		{
+			"name": "Take home exam",
+			"weight": 30
+		},
+		{
+			"name": "A conversation about Indigenous education",
+			"weight": 40
+		}
+	]
+}

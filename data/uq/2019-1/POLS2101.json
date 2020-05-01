@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Reading Reports",
+			"weight": 8
+		},
+		{
+			"name": "Participation in Tutorial Discussion",
+			"weight": 8
+		},
+		{
+			"name": "Textual Analysis 1",
+			"weight": 20
+		},
+		{
+			"name": "Textual Analysis 2",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 40
+		},
+		{
+			"name": "Course Reflection Discussion Paper",
+			"weight": 4
+		}
+	]
+}

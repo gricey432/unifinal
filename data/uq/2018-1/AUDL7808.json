@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation clinic workbook",
+			"weight": 0
+		},
+		{
+			"name": "Test battery and cross-check principle",
+			"weight": 15
+		},
+		{
+			"name": "Test protocols birth to six",
+			"weight": 20
+		},
+		{
+			"name": "Educational Audiology in contemporary Australia",
+			"weight": 25
+		},
+		{
+			"name": "Educational Audiology in contemporary Australia",
+			"weight": "As per Groups 1-5"
+		},
+		{
+			"name": "Paediatric and Educational Audiology",
+			"weight": 40
+		}
+	]
+}

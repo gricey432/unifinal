@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Destination Management Strategy - Part A",
+			"weight": 15
+		},
+		{
+			"name": "Destination Management Strategy - Parts B and C",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

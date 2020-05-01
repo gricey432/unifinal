@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Educational Resource",
+			"weight": 20
+		},
+		{
+			"name": "Memorandum of Advice",
+			"weight": 40
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

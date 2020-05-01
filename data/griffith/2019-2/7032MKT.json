@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Strategy Audit Report ",
+			"weight": 40
+		},
+		{
+			"name": "Strategy Report ",
+			"weight": 60
+		}
+	]
+}

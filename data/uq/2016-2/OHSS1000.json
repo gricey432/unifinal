@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop 1 - Paddington Train Disaster",
+			"weight": 5
+		},
+		{
+			"name": "Workshop 2 - Bhopal",
+			"weight": 5
+		},
+		{
+			"name": "Risk Management Case Study",
+			"weight": 5
+		},
+		{
+			"name": "Workshop 3 - Piper Alpha",
+			"weight": 5
+		},
+		{
+			"name": "Legislation Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Hazardous Chemicals Case Study Report",
+			"weight": 15
+		},
+		{
+			"name": "Hazardous Manual Tasks Case Study Report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

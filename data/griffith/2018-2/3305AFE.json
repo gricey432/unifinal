@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Applied Econometric Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

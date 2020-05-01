@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignment 1 (12A-E)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 2 (12F-I)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 3 (13A-B)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 4 (13C-E)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 5 (13F-I)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "Homework Assignment 6 (14A-F)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 7 (Sections 16A-B)",
+			"weight": "total 25"
+		},
+		{
+			"name": "Homework Assignment 8 (Sections 16C-H)",
+			"weight": "total 25"
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheet",
+			"weight": 8
+		},
+		{
+			"name": "HSK tests",
+			"weight": 2
+		},
+		{
+			"name": "Essay writing tests        ",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Doing Sociology using Social Media",
+			"weight": 15
+		},
+		{
+			"name": "Proposal for major research project",
+			"weight": 5
+		},
+		{
+			"name": "Major research project",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

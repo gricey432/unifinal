@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Ethical Dilemma Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2:Client Analysis Case Study ",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 60
+		}
+	]
+}

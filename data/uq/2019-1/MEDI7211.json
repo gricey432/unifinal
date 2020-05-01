@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL - FORMATIVE",
+			"weight": "Pass/Fail(provides formal feedback towards the summative CBL participation assessment)"
+		},
+		{
+			"name": "Contribution to CBL - SUMMATIVE",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Mid-Semester MCQ Examination",
+			"weight": 30
+		},
+		{
+			"name": "Weekly online quizzes-formative",
+			"weight": 0
+		},
+		{
+			"name": "End of Semester Exam Paper II - spotter",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam Paper I (MCQ)",
+			"weight": 50
+		}
+	]
+}

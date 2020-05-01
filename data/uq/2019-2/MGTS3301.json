@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis in Management Team Meetings",
+			"weight": 30
+		},
+		{
+			"name": "Structure, Controls, and Leadership",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

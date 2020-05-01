@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Library tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester Module 1 Exam",
+			"weight": 40
+		},
+		{
+			"name": "Fieldwork Report: Lived Experience",
+			"weight": 30
+		},
+		{
+			"name": "Health Professional Student Requirements",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Activity Analysis Assignment Module 2",
+			"weight": 30
+		}
+	]
+}

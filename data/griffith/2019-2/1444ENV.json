@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice quizzes (2 Quizzes - 15% each)",
+			"weight": 30
+		},
+		{
+			"name": "Individual Structured Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Group - Investigation, Reporting and Seminar",
+			"weight": 40
+		}
+	]
+}

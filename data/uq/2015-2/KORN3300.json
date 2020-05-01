@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": 15
+		},
+		{
+			"name": "Seminar presentation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper",
+			"weight": 60
+		}
+	]
+}

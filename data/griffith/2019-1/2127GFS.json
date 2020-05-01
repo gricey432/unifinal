@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 1 green screen rough comp",
+			"weight": 40
+		},
+		{
+			"name": "Assess 2 composited shot",
+			"weight": 60
+		}
+	]
+}

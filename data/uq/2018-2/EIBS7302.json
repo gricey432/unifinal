@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay on Disruptive Innovation -BackBay",
+			"weight": 30
+		},
+		{
+			"name": "Photo Essay on Innovation",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

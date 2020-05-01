@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Mid semester exam (written)",
+			"weight": 20
+		},
+		{
+			"name": "Writing a short essay ",
+			"weight": 10
+		},
+		{
+			"name": "Final presentation project ",
+			"weight": 15
+		},
+		{
+			"name": "Final written exam ",
+			"weight": 35
+		}
+	]
+}

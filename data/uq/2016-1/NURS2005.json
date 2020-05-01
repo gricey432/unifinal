@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation in class",
+			"weight": 50
+		},
+		{
+			"name": "Exam for NURS 2005",
+			"weight": 50
+		}
+	]
+}

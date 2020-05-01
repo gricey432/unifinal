@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Education Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Parenting Advice to Client",
+			"weight": 35
+		},
+		{
+			"name": "End of Tirmester Examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Facilitated Group Debates",
+			"weight": 30
+		},
+		{
+			"name": "Ethical Issues and Theory",
+			"weight": 30
+		},
+		{
+			"name": "Central Examination",
+			"weight": 40
+		}
+	]
+}

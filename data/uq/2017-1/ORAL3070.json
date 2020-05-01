@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Assessment ",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ORAL PRESENTATION OF TWO CASE STUDIES",
+			"weight": 50
+		},
+		{
+			"name": "Semester 1 Written Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy recommendation: protected area targets",
+			"weight": 40
+		},
+		{
+			"name": "Slide Show",
+			"weight": 10
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 50
+		}
+	]
+}

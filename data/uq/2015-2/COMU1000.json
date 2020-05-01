@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Semiotic Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Journal ",
+			"weight": 50
+		}
+	]
+}

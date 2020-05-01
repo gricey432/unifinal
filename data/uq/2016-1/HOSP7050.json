@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Questionnaire ",
+			"weight": 20
+		},
+		{
+			"name": "Food & Drink Experience Project ",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation Report",
+			"weight": 20
+		},
+		{
+			"name": "Consultant Group Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

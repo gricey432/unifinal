@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online short assignment",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam (during lecture hours)",
+			"weight": 40
+		},
+		{
+			"name": "Written examination",
+			"weight": 50
+		}
+	]
+}

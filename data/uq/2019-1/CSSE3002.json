@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "User Stories",
+			"weight": 15
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Processes and Techniques Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Use Case Modelling",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

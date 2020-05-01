@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "The Learning Thermometer",
+			"weight": 5
+		},
+		{
+			"name": "Pre-clinical Skills Assessment - Wax carving",
+			"weight": 5
+		},
+		{
+			"name": "Simulation Peer Clinic Skills Assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "Semester 1 Written Exam",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Writing",
+			"weight": 10
+		},
+		{
+			"name": "Pre-clinical Skills Assessment 2 LearnaPrep Cavity",
+			"weight": 10
+		},
+		{
+			"name": "Simulation Peer Clinic Skills Assessment 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Year Exam",
+			"weight": 30
+		}
+	]
+}

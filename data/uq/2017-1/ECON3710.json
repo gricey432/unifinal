@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Applying the theory (Assignment 1)",
+			"weight": 20
+		},
+		{
+			"name": "Energy Economics (Assignment 2)",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

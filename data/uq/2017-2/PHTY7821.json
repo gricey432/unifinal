@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Upper Limb Applied Anatomy Exam",
+			"weight": 5
+		},
+		{
+			"name": "Upper Limb Pathology Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Written Examination",
+			"weight": 30
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 35
+		}
+	]
+}

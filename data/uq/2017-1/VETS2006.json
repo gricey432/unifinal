@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Micro/Para Competency assessment",
+			"weight": 0
+		},
+		{
+			"name": "Epidemiology and Virology",
+			"weight": 20
+		},
+		{
+			"name": "Arthropods collection/identification",
+			"weight": 10
+		},
+		{
+			"name": "Parasitology and Microbiology",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Knowledge Management Project",
+			"weight": 25
+		},
+		{
+			"name": "Presentation &amp; Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

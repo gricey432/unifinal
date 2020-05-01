@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Family Study",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

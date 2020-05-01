@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CAM continuing assessment - online modules",
+			"weight": 10
+		},
+		{
+			"name": "CAD Basic Skills",
+			"weight": 10
+		},
+		{
+			"name": "CAD Rim Wheel Design",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

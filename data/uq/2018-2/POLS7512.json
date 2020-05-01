@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Seminar Discussion ",
+			"weight": 20
+		},
+		{
+			"name": "Case Analysis or Presentation (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (3500 Words)",
+			"weight": 50
+		}
+	]
+}

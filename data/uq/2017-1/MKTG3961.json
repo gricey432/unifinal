@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "First Hedging Simulation Report",
+			"weight": 10
+		},
+		{
+			"name": "Second Hedging Simulation Report",
+			"weight": 10
+		},
+		{
+			"name": "First Trading Simulation Report",
+			"weight": 10
+		},
+		{
+			"name": "Second Trading Simulation Report",
+			"weight": 10
+		},
+		{
+			"name": "Overall Hedging & Trading Simulation Activities",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

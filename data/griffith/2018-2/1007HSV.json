@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Observation Visit and Reflection Essay",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 40
+		},
+		{
+			"name": "End of trimester exam ",
+			"weight": 40
+		}
+	]
+}

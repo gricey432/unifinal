@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Policy Analysis and Briefing Note",
+			"weight": 35
+		},
+		{
+			"name": "Digital story or Online PowerPoint presentation",
+			"weight": 35
+		}
+	]
+}

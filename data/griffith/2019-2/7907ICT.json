@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Part 1: Assignment Abstract",
+			"weight": 10
+		},
+		{
+			"name": "Part 2:  Draft Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Part 3:  Completed Assignment",
+			"weight": 50
+		}
+	]
+}

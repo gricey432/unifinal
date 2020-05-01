@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Contribution",
+			"weight": 10
+		},
+		{
+			"name": "Negotiation Plan",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

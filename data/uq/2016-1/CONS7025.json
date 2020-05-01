@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Rainforest Conservation Exam",
+			"weight": 35
+		},
+		{
+			"name": "Carbon Sequestration Exercise: Carbon worksheet",
+			"weight": 25
+		},
+		{
+			"name": "Conservation Values of Rainforest and Regrowth",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "In-class participation",
+			"weight": 12
+		},
+		{
+			"name": "Writing and Listening Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Interview of a native speaker",
+			"weight": 18
+		},
+		{
+			"name": "Writing and Listening Test 2",
+			"weight": 25
+		},
+		{
+			"name": "Oral Interview ",
+			"weight": 30
+		}
+	]
+}

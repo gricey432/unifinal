@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Writing assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Academic Integrity Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Writing assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Midterm exam",
+			"weight": 10
+		},
+		{
+			"name": "Proposal",
+			"weight": 50
+		},
+		{
+			"name": "The Seminar",
+			"weight": 30
+		}
+	]
+}

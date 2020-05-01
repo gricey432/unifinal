@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mixed-Media Poster & Written Text",
+			"weight": 30
+		},
+		{
+			"name": "Individual Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative Critical Paper",
+			"weight": 40
+		}
+	]
+}

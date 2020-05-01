@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Draft thesis chapter",
+			"weight": 30
+		},
+		{
+			"name": "Methodology thesis chapter",
+			"weight": 60
+		}
+	]
+}

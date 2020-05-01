@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Criminal Sitting Supreme Court",
+			"weight": 10
+		},
+		{
+			"name": "Written Statement of Expert Evidence",
+			"weight": 20
+		},
+		{
+			"name": "Moot Court Examination on Statement",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Class Discussion Time",
+			"weight": 15
+		},
+		{
+			"name": "Recorded Group Discussion",
+			"weight": 35
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

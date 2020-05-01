@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments based on Classwork",
+			"weight": 30
+		},
+		{
+			"name": "Declension, Conjugation, Principal Parts Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "1 hour",
+			"weight": 25
+		},
+		{
+			"name": "2 hours",
+			"weight": 40
+		}
+	]
+}

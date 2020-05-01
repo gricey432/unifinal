@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Nudges to Alleviate Poverty",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam on Part II of the course",
+			"weight": 40
+		}
+	]
+}

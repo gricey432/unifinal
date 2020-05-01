@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Guided Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Multi-choice test (2 hrs)",
+			"weight": 30
+		},
+		{
+			"name": "Essay (2500 words)",
+			"weight": 50
+		}
+	]
+}

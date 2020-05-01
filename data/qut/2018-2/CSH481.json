@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence 1",
+			"weight": 20
+		},
+		{
+			"name": "Evidence 2",
+			"weight": 20
+		},
+		{
+			"name": "OSCE",
+			"weight": 60
+		}
+	]
+}

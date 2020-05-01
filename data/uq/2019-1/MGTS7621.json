@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 25
+		},
+		{
+			"name": "Career Plan",
+			"weight": 25
+		},
+		{
+			"name": "Career ePortfolio",
+			"weight": 50
+		}
+	]
+}

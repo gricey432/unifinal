@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Trimester Review and Work log",
+			"weight": 20
+		},
+		{
+			"name": "Planning documents",
+			"weight": 20
+		},
+		{
+			"name": "Sprint One",
+			"weight": 15
+		},
+		{
+			"name": "Sprint Two",
+			"weight": 20
+		},
+		{
+			"name": "Sprint Three",
+			"weight": 25
+		}
+	]
+}

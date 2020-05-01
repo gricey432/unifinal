@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Evaluation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Dysphagia simulation (paediatric)",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Case Integration Examination",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

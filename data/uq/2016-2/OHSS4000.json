@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership & Influencing",
+			"weight": 15
+		},
+		{
+			"name": "Workplace Training",
+			"weight": 25
+		},
+		{
+			"name": "Selection Criteria",
+			"weight": 15
+		},
+		{
+			"name": "Emerging Issues",
+			"weight": 30
+		},
+		{
+			"name": "Interview Skills",
+			"weight": 15
+		}
+	]
+}

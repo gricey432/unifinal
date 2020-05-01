@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Twitter-based introduction writing",
+			"weight": 30
+		},
+		{
+			"name": "Story idea and pitch",
+			"weight": 20
+		},
+		{
+			"name": "Final news story: story and images",
+			"weight": 50
+		}
+	]
+}

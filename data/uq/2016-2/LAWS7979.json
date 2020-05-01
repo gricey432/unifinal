@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Exam",
+			"weight": 50
+		},
+		{
+			"name": "Selected topics in commercial conflict of laws",
+			"weight": 50
+		}
+	]
+}

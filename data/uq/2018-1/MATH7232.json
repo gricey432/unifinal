@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Linear Programming",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Integer Programming",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3 - Dynamic Programming",
+			"weight": 10
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		}
+	]
+}

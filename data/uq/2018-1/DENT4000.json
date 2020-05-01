@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Ethics, Law and Professional Report",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on Ethics, Law and Professional Report",
+			"weight": 5
+		},
+		{
+			"name": "Review of Ethics, Law and Professional Report",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

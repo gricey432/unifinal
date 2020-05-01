@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Report (Beam Optics)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1 (Fourier Optics)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 (Polarisation Optics)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3 (Fibre Optics)",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

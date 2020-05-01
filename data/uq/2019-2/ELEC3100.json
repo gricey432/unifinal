@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

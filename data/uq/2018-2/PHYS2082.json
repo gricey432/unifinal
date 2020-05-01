@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizzes",
+			"weight": "Must complete 75 per cent of quizzes"
+		},
+		{
+			"name": "Class Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Mystery Planet Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Class Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Class Test 3",
+			"weight": 10
+		},
+		{
+			"name": " Mystery Planet Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

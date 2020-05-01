@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal and Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Participation in Critical Reading",
+			"weight": 40
+		},
+		{
+			"name": "Leading Discussion",
+			"weight": 10
+		}
+	]
+}

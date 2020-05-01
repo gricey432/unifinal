@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Character Notes",
+			"weight": 20
+		},
+		{
+			"name": "Concept Synopsis",
+			"weight": 30
+		},
+		{
+			"name": "Scripted Scenes",
+			"weight": 50
+		}
+	]
+}

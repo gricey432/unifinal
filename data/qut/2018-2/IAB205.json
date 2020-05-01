@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 50
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 35
+		}
+	]
+}

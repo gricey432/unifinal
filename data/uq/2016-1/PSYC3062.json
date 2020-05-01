@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercises (40%)",
+			"weight": 40
+		},
+		{
+			"name": "Structured paper on a HF topic",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly homework",
+			"weight": 20
+		},
+		{
+			"name": "participation and attendance",
+			"weight": 5
+		},
+		{
+			"name": "Weekly blog",
+			"weight": 10
+		},
+		{
+			"name": "Interview with native speaker",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation and discussion of a news article",
+			"weight": 15
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Image Acquisition and Interpretation",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Image Acquisition and Interpretation",
+			"weight": 30
+		},
+		{
+			"name": "ECHO7001 - Final Examination",
+			"weight": 70
+		}
+	]
+}

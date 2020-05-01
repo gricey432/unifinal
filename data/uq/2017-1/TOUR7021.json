@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical self and team evaluation (individual)",
+			"weight": 15
+		},
+		{
+			"name": "Article Presentation & Group Conversation Journal",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

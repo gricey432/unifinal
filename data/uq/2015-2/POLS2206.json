@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Major Research Essay (2500 words)",
+			"weight": 45
+		},
+		{
+			"name": "End of semester examination ",
+			"weight": 40
+		}
+	]
+}

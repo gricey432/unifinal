@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 10
+		},
+		{
+			"name": "Project Design ",
+			"weight": 40
+		},
+		{
+			"name": "Individual Paper",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Studios",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Linked Project Rep1: Contextual Inquiry & Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Linked Project Rep2: Conceptual Design Prototype",
+			"weight": 15
+		},
+		{
+			"name": "Linked Project Rep3: Evaluation Report",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

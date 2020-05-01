@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computer exercises",
+			"weight": 60
+		},
+		{
+			"name": "Programming Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Project",
+			"weight": "Not required to pass, 20 marks"
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 30
+		}
+	]
+}

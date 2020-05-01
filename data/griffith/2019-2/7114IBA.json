@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Technical Written Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Risk Assessment",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 3",
+			"weight": 20
+		}
+	]
+}

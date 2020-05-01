@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 8
+		},
+		{
+			"name": "Topic Selection Paper",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reflection Paper",
+			"weight": 7
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "<p><b>STATEMENT FOR COURT</b></p><p></p>",
+			"weight": 20
+		},
+		{
+			"name": "Non-Graded Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "<b></b><p>GROUP LABORATORY REPORTS</p><p></p>",
+			"weight": 20
+		},
+		{
+			"name": "<b></b><p>QUIZ</p><p></p>",
+			"weight": 15
+		},
+		{
+			"name": "<b></b><p>END OF SEMESTER WRITTEN EXAM (2hr)</p><p></p>",
+			"weight": 45
+		}
+	]
+}

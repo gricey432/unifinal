@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Concept-situation Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Volunteering",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Collaborative project and presentation ",
+			"weight": 30
+		},
+		{
+			"name": "Critical reflection",
+			"weight": 35
+		}
+	]
+}

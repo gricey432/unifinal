@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Two Case Studies",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Diary",
+			"weight": 10
+		},
+		{
+			"name": "Discussion of scientific paper on H-W Conflict",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 20
+		}
+	]
+}

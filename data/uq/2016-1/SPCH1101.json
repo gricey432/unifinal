@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Requirements for Clinical Placements",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fieldwork, Tutorial Tasks & Audiology Report",
+			"weight": 20
+		},
+		{
+			"name": "Play Case Report",
+			"weight": 30
+		},
+		{
+			"name": "Oral - Clinic Functioning & Predominant Disorder",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

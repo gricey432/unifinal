@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Orthodontic preclinical/laboratory sessions",
+			"weight": 30
+		},
+		{
+			"name": "Orthodontic Diagnostic Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Paediatric Dentistry Theory Written Exam",
+			"weight": 25
+		},
+		{
+			"name": "Orthodontic Theory Written Exam ",
+			"weight": 25
+		}
+	]
+}

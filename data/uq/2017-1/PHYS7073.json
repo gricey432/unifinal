@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - C",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - more on C",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 - Numerical integration",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4 - ODEs - 1st order ODEs, Euler method",
+			"weight": 5
+		},
+		{
+			"name": "Assignment A: Coupled ODEs",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 5 - ODEs(II) - Higher order integrators",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 6 - ODEs (III) - Stochastic ODEs",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 7 - Langevin Diffusion",
+			"weight": 5
+		},
+		{
+			"name": "Assignment B",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 8 - Partial differential equations ",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 9 - PDEs via Finite Differences",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 10 - PDEs(III) - Fokker-Planck Equation",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

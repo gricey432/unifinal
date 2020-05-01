@@ -1,0 +1,80 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Preparation and Engagement Score",
+			"weight": 0
+		},
+		{
+			"name": "DKHI Exam 1 Anatomy Histology Pathology Practical",
+			"weight": 10
+		},
+		{
+			"name": "DKHI Examination 1 SAQ paper",
+			"weight": 15
+		},
+		{
+			"name": "DKHI Examination 1 MCQ paper",
+			"weight": 13
+		},
+		{
+			"name": "DKHI Exam 2 Anatomy, Histology, Pathology Prac",
+			"weight": 20
+		},
+		{
+			"name": "DKHI Examination 2 SAQ papers (2 papers)",
+			"weight": 22
+		},
+		{
+			"name": "DKHI Examination 2 MCQ papers (2 papers)",
+			"weight": 19
+		},
+		{
+			"name": "Clinical Skills Competency Based Assessments",
+			"weight": 0
+		},
+		{
+			"name": "Community Placement ITAs",
+			"weight": 0
+		},
+		{
+			"name": "Community Placement Group Presentation",
+			"weight": 0
+		},
+		{
+			"name": "DHC Exam 1 SAQ written paper",
+			"weight": 13
+		},
+		{
+			"name": "DHC Exam 1 MCQ paper",
+			"weight": 27
+		},
+		{
+			"name": "DHC Exam 2 SAQ written papers (2 papers)",
+			"weight": 20
+		},
+		{
+			"name": "DHC Exam 2 MCQ papers (2 papers)",
+			"weight": 40
+		},
+		{
+			"name": "DLEPP Exam 1 SAQ paper",
+			"weight": 20
+		},
+		{
+			"name": "DLEPP Exam 1 MCQ Paper",
+			"weight": 10
+		},
+		{
+			"name": "DLEPP Debate",
+			"weight": 30
+		},
+		{
+			"name": "DLEPP Exam 2 SAQ papers (2 papers)",
+			"weight": 30
+		},
+		{
+			"name": "DLEPP Exam 2 MCQ papers (2 papers)",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Engagement",
+			"weight": 5
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Qualitative Research Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

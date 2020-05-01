@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester exam",
+			"weight": 25
+		},
+		{
+			"name": "Test Construction Exercise",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

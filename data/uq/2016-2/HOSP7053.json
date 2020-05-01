@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Leadership Self-Evaluation",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

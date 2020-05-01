@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Minimum participation requirement at PASS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Quiz 1: Skeletal system",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 2: Muscular system",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 3: Nervous system",
+			"weight": 3
+		},
+		{
+			"name": "Online Quiz 4: Visceral systems",
+			"weight": 4
+		},
+		{
+			"name": "Mid-Semester Practical Exam",
+			"weight": 17
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 17
+		}
+	]
+}

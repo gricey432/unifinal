@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service Management Concept Presentation",
+			"weight": 30
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

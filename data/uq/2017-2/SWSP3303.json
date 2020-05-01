@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Ethical Clearance Application",
+			"weight": 40
+		},
+		{
+			"name": "Survey Design and Research Proposal",
+			"weight": 30
+		}
+	]
+}

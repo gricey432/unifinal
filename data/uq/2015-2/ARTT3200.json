@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Independent Research Essay ",
+			"weight": 100
+		},
+		{
+			"name": "Internship Report & Research Essay",
+			"weight": 100
+		}
+	]
+}

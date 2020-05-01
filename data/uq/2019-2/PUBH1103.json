@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Workbook",
+			"weight": "Workbook compilation I 35"
+		},
+		{
+			"name": "In class Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Eat the Week",
+			"weight": 10
+		}
+	]
+}

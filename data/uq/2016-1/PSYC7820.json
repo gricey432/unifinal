@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Supervision Agreement Form",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Activity Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Supervision Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Point and End-Point Reviews",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Placement Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "UQ Psychology Clinic Internship Assessment Assessm",
+			"weight": "Assessed by supervisor"
+		}
+	]
+}

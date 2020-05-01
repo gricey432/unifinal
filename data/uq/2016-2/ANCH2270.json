@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance and contribution",
+			"weight": 15
+		},
+		{
+			"name": "Object Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Exhibition Proposal Draft",
+			"weight": 15
+		},
+		{
+			"name": "ANCH2270 Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Mini Exhibition Curation and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

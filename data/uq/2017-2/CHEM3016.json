@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Notebook (Weeks 1-13)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Worksheet (Experiment 1, Week 1)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Reports (Experiments 2-5, Weeks 2-6)",
+			"weight": 40
+		},
+		{
+			"name": "Full Project Report (Weeks 7-12)",
+			"weight": 40
+		},
+		{
+			"name": "Prac Exam (Week 10)",
+			"weight": 20
+		}
+	]
+}

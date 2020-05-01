@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Contact",
+			"weight": 10
+		},
+		{
+			"name": "Learning Contract",
+			"weight": 0
+		},
+		{
+			"name": "OHS Tasks",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 15
+		},
+		{
+			"name": "Supervisor's Report",
+			"weight": 10
+		},
+		{
+			"name": "OHS Audit",
+			"weight": 25
+		}
+	]
+}

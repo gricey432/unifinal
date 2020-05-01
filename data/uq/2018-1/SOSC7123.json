@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Identification of a focal issue",
+			"weight": 5
+		},
+		{
+			"name": "Analysis",
+			"weight": 45
+		},
+		{
+			"name": "Development of a community plan",
+			"weight": 50
+		}
+	]
+}

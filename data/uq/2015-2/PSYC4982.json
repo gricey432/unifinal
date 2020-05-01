@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 50
+		},
+		{
+			"name": "Record of in-class activities",
+			"weight": 10
+		},
+		{
+			"name": "Persuasive Essay",
+			"weight": 15
+		},
+		{
+			"name": "Final Project",
+			"weight": 25
+		}
+	]
+}

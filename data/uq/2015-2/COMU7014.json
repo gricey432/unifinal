@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical respondent",
+			"weight": 15
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Theorising ICTs, community media and social change",
+			"weight": 45
+		},
+		{
+			"name": "Critical evaluation of social change projects",
+			"weight": 25
+		}
+	]
+}

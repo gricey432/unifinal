@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "critical literature review",
+			"weight": 35
+		},
+		{
+			"name": "participation, discussion and peer assessment",
+			"weight": 15
+		},
+		{
+			"name": "research paper and presentation",
+			"weight": 50
+		}
+	]
+}

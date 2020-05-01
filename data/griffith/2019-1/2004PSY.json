@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Applied Project, 2000 words",
+			"weight": 50
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises for Weeks 2-12",
+			"weight": 40
+		},
+		{
+			"name": "Individual report",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

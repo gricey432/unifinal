@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog",
+			"weight": 40
+		},
+		{
+			"name": "Written Test",
+			"weight": 40
+		},
+		{
+			"name": "Debate",
+			"weight": 20
+		}
+	]
+}

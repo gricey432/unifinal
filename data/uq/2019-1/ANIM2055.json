@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Design brief of enclosure - peer assessment",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 40
+		},
+		{
+			"name": "Assessment of architectural zoo enclosure designs",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

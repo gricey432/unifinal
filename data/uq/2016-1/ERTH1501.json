@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Virtual Field Trip",
+			"weight": 5
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 40
+		}
+	]
+}

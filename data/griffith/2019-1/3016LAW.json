@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "My Professional Role in Constitutional Law Context",
+			"weight": 40
+		},
+		{
+			"name": "Workshop Response",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

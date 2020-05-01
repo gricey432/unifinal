@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in action learning",
+			"weight": "Pass"
+		},
+		{
+			"name": "Evaluation plan for educational innovation",
+			"weight": "Pass"
+		},
+		{
+			"name": "Action learning report",
+			"weight": "Pass"
+		}
+	]
+}

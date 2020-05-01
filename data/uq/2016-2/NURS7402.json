@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Holistic Assessment and Planning Care",
+			"weight": 40
+		},
+		{
+			"name": "Evaluating nursing and collaborative practice",
+			"weight": 60
+		}
+	]
+}

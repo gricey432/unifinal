@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 6
+		},
+		{
+			"name": "Written & Listening test 1 chapters 8 & 9",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation & peer-assessment",
+			"weight": 12
+		},
+		{
+			"name": "Reading & writing test",
+			"weight": 12
+		},
+		{
+			"name": "Written & Listening test 2 chapters 10 & 11",
+			"weight": 26
+		},
+		{
+			"name": "Oral interview",
+			"weight": 24
+		}
+	]
+}

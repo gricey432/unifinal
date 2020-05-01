@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critique (Written)",
+			"weight": 40
+		},
+		{
+			"name": "Written Essay &amp; Oral Critique",
+			"weight": 60
+		}
+	]
+}

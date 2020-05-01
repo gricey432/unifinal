@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Component (Microbiology)",
+			"weight": 6
+		},
+		{
+			"name": "Quiz during  tutorial sessions",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Component (Biochemistry)",
+			"weight": 6
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 14
+		},
+		{
+			"name": "Field trip report",
+			"weight": 4
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advisor's Assessment of Research Performance",
+			"weight": 15
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Final Report",
+			"weight": 75
+		}
+	]
+}

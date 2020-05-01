@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Synopsis and key papers for your presentation",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentation on selected/assigned topic",
+			"weight": 30
+		},
+		{
+			"name": "Engaged audience role and chair",
+			"weight": 15
+		},
+		{
+			"name": "Essay based on selected topic",
+			"weight": 40
+		}
+	]
+}

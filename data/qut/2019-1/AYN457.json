@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": 20
+		},
+		{
+			"name": "Financial Planning Case",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

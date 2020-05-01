@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Engagement Activity",
+			"weight": 5
+		},
+		{
+			"name": "Group-led facilitated discussion",
+			"weight": 20
+		},
+		{
+			"name": "Participatory Skills Facilitation",
+			"weight": 20
+		},
+		{
+			"name": "The Contribution of Community Development",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1. Student topical theme production",
+			"weight": 15
+		},
+		{
+			"name": "2a. Participant topical theme production",
+			"weight": 15
+		},
+		{
+			"name": "2b. Participant generative theme production",
+			"weight": 35
+		},
+		{
+			"name": "3. Reflective essay",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Participation",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Translation",
+			"weight": 35
+		},
+		{
+			"name": "Final exam- Translation",
+			"weight": 50
+		}
+	]
+}

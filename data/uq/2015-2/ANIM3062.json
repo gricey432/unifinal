@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Significant Key Issue",
+			"weight": 30
+		},
+		{
+			"name": "Emerging Issues in Animal Bioscience",
+			"weight": 15
+		},
+		{
+			"name": "Critique of a popular press article/book",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

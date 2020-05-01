@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Honours Research Project in Marine Studies",
+			"weight": 85
+		},
+		{
+			"name": "Research Performance",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Selection of 4 from 6 assignment tasks",
+			"weight": 50
+		},
+		{
+			"name": "4 allocated recovery strategies assignments",
+			"weight": 50
+		}
+	]
+}

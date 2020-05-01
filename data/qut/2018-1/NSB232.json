@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Medication calculation",
+			"weight": 0
+		},
+		{
+			"name": "Placement performance",
+			"weight": 0
+		}
+	]
+}

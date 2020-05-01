@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 5
+		},
+		{
+			"name": "Field Report (field trip participants)",
+			"weight": 55
+		},
+		{
+			"name": "Alternate Essay (for non-field trip participants)",
+			"weight": 55
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

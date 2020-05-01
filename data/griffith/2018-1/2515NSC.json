@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scenario based critical analysis",
+			"weight": 20
+		},
+		{
+			"name": "Accident Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

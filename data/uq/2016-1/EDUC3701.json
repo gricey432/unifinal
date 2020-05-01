@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Blue Card Upload",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "WRITTEN ASSESSMENT TASK 1 ",
+			"weight": 25
+		},
+		{
+			"name": " WRITTEN ASSESSMENT TASK 2  ",
+			"weight": 30
+		},
+		{
+			"name": "WRITTEN ASSESSMENT TASK 3 ",
+			"weight": 40
+		},
+		{
+			"name": "5 Day Placement ",
+			"weight": "Pass/Fail"
+		}
+	]
+}

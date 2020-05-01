@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tareas evaluadas/Worksheets",
+			"weight": 16
+		},
+		{
+			"name": "Test 1",
+			"weight": 24
+		},
+		{
+			"name": "Reading and Composition",
+			"weight": 10
+		},
+		{
+			"name": "Oral group presentation",
+			"weight": 22
+		},
+		{
+			"name": "Test 2",
+			"weight": 28
+		}
+	]
+}

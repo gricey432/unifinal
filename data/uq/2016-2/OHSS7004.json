@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Hygiene Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Exploring an Occupational Hygiene Issue",
+			"weight": 25
+		},
+		{
+			"name": "Practical Report",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

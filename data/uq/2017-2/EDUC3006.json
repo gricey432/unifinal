@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection, Design and Teaching Tasks",
+			"weight": 30
+		},
+		{
+			"name": "Minor Prac Teaching Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Design & Findings",
+			"weight": 45
+		},
+		{
+			"name": "Minor Prac Teaching Performance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "UniPE Secondary Teaching Performance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

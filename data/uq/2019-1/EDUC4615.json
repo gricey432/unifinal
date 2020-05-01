@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Professional Experience",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Professional practice log and Reflective essay",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Personal Development Plan and reflective essay",
+			"weight": "Pass/Fail "
+		}
+	]
+}

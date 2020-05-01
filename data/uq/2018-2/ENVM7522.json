@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Study exercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 Protected Area Systems Review",
+			"weight": 30
+		},
+		{
+			"name": "Multiple Use Protected areas - Good or Bad?",
+			"weight": 20
+		},
+		{
+			"name": "Study exercise 2",
+			"weight": 5
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group participation in teaching workshops",
+			"weight": 15
+		},
+		{
+			"name": "Water Supply and Sanitation individual essay",
+			"weight": 20
+		},
+		{
+			"name": "Individual PBL 3 - Gladstone",
+			"weight": 25
+		},
+		{
+			"name": "Group design exercise",
+			"weight": 15
+		},
+		{
+			"name": "Problem based learning - Individual Task ",
+			"weight": 25
+		}
+	]
+}

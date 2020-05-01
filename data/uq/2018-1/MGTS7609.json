@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial excercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "ER Litertaure Review",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise 2",
+			"weight": 5
+		},
+		{
+			"name": "Analytical essay ",
+			"weight": 30
+		}
+	]
+}

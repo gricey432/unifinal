@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Missing Data",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2: Mediation and Moderation",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

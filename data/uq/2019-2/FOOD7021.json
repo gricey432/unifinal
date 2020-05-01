@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Practices",
+			"weight": 20
+		},
+		{
+			"name": "Learning Contract and Risk Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervisor Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Company Report",
+			"weight": 20
+		},
+		{
+			"name": "Supervisor Report 2",
+			"weight": 20
+		},
+		{
+			"name": "Industry Placement - Learning and Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Final Reflection",
+			"weight": 10
+		}
+	]
+}

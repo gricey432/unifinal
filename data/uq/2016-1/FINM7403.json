@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid exam",
+			"weight": 30
+		},
+		{
+			"name": "Company Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (2 Hour)",
+			"weight": 45
+		}
+	]
+}

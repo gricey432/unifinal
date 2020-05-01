@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Leadership",
+			"weight": 25
+		},
+		{
+			"name": "Critique of an Academic Research Article",
+			"weight": 25
+		},
+		{
+			"name": "Research Paper",
+			"weight": 50
+		}
+	]
+}

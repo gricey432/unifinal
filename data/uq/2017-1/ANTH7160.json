@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Article/book chapter/report oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Article/book chapter/report review: written",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Peer feedback on in-class case study presentations",
+			"weight": 5
+		},
+		{
+			"name": "In-class presentation of case study paper",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on a topic in gender and development",
+			"weight": 50
+		}
+	]
+}

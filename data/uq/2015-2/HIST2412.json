@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual participation and  transcription tasks ",
+			"weight": 20
+		},
+		{
+			"name": "Transcription & Document Analysis Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Research Assignment",
+			"weight": 50
+		}
+	]
+}

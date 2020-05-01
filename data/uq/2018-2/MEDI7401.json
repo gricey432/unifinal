@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mini CEX in Gynaecology",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "Clinical Participation Assessment  Gynaecology",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "OSCE in Gynaecology",
+			"weight": 33
+		},
+		{
+			"name": "MCQ Examination in Obstetrics",
+			"weight": 17
+		},
+		{
+			"name": "Documented Vaginal Deliveries",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "Clinical Participation Assessment - Obstetrics",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "MCQ Examination in Gynaecology",
+			"weight": 17
+		},
+		{
+			"name": "Mini CEX - Obstetrics",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "OSCE in Obstetrics",
+			"weight": 33
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of Perspectives",
+			"weight": 20
+		},
+		{
+			"name": "Community of Practice involvement",
+			"weight": 20
+		},
+		{
+			"name": "Academic Analysis ",
+			"weight": 60
+		}
+	]
+}

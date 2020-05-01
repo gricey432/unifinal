@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "One",
+			"weight": 3
+		},
+		{
+			"name": "Two",
+			"weight": 3
+		},
+		{
+			"name": "Three",
+			"weight": 3
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 23
+		},
+		{
+			"name": "Four",
+			"weight": 3
+		},
+		{
+			"name": "Video Assessment",
+			"weight": 7
+		},
+		{
+			"name": "Five",
+			"weight": 3
+		},
+		{
+			"name": "Final",
+			"weight": 55
+		}
+	]
+}

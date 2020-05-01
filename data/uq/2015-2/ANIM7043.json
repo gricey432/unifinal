@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Modules 1 to 6",
+			"weight": 24
+		},
+		{
+			"name": "Wildspace Website",
+			"weight": 12
+		},
+		{
+			"name": "Echidna Reproduction - book chapter update",
+			"weight": 12
+		},
+		{
+			"name": "Compulsory Residential School ",
+			"weight": 12
+		},
+		{
+			"name": "Koala disease",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": 28
+		}
+	]
+}

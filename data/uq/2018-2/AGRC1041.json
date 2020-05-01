@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Histology Practical Class Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "End-of-semester Theory Exam",
+			"weight": 65
+		}
+	]
+}

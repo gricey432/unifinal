@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Can the Earth support 11.2 billion people?",
+			"weight": 20
+		},
+		{
+			"name": "Exploring a contemporary global population issue",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Examination",
+			"weight": 40
+		},
+		{
+			"name": "Online MID SEMESTER EXAM",
+			"weight": 10
+		},
+		{
+			"name": "ANALYSIS AND DESIGN PROJECT",
+			"weight": 50
+		}
+	]
+}

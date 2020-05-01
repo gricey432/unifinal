@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Moot",
+			"weight": 30
+		},
+		{
+			"name": "Multiple Choice Test",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

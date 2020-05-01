@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In session practice log",
+			"weight": 10
+		},
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Hydrologic Analysis Assignment",
+			"weight": 20
+		},
+		{
+			"name": "End-of-trimester examination",
+			"weight": 50
+		}
+	]
+}

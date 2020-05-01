@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HTML/CSS Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Presentations & Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Participation in Practicals/Tutorials",
+			"weight": "Pass/fail for the course"
+		},
+		{
+			"name": "Research Paper",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		},
+		{
+			"name": "Website Design & Implementation",
+			"weight": 30
+		}
+	]
+}

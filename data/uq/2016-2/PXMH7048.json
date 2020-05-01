@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Object Relations Theory",
+			"weight": 20
+		},
+		{
+			"name": "Analysing psychoanalytic Therapy",
+			"weight": 40
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Voice Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Fluency Disorders Mid-Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Fluency Simulation Clinic",
+			"weight": 20
+		},
+		{
+			"name": "Voice Simulation Clinic",
+			"weight": 15
+		},
+		{
+			"name": "Hearing Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "SPCH7803/1 Voice Disorders",
+			"weight": 20
+		},
+		{
+			"name": "SPCH7803/2 Fluency Disorders",
+			"weight": 15
+		}
+	]
+}

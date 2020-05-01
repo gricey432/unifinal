@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Homework & Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Concept Questions",
+			"weight": 5
+		},
+		{
+			"name": "Clicker participation",
+			"weight": 3
+		},
+		{
+			"name": "Super Tutorial 1",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Quiz ",
+			"weight": 15
+		},
+		{
+			"name": "Super Tutorial 2",
+			"weight": 10
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 55
+		}
+	]
+}

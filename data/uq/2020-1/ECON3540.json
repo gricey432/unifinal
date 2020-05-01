@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Impediments to Economic Development",
+			"weight": 20
+		},
+		{
+			"name": "Project Iron Boomerang",
+			"weight": 35
+		},
+		{
+			"name": "The Hydrogen Economy",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Analysis",
+			"weight": 25
+		},
+		{
+			"name": "First Exam",
+			"weight": 37
+		},
+		{
+			"name": "Second (Final) Exam",
+			"weight": 37
+		}
+	]
+}

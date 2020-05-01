@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Mini Test 1",
+			"weight": 7
+		},
+		{
+			"name": "Mini Test 2",
+			"weight": 8
+		},
+		{
+			"name": "Network Troubleshooting Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Skills-based Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

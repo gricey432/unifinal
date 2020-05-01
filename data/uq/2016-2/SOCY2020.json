@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Dialogue and participation",
+			"weight": 20
+		},
+		{
+			"name": "Sociological analysis of media item",
+			"weight": 30
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take-home tests (1 & 2) ",
+			"weight": 45
+		},
+		{
+			"name": "Major Essay: Places of Worship ",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Participation ",
+			"weight": 10
+		}
+	]
+}

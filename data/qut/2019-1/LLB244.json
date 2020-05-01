@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural competency critique",
+			"weight": 10
+		},
+		{
+			"name": "Oral sentencing submissions",
+			"weight": 30
+		},
+		{
+			"name": "Take-home exam",
+			"weight": 60
+		}
+	]
+}

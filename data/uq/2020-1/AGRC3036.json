@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Augmented Reality Precise vs Accurate Data",
+			"weight": 10
+		},
+		{
+			"name": "3 x Practical Writeups",
+			"weight": 30
+		},
+		{
+			"name": "Yield Mapping Practical Report",
+			"weight": 0
+		},
+		{
+			"name": "Precision Ag Project",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz via Blackboard",
+			"weight": 30
+		}
+	]
+}

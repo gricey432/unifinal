@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Confidentiality Form",
+			"weight": 0
+		},
+		{
+			"name": "Community Pharmacy Placement (over 5 weeks)",
+			"weight": 10
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": 10
+		},
+		{
+			"name": "Hospital Pharmacy Placement (one-off visit)",
+			"weight": 0
+		},
+		{
+			"name": "Completion of QLD Health Requirements ",
+			"weight": 0
+		},
+		{
+			"name": "Written End-of-Semester Examination",
+			"weight": 50
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 30
+		}
+	]
+}

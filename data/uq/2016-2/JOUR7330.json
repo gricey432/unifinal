@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal for Sci Com Project",
+			"weight": 30
+		},
+		{
+			"name": "Story Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Finished Project/Package",
+			"weight": 45
+		}
+	]
+}

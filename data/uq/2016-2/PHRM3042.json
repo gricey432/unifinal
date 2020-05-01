@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory-based online multiple choice quiz",
+			"weight": 30
+		},
+		{
+			"name": "Written Examination",
+			"weight": 70
+		}
+	]
+}

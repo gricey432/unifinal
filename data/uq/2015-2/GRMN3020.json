@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interpreter Test",
+			"weight": 20
+		},
+		{
+			"name": "Group Oral Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Essay Test in Class",
+			"weight": 30
+		},
+		{
+			"name": "Oral interview on feature film ",
+			"weight": 30
+		}
+	]
+}

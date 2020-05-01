@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Media or ICTs Project",
+			"weight": 10
+		},
+		{
+			"name": "Community media and social change",
+			"weight": 45
+		},
+		{
+			"name": "The relationship between ICTs & Social Change",
+			"weight": 45
+		}
+	]
+}

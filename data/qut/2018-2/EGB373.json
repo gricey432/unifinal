@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Problem Solving Task",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory/Practical",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "FEA Tutorial Submission 1",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac A attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 31
+		},
+		{
+			"name": "FEA Tutorial Submission 2",
+			"weight": 10
+		},
+		{
+			"name": "Fracture Prac B attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "FINAL Examination",
+			"weight": 50
+		}
+	]
+}

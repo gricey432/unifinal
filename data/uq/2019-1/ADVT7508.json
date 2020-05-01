@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Assessment ",
+			"weight": 25
+		},
+		{
+			"name": "Creative Advertising Campaign Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Creative Advertising Campaign plan and analysis",
+			"weight": 35
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 25
+		}
+	]
+}

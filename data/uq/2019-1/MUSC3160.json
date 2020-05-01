@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Repertoire Folio ",
+			"weight": 40
+		},
+		{
+			"name": "Conducting",
+			"weight": 40
+		},
+		{
+			"name": "Aural Knowledge of Repertoire",
+			"weight": 20
+		},
+		{
+			"name": "UQ Chorale",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practicum Reflections",
+			"weight": 40
+		},
+		{
+			"name": "Supervisors Review and Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Employability Presentation",
+			"weight": 40
+		}
+	]
+}

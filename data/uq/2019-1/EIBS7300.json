@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Customer Discovery Project",
+			"weight": 40
+		},
+		{
+			"name": "Essay on organisational innovation challenges",
+			"weight": 30
+		}
+	]
+}

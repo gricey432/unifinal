@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Position Paper",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (written) or Audiovisual Essay",
+			"weight": 40
+		}
+	]
+}

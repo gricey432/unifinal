@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Style Icon Poster",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Visual Essay",
+			"weight": 50
+		}
+	]
+}

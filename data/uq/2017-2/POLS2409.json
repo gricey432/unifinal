@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation & Summary",
+			"weight": 10
+		},
+		{
+			"name": "1900 to 1945 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Essay (2500 words)",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam (Two Hours)",
+			"weight": 40
+		}
+	]
+}

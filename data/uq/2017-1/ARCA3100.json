@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Questions & Discussion Participation",
+			"weight": 15
+		},
+		{
+			"name": "Article critique and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Critical essay on selected topic",
+			"weight": 35
+		},
+		{
+			"name": "Critical essay on Kintigh et al. 2014",
+			"weight": 30
+		}
+	]
+}

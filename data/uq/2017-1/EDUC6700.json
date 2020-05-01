@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching Activity (20 mins)",
+			"weight": 15
+		},
+		{
+			"name": "Unit of Work",
+			"weight": 50
+		},
+		{
+			"name": "Professional Engagement in Bus Ed",
+			"weight": 35
+		}
+	]
+}

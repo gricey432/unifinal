@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 60
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 22
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 18
+		}
+	]
+}

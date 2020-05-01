@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Activities Task",
+			"weight": 20
+		},
+		{
+			"name": "Individual Learning Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical Review",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Portfolio & Statement of Pedagogical Practices",
+			"weight": 30
+		}
+	]
+}

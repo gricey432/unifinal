@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Briefing (500 words)",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Essay (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 40
+		}
+	]
+}

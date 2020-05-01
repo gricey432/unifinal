@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (Theory)",
+			"weight": 60
+		},
+		{
+			"name": "Presentation (Oral)",
+			"weight": 40
+		},
+		{
+			"name": "APP Learning Plan",
+			"weight": 0
+		}
+	]
+}

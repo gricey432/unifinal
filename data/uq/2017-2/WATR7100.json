@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical evaluation of the alignment of science",
+			"weight": 15
+		},
+		{
+			"name": "Individual PBL - Cairns",
+			"weight": 25
+		},
+		{
+			"name": "Design an Ecosystem Health Monitoring Program ",
+			"weight": 35
+		},
+		{
+			"name": "Final PBL ",
+			"weight": 25
+		}
+	]
+}

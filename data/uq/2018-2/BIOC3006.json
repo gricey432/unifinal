@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Reducing sugars/ascorbic acids",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "Practical 2: Lipid Oxidation",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "BDent/BDent(H) mini-review",
+			"weight": 25
+		},
+		{
+			"name": "Practical 3: Purine Degradation",
+			"weight": 25
+		},
+		{
+			"name": "Understanding research in metabolism: Part 1",
+			"weight": "Marks awarded when assessed in \"Understanding research in metabolism: Part 2\""
+		},
+		{
+			"name": "Understanding research in metabolism: Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

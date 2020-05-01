@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Early childhood learning spaces ",
+			"weight": 30
+		},
+		{
+			"name": "Early years documentation & planning ",
+			"weight": 30
+		},
+		{
+			"name": "Personal Course Reflective Journal ",
+			"weight": 40
+		}
+	]
+}

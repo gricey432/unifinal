@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Matlab Exercises",
+			"weight": 8
+		},
+		{
+			"name": "Assignment One",
+			"weight": 3
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 3
+		},
+		{
+			"name": "Assignment Three",
+			"weight": 3
+		},
+		{
+			"name": "Assignment Four",
+			"weight": 3
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": 60
+		}
+	]
+}

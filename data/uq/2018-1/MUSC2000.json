@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Playlist",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "Hurdle Requirement"
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Final Essay",
+			"weight": 45
+		}
+	]
+}

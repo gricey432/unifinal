@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 25
+		},
+		{
+			"name": "Computer Lab Project",
+			"weight": 50
+		},
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 25
+		}
+	]
+}

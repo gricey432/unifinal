@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Milestone Presentation - Business Development",
+			"weight": 50
+		},
+		{
+			"name": "Personal Development",
+			"weight": 50
+		}
+	]
+}

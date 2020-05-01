@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Campaign Pitch, Documents, Peer Group Evaluation",
+			"weight": 50
+		}
+	]
+}

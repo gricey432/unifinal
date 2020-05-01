@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Attitudes to Disability - Group assignment",
+			"weight": 25
+		},
+		{
+			"name": "Child Assessment Planning assignment",
+			"weight": 15
+		},
+		{
+			"name": "Key Word Signing assignment - Paired assignment",
+			"weight": 10
+		},
+		{
+			"name": "Description and Management of a Child assignment",
+			"weight": 40
+		}
+	]
+}

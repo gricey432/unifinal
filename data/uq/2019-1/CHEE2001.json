@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Sheet 1",
+			"weight": 2
+		},
+		{
+			"name": "Communication workshop",
+			"weight": 2
+		},
+		{
+			"name": "Homework Sheet 2",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Project 1 - Group Report and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Homework Sheet 3",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Project 2 - Group Report",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 - Individual Presentation",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Situational analysis",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Digital marketing plan",
+			"weight": 40
+		}
+	]
+}

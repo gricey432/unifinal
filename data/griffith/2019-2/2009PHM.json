@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Cardio End of Module Test",
+			"weight": 15
+		},
+		{
+			"name": "Infection End of Module Test",
+			"weight": 15
+		},
+		{
+			"name": "Infectious diseases presentation",
+			"weight": 20
+		},
+		{
+			"name": "End of trimester examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance, participation and submission",
+			"weight": 20
+		},
+		{
+			"name": "Mid- Semester Exam review and practice tutorial 4",
+			"weight": 5
+		},
+		{
+			"name": "Multiple Choice",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

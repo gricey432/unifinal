@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 30
+		},
+		{
+			"name": "Transcription & Document Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Historical Report: Essay",
+			"weight": 40
+		}
+	]
+}

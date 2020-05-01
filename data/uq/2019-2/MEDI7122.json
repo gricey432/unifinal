@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Interview with simulated patient & review",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Musculoskeletal CCE",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Neurological CCE",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Gastrointestinal CCE",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "BLS Skills Assessment",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "BLS OLA A and OLA B",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Formative CPA",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Summative CPA",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Nutrition masterclass",
+			"weight": "Performance hurdle"
+		}
+	]
+}

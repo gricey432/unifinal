@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Source Analysis Report on Letters",
+			"weight": 10
+		},
+		{
+			"name": "Midterm Examination Online",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Final Exam",
+			"weight": 30
+		}
+	]
+}

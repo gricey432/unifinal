@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Engagement Project",
+			"weight": 40
+		},
+		{
+			"name": "Self-Reflection & Personal Development Plan",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

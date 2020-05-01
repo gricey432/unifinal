@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 5
+		},
+		{
+			"name": "Group Scientific Data Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Online Peer Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Final Exam  40% hurdle requirement",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Folio of Work",
+			"weight": 70
+		},
+		{
+			"name": "Journal, Exhibition Review, Painting Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Written Critical Feedback",
+			"weight": 10
+		}
+	]
+}

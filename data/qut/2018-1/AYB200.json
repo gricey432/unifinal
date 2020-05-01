@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Work",
+			"weight": 20
+		},
+		{
+			"name": "Business Report",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

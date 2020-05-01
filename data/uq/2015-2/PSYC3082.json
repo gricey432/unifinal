@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Behaviour Change Using Music Apps",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

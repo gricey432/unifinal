@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Audiology Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation - Clinic Observations",
+			"weight": 30
+		},
+		{
+			"name": "Typical Communication Development Report",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory",
+			"weight": 30
+		},
+		{
+			"name": "Network Configuration and Troubleshooting",
+			"weight": 15
+		},
+		{
+			"name": "Practical Demonstration ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

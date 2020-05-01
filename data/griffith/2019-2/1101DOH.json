@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Projects",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory Practical Examination",
+			"weight": 25
+		},
+		{
+			"name": "Reflective journal",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation on Research into Place/Setting",
+			"weight": 10
+		},
+		{
+			"name": "Written Response to Set Text 1",
+			"weight": 10
+		},
+		{
+			"name": "Advanced Writing Project",
+			"weight": 50
+		},
+		{
+			"name": "Written Responses to Two Remaining Set Texts",
+			"weight": 20
+		}
+	]
+}

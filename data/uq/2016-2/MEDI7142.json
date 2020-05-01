@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Indigenous Health Quiz ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Indigenous Health Student Led Symposium",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Research Ethics and Integrity Quiz",
+			"weight": "Pass / Fail"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Speed Tutorial- Essay Topic",
+			"weight": 0
+		},
+		{
+			"name": "Essay - Assignment 1",
+			"weight": 40
+		},
+		{
+			"name": "Research Journal - Assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "eZine Submission and Presentation",
+			"weight": 30
+		}
+	]
+}

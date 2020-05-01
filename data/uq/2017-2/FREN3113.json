@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Video recording about the Algerian War",
+			"weight": 10
+		},
+		{
+			"name": "Weeks 8-13",
+			"weight": 10
+		},
+		{
+			"name": "Group Oral ",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation - 31, rue de la République",
+			"weight": 15
+		},
+		{
+			"name": "Academic essay",
+			"weight": 15
+		},
+		{
+			"name": "Academic Essay",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Summarize article",
+			"weight": 20
+		},
+		{
+			"name": "Constructing a Profile",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Exam",
+			"weight": 40
+		}
+	]
+}

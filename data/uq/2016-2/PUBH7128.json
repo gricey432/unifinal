@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review and Critical Appraisal ",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2- Developing an Intervention Plan",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2 Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3- Developing an evaluation plan",
+			"weight": 40
+		}
+	]
+}

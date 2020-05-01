@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Experimental Type Design",
+			"weight": 40
+		},
+		{
+			"name": "Typographic Composition",
+			"weight": 60
+		}
+	]
+}

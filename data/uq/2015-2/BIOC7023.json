@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Report assessment",
+			"weight": 60
+		},
+		{
+			"name": "Research seminar presentation",
+			"weight": 10
+		},
+		{
+			"name": "Poster",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Performance",
+			"weight": 20
+		}
+	]
+}

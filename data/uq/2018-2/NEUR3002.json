@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Club participation and oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Practical lab participation and presentation",
+			"weight": 30
+		},
+		{
+			"name": "Mid semester examination",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

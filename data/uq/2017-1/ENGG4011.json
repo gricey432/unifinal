@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Present Project Plan at the Company",
+			"weight": 0
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Synopsis for Seminar",
+			"weight": 0
+		},
+		{
+			"name": "Presentation Computer Files",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Presentation and Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Final Report electronic submission",
+			"weight": 75
+		},
+		{
+			"name": "Reflection on Workshops",
+			"weight": 0
+		},
+		{
+			"name": "Thesis final submission",
+			"weight": 10
+		}
+	]
+}

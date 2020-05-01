@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Plan for Major Project",
+			"weight": 0
+		},
+		{
+			"name": "Major Project",
+			"weight": 10
+		},
+		{
+			"name": "Major Project",
+			"weight": 40
+		},
+		{
+			"name": "Practical Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

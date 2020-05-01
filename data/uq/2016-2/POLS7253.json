@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay Proposal (1,000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Minor Essay (1,000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Major Research essay (4,000 words)",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tech Analysis &amp; Evaluation",
+			"weight": 25
+		},
+		{
+			"name": "Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Project (appld) &amp; Presentation",
+			"weight": 50
+		}
+	]
+}

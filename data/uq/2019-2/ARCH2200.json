@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exercises in Form using Precedents",
+			"weight": 30
+		},
+		{
+			"name": "Final Presentation (Hurdle)",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of the National Prevention Health ",
+			"weight": 50
+		},
+		{
+			"name": "Nursing Management - Client with Chronic Disease",
+			"weight": 50
+		}
+	]
+}

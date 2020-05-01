@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizz 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Quizz 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of Partial Differential Equations",
+			"weight": 70
+		}
+	]
+}

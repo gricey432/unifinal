@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Skill/method 1",
+			"weight": 15
+		},
+		{
+			"name": "Skill/method 2",
+			"weight": 15
+		},
+		{
+			"name": "Psychological Skills Program Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Population 1",
+			"weight": 10
+		},
+		{
+			"name": "ABL Reflection and Application",
+			"weight": 10
+		},
+		{
+			"name": "Population 2",
+			"weight": 10
+		},
+		{
+			"name": "Sport/Activity Specific",
+			"weight": 10
+		},
+		{
+			"name": "Intervention Resource File",
+			"weight": 10
+		}
+	]
+}

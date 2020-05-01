@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CIF Health &amp; Safety Induction",
+			"weight": 0
+		},
+		{
+			"name": "Des Fabrication Documentation",
+			"weight": 40
+		},
+		{
+			"name": "Design Fabricated Outcome",
+			"weight": 60
+		}
+	]
+}

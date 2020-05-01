@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Conference Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Board Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Journal Article ",
+			"weight": 30
+		},
+		{
+			"name": "OHS Business Case",
+			"weight": 40
+		}
+	]
+}

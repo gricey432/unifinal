@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Participation",
+			"weight": 10
+		},
+		{
+			"name": "Incident Analysis Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Case Study 2 Report",
+			"weight": 25
+		},
+		{
+			"name": "Application of Analysis & Investigation Models",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 1 Investigation Report",
+			"weight": 30
+		}
+	]
+}

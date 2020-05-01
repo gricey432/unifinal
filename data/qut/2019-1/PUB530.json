@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Work",
+			"weight": 50
+		},
+		{
+			"name": "Examination (Written)",
+			"weight": 50
+		}
+	]
+}

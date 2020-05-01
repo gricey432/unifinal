@@ -1,0 +1,64 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "ROM and MMT viva (OT component)",
+			"weight": 15
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Shoulder preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Arm, elbow & forearm preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Wrist and hand preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Pelvic girdle and hip preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thigh and knee preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Leg, ankle and foot preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Vertebral column general preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Cervical vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thoracolumbar vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Trunk preparation quiz",
+			"weight": 1
+		}
+	]
+}

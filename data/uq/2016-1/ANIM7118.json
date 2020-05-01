@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Industry lecture",
+			"weight": 10
+		},
+		{
+			"name": "Rehabilitation of a horse with an injury",
+			"weight": 20
+		},
+		{
+			"name": "Equine Exercise Physiology and Training",
+			"weight": 20
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

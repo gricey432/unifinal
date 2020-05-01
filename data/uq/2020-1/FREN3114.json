@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paragraph nº 1",
+			"weight": 10
+		},
+		{
+			"name": "Video Comprehension Activity",
+			"weight": 20
+		},
+		{
+			"name": "Paragraph nº 2 (part A)",
+			"weight": 15
+		},
+		{
+			"name": "Paragraph nº 2 (part B)",
+			"weight": 15
+		},
+		{
+			"name": "Discussion du roman policier",
+			"weight": 20
+		},
+		{
+			"name": "Policier",
+			"weight": 20
+		}
+	]
+}

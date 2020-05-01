@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz/report",
+			"weight": 20
+		},
+		{
+			"name": "Student-led teaching methodology presentation",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Reflection on Teaching Presentation",
+			"weight": 40
+		}
+	]
+}

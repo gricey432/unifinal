@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Veterinary Practice Management ",
+			"weight": 25
+		},
+		{
+			"name": "Animal Enterprises ",
+			"weight": 15
+		},
+		{
+			"name": "Preclinical Extramural Placements",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		}
+	]
+}

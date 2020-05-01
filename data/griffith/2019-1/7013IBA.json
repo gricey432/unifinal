@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Debate: Opinion piece and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Individual Project - Current Issue Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

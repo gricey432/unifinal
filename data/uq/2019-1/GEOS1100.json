@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Pracs and online modules",
+			"weight": 10
+		},
+		{
+			"name": "Research Report ",
+			"weight": 25
+		},
+		{
+			"name": "Redland Shire Field Trip quiz",
+			"weight": 15
+		},
+		{
+			"name": "Course Exam",
+			"weight": 50
+		}
+	]
+}

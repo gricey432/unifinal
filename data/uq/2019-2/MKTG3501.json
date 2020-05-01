@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing audit and situational analysis",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Strategy Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

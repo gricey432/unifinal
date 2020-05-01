@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Catchment Analysis Project",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Experiences",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

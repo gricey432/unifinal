@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Application of Theory",
+			"weight": 35
+		},
+		{
+			"name": "Biopsychosocial Assessment",
+			"weight": 65
+		}
+	]
+}

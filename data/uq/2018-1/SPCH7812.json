@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial and quiz",
+			"weight": 5
+		},
+		{
+			"name": "Part 1: Preliminary analysis",
+			"weight": 5
+		},
+		{
+			"name": "Part 2: Detailed analysis and interpretation",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Background quiz",
+			"weight": 2
+		},
+		{
+			"name": "Practicals (Computer labs)",
+			"weight": 18
+		},
+		{
+			"name": "In-class practical assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "In-class practical assessment 2",
+			"weight": 10
+		},
+		{
+			"name": "In-class practical assessment 3",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

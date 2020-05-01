@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Web portfolio of tasks",
+			"weight": 25
+		},
+		{
+			"name": "Poster Portfolio of Tasks",
+			"weight": 25
+		},
+		{
+			"name": "Investigative essay",
+			"weight": 50
+		}
+	]
+}

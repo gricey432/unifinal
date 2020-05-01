@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation &amp; reflection",
+			"weight": 50
+		},
+		{
+			"name": "Critique (written and oral)",
+			"weight": 50
+		}
+	]
+}

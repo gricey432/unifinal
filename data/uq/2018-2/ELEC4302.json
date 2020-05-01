@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual assignment - Report based on simulation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory exercise",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercise 2",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

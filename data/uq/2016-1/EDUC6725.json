@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops and tutorials",
+			"weight": 0
+		},
+		{
+			"name": "Peer teaching",
+			"weight": 0
+		},
+		{
+			"name": "Review of digital resources",
+			"weight": 33
+		},
+		{
+			"name": "Mathematical investigation or inquiry",
+			"weight": 33
+		},
+		{
+			"name": "Working with families",
+			"weight": 33
+		}
+	]
+}

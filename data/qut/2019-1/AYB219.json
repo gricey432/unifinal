@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Online Exam",
+			"weight": 20
+		},
+		{
+			"name": "HandiTax Group Project",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

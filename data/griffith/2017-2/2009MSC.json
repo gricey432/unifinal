@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Poster",
+			"weight": 10
+		},
+		{
+			"name": "Report of lab work",
+			"weight": 5
+		},
+		{
+			"name": "Lab report",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

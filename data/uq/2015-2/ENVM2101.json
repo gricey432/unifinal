@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Participation and Exercises",
+			"weight": 10
+		},
+		{
+			"name": "In-class Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Group Report on Attended Sustainability Week ",
+			"weight": 15
+		},
+		{
+			"name": "Product life cycle thinking",
+			"weight": 25
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 40
+		}
+	]
+}

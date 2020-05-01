@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Hand Hygiene, Infection Control & MH Competencies",
+			"weight": "NGP"
+		},
+		{
+			"name": "Work Health and Safety & Cultural Safety Modules",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication online learning and quizzes",
+			"weight": "NGP"
+		},
+		{
+			"name": "ANSAT - Formative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Skills Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "ANSAT - Summative",
+			"weight": "NGP"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 OGTT",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2 EMG",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3 Vision",
+			"weight": 5
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 2",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 3",
+			"weight": 3
+		},
+		{
+			"name": "Mid-semester theory exam",
+			"weight": 17
+		},
+		{
+			"name": "Theory exam",
+			"weight": 59
+		}
+	]
+}

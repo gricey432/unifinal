@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Risk Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Oral exam 1",
+			"weight": 15
+		},
+		{
+			"name": "Project 2 - Incident Investigation",
+			"weight": 25
+		},
+		{
+			"name": "Final Oral Exam (15 Minutes)",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Evolutionary Economics vs the Washington Consensus",
+			"weight": 20
+		},
+		{
+			"name": "The Solar/Wind/Battery Energy Revolution in India",
+			"weight": 40
+		},
+		{
+			"name": "Analysis of Economic Content of Tutorial Videos",
+			"weight": 10
+		},
+		{
+			"name": "Project Iron Boomerang",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Commercialisation Project Plan ",
+			"weight": 10
+		},
+		{
+			"name": "Market Analysis and Value Proposition Canvas",
+			"weight": 25
+		},
+		{
+			"name": "Final Commercialisation Strategy Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Project Report - Commercialisation Strategy",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Synthesis Design",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Composition",
+			"weight": 50
+		}
+	]
+}

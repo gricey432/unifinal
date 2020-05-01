@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Food Standards Code and Labelling",
+			"weight": 20
+		},
+		{
+			"name": "Application of Food Policies.",
+			"weight": 30
+		},
+		{
+			"name": "Predictive Microbiology Simulation and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

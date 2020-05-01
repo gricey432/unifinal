@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback Quizzes (outside class time)",
+			"weight": 20
+		},
+		{
+			"name": "Palpation & Patient Education Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Examination",
+			"weight": 30
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 30
+		}
+	]
+}

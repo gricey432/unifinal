@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Progress test",
+			"weight": 10
+		},
+		{
+			"name": "Progress test",
+			"weight": 10
+		},
+		{
+			"name": "Short presentation based on project",
+			"weight": 10
+		},
+		{
+			"name": "Project report",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

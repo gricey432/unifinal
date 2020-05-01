@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Teaching",
+			"weight": 30
+		},
+		{
+			"name": "Infographic",
+			"weight": 30
+		},
+		{
+			"name": "Feedback for learning",
+			"weight": 40
+		}
+	]
+}

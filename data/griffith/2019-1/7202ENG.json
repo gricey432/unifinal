@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 Group Presentations (oral)",
+			"weight": 10
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Project Based Group Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Destination and Event Marketing Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Event Marketing Plan",
+			"weight": 40
+		}
+	]
+}

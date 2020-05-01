@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Report",
+			"weight": 15
+		},
+		{
+			"name": "Article Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Article Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester MCQ exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

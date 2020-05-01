@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation and partipation",
+			"weight": 10
+		},
+		{
+			"name": "Mini Literature Review (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Current Affair Essay (ca 2500 words)",
+			"weight": 50
+		}
+	]
+}

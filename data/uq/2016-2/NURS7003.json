@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "QUM Scenarios (five)  ",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Case studies (two) from own clincial setting",
+			"weight": 20
+		},
+		{
+			"name": "In depth description of drugs. ",
+			"weight": 40
+		},
+		{
+			"name": "Viva voce- Full Episode of Care",
+			"weight": 40
+		}
+	]
+}

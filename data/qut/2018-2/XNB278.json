@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Book",
+			"weight": 60
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

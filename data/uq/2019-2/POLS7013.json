@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Primary Text Reading Reports",
+			"weight": 11
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": 9
+		},
+		{
+			"name": "Reflective Report #1 (1000 words)",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Report #2 (1000 words)",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		}
+	]
+}

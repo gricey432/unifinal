@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Group Evaluation for Thoracic Dissection",
+			"weight": 5
+		},
+		{
+			"name": "Group Evaluation for Abdominal Dissection",
+			"weight": 6
+		},
+		{
+			"name": "Group Evaluation for Pelvis Dissection",
+			"weight": 4
+		},
+		{
+			"name": "Mid Semester Gross Anatomy Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Gross Anatomy Practical Exam",
+			"weight": 30
+		}
+	]
+}

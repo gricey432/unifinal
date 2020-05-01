@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Women's & Men's Health Assessment",
+			"weight": "Formative"
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE) ",
+			"weight": "Pass / Fail "
+		},
+		{
+			"name": "Motivation Interviewing Assessment",
+			"weight": "Formative"
+		},
+		{
+			"name": "Formative Clinical Participation Assessment",
+			"weight": "Formative"
+		},
+		{
+			"name": "Procedural Skills Workshop",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Summative Portfolio Assignment",
+			"weight": "Pass / Fail "
+		},
+		{
+			"name": "Summative Clinical Participation Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

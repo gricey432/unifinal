@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Essay/Podcast/Movie Proposal & Annot. Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Primary Source Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Essay, Podcast, or Documentary Movie",
+			"weight": 45
+		}
+	]
+}

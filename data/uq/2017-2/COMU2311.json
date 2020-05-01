@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder Consultation and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "TEST 1 - Participation",
+			"weight": 20
+		},
+		{
+			"name": "TEST 2 - Social movements and activism",
+			"weight": 20
+		},
+		{
+			"name": "Case study on a CSC project of your choice",
+			"weight": 40
+		}
+	]
+}

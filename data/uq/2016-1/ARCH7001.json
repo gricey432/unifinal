@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Site-planning",
+			"weight": 35
+		},
+		{
+			"name": "Site-planning",
+			"weight": "Presentation of project 1"
+		},
+		{
+			"name": "Individual design work related to overall plan",
+			"weight": 65
+		},
+		{
+			"name": "Individual design work related to overall plan",
+			"weight": "Presentation of project 2"
+		}
+	]
+}

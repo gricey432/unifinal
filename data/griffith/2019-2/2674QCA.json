@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Video Examination ",
+			"weight": 40
+		},
+		{
+			"name": "Final 3D Animation/Film ",
+			"weight": 60
+		}
+	]
+}

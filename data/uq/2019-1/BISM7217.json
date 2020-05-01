@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Business Analytics Project",
+			"weight": 30
+		},
+		{
+			"name": "Individual Research Proposal Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

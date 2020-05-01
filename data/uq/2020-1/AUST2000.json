@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board Post",
+			"weight": 10
+		},
+		{
+			"name": "Video Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Film Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Quizzes x 2",
+			"weight": 10
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz: the Ancient World",
+			"weight": 10
+		},
+		{
+			"name": "Written Report: Visual Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Essay  (1800 words)",
+			"weight": 50
+		}
+	]
+}

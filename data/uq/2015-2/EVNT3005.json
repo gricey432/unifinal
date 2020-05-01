@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis and Report",
+			"weight": 25
+		},
+		{
+			"name": "Event Legacy - Gold Coast Commonwealth Games",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam (Essay Style)",
+			"weight": 40
+		}
+	]
+}

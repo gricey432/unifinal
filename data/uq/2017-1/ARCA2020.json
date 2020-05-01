@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class debates",
+			"weight": 10
+		},
+		{
+			"name": "Report on key Pleistocene archaeological site",
+			"weight": 20
+		},
+		{
+			"name": "Essay: Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

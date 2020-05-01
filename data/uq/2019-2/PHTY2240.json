@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam Electrotherapy module",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Practical Exam Electrotherapy module",
+			"weight": 25
+		},
+		{
+			"name": "Clinical observation visits workbook",
+			"weight": 5
+		},
+		{
+			"name": "Digital health technologies assignment",
+			"weight": 15
+		},
+		{
+			"name": "Clinical visit and digital technologies modules",
+			"weight": 30
+		}
+	]
+}

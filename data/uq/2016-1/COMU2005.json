@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media Releases",
+			"weight": 20
+		},
+		{
+			"name": "Organisational Issue Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Media Portfolio",
+			"weight": 40
+		}
+	]
+}

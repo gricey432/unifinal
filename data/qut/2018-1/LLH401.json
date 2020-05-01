@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 45
+		},
+		{
+			"name": "Capstone client file",
+			"weight": 55
+		}
+	]
+}

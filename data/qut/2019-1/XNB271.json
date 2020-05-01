@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports",
+			"weight": 40
+		},
+		{
+			"name": "Group Discussion",
+			"weight": 0
+		},
+		{
+			"name": "Written Examination",
+			"weight": 60
+		}
+	]
+}

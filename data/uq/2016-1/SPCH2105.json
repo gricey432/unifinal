@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Foundational Knowledge Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Paediatric case-based assignment",
+			"weight": 35
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

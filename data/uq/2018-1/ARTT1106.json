@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop 2 Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "Workshop 3 Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Annotated Bibliography & Essay Plan",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Workshop 4 Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz Renaissance to Contemporary",
+			"weight": 20
+		}
+	]
+}

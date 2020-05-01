@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Ecotourism award",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2: Field trip reflections",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Ecotourism performance",
+			"weight": 40
+		}
+	]
+}

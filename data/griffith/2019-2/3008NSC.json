@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Mid trimester exam,  40mins",
+			"weight": 20
+		},
+		{
+			"name": "Flipped Classroom Group Presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Final Written Exam, 2hrs",
+			"weight": 60
+		}
+	]
+}

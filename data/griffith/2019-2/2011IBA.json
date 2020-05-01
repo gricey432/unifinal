@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentations",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Trimester Exam, In Class",
+			"weight": 35
+		},
+		{
+			"name": "Export Plan",
+			"weight": 40
+		}
+	]
+}

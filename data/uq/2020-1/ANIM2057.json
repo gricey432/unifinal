@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online",
+			"weight": 15
+		},
+		{
+			"name": "Weekly online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Res School Laboratory Practical Class",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

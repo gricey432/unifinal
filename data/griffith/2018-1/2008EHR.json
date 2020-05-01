@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment of Team Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 35
+		},
+		{
+			"name": "Peer Assessment of Team Development",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

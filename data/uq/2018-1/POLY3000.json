@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visit to Parliament OR Ministerial Briefing[Week4]",
+			"weight": 30
+		},
+		{
+			"name": "Policy Proposal: Group Components [from Week 5]",
+			"weight": 35
+		},
+		{
+			"name": "Policy Proposal: Individual Component [Exam Week1]",
+			"weight": 35
+		}
+	]
+}

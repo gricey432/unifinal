@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Computer-based quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Empirical project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": 50
+		}
+	]
+}

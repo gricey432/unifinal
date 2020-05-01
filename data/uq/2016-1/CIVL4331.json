@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Prestressed Concrete Structures 1",
+			"weight": 9
+		},
+		{
+			"name": "Prestressed Concrete Structures 2",
+			"weight": 8
+		},
+		{
+			"name": "Prestressed Concrete Structures 3",
+			"weight": 8
+		},
+		{
+			"name": "Composite structures-1: Fundamentals",
+			"weight": 5
+		},
+		{
+			"name": "Composite structures-2",
+			"weight": 10
+		},
+		{
+			"name": "Composite structres 3",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

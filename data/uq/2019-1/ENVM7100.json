@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & Participation",
+			"weight": 10
+		},
+		{
+			"name": "Conference Presentation Slides and Speech",
+			"weight": 15
+		},
+		{
+			"name": "Sustainable Development Essay",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Section A, B & C",
+			"weight": 40
+		},
+		{
+			"name": "Hand Hygiene Competency",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assessment of Section D, E & F",
+			"weight": 60
+		}
+	]
+}

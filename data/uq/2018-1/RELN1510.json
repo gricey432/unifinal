@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Is supernaturalism essential to religion?",
+			"weight": 35
+		},
+		{
+			"name": "Compare a supernatural theme in two sources.",
+			"weight": 55
+		},
+		{
+			"name": "Presence and participation in tutorials",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation & Informed Participation",
+			"weight": 10
+		},
+		{
+			"name": "Analysing Australia Day ",
+			"weight": 20
+		},
+		{
+			"name": "Editorial",
+			"weight": 30
+		},
+		{
+			"name": "Contemporary Australia: an exhibition",
+			"weight": 40
+		}
+	]
+}

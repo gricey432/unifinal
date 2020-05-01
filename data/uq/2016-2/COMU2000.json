@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progymnasmata exercises and debate",
+			"weight": 10
+		},
+		{
+			"name": "Critical reflection: kairos/audience/decorum",
+			"weight": 20
+		},
+		{
+			"name": "Rhetorical Analysis and Criticism",
+			"weight": 30
+		},
+		{
+			"name": "Original speech & rhetorical analysis",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advice on Evidence 2500 Word Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Voir Dire Moot Exercise or 2000 word written assig",
+			"weight": 20
+		},
+		{
+			"name": "End of semester examination Part A",
+			"weight": 40
+		}
+	]
+}

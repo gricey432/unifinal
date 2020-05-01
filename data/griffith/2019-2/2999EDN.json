@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Scenario based micro-teaching AT1",
+			"weight": 50
+		},
+		{
+			"name": "Professional Experience Final Report AT2",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "History, idea formation, business models, finance",
+			"weight": 5
+		},
+		{
+			"name": "Business Opportunity Project",
+			"weight": 35
+		},
+		{
+			"name": "Blog Analysis - Comparative Cases ",
+			"weight": 20
+		},
+		{
+			"name": "TIMS7301 Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning task 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning task 3",
+			"weight": 1
+		},
+		{
+			"name": "Mid Semester Theory exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "ROM and MMT viva (OT component)",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 20
+		}
+	]
+}

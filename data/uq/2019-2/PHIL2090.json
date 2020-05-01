@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard quiz 1",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard quiz 2",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard quiz 3",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard quiz 4",
+			"weight": 2
+		},
+		{
+			"name": "Final essay",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

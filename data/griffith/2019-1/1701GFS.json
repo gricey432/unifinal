@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Equipment competency",
+			"weight": 10
+		},
+		{
+			"name": "WORK LOG",
+			"weight": 10
+		},
+		{
+			"name": "SHORT FILM",
+			"weight": 40
+		},
+		{
+			"name": "MULTIPLE CHOICE QUIZ",
+			"weight": 40
+		}
+	]
+}

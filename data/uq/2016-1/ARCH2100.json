@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission 1 - Digital Submission (All Studios)",
+			"weight": 30
+		},
+		{
+			"name": "Submission 2 - Digital Submission (All Studios)",
+			"weight": 70
+		},
+		{
+			"name": "Submission 1 - Critique (All Studios)",
+			"weight": "Presentation of Submission 1"
+		},
+		{
+			"name": "Submission 2 - Critique (All Studios)",
+			"weight": "Presentation of Submission 2"
+		}
+	]
+}

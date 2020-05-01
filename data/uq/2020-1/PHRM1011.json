@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Health Sciences Language Screening Test",
+			"weight": "Completion required"
+		},
+		{
+			"name": "Peer Teaching Video",
+			"weight": 5
+		},
+		{
+			"name": "Consultation Exam (OTC product request)",
+			"weight": 10
+		},
+		{
+			"name": "Weekly feedback quizzes (outside class time)",
+			"weight": 15
+		},
+		{
+			"name": "Practical Learning Summary",
+			"weight": 10
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Outline for Wiki Group Page",
+			"weight": 5
+		},
+		{
+			"name": "Group Wiki Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Practical 1 Laboratory Report",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2 Laboratory Report",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "BIOM2208 End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

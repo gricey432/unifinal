@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attack Prevention Project",
+			"weight": 30
+		},
+		{
+			"name": "Forensic Analysis Project",
+			"weight": 30
+		},
+		{
+			"name": "Penetration Testing Project",
+			"weight": 40
+		}
+	]
+}

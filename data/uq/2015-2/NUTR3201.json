@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review on a nutritional science topic",
+			"weight": 5
+		},
+		{
+			"name": "In class multiple choice and short answers ",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

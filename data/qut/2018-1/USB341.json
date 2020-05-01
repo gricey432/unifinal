@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Home Loan Application",
+			"weight": 25
+		},
+		{
+			"name": "REIT Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

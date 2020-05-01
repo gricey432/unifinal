@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Homework tasks, attendance and participation",
+			"weight": 25
+		},
+		{
+			"name": "Schenkerian analysis",
+			"weight": 25
+		},
+		{
+			"name": "Formal theory analysis",
+			"weight": 25
+		},
+		{
+			"name": "Post-tonal analysis",
+			"weight": 25
+		}
+	]
+}

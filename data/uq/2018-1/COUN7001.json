@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Recording One for Review",
+			"weight": "NGP"
+		},
+		{
+			"name": "The Art and Science of Counselling",
+			"weight": 30
+		},
+		{
+			"name": "Submission of Second Recording and Commentary ",
+			"weight": 45
+		},
+		{
+			"name": "Personal Exploration Journal",
+			"weight": 10
+		},
+		{
+			"name": "Competency Interview",
+			"weight": 15
+		}
+	]
+}

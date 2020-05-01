@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-Line Quizzes ",
+			"weight": 20
+		},
+		{
+			"name": "Workshop Discussion",
+			"weight": 20
+		},
+		{
+			"name": "exam",
+			"weight": 60
+		}
+	]
+}

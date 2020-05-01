@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Statement of Intent (1500 words)",
+			"weight": 0
+		},
+		{
+			"name": "Work in Progress (1500 words)",
+			"weight": 0
+		},
+		{
+			"name": "Honours Thesis ",
+			"weight": 100
+		}
+	]
+}

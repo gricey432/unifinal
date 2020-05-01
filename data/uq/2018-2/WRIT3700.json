@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Publisher, Publication, Author brand study",
+			"weight": 15
+		},
+		{
+			"name": "Editing test",
+			"weight": 20
+		},
+		{
+			"name": "Book pitch",
+			"weight": 15
+		},
+		{
+			"name": "Researched article",
+			"weight": 40
+		}
+	]
+}

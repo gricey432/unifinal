@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formulation of topic",
+			"weight": 15
+		},
+		{
+			"name": "Directed study proposal",
+			"weight": 30
+		},
+		{
+			"name": "Directed study final submission",
+			"weight": 55
+		}
+	]
+}

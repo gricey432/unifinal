@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		},
+		{
+			"name": "Global Investment Report",
+			"weight": 40
+		}
+	]
+}

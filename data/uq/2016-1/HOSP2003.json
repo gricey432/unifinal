@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch of Business Idea",
+			"weight": 20
+		},
+		{
+			"name": "Panel Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical Review of Small Hospitality Business",
+			"weight": 20
+		},
+		{
+			"name": " Business Plan",
+			"weight": 50
+		}
+	]
+}

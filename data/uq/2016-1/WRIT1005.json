@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Journal Writing ",
+			"weight": 10
+		},
+		{
+			"name": "Reflective writing assignment",
+			"weight": 20
+		},
+		{
+			"name": "Fundamentals of Writing Exam",
+			"weight": 60
+		}
+	]
+}

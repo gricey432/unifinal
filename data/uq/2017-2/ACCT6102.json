@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 35
+		},
+		{
+			"name": "Research Paper Presentations",
+			"weight": 15
+		},
+		{
+			"name": "Thesis issue and advice on the issue",
+			"weight": 10
+		},
+		{
+			"name": "Valuation Project (Individual)",
+			"weight": 40
+		}
+	]
+}

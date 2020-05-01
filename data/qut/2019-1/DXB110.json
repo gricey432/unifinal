@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written Contextual Review",
+			"weight": 40
+		},
+		{
+			"name": "Design Concept and Prototype",
+			"weight": 60
+		}
+	]
+}

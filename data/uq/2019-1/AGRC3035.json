@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Essay on a key issue ",
+			"weight": 10
+		},
+		{
+			"name": "Examination in overseas country",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Diary",
+			"weight": 10
+		},
+		{
+			"name": "Written report and oral presentation on Project",
+			"weight": 40
+		},
+		{
+			"name": "Peer and self assessment of all students",
+			"weight": 10
+		}
+	]
+}

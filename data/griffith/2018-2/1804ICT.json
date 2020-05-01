@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		},
+		{
+			"name": "Mid-trimester exam",
+			"weight": 15
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Learning Journal",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

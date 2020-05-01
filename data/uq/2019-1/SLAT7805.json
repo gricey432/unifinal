@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Components of SLA robot project",
+			"weight": 30
+		},
+		{
+			"name": "Short answer quiz (I)",
+			"weight": 20
+		},
+		{
+			"name": "Short answer quiz (II)",
+			"weight": 20
+		},
+		{
+			"name": "Take home test",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 35
+		},
+		{
+			"name": "Tender bid",
+			"weight": 50
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A Portfolio of In-Class Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mine Project Management Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Coal Seam Modelling Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Open Pit Design Assignment",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

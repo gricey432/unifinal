@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "BioStats Data Collection",
+			"weight": 5
+		},
+		{
+			"name": "BioStats Entry Survey",
+			"weight": 2
+		},
+		{
+			"name": "BioStats Assignment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "BioStats Test (On-line)",
+			"weight": 20
+		},
+		{
+			"name": "BioStats Exit Survey",
+			"weight": 2
+		},
+		{
+			"name": "Online Spotter Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Practical Exam",
+			"weight": 20
+		}
+	]
+}

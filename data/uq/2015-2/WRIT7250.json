@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Blog entries",
+			"weight": 30
+		},
+		{
+			"name": "Test of grammatical concepts and punctuation",
+			"weight": 50
+		}
+	]
+}

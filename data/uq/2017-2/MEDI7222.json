@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summative Portfolio Assignment",
+			"weight": "Pass / Fail "
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE) ",
+			"weight": "Pass / Fail "
+		},
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Pass / Fail "
+		}
+	]
+}

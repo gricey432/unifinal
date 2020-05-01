@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal (Team-based)",
+			"weight": 10
+		},
+		{
+			"name": "Preliminary Design Review (Team-based)",
+			"weight": 4
+		},
+		{
+			"name": "Critical Design Review (Team-based)",
+			"weight": 6
+		},
+		{
+			"name": "Materials and Problem-Solving Quiz (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 30
+		},
+		{
+			"name": "Demonstration Day (Team-based)",
+			"weight": 30
+		}
+	]
+}

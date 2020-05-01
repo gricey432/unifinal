@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 assignment",
+			"weight": 10
+		},
+		{
+			"name": "Module 2 assignment",
+			"weight": 10
+		},
+		{
+			"name": "Module 3 assignment",
+			"weight": 10
+		},
+		{
+			"name": "Module 4 assignment",
+			"weight": 10
+		},
+		{
+			"name": "C programming exercise",
+			"weight": 10
+		},
+		{
+			"name": "Module 5 assignment",
+			"weight": 10
+		},
+		{
+			"name": "Module 6 assignment",
+			"weight": 10
+		},
+		{
+			"name": "Project",
+			"weight": "Not required to pass, 20 marks"
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 30
+		}
+	]
+}

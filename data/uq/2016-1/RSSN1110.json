@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Performance in tutorials & practicals",
+			"weight": 10
+		},
+		{
+			"name": "Weekly worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Grammar tests",
+			"weight": 10
+		},
+		{
+			"name": "Written comprehension exercise",
+			"weight": 10
+		},
+		{
+			"name": "Final written examination",
+			"weight": 40
+		},
+		{
+			"name": "End-of-semester oral interview",
+			"weight": 10
+		}
+	]
+}

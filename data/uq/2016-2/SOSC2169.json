@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Movie review",
+			"weight": 25
+		},
+		{
+			"name": "Reading summary using Web 2.0 tool",
+			"weight": 20
+		},
+		{
+			"name": "Analysing a ICT/media technology",
+			"weight": 35
+		},
+		{
+			"name": "Group project",
+			"weight": 20
+		}
+	]
+}

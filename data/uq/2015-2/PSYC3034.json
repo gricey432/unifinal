@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Applied Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Design Assessment I (due Week 11 Tutorial)",
+			"weight": 15
+		},
+		{
+			"name": "Design Assessment II (due Week 13 Tutorial)",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Science journal reflection",
+			"weight": 25
+		},
+		{
+			"name": "Scientific Explanations",
+			"weight": 25
+		},
+		{
+			"name": "EDUC1706x Quizzes ",
+			"weight": "Hurdle Assessment"
+		},
+		{
+			"name": "Scientific Argument",
+			"weight": 25
+		},
+		{
+			"name": "Scientific Investigation",
+			"weight": 25
+		}
+	]
+}

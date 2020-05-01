@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online reflective journals",
+			"weight": 5
+		},
+		{
+			"name": "Workplace Feedback by Placement Supervisor",
+			"weight": 15
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Interim Report",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 50
+		}
+	]
+}

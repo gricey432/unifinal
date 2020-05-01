@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Core competencies for Stepping Stones Triple P",
+			"weight": 60
+		},
+		{
+			"name": "Stepping Stones Triple P",
+			"weight": 40
+		}
+	]
+}

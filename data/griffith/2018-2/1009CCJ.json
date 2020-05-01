@@ -1,0 +1,64 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Activity Log 1",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Activity Log 2",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Activity Log 3",
+			"weight": 2
+		},
+		{
+			"name": "Application Exercise 1",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Activity Log 4",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Activity Log 5",
+			"weight": 2
+		},
+		{
+			"name": "Application Exercise 2",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Activity Log 6",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Activity Log 7",
+			"weight": 2
+		},
+		{
+			"name": "Application Exercise 3",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Activity Log 8",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Activity Log 9",
+			"weight": 2
+		},
+		{
+			"name": "Application Exercise 4",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Activity Log 10",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

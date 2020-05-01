@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Final Examination - Take home open book exam",
+			"weight": 35
+		},
+		{
+			"name": "Fundamental knowledge quiz",
+			"weight": 0
+		},
+		{
+			"name": "Problem sheet 1",
+			"weight": 5
+		},
+		{
+			"name": "Problem sheet 2",
+			"weight": 5
+		},
+		{
+			"name": "Problem sheet 3",
+			"weight": 5
+		},
+		{
+			"name": "Problem sheet 4",
+			"weight": 5
+		},
+		{
+			"name": "Problem sheet 5",
+			"weight": 5
+		},
+		{
+			"name": "Soil behaviour model",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam - Multiple Choice Quiz",
+			"weight": 35
+		}
+	]
+}

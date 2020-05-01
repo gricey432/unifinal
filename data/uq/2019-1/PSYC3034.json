@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes 1 to 6",
+			"weight": 40
+		},
+		{
+			"name": "Problem Diagnosis",
+			"weight": 10
+		},
+		{
+			"name": "Challenge diagnosis reflection",
+			"weight": 10
+		},
+		{
+			"name": "Intervention Design",
+			"weight": 40
+		}
+	]
+}

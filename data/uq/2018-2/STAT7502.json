@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2 - Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Postgraduate Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 20
+		}
+	]
+}

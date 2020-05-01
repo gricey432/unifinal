@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on judicial proceedings",
+			"weight": 25
+		},
+		{
+			"name": "Report on an FOI Request",
+			"weight": 25
+		},
+		{
+			"name": "END OF SEMESTER EXAMINATION",
+			"weight": 50
+		}
+	]
+}

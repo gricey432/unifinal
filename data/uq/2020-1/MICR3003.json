@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Laboratory Performance",
+			"weight": "-"
+		},
+		{
+			"name": "Laboratory Report 1 - Outbreak Response",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Report 2 - Drug Screening",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

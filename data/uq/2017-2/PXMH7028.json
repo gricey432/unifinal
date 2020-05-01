@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation - Tutorial Discussion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflection on and analysis of tutorial reading.",
+			"weight": 30
+		},
+		{
+			"name": "Newsletter article",
+			"weight": 30
+		},
+		{
+			"name": "Therapeutic Interventions",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ASSIGNMENT 1 - Materials Selection",
+			"weight": 17
+		},
+		{
+			"name": "IN-CLASS TEST (1 hour)",
+			"weight": 15
+		},
+		{
+			"name": "ASSIGNMENT 2 - Manufacturing System Design",
+			"weight": 17
+		},
+		{
+			"name": "FINAL EXAMINATION (2 hours)",
+			"weight": 50
+		}
+	]
+}

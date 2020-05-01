@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Hons Seminars",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Project Presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Literature/Context Review",
+			"weight": 20
+		},
+		{
+			"name": "Exegesis First Draft",
+			"weight": "Hurdle Requirement"
+		},
+		{
+			"name": "Artistic Research Output",
+			"weight": 40
+		},
+		{
+			"name": "Exegesis",
+			"weight": 40
+		}
+	]
+}

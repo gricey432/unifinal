@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Recommendation (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major Essay (4000 words) ",
+			"weight": 50
+		},
+		{
+			"name": "Simulation Exercise Participation",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "for AGRC3602",
+			"weight": 5
+		},
+		{
+			"name": "Concept map",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 45
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 45
+		}
+	]
+}

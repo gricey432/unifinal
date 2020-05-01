@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz related to lecture ",
+			"weight": 20
+		},
+		{
+			"name": "Practical Exercise 1 on GIS Mapping",
+			"weight": 12
+		},
+		{
+			"name": "Practical Exercise 2 on GIS Analysis",
+			"weight": 12
+		},
+		{
+			"name": "GIS Project Report",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

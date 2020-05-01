@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "IN CLASS MID SEMESTER EXAM",
+			"weight": 20
+		},
+		{
+			"name": "Individual Lab Work",
+			"weight": 10
+		},
+		{
+			"name": "ANALYSIS AND DESIGN GROUP PROJECT",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module associated workbooks/ online tutorials",
+			"weight": 65
+		},
+		{
+			"name": "Module associated online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

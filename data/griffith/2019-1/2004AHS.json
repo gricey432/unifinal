@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fit for placement requirements",
+			"weight": 0
+		},
+		{
+			"name": "Lab quizzes and exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mid trimester exam",
+			"weight": 40
+		},
+		{
+			"name": "End of trimester exam",
+			"weight": 40
+		}
+	]
+}

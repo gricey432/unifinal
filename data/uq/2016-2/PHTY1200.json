@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Technique self reflection workbook and essay",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of an Assessment Procedure",
+			"weight": 10
+		},
+		{
+			"name": "Region 1 - Lower Limb Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Regions 2(UL)& 3(Spine) Prac exam in exam period",
+			"weight": 30
+		},
+		{
+			"name": "Theory Exam - all subject content",
+			"weight": 35
+		}
+	]
+}

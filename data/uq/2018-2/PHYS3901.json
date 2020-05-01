@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Careers options",
+			"weight": 5
+		},
+		{
+			"name": "Cost-benefit analysis",
+			"weight": 5
+		},
+		{
+			"name": "Presentation plan",
+			"weight": 5
+		},
+		{
+			"name": "Diary of your work practice",
+			"weight": 5
+		},
+		{
+			"name": "Mathematical derivation",
+			"weight": 5
+		},
+		{
+			"name": "Project Report ",
+			"weight": 30
+		},
+		{
+			"name": "Project presentation plan",
+			"weight": 10
+		},
+		{
+			"name": "Project presentation",
+			"weight": 10
+		},
+		{
+			"name": "Peer review of Project Report",
+			"weight": 5
+		},
+		{
+			"name": "Field Trip to the Physics Colloquium",
+			"weight": 10
+		}
+	]
+}

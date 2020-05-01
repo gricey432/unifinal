@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Project Proposal Presentation (Team)",
+			"weight": 15
+		},
+		{
+			"name": "Project Portfolio(Team) ",
+			"weight": 45
+		},
+		{
+			"name": "Progressive Learning Reflection (Individual)",
+			"weight": 40
+		}
+	]
+}

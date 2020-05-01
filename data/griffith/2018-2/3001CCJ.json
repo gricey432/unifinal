@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Critique of Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Analysis Exercise",
+			"weight": 40
+		},
+		{
+			"name": "Final/End Study Period Exam",
+			"weight": 30
+		}
+	]
+}

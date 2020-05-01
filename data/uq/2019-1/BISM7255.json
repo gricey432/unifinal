@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis and design assessment portfolio.",
+			"weight": 45
+		},
+		{
+			"name": "Inclass Exam",
+			"weight": 55
+		}
+	]
+}

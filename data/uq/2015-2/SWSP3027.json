@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding the lived experience",
+			"weight": 25
+		},
+		{
+			"name": "Asst. 2: Mental Health and Off-shore Detention",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		},
+		{
+			"name": "Discussion Board Reflection ",
+			"weight": 10
+		}
+	]
+}

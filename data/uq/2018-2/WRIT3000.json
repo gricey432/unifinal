@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation on Set Text 1",
+			"weight": 10
+		},
+		{
+			"name": "Written Responses to Set Texts 2 & 3",
+			"weight": 30
+		},
+		{
+			"name": "Advanced Writing Project",
+			"weight": 50
+		}
+	]
+}

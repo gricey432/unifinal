@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Audit",
+			"weight": 20
+		},
+		{
+			"name": "Digital Analytics",
+			"weight": 60
+		},
+		{
+			"name": "Blog",
+			"weight": 20
+		}
+	]
+}

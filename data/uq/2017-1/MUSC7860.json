@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "personal reflection on music education ",
+			"weight": 20
+		},
+		{
+			"name": "Literature review essay",
+			"weight": 40
+		},
+		{
+			"name": "Independent project in music education",
+			"weight": 40
+		}
+	]
+}

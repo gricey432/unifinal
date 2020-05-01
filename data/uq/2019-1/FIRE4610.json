@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Reports on Building Project Design",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		},
+		{
+			"name": "Individual Reports on Building Project Design",
+			"weight": 40
+		},
+		{
+			"name": "Additional Report on Building Project Design",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 20
+		}
+	]
+}

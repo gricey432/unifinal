@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Conference Presentation - (Poster and Paper)",
+			"weight": 60
+		}
+	]
+}

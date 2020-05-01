@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Approaches presentations",
+			"weight": 15
+		},
+		{
+			"name": "Methods in Molecular Cell Biology",
+			"weight": 15
+		},
+		{
+			"name": "Problem-based learning exercise",
+			"weight": 15
+		},
+		{
+			"name": "End of semester online invigilated exam",
+			"weight": 55
+		}
+	]
+}

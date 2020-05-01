@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "In-class briefing paper",
+			"weight": 15
+		},
+		{
+			"name": "Critical Literature Review 1000 words",
+			"weight": 30
+		},
+		{
+			"name": "Report 2500 words",
+			"weight": 45
+		}
+	]
+}

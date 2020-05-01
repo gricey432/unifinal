@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project Report",
+			"weight": 90
+		},
+		{
+			"name": "Group contract",
+			"weight": "handed in with the report"
+		},
+		{
+			"name": "Group process",
+			"weight": 10
+		}
+	]
+}

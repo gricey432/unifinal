@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tutorial reading review",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 40
+		}
+	]
+}

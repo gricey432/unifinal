@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Homework & Tutorial Exercises",
+			"weight": 16
+		},
+		{
+			"name": "Building Control System: Visit 1",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Gas compression practical",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Building Control System: Visit 2",
+			"weight": 5
+		},
+		{
+			"name": "Sustainability Measures for Energy Systems",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

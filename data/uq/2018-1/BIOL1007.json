@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Section A, B & C",
+			"weight": 35
+		},
+		{
+			"name": "Infection Control Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of Section D, E & F",
+			"weight": 55
+		}
+	]
+}

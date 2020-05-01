@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal ",
+			"weight": 30
+		},
+		{
+			"name": "Design for Facilitated workshop",
+			"weight": 20
+		},
+		{
+			"name": "Report on education-training event",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Talk given to lab group meeting",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": 15
+		},
+		{
+			"name": "Report on research project",
+			"weight": 80
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Study Program Research Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Study Program Report and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

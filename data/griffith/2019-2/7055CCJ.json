@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Cyber Fraud Prevention Report",
+			"weight": 70
+		}
+	]
+}

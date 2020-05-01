@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Informal assessment of typical communication ",
+			"weight": 40
+		},
+		{
+			"name": "Disorders of aging and the clinical audiologist",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

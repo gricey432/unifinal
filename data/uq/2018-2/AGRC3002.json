@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "End of semester exam - open book",
+			"weight": 45
+		},
+		{
+			"name": "Wheat practical report",
+			"weight": 20
+		},
+		{
+			"name": "Weedsmart assignment",
+			"weight": 20
+		},
+		{
+			"name": "Chickpea and Faba practical report",
+			"weight": 10
+		},
+		{
+			"name": "Crop competition practical report",
+			"weight": 5
+		}
+	]
+}

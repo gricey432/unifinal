@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism Futures Scenario",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Reflection",
+			"weight": 40
+		}
+	]
+}

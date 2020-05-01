@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory Assignment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Attendence and Participation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

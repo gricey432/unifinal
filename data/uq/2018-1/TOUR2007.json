@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder Presentation (recorded)",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on learning",
+			"weight": 25
+		},
+		{
+			"name": "Impact Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formal Software Inspection - Report",
+			"weight": 20
+		},
+		{
+			"name": "Software Requirement Specification - Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

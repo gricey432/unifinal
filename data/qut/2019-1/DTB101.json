@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - personal dwelling",
+			"weight": 30
+		},
+		{
+			"name": "Project 2 small scale context",
+			"weight": 50
+		},
+		{
+			"name": "Design Workbook",
+			"weight": 20
+		}
+	]
+}

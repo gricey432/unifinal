@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of first stages in planning an evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Report of a real-life evaluation",
+			"weight": 25
+		},
+		{
+			"name": "Peer assessment",
+			"weight": 10
+		},
+		{
+			"name": "Evaluation plan ",
+			"weight": 45
+		}
+	]
+}

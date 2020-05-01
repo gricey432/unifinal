@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Characteristics of Excellent Physics Teaching",
+			"weight": 30
+		},
+		{
+			"name": "Extended Experimental Investigation/Response Task",
+			"weight": 40
+		},
+		{
+			"name": "Researching and teaching a *new* physics concept",
+			"weight": 30
+		}
+	]
+}

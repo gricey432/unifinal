@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective essay",
+			"weight": 20
+		},
+		{
+			"name": "What makes, breaks and remakes relationships?",
+			"weight": 40
+		},
+		{
+			"name": "Treatment manual (including DVD)",
+			"weight": 40
+		}
+	]
+}

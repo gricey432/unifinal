@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mandatory Work Health and Safety",
+			"weight": "NGP"
+		},
+		{
+			"name": "Mandatory Hand Hygiene Competency",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication Calculation online quizzes",
+			"weight": "NGP"
+		},
+		{
+			"name": "Vital signs",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		},
+		{
+			"name": "eCPPP formative assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Skills Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		}
+	]
+}

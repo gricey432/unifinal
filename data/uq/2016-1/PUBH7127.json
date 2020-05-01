@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment A - Identifying a health behaviour",
+			"weight": 20
+		},
+		{
+			"name": "Assignment B - Reviewing Health Behaviour Measures",
+			"weight": 30
+		},
+		{
+			"name": "Major Assignment",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The Core Competencies of the Effective Counsellor",
+			"weight": 40
+		},
+		{
+			"name": "Treatment Plan from Live Demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Becoming a Counsellor - Personal Self-Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Counselling Competency Interview",
+			"weight": 0
+		}
+	]
+}

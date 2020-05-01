@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Risk Reports",
+			"weight": 50
+		},
+		{
+			"name": "Opinion Pieces",
+			"weight": 50
+		}
+	]
+}

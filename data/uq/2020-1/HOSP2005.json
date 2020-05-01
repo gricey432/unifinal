@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay",
+			"weight": 50
+		},
+		{
+			"name": "Zomato Research Report",
+			"weight": 50
+		}
+	]
+}

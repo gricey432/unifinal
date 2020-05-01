@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching case study",
+			"weight": 50
+		},
+		{
+			"name": "Closed book Examination on mathematics pedagogy ",
+			"weight": 50
+		}
+	]
+}

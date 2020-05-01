@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Wiki Diaries",
+			"weight": 30
+		},
+		{
+			"name": "Women's Health Website",
+			"weight": 30
+		}
+	]
+}

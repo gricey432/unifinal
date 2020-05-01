@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2 minute pitch of service experience",
+			"weight": 20
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": 40
+		},
+		{
+			"name": "Problem Solving and Critical Thinking",
+			"weight": 40
+		}
+	]
+}

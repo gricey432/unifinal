@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory online risk assessment",
+			"weight": "Pre-requisite for attending any field class"
+		},
+		{
+			"name": "TEAM data analysis",
+			"weight": 30
+		},
+		{
+			"name": "Wildlife project",
+			"weight": 50
+		},
+		{
+			"name": "Wildlife project presentation",
+			"weight": 20
+		}
+	]
+}

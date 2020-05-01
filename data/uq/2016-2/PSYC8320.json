@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Folio provides a sample of student's work",
+			"weight": "Folio reflects a brief summary of work completed "
+		},
+		{
+			"name": "All hours (clinical, supervision, general) are rec",
+			"weight": "This is required throughout placement."
+		},
+		{
+			"name": "At mid term and end of term ",
+			"weight": "This is the most important part of the assessment"
+		}
+	]
+}

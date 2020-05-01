@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Guided Discussion with Peers Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Essay",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Trimester Essay",
+			"weight": 60
+		}
+	]
+}

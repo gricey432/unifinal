@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Poster presentation",
+			"weight": "(continuation: presenting the poster you submitted)"
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Closed Book Examination",
+			"weight": 60
+		}
+	]
+}

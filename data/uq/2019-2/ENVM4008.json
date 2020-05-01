@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Deliverables",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		}
+	]
+}

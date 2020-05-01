@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A Study of Grief",
+			"weight": 35
+		},
+		{
+			"name": "Case Presentation /Formulation",
+			"weight": 15
+		},
+		{
+			"name": "Professional Manual",
+			"weight": 40
+		},
+		{
+			"name": "Personal Exploration Journal",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Attendance & Summary",
+			"weight": 20
+		},
+		{
+			"name": "Background Report",
+			"weight": 30
+		},
+		{
+			"name": "Long Essay",
+			"weight": 50
+		}
+	]
+}

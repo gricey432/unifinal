@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Digital Advertising Campaign (Group)",
+			"weight": 40
+		}
+	]
+}

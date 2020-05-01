@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ exam based on published research papers",
+			"weight": 30
+		},
+		{
+			"name": "Written Examination ",
+			"weight": 70
+		}
+	]
+}

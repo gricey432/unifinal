@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment (turn in at Week 3 tutorial)",
+			"weight": 5
+		},
+		{
+			"name": "Mid-trimester exam (during lecture time, Week 7)",
+			"weight": 30
+		},
+		{
+			"name": "Critical Eval of a Media Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

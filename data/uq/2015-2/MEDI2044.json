@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group assignment and presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": "Pass/Fail"
+		}
+	]
+}

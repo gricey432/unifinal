@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation",
+			"weight": 5
+		},
+		{
+			"name": "Vocabulary Quiz Week 4 & 10",
+			"weight": 10
+		},
+		{
+			"name": "Mock Job Interview ",
+			"weight": 10
+		},
+		{
+			"name": "Written exam:week 7",
+			"weight": 25
+		},
+		{
+			"name": "Essay writing ",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

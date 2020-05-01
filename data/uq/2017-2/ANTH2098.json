@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Museums, Anthropology and Living Heritage",
+			"weight": 25
+		},
+		{
+			"name": "Written review",
+			"weight": 25
+		},
+		{
+			"name": "Burleigh Headland Cultural Heritage Report",
+			"weight": 50
+		}
+	]
+}

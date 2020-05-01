@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "First Draft",
+			"weight": "No weight"
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Economic Analysis of News Article- Essay",
+			"weight": 30
+		},
+		{
+			"name": "Group Essay",
+			"weight": "No weight"
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

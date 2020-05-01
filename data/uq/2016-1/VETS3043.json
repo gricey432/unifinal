@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Content Exam",
+			"weight": 50
+		},
+		{
+			"name": "Clinical Rotations Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Rotation Case Logs",
+			"weight": 15
+		},
+		{
+			"name": "Oral Case Report",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 25
+		}
+	]
+}

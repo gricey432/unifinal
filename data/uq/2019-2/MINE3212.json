@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory OH&S Training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 1. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 2. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 3. Reaction /Phase Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Heat and Mass Balance",
+			"weight": 5
+		},
+		{
+			"name": "High temperature phase equilibria experiments",
+			"weight": 8
+		},
+		{
+			"name": "Week 8. Minor elements,gas/condensed phases",
+			"weight": 2
+		},
+		{
+			"name": "FactSage Cu smelting process design report",
+			"weight": 10
+		},
+		{
+			"name": "Week 10. Physico-chem properties, Iron&steelmaking",
+			"weight": 2
+		},
+		{
+			"name": "Week 11. Pb/Zn smelting",
+			"weight": 2
+		},
+		{
+			"name": "Review of Pyro of Metal/Alloy presentation",
+			"weight": 2
+		},
+		{
+			"name": "Review of Pyrometallurgy of Metal/Alloy report",
+			"weight": 8
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

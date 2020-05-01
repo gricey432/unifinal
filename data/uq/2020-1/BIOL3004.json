@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Core Practicals (weeks 2-6)",
+			"weight": 10
+		},
+		{
+			"name": "Online Quizzes for Core Practicals (weeks 2-6)",
+			"weight": "Included in the weighting of the Core Practicals assessment"
+		},
+		{
+			"name": "Assessment of Applied Practicals (3 reports)",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

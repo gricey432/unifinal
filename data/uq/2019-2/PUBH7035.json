@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Measurement in health promotion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Needs Assessment Plan",
+			"weight": 30
+		},
+		{
+			"name": "Synthesising the findings of the Needs Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Pitching a health promotion action",
+			"weight": 35
+		}
+	]
+}

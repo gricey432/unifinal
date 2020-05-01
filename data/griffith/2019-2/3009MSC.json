@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Workbook",
+			"weight": 5
+		},
+		{
+			"name": "QUIZ",
+			"weight": 15
+		},
+		{
+			"name": "Mid Trimester exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Practical exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 25
+		}
+	]
+}

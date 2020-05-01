@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Assignment #1 - Concept Design Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Assignment #2 - Final Design Proposal",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 10
+		}
+	]
+}

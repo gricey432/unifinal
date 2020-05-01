@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Short Writing Exercises",
+			"weight": 32
+		},
+		{
+			"name": "Weekly Response to Readings",
+			"weight": 8
+		},
+		{
+			"name": "Draft & Final",
+			"weight": 50
+		}
+	]
+}

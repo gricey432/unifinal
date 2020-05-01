@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 5
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Problem-Response Brief",
+			"weight": 15
+		},
+		{
+			"name": "Comparative case study",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

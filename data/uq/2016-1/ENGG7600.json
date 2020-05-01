@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced group project and presentation",
+			"weight": 20
+		},
+		{
+			"name": "Discussing or presenting opinions, homework, etc",
+			"weight": 10
+		},
+		{
+			"name": "Peer Assessment of contribution to the project ",
+			"weight": 5
+		},
+		{
+			"name": "Group project report ",
+			"weight": 25
+		},
+		{
+			"name": "Written Examination",
+			"weight": 40
+		}
+	]
+}

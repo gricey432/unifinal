@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial/Workshop Participation",
+			"weight": 3
+		},
+		{
+			"name": "Eight In-Class Quizzes",
+			"weight": 42
+		},
+		{
+			"name": "Applied Journal Article",
+			"weight": 20
+		},
+		{
+			"name": "Possible Interventions/Strategies",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignment 1 (1A-D)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Progress Test",
+			"weight": 10
+		},
+		{
+			"name": "Homework Assignment 2 (1E-G)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 3 (1H-J)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 4 (2A-D)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "Homework Assignment 5 (3A-B)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 6 (3C-E)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 7 (4A-B)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 8 (4C-D)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 9 (5A-D)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "Homework Assignment 10 (6A-D)",
+			"weight": "Part of total 15"
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

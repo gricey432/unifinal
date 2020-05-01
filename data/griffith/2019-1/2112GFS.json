@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 1: Character model sheet",
+			"weight": 10
+		},
+		{
+			"name": "Assess 2: Character Model mesh",
+			"weight": 40
+		},
+		{
+			"name": "Assess 3: Character Rig",
+			"weight": 50
+		}
+	]
+}

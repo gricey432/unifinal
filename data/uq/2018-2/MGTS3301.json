@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis in Management Team Meetings ",
+			"weight": 30
+		},
+		{
+			"name": "Written Reflective Account",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

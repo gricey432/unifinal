@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation in discussion",
+			"weight": 10
+		},
+		{
+			"name": "Synopsis and key papers for your presentation",
+			"weight": 5
+		},
+		{
+			"name": "Oral Presentation of Topic in Class",
+			"weight": 25
+		},
+		{
+			"name": "Summary Report on Chosen Topic",
+			"weight": 40
+		},
+		{
+			"name": "Submission of two peer assessment reports",
+			"weight": 20
+		}
+	]
+}

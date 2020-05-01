@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media release",
+			"weight": 10
+		},
+		{
+			"name": "Public Relations Campaign Plan ",
+			"weight": 50
+		},
+		{
+			"name": "PR essay",
+			"weight": 40
+		}
+	]
+}

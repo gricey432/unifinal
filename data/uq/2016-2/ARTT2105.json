@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Slide Test",
+			"weight": 30
+		},
+		{
+			"name": "Slide test",
+			"weight": 30
+		},
+		{
+			"name": "2000 word research essay",
+			"weight": 40
+		}
+	]
+}

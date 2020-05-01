@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Solar/Wind Power/Battery Revolution",
+			"weight": 30
+		},
+		{
+			"name": "Analysis of Economic Content of Tutorial Videos",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

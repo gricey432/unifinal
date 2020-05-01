@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final essay",
+			"weight": 70
+		}
+	]
+}

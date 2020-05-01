@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Cryopreservation of female germplasm",
+			"weight": 10
+		},
+		{
+			"name": "Student delivered lecture",
+			"weight": 10
+		},
+		{
+			"name": "Breeding Technology Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets (Quiz, Practice & Participation)",
+			"weight": 10
+		},
+		{
+			"name": "Restorative Justice Conference Plan (2000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Project Plan (5pg)and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Financial Crime Investigation Plan (2000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Cybercrime Intelligence Report (2000 Words)",
+			"weight": 20
+		}
+	]
+}

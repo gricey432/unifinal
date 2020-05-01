@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Readings and Summaries",
+			"weight": 45
+		},
+		{
+			"name": "Leading discussion",
+			"weight": 10
+		},
+		{
+			"name": "Argumentative Essay",
+			"weight": 45
+		}
+	]
+}

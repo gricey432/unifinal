@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Scoping Report",
+			"weight": 30
+		},
+		{
+			"name": "Identifying Stakeholder Perspectives",
+			"weight": 20
+		},
+		{
+			"name": "Evaluation of the future of an environmental issue",
+			"weight": 50
+		}
+	]
+}

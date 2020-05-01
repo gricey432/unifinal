@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 45
+		},
+		{
+			"name": "Case Study",
+			"weight": 55
+		}
+	]
+}

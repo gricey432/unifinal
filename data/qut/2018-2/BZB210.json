@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific  Journal",
+			"weight": 40
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 30
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 30
+		}
+	]
+}

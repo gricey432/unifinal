@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Quiz 1",
+			"weight": 2
+		},
+		{
+			"name": "Practical Quiz 2",
+			"weight": 2
+		},
+		{
+			"name": "Practical Quiz 3",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning task 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 19
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mind Map & Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Individual Project",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

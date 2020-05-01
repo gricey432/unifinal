@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Social science fundamentals online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Reflective blog (700 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major essay (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "PhotoVoice Project",
+			"weight": 30
+		}
+	]
+}

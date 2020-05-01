@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class exam",
+			"weight": 20
+		},
+		{
+			"name": "Individual and Ensemble performance",
+			"weight": 30
+		},
+		{
+			"name": "Worksheets",
+			"weight": 35
+		},
+		{
+			"name": "Chorale Harmonisation",
+			"weight": 15
+		}
+	]
+}

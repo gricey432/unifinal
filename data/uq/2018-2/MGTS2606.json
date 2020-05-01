@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Part A: Written Responses to Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Organisational Communication Essay",
+			"weight": 30
+		},
+		{
+			"name": "Part B: Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

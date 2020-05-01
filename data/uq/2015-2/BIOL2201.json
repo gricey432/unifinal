@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bookclub Workshop",
+			"weight": 15
+		},
+		{
+			"name": "Selection experiment",
+			"weight": 20
+		},
+		{
+			"name": "Morphometrics and hominid evolution",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

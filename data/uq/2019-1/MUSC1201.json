@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Recital ",
+			"weight": 60
+		},
+		{
+			"name": "Technical exam",
+			"weight": 20
+		},
+		{
+			"name": "Ensemble Participation, Assessment,and Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Weekly Lesson Semester 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Language and Lyric Diction Studies",
+			"weight": 0
+		},
+		{
+			"name": "Performance and Contribution Forums",
+			"weight": 10
+		}
+	]
+}

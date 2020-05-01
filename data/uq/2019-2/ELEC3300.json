@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class-Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial assessment",
+			"weight": 8
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 16
+		},
+		{
+			"name": "Mid semester class test",
+			"weight": 20
+		},
+		{
+			"name": "Computer Simulation of Energy Conversion System",
+			"weight": 4
+		},
+		{
+			"name": "Final examination",
+			"weight": 42
+		}
+	]
+}

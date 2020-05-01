@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Writing activity",
+			"weight": 10
+		},
+		{
+			"name": "Oral 1",
+			"weight": 20
+		},
+		{
+			"name": "Grammar Activity",
+			"weight": 10
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		},
+		{
+			"name": "Listening Activity",
+			"weight": 15
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 15
+		}
+	]
+}

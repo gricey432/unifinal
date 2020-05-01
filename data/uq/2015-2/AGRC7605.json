@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Placement Form",
+			"weight": "To be completed prior to commencement of semester"
+		},
+		{
+			"name": "2nd Industry Placement Supervisor Evaluation",
+			"weight": 25
+		},
+		{
+			"name": "1st Industry Placement Supervisor Evaluation",
+			"weight": 15
+		},
+		{
+			"name": "Industry Placement - Learning and Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Industry Placement Diary",
+			"weight": 30
+		}
+	]
+}

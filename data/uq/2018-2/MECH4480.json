@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Using CFD tools & visualizing results",
+			"weight": 10
+		},
+		{
+			"name": "Case studies in applying CFD ",
+			"weight": 5
+		},
+		{
+			"name": "Internet Revision Quiz - Background Knowledge",
+			"weight": 0
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Potential Flow and Panel Methods",
+			"weight": 10
+		},
+		{
+			"name": "Design, Analyse, Build and Test: Aerofoil",
+			"weight": 25
+		},
+		{
+			"name": "Simulate Supersonic Flow",
+			"weight": 20
+		}
+	]
+}

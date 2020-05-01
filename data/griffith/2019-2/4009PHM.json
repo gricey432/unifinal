@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Continuing Professional Plan/Record",
+			"weight": 10
+		},
+		{
+			"name": "Interprofessional Learning (CLEIMS & Aged Care)",
+			"weight": 10
+		},
+		{
+			"name": "Mid Trimester exam",
+			"weight": 20
+		},
+		{
+			"name": "PharmG Simulation",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester exam",
+			"weight": 35
+		}
+	]
+}

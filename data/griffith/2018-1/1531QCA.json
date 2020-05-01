@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Starter Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Illustrator & Studio Practice",
+			"weight": 25
+		},
+		{
+			"name": "Folio & Design Exam",
+			"weight": 40
+		},
+		{
+			"name": "InDesign & Studio Practice",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Human-wildlife interactions",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 - Sit down Exam",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 3 - Research report",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quiz based on class readings",
+			"weight": 20
+		},
+		{
+			"name": "Language analysis and tasks for a classroom text",
+			"weight": 40
+		},
+		{
+			"name": "Response to a school-based scenario",
+			"weight": 40
+		}
+	]
+}

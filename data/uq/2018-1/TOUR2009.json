@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "IMC Strategy",
+			"weight": 50
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

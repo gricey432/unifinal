@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar preparation",
+			"weight": 10
+		},
+		{
+			"name": "Draft Intro or Client Interview",
+			"weight": 5
+		},
+		{
+			"name": "Either Part A or Part B",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

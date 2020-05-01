@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Journal",
+			"weight": 10
+		},
+		{
+			"name": "Essay One: short essay",
+			"weight": 30
+		},
+		{
+			"name": "Group Presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Essay Two: Reflective research essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Bb Blog",
+			"weight": 20
+		},
+		{
+			"name": "Analytical Film Critique",
+			"weight": 40
+		},
+		{
+			"name": "Final Take Home Exam",
+			"weight": 40
+		}
+	]
+}

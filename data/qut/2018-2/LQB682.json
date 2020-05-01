@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Biomolecular Design Poster",
+			"weight": 35
+		},
+		{
+			"name": "Biomolecular prod. &amp; analysis",
+			"weight": 25
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

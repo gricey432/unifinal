@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Problem Sets",
+			"weight": 0
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Report on Bending of Beams Experiment",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Report on Studio on Heat Treatment",
+			"weight": 2
+		},
+		{
+			"name": "Risk Assessment Report for Integrated Assignment",
+			"weight": 4
+		},
+		{
+			"name": "Integrated Assignment - Report",
+			"weight": 16
+		},
+		{
+			"name": "Report on Studio on Corrosion",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

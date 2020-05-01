@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback for learning",
+			"weight": "available in Bb"
+		},
+		{
+			"name": "Peer Teaching",
+			"weight": "available in Bb"
+		},
+		{
+			"name": "Infographic OR How To Guide",
+			"weight": "available in Bb"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "available in Bb"
+		}
+	]
+}

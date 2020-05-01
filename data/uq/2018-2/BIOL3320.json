@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Evolution and diversity essay",
+			"weight": 20
+		},
+		{
+			"name": "Phylogeny/diversity block of lectures - not pracs",
+			"weight": 15
+		},
+		{
+			"name": "Evolution and diversity poster",
+			"weight": 10
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 25
+		},
+		{
+			"name": "Comparative anatomy and function",
+			"weight": 30
+		}
+	]
+}

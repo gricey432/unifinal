@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Lithic Analysis Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Self-assessment and Development Plan",
+			"weight": 30
+		},
+		{
+			"name": "Group Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Professional Reflection",
+			"weight": 40
+		}
+	]
+}

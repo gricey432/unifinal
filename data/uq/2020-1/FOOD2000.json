@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz after Total Starch experiment",
+			"weight": 10
+		},
+		{
+			"name": "Horticultural Report",
+			"weight": 20
+		},
+		{
+			"name": "Quiz after Lactose Measurement Learning Activity",
+			"weight": 10
+		},
+		{
+			"name": "Meat Report Learning Exercise",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam (online non-invigilated exam)",
+			"weight": 40
+		}
+	]
+}

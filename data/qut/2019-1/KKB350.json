@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Practice",
+			"weight": 60
+		}
+	]
+}

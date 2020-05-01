@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Geometric Design of Highways",
+			"weight": 15
+		},
+		{
+			"name": "Participating in Learning Activities",
+			"weight": 5
+		},
+		{
+			"name": "Road Safety",
+			"weight": 7
+		},
+		{
+			"name": "Travel Demand",
+			"weight": 15
+		},
+		{
+			"name": "Public Transport",
+			"weight": 7
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

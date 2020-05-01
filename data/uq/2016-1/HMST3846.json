@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Statistics practical exam",
+			"weight": 20
+		},
+		{
+			"name": "Draft Proposal Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Statistics Exam",
+			"weight": 10
+		},
+		{
+			"name": "Qualitative Research Assignment ",
+			"weight": 20
+		},
+		{
+			"name": "Full Research Proposal",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class engagement",
+			"weight": 20
+		},
+		{
+			"name": "Research paper",
+			"weight": 30
+		},
+		{
+			"name": "Midterm Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

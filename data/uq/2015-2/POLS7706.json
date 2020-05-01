@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "plan and literature review",
+			"weight": 30
+		},
+		{
+			"name": "Research Thesis",
+			"weight": 70
+		}
+	]
+}

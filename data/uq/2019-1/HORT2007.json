@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short answer mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Literature review on chosen topic",
+			"weight": 30
+		},
+		{
+			"name": "Practical report on class experiment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

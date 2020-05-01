@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Current Issue Proposal",
+			"weight": 15
+		},
+		{
+			"name": "QUIZ",
+			"weight": 15
+		},
+		{
+			"name": "Current Issue Paper  (CIP)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

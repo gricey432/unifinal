@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Rhetorical analysis of a published review",
+			"weight": 20
+		},
+		{
+			"name": "Review ",
+			"weight": 20
+		},
+		{
+			"name": "Column pitch presentation",
+			"weight": 10
+		},
+		{
+			"name": "Pitch Letter",
+			"weight": 10
+		},
+		{
+			"name": "Sample Column",
+			"weight": 20
+		}
+	]
+}

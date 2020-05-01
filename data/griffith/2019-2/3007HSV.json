@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Position Paper",
+			"weight": 45
+		},
+		{
+			"name": "Online  Analysis of Case Studies",
+			"weight": 10
+		},
+		{
+			"name": "Course Examination",
+			"weight": 45
+		}
+	]
+}

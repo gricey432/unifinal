@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Notebooks",
+			"weight": 10
+		},
+		{
+			"name": "MicrobeWiki webpage",
+			"weight": 10
+		},
+		{
+			"name": "Oral microbiome report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam Microbial Genomics",
+			"weight": 60
+		}
+	]
+}

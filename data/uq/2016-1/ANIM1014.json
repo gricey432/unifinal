@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Behaviour Report",
+			"weight": 20
+		},
+		{
+			"name": "Husbandry/handling practicals and quiz",
+			"weight": 30
+		},
+		{
+			"name": "Residential School",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

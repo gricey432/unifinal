@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "End-of-semester written examination",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory report and experimental proposals",
+			"weight": 15
+		},
+		{
+			"name": "Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Pre-lecture Reading Test",
+			"weight": 5
+		},
+		{
+			"name": "MasteringPhysics Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Class Participation",
+			"weight": "Bonus (up to 1/2 grade)"
+		}
+	]
+}

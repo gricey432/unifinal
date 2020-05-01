@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Outlining the client's profile",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 Precedents analysis + Parti + Model",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3 - Project",
+			"weight": 60
+		}
+	]
+}

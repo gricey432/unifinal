@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Production Science 1",
+			"weight": 50
+		},
+		{
+			"name": "Advanced Study in Animal Production Science 2",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Impacts of climate change",
+			"weight": 20
+		},
+		{
+			"name": "Risk, Vulnerability & Adaptation",
+			"weight": 40
+		},
+		{
+			"name": "Final course examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Placement: Policies and Procedures ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Barriers and Responses ",
+			"weight": 40
+		},
+		{
+			"name": "How Teachers Meet the Students' Needs",
+			"weight": 55
+		},
+		{
+			"name": "Placement: 5 Day Placement and Log Upload ",
+			"weight": "Pass/Fail"
+		}
+	]
+}

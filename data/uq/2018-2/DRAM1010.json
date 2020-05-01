@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Entries",
+			"weight": 15
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Group Performance Project",
+			"weight": 30
+		},
+		{
+			"name": "Performance Review",
+			"weight": 15
+		}
+	]
+}

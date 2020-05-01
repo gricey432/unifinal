@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Language Sample Analysis Task",
+			"weight": 10
+		},
+		{
+			"name": "Examination (modules 1-2)",
+			"weight": 40
+		},
+		{
+			"name": "Examination (modules 3-4 & case integration)",
+			"weight": 50
+		}
+	]
+}

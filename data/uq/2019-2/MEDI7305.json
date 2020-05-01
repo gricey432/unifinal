@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ Exam paper - RRM (Stream A&B)",
+			"weight": 30
+		},
+		{
+			"name": "RRM Case-Based Discussion (Stream A&B)",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Participation Assessment (Stream A&B)",
+			"weight": "PASS/FAIL (To pass the course, students must pass this regardless of marks in other assessments)"
+		},
+		{
+			"name": "Rural Health Project(A&B)",
+			"weight": 50
+		},
+		{
+			"name": "Rural Medicine Online Modules for Stream A&B only",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student-developed MCQ - diagnostic focus (Stream C",
+			"weight": "3 of 21 assessment criteria"
+		},
+		{
+			"name": "Student-developed MCQ Management focus(Stream C)",
+			"weight": "3 of 21 assessment criteria"
+		},
+		{
+			"name": "Clinical Case Presentation and Discussion Stream C",
+			"weight": "9 of 21 assessment criteria"
+		},
+		{
+			"name": "Medicine in Society Tutorials (Stream C)",
+			"weight": "Performance Hurdle: Satisfactory participation required to pass"
+		},
+		{
+			"name": "Understanding the Person Discussion(Stream C)",
+			"weight": "6 out of 21 assessment criteria"
+		},
+		{
+			"name": "Student-contributed Quiz (Stream C)",
+			"weight": "Performance Hurdle: students must complete to required standard"
+		},
+		{
+			"name": "Clinical Participation Assessment(Stream C)",
+			"weight": "PASS/FAIL (To pass the course, students must pass this regardless of marks in other assessments)"
+		}
+	]
+}

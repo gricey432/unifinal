@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Strain design - Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1: Theory",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2: Network modelling",
+			"weight": 15
+		},
+		{
+			"name": "Strain design - Project results",
+			"weight": 5
+		},
+		{
+			"name": "Strain design - Simulations",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

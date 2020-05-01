@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Economics of News Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Survey",
+			"weight": 1
+		},
+		{
+			"name": "Practical Online Quizzes",
+			"weight": 14
+		},
+		{
+			"name": "Group Research Project Peer Assessment",
+			"weight": "Pass/Fail - Affects individual mark for Group Research Project Report "
+		},
+		{
+			"name": "Group Research Project Written Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Mixed & Qualitative Research Methods Exam",
+			"weight": 20
+		},
+		{
+			"name": "Interprofessional Group Research Project",
+			"weight": 30
+		},
+		{
+			"name": "Quantitative Research Methods Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "One Way Mirror",
+			"weight": 35
+		},
+		{
+			"name": "Clinical Viva Exam",
+			"weight": 15
+		},
+		{
+			"name": "Therapy Team Case Report",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial Leadership",
+			"weight": 15
+		}
+	]
+}

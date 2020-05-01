@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Profiling",
+			"weight": 8
+		},
+		{
+			"name": "Major Project: Milestone 1 (Serial)",
+			"weight": 15
+		},
+		{
+			"name": "Parallel programming",
+			"weight": 8
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 8
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 8
+		},
+		{
+			"name": "Major Project: Milestone 2 (Parallel)",
+			"weight": 15
+		},
+		{
+			"name": "Case Study 3",
+			"weight": 8
+		},
+		{
+			"name": "Major Project: Final Report",
+			"weight": 20
+		},
+		{
+			"name": "Major Project: Forum Presentation",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Communication",
+			"weight": 10
+		},
+		{
+			"name": "Structural Deliverable Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Structural Deliverable Part 2",
+			"weight": 20
+		},
+		{
+			"name": "Civil Deliverable",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Feedback",
+			"weight": 0
+		},
+		{
+			"name": "Design Language",
+			"weight": 50
+		},
+		{
+			"name": "Future Environments",
+			"weight": 50
+		}
+	]
+}

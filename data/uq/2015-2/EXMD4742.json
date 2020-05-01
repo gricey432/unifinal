@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 25
+		},
+		{
+			"name": "Practicum placement & case study notes",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam ",
+			"weight": 35
+		}
+	]
+}

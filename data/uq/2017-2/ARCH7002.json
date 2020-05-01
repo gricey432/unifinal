@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Stage 1_Bridging: Transitions in education ",
+			"weight": 30
+		},
+		{
+			"name": "Stage 2_Drawing together",
+			"weight": 30
+		},
+		{
+			"name": "Stage 2_Drawing together",
+			"weight": 0
+		},
+		{
+			"name": "Stage 3_Part + Whole ",
+			"weight": 40
+		}
+	]
+}

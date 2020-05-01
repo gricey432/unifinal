@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Master Class No.1.",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on Master Class No.2.",
+			"weight": 20
+		},
+		{
+			"name": "Research essay based on Master Class No.3",
+			"weight": 60
+		}
+	]
+}

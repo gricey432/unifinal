@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "2 Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Lecture topics 1-5",
+			"weight": 25
+		},
+		{
+			"name": "Minor",
+			"weight": 10
+		},
+		{
+			"name": "Major",
+			"weight": 20
+		},
+		{
+			"name": "Lecture topics 6 - 11 emphasised",
+			"weight": 45
+		}
+	]
+}

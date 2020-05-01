@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Prac Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "Practical Lab book",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Term Test",
+			"weight": 25
+		},
+		{
+			"name": "Assignment on Advanced Food Preservation",
+			"weight": 20
+		}
+	]
+}

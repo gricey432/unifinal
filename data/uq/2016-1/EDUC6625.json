@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ICLTs in the Religion Classroom",
+			"weight": 10
+		},
+		{
+			"name": "Response to Stimulus Questions",
+			"weight": 20
+		},
+		{
+			"name": "World Religions Research Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Essay or Research Project",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Keyword Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Semiotic Analysis",
+			"weight": 50
+		}
+	]
+}

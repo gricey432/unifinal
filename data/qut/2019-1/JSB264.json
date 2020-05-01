@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Profile",
+			"weight": 20
+		},
+		{
+			"name": "Data and Methods Profile",
+			"weight": 30
+		},
+		{
+			"name": "Consultancy Report",
+			"weight": 50
+		}
+	]
+}

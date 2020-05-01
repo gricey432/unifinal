@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Skill Acquisition",
+			"weight": 10
+		},
+		{
+			"name": "Ecological Essay",
+			"weight": 10
+		},
+		{
+			"name": "Video Analysis Task",
+			"weight": 10
+		},
+		{
+			"name": "Skill Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Performance Analysis Template",
+			"weight": 10
+		},
+		{
+			"name": "Performance Analysis",
+			"weight": 30
+		}
+	]
+}

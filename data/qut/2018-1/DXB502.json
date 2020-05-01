@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Information Design Project",
+			"weight": 40
+		},
+		{
+			"name": "Open-ended Information Design",
+			"weight": 60
+		}
+	]
+}

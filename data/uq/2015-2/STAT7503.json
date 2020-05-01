@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - multivariate analysis",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 - clustering",
+			"weight": 15
+		},
+		{
+			"name": "Postgraduate Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 - Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 5 - supervised classification",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 6 - high-dimensional analysis",
+			"weight": 15
+		}
+	]
+}

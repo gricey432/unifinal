@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Outline for Ethics Project",
+			"weight": "PASS/FAIL (200 words max)"
+		},
+		{
+			"name": "Ethical Case Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

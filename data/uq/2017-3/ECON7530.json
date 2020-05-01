@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Models of International Trade",
+			"weight": 10
+		},
+		{
+			"name": "Country trade profile",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

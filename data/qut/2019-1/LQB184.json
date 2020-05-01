@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Biomedical Skills Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 40
+		},
+		{
+			"name": "Communication",
+			"weight": 25
+		}
+	]
+}

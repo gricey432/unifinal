@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation and Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Map Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

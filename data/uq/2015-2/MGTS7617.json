@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reviews and Discussion",
+			"weight": 40
+		},
+		{
+			"name": "Project Proposals",
+			"weight": 15
+		},
+		{
+			"name": "Case study",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Folio or Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Scenario Analysis",
+			"weight": 50
+		}
+	]
+}

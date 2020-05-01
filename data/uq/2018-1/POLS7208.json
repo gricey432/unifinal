@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Write a review of an academic article (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Two Page Plan and Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Major Research Essay (3500 words)",
+			"weight": 50
+		}
+	]
+}

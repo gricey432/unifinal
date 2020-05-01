@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study and Reflection 1",
+			"weight": 40
+		},
+		{
+			"name": "Case Study and Reflection 2",
+			"weight": 40
+		},
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 20
+		}
+	]
+}

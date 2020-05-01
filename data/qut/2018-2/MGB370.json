@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HR Prof Resource Manual",
+			"weight": 50
+		},
+		{
+			"name": "Presentation (Group)",
+			"weight": 30
+		},
+		{
+			"name": "Self Branding Video",
+			"weight": 20
+		}
+	]
+}

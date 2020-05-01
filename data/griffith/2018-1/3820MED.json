@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Case Based Learning Report Management Plan",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Cased Based Exam",
+			"weight": 40
+		},
+		{
+			"name": "Practical Assessment Exam",
+			"weight": 0
+		}
+	]
+}

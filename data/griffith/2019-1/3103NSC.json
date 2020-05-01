@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Sheet 1",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory",
+			"weight": 10
+		},
+		{
+			"name": "Mid Trimester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial Sheet 2",
+			"weight": 5
+		},
+		{
+			"name": "X-Ray Problem Sheet",
+			"weight": 5
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 50
+		}
+	]
+}

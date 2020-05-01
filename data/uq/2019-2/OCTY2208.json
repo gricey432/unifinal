@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Part 1 - Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Part 2 - Oral Examination",
+			"weight": 25
+		},
+		{
+			"name": "Infant Simulation & Standardised Patient Fieldwork",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

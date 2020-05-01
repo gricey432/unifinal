@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Decision context of environmental case study",
+			"weight": 5
+		},
+		{
+			"name": "Video quiz",
+			"weight": 10
+		},
+		{
+			"name": "Structuring an environmental issue",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

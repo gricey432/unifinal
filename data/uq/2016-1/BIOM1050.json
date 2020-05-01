@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Toad Anatomy",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potentials",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 5
+		},
+		{
+			"name": "Practical Core Competencies (4)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz 1 (Module 1)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2 - Mastering Biology - (Modules 2 and 3)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3 - Mastering Biology - (Module 4))",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

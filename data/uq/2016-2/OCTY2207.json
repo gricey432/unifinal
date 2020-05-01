@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Inclusion of wheelchair users",
+			"weight": 50
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

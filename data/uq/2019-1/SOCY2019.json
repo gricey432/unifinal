@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review",
+			"weight": 25
+		},
+		{
+			"name": "Research Agenda",
+			"weight": 30
+		},
+		{
+			"name": "Call for Research Tender",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 15
+		}
+	]
+}

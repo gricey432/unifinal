@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mandatory Requirements for Professional Practice",
+			"weight": "NGP"
+		},
+		{
+			"name": "Safe Handling Workshop",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment for Clinical Placement",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment for Clinical Placement",
+			"weight": "NGP"
+		}
+	]
+}

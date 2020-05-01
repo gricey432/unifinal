@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mobile, Tablet or Online Application Composition",
+			"weight": 30
+		},
+		{
+			"name": "Radio and Voice Over Project",
+			"weight": 40
+		},
+		{
+			"name": "Studio Design Essay ",
+			"weight": 20
+		},
+		{
+			"name": "Score Typesetting Exercise",
+			"weight": 10
+		}
+	]
+}

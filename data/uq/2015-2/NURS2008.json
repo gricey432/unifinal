@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Performance Portfolio (CPPP)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance Portfolio (CPPP)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA Simulation",
+			"weight": "NGP"
+		}
+	]
+}

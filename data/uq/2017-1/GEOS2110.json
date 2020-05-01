@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "OHS Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Field Notebook",
+			"weight": 20
+		},
+		{
+			"name": "Group video presentation",
+			"weight": 35
+		},
+		{
+			"name": "Written reflective assignment",
+			"weight": 35
+		}
+	]
+}

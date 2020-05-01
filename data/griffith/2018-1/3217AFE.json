@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Engagement at Weekly Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Technical work for the Student Inv. Fund (SIF)",
+			"weight": 10
+		},
+		{
+			"name": "Individual Assignment - 'Progress Report'",
+			"weight": 20
+		},
+		{
+			"name": "Valuation Excel Spreadsheet",
+			"weight": 20
+		},
+		{
+			"name": "Individual Assignment - 'Final Report'",
+			"weight": 40
+		}
+	]
+}

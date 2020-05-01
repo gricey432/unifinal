@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Experiments & Report",
+			"weight": 25
+		},
+		{
+			"name": "In-class online discussion",
+			"weight": 5
+		},
+		{
+			"name": "OCL Quizzes ",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

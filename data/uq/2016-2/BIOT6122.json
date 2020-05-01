@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Proposal and Literature Review",
+			"weight": "#2 Equivalent"
+		},
+		{
+			"name": "Proposal Seminar",
+			"weight": "#0.5 Equivalent"
+		},
+		{
+			"name": "Supervisor's Evaluation of Lab Performance",
+			"weight": "#3.3 Equivalent"
+		},
+		{
+			"name": "Written Report / Lab Performance",
+			"weight": "#6.7 Equivalent"
+		},
+		{
+			"name": "Final Research Seminar",
+			"weight": "#1.5 Equivalent"
+		}
+	]
+}

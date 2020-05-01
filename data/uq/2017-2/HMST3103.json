@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Theme: Sport as a Global Business",
+			"weight": 5
+		},
+		{
+			"name": "Theme: Servicescape",
+			"weight": 5
+		},
+		{
+			"name": "Theme: Sport Management",
+			"weight": 5
+		},
+		{
+			"name": "Theme: Sponsorship and Marketing",
+			"weight": 5
+		},
+		{
+			"name": "Major essay",
+			"weight": 30
+		},
+		{
+			"name": "Fieldwork / Diary",
+			"weight": 50
+		}
+	]
+}

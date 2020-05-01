@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Online Viva - Environment Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Case-Based Assignment",
+			"weight": 55
+		}
+	]
+}

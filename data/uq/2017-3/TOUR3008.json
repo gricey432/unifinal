@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2 minute pitch of service experience",
+			"weight": 20
+		},
+		{
+			"name": "In Class Exam 90 min *HURDLE",
+			"weight": 40
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": 40
+		}
+	]
+}

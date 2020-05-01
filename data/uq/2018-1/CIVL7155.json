@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments related to numerical modelling lecture",
+			"weight": 35
+		},
+		{
+			"name": "Report on hydraulics laboratory experiment ",
+			"weight": 15
+		},
+		{
+			"name": "Presentation of laboratory results and discussion ",
+			"weight": 5
+		},
+		{
+			"name": "Report on wind tunnel experiment",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

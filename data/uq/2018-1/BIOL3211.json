@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester open book exam",
+			"weight": 40
+		},
+		{
+			"name": "Production of species web page",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 20
+		}
+	]
+}

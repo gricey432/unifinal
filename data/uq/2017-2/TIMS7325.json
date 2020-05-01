@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Commercialisation Strategy presentation",
+			"weight": 40
+		},
+		{
+			"name": "Project Report - Commercialisation Strategy",
+			"weight": 50
+		}
+	]
+}

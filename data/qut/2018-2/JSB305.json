@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional plan",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio",
+			"weight": 60
+		},
+		{
+			"name": "Peer debrief",
+			"weight": 30
+		}
+	]
+}

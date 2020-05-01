@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Semester 1  Online Quiz-1 ",
+			"weight": 10
+		},
+		{
+			"name": "Radiography Reports Sem 1",
+			"weight": 10
+		},
+		{
+			"name": "Semester 1  Online Quiz-2  ",
+			"weight": 10
+		},
+		{
+			"name": "Semester 2 Online Quiz (In class) ",
+			"weight": 10
+		},
+		{
+			"name": "Semester 2 Online Quiz (In class)",
+			"weight": 10
+		},
+		{
+			"name": "Radiography Reports Sem 2",
+			"weight": 10
+		},
+		{
+			"name": "November examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Computing tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Online Lab OH&S training",
+			"weight": "Compulsory - hurdle"
+		},
+		{
+			"name": "Practical 1: Temperature measurement",
+			"weight": 10
+		},
+		{
+			"name": "Mentoring session for practical groups",
+			"weight": "Compulsory - hurdle"
+		},
+		{
+			"name": "Practical 2: Dissolved oxygen",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Capstone experimental plan",
+			"weight": 5
+		},
+		{
+			"name": "Practical 3: Fermentation",
+			"weight": 10
+		},
+		{
+			"name": "Computing exam",
+			"weight": 10
+		},
+		{
+			"name": "Peer assessment for practical group reports",
+			"weight": "Compulsory - hurdle"
+		},
+		{
+			"name": "Capstone final report",
+			"weight": 10
+		},
+		{
+			"name": "Peer assessment for capstone reports",
+			"weight": "Compulsory - hurdle"
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

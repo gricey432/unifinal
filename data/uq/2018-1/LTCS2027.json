@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In class Quiz 1  - Borges",
+			"weight": 5
+		},
+		{
+			"name": "Article review and reflection",
+			"weight": 20
+		},
+		{
+			"name": "In class Quiz 2 - Garcia Marquez",
+			"weight": 5
+		},
+		{
+			"name": "Essay 1",
+			"weight": 30
+		},
+		{
+			"name": "In class Quiz 3 - Fuentes",
+			"weight": 5
+		},
+		{
+			"name": "In class Quiz 4 - Vargas Llosa",
+			"weight": 5
+		},
+		{
+			"name": "Essay 2",
+			"weight": 30
+		}
+	]
+}

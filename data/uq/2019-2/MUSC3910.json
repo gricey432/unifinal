@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Laboratory Intensive",
+			"weight": 15
+		},
+		{
+			"name": "Project Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Immersive Installation or Environment",
+			"weight": 35
+		},
+		{
+			"name": "Reflection and Documentation",
+			"weight": 25
+		}
+	]
+}

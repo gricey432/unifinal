@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay #1 (Hatcher)",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial Participation & Attendance",
+			"weight": 25
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay",
+			"weight": 40
+		}
+	]
+}

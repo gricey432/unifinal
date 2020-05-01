@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation &amp; Role Play 1",
+			"weight": 40
+		},
+		{
+			"name": "Critical Response",
+			"weight": 20
+		},
+		{
+			"name": "Marketing Strategy",
+			"weight": 40
+		}
+	]
+}

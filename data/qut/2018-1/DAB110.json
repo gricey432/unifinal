@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exhibition",
+			"weight": 40
+		},
+		{
+			"name": "Architectural Design",
+			"weight": 60
+		}
+	]
+}

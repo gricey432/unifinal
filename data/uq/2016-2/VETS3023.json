@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "QC / SOP Essay",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Progressive online quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Practical Skills Log",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		}
+	]
+}

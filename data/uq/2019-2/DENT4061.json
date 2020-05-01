@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Extra-Oral Licensing Exam",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Case Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Clinic Practical Performance",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Written",
+			"weight": 50
+		}
+	]
+}

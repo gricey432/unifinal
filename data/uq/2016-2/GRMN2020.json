@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Exercises: Ongoing Summary",
+			"weight": 3
+		},
+		{
+			"name": "Listening Test",
+			"weight": 18
+		},
+		{
+			"name": "Translation Test",
+			"weight": 24
+		},
+		{
+			"name": "Prose-Writing Test",
+			"weight": 30
+		},
+		{
+			"name": "Speaking Test",
+			"weight": 25
+		}
+	]
+}

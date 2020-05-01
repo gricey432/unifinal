@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching theory & practice on a Staffing Topic",
+			"weight": 70
+		},
+		{
+			"name": "Applying Talent Analytics",
+			"weight": 30
+		}
+	]
+}

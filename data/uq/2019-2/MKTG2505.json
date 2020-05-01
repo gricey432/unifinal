@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Concept testing Part A: Product/service concept",
+			"weight": 10
+		},
+		{
+			"name": "Midsemester exam - Multiple Choice",
+			"weight": 20
+		},
+		{
+			"name": "Concept testing Part B: Product/service concept",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

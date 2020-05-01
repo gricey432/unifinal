@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Key concepts of mining and SD",
+			"weight": 5
+		},
+		{
+			"name": "Online participation",
+			"weight": 25
+		},
+		{
+			"name": "Business case study",
+			"weight": 30
+		},
+		{
+			"name": "Internal briefing paper  SD Performance Standards",
+			"weight": 40
+		}
+	]
+}

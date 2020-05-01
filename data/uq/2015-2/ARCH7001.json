@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TASK 01 - ANALYSIS & INVESTIGATIONS (Group Work)",
+			"weight": 20
+		},
+		{
+			"name": "TASK 02 - PRELIMINARY DESIGN",
+			"weight": 20
+		},
+		{
+			"name": "TASK 03 - FINAL DESIGN",
+			"weight": 60
+		}
+	]
+}

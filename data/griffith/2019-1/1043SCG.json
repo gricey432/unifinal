@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line tests",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 35
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

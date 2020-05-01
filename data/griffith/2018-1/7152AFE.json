@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Weekly Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Forensic Software Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam*",
+			"weight": 60
+		}
+	]
+}

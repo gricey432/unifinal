@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Systemic Risk Scores for Banks",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (2 Hour)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A mix of activities",
+			"weight": 11
+		},
+		{
+			"name": "Analysis of a theoretical planning model",
+			"weight": 40
+		},
+		{
+			"name": "Final quiz",
+			"weight": 49
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research Proposal for Client",
+			"weight": 20
+		},
+		{
+			"name": "Market Research Report for Client",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

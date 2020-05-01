@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Research proposal",
+			"weight": "Included in work-based assessment"
+		},
+		{
+			"name": "Experimental protocol",
+			"weight": "Included in work-based assessment"
+		},
+		{
+			"name": "Experimental design and statistical analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final oral seminar presentation",
+			"weight": 10
+		},
+		{
+			"name": "Supervisor's report and laboratory performance",
+			"weight": 20
+		},
+		{
+			"name": "Final thesis submission",
+			"weight": 55
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 5
+		}
+	]
+}

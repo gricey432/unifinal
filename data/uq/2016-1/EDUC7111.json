@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "Critical Review of 2 selected articles",
+			"weight": 40
+		},
+		{
+			"name": "Analysis of Key Educational Issue(s)",
+			"weight": 50
+		}
+	]
+}

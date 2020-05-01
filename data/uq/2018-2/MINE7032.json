@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Learning Journal",
+			"weight": 15
+		},
+		{
+			"name": "Hazard Analysis Report",
+			"weight": 25
+		},
+		{
+			"name": "Incident Analysis Report",
+			"weight": 35
+		},
+		{
+			"name": "Fundamentals of Risk Management",
+			"weight": 25
+		}
+	]
+}

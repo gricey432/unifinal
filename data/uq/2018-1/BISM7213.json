@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Team-based Research and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Security Topic Analysis",
+			"weight": 30
+		},
+		{
+			"name": "BISM7213 Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class quiz",
+			"weight": 30
+		},
+		{
+			"name": "Practicing innovative design thinking",
+			"weight": 30
+		},
+		{
+			"name": "Video Presentation of innovation",
+			"weight": 40
+		}
+	]
+}

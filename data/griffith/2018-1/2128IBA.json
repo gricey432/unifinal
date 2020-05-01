@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Week 5 Progress Test",
+			"weight": 15
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 50
+		}
+	]
+}

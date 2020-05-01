@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-tour quiz",
+			"weight": 0
+		},
+		{
+			"name": "Participation/contribution while on tour",
+			"weight": 10
+		},
+		{
+			"name": "Group Case Study Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip Exam",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 10
+		},
+		{
+			"name": "Management issue case study",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practicum log",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Supervision Reports",
+			"weight": "pass/fail"
+		}
+	]
+}

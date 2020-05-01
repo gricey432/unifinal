@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture reflection",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Reflection on group work and communication",
+			"weight": 5
+		},
+		{
+			"name": "Midsemester exam ",
+			"weight": 0
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

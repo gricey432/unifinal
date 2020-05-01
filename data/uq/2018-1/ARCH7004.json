@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Developers' Game (Preliminary Design)",
+			"weight": 30
+		},
+		{
+			"name": "Making and Place (Sketch Development)",
+			"weight": 30
+		},
+		{
+			"name": "In-Between (Design Development)",
+			"weight": 40
+		}
+	]
+}

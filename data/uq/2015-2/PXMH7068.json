@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Art Therapy Major Oral presentation of findings",
+			"weight": 40
+		},
+		{
+			"name": "Art Therapy Major - Written report ",
+			"weight": 60
+		},
+		{
+			"name": "Art Exhibition ",
+			"weight": "Hurdle "
+		},
+		{
+			"name": "Oral Presentation of Findings",
+			"weight": 40
+		},
+		{
+			"name": "Written project report",
+			"weight": 60
+		}
+	]
+}

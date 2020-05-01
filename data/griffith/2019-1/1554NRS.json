@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Summary Table of Supporting Literature",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of Communication Strategy",
+			"weight": 30
+		},
+		{
+			"name": "Descriptive Analysis",
+			"weight": 50
+		}
+	]
+}

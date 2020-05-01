@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Competency in all exercises in Modules 3 and 4",
+			"weight": 33
+		},
+		{
+			"name": "Competency in all exercises in Modules 5 and 6",
+			"weight": 33
+		},
+		{
+			"name": "Competency in Quiz",
+			"weight": 34
+		}
+	]
+}

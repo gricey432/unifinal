@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Design Proposition ",
+			"weight": "Forms part of Mapping and Design Proposition Statement (Contributes to 1B)"
+		},
+		{
+			"name": "Group Mapping&Revised DesignProposition(materials)",
+			"weight": 40
+		},
+		{
+			"name": "Group Mapping & Design Proposition (presentation)",
+			"weight": "Forms part of Mapping and Design Proposition Assessment (Contributes to 1B)"
+		},
+		{
+			"name": "Interim Design",
+			"weight": "Forms part of Final Design Assessment (Contributes to 2B)"
+		},
+		{
+			"name": "Final Design (materials)",
+			"weight": 60
+		},
+		{
+			"name": "Final Design Presentation",
+			"weight": "Forms part of Final Design Assessment (Contributes to 2B)"
+		}
+	]
+}

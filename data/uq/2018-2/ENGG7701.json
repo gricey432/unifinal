@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch presentation (group assignment)",
+			"weight": 10
+		},
+		{
+			"name": "Group assignment",
+			"weight": 55
+		},
+		{
+			"name": "Critical review/assessment (individual assignment)",
+			"weight": 5
+		},
+		{
+			"name": "Final presentation ",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Submission of ROI - Registration of Interest ",
+			"weight": 5
+		},
+		{
+			"name": "Submission of EOI - Expression of Interest",
+			"weight": 15
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Proposal Submission",
+			"weight": 40
+		}
+	]
+}

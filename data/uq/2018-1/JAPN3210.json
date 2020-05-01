@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written test 1 ",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation 1",
+			"weight": 20
+		},
+		{
+			"name": "Written test 2",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation 2",
+			"weight": 25
+		}
+	]
+}

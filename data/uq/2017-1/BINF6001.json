@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Authoring and reviewing multiple-choice questions.",
+			"weight": 10
+		},
+		{
+			"name": "Multiple-choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation of bioinformatics project ",
+			"weight": 15
+		},
+		{
+			"name": "Written report on bioinformatics project. ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

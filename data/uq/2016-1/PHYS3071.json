@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - C",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 2 - more C",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 3 - Numerical integration",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 4 - ODEs - 1st order ODEs, Euler method",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 5 - ODEs(II) - Higher order integrators",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 6 - ODEs (III) - Stochastic ODEs",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 7 - Stochastic ODEs (III)",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 8 - Boundary value problems",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 9 - Partial differential equations ",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 10 - More on PDEs",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 11 - PDEs (III) - Stochastic PDEs",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

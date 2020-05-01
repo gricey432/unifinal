@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Mid-trimester Laboratory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Formative Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Final Laboratory Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Written Exam",
+			"weight": 50
+		}
+	]
+}

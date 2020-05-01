@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Seminar Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Minor Essay",
+			"weight": 25
+		},
+		{
+			"name": "Reflections on five tutorial presentations",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		}
+	]
+}

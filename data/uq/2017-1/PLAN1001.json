@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "On-Line Quizzes ",
+			"weight": 15
+		},
+		{
+			"name": "Workshop Discussion",
+			"weight": 15
+		},
+		{
+			"name": "PLAN1001 Workbook",
+			"weight": 30
+		},
+		{
+			"name": "exam",
+			"weight": 40
+		}
+	]
+}

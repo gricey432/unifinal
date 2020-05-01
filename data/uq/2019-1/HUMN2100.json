@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "Second Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "Long Essay",
+			"weight": 40
+		}
+	]
+}

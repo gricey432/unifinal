@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Online Quizzes - 2 Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Seminar Debate Presentation and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

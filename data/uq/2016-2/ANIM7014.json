@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence for Gene-Diet Interactions",
+			"weight": 20
+		},
+		{
+			"name": "Introduction to Bioinformatics",
+			"weight": 15
+		},
+		{
+			"name": "Powerpoint Presentation of Nutrigenomic Topic",
+			"weight": 10
+		},
+		{
+			"name": "Introduction to Genomic and Metagenomic Analyses",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

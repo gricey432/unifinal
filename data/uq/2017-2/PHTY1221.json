@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Examination - Cardiovascular System ",
+			"weight": 15
+		},
+		{
+			"name": "Exercise program design assignment",
+			"weight": 25
+		},
+		{
+			"name": "Identifying exercise equipment",
+			"weight": 0
+		},
+		{
+			"name": "End-of-semester written examination",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester practical examination ",
+			"weight": 30
+		}
+	]
+}

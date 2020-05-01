@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Poster",
+			"weight": 25
+		},
+		{
+			"name": "Essay 1 - Social Structure",
+			"weight": 35
+		},
+		{
+			"name": "Essay 2 - Power, Structure and Agency",
+			"weight": 40
+		}
+	]
+}

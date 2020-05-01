@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Fixed prosthodontics preclinical competency 1 FGC",
+			"weight": 10
+		},
+		{
+			"name": "Fixed prosthodontics preclinical competency 2 PFM ",
+			"weight": 10
+		},
+		{
+			"name": "Exodontia competency - molar extraction",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Preclinical competency - Premolar Endodontics",
+			"weight": 10
+		},
+		{
+			"name": "Paedatric dentistry preclinical competency",
+			"weight": 10
+		},
+		{
+			"name": "End of semester Theory Examination",
+			"weight": 50
+		}
+	]
+}

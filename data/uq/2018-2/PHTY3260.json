@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical and Short Answer Written Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "Computer based online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester practical examination",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

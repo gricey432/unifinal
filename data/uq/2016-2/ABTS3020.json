@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on Cultural Safety at UQ",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation on Corporate responsibilities",
+			"weight": 20
+		},
+		{
+			"name": "Ethics application and reflection",
+			"weight": 30
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 30
+		}
+	]
+}

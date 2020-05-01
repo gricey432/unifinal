@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Aesthetic Presentations",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 40
+		}
+	]
+}

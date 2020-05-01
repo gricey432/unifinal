@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Composition participation (Create)",
+			"weight": 50
+		},
+		{
+			"name": "Lecture reflections",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Analysis five music excerpts (& presentations)",
+			"weight": 50
+		}
+	]
+}

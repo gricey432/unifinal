@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective journal/report",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Group projects",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Client interviews",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Attendance at all clinical and induction sessions",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Research project",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Legal letter writing",
+			"weight": "Mandatory"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "School placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Observation summaries",
+			"weight": "Pass/Fail (2000 words)"
+		},
+		{
+			"name": "Building a portfolio",
+			"weight": "Pass/Fail (1500 words)"
+		}
+	]
+}

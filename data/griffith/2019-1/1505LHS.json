@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZ",
+			"weight": 20
+		},
+		{
+			"name": "Media Release coverage report",
+			"weight": 40
+		},
+		{
+			"name": "Building content and plans",
+			"weight": 40
+		}
+	]
+}

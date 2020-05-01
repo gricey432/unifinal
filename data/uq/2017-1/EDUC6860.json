@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching a Concept",
+			"weight": 33
+		},
+		{
+			"name": "Inquiry Unit of Work",
+			"weight": 34
+		},
+		{
+			"name": "Assessment Task",
+			"weight": 33
+		}
+	]
+}

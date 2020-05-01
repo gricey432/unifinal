@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Early Readiness Exercise",
+			"weight": 0
+		},
+		{
+			"name": "Weekly Reflective Journals in Workshops",
+			"weight": 15
+		},
+		{
+			"name": "Group Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Early Engagement Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Course Progress Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

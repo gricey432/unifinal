@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1 - Bioregional Mapping ",
+			"weight": 20
+		},
+		{
+			"name": "2 - Base Camp Preliminary Design",
+			"weight": 30
+		},
+		{
+			"name": "3A - Semi formal non-compulsory interim crit",
+			"weight": 0
+		},
+		{
+			"name": "W01-W12",
+			"weight": 0
+		},
+		{
+			"name": "3B - Base Camp Final Design ",
+			"weight": 50
+		}
+	]
+}

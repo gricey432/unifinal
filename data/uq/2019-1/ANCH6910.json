@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Papers",
+			"weight": 20
+		},
+		{
+			"name": "Final Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Seminar Contribution",
+			"weight": 15
+		},
+		{
+			"name": "Seminar Leadership",
+			"weight": 15
+		}
+	]
+}

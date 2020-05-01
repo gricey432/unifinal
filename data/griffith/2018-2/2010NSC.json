@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Water Recycling Field Trip Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Scientific Communication - Seminar",
+			"weight": 20
+		},
+		{
+			"name": "Scientific Communication",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 1, 40mins",
+			"weight": 10
+		},
+		{
+			"name": "Examination, 120 min",
+			"weight": 50
+		}
+	]
+}

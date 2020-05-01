@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflection Journal ",
+			"weight": 20
+		},
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "Peer Assessment of Group Media Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Media Watch Group Presentation",
+			"weight": 30
+		}
+	]
+}

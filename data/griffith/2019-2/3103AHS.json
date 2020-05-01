@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Part 1: Critical appraisal of evidence (Indiv)",
+			"weight": 10
+		},
+		{
+			"name": "Part 2: Needs Assessment (Group)",
+			"weight": 15
+		},
+		{
+			"name": "Part 3: Reflection of Mentor consultations (Indiv)",
+			"weight": 5
+		},
+		{
+			"name": "Part 4a: Intervention Plan (Group)",
+			"weight": 20
+		},
+		{
+			"name": "Part 4b: Presentation of Intervention plan",
+			"weight": 10
+		},
+		{
+			"name": "End of trimester exam",
+			"weight": 40
+		}
+	]
+}

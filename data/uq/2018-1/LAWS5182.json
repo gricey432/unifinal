@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Legal-Psychological Memo",
+			"weight": 30
+		},
+		{
+			"name": "Research article or study proposal",
+			"weight": 55
+		}
+	]
+}

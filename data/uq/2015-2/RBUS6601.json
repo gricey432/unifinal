@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Review and critique",
+			"weight": 40
+		},
+		{
+			"name": "Final literature review",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Concrete Laboratory Participation & Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practice Problems",
+			"weight": 0
+		},
+		{
+			"name": "Assumed Knowledge Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Virtual Site Tour",
+			"weight": 3
+		},
+		{
+			"name": "Concrete Technology Quizzes",
+			"weight": 3
+		},
+		{
+			"name": "Reinforced Concrete Design Assignment",
+			"weight": 7
+		},
+		{
+			"name": "Concrete Technology",
+			"weight": 27
+		},
+		{
+			"name": "Reinforced Concrete Design",
+			"weight": 60
+		}
+	]
+}

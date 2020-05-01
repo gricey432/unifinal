@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Family of origin mapping",
+			"weight": 25
+		},
+		{
+			"name": "Developmental observation",
+			"weight": 25
+		},
+		{
+			"name": "Case Report - cultural modification",
+			"weight": 25
+		},
+		{
+			"name": "Case Report - intervention with art activity",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Assessment plan",
+			"weight": 10
+		},
+		{
+			"name": "Task 2: Assessment sub-test administration",
+			"weight": 15
+		},
+		{
+			"name": "Task 3: Management plan",
+			"weight": 10
+		},
+		{
+			"name": "Task 4: Therapy task administration",
+			"weight": 15
+		},
+		{
+			"name": "MODULE 2: Paediatric Motor Speech Examination",
+			"weight": 50
+		}
+	]
+}

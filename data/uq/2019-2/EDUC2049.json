@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "10 Field Experience School Visits",
+			"weight": "Hurdle requirement - Pass/Fail"
+		},
+		{
+			"name": "Conceptualising the term 'youth'",
+			"weight": 40
+		},
+		{
+			"name": "Field experience case study analysis",
+			"weight": 60
+		},
+		{
+			"name": "Policies & procedures for professional experience",
+			"weight": "Pass/Fail"
+		}
+	]
+}

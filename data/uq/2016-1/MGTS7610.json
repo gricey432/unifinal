@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "The 4-minute Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Final Examination",
+			"weight": 40
+		}
+	]
+}

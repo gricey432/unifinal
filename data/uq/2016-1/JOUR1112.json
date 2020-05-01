@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Twitter-based introduction writing",
+			"weight": 20
+		},
+		{
+			"name": "Story idea and pitch",
+			"weight": 20
+		},
+		{
+			"name": "News story 1",
+			"weight": 25
+		},
+		{
+			"name": "News story 2: story and images",
+			"weight": 35
+		}
+	]
+}

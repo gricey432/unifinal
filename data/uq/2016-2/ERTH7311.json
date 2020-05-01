@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Identify mineralization styles and pathfinders",
+			"weight": 10
+		},
+		{
+			"name": "SAMARCO tailling's dam burst",
+			"weight": 10
+		},
+		{
+			"name": "Case Study 3 - Assess and discuss geochemical data",
+			"weight": 10
+		},
+		{
+			"name": "Report of the Geochemical Survey",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

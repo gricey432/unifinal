@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Road Design based on Traffic Impact Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Self and Peer Assessment ",
+			"weight": 5
+		},
+		{
+			"name": "Drainage design report (Individual)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

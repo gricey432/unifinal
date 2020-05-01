@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation Assessments",
+			"weight": "Formative"
+		},
+		{
+			"name": "Clinical Practice Performance ePortfolio 1",
+			"weight": "Formative"
+		},
+		{
+			"name": "Clinical Placement Evaluation",
+			"weight": "Formative"
+		},
+		{
+			"name": "Clinical Practice Performance ePortfolio  2",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Skills Assessment ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Evaluation",
+			"weight": "NGP"
+		}
+	]
+}

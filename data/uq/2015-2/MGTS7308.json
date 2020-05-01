@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Case Study Results",
+			"weight": 30
+		},
+		{
+			"name": "Analysis of best practices social impact solutions",
+			"weight": 40
+		},
+		{
+			"name": "Individual reflection",
+			"weight": 20
+		},
+		{
+			"name": "Peer evaluation of team work",
+			"weight": 10
+		}
+	]
+}

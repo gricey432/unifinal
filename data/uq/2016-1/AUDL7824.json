@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Professional & Ethical Issues",
+			"weight": 10
+		},
+		{
+			"name": "Case Conference",
+			"weight": 20
+		},
+		{
+			"name": "Student iQIPP",
+			"weight": 0
+		},
+		{
+			"name": "Peer critique of case studies",
+			"weight": 0
+		},
+		{
+			"name": "Final viva examination",
+			"weight": 70
+		},
+		{
+			"name": "Clinical placement records",
+			"weight": 0
+		}
+	]
+}

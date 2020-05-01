@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Selecting resources for effective learning",
+			"weight": 30
+		},
+		{
+			"name": "Planning for Diversity in the Senior English Class",
+			"weight": 40
+		},
+		{
+			"name": "Developing a professional identity",
+			"weight": 30
+		}
+	]
+}

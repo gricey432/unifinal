@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Shopping Centre review",
+			"weight": 25
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

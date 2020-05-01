@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online and in-class discussion",
+			"weight": 10
+		},
+		{
+			"name": "Translations",
+			"weight": 20
+		},
+		{
+			"name": "Team Translation",
+			"weight": 10
+		},
+		{
+			"name": "Final Translation Project",
+			"weight": 20
+		},
+		{
+			"name": "Reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Written Examination",
+			"weight": 30
+		}
+	]
+}

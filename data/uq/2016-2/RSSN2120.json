@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial attendance",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester test",
+			"weight": 10
+		},
+		{
+			"name": "Central Examination",
+			"weight": 40
+		},
+		{
+			"name": "Oral interview",
+			"weight": 20
+		}
+	]
+}

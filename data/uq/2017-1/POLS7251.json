@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Encyclopedia Entry 1",
+			"weight": 15
+		},
+		{
+			"name": "Encyclopedia Entry 2",
+			"weight": 15
+		},
+		{
+			"name": "Long Essay",
+			"weight": 60
+		}
+	]
+}

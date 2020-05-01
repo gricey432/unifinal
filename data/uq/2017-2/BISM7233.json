@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Notification of group details and project title",
+			"weight": 0
+		},
+		{
+			"name": "Project Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Team Project: BI Case Study and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

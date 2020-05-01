@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Developing Country Profile",
+			"weight": 15
+		},
+		{
+			"name": "Issues in Agricultural Development",
+			"weight": 35
+		},
+		{
+			"name": "Presentation on Agricultural Development Issue",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

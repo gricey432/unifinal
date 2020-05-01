@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Full Resource Estimation Report (JORC Report)",
+			"weight": 60
+		},
+		{
+			"name": "Data validation and QAQC",
+			"weight": 10
+		},
+		{
+			"name": "Variography, Resource Estimate & Model Validation",
+			"weight": 30
+		}
+	]
+}

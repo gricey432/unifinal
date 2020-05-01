@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active attendance at tutorials",
+			"weight": 16
+		},
+		{
+			"name": "Part 1 Online Test",
+			"weight": 14
+		},
+		{
+			"name": "Methodological comparison and critique",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

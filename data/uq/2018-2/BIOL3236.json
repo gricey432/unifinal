@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Climate Change Report I - Web site",
+			"weight": 15
+		},
+		{
+			"name": "Report II - Modelling species' distributions",
+			"weight": 20
+		},
+		{
+			"name": "Climate Change Report III - Media Survey",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching and Learning Strategies",
+			"weight": 30
+		},
+		{
+			"name": "Unit planning task",
+			"weight": 40
+		},
+		{
+			"name": "Australian Curriculum (Digital Technologies)",
+			"weight": 30
+		}
+	]
+}

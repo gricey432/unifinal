@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer Research Project (Group)",
+			"weight": 40
+		},
+		{
+			"name": "MCR Online Test",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

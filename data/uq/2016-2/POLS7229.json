@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation and Preparation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Marker 1 (500 words)",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Marker 2 (750 words)",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (3,000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Reflective Marker 3 (1,000 words)",
+			"weight": 20
+		}
+	]
+}

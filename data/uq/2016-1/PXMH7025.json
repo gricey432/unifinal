@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Supervision Reports",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Practicum Logs",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Reflective Practice Journal",
+			"weight": "pass/fail"
+		}
+	]
+}

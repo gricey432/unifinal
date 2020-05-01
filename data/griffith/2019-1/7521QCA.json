@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project 1",
+			"weight": 50
+		},
+		{
+			"name": "Project 2: Report OR Poster",
+			"weight": 50
+		}
+	]
+}

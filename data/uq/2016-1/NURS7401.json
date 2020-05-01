@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Symptom Assessment and Management in CDM / PC",
+			"weight": 40
+		},
+		{
+			"name": "The Multidisciplinary Approach in CDM/PC ",
+			"weight": 60
+		}
+	]
+}

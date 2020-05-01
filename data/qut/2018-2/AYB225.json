@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

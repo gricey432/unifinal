@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online discussion",
+			"weight": 10
+		},
+		{
+			"name": "Current topic in nutrition",
+			"weight": 20
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Critical review: Nutrition issue in the lifespan ",
+			"weight": 50
+		}
+	]
+}

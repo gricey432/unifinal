@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Large group discussion participation",
+			"weight": 5
+		},
+		{
+			"name": "Communication workshops preparation & engagement",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "OSCE Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical Article Review 1 (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay - 1000 words",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay - 2500 words",
+			"weight": 40
+		}
+	]
+}

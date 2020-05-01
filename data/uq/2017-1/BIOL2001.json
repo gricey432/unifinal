@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "D'Aguilar National Park Field Report",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "K'gari Field Report",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

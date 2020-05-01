@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Incident Seminar Presentations",
+			"weight": 40
+		},
+		{
+			"name": "Critical Incident Seminar Reflections",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": 50
+		}
+	]
+}

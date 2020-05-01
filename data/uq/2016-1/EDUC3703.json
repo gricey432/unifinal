@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Sequence (Technologies & The Arts)",
+			"weight": 45
+		},
+		{
+			"name": "Active Participation in the course",
+			"weight": 15
+		},
+		{
+			"name": "Arts assessment: Respond, Relate, React",
+			"weight": 40
+		}
+	]
+}

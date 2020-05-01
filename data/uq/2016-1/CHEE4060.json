@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester Exam/quiz",
+			"weight": 10
+		},
+		{
+			"name": "Field trip, lab and computer learning hand-ins",
+			"weight": 10
+		},
+		{
+			"name": "Project deliverable 1: Process analysis/control",
+			"weight": 30
+		},
+		{
+			"name": "PA for Assignment 1 report",
+			"weight": "Applied to report for individual mark"
+		},
+		{
+			"name": "Project deliverable 2: Controller design/tuning",
+			"weight": 10
+		},
+		{
+			"name": "PA for Assignment 2 report",
+			"weight": "Applied to report for individual mark"
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

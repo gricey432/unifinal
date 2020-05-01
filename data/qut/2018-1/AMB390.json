@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Insight Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Cultural Intelligence Report",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 40
+		}
+	]
+}

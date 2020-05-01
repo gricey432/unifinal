@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Documentation",
+			"weight": 40
+		},
+		{
+			"name": "Dance on Film",
+			"weight": 60
+		}
+	]
+}

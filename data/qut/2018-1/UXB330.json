@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Debate",
+			"weight": 10
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 50
+		}
+	]
+}

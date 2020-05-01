@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Behaviour Assessment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Nutrition in Practice Master Class",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Clinical Coaching Summative Assessments x 2",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "DVD Peer recording and Review Session",
+			"weight": "Pass / Fail"
+		}
+	]
+}

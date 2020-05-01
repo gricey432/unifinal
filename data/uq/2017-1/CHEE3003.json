@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Matlab demonstration and exercise",
+			"weight": 4
+		},
+		{
+			"name": "Pre-Quiz",
+			"weight": 4
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 77
+		},
+		{
+			"name": "Weekly pre-class quiz",
+			"weight": 15
+		},
+		{
+			"name": "Formative assessment mark",
+			"weight": 10
+		},
+		{
+			"name": "Online safety induction",
+			"weight": "Pass/Fail - Compulsory"
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 6
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 14
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Series One - Three short essays",
+			"weight": 24
+		},
+		{
+			"name": "Essay Series Two - Three short essays",
+			"weight": 24
+		},
+		{
+			"name": "Final examination - Take Home",
+			"weight": 52
+		}
+	]
+}

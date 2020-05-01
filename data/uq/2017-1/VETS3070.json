@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Reasoning, professionalism and skills portfolio",
+			"weight": 32
+		},
+		{
+			"name": "Semester 1 exam",
+			"weight": 10
+		},
+		{
+			"name": "Clinical examination of species OSCE",
+			"weight": 0
+		},
+		{
+			"name": "Clinical reasoning case group presentation",
+			"weight": 8
+		},
+		{
+			"name": "Surgery and anaesthesia exam",
+			"weight": 15
+		},
+		{
+			"name": "Surgery and anaesthesia OSCE",
+			"weight": 0
+		},
+		{
+			"name": "Diagnostic imaging exam",
+			"weight": 10
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 25
+		}
+	]
+}

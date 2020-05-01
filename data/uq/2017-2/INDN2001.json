@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "End of Semester Oral Interview",
+			"weight": 20
+		},
+		{
+			"name": "Written Exam",
+			"weight": 25
+		},
+		{
+			"name": "Vocabulary and Grammar Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Writing Task",
+			"weight": 15
+		},
+		{
+			"name": "Listening Comprehension Test",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		}
+	]
+}

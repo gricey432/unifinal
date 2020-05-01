@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "6 Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Coetzee",
+			"weight": 15
+		},
+		{
+			"name": "Close-reading ex: Coetzee, Link, McEwan, Armitage",
+			"weight": 15
+		},
+		{
+			"name": "Essay Plan and Peer Review",
+			"weight": "Approx 300 words Pass/Fail"
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

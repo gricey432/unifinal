@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation with supervisor",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation of project outcomes",
+			"weight": 15
+		},
+		{
+			"name": "Examiners copy of Thesis",
+			"weight": 65
+		},
+		{
+			"name": "AusIMM Conference Proceeedings Paper",
+			"weight": 15
+		}
+	]
+}

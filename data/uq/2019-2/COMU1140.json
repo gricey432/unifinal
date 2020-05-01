@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Analysis",
+			"weight": 15
+		},
+		{
+			"name": "In Class Assessment: Midterm Pitch",
+			"weight": 30
+		},
+		{
+			"name": "In Class Assessment: Final Pitch",
+			"weight": 50
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 5
+		}
+	]
+}

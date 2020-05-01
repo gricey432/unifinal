@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Part A Schematic Design ",
+			"weight": 40
+		},
+		{
+			"name": "Part B Developed Design",
+			"weight": 60
+		}
+	]
+}

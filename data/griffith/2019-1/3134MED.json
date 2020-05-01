@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Development of Nutrition Brochure",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

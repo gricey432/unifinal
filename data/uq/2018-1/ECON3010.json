@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test Your Understanding",
+			"weight": "Bonus Marks 10"
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 35
+		},
+		{
+			"name": "Final examination",
+			"weight": 65
+		}
+	]
+}

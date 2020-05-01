@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection A - professional goals",
+			"weight": 10
+		},
+		{
+			"name": "Reflection B - values, culture, and beliefs",
+			"weight": 20
+		},
+		{
+			"name": "Academic Development - tutorial activities",
+			"weight": 30
+		},
+		{
+			"name": "Final Reflective Essay",
+			"weight": 40
+		}
+	]
+}

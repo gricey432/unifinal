@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Special Topic",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Write Up from Res School - Allelopathy",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Write Up  From Res School - Seeds",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

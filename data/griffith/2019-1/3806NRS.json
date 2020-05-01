@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Developing a Professional Practice Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Quality and Safety",
+			"weight": 50
+		}
+	]
+}

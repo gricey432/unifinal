@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clicker questions",
+			"weight": 5
+		},
+		{
+			"name": "Weekly tutorial worksheets & assignments",
+			"weight": 10
+		},
+		{
+			"name": "Prac reports",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester test",
+			"weight": 15
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 55
+		}
+	]
+}

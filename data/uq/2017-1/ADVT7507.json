@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video Content Creation (Individual)",
+			"weight": 15
+		},
+		{
+			"name": "Web Advertising Campaign (Group)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

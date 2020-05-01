@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Letter of Advice re unfair dismissal",
+			"weight": 35
+		},
+		{
+			"name": "Letter of Advice re a draft Enterprise Agreement",
+			"weight": 35
+		},
+		{
+			"name": "Memo of Advice re discrimination and harassment",
+			"weight": 30
+		}
+	]
+}

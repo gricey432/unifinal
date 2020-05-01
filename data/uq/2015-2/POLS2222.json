@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Simulation and 500 word group commentary",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2,500 words)",
+			"weight": 50
+		},
+		{
+			"name": "Final Examination (2 Hours)",
+			"weight": 25
+		}
+	]
+}

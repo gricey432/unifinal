@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1 Concept Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment Item 1 Final Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Item 2 Concept Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Prototyping and Production",
+			"weight": 45
+		}
+	]
+}

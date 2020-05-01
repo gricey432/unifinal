@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Field Report Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Report on Field Data Collection Exercise",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

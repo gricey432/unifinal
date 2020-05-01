@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Fieldwork Results",
+			"weight": 15
+		},
+		{
+			"name": "Semantics Report",
+			"weight": 30
+		},
+		{
+			"name": "Articulation/Phonology Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 25
+		}
+	]
+}

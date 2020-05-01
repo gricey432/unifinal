@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester test",
+			"weight": 50
+		},
+		{
+			"name": "Hazardous Chemicals Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Hazardous Manual Tasks Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Part A",
+			"weight": 4
+		},
+		{
+			"name": "Part B",
+			"weight": 4
+		},
+		{
+			"name": "Part C",
+			"weight": 4
+		},
+		{
+			"name": "Part D",
+			"weight": 4
+		},
+		{
+			"name": "Part E",
+			"weight": 4
+		}
+	]
+}

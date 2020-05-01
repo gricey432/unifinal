@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals in Natural Resource Management",
+			"weight": 10
+		},
+		{
+			"name": "Debates in Environmental Management/Planning",
+			"weight": 40
+		},
+		{
+			"name": "Online Exam",
+			"weight": 50
+		}
+	]
+}

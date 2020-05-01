@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Units and Measurements-online quiz(Lab Report 1) ",
+			"weight": 6
+		},
+		{
+			"name": "Meteorology, climatology (Lab Report No 2)",
+			"weight": 6
+		},
+		{
+			"name": "Mid-Trimester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Rocks and Minerals (Lab Report No 3",
+			"weight": 6
+		},
+		{
+			"name": "Measuring soil properties (Report No. 4)",
+			"weight": 6
+		},
+		{
+			"name": "Soil Erosion (Report No. 5)",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Activity Plan and Short Video",
+			"weight": 50
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 50
+		}
+	]
+}

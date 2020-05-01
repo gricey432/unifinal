@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial group work activities",
+			"weight": 10
+		},
+		{
+			"name": "Essay details to be made available on Blackboard.",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester test on Weeks 1-7",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual case study written analysis ",
+			"weight": 20
+		},
+		{
+			"name": "Group marketing project",
+			"weight": 30
+		},
+		{
+			"name": "Individual business case",
+			"weight": 50
+		}
+	]
+}

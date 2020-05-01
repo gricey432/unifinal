@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester written exam",
+			"weight": 25
+		},
+		{
+			"name": "Workbook activities related to SP sessions",
+			"weight": 5
+		},
+		{
+			"name": "Practical exam",
+			"weight": 35
+		},
+		{
+			"name": "Final written exam",
+			"weight": 35
+		}
+	]
+}

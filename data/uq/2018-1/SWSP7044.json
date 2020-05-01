@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation and Submission of PowerPoint",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Essay",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

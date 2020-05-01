@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal",
+			"weight": 20
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 20
+		},
+		{
+			"name": "Peer assessment of posters",
+			"weight": 5
+		},
+		{
+			"name": "Peer + tutor assessment of effort put into project",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

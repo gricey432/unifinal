@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Surgical principles video assessment ",
+			"weight": 10
+		},
+		{
+			"name": "Surgery and anaesthesia practical classes",
+			"weight": 0
+		},
+		{
+			"name": "VETS4012 Principles of Clinical Practice",
+			"weight": 70
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": 0
+		}
+	]
+}

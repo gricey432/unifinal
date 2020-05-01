@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In tutorial group presentations & panel discussion",
+			"weight": 25
+		},
+		{
+			"name": "Translating theory to ethical HRD practices",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial Learning Diary",
+			"weight": 25
+		}
+	]
+}

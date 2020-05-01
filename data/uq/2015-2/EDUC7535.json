@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Acceptance of policies and procedures",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Supervised Teaching Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical reflection and evaluation of practice",
+			"weight": "1-7"
+		}
+	]
+}

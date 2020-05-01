@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review of Literature",
+			"weight": 30
+		},
+		{
+			"name": "Academic Development",
+			"weight": 30
+		},
+		{
+			"name": "Writtern Assignment",
+			"weight": 40
+		}
+	]
+}

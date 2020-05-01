@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Walk, run, jump & weight animation",
+			"weight": 50
+		},
+		{
+			"name": "Cut-Out Animation",
+			"weight": 50
+		}
+	]
+}

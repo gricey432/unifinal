@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HOTS quiz",
+			"weight": 30
+		},
+		{
+			"name": "HOTS Balanced Scorecard",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

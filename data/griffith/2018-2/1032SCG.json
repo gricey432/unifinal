@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class and computer-based assignments",
+			"weight": 35
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 15
+		},
+		{
+			"name": "Mineralogical characterisation of ore",
+			"weight": 15
+		},
+		{
+			"name": "Comminution Practical Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Integrated project",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

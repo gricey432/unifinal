@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Case Study 20min Presentation & 15min Q&A",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essay (1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Project (2500 words)",
+			"weight": 60
+		}
+	]
+}

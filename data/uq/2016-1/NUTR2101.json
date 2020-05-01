@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice assessments",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

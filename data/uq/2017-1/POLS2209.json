@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Reading Review (1000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 30
+		}
+	]
+}

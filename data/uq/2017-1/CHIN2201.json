@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation ",
+			"weight": 10
+		},
+		{
+			"name": "Two HSK tests ",
+			"weight": 5
+		},
+		{
+			"name": "Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Weekly writing task",
+			"weight": 20
+		},
+		{
+			"name": "Weekly homework",
+			"weight": 5
+		},
+		{
+			"name": "Test ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

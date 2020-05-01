@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Topic quizzes",
+			"weight": "Hurdle-must pass 7 of 10"
+		},
+		{
+			"name": "Seed plant biodiversity & biogeography",
+			"weight": 15
+		},
+		{
+			"name": "Plant hormone experiment report",
+			"weight": 15
+		},
+		{
+			"name": "Plant-environment experiment",
+			"weight": 15
+		},
+		{
+			"name": "Presentation and experimental design",
+			"weight": 5
+		},
+		{
+			"name": "Plant disease herbarium sheet",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

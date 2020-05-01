@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Design or Project/Team Management Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Contributions to Team",
+			"weight": "Embedded"
+		},
+		{
+			"name": "Stakeholder Requirements and Design Specifications",
+			"weight": 15
+		},
+		{
+			"name": "Design Report",
+			"weight": 30
+		},
+		{
+			"name": "Team Processes report",
+			"weight": 10
+		},
+		{
+			"name": "Evaluation report",
+			"weight": 20
+		},
+		{
+			"name": "Group Product",
+			"weight": 5
+		},
+		{
+			"name": "MECH3600 Exam",
+			"weight": 10
+		}
+	]
+}

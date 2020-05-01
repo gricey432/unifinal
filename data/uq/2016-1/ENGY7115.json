@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Milestone 1: Project Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Milestone 2: Interim Report",
+			"weight": 0
+		},
+		{
+			"name": "Final Report",
+			"weight": 100
+		}
+	]
+}

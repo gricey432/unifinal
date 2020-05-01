@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial submission",
+			"weight": 10
+		},
+		{
+			"name": "Experiments and sumulation by PowerWorld",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

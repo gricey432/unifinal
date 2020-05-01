@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1:Activity Videos & Workshop Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Professional Identity & Development ",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Industry Research Report",
+			"weight": 50
+		}
+	]
+}

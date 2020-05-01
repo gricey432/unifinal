@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HTML/CSS Practical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Discussion Exercises",
+			"weight": 10
+		},
+		{
+			"name": "JavaScript Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper",
+			"weight": 15
+		},
+		{
+			"name": "Website design & implementation",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

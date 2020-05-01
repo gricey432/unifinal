@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Critical Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (GC Campus)",
+			"weight": 40
+		}
+	]
+}

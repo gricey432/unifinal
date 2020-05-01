@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Radiography examination",
+			"weight": 15
+		},
+		{
+			"name": "Exodontia competency  ",
+			"weight": "P/F"
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Bridge preparation",
+			"weight": 15
+		},
+		{
+			"name": "Dental Implants Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Orthodontic Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Written end of semester exam",
+			"weight": 50
+		}
+	]
+}

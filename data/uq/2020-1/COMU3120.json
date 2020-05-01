@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluated exercises during skill labs",
+			"weight": 50
+		},
+		{
+			"name": "Project: management summary + codebase",
+			"weight": 50
+		}
+	]
+}

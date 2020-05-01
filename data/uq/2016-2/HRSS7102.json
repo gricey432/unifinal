@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1 Multiple Choice & Multiple Answers (Mod 2)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 Multiple Choice & Multiple Answers (Mod 3)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3 Multiple Choice & Multiple Answers (Mod 4)",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review (Mod 1)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam (Mod 5-7)",
+			"weight": 40
+		}
+	]
+}

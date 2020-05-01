@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Online quiz I",
+			"weight": 5
+		},
+		{
+			"name": "Philosophical Correspondence",
+			"weight": 30
+		},
+		{
+			"name": "Annotated Image",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz II",
+			"weight": 5
+		},
+		{
+			"name": "Digital Portfolio",
+			"weight": 25
+		},
+		{
+			"name": "Final Quiz/Short answer questions",
+			"weight": 20
+		}
+	]
+}

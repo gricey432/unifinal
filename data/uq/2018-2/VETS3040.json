@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical skills checklist - log book",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Quiz: General Pathology",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 45
+		},
+		{
+			"name": "Online Quiz: Disease Investigation",
+			"weight": 5
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 45
+		}
+	]
+}

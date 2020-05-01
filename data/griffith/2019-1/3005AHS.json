@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "REFLECTIVE JOURNAL",
+			"weight": 25
+		},
+		{
+			"name": "PRACTICAL EXAM",
+			"weight": 25
+		},
+		{
+			"name": "PRESENTATION",
+			"weight": 25
+		},
+		{
+			"name": "End-trimester examination",
+			"weight": 25
+		}
+	]
+}

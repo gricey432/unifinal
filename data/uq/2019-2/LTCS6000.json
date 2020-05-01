@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class online quiz",
+			"weight": 11
+		},
+		{
+			"name": "Research seminar web-log",
+			"weight": 9
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "P/F"
+		},
+		{
+			"name": "Library research project",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal and presentation",
+			"weight": 50
+		}
+	]
+}

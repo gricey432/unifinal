@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Education for Hypertension in pregnancy",
+			"weight": 40
+		},
+		{
+			"name": "Antenatal care for Gestational Diabetes Mellitus",
+			"weight": 40
+		},
+		{
+			"name": "Obesity care in labour and birth",
+			"weight": 20
+		}
+	]
+}

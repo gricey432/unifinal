@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Non-graded online practice questions",
+			"weight": 0
+		},
+		{
+			"name": "Online Quizzes (x4)",
+			"weight": 10
+		},
+		{
+			"name": "Lab reports",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 30
+		}
+	]
+}

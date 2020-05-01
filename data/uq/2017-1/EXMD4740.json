@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Mid Semester theory exam",
+			"weight": 20
+		},
+		{
+			"name": "Examination of practical skills and prescription",
+			"weight": 20
+		},
+		{
+			"name": "Competency in musculoskeletal assessment and rehab",
+			"weight": 30
+		},
+		{
+			"name": "Conference Presentation- 3MT",
+			"weight": 10
+		},
+		{
+			"name": "Theory exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial essay",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial 1: Introduction",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Documentary Evidence Report",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial 2: Slavery",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 3: Poverty",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 4: Death and afterlife",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 5: Festivals",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 6: Crime and punishment",
+			"weight": "part of 10"
+		},
+		{
+			"name": "Tutorial 7: Industry and agriculture",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Critical Analysis of Petronius' Satyricon",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial 8: Education",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 9: Prostitution",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Tutorial 10: Dining and entertainment",
+			"weight": "Part of 10"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

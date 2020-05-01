@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative Source Analysis",
+			"weight": 34
+		},
+		{
+			"name": "Learning Journal Part 1",
+			"weight": 33
+		},
+		{
+			"name": "Learning Journal Part 2",
+			"weight": 33
+		}
+	]
+}

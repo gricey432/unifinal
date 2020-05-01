@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Initial Design Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Design Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

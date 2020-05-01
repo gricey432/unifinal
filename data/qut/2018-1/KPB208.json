@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Trailer Critique",
+			"weight": 50
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		}
+	]
+}

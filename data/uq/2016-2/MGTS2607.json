@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Essay",
+			"weight": 35
+		},
+		{
+			"name": "News Review",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

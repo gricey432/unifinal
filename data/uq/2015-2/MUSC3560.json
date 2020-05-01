@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "(Performers only)",
+			"weight": 30
+		},
+		{
+			"name": "(Non-performers only)",
+			"weight": 10
+		},
+		{
+			"name": "(All students)",
+			"weight": 20
+		},
+		{
+			"name": "(Non-performers only)",
+			"weight": 20
+		},
+		{
+			"name": "(All students) Draft of editing project",
+			"weight": 5
+		},
+		{
+			"name": "(All students) Editing Project",
+			"weight": 45
+		}
+	]
+}

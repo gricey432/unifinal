@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professional experience and CV",
+			"weight": 20
+		},
+		{
+			"name": "General coaching principles module",
+			"weight": 15
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Talent identification and skill transfer report",
+			"weight": 15
+		},
+		{
+			"name": "Work placement poster",
+			"weight": 20
+		}
+	]
+}

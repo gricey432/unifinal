@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Quiz 1 on Modules 1 and 2 (60 min)",
+			"weight": 25
+		},
+		{
+			"name": "Analysis of a paper in epigenetics",
+			"weight": 25
+		},
+		{
+			"name": "Bioinformatics assignment",
+			"weight": 15
+		},
+		{
+			"name": "In-class Quiz 2 on Modules 3, 4, and 5 (90 min)",
+			"weight": 35
+		}
+	]
+}

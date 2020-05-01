@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Airline Model Build & Getting Started Segments",
+			"weight": 5
+		},
+		{
+			"name": "Professional Services",
+			"weight": 35
+		},
+		{
+			"name": "Strategic Challenge Report",
+			"weight": 50
+		}
+	]
+}

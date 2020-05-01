@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Knowledge of Epidemiology Weeks 2-7",
+			"weight": 20
+		},
+		{
+			"name": "Semester 1 Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review",
+			"weight": 20
+		},
+		{
+			"name": "Semester 2 Final Exam",
+			"weight": 30
+		}
+	]
+}

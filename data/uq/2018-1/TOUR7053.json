@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism development blog",
+			"weight": 25
+		},
+		{
+			"name": "Vanuatu Consultancy Project - Part 1",
+			"weight": 35
+		},
+		{
+			"name": "Vanuatu Consultancy Project - Part II",
+			"weight": 40
+		}
+	]
+}

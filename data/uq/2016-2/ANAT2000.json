@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation ",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester practical exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester theory exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Practical Examination",
+			"weight": 15
+		}
+	]
+}

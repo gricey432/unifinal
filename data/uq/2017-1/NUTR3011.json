@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Situation Analysis Report Review",
+			"weight": 25
+		},
+		{
+			"name": "Nutrition Investigation Planning",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

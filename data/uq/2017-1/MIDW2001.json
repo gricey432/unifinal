@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment : Evidence Based Care",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW2001",
+			"weight": 50
+		}
+	]
+}

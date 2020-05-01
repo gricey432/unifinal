@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Loads on Structures",
+			"weight": 2
+		},
+		{
+			"name": "Design of Steel Members in tension/Compression",
+			"weight": 2
+		},
+		{
+			"name": "Design of Steel Members for Bending",
+			"weight": 2
+		},
+		{
+			"name": "Design of Steel Members for Shear",
+			"weight": 2
+		},
+		{
+			"name": "Design of Connections",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

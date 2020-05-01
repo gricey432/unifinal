@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Flipped Lesson",
+			"weight": 35
+		},
+		{
+			"name": "Cybersafety Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Integrating ICTs in HPE",
+			"weight": 55
+		}
+	]
+}

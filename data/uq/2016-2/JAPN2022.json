@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Oral Interview 1: Interview of a native speaker",
+			"weight": 20
+		},
+		{
+			"name": "Test 2",
+			"weight": 25
+		},
+		{
+			"name": "Oral Interview 2: Interview with Japanese Staff ",
+			"weight": 30
+		}
+	]
+}

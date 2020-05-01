@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises via Blackbaord",
+			"weight": 20
+		},
+		{
+			"name": "Individual Report",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

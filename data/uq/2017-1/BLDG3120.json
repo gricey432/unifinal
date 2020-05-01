@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Second Skin",
+			"weight": 5
+		},
+		{
+			"name": "Second Skin",
+			"weight": 40
+		},
+		{
+			"name": "Making Things Better",
+			"weight": 5
+		},
+		{
+			"name": "Making Things Better",
+			"weight": 50
+		}
+	]
+}

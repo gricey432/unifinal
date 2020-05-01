@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress note: Community group",
+			"weight": 20
+		},
+		{
+			"name": "Social context mini-essay",
+			"weight": 30
+		},
+		{
+			"name": "Catchment community participation report",
+			"weight": 50
+		}
+	]
+}

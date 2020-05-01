@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and attendance",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "In-class writing quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Casenote",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination (Open Book)",
+			"weight": 70
+		}
+	]
+}

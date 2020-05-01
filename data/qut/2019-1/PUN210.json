@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short Answer Questions",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 60
+		}
+	]
+}

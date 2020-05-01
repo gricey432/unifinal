@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Autoethnographic reflection",
+			"weight": 25
+		},
+		{
+			"name": "Reflexive observation report",
+			"weight": 25
+		},
+		{
+			"name": "Research proposal",
+			"weight": 50
+		}
+	]
+}

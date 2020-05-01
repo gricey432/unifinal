@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Final assessment of clinical practice ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication safety",
+			"weight": "NGP"
+		},
+		{
+			"name": "Assessment of clinical practice 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Caring for the deteriorating patient",
+			"weight": "NGP"
+		}
+	]
+}

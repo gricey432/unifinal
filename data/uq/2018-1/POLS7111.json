@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exam A (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major Essay (4000 words maximum plus references)",
+			"weight": 50
+		},
+		{
+			"name": "Exam B (1000 words)",
+			"weight": 25
+		}
+	]
+}

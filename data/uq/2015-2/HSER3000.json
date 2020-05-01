@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reflections on supervision ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Case management ",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Evaluation of workplace performance for all",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Timesheet ",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Professional employment application ",
+			"weight": "Pass/fail"
+		}
+	]
+}

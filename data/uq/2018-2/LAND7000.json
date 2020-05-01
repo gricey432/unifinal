@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Soil sampling and analysis",
+			"weight": 0
+		},
+		{
+			"name": "Review of soil and water management practices",
+			"weight": 20
+		},
+		{
+			"name": "Use of WaterMod to assess soil management",
+			"weight": 40
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

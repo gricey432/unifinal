@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1 (2000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Item 2 (4000 Words)",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Report with Peer Feedback",
+			"weight": 10
+		},
+		{
+			"name": "Occupational Performance Case Assignment",
+			"weight": 40
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

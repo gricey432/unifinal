@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "AT1: Professional Experience Final Report",
+			"weight": 50
+		},
+		{
+			"name": "AT2: Professional Portfolio - Targeted Evidence",
+			"weight": 50
+		}
+	]
+}

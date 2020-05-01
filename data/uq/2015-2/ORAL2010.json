@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Discussion",
+			"weight": 5
+		},
+		{
+			"name": "Community-based oral health education",
+			"weight": 35
+		},
+		{
+			"name": "Needs Assessment Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Patients with Special Needs",
+			"weight": 30
+		}
+	]
+}

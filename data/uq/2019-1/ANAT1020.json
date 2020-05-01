@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Terminology, Tissues & Integument",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2: Skeletal System",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 3: Muscular System",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 4: Nervous & Endocrine Systems",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 5: Cardiovascular, Respiratory & Digestive",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 6:Urinary & Reproductive",
+			"weight": 2
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 1
+		},
+		{
+			"name": "Meta-Learning II",
+			"weight": 1
+		},
+		{
+			"name": "Mid-semester Theory Exam",
+			"weight": 10
+		},
+		{
+			"name": "End-of-Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Mid-semester Practical Exam",
+			"weight": 12
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 28
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Programming Sketchbook",
+			"weight": 40
+		},
+		{
+			"name": "Creative Coding Project",
+			"weight": 60
+		}
+	]
+}

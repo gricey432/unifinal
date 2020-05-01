@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "   Tutorial Preparation",
+			"weight": 20
+		},
+		{
+			"name": "Presentation and Notes",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article critique",
+			"weight": 30
+		},
+		{
+			"name": "Quizzes (2 - in lectures)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

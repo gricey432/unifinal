@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation with Supervisor",
+			"weight": 10
+		},
+		{
+			"name": "Conference Standard Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay (or equivalent)",
+			"weight": 60
+		}
+	]
+}

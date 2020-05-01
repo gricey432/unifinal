@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Research Skills",
+			"weight": 25
+		},
+		{
+			"name": "Task 2 (Part A): Abstract for Seminar ",
+			"weight": 10
+		},
+		{
+			"name": "Task 2 (Part B): Seminar Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Task 2 (Part C): Peer Assessment for Seminar",
+			"weight": 5
+		},
+		{
+			"name": "Task 3: Research Essay",
+			"weight": 45
+		}
+	]
+}

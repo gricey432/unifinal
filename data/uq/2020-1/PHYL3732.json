@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on Topic 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz on Topics 2 and 3",
+			"weight": 10
+		},
+		{
+			"name": "Oral Research Presentation and Poster",
+			"weight": 20
+		},
+		{
+			"name": "Prac Exam",
+			"weight": 35
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

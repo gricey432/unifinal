@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online coaching course",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Workbook",
+			"weight": 50
+		},
+		{
+			"name": "Facilitating a physical activity session",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fermentation report 1",
+			"weight": 10
+		},
+		{
+			"name": "Network modelling & design",
+			"weight": 15
+		},
+		{
+			"name": "Characterization fo E.coli in Fermentation",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

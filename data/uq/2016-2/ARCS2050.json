@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Photograph Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Themes in Historical Archaeology",
+			"weight": 30
+		},
+		{
+			"name": "Ceramics",
+			"weight": 5
+		},
+		{
+			"name": "Bottles",
+			"weight": 5
+		},
+		{
+			"name": "Other Artefacts",
+			"weight": 5
+		},
+		{
+			"name": "Workshop",
+			"weight": 10
+		},
+		{
+			"name": "ARCS2050 Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Set1",
+			"weight": 10
+		},
+		{
+			"name": "Set2",
+			"weight": 10
+		},
+		{
+			"name": "Set3",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assesment",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

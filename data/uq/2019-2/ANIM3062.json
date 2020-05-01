@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Padlet discussion board",
+			"weight": 25
+		},
+		{
+			"name": "Emerging Issues in Animal Bioscience",
+			"weight": 15
+		},
+		{
+			"name": "Significant Key Issue Paper",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial readings activity",
+			"weight": 10
+		},
+		{
+			"name": "Assessing and teaching Children's Writing",
+			"weight": 40
+		},
+		{
+			"name": "Quality Literature Book trailer and explanation",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Reading",
+			"weight": 20
+		}
+	]
+}

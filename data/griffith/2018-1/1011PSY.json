@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook - Who am I, and where am I going?",
+			"weight": 10
+		},
+		{
+			"name": "Professional Profile and Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Online Workbook",
+			"weight": 5
+		},
+		{
+			"name": "Personal Development Portfolio",
+			"weight": 45
+		}
+	]
+}

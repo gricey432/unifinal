@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Community Planning Study",
+			"weight": 30
+		},
+		{
+			"name": "Oral and Visual Presentation",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 35
+		}
+	]
+}

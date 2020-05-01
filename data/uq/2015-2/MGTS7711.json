@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		},
+		{
+			"name": "Individual Assessment - Reflective Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Early Quiz (Online)",
+			"weight": 10
+		},
+		{
+			"name": "Assign 2(Online)",
+			"weight": 20
+		},
+		{
+			"name": "Assign 3: Problems and Essay Note (Online)",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

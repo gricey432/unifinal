@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Communicating Nutrition Evidence",
+			"weight": 30
+		},
+		{
+			"name": "Task 2:Nutrition Education Program Plan & Delivery",
+			"weight": 15
+		},
+		{
+			"name": "Task 3: PebblePad Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

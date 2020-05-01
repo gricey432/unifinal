@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Studies ",
+			"weight": 20
+		},
+		{
+			"name": "Mid-trimester Exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

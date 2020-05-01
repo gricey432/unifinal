@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online review quizzes",
+			"weight": 30
+		},
+		{
+			"name": "e-Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Marketing Plan Analysis",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Work-in-Progress Uploads",
+			"weight": 10
+		},
+		{
+			"name": "3 x In-class Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "GIS Portfolio Part 1",
+			"weight": 30
+		},
+		{
+			"name": "GIS Portfolio Part 2",
+			"weight": 30
+		}
+	]
+}

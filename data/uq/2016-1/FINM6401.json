@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team tasks",
+			"weight": 20
+		},
+		{
+			"name": "Team Case Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final report",
+			"weight": 60
+		}
+	]
+}

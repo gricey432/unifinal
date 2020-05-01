@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Dysphagia Simulation (paediatric)",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Final Theory Exam - In Week 9",
+			"weight": 60
+		}
+	]
+}

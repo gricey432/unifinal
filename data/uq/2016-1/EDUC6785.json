@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Process Drama Micro-lesson",
+			"weight": "one third"
+		},
+		{
+			"name": "Senior Drama Program",
+			"weight": "one third"
+		},
+		{
+			"name": "Senior Drama Unit + Annotated Resource List",
+			"weight": "one third"
+		}
+	]
+}

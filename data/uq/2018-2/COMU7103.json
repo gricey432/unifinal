@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reflection on weekly material",
+			"weight": 10
+		},
+		{
+			"name": "Concepts and developments in PR across its history",
+			"weight": 30
+		},
+		{
+			"name": "Interpersonal communication today",
+			"weight": 30
+		},
+		{
+			"name": "\"Newsworthy\" piece",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 (Weeks 1 - 4)",
+			"weight": 10
+		},
+		{
+			"name": "Draft of Applied Report",
+			"weight": "Formative"
+		},
+		{
+			"name": "Online Quiz 2 (Weeks 5 - 8)",
+			"weight": 10
+		},
+		{
+			"name": "Applied Report & Critical Essay",
+			"weight": 45
+		},
+		{
+			"name": "Group Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz 3 (Weeks 9 - 12)",
+			"weight": 10
+		}
+	]
+}

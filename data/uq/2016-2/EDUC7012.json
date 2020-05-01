@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Conceptualising the guidance role",
+			"weight": "Pass/Fail (1500 words)"
+		},
+		{
+			"name": "Counselling tape 1 - Reviewing the basics",
+			"weight": "Pass/Fail (1000 words)"
+		},
+		{
+			"name": "Ethical Issues",
+			"weight": "Pass/Fail (1500 words)"
+		},
+		{
+			"name": "Applying a counselling theory",
+			"weight": "Pass/Fail (1000 words)"
+		},
+		{
+			"name": "Log of practicum experiences + practice framework",
+			"weight": "Pass/Fail (500 words + Log)"
+		}
+	]
+}

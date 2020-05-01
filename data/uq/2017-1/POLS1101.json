@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Summaries",
+			"weight": 9
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 11
+		},
+		{
+			"name": "Referencing and critical analysis assignment",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

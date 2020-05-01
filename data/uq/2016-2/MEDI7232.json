@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Written report - Practical ethics and law",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		}
+	]
+}

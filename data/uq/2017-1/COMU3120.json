@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Qualitative Analysis Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Quantitative Analysis Portfolio",
+			"weight": 35
+		}
+	]
+}

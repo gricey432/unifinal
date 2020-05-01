@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theories Test",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Exercises Post Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Comparing and contrasting theoretical approaches",
+			"weight": 50
+		}
+	]
+}

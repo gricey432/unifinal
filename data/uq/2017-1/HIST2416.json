@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Disputation",
+			"weight": 30
+		},
+		{
+			"name": "Source Evaluation",
+			"weight": 50
+		},
+		{
+			"name": "Attendance, Preparation, and Discussion",
+			"weight": 20
+		}
+	]
+}

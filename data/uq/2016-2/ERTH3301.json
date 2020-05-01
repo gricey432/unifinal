@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Full Resource Estimation Report (JORC Report)",
+			"weight": 40
+		},
+		{
+			"name": "Estimation of tonnes and grades in 2D",
+			"weight": 10
+		},
+		{
+			"name": "Exploratory data analysis and QA/QC",
+			"weight": 10
+		},
+		{
+			"name": "Definition of geological domains",
+			"weight": 10
+		},
+		{
+			"name": "Build  a 3D geological model in SURPAC",
+			"weight": 10
+		},
+		{
+			"name": "Estimation of grade and tonnage",
+			"weight": 10
+		},
+		{
+			"name": "Review an ASX's market release",
+			"weight": 10
+		}
+	]
+}

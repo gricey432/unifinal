@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory report on Brain Dissection",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation for Brain Dissection",
+			"weight": 10
+		},
+		{
+			"name": "Practical exam ",
+			"weight": 25
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 40
+		}
+	]
+}

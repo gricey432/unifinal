@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Written Report",
+			"weight": 40
+		},
+		{
+			"name": "Fieldwork Module",
+			"weight": 30
+		},
+		{
+			"name": "Final exam ",
+			"weight": 30
+		}
+	]
+}

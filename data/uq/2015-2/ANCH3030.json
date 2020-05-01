@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Coursework Essay",
+			"weight": 30
+		},
+		{
+			"name": "Textual Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 20
+		}
+	]
+}

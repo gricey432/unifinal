@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Vision, Issues, Design Report",
+			"weight": 30
+		},
+		{
+			"name": "In Class online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Precinct Plan",
+			"weight": 60
+		}
+	]
+}

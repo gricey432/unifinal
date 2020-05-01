@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Critical Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Essay and Parent Information Sheet",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Annotated Resource Portfolio",
+			"weight": 40
+		}
+	]
+}

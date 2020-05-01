@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "MyVirtual Child & Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Communication and employability",
+			"weight": 40
+		},
+		{
+			"name": "Debate",
+			"weight": 15
+		},
+		{
+			"name": "Problem Based Learning ",
+			"weight": 15
+		}
+	]
+}

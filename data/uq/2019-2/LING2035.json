@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation: article summary + class discussion",
+			"weight": 25
+		},
+		{
+			"name": "Contribution to discussion and attendance",
+			"weight": 10
+		},
+		{
+			"name": "Online test x 3",
+			"weight": 20
+		},
+		{
+			"name": "Research project",
+			"weight": 45
+		}
+	]
+}

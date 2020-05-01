@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on Personal Property module ",
+			"weight": 20
+		},
+		{
+			"name": "Diary OR Quiz",
+			"weight": 20
+		},
+		{
+			"name": "End of semester Exam",
+			"weight": 60
+		}
+	]
+}

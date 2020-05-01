@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment - Flotation Surface Chemistry",
+			"weight": 5
+		},
+		{
+			"name": "Prac - Jameson Cell Flotation",
+			"weight": 10
+		},
+		{
+			"name": "Prac - Eh/pH Measurement and Interpretation",
+			"weight": 15
+		},
+		{
+			"name": "Prac - Pb/Zn Flotation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment - Flotation Kinetics & Equipment",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Examination (Closed Book)",
+			"weight": 45
+		}
+	]
+}

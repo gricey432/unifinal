@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Pre-lecture Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "MS Office & technologies Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Accounting software assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

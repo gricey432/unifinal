@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The philosophy that is IPM and how it came to be",
+			"weight": 20
+		},
+		{
+			"name": "Critical evaluation of a free IPM tool or APP",
+			"weight": 15
+		},
+		{
+			"name": "Development of an IPM program",
+			"weight": 45
+		},
+		{
+			"name": "Final exam",
+			"weight": 20
+		}
+	]
+}

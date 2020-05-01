@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Tectonics",
+			"weight": 5
+		},
+		{
+			"name": "Visualizing the Earth using maps",
+			"weight": 5
+		},
+		{
+			"name": "Water flow and flooding",
+			"weight": 5
+		},
+		{
+			"name": "Landscape evolution",
+			"weight": 5
+		},
+		{
+			"name": "Field trip",
+			"weight": 5
+		},
+		{
+			"name": "Field trip report",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

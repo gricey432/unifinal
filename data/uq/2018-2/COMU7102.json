@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ASSIGNMENT 1: Annotated bibliography",
+			"weight": 40
+		},
+		{
+			"name": "ASSIGNMENT 2: Debate on case studies",
+			"weight": 20
+		},
+		{
+			"name": "ASSIGNMENT 3: Case study report",
+			"weight": 40
+		}
+	]
+}

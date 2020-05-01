@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to online discussions/tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

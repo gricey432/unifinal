@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Verbal reflection & discussion of readings & media",
+			"weight": 10
+		},
+		{
+			"name": "Comparative evaluation of planning processes",
+			"weight": 40
+		},
+		{
+			"name": "Participation tool - profile and review",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

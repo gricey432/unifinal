@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Case studies/exercises",
+			"weight": 15
+		},
+		{
+			"name": "Project A report and presentation",
+			"weight": 35
+		},
+		{
+			"name": "Project A presentation",
+			"weight": "Part of Project A"
+		},
+		{
+			"name": "Project B report and presentation",
+			"weight": 35
+		},
+		{
+			"name": "Oral defence",
+			"weight": 15
+		},
+		{
+			"name": "Project B presentation",
+			"weight": "Part of Project B"
+		}
+	]
+}

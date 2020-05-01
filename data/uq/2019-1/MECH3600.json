@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Project/Team Management Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Contributions to Team",
+			"weight": "Embedded"
+		},
+		{
+			"name": "Weekly quiz",
+			"weight": 5
+		},
+		{
+			"name": "Team Processes Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Context Report",
+			"weight": 15
+		},
+		{
+			"name": "Project Final Report",
+			"weight": 20
+		},
+		{
+			"name": "Stakeholder Requirements and Design Specifications",
+			"weight": 10
+		},
+		{
+			"name": "MECH3600 Exam",
+			"weight": 30
+		}
+	]
+}

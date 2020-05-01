@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Therapeutic Relationship / Caregiving",
+			"weight": 20
+		},
+		{
+			"name": "Holistic Assessment and Planning Care",
+			"weight": 40
+		},
+		{
+			"name": "Evaluating nursing and collaborative practice",
+			"weight": 40
+		}
+	]
+}

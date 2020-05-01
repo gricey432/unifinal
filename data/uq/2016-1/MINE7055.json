@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participant Discussion - Online",
+			"weight": 30
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Report",
+			"weight": 40
+		}
+	]
+}

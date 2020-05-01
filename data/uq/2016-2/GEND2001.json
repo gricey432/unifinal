@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Essay One: short essay",
+			"weight": 20
+		},
+		{
+			"name": "Short answer questions",
+			"weight": 25
+		},
+		{
+			"name": "Essay Two: Reflective research essay",
+			"weight": 35
+		}
+	]
+}

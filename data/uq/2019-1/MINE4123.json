@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Supervisor Consultation",
+			"weight": 5
+		},
+		{
+			"name": "Synopsis",
+			"weight": 0
+		},
+		{
+			"name": "Slide Upload",
+			"weight": 0
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Examiners' Copy",
+			"weight": 65
+		},
+		{
+			"name": "AusIMM Proceeedings",
+			"weight": 15
+		},
+		{
+			"name": "Revised Copy",
+			"weight": 0
+		}
+	]
+}

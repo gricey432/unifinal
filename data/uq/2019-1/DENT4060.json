@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Exodontia competency",
+			"weight": "P/F"
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on patient management",
+			"weight": 20
+		},
+		{
+			"name": "Clinical portfolio",
+			"weight": "P/F"
+		},
+		{
+			"name": "Case identification task",
+			"weight": "P/F"
+		},
+		{
+			"name": "Written examination paper",
+			"weight": 50
+		}
+	]
+}

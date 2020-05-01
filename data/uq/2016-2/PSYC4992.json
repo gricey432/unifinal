@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": " S1 :Session Chair role",
+			"weight": 15
+		},
+		{
+			"name": " S1 Engaged audience role",
+			"weight": 25
+		},
+		{
+			"name": "S1 Oral presentation on a selected topic",
+			"weight": 25
+		},
+		{
+			"name": "S2: Oral Presentation of assigned paper",
+			"weight": 30
+		},
+		{
+			"name": "S2: Engaged Audience Role",
+			"weight": 10
+		},
+		{
+			"name": "S1 Sturctured paper on selected topic",
+			"weight": 35
+		},
+		{
+			"name": "S2: Essay based on assigned paper",
+			"weight": 60
+		}
+	]
+}

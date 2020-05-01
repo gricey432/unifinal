@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Test",
+			"weight": 20
+		},
+		{
+			"name": "Interim Learning Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Learning Report",
+			"weight": 40
+		}
+	]
+}

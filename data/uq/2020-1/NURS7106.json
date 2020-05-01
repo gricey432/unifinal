@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Discussion Postings",
+			"weight": 20
+		},
+		{
+			"name": "Critical Issue 1200 Words",
+			"weight": 30
+		},
+		{
+			"name": "Online invigilated exam",
+			"weight": 50
+		}
+	]
+}

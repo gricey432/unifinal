@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercises",
+			"weight": 5
+		},
+		{
+			"name": "Reflection on SCIE1100 extra lecture",
+			"weight": 5
+		},
+		{
+			"name": "Academic integrity module",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Midsemester exam ",
+			"weight": 0
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Python & communication assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

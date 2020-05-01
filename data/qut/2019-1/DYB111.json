@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CI Health and Safety Induction",
+			"weight": 0
+		},
+		{
+			"name": "Portfolio 1",
+			"weight": 40
+		},
+		{
+			"name": "Portfolio 2",
+			"weight": 60
+		}
+	]
+}

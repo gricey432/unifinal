@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Concept questions",
+			"weight": 15
+		},
+		{
+			"name": "Wastewater treatment plant field trip ",
+			"weight": "compulsory"
+		},
+		{
+			"name": "North Stradbroke Island field trip report",
+			"weight": 5
+		},
+		{
+			"name": "Biogeochemical cycling and water quality",
+			"weight": 10
+		},
+		{
+			"name": "Pre-poster proposal",
+			"weight": 5
+		},
+		{
+			"name": "Resilience in socio-ecological systems",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

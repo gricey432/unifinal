@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Online Quiz 1 (Adiabetic pulses)",
+			"weight": 5
+		},
+		{
+			"name": "Adiabetic pulses",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 2 (Parallel imaging)",
+			"weight": 5
+		},
+		{
+			"name": "Parallel imaging",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 3 (Brain connectivity)",
+			"weight": 5
+		},
+		{
+			"name": "Brain connectivity",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 4 (Susceptibility imaging)",
+			"weight": 5
+		},
+		{
+			"name": "Susceptibility imaging",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

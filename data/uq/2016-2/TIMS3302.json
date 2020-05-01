@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Entrepreneurship",
+			"weight": 20
+		},
+		{
+			"name": "Idea Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Investment Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Business Case submission",
+			"weight": 35
+		}
+	]
+}

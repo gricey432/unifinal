@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Narrated powerpoint presentation on BFDC figures",
+			"weight": 10
+		},
+		{
+			"name": "BFDC report",
+			"weight": 25
+		},
+		{
+			"name": "Quiz on barley and wheat rust practicals ",
+			"weight": 3
+		},
+		{
+			"name": "Plant breeding",
+			"weight": 3
+		},
+		{
+			"name": "Field trip quiz",
+			"weight": 3
+		},
+		{
+			"name": "Field trip quiz",
+			"weight": 3
+		},
+		{
+			"name": "Class quiz on lysimeter practicals",
+			"weight": 3
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

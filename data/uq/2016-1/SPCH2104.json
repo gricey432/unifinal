@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "SPCH2104 Voice disorders",
+			"weight": 40
+		},
+		{
+			"name": "SPCH2104/1 Voice disorders",
+			"weight": 60
+		}
+	]
+}

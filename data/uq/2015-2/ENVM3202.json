@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory attendance",
+			"weight": 10
+		},
+		{
+			"name": "Pre Field Trip Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Report",
+			"weight": 45
+		}
+	]
+}

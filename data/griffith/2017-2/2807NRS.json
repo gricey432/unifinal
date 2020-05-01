@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation-based skills assessments",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Placement of 80 hours",
+			"weight": 0
+		},
+		{
+			"name": "Essay 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Wind Energy Technology Simulator",
+			"weight": 5
+		},
+		{
+			"name": "PV simulator",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Class Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam during examination period",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Involvement",
+			"weight": 0
+		},
+		{
+			"name": "MCQ Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

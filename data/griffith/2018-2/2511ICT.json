@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Tests Online",
+			"weight": 0
+		},
+		{
+			"name": "Test",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - MUST OBTAIN MIN 40% TO PASS COURSE",
+			"weight": 50
+		}
+	]
+}

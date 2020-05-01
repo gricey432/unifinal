@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Answer Question (SAQ) Exam (online)",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Community Profile Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance & Participation",
+			"weight": 20
+		},
+		{
+			"name": "Task Analysis and Design",
+			"weight": 20
+		},
+		{
+			"name": "Microteaching",
+			"weight": 15
+		},
+		{
+			"name": "ESL Student Profile",
+			"weight": 15
+		},
+		{
+			"name": "Unit Design",
+			"weight": 30
+		}
+	]
+}

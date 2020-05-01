@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research plans and ethics awareness",
+			"weight": 25
+		},
+		{
+			"name": "Completion and transcription of first interview ",
+			"weight": 25
+		},
+		{
+			"name": "Research Report",
+			"weight": 50
+		}
+	]
+}

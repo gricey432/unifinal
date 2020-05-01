@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Discussion",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Invigilated Exam",
+			"weight": 30
+		}
+	]
+}

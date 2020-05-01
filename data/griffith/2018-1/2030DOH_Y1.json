@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Unit 1: Operative Dentistry",
+			"weight": 30
+		},
+		{
+			"name": "Unit 2: Dental Materials",
+			"weight": 15
+		},
+		{
+			"name": "Unit 3: Radiology & Radiography",
+			"weight": 7
+		},
+		{
+			"name": "Unit 4: Preclinical Practice",
+			"weight": 7
+		},
+		{
+			"name": "Unit 5: Preventive Dentistry",
+			"weight": 7
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 0
+		},
+		{
+			"name": "Unit 6: Public Oral Health",
+			"weight": 5
+		},
+		{
+			"name": "Unit 7: Clinical Medicine for Oral Health 1",
+			"weight": 5
+		},
+		{
+			"name": "Unit 8: Growth & Development",
+			"weight": 2
+		},
+		{
+			"name": "End of Course Comprehensive OSCE Exam",
+			"weight": 20
+		}
+	]
+}

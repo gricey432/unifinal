@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Consultation",
+			"weight": 25
+		},
+		{
+			"name": "HTML/CSS Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Website Design & Implementation",
+			"weight": 50
+		}
+	]
+}

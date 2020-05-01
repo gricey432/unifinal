@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research",
+			"weight": 25
+		},
+		{
+			"name": "Rent Review",
+			"weight": 25
+		},
+		{
+			"name": "Valuation Report",
+			"weight": 50
+		}
+	]
+}

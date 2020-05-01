@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Current management environment ",
+			"weight": 20
+		},
+		{
+			"name": "Solve an environmental problem",
+			"weight": 50
+		},
+		{
+			"name": "Evaluation of the future of an environmental issue",
+			"weight": 30
+		}
+	]
+}

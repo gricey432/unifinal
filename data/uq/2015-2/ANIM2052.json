@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Based Portfolio - Submission 1",
+			"weight": 15
+		},
+		{
+			"name": "Problem Based Portfolio - Final Submission",
+			"weight": 35
+		},
+		{
+			"name": "Practical sessions",
+			"weight": 5
+		},
+		{
+			"name": "Problem Based Portfolio - Submission 1 - PR",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Gog Blog Newsletter",
+			"weight": 30
+		},
+		{
+			"name": "Literacy / Numeracy Lesson Plan",
+			"weight": 30
+		},
+		{
+			"name": "Feedback for learning",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Course participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online quiz (Assessment item 1)",
+			"weight": 5
+		},
+		{
+			"name": "Critique of articles (Assessment item 2)",
+			"weight": 25
+		},
+		{
+			"name": "Policy debate with synopses (online; Assessment 3)",
+			"weight": 30
+		},
+		{
+			"name": "Major essay (Assessment item 4)",
+			"weight": 40
+		}
+	]
+}

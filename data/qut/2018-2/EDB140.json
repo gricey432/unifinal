@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Plan",
+			"weight": 50
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		},
+		{
+			"name": "Portfolio",
+			"weight": 50
+		}
+	]
+}

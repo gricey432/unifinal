@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated texts",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Argument Maps",
+			"weight": 20
+		},
+		{
+			"name": "Argument Map for Research Essay",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 40
+		}
+	]
+}

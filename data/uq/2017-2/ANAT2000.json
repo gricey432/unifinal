@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online BB quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Theory exam - TISSUES/BIOMECHANICS",
+			"weight": 15
+		},
+		{
+			"name": "Theory & prac exam - REGIONAL ANATOMY",
+			"weight": 20
+		},
+		{
+			"name": "Online BB quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Theory & Prac Exam - REGIONAL ANAT",
+			"weight": 20
+		}
+	]
+}

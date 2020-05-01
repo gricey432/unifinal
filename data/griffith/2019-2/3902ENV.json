@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ass1 - Architecture Plus",
+			"weight": 25
+		},
+		{
+			"name": "Ass2 - Architecture Project (Design Brief)",
+			"weight": 20
+		},
+		{
+			"name": "Ass3 - Architecture Project (Concept Design)",
+			"weight": 15
+		},
+		{
+			"name": "Ass4 -  Architecture Project (Developed Design)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of lab assignments",
+			"weight": 30
+		},
+		{
+			"name": "Shorncliffe map assignment",
+			"weight": 10
+		},
+		{
+			"name": "Strain Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Theory examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Review of a DSM-V diagnosis (PSYC7805)",
+			"weight": 40
+		},
+		{
+			"name": "Case Study of a client with a mental illness",
+			"weight": 40
+		}
+	]
+}

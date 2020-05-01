@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly language assignment",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "In-class test",
+			"weight": 10
+		},
+		{
+			"name": "Written exam",
+			"weight": 40
+		},
+		{
+			"name": "Russian oral",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 4
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 4
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 4
+		},
+		{
+			"name": "Prac 1",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester test",
+			"weight": 20
+		},
+		{
+			"name": "Prac 2",
+			"weight": 3
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 4
+		},
+		{
+			"name": "Prac 3",
+			"weight": 3
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

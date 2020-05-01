@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facilitated Group Debates",
+			"weight": 30
+		},
+		{
+			"name": "Ethical Issues and Decision Making",
+			"weight": 30
+		},
+		{
+			"name": "Central Examination",
+			"weight": 40
+		}
+	]
+}

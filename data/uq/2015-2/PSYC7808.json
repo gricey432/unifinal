@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Experience of Illness",
+			"weight": 40
+		},
+		{
+			"name": "Funding Submission QLD Health",
+			"weight": 50
+		},
+		{
+			"name": "Letters to the People",
+			"weight": 10
+		}
+	]
+}

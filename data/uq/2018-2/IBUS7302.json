@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Examination",
+			"weight": 25
+		},
+		{
+			"name": "In-class Team Debates on Contemporary IB Issues",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

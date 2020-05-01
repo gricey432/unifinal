@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation and Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Journal an Individual with a Disability/Family",
+			"weight": 20
+		},
+		{
+			"name": "Casework Intervention or Position Paper",
+			"weight": 40
+		},
+		{
+			"name": "Workbook Exercises Provided in textbook",
+			"weight": 30
+		}
+	]
+}

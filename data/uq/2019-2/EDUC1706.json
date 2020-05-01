@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific Argument",
+			"weight": 30
+		},
+		{
+			"name": "Product + Explanation",
+			"weight": 30
+		},
+		{
+			"name": "Science journal + reflection",
+			"weight": 40
+		}
+	]
+}

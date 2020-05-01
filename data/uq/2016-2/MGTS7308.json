@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Case Study Impact Results",
+			"weight": 30
+		},
+		{
+			"name": "Analysis of best practice social impact solutions",
+			"weight": 50
+		},
+		{
+			"name": "Individual reflection on mindfulness",
+			"weight": 20
+		}
+	]
+}

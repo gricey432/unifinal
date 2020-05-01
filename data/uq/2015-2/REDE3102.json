@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Spreadsheet Assignments (short report)",
+			"weight": 15
+		},
+		{
+			"name": "Group Report and Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Final",
+			"weight": 50
+		}
+	]
+}

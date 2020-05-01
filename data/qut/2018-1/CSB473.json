@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Examination (Theory)",
+			"weight": 40
+		},
+		{
+			"name": "Viva voce",
+			"weight": 30
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 30
+		}
+	]
+}

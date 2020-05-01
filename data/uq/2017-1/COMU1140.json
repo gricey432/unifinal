@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Multimedia project- Milestone 1",
+			"weight": 10
+		},
+		{
+			"name": "Multimedia project- Milestone 2",
+			"weight": 10
+		},
+		{
+			"name": "Multimedia project",
+			"weight": 10
+		},
+		{
+			"name": "Multimedia project",
+			"weight": 70
+		}
+	]
+}

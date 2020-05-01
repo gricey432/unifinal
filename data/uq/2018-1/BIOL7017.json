@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment Part B",
+			"weight": 15
+		},
+		{
+			"name": "Quiz relating to material from week 1 to 4",
+			"weight": 5
+		},
+		{
+			"name": "Assignment Part A",
+			"weight": 10
+		},
+		{
+			"name": "Quiz relating to week 5 to 8 material",
+			"weight": 5
+		},
+		{
+			"name": "Disease Collection",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

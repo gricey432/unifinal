@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Archive research essay",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "reading/viewing reflection",
+			"weight": 5
+		},
+		{
+			"name": "Archive research show-and-tell",
+			"weight": 10
+		},
+		{
+			"name": "Found-footage video essay or standard essay",
+			"weight": 40
+		}
+	]
+}

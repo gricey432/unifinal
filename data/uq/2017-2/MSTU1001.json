@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Film Review OR Reading Summary",
+			"weight": 10
+		},
+		{
+			"name": "Storyboard & Rationale",
+			"weight": 30
+		},
+		{
+			"name": "Film or Television Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop learning activities.",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Hospital Experiential Learning ",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Written exam",
+			"weight": 60
+		},
+		{
+			"name": "Oral (counselling) Exam",
+			"weight": 20
+		}
+	]
+}

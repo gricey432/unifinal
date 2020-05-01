@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet and Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Essay in the Australian component",
+			"weight": 45
+		},
+		{
+			"name": "Essay in the Chinese component",
+			"weight": 45
+		}
+	]
+}

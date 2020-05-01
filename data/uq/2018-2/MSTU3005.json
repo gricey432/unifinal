@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation or pre-sub presentation",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "Long Essay",
+			"weight": 40
+		}
+	]
+}

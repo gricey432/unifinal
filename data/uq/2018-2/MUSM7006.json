@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Attendance and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Exhibition review",
+			"weight": 35
+		},
+		{
+			"name": "Exhibition project ",
+			"weight": 50
+		}
+	]
+}

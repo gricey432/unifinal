@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "To be chosen by student (see Assignment Briefing)",
+			"weight": 30
+		},
+		{
+			"name": "To be chosen by student (see Assignment Briefing)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam for PSYC4191",
+			"weight": 40
+		}
+	]
+}

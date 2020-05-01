@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading quiz (8 quizzes)",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of learner language",
+			"weight": 20
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 25
+		},
+		{
+			"name": "Theoretical essay",
+			"weight": 35
+		}
+	]
+}

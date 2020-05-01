@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report for Practical 1",
+			"weight": 10
+		},
+		{
+			"name": "Report for Practical 2",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Theory Exam: Modules 1, 2 & 3",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

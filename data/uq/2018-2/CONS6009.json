@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1a - Human-Wildlife Interactions",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1b - Human-Wildlife Interactions",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2  Research report: smarter monitoring",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 - Conservation genetics report",
+			"weight": 35
+		}
+	]
+}

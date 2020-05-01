@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement and Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Assessment on Guitar",
+			"weight": 60
+		},
+		{
+			"name": "Knowledge of Repertoire",
+			"weight": 40
+		}
+	]
+}

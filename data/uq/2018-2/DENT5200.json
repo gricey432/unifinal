@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical competence",
+			"weight": "P/F"
+		},
+		{
+			"name": "Case Report",
+			"weight": "P/F"
+		},
+		{
+			"name": "Oral Examination",
+			"weight": "P/F"
+		}
+	]
+}

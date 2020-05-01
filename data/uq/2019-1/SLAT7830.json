@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Respondent presentation and Write-up",
+			"weight": 35
+		},
+		{
+			"name": "On-line reading resources",
+			"weight": 25
+		},
+		{
+			"name": "Instructional materials",
+			"weight": 40
+		}
+	]
+}

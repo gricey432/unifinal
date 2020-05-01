@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Software Exercise (Identity-Verified)",
+			"weight": 10
+		},
+		{
+			"name": "Design and Analysis Asgmt 1 (Identity-Verified)",
+			"weight": 6
+		},
+		{
+			"name": "Design and Analysis Asgmt 2 (Identity-Verified)",
+			"weight": 12
+		},
+		{
+			"name": "Design and Analysis Asgmt 3 (Identity-Verified)",
+			"weight": 12
+		},
+		{
+			"name": "Design and Analysis Asgmt 4 (Identity-Verified)",
+			"weight": 20
+		},
+		{
+			"name": "Design and Analysis Asgmt 5 (Identify-Verified)",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

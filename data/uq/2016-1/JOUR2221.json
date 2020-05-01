@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Critical analysis of journalistic practices",
+			"weight": 30
+		},
+		{
+			"name": "Critical review of the literature on foreign news",
+			"weight": 35
+		},
+		{
+			"name": "End-of-semester Examination",
+			"weight": 30
+		}
+	]
+}

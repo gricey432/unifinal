@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "How to rehearse a youth orchestra.",
+			"weight": 25
+		},
+		{
+			"name": "Lecture attendance",
+			"weight": 5
+		},
+		{
+			"name": "Rehearsal",
+			"weight": 30
+		},
+		{
+			"name": "Informal performance UQSO",
+			"weight": 40
+		}
+	]
+}

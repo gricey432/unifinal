@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Probem Set ",
+			"weight": 20
+		},
+		{
+			"name": "Essay ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

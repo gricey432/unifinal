@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. PICO and Database Search ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2.Critical Appraisal of a Selected Journal Article",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "3. EBP Skills MCQ  ",
+			"weight": "Pass/Fail"
+		}
+	]
+}

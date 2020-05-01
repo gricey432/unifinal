@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes and Examination",
+			"weight": 50
+		},
+		{
+			"name": "Weird and Wonderful science",
+			"weight": 50
+		}
+	]
+}

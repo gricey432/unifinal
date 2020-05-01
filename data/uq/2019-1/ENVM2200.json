@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals in Natural Resource Mangament ",
+			"weight": 15
+		},
+		{
+			"name": "Debates in Environmental Management/Planning",
+			"weight": 30
+		},
+		{
+			"name": "Practical Example",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

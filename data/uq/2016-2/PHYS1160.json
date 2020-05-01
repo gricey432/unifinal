@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "(Almost) Weekly Physics Tutorial Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Physics Research Assignment (Group)",
+			"weight": 20
+		}
+	]
+}

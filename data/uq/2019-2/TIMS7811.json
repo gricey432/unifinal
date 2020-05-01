@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Photo Essay Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual critical reflection",
+			"weight": 30
+		},
+		{
+			"name": "Innovation strategy report",
+			"weight": 50
+		}
+	]
+}

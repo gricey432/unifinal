@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Performance",
+			"weight": 30
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Final Clinical assessment",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester 2 Exam",
+			"weight": 35
+		}
+	]
+}

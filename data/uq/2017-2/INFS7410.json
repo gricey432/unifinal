@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Submission",
+			"weight": 10
+		},
+		{
+			"name": "Text Processing",
+			"weight": 10
+		},
+		{
+			"name": "Indexing",
+			"weight": 10
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Web Search and Retrieval  ",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

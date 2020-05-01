@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops and tutorials",
+			"weight": 0
+		},
+		{
+			"name": "Peer teaching",
+			"weight": 0
+		},
+		{
+			"name": "Numeracy in the News",
+			"weight": 33
+		},
+		{
+			"name": "Technology seminar",
+			"weight": 33
+		},
+		{
+			"name": "Senior mathematics assessment task",
+			"weight": 33
+		}
+	]
+}

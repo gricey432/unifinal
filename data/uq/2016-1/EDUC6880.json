@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ICLTs in the Religion Classroom",
+			"weight": 10
+		},
+		{
+			"name": "Response to Stimulus Questions",
+			"weight": 20
+		},
+		{
+			"name": "Unit Design",
+			"weight": 40
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		}
+	]
+}

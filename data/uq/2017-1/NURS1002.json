@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In PBL and Feedback Sessions",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam for NURS1002 ",
+			"weight": 50
+		}
+	]
+}

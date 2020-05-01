@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Folio",
+			"weight": 50
+		},
+		{
+			"name": "Draft lesson plans",
+			"weight": "pass/fail hurdle task"
+		},
+		{
+			"name": "Year 7 unit of work ",
+			"weight": 50
+		}
+	]
+}

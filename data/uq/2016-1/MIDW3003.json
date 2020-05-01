@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Incident Reflection",
+			"weight": 50
+		},
+		{
+			"name": "Case Study Oral Presentation ",
+			"weight": 50
+		}
+	]
+}

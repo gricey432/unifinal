@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Infographic",
+			"weight": 25
+		},
+		{
+			"name": "Problem analysis of an organizational topic",
+			"weight": 20
+		},
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Leadership in the world today",
+			"weight": 45
+		}
+	]
+}

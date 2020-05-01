@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PEARL Packages",
+			"weight": 45
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 25
+		},
+		{
+			"name": "Digital Story",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written work",
+			"weight": 35
+		},
+		{
+			"name": "Oral work",
+			"weight": 15
+		},
+		{
+			"name": "Written examination ",
+			"weight": 35
+		},
+		{
+			"name": "Presentation and discussion in Russian",
+			"weight": 15
+		}
+	]
+}

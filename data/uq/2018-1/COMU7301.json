@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PR blog (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Reflection about PR Theory & Practice (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Situation Analysis & Research Proposal(group task)",
+			"weight": 10
+		},
+		{
+			"name": "Research Findings (group task)",
+			"weight": 20
+		},
+		{
+			"name": "PR Campaign Plan Showcase (group task)",
+			"weight": 30
+		}
+	]
+}

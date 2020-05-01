@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester theory exam",
+			"weight": 25
+		},
+		{
+			"name": "Written assignment",
+			"weight": 17
+		},
+		{
+			"name": "Information sheet meta-learning task",
+			"weight": 3
+		},
+		{
+			"name": "End of semester theory exam",
+			"weight": 55
+		}
+	]
+}

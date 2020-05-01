@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports (x5)",
+			"weight": 30
+		},
+		{
+			"name": "Online Quizzes (x4)",
+			"weight": 10
+		},
+		{
+			"name": "In-class Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

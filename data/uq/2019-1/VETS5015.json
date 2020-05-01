@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Grand Rounds",
+			"weight": 10
+		},
+		{
+			"name": "Week 1 Reflection and clinic assessment",
+			"weight": 10
+		},
+		{
+			"name": "Week 4 Reflection and clinic assessment",
+			"weight": 40
+		},
+		{
+			"name": "Week 3 Reflection and clinic assessment",
+			"weight": 10
+		},
+		{
+			"name": "Week 2 Reflection and clinic assessment",
+			"weight": 10
+		},
+		{
+			"name": "Equine VIVA",
+			"weight": 20
+		}
+	]
+}

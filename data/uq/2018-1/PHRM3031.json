@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback quizzes (3)",
+			"weight": 15
+		},
+		{
+			"name": "Critical Appraisal of an RCT",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

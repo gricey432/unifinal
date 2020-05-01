@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reservoir simulation excercise and report",
+			"weight": 20
+		},
+		{
+			"name": "Reservoir Simulation Examination",
+			"weight": 80
+		}
+	]
+}

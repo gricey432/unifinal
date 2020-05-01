@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Parliamentary report",
+			"weight": 20
+		},
+		{
+			"name": "Agency briefing ",
+			"weight": 30
+		},
+		{
+			"name": "A Case for Policy Change ",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Minitab Tutorial Exercises",
+			"weight": 24
+		},
+		{
+			"name": "In Lecture Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Out of class assignments",
+			"weight": 6
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

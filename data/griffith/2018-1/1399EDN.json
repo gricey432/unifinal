@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on education & Society: Part A",
+			"weight": 10
+		},
+		{
+			"name": "Reflection on Education and Society: Part B",
+			"weight": 40
+		},
+		{
+			"name": "Personal Educational Philosophy",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Regional Ecosystems",
+			"weight": 30
+		},
+		{
+			"name": "Plant collection and key to collection",
+			"weight": 40
+		},
+		{
+			"name": "Identification Exercise",
+			"weight": 30
+		}
+	]
+}

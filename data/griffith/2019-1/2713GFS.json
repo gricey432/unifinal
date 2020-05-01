@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Invented Film Scenario of students own choice",
+			"weight": 50
+		},
+		{
+			"name": "The Television Commercial",
+			"weight": 50
+		}
+	]
+}

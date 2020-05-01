@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly interpreting assignments",
+			"weight": 20
+		},
+		{
+			"name": "Class interpreting",
+			"weight": 20
+		},
+		{
+			"name": "Mock conference",
+			"weight": 10
+		},
+		{
+			"name": "Comprehensive interpreting practice",
+			"weight": 50
+		}
+	]
+}

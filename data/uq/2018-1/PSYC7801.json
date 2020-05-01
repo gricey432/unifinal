@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of One Interview (All Students) ",
+			"weight": "Not Weighted Alone"
+		},
+		{
+			"name": "The Scientist and the Practitioner in Therapy",
+			"weight": 30
+		},
+		{
+			"name": "Submission of Second DVD and Commentary ",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Sheets and Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Competency Interview",
+			"weight": 15
+		}
+	]
+}

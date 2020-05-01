@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading and analysis assignment",
+			"weight": 30
+		},
+		{
+			"name": "Global Digital Cultures Audiovisual Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Digital Cultures Essay",
+			"weight": 35
+		}
+	]
+}

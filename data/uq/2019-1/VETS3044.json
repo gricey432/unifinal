@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "RCVS Online VN Clinical Placement Tool",
+			"weight": 5
+		},
+		{
+			"name": "Journal Article and Quiz 1 & 2",
+			"weight": 5
+		},
+		{
+			"name": "Consultation Workshop & Interview",
+			"weight": 20
+		},
+		{
+			"name": "VETS3044 Theory Exam",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal based on Clinical Placement ",
+			"weight": 20
+		},
+		{
+			"name": "Clinical/Industry Placement & ePortfolio Entries",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

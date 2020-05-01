@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Test",
+			"weight": 1
+		},
+		{
+			"name": "Dictation",
+			"weight": 4
+		},
+		{
+			"name": "Persuasive speech",
+			"weight": 48
+		},
+		{
+			"name": "Debate & Question-and-answer",
+			"weight": 47
+		}
+	]
+}

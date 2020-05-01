@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 5.  Verbal presentation",
+			"weight": 10
+		},
+		{
+			"name": "Peer assessment of group work",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Assignment 1.  OCD",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2.  SRS",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3. SRR",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4.  SDD",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design Critique",
+			"weight": 10
+		},
+		{
+			"name": "Project Brief",
+			"weight": 30
+		},
+		{
+			"name": "Design Portfolio",
+			"weight": 60
+		}
+	]
+}

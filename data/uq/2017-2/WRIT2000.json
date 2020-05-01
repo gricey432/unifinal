@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Editing ",
+			"weight": 20
+		},
+		{
+			"name": "Style Guide Entry",
+			"weight": 20
+		},
+		{
+			"name": "Final Editing Exam",
+			"weight": 40
+		}
+	]
+}

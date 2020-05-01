@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL-SUMMATIVE",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Contribution to CBL-FORMATIVE",
+			"weight": "Formative"
+		},
+		{
+			"name": "Weekly online quizzes-formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Scoping Review Part 3",
+			"weight": 20
+		},
+		{
+			"name": "Translational Task Oral Presentation",
+			"weight": 10
+		}
+	]
+}

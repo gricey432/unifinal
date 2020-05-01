@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project (applied)",
+			"weight": 50
+		},
+		{
+			"name": "Report &amp; Video",
+			"weight": 20
+		},
+		{
+			"name": "Individual Demonstrations",
+			"weight": 30
+		}
+	]
+}

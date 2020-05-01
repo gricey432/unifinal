@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz during  tutorial sessions - weekly",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Component (Microbiology)",
+			"weight": 7
+		},
+		{
+			"name": "Laboratory Component (Biochemistry)",
+			"weight": 7
+		},
+		{
+			"name": "Mid-Semester Exam ",
+			"weight": 15
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

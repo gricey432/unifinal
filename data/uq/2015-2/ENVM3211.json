@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Research Report",
+			"weight": 40
+		},
+		{
+			"name": "Self & Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Case Analysis Presentation & Workshop Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Business Analysis Report ",
+			"weight": 35
+		}
+	]
+}

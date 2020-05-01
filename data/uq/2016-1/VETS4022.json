@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VETS4022 practical classes (CPW)",
+			"weight": 5
+		},
+		{
+			"name": "VETS4022 End of Semester 1 Examination ",
+			"weight": 45
+		},
+		{
+			"name": "VETS4022 Final Examination (End of Year)",
+			"weight": 50
+		}
+	]
+}

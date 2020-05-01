@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Aged Care Visit Field Notes",
+			"weight": 5
+		},
+		{
+			"name": "Report and Education Handout ",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

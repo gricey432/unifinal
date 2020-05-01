@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 6
+		},
+		{
+			"name": "Written 1",
+			"weight": 10
+		},
+		{
+			"name": "Written 2 + List1",
+			"weight": 16
+		},
+		{
+			"name": "Mid Semester Oral",
+			"weight": 12
+		},
+		{
+			"name": "Written 3 + Reading Comprehension ",
+			"weight": 14
+		},
+		{
+			"name": "Written 4 + List 2 ",
+			"weight": 18
+		},
+		{
+			"name": "Individual Oral Interview",
+			"weight": 24
+		}
+	]
+}

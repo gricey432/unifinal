@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to Workshops",
+			"weight": 10
+		},
+		{
+			"name": "1. Evaluation of Lesson Design and Delivery",
+			"weight": 30
+		},
+		{
+			"name": "2. Curriculum Planning",
+			"weight": 30
+		},
+		{
+			"name": "3. Commentary on Literature",
+			"weight": 30
+		}
+	]
+}

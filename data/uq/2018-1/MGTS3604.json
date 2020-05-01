@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Topic evaluations   ",
+			"weight": 20
+		},
+		{
+			"name": "Team HRD case analysis",
+			"weight": 10
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 40
+		}
+	]
+}

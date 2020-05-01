@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lines: character and gesture",
+			"weight": 15
+		},
+		{
+			"name": "Settings & Scenes",
+			"weight": 20
+		},
+		{
+			"name": "Digital Transfer",
+			"weight": 15
+		},
+		{
+			"name": "Elements & Spaces",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes (x5)",
+			"weight": 10
+		},
+		{
+			"name": "Participation & engagement in practical sessions",
+			"weight": 0
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Report writing preparation: Database/references",
+			"weight": 10
+		},
+		{
+			"name": "Consultation Video Assessment",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester online non-invigilated exam",
+			"weight": 60
+		}
+	]
+}

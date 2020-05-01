@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Proposal and Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final thesis",
+			"weight": 70
+		}
+	]
+}

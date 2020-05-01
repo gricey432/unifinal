@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection Part One ",
+			"weight": 40
+		},
+		{
+			"name": "Reflection Part Two ",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Portfolio review",
+			"weight": 0
+		},
+		{
+			"name": "Summative Portfolio review",
+			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		},
+		{
+			"name": "Mini-Clinical Evaluation Exercise (Mini-CEX)",
+			"weight": "Submit prescribed number per semester to avoid \"Late Notice\""
+		},
+		{
+			"name": "Direct Observation of Procedural skills (DOPS)",
+			"weight": "Submit prescribed number per semester to avoid \"Late Notice\""
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Contributes to Summative WLP Review"
+		}
+	]
+}

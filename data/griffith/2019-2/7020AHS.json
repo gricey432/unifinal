@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Differential Diagnosis Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Written examination",
+			"weight": 20
+		},
+		{
+			"name": "Practical examination",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Unit 3",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Course summary handin",
+			"weight": 20
+		},
+		{
+			"name": "Home Work Assignments",
+			"weight": 40
+		}
+	]
+}

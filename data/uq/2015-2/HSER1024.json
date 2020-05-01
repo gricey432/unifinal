@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective analysis of demonstrated skills ",
+			"weight": 35
+		},
+		{
+			"name": "Participation and attendance",
+			"weight": 15
+		},
+		{
+			"name": "Interview, client assessment and essay",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study One",
+			"weight": 2
+		},
+		{
+			"name": "Pinjarra Soil Sample Survey",
+			"weight": 10
+		},
+		{
+			"name": "Pinjarra Soil Characteristics: Soil pH and Eh",
+			"weight": 7
+		},
+		{
+			"name": "Mt Coot-tha Stream Sediment Programme",
+			"weight": 10
+		},
+		{
+			"name": "Mt Coot-tha as a Nature Reserve",
+			"weight": 10
+		},
+		{
+			"name": "Case Study Two",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

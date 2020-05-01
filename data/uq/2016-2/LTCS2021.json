@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "participation in class discussion",
+			"weight": 10
+		},
+		{
+			"name": "Explication/commentary (1500-2000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Major assignment (2500-3000 words)",
+			"weight": 45
+		}
+	]
+}

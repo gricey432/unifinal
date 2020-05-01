@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "5 tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Safety induction",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "4 practicals",
+			"weight": 30
+		},
+		{
+			"name": "Plant Design Oral Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Plant Design Written Report",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

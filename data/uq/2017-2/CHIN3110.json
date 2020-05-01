@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation",
+			"weight": 10
+		},
+		{
+			"name": "Performance",
+			"weight": 10
+		},
+		{
+			"name": "Radio project",
+			"weight": 25
+		},
+		{
+			"name": "Performance",
+			"weight": 20
+		},
+		{
+			"name": "Debate & Question-and-answer",
+			"weight": 35
+		}
+	]
+}

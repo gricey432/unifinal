@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Report 2",
+			"weight": 5
+		},
+		{
+			"name": "Report 3",
+			"weight": 5
+		},
+		{
+			"name": "Report-1",
+			"weight": 10
+		},
+		{
+			"name": "Report 4",
+			"weight": 5
+		},
+		{
+			"name": "Report 5",
+			"weight": 5
+		},
+		{
+			"name": "Report-2",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

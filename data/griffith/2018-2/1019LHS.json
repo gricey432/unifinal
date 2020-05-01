@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cumulative Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Academic essay",
+			"weight": 35
+		}
+	]
+}

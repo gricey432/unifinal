@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Risk Assessments to be read and consented to.",
+			"weight": "Course Pass/Fail"
+		},
+		{
+			"name": "Team Code of Ethics and Code of Conduct",
+			"weight": "Course Pass/Fail"
+		},
+		{
+			"name": "Preliminary Design Report",
+			"weight": 5
+		},
+		{
+			"name": "Client Review Meeting",
+			"weight": 7
+		},
+		{
+			"name": "Team Progress 1",
+			"weight": 9
+		},
+		{
+			"name": "Team Progress 2",
+			"weight": 9
+		},
+		{
+			"name": "Product Mark",
+			"weight": 65
+		},
+		{
+			"name": "Final Report",
+			"weight": 5
+		}
+	]
+}

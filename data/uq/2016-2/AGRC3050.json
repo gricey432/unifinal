@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Developing Country Profile",
+			"weight": 10
+		},
+		{
+			"name": "In Class Exam ",
+			"weight": 15
+		},
+		{
+			"name": "Agricultural Development in Thailand",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

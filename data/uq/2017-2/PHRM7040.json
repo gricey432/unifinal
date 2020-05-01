@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Interprof. Communication: Online (Video Analysis)",
+			"weight": 10
+		},
+		{
+			"name": "Interprof. Communication: Face-to-Face",
+			"weight": 10
+		},
+		{
+			"name": "Peer Feedback on Group Contributions",
+			"weight": 1
+		},
+		{
+			"name": "What does it mean to be a great pharmacist?",
+			"weight": 15
+		},
+		{
+			"name": "Response to Article",
+			"weight": 25
+		},
+		{
+			"name": "Reflecting on experience of educational visit",
+			"weight": 20
+		},
+		{
+			"name": "Individual contributions green discussion boards",
+			"weight": 9
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": 8
+		},
+		{
+			"name": "\"Satisfactory\" attendance at online tutorials",
+			"weight": 0
+		},
+		{
+			"name": "Modules 1-3 orange blogs",
+			"weight": 12
+		}
+	]
+}

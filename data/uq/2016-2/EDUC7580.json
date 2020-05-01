@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Workshop Activities",
+			"weight": 20
+		},
+		{
+			"name": "Collaborative Task & Indiv Critical Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Online Unit Planning Task and Viva",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "First Analytical Exercise",
+			"weight": 25
+		},
+		{
+			"name": "Second Analytical Exercise / Class Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Thesis Preparation",
+			"weight": 50
+		}
+	]
+}

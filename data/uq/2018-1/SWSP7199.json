@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Court Project",
+			"weight": 20
+		},
+		{
+			"name": "Advocacy Plan",
+			"weight": 30
+		},
+		{
+			"name": "Policy essay",
+			"weight": 50
+		}
+	]
+}

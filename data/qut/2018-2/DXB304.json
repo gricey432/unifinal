@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Storyboard and proposal",
+			"weight": 40
+		},
+		{
+			"name": "Interactive fiction project",
+			"weight": 60
+		}
+	]
+}

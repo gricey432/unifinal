@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress update presentation",
+			"weight": 20
+		},
+		{
+			"name": "System engineering principles and application",
+			"weight": 40
+		},
+		{
+			"name": "Build Quality & Performance",
+			"weight": 40
+		}
+	]
+}

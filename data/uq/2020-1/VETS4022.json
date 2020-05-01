@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VETS4022 quizzes",
+			"weight": 20
+		},
+		{
+			"name": "VETS4022 End of Semester 1 Examination",
+			"weight": 40
+		},
+		{
+			"name": "VETS4022 End of Semester 2 Examination",
+			"weight": 40
+		}
+	]
+}

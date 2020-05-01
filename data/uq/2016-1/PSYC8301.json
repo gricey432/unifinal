@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Observation of clinical interaction - minimum of 3",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Clinical, supervision and other related hours",
+			"weight": "This is required throughout placement"
+		},
+		{
+			"name": "Case presentation",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Mid-Semester Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Mid-Semester Checklist",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Multi Station Assessment Task (MSAT)",
+			"weight": "Pass/Recycle/Fail"
+		},
+		{
+			"name": "End Semester Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "T1 Form",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 2 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 3 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 3 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 4 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 4 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 5 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 5 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 6 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 6 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 7 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 7 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Reflective Paper #1 - Mirror Neurons",
+			"weight": 14
+		},
+		{
+			"name": "Week 8 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 8 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 9 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 9 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 10 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 10 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 11 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 11 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 12 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 12 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Week 13 Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Workshop 13 Problem Set",
+			"weight": 2
+		},
+		{
+			"name": "Reflective Paper #2 - Testosterone Rex",
+			"weight": 20
+		}
+	]
+}

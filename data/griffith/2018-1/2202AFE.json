@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Risk management strategy",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

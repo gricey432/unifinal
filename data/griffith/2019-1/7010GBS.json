@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 35
+		},
+		{
+			"name": "Research Methodology and Data essay",
+			"weight": 35
+		},
+		{
+			"name": "Research proposal",
+			"weight": 30
+		}
+	]
+}

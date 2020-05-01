@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Education Project",
+			"weight": 50
+		},
+		{
+			"name": "Seminar Attendance and Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Practice Group Seminars ",
+			"weight": 50
+		}
+	]
+}

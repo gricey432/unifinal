@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Work: Short Story",
+			"weight": 30
+		},
+		{
+			"name": "Creative Work: Advanced Short",
+			"weight": 40
+		},
+		{
+			"name": "Peer Review",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Motion Studies",
+			"weight": 40
+		},
+		{
+			"name": "Motion Design Project",
+			"weight": 60
+		}
+	]
+}

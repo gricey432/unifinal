@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop assessment",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

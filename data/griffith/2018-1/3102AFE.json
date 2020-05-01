@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Using Excel as an Audit tool ",
+			"weight": 20
+		},
+		{
+			"name": "Audit analytics and Audit testing",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Songwriting and/or cover versions",
+			"weight": 50
+		},
+		{
+			"name": "Comment on student and public songs",
+			"weight": 30
+		},
+		{
+			"name": "Song analysis",
+			"weight": 20
+		}
+	]
+}

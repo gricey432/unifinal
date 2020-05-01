@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 10
+		},
+		{
+			"name": "Evidence-based practice and clinic competency",
+			"weight": 40
+		},
+		{
+			"name": "Examination of practical skills and prescription",
+			"weight": 25
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 25
+		}
+	]
+}

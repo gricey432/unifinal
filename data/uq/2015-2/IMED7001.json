@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participate on Blackboard (BLOG) Group Discussion",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester Assignment",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

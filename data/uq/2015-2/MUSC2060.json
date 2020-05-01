@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation & Repertoire",
+			"weight": 20
+		},
+		{
+			"name": "Individual performance",
+			"weight": 15
+		},
+		{
+			"name": "Ensemble Performance",
+			"weight": 15
+		},
+		{
+			"name": "Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Chorale Harmonisation",
+			"weight": 30
+		}
+	]
+}

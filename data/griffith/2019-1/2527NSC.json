@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning journal",
+			"weight": 20
+		},
+		{
+			"name": "Critical Anaysis",
+			"weight": 40
+		},
+		{
+			"name": "Research design",
+			"weight": 40
+		}
+	]
+}

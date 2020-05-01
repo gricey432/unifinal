@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Leadership",
+			"weight": 10
+		},
+		{
+			"name": "SDG Value Chain ",
+			"weight": 30
+		},
+		{
+			"name": "Leadership Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Strategies for Change ",
+			"weight": 50
+		}
+	]
+}

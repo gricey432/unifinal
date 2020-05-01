@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching Learning Cycle (APST: 1,2,3,5)",
+			"weight": 35
+		},
+		{
+			"name": "Enacting Comprehension Strategies (APST: 1-7)",
+			"weight": 30
+		},
+		{
+			"name": "Project Plan (APST: 1,2,3,4,5)",
+			"weight": 35
+		}
+	]
+}

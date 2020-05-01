@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Two-weekly short on-line quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Coastal Marine Environments",
+			"weight": 15
+		},
+		{
+			"name": "Coral Reef Environments",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paper Critique (Semester 1)",
+			"weight": 15
+		},
+		{
+			"name": "Research Proposal (Semester 1)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (Semester 1)",
+			"weight": 30
+		},
+		{
+			"name": "Workshop reports (Semester 2)",
+			"weight": 30
+		}
+	]
+}

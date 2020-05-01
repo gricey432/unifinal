@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirements at tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Workbook A1",
+			"weight": 40
+		},
+		{
+			"name": "A2",
+			"weight": 20
+		},
+		{
+			"name": "Group oral presentations A4",
+			"weight": 20
+		},
+		{
+			"name": "A3",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Formative Feedback",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 1: [My]Home Performance & Upgrade",
+			"weight": 35
+		},
+		{
+			"name": "Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: [Prefab]Home Design & Performance",
+			"weight": 55
+		}
+	]
+}

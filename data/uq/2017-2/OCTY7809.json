@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Activity Analysis ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Library tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Standardised Patient Interviews - Part 1 & 2",
+			"weight": 30
+		},
+		{
+			"name": "Intervention Planning Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

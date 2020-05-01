@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection 1",
+			"weight": 5
+		},
+		{
+			"name": "Annotated Bibliography and Essay Plan",
+			"weight": 20
+		},
+		{
+			"name": "Critical Reflection 2",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Critical Reflection 3",
+			"weight": 5
+		},
+		{
+			"name": "Argumentative Essay",
+			"weight": 45
+		}
+	]
+}

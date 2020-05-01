@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tour Participation and Brief/Debrief",
+			"weight": 20
+		},
+		{
+			"name": "Pre-trip research & expectations; Post-reflections",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

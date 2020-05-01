@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Quizzes",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Blog",
+			"weight": 25
+		},
+		{
+			"name": "Airline Simulation",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "2 x 5 minute Podcasts",
+			"weight": 40
+		},
+		{
+			"name": "Sociological investigation and position paper",
+			"weight": 60
+		}
+	]
+}

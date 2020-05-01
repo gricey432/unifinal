@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Problem-based tutorial quiz",
+			"weight": 45
+		},
+		{
+			"name": "Critical analysis of media coverage of mob justice",
+			"weight": 45
+		}
+	]
+}

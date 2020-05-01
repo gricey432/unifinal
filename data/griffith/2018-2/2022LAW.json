@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line multiple choice quiz",
+			"weight": 10
+		},
+		{
+			"name": "Presentation Assignment (Group or Individual)",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam: Complex Hypothetical",
+			"weight": 40
+		}
+	]
+}

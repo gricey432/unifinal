@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Placement timesheet (minimum 60 hrs of placement)",
+			"weight": "Pass/Fail(must be signed by placement supervisor)"
+		},
+		{
+			"name": "Reflective journal",
+			"weight": 20
+		},
+		{
+			"name": "Workshop participation",
+			"weight": "Pass/Fail (attendance is compulsory to pass the course)"
+		},
+		{
+			"name": "Pre-placement portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Mock Interview",
+			"weight": 30
+		},
+		{
+			"name": "Work placement evaluation",
+			"weight": "Pass/Fail (Verified by placement supervisor)"
+		}
+	]
+}

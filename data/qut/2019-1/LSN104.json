@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomical and medical termino",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory",
+			"weight": 30
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

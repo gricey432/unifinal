@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Plan",
+			"weight": 30
+		},
+		{
+			"name": "Workshop implementation and participation ",
+			"weight": 45
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 25
+		}
+	]
+}

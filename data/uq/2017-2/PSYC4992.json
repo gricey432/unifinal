@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation on a selected topic",
+			"weight": 25
+		},
+		{
+			"name": "Session Chair role",
+			"weight": 15
+		},
+		{
+			"name": "Engaged audience role",
+			"weight": 25
+		},
+		{
+			"name": "Structured paper on selected topic",
+			"weight": 35
+		}
+	]
+}

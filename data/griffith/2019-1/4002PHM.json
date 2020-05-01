@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "End of Module Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Viva",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

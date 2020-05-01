@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Brand Strategy Audit",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

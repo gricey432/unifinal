@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal understanding of crime commission",
+			"weight": 20
+		},
+		{
+			"name": "On-line Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Professional understanding of crime commission",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assessment for Placement #1",
+			"weight": 35
+		},
+		{
+			"name": "Written Assessment for Placement #2",
+			"weight": 35
+		},
+		{
+			"name": "Evidence-Practice Gap Assignment",
+			"weight": 30
+		}
+	]
+}

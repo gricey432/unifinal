@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial hand-in",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (3500 words)",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Exam  (2400 words)",
+			"weight": 40
+		}
+	]
+}

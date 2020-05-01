@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HSK T1 at W1 and HSK T2 at W13 lecture time",
+			"weight": 5
+		},
+		{
+			"name": "Participation at Tutorial",
+			"weight": 5
+		},
+		{
+			"name": "Weekly Dictation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly web diary",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Tests",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

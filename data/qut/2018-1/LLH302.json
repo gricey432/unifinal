@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Memorandum",
+			"weight": 20
+		},
+		{
+			"name": "Critique",
+			"weight": 40
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 40
+		}
+	]
+}

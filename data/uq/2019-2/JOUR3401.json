@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Story Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Draft & Critique",
+			"weight": 30
+		},
+		{
+			"name": "Journalism Project",
+			"weight": 50
+		}
+	]
+}

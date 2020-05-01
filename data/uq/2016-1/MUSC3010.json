@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Listening Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation, Knowledge and Attendance",
+			"weight": 15
+		},
+		{
+			"name": "Creative Production Projects",
+			"weight": 50
+		},
+		{
+			"name": "Major Creative Production Project Presentations",
+			"weight": 25
+		}
+	]
+}

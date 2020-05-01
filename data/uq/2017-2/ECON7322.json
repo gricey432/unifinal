@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Linear & Integer Programming",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - Data Envelopment Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 - Transportation and Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4 - Project Scheduling and Control",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 5 - Decision Theory and Games",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 6 - Inventory Models",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 7 - Queueing Theory",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 65
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "OHS Management Approaches",
+			"weight": 30
+		},
+		{
+			"name": "OHS Management System Audit Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

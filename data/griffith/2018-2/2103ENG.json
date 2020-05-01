@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team design report ",
+			"weight": 30
+		},
+		{
+			"name": "Midterm exam (open book)",
+			"weight": 20
+		},
+		{
+			"name": "Final exam (Open Book with Restrictions)",
+			"weight": 50
+		}
+	]
+}

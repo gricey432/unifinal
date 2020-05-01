@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Constituents and Elastic behaviour",
+			"weight": 10
+		},
+		{
+			"name": "Project Poster on Manufacturing of Composite Part",
+			"weight": 10
+		},
+		{
+			"name": "Report on Ultrasonic NDT Practical",
+			"weight": 10
+		},
+		{
+			"name": "Manufacturing and Design",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

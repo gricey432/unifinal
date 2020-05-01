@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Information slides for parents",
+			"weight": 30
+		},
+		{
+			"name": "Considering the lived experience",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

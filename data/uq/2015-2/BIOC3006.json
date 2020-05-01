@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lipid oxidation",
+			"weight": 10
+		},
+		{
+			"name": "Metabolic pathways",
+			"weight": 10
+		},
+		{
+			"name": "Purine Nucleotide Degradation",
+			"weight": 10
+		},
+		{
+			"name": "METABOLIC DISEASES: AETIOLOGY AND EPIDEMIOLOGY",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

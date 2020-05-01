@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Marycrest Fieldwork Report Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Student tutorial presentation",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam ",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 35
+		}
+	]
+}

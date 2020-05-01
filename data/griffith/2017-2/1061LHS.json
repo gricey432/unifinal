@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 40
+		}
+	]
+}

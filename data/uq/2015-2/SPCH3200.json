@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Children with Special Needs Module Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Attitudes to Disability Blackboard Task",
+			"weight": 25
+		},
+		{
+			"name": "Key Word Signing Workshops",
+			"weight": "COMPULSORY ATTENDANCE"
+		},
+		{
+			"name": "Class Participation",
+			"weight": 5
+		},
+		{
+			"name": "Description and Management of a Child ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Set work Hand-ups & MCQ's",
+			"weight": 22
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Valuation Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - Closed Book",
+			"weight": 48
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "A4 Project",
+			"weight": 1
+		},
+		{
+			"name": "Workshops",
+			"weight": 9
+		},
+		{
+			"name": "Online Survey",
+			"weight": 1
+		},
+		{
+			"name": "Paper review",
+			"weight": 12
+		},
+		{
+			"name": "Statistical Research Project",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

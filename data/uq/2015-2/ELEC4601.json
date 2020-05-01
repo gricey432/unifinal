@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "X-ray Imaging and Computed Tomography",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester Exam 1",
+			"weight": 25
+		},
+		{
+			"name": "Applications of Medical Imaging ",
+			"weight": 25
+		},
+		{
+			"name": "Examination",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Heat Transfer",
+			"weight": 20
+		},
+		{
+			"name": "Electron Microscopy",
+			"weight": 12
+		},
+		{
+			"name": "Electron Microscopy",
+			"weight": 8
+		},
+		{
+			"name": "Raman Spectral Analysis",
+			"weight": 20
+		},
+		{
+			"name": "3D scanning",
+			"weight": 20
+		},
+		{
+			"name": "Microcontroller for signal processing",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Component",
+			"weight": 20
+		},
+		{
+			"name": "Assignment Questions based on Tutorial Work",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Long Answer Questions Based on Tutorial Work",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

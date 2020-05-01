@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Facility Management Report",
+			"weight": 10
+		},
+		{
+			"name": "Equine Farm Strategy Plan",
+			"weight": 25
+		},
+		{
+			"name": "Equine Unit Duty",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		},
+		{
+			"name": "ANIM1006 Online Exam",
+			"weight": 20
+		}
+	]
+}

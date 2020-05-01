@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 7
+		},
+		{
+			"name": "Mid-semester Essay (1500 words)",
+			"weight": 37
+		},
+		{
+			"name": "Second Essay (2500 words)",
+			"weight": 56
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Epidemiology assignment",
+			"weight": 20
+		},
+		{
+			"name": "Practical skills competency checklist",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Disease frequency tutorial worksheet",
+			"weight": 5
+		},
+		{
+			"name": "End-of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "TUTORIAL PRESENTATION AND PARTICIPATION (30%)",
+			"weight": "Presentation 20"
+		},
+		{
+			"name": "WIKIPEDIA ARTICLE AND SHORT PAPER (30%)",
+			"weight": " Wikipedia Article 20"
+		},
+		{
+			"name": "WRITTEN PAPER (40%)",
+			"weight": 40
+		},
+		{
+			"name": "CLASS QUIZZES (30%)",
+			"weight": 30
+		}
+	]
+}

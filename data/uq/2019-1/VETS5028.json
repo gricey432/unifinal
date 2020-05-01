@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Anaesthesia/Analgesia Performance Assessment",
+			"weight": 50
+		},
+		{
+			"name": "Diagnostic Imaging Clinical Performance Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Emergency and Critical Care Performance Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Skills List",
+			"weight": "P/F"
+		}
+	]
+}

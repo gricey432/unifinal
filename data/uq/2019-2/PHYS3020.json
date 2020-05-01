@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weakly reading quizzes (away from class)",
+			"weight": "10 points (formative)"
+		},
+		{
+			"name": "Laboratory written report (x 2)",
+			"weight": 20
+		},
+		{
+			"name": "Problem solving",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Test 1",
+			"weight": 12
+		},
+		{
+			"name": "Mid Semester Test 2",
+			"weight": 12
+		},
+		{
+			"name": "Final exam: two-hour, closed-book exam",
+			"weight": 40
+		}
+	]
+}

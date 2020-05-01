@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Laboratory Performance",
+			"weight": 20
+		},
+		{
+			"name": "Report assessment",
+			"weight": 80
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "All About Water",
+			"weight": 15
+		},
+		{
+			"name": "Report on Field Trip to Brisbane River Catchment",
+			"weight": 15
+		},
+		{
+			"name": "Water Storage and Treatment",
+			"weight": 20
+		},
+		{
+			"name": "Group PBL #1: Critique a Project",
+			"weight": 50
+		}
+	]
+}

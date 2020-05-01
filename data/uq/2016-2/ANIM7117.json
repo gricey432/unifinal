@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluation of glucose and insulin dynamics",
+			"weight": 20
+		},
+		{
+			"name": "Diet formulation",
+			"weight": 10
+		},
+		{
+			"name": "Pasture analysis",
+			"weight": 20
+		},
+		{
+			"name": "Lecture on Nutrition",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

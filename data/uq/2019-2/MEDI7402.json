@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "WBA#3 Examination Mini-CEX (SHORT CASE)",
+			"weight": 10
+		},
+		{
+			"name": "WBA#1 Examination Mini-CEX (NEONATAL)",
+			"weight": 10
+		},
+		{
+			"name": "WBA#2 MARKED ADMISSION AND PRESENTATION",
+			"weight": 10
+		},
+		{
+			"name": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+			"weight": 70
+		},
+		{
+			"name": "Clinical Participation Assessment - Paediatrics",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		}
+	]
+}

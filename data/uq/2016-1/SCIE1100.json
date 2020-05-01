@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture reflection",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": 12
+		},
+		{
+			"name": "In-class clicker questions",
+			"weight": 3
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Computer program",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 48
+		}
+	]
+}

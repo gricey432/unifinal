@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Assignments (x3)",
+			"weight": 30
+		},
+		{
+			"name": "On-line Quizzes (x6)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

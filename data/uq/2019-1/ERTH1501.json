@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly prac assignments",
+			"weight": 25
+		},
+		{
+			"name": "Online mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Final practical exam",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly ",
+			"weight": 10
+		},
+		{
+			"name": "Weekly homework",
+			"weight": 5
+		},
+		{
+			"name": "In-class collaborative writing",
+			"weight": 20
+		},
+		{
+			"name": "Mid-term exam",
+			"weight": 25
+		},
+		{
+			"name": "Final exam ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SPCH3107 Clinical Practice ",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "SPCH3107 Fluency Disorders",
+			"weight": 40
+		},
+		{
+			"name": "Therapy assignment with peer and self-reflection",
+			"weight": 20
+		},
+		{
+			"name": "SPCH3107 Fluency Disorders",
+			"weight": 40
+		}
+	]
+}

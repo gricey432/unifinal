@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 1. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 2. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 3. Reaction /Phase Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Heat and Mass Balance",
+			"weight": 6
+		},
+		{
+			"name": "Week 7. Minor elements,gas/condensed phases",
+			"weight": 2
+		},
+		{
+			"name": "Cu smelting process design report ",
+			"weight": 10
+		},
+		{
+			"name": "Cold physical model & Gas solid reaction report",
+			"weight": 5
+		},
+		{
+			"name": "Week 10. Kinetics, reaction mechanisms",
+			"weight": 2
+		},
+		{
+			"name": "Week 11. Steels transformations & microstructures",
+			"weight": 2
+		},
+		{
+			"name": "Week 12. Pb/Zn smelting",
+			"weight": 2
+		},
+		{
+			"name": "Review of Pyrometallurgy of Metal/Alloy report ",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

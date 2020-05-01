@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation, Oral Presentations and Survey",
+			"weight": 20
+		},
+		{
+			"name": "Collected Readings",
+			"weight": 30
+		},
+		{
+			"name": "Literature Reviews",
+			"weight": 50
+		}
+	]
+}

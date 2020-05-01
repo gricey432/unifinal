@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 3: Tutorial Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 1: Epidemiology of an NCD",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Levels of Prevention for an NCD",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

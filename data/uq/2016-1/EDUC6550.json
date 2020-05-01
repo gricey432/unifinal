@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching a Concept",
+			"weight": 30
+		},
+		{
+			"name": "Unit of Work in Science",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory-based Lesson Plan",
+			"weight": 30
+		}
+	]
+}

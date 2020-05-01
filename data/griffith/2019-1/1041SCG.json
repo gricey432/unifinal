@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quiz (12x)",
+			"weight": 12
+		},
+		{
+			"name": "In-Lab Assessment (3x)",
+			"weight": 6
+		},
+		{
+			"name": "Lab report #1",
+			"weight": 10
+		},
+		{
+			"name": "3x Progress Exams",
+			"weight": 60
+		},
+		{
+			"name": "Lab report #2",
+			"weight": 12
+		}
+	]
+}

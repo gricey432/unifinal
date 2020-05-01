@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, Participation and Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Regular online quizzes for script and vocabulary",
+			"weight": 10
+		},
+		{
+			"name": "Test 1 (Week 4)",
+			"weight": 15
+		},
+		{
+			"name": "Test 2 (Week 10)",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentations (Week 12)",
+			"weight": 15
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 30
+		}
+	]
+}

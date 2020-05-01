@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation of a Project Proposal",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "Written Report on the Research Project",
+			"weight": 100
+		}
+	]
+}

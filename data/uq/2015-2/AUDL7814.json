@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Comprehensive Audiological Rehabilitation ",
+			"weight": 25
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation ",
+			"weight": 25
+		},
+		{
+			"name": "Practical Examination in Rehabilitative Audiology",
+			"weight": 50
+		}
+	]
+}

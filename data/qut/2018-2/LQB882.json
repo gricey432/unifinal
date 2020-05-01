@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Drugs of Use and Abuse",
+			"weight": 35
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 35
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 30
+		}
+	]
+}

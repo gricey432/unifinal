@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Practice",
+			"weight": 10
+		},
+		{
+			"name": "A Clinical Tool",
+			"weight": 20
+		},
+		{
+			"name": "Participation in group discussion",
+			"weight": 18
+		},
+		{
+			"name": "Module Activities",
+			"weight": 12
+		},
+		{
+			"name": "Analysis of Motivational Interviewing Video",
+			"weight": 20
+		},
+		{
+			"name": "Medication Incident Analysis",
+			"weight": 20
+		}
+	]
+}

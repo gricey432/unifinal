@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multispecialty Conditions Project",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

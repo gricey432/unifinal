@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 6
+		},
+		{
+			"name": "Ripple lecture exercises",
+			"weight": 16
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 38
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		}
+	]
+}

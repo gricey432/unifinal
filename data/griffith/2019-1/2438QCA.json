@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 20
+		},
+		{
+			"name": "Exhibition Peer Review",
+			"weight": 20
+		},
+		{
+			"name": "Exhibition",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

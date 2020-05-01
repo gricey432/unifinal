@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Team Work, Negotiation, Participation in Planning",
+			"weight": 25
+		},
+		{
+			"name": "Team Field Trip Issue Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Team Field Trip Issue Report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

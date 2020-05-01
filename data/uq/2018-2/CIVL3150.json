@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental Systems Modelling",
+			"weight": 40
+		},
+		{
+			"name": "Final project demonstration",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

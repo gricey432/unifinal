@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial group participation",
+			"weight": 10
+		},
+		{
+			"name": "Looking for gender and sexuality in art",
+			"weight": 10
+		},
+		{
+			"name": "Looking for gender and sexuality in the media",
+			"weight": 15
+		},
+		{
+			"name": "Contextualising your results",
+			"weight": 30
+		},
+		{
+			"name": "Multiple choice and short answer exam",
+			"weight": 35
+		}
+	]
+}

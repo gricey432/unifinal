@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomical Dialogue",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Skills",
+			"weight": 35
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Blackboard fora",
+			"weight": 5
+		},
+		{
+			"name": "Mél amical",
+			"weight": 5
+		},
+		{
+			"name": "Mél amical correction + lettre formelle",
+			"weight": 15
+		},
+		{
+			"name": "Message audio(visuel) ",
+			"weight": 20
+		},
+		{
+			"name": "Plan pour le texte autobiographique",
+			"weight": 10
+		},
+		{
+			"name": "\"Au revoir les enfants\" and récit autobiographique",
+			"weight": 25
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		}
+	]
+}

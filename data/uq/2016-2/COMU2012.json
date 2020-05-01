@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial weekly quiz, based on readings",
+			"weight": 20
+		},
+		{
+			"name": "Campaign pitch",
+			"weight": 20
+		},
+		{
+			"name": "Campaign Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Individual campaign portfolio",
+			"weight": 30
+		}
+	]
+}

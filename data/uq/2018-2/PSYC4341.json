@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on a Compassion Topic",
+			"weight": 35
+		},
+		{
+			"name": "Session Chair",
+			"weight": 15
+		},
+		{
+			"name": "Class attendance and participation in discussion",
+			"weight": 10
+		},
+		{
+			"name": "Essay Paper on Compassion Topic",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly writing task (email submission)",
+			"weight": 10
+		},
+		{
+			"name": "Essay 1",
+			"weight": 45
+		},
+		{
+			"name": "Research Essay",
+			"weight": 45
+		}
+	]
+}

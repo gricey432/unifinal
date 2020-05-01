@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on readings and lecture materials",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Assignment 1 - Risk analysis",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Incident investigation",
+			"weight": 20
+		},
+		{
+			"name": "Interview on case studies and assignments covered",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3: Assessing a big risk challenge",
+			"weight": 20
+		},
+		{
+			"name": "Interview on course content",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

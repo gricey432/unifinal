@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Review Quiz",
+			"weight": 2
+		},
+		{
+			"name": "Diagnostic writing test",
+			"weight": 1
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 57
+		}
+	]
+}

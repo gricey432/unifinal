@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1",
+			"weight": 1
+		},
+		{
+			"name": "Assignment Aligned to Practical 2",
+			"weight": 6
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Assignment Aligned to Practical 3",
+			"weight": 6
+		},
+		{
+			"name": "Assignment Aligned to Practical 4",
+			"weight": 6
+		},
+		{
+			"name": "Assignment Aligned to Practical 5",
+			"weight": 11
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

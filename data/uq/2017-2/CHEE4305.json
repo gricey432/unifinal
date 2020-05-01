@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Scoping Report",
+			"weight": 5
+		},
+		{
+			"name": "Media Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Literature review on team topic",
+			"weight": 35
+		},
+		{
+			"name": "IP report",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (oral)",
+			"weight": 40
+		},
+		{
+			"name": "Examination (practical)",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

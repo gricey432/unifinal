@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Preparation and Participation ",
+			"weight": 20
+		},
+		{
+			"name": "Presentation Assignment (Group or Individual)",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam: Complex Hypothetical",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Answers to Tutorial Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Claim and Statement of Claim",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

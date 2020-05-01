@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Introduction and Methods",
+			"weight": 70
+		}
+	]
+}

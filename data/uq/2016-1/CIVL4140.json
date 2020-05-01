@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral seminar presentation",
+			"weight": 10
+		},
+		{
+			"name": "Groundwater and Surface Water Modelling Project",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

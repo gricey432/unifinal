@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and Reading Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Review of research journal articles",
+			"weight": 10
+		},
+		{
+			"name": "Assessing your classmate's presentation",
+			"weight": 5
+		},
+		{
+			"name": "Mini-research project report",
+			"weight": 35
+		},
+		{
+			"name": "Mini-research project presentation",
+			"weight": 5
+		},
+		{
+			"name": "Instruction and SLA",
+			"weight": 35
+		}
+	]
+}

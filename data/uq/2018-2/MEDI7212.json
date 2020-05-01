@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL-SUMMATIVE",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7212."
+		},
+		{
+			"name": "Contribution to CBL-FORMATIVE",
+			"weight": "P/F (provides formal feedback of performance towards the summative CBL participation assessment)"
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 30
+		},
+		{
+			"name": "Weekly online quizzes-formative",
+			"weight": 0
+		},
+		{
+			"name": "End of Semester Exam I",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam  II-Integrative",
+			"weight": 40
+		}
+	]
+}

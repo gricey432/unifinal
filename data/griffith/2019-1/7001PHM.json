@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Case Studies",
+			"weight": 15
+		},
+		{
+			"name": "Viva voce",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

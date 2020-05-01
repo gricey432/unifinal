@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Models for Public Health Nutrition",
+			"weight": 30
+		},
+		{
+			"name": "PHN Case Study - Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 40
+		}
+	]
+}

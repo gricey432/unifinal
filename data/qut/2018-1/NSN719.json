@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis case study",
+			"weight": 45
+		},
+		{
+			"name": "Reflective Critique",
+			"weight": 55
+		}
+	]
+}

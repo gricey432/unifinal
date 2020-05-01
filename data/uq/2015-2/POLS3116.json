@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay (2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Hypothetical Debate One",
+			"weight": 15
+		},
+		{
+			"name": "Hypothetical Debate Two",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 30
+		}
+	]
+}

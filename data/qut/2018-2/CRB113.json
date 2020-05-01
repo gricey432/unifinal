@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Map",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper",
+			"weight": 60
+		}
+	]
+}

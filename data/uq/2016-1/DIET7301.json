@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Translation of Evidence into Practice Guidance",
+			"weight": 35
+		},
+		{
+			"name": "Systematic literature review",
+			"weight": 45
+		},
+		{
+			"name": "Endnote Training UQ Library",
+			"weight": "satisfactory"
+		},
+		{
+			"name": "Translation of Evidence to Practice Guidance ",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 8
+		},
+		{
+			"name": "Independent Study",
+			"weight": 62
+		},
+		{
+			"name": "Take Home Exam (1500 words)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Written examination",
+			"weight": 60
+		}
+	]
+}

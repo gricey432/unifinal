@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment ",
+			"weight": 40
+		},
+		{
+			"name": "Online tests",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

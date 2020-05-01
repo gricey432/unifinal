@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 1
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 45
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 54
+		}
+	]
+}

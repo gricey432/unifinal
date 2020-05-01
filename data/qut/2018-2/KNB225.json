@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Animate Series of Actions",
+			"weight": 40
+		},
+		{
+			"name": "Character animation project",
+			"weight": 60
+		}
+	]
+}

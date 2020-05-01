@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Crisis Preparation Exam ",
+			"weight": 25
+		},
+		{
+			"name": "Acute-Phase Exam ",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Research Essay",
+			"weight": 50
+		}
+	]
+}

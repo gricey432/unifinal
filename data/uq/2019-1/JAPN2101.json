@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Written quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Written quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Workbook Assignment ",
+			"weight": 10
+		},
+		{
+			"name": "Written quiz 3",
+			"weight": 15
+		},
+		{
+			"name": "Written quiz 4",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 25
+		}
+	]
+}

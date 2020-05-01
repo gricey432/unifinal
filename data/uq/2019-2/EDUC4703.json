@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1a, 8-10 minutes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assessment Task 1b",
+			"weight": 30
+		},
+		{
+			"name": "Self-Assessment of Research Proposal Task 1b",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assessment Task 2a, 15 minutes",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 2b",
+			"weight": 30
+		},
+		{
+			"name": "Self-Assessment of Research Report Task 2b",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Negotiate and finalise assessment in the 1st class",
+			"weight": 10
+		}
+	]
+}

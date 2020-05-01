@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Treatment",
+			"weight": 25
+		},
+		{
+			"name": "Draft Script & In Class Participation",
+			"weight": 50
+		}
+	]
+}

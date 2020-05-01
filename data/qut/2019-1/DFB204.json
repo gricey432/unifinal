@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Fashion Forecast",
+			"weight": 40
+		},
+		{
+			"name": "Capsule collection",
+			"weight": 60
+		}
+	]
+}

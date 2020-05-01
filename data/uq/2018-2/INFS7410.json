@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Text Processing",
+			"weight": 10
+		},
+		{
+			"name": "Indexing Documents",
+			"weight": 10
+		},
+		{
+			"name": "Retrieval Models  ",
+			"weight": 10
+		},
+		{
+			"name": "Building a Search Engine Application",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

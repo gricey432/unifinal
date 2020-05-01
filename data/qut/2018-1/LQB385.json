@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Bioinformatics Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Assignment",
+			"weight": 40
+		}
+	]
+}

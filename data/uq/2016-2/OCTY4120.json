@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Club Review Submission",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 45
+		},
+		{
+			"name": "E-Conference Presentation",
+			"weight": 35
+		}
+	]
+}

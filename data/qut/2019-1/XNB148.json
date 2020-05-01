@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Creative Work",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Competency Critique",
+			"weight": 20
+		},
+		{
+			"name": "Appeal Brief",
+			"weight": 40
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Self-reflection Task",
+			"weight": 5
+		},
+		{
+			"name": "Case study presentations",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Diet Disease RelationshipWritten & Oral Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": 0
+		}
+	]
+}

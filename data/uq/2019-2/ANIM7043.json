@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibliography & book chapter edit update",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam based on modules 1 to 6",
+			"weight": 35
+		},
+		{
+			"name": "Kangaroo dissection upload (Residential School)",
+			"weight": 5
+		},
+		{
+			"name": "Wildspace website",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

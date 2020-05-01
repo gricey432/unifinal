@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Poster",
+			"weight": 50
+		}
+	]
+}

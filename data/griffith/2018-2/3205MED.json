@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Healthcare systems : Critical Analysis of Sources",
+			"weight": 30
+		},
+		{
+			"name": "Australian Healthcare Systems Knowledge Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 50
+		}
+	]
+}

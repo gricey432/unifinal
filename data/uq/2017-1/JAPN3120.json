@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Speech test",
+			"weight": 10
+		},
+		{
+			"name": "Vocabulary test ",
+			"weight": 15
+		},
+		{
+			"name": "Writing test 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Writing test 2 ",
+			"weight": 10
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Written Test",
+			"weight": 35
+		}
+	]
+}

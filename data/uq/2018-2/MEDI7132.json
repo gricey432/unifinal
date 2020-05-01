@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "End-Of-Semester Exam",
+			"weight": 60
+		}
+	]
+}

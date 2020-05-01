@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Written Reflection Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

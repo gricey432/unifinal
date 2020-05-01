@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Observation Visit and Reflection Essay",
+			"weight": 20
+		},
+		{
+			"name": "Human Service Agency Website ",
+			"weight": 35
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 45
+		}
+	]
+}

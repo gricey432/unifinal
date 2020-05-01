@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Communication Campaign Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Research Findings and Campaign Pitch",
+			"weight": 35
+		},
+		{
+			"name": "Campaign Plan & Showcase Presentation",
+			"weight": 50
+		}
+	]
+}

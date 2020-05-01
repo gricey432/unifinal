@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Hydrological design report",
+			"weight": 30
+		},
+		{
+			"name": "Terminal design: hydraulics and sustainability ",
+			"weight": 50
+		},
+		{
+			"name": "personal logbook",
+			"weight": 10
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 10
+		}
+	]
+}

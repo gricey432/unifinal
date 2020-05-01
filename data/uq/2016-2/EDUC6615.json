@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Evidence Based Professional Portfolio (25 mins)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Written Research Report",
+			"weight": 20
+		},
+		{
+			"name": "Quizzes (Cardio, Renal, Repro Systems)",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper Deconstruction & Review ",
+			"weight": 10
+		},
+		{
+			"name": "Anatomy Exam",
+			"weight": 25
+		},
+		{
+			"name": "Written Examination",
+			"weight": 30
+		}
+	]
+}

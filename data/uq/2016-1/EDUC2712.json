@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experiences",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Statement of Philosophy of Teaching",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Portfolio of lesson plans and associated resources",
+			"weight": "Pass/Fail"
+		}
+	]
+}

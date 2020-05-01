@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory OH&S",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual Laboratory Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Project Demonstration (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment for Team Project Assessment",
+			"weight": "Scaling factor applied to team based practical marks to calculate individual mark"
+		},
+		{
+			"name": "Supplementary Project Report",
+			"weight": "Supplementary assessment which MAY contribute up to 10"
+		}
+	]
+}

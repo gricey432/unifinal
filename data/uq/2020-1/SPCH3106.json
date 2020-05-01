@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Sentence processing quiz",
+			"weight": 15
+		},
+		{
+			"name": "Analysis, interpretation and management",
+			"weight": 40
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 45
+		}
+	]
+}

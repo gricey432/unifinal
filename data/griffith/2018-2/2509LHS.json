@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Public Advocacy Campaign Strategy Progress Report",
+			"weight": 20
+		},
+		{
+			"name": "Public Advocacy Campaign Strategy Report",
+			"weight": 40
+		}
+	]
+}

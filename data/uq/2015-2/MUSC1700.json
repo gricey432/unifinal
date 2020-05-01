@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Library Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Online Multiple-Choice Tests",
+			"weight": 20
+		},
+		{
+			"name": "Listening test",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay ",
+			"weight": 50
+		}
+	]
+}

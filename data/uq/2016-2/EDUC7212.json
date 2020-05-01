@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Literature Review ",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2: Analysing ethical issues  ",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 3: Writing a research proposal",
+			"weight": 50
+		}
+	]
+}

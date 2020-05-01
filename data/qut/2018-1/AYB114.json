@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Investigative Group Project",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

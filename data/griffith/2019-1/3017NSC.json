@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Course Investigation - Pebble Pad",
+			"weight": 5
+		},
+		{
+			"name": "Court Statement",
+			"weight": 15
+		},
+		{
+			"name": "Mid Trimester Examination 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid Trimester Examination 2",
+			"weight": 15
+		},
+		{
+			"name": "Mid Trimester Examination 3",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Written Exam",
+			"weight": 15
+		}
+	]
+}

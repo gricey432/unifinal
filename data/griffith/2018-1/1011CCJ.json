@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Skills audit exercise",
+			"weight": 10
+		},
+		{
+			"name": "Referencing quiz",
+			"weight": 10
+		},
+		{
+			"name": "Essay outline",
+			"weight": 30
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Skills audit exercise",
+			"weight": 10
+		},
+		{
+			"name": "Referencing quiz",
+			"weight": 10
+		},
+		{
+			"name": "Essay outline",
+			"weight": 30
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

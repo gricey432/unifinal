@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Risk Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Project 1 Interview",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 - Incident Investigation",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 Oral Exam",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Project 3 - Social & Env Impact Management Plan",
+			"weight": 12
+		},
+		{
+			"name": "Project 3 Presentation",
+			"weight": 8
+		},
+		{
+			"name": "Final Oral Exam",
+			"weight": 15
+		}
+	]
+}

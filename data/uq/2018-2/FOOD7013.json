@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 Quizzes (short answer, yes/no, multiple choice)",
+			"weight": 10
+		},
+		{
+			"name": "7 Prac Sessions; 3 Reports; Laboratory Notebook",
+			"weight": 30
+		},
+		{
+			"name": "Max 2,000 Word Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 50
+		}
+	]
+}

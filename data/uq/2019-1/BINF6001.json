@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation assessment",
+			"weight": 5
+		},
+		{
+			"name": "Multiple Choice Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Thermodynamics and Enzymology.",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation of bioinformatics project ",
+			"weight": 10
+		},
+		{
+			"name": "Written report on bioinformatics project. ",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

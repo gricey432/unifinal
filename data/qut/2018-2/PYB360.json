@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Critical Analysis Case Study",
+			"weight": 50
+		},
+		{
+			"name": "Examination (Theory)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Essay",
+			"weight": 40
+		},
+		{
+			"name": "Pair Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

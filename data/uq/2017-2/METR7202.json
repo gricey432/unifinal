@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Kinematics",
+			"weight": 10
+		},
+		{
+			"name": "Sensing & Control Lab ",
+			"weight": 10
+		},
+		{
+			"name": "Systems Lab",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper and Viva in Robotics",
+			"weight": 40
+		}
+	]
+}

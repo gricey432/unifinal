@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz: The Law and Concept of Insurance",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

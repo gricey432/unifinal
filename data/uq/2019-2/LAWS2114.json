@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Court report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and peer assessment",
+			"weight": 5
+		},
+		{
+			"name": "Journal article summary",
+			"weight": 30
+		},
+		{
+			"name": "Multilingualism Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Project/Essay",
+			"weight": 45
+		}
+	]
+}

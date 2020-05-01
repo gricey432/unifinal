@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research Report ",
+			"weight": 30
+		},
+		{
+			"name": "Sales Campaign",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

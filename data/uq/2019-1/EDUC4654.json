@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1.  Microteaching Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "3.  Professional engagement and communication task",
+			"weight": 30
+		},
+		{
+			"name": "2. Learning & teaching sequence & assessment task",
+			"weight": 50
+		}
+	]
+}

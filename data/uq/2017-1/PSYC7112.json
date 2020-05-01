@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "WAIS-IV Test Administration Competency",
+			"weight": 20
+		},
+		{
+			"name": "Test Selection",
+			"weight": 30
+		},
+		{
+			"name": "WISC-IV Report and Video of Feedback Session",
+			"weight": 50
+		}
+	]
+}

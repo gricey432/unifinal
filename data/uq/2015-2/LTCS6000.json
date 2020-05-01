@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & participation",
+			"weight": 5
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 35
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 50
+		},
+		{
+			"name": "Research seminar blog ",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Diagnosis and Solutions",
+			"weight": 10
+		},
+		{
+			"name": "Problem Based Strategic Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Individual Paper",
+			"weight": 50
+		}
+	]
+}

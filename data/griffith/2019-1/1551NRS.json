@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Study Smart Module & Quiz ",
+			"weight": 0
+		},
+		{
+			"name": "Griffith University Health and Safety Modules",
+			"weight": 0
+		},
+		{
+			"name": "First Peoples Health E-Learning Initiative ",
+			"weight": 0
+		},
+		{
+			"name": "Reflection: Why I chose to become a Midwife ",
+			"weight": 25
+		},
+		{
+			"name": "Reflection Community Group Experience",
+			"weight": 30
+		},
+		{
+			"name": "Creative piece representing philosophy midwifery ",
+			"weight": 45
+		}
+	]
+}

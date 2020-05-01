@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Animal Reproductive Biology",
+			"weight": 10
+		},
+		{
+			"name": "Goat oestrus synchronisation report",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

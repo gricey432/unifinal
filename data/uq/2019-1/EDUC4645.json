@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning for the future",
+			"weight": 55
+		},
+		{
+			"name": "Senior Unit of Work",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Online Exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

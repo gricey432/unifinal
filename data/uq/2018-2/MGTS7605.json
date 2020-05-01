@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Practical Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Content Evaluation Quiz ",
+			"weight": 30
+		},
+		{
+			"name": "Performance Management/Appraisal System",
+			"weight": 40
+		}
+	]
+}

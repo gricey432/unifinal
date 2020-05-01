@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Implementation: oral health promotion activity ",
+			"weight": 20
+		},
+		{
+			"name": "Development: oral health promotion activity",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

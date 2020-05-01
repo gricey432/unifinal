@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Homework tasks",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Oral exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Written test",
+			"weight": 40
+		}
+	]
+}

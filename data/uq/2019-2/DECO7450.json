@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "User Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Video Demonstration and Q/A",
+			"weight": 30
+		},
+		{
+			"name": "Project Progress Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Advanced HCI Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review",
+			"weight": 5
+		},
+		{
+			"name": "Attendance and participation in class activities",
+			"weight": "Pass/Fail for the course"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 15
+		},
+		{
+			"name": "Case presentation",
+			"weight": 15
+		},
+		{
+			"name": "Optional Assessment",
+			"weight": 70
+		},
+		{
+			"name": "Optional Assessment",
+			"weight": 70
+		}
+	]
+}

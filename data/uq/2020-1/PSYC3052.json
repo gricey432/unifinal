@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reddit Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Weekly quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Paper 1 (1000 words)",
+			"weight": 17
+		},
+		{
+			"name": "Writing Workshop Activity",
+			"weight": 1
+		},
+		{
+			"name": "Paper 2 (1200 words)",
+			"weight": 20
+		}
+	]
+}

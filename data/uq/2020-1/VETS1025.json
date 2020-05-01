@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exam - handling common domestic animals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Animal management-husbandry on-line placement tool",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Farm Safety Training Course",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Animal Behaviour Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Husbandry management of chosen animal species/use",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 theory examination",
+			"weight": 45
+		},
+		{
+			"name": "End of semester 2 theory examination",
+			"weight": 35
+		}
+	]
+}

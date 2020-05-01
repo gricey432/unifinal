@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Minor Essay",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Worksheets x 10",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		}
+	]
+}

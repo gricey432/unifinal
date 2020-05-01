@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Field trip",
+			"weight": 1
+		},
+		{
+			"name": "Laboratory Group Submissions ",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 1 (Module 1)",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 2 (Module 2)",
+			"weight": 4
+		},
+		{
+			"name": "Lab 1 - fluids",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 3(Module 3)",
+			"weight": 2
+		},
+		{
+			"name": "Lab 2 - fluids",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 4 (Module 3 & 4)",
+			"weight": 6
+		},
+		{
+			"name": "Lab 3 - particle characterisation",
+			"weight": 3
+		},
+		{
+			"name": "Lab 4 - fluid/particle interactions",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 5 (Module 5 & ALL)",
+			"weight": 4
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

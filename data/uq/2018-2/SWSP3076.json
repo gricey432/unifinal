@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "The social model of disability ",
+			"weight": 40
+		},
+		{
+			"name": "Letter of recommendation to NDIA",
+			"weight": 40
+		},
+		{
+			"name": "Disability Access Strategy",
+			"weight": 20
+		}
+	]
+}

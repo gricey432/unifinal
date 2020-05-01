@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clicker questions",
+			"weight": 10
+		},
+		{
+			"name": "Pearson Mastering Physics Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Experiment 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Experiment 2",
+			"weight": 15
+		},
+		{
+			"name": "End Of Semester Exam",
+			"weight": 20
+		}
+	]
+}

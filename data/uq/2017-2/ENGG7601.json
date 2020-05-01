@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Dimensional analysis and scaling",
+			"weight": 7
+		},
+		{
+			"name": "peer assessment for experiment project",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 2 multiparamteric uncertainty analysis",
+			"weight": 7
+		},
+		{
+			"name": "Experiment Design Plan",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 numerical experiment ",
+			"weight": 10
+		},
+		{
+			"name": "Experiment Design Report Group submission",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

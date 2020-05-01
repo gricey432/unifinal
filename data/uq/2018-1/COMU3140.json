@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Issue and Stakeholder Scan, and Spokesperson Respo",
+			"weight": 50
+		},
+		{
+			"name": "Presentation to Industry and Reflection",
+			"weight": 50
+		}
+	]
+}

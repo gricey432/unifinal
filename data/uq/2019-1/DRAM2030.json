@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Blackboard Entries",
+			"weight": 20
+		},
+		{
+			"name": "Group Performance Research Project - Part A",
+			"weight": 20
+		},
+		{
+			"name": "Individual Critical Reflection - Part B",
+			"weight": 10
+		}
+	]
+}

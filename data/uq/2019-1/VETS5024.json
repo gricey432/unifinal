@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Rural Practice learning self reflection",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Rural Practice self evaluation of clinical skills",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Rural Practice Clinical Case Log",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "UQ Vets Dayboro",
+			"weight": 40
+		},
+		{
+			"name": "UQVETS Gatton Production Animal Service",
+			"weight": 40
+		},
+		{
+			"name": "Production Animal Medicine viva",
+			"weight": 20
+		}
+	]
+}

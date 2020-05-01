@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz (in lecture)",
+			"weight": 30
+		},
+		{
+			"name": "Article critique (In pairs)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

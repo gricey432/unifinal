@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom participation",
+			"weight": 10
+		},
+		{
+			"name": "Abstract",
+			"weight": 5
+		},
+		{
+			"name": "Introduction",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review and Theory Section",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment - Introduction",
+			"weight": 5
+		},
+		{
+			"name": "Data and Method",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment - Literature Review and Theory",
+			"weight": 5
+		},
+		{
+			"name": "Final Draft of Paper (Front-End)",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 25
+		},
+		{
+			"name": "Lab quiz sessions",
+			"weight": 5
+		},
+		{
+			"name": "Critical Thinking Questions",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester class test",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

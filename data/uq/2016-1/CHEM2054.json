@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Prelab Questions",
+			"weight": 0
+		},
+		{
+			"name": "Lab Notebook",
+			"weight": 10
+		},
+		{
+			"name": "Results Sheets for A1-A4 & B5",
+			"weight": 40
+		},
+		{
+			"name": "Formative Full Report",
+			"weight": 0
+		},
+		{
+			"name": "Full Reports for B6-B10.",
+			"weight": 50
+		}
+	]
+}

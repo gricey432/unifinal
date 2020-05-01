@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Motor Assessment Scale Scoring",
+			"weight": 5
+		},
+		{
+			"name": "Practical skills & problem solving take home exam",
+			"weight": 25
+		},
+		{
+			"name": "Functional Task Analysis - Theory take home exam",
+			"weight": 20
+		},
+		{
+			"name": "Video Clinical Case development",
+			"weight": 25
+		},
+		{
+			"name": "EOS Theory Online case review / study",
+			"weight": 25
+		}
+	]
+}

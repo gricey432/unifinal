@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical placement requirements",
+			"weight": 0
+		},
+		{
+			"name": "Reports ",
+			"weight": 36
+		},
+		{
+			"name": "Simulated audiological assessment",
+			"weight": 14
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

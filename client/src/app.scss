@@ -1,0 +1,373 @@
+@import "./util";
+
+$border-radius: 4px;
+
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold'), local('Roboto-Bold'),
+		url('/font/subset-Roboto-Bold.woff2') format('woff2'),
+		url('/font/subset-Roboto-Bold.woff') format('woff'),
+		url('/font/subset-Roboto-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto'), local('Roboto-Regular'),
+		url('/font/subset-Roboto-Regular.woff2') format('woff2'),
+		url('/font/subset-Roboto-Regular.woff') format('woff'),
+		url('/font/subset-Roboto-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0;
+	min-height: 100%;
+}
+
+body {
+    margin: 0;
+	width: 100%;
+	min-height: 100vh;
+    font-family: 'Roboto', tahoma, sans-serif;
+    color: #333;
+    overflow-y: scroll;
+	background: linear-gradient(-45deg, adjust-hue($bgColour, -40deg), $bgColour, adjust-hue($bgColour, 40deg));  // From global provider
+    background-size: 400% 400%;
+	animation: gradient-bg 20s ease infinite;
+	position: relative;
+    padding-bottom: 80px;
+}
+
+@keyframes gradient-bg {
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+    100% {
+		background-position: 0 50%;
+	}
+}
+
+input {
+    color: inherit;
+    font-size: inherit;
+}
+
+.container {
+    width: 520px;
+    margin: 0 auto;
+    
+    @media (max-device-width: 520px) {
+        width: 100%;
+        padding: 0 20px;
+    }
+}
+
+.fake-link, .fake-link-white {
+	text-decoration: underline;
+	cursor: pointer;
+
+    &.fake-link {
+	    color: blue;
+    }
+    &.fake-link-white {
+	    color: white;
+    }
+}
+
+.clearfix {
+    clear: both;
+}
+
+.colour-button {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+    background-image: url(/img/colour.png);
+    background-size: 70% 70%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.header {
+	display: block;
+    // Don't combine these background options, it breaks the 2x image
+	background-image: url(/img/logo.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+        background-image: url(/img/logo_2x.png);
+    }
+}
+
+
+.offering-finder-wrapper {
+    font-size: 24px;
+
+    .semester-select {
+        display: block;
+        width: 100%;
+        font-size: inherit;
+        padding: 7.5px;
+        border: 1px solid rgb(204, 204, 204);
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+        border-bottom-left-radius: 0 !important;
+        border-bottom-right-radius: 0 !important;
+    }
+
+    .course-input-group {
+        height: 45px;
+        background-color: white;
+        border: 1px solid rgb(204, 204, 204);
+        border-top: none;
+        border-bottom-left-radius: $border-radius;
+        border-bottom-right-radius: $border-radius;
+        display: flex;
+
+        .course-code {
+            background: transparent;
+            border: none;
+            flex: 1;
+            padding-left: 10px;
+            padding-right: 10px;
+            text-transform: uppercase;
+            min-width: 0;
+        }
+
+        .separator {
+            align-self: stretch;
+            background-color: hsl(0,0%,80%);
+            margin-bottom: 8px;
+            margin-top: 8px;
+            width: 1px;
+            box-sizing: border-box;
+            flex-shrink: 0;
+        }
+
+        #btn-load {
+            width: 36px;
+            line-height: 0;
+            border: none;
+            background: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+
+            svg {
+                height: 18px;
+                width: 14px;
+                fill: #333;
+            }
+        }
+    }
+}
+
+
+.messages, .assessment, .results {
+	margin-top: 30px;
+}
+
+.messages {
+	text-align: center;
+	font-weight: 300;
+	font-size: 20px;
+    color: white;
+
+    a, a:link, a:hover, a:active {
+        color: #6d9bc3;
+    }
+}
+
+.assessmentGraphColumn {
+	width: 0;
+}
+
+.assessmentGraphContainer {
+	width: 35px;
+	height: 35px;
+	margin: 5px 0;
+}
+
+.assessment, .results {
+	background-color: #fff;
+	border-radius: $border-radius;
+	padding: 20px;
+}
+
+.assessment {
+    table {
+        width: 100%;
+    }
+
+    th {
+        text-align: left;
+    }
+
+    td, th {
+        height: 34px; /* td and th, height works like min-height */
+    }
+
+    tr td {
+        padding-right: 10px;
+
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+
+    .assessmentScore {
+        width: 100%;
+
+        &.badScore {
+            box-shadow: 0 0 6px #FF0300;
+        }
+    }
+
+    .scoreColumn {
+        width: 80px;
+    }
+}
+
+.results {
+    .title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    .resultsGraphContainer {
+        width: 120px;
+        height: 120px;
+        margin: 0 0 15px 15px;
+        float: right;
+    }
+
+    .resultsSentence {
+        text-align: center;
+        font-size: 20px;
+
+        select {
+            border: none;
+            border-bottom: 1px solid #ccc;
+            font-size: inherit;
+        }
+    }
+
+    .detailTable {
+        width: 100%;
+        border-collapse: collapse;
+
+        th, td {
+            border-top: 1px solid #dee2e6;
+            padding: 0.75rem;
+        }
+
+        .bg-success {
+            background-color: #28a745 !important;
+        }
+
+        .bg-danger {
+            background-color: #dc3545 !important;
+        }
+    }
+}
+
+.ad {
+    margin-top: 40px;
+}
+
+.footer {
+	text-align: center;
+	font-size: 9px;
+	position: absolute;
+	bottom: 0;
+    left: 0;
+    right: 0;
+	height: 40px;
+    color: white;
+
+    div {
+        padding-top: 2px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .fb {
+        width: 10px;
+        height: 10px;
+        margin-right: 6px;
+        vertical-align: top;
+    }
+}
+
+.notice-wrapper {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+
+    .notice-inner-wrapper {
+        background-color: #f3f3f4;
+        padding: 20px 40px;
+        max-width: 800px;
+        margin: 0 auto;
+
+        .btn-wrapper {
+            text-align: right;
+
+            .btn {
+                box-shadow:inset 0px 1px 0px 0px #ffffff;
+                background-color:#ffffff;
+                border-radius:3px;
+                border:1px solid #999999;
+                display:inline-block;
+                cursor:pointer;
+                font-size:15px;
+                font-weight:bold;
+                padding:6px 24px;
+                text-decoration:none;
+                text-shadow:0px 1px 0px #ffffff;
+
+                &:hover {
+                    background-color:#f6f6f6;
+                }
+                &:active {
+                    position:relative;
+                    top:1px;
+                }
+            }
+        }
+    }
+}

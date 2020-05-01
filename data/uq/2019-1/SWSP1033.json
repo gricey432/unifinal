@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Discussion",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Assessment 1: Agency Visit and Essay",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Social Issue Essay",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1: Discussions / Webinars",
+			"weight": 15
+		},
+		{
+			"name": "Assessment Task 2: Short answer questions",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 3: Multiple choice questions",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 4: Final assignment",
+			"weight": 35
+		}
+	]
+}

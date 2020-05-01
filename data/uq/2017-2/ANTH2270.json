@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Active Participation",
+			"weight": 10
+		},
+		{
+			"name": "Leading Tutorial Discussion and Written Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Critical article review",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		}
+	]
+}

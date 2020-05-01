@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio 1 assessment ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 2 assessment ",
+			"weight": "NGP"
+		}
+	]
+}

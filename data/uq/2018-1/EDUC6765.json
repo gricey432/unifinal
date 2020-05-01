@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Senior unit of work",
+			"weight": 50
+		},
+		{
+			"name": "Case study",
+			"weight": 50
+		}
+	]
+}

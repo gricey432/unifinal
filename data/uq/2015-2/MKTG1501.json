@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing Plan - Team based assignment",
+			"weight": 30
+		},
+		{
+			"name": "Oral Presentation of Weekly Case Studies",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Weekly Online Quiz (x10)",
+			"weight": 20
+		},
+		{
+			"name": "Progress Test (x3)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving",
+			"weight": 15
+		},
+		{
+			"name": "Weakly reading quizzes (away from class)",
+			"weight": "10 points (formative)"
+		},
+		{
+			"name": "Laboratory written report (x 2)",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Test 1",
+			"weight": 12
+		},
+		{
+			"name": "Mid Semester Test 2",
+			"weight": 12
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

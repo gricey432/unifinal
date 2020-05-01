@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Reporting corrections",
+			"weight": "Up to 8 percentage points"
+		},
+		{
+			"name": "Topics 1 and 2",
+			"weight": 4
+		},
+		{
+			"name": "Topics 2 (logs) and 3",
+			"weight": 4
+		},
+		{
+			"name": "Topic 6",
+			"weight": 4
+		},
+		{
+			"name": "Topic 7",
+			"weight": 4
+		},
+		{
+			"name": "Topics 8 and 10",
+			"weight": 4
+		},
+		{
+			"name": "Topic 12",
+			"weight": 4
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

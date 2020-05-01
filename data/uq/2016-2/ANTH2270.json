@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active Participation and Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Ethnographic Interview and Research Paper",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

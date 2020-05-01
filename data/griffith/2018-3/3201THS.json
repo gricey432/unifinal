@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Risk Management Essay",
+			"weight": 30
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Risk Management Plan ",
+			"weight": 40
+		}
+	]
+}

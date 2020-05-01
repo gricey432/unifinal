@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MyVirtualChild: Worksheets 1 - 4",
+			"weight": 30
+		},
+		{
+			"name": "MyVirtualChild: Worksheets 5 - 6",
+			"weight": 30
+		},
+		{
+			"name": " Exam",
+			"weight": 40
+		}
+	]
+}

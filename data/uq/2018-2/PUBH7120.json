@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis Workbook 1",
+			"weight": 20
+		},
+		{
+			"name": "Case Analysis Workbook 2",
+			"weight": 20
+		},
+		{
+			"name": "Policy Briefing",
+			"weight": 40
+		},
+		{
+			"name": "Article for The Conversation",
+			"weight": 20
+		}
+	]
+}

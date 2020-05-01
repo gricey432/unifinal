@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Training Program Part I",
+			"weight": 30
+		},
+		{
+			"name": "Training Program Part II ",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

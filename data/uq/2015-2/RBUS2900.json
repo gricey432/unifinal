@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study - PART A",
+			"weight": 7
+		},
+		{
+			"name": "Research Proposal - PART A",
+			"weight": 10
+		},
+		{
+			"name": "Case Study - PART B",
+			"weight": 12
+		},
+		{
+			"name": "Research Proposal - PART B",
+			"weight": 27
+		},
+		{
+			"name": "Research Proposal - Peer Assessment",
+			"weight": 3
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

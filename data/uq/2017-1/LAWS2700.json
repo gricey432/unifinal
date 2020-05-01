@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Problems and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Case analysis",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: research, law reform",
+			"weight": 60
+		}
+	]
+}

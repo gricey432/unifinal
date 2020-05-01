@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Education Program Activity",
+			"weight": 15
+		},
+		{
+			"name": "Online Image Annotation Exercise",
+			"weight": 15
+		},
+		{
+			"name": "Worksheet 2 : STRADBROKE ISLAND Visit",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Online Take Home Exam",
+			"weight": 20
+		}
+	]
+}

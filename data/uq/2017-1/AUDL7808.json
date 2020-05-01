@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Paediatric Protocols",
+			"weight": 20
+		},
+		{
+			"name": "Paediatric Protocols & Group Work",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

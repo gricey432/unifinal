@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation and attendance ",
+			"weight": 5
+		},
+		{
+			"name": "Kanji and Vocab Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Speaking Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Kanji and Vocab Test 2",
+			"weight": 10
+		},
+		{
+			"name": "In-class writing ",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

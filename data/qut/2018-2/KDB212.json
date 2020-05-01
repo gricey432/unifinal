@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Research Paper",
+			"weight": 20
+		},
+		{
+			"name": "Performance",
+			"weight": 60
+		}
+	]
+}

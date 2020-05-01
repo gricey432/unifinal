@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "ATTENDANCE AND ACTIVE PARTICIPATION",
+			"weight": 5
+		},
+		{
+			"name": "Interview Project",
+			"weight": 10
+		},
+		{
+			"name": "Russian Trivia Board",
+			"weight": 5
+		},
+		{
+			"name": "Weekly homework and quizes",
+			"weight": 20
+		},
+		{
+			"name": "Midsemester and Final Oral Interviews",
+			"weight": 25
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 35
+		}
+	]
+}

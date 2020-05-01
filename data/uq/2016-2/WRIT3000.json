@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Response Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Drafts of project",
+			"weight": 20
+		},
+		{
+			"name": "Final Portfolio (Project + Researched Reflection)",
+			"weight": 50
+		}
+	]
+}

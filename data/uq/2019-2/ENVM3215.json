@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Fire Ecology Essay",
+			"weight": 25
+		},
+		{
+			"name": "Fire Management Report",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

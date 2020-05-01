@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 15
+		},
+		{
+			"name": "Industry placement plan",
+			"weight": 25
+		},
+		{
+			"name": "Critical reflection of practice",
+			"weight": 30
+		},
+		{
+			"name": "Workplace portfolio",
+			"weight": 30
+		}
+	]
+}

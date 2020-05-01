@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Confidentiality Form",
+			"weight": 0
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": 0
+		},
+		{
+			"name": "Placement Attendance Record",
+			"weight": "Satisfactory completion required"
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		},
+		{
+			"name": "Placement ePortfolio Reflective Task",
+			"weight": "Satisfactory completion required"
+		},
+		{
+			"name": "Online Feedback Quizzes 10×2%",
+			"weight": 20
+		},
+		{
+			"name": "Written Exam",
+			"weight": 60
+		}
+	]
+}

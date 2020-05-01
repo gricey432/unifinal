@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Aviation Radio Operators Proficiency Test",
+			"weight": 5
+		},
+		{
+			"name": "Aviation Radio Operators Certificate Theory Exam",
+			"weight": 10
+		},
+		{
+			"name": "RPA Flight Test",
+			"weight": 30
+		},
+		{
+			"name": "RePL Theory and RPAS Application Exam",
+			"weight": 55
+		}
+	]
+}

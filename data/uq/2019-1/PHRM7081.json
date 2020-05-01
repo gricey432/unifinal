@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Portfolio 4-Medicines Information Enquiry",
+			"weight": 10
+		},
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Discussion Board 1",
+			"weight": "Satisfactory/UnSatisfactory"
+		},
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation "
+		},
+		{
+			"name": "Discussion Board 2",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Board 3",
+			"weight": 20
+		},
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Multiple Choice Exam",
+			"weight": 30
+		},
+		{
+			"name": "Discussion Board 4",
+			"weight": 20
+		}
+	]
+}

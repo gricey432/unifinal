@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Large Ensemble Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Recital ",
+			"weight": 70
+		},
+		{
+			"name": "Instrumental Lesson ",
+			"weight": 30
+		},
+		{
+			"name": "Practical Class/Performance Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Chamber Music",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Ensemble Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

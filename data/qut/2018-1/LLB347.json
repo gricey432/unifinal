@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Objection and Memorandum",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 60
+		}
+	]
+}

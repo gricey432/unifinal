@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials/Pracs/Blackboard quizzes",
+			"weight": 25
+		},
+		{
+			"name": "In class quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Video Analysis & Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

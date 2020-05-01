@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workplace Feedback by Placement Supervisor",
+			"weight": "Refer to Course Rubric"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": "Refer to Course Rubric"
+		},
+		{
+			"name": "Progress Report",
+			"weight": "Refer to Course Rubric"
+		},
+		{
+			"name": "Final Report",
+			"weight": "Refer to Course Rubric"
+		},
+		{
+			"name": "Online reflective journals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Oral presentations",
+			"weight": "Refer to Course Rubric"
+		}
+	]
+}

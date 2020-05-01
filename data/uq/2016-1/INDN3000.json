@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation on Theme 1",
+			"weight": 15
+		},
+		{
+			"name": "In-class reading and writing task",
+			"weight": 20
+		},
+		{
+			"name": "Theme 3: Short Story - oral presentation",
+			"weight": 5
+		},
+		{
+			"name": "Short Story (Theme 3)",
+			"weight": 20
+		},
+		{
+			"name": "Written examination",
+			"weight": 25
+		},
+		{
+			"name": "End of semester oral interview",
+			"weight": 15
+		}
+	]
+}

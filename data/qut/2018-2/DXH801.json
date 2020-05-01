@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Interim Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Major Design Project &amp; Present",
+			"weight": 80
+		}
+	]
+}

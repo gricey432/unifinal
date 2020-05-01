@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Research essay",
+			"weight": 40
+		},
+		{
+			"name": "PEARL",
+			"weight": 15
+		},
+		{
+			"name": "Creative Writing Essay",
+			"weight": 20
+		}
+	]
+}

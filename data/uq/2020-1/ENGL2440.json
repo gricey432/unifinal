@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board Contributions",
+			"weight": 20
+		},
+		{
+			"name": "Close-Reading Essay",
+			"weight": 30
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

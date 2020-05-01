@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple-Choice Question Test",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Preparation, Submission and Participation",
+			"weight": 5
+		},
+		{
+			"name": "Assessable ILAC Problem Scenario",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

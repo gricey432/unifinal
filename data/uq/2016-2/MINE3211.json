@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Survey plan and mass balance outcomes",
+			"weight": 10
+		},
+		{
+			"name": "Deconstruct and analyse circuit",
+			"weight": 15
+		},
+		{
+			"name": "Individual final report on case study",
+			"weight": 20
+		},
+		{
+			"name": "Troubleshooting strategies",
+			"weight": 5
+		},
+		{
+			"name": "Oral review of performance",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

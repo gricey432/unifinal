@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3x Reflective Practice Logs ",
+			"weight": 30
+		},
+		{
+			"name": "Treatment Plan from Live Demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Counselling Competency Interview",
+			"weight": 40
+		}
+	]
+}

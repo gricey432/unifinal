@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project or Internship Overview",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay or Internship Report",
+			"weight": 70
+		}
+	]
+}

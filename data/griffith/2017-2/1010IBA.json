@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Comment",
+			"weight": 10
+		},
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Workshop participation",
+			"weight": 20
+		},
+		{
+			"name": "Opinion Paper",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

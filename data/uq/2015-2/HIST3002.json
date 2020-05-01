@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "TUTORIAL PARTICIPATION",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Presentation OR Wikipedia Assessment ",
+			"weight": 30
+		},
+		{
+			"name": "WRITTEN PAPER",
+			"weight": 40
+		},
+		{
+			"name": "FINAL QUIZ",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro-Living Pitch",
+			"weight": 40
+		},
+		{
+			"name": "Final Critique (online)",
+			"weight": 0
+		},
+		{
+			"name": "Micro-Living Architectural Proposal - Hurdle",
+			"weight": 60
+		}
+	]
+}

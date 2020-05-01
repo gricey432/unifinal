@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Essay",
+			"weight": 30
+		},
+		{
+			"name": "Competency Model and Performance Evaluation Projec",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

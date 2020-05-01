@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "First major essay 3000 words",
+			"weight": 45
+		},
+		{
+			"name": "Second Major Essay 3000 words",
+			"weight": 45
+		}
+	]
+}

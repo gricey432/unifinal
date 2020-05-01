@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Report",
+			"weight": 50
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Lab Book",
+			"weight": 30
+		}
+	]
+}

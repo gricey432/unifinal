@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Part A: Digital Curation",
+			"weight": 20
+		},
+		{
+			"name": "Part B: Pinterest Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Part C: Digital Story or Traditional Essay",
+			"weight": 55
+		}
+	]
+}

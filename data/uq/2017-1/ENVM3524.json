@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Features of a Carbon Constrained World",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

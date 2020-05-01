@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Voice Disorders",
+			"weight": 20
+		},
+		{
+			"name": "Hearing",
+			"weight": 5
+		},
+		{
+			"name": "Fluency - Therapy assignment with reflections",
+			"weight": 20
+		},
+		{
+			"name": "SPCH7803/1 Voice Disorders + ENT",
+			"weight": 20
+		},
+		{
+			"name": "SPCH7803/2 Fluency Disorders",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem based learning",
+			"weight": 30
+		},
+		{
+			"name": "OSCE",
+			"weight": 50
+		},
+		{
+			"name": "Communictor in practice",
+			"weight": 20
+		}
+	]
+}

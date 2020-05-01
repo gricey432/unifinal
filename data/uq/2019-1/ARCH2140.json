@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial reading summaries",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Paper (Individual)",
+			"weight": 25
+		},
+		{
+			"name": "Seminar Presentation (Group)",
+			"weight": 15
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 0
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical appraisal of qualitative research",
+			"weight": 20
+		},
+		{
+			"name": "Naturalistic observation exercise",
+			"weight": 30
+		},
+		{
+			"name": "In-depth interview and data analysis",
+			"weight": 50
+		}
+	]
+}

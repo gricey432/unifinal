@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Group Presentations - Government",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2: EIA written exam ",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3: Writing a winning conservation grant",
+			"weight": 35
+		}
+	]
+}

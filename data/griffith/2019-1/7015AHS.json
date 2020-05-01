@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Competency Assessment",
+			"weight": 2
+		},
+		{
+			"name": "Radiology Exam",
+			"weight": 10
+		},
+		{
+			"name": "Written Exam",
+			"weight": 20
+		},
+		{
+			"name": "VIVA Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Practice Assignment",
+			"weight": 2
+		},
+		{
+			"name": "Clinical Unit 2 - Orthopaedics",
+			"weight": 40
+		}
+	]
+}

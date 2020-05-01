@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Briefing note and pre-recorded webinar*",
+			"weight": 50
+		}
+	]
+}

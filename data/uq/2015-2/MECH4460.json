@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Discussions",
+			"weight": 5
+		},
+		{
+			"name": "Individual",
+			"weight": "Scale from 0 to 1"
+		},
+		{
+			"name": "Project Plan",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Project Final Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Project Final Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

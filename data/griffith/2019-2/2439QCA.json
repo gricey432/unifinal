@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "World Press Photo Brisbane",
+			"weight": 30
+		},
+		{
+			"name": "Response Paper",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

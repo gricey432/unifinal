@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Dictation Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Test 3",
+			"weight": 20
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

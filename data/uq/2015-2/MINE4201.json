@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Prerequisite assessment on alumina processing",
+			"weight": 0
+		},
+		{
+			"name": "Design Package No. 1",
+			"weight": 15
+		},
+		{
+			"name": "Design Package No. 2",
+			"weight": 15
+		},
+		{
+			"name": "Design Package No. 3",
+			"weight": 15
+		},
+		{
+			"name": "Presentation of Proposed Design",
+			"weight": 5
+		},
+		{
+			"name": "Professional Project Peer Review",
+			"weight": 5
+		},
+		{
+			"name": "Final Design Report",
+			"weight": 35
+		},
+		{
+			"name": "Oral Defence",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interim submission -Digital Submission",
+			"weight": 0
+		},
+		{
+			"name": "Interim submission -Essay & Mounted A1 Boards",
+			"weight": 40
+		},
+		{
+			"name": "Final submission-Digital Submission",
+			"weight": 0
+		},
+		{
+			"name": "Final submission-Essay & Mounted A1 Boards",
+			"weight": 60
+		}
+	]
+}

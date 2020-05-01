@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Participation",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "1,500 word essay",
+			"weight": 25
+		},
+		{
+			"name": "Online quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

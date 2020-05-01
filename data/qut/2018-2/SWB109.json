@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Social Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 50
+		}
+	]
+}

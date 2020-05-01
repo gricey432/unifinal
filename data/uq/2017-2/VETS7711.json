@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Necropsy performance & reports",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 30
+		},
+		{
+			"name": "gross pathology",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 50
+		}
+	]
+}

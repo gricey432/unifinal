@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Protocol Booklet",
+			"weight": 25
+		},
+		{
+			"name": "Scientific report",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": 35
+		},
+		{
+			"name": "Skills Test 1: Chemical Numeracy Quiz",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skills Test 2: Serial Dilutions",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skills Test 3: PCR",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skills Test 4: Protocol Interpretation",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

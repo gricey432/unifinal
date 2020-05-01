@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluating a motivational interview ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Case management ",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Evaluation of workplace performance ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Job Application",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Timesheet ",
+			"weight": "Pass/fail"
+		}
+	]
+}

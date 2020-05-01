@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Questions Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Security Topic Analysis",
+			"weight": 25
+		},
+		{
+			"name": "BISM3205 Final Exam",
+			"weight": 55
+		}
+	]
+}

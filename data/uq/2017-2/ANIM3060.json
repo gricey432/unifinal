@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports and compulsory attendance",
+			"weight": 30
+		},
+		{
+			"name": "Thermoregulation of Body Temperature. ",
+			"weight": 20
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

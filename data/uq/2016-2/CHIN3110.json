@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HSK Testing ",
+			"weight": 5
+		},
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Dictation",
+			"weight": 10
+		},
+		{
+			"name": "Project: Radio Project",
+			"weight": 25
+		},
+		{
+			"name": "Listening Comprehension Exam ",
+			"weight": 25
+		},
+		{
+			"name": "Debate & Question-and-answer",
+			"weight": 25
+		}
+	]
+}

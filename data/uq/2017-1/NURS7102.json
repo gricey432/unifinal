@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation",
+			"weight": 40
+		},
+		{
+			"name": "PBL weekly participation and padlet",
+			"weight": 10
+		},
+		{
+			"name": "Exam for NURS7102 ",
+			"weight": 50
+		}
+	]
+}

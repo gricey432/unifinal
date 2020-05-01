@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project - Landing",
+			"weight": 15
+		},
+		{
+			"name": "Schematic masterplan - landISland",
+			"weight": 20
+		},
+		{
+			"name": "GLOBAL TRANIST LOUNGE",
+			"weight": 65
+		}
+	]
+}

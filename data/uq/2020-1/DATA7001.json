@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design thinking task",
+			"weight": 10
+		},
+		{
+			"name": "Group project",
+			"weight": 40
+		},
+		{
+			"name": "Practical",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		}
+	]
+}

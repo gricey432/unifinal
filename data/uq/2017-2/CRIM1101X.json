@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Episode 1 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 2 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 3 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 4 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 5 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 6 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 7 Written Response Task",
+			"weight": 10
+		},
+		{
+			"name": "Episode 8 Written Response Task",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Socioecological Analysis of Health ",
+			"weight": 40
+		},
+		{
+			"name": "Small Group Activity ",
+			"weight": 5
+		},
+		{
+			"name": "Written Exam",
+			"weight": 45
+		}
+	]
+}

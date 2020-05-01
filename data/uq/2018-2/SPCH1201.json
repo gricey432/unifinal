@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks and Aged Care Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Report and Education Handout ",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

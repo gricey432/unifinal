@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Hand Hygiene and Infection Control Competency",
+			"weight": "NGP"
+		},
+		{
+			"name": "Mandatory Work Health and Safety",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication Calculation online quizzes",
+			"weight": "NGP"
+		},
+		{
+			"name": "VITAL SIGNS COMPETENCY ASSESSMENT",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio Formative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Skills Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio Summative Assessment",
+			"weight": "NGP"
+		}
+	]
+}

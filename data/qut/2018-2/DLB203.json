@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Scaping",
+			"weight": 15
+		},
+		{
+			"name": "Reverse-engineered landscapes",
+			"weight": 45
+		},
+		{
+			"name": "Landscape digital realisation",
+			"weight": 40
+		}
+	]
+}

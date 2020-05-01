@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Materials Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Structures Practical Report",
+			"weight": 8
+		},
+		{
+			"name": "Materials Test 1",
+			"weight": 4
+		},
+		{
+			"name": "Structures Quiz 1",
+			"weight": 4
+		},
+		{
+			"name": "Integrated Assignment - Report",
+			"weight": 20
+		},
+		{
+			"name": "Structures Quiz 2",
+			"weight": 4
+		},
+		{
+			"name": "Failures - pro forma",
+			"weight": "Formative"
+		},
+		{
+			"name": "Materials report on activities",
+			"weight": 12
+		},
+		{
+			"name": "Structures and Materials End of Semester Exam",
+			"weight": 43
+		}
+	]
+}

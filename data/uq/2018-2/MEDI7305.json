@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Rural Medicine Online Modules for Stream A&B only",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Clinical Case Presentation and Discussion",
+			"weight": "Equal"
+		},
+		{
+			"name": "Written Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "StreamA&B Health Project Stream C Reflective Essay",
+			"weight": "Equal"
+		},
+		{
+			"name": "Student Developed MCQ (Stream C)",
+			"weight": "Contributes to 25"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL (To pass the course, students must pass this regardless of marks in other assessments)"
+		}
+	]
+}

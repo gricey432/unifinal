@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Philosophy of education",
+			"weight": 10
+		},
+		{
+			"name": "Topics in philosophy of education",
+			"weight": 30
+		},
+		{
+			"name": "Social and political issues in education",
+			"weight": 50
+		}
+	]
+}

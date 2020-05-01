@@ -1,0 +1,72 @@
+{
+	"assessment": [
+		{
+			"name": "Pop Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Pop Quiz #2",
+			"weight": 10
+		},
+		{
+			"name": "Pop Quiz #3",
+			"weight": 10
+		},
+		{
+			"name": "Pop Quiz #4",
+			"weight": 10
+		},
+		{
+			"name": "Tute Participation 1",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 2",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 3",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 4",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 5",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 6",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 7",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 8",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 9",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 10",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "Tute Participation 11 ",
+			"weight": "Best 10 of 12 = 30"
+		},
+		{
+			"name": "The Trouble With Social Neuroscience Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Tute Participation 12",
+			"weight": "Best 10 of 12 = 30"
+		}
+	]
+}

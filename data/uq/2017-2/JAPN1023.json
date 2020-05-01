@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Tutorial Attendance and Participation",
+			"weight": 5
+		},
+		{
+			"name": "Writing & Listening Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Writing & Listening Test 2",
+			"weight": 20
+		},
+		{
+			"name": "News and Weather Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam ",
+			"weight": 40
+		}
+	]
+}

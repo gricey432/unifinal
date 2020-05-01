@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formal Debate on Issues in International Business",
+			"weight": 25
+		},
+		{
+			"name": "Midsemester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Plan",
+			"weight": 15
+		},
+		{
+			"name": "Professional Report or Reflective Essay",
+			"weight": 50
+		},
+		{
+			"name": "Exit Interview",
+			"weight": 10
+		},
+		{
+			"name": "Video Presentation: Remarkable Me Video",
+			"weight": 25
+		}
+	]
+}

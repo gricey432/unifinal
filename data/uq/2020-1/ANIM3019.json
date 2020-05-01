@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination - via blackboard",
+			"weight": 35
+		},
+		{
+			"name": "Animal Reproductive Biology",
+			"weight": 20
+		},
+		{
+			"name": "Final examination - via blackboard",
+			"weight": 45
+		}
+	]
+}

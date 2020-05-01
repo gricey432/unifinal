@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in a Performance Management System",
+			"weight": 15
+		},
+		{
+			"name": "In-class quiz",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation of Case Study analysis",
+			"weight": 25
+		},
+		{
+			"name": "Individual Report: Analysis & recommendations",
+			"weight": 40
+		}
+	]
+}

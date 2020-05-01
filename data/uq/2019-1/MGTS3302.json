@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case study of a professional sports team or league",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 60
+		}
+	]
+}

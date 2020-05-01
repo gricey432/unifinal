@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Presentation ",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Case Study Essay",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		}
+	]
+}

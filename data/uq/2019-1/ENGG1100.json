@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Templates",
+			"weight": "Grade restriction"
+		},
+		{
+			"name": "Academic Integrity Tutorial (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Preliminary Investigation Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Project Scoping Package (Team)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Team Project Peer Assessment (Individual)",
+			"weight": "P/F - Affects team marks; Grade restriction"
+		},
+		{
+			"name": "Compulsory sessions (Individual)",
+			"weight": "See details"
+		},
+		{
+			"name": "Demo Day! (Team)",
+			"weight": 30
+		},
+		{
+			"name": "Logbook (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Team Project Report (Team)",
+			"weight": 30
+		}
+	]
+}

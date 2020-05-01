@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership Impact",
+			"weight": 25
+		},
+		{
+			"name": "Leadership in the 21st Century",
+			"weight": 35
+		},
+		{
+			"name": "Leadership Development Plan",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group wiki page (Group work)",
+			"weight": 15
+		},
+		{
+			"name": "Conceptual Plan of Development (Group work)",
+			"weight": 20
+		},
+		{
+			"name": "Individual on-line Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Regeneration Plan (Group work)",
+			"weight": 20
+		},
+		{
+			"name": "Design report",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Formative Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Me-in-a-Minute Video",
+			"weight": 20
+		},
+		{
+			"name": "Proposal for Researcher Profile",
+			"weight": 10
+		},
+		{
+			"name": "Linked-In or Researcher Profile",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essay on Interview",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Acquired Aphasia Exam",
+			"weight": 40
+		},
+		{
+			"name": "SPCH2205 Acquired Aphasia Assessments Video Exam",
+			"weight": 15
+		},
+		{
+			"name": "SPCH2205/1 Cognitive Communication Disorders Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation & Participation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Term Online Take-Home Exam",
+			"weight": 20
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Online Take-Home Exam",
+			"weight": 40
+		}
+	]
+}

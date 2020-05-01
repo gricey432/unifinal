@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End Semester Written exam",
+			"weight": 60
+		}
+	]
+}

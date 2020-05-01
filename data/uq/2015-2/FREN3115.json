@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Bande sonore descriptive",
+			"weight": 20
+		},
+		{
+			"name": "Test écrit",
+			"weight": 15
+		},
+		{
+			"name": "Fiche de travail ",
+			"weight": 10
+		},
+		{
+			"name": "Discussion de votre dossier de textes",
+			"weight": 15
+		},
+		{
+			"name": "Final written exam",
+			"weight": 20
+		},
+		{
+			"name": "Dossier descriptif",
+			"weight": 20
+		}
+	]
+}

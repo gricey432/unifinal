@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online open book test",
+			"weight": 5
+		},
+		{
+			"name": "Online open book test",
+			"weight": 5
+		},
+		{
+			"name": "MEDIA ETHICS",
+			"weight": 40
+		},
+		{
+			"name": "Online open book test",
+			"weight": 5
+		},
+		{
+			"name": "Online open book test",
+			"weight": 5
+		},
+		{
+			"name": "MEDIA LAW",
+			"weight": 40
+		}
+	]
+}

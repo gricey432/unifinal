@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Results of quantitative data analysis",
+			"weight": 25
+		},
+		{
+			"name": "Multiple choice questions based on Module 1",
+			"weight": 10
+		},
+		{
+			"name": "Results of qualitative data analysis",
+			"weight": 25
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TASK ONE: Teaching a Chemistry Concept",
+			"weight": 33
+		},
+		{
+			"name": "TASK TWO: Designing an EEI",
+			"weight": 34
+		},
+		{
+			"name": "TASK THREE: Designing an Assessment",
+			"weight": 33
+		}
+	]
+}

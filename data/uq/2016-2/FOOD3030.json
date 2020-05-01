@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1st Site Supervisor Report",
+			"weight": 10
+		},
+		{
+			"name": "Professional Development Journals x 5",
+			"weight": 20
+		},
+		{
+			"name": "Company Report",
+			"weight": 20
+		},
+		{
+			"name": "Industry Placement - Learning and Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Final Site Supervisor Report",
+			"weight": 20
+		}
+	]
+}

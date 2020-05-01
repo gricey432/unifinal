@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Destination & Event Portfolio Evaluation",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Event Marketing Plan",
+			"weight": 35
+		}
+	]
+}

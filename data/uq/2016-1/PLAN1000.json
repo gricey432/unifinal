@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Field Trip - Context,issues and relationships",
+			"weight": 0
+		},
+		{
+			"name": "Integrity, Graphics, Referencing, Report Writing",
+			"weight": 0
+		},
+		{
+			"name": "Individual Field Trip Poster",
+			"weight": 15
+		},
+		{
+			"name": "Field Trip Report ",
+			"weight": 15
+		},
+		{
+			"name": "Seive mapping report ",
+			"weight": 35
+		},
+		{
+			"name": "Place Making exercise",
+			"weight": 35
+		}
+	]
+}

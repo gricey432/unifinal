@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Core Concepts of Family Therapy",
+			"weight": 25
+		},
+		{
+			"name": "The Experience of Family",
+			"weight": 15
+		},
+		{
+			"name": "Structured Case Analysis",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Placement Plan",
+			"weight": 30
+		},
+		{
+			"name": "Critical reflection of practice",
+			"weight": 40
+		},
+		{
+			"name": "Workplace Portfolio",
+			"weight": 30
+		}
+	]
+}

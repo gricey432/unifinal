@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of practical assignments",
+			"weight": 24
+		},
+		{
+			"name": "Choice of research area",
+			"weight": 2
+		},
+		{
+			"name": "Journal abstract",
+			"weight": 10
+		},
+		{
+			"name": "Data compilation figure",
+			"weight": 5
+		},
+		{
+			"name": "Map",
+			"weight": 4
+		},
+		{
+			"name": "Research proposal",
+			"weight": 20
+		},
+		{
+			"name": "Theory examination",
+			"weight": 35
+		}
+	]
+}

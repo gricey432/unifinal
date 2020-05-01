@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Survey and Guided Reflection 1",
+			"weight": 35
+		},
+		{
+			"name": "Survey and Guided Reflection 2",
+			"weight": 25
+		},
+		{
+			"name": "Small group presentation and written document.",
+			"weight": 40
+		}
+	]
+}

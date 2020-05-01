@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research Report Plan",
+			"weight": 15
+		},
+		{
+			"name": "Sales Campaign Poster & Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Market Research Report",
+			"weight": 45
+		}
+	]
+}

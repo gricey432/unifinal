@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Facilitation of Discussion Primer",
+			"weight": 10
+		},
+		{
+			"name": "Discussion Primer",
+			"weight": 20
+		},
+		{
+			"name": "Response posts to primers Part 1",
+			"weight": 20
+		},
+		{
+			"name": "Response Posts to Primers: Part 2",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

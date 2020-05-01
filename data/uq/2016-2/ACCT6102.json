@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Midsemester In-Class Exam",
+			"weight": 35
+		}
+	]
+}

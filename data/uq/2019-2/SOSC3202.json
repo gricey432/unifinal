@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Responding to a fictional job advertisement",
+			"weight": 15
+		},
+		{
+			"name": "Feedback Summary Sheet for Research Participants",
+			"weight": 15
+		},
+		{
+			"name": "Final research report",
+			"weight": 50
+		},
+		{
+			"name": "Group Project Poster and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Revised Report Delivered to Industry Partner",
+			"weight": "Required for award of grade"
+		}
+	]
+}

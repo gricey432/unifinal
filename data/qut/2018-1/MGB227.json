@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Test",
+			"weight": 15
+		},
+		{
+			"name": "Value Creation Projects",
+			"weight": 40
+		},
+		{
+			"name": "Personal Learning Statements",
+			"weight": 45
+		}
+	]
+}

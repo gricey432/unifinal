@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Issues in Strategic Human Resource Management",
+			"weight": 30
+		},
+		{
+			"name": "Class Activities Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

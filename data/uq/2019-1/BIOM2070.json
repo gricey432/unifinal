@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Fact Sheet on one disruption of homeostasis",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quiz 1: Neuroanatomy ",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 2: Movement Disorders",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 3: Oral Glucose Tolerance Test ",
+			"weight": 3
+		},
+		{
+			"name": "In class Quiz 4: Somatosensory",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 5: Blood pH regulation ",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 55
+		}
+	]
+}

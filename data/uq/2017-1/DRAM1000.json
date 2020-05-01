@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Semiotic Essay 1",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Performance Project / DRAM2310 Secondment",
+			"weight": 25
+		},
+		{
+			"name": "Semiotic Essay 2",
+			"weight": 10
+		}
+	]
+}

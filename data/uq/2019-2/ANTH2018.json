@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class discussions, presentations and activities",
+			"weight": 15
+		},
+		{
+			"name": "Reading responses - minimum of 12 readings posted",
+			"weight": 15
+		},
+		{
+			"name": "Essay - 2500 Words",
+			"weight": 35
+		},
+		{
+			"name": "Exam - 1500 words",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly translation exercises & class participation",
+			"weight": 5
+		},
+		{
+			"name": "SPAN 3310 (week 5)",
+			"weight": 15
+		},
+		{
+			"name": "Assessed Task 1 (week 7)",
+			"weight": 20
+		},
+		{
+			"name": "SPAN 3310 (week 10)",
+			"weight": 25
+		},
+		{
+			"name": "Translation 2 (week 12)",
+			"weight": 20
+		},
+		{
+			"name": "Group work:Oral Presentation in Spanish(week 13)",
+			"weight": 15
+		}
+	]
+}

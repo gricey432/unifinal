@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Meetings with supervisor",
+			"weight": 25
+		},
+		{
+			"name": "Review current literature in molecular biology",
+			"weight": 75
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Youth justice simulation & pre-sentence report",
+			"weight": 15
+		},
+		{
+			"name": "Developmentally sensitive practice",
+			"weight": 15
+		},
+		{
+			"name": "Social work with children, young people & families",
+			"weight": 30
+		},
+		{
+			"name": "Collaborative Family Work Simulation and Essay",
+			"weight": 40
+		}
+	]
+}

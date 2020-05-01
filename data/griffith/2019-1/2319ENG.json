@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Four lab reports",
+			"weight": 40
+		},
+		{
+			"name": "Feedback Test No. 1",
+			"weight": 5
+		},
+		{
+			"name": "Feedback Test No. 2",
+			"weight": 5
+		},
+		{
+			"name": "Feedback Test No. 3",
+			"weight": 5
+		},
+		{
+			"name": "Feedback Test No. 4",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

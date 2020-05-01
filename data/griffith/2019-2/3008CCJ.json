@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Workplace Project Assessment & Learning Journal",
+			"weight": 80
+		},
+		{
+			"name": "Workplace Placement & Participation",
+			"weight": 20
+		}
+	]
+}

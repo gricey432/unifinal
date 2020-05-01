@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch Presentations",
+			"weight": 20
+		},
+		{
+			"name": "Problem Solving Report",
+			"weight": 50
+		},
+		{
+			"name": "Learning Reflection",
+			"weight": 30
+		}
+	]
+}

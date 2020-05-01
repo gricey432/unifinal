@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Motor Active task",
+			"weight": 30
+		},
+		{
+			"name": "Teaching & Professionalism",
+			"weight": "pass / fail"
+		},
+		{
+			"name": "Inclusive education",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Showcase",
+			"weight": 40
+		}
+	]
+}

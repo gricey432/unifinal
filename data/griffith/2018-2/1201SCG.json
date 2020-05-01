@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Algebra Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Interaction with online resources",
+			"weight": 5
+		},
+		{
+			"name": "Weekly Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Vectors and Complex Numbers Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Script Proposal Development",
+			"weight": 35
+		},
+		{
+			"name": "Narrative Video Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Narrative Video Production",
+			"weight": 50
+		}
+	]
+}

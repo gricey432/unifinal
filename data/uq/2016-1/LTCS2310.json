@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Russia: Q and A",
+			"weight": 20
+		},
+		{
+			"name": "Viewing Report",
+			"weight": 20
+		},
+		{
+			"name": "Russians in Australia",
+			"weight": 20
+		},
+		{
+			"name": "Major Assignment",
+			"weight": 40
+		}
+	]
+}

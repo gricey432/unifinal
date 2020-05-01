@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Class presentation 1 - Leadership",
+			"weight": 25
+		},
+		{
+			"name": "Team Class presentation 2 - Motivation",
+			"weight": 25
+		},
+		{
+			"name": "Written Assignment - Motivation/Leadership ",
+			"weight": 50
+		}
+	]
+}

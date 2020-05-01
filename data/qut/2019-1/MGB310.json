@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Change Management Report",
+			"weight": 60
+		}
+	]
+}

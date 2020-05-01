@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Component for Research Projects",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Component for Research Projects",
+			"weight": 70
+		},
+		{
+			"name": "Internship Component 2",
+			"weight": 30
+		},
+		{
+			"name": "Internship Component 3",
+			"weight": 30
+		},
+		{
+			"name": "Internship Component 1",
+			"weight": 40
+		}
+	]
+}

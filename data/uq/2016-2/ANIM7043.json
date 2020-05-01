@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Modules 1 to 6",
+			"weight": 30
+		},
+		{
+			"name": "Ancient Marsupials and Monotremes",
+			"weight": 10
+		},
+		{
+			"name": "Marsupial and Monotreme 3D model",
+			"weight": 10
+		},
+		{
+			"name": "Marsupial and Monotreme Enigmas",
+			"weight": 10
+		},
+		{
+			"name": "Wildspace Website",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

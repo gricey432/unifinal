@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 5
+		},
+		{
+			"name": "Writing & Listening Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Weather Reporting Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Writing & Listening Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam ",
+			"weight": 45
+		}
+	]
+}

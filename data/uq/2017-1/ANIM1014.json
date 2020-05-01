@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Behaviour Report",
+			"weight": 20
+		},
+		{
+			"name": "Animal Handling Practical Sessions and Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 (Terrorism) Workbook ",
+			"weight": 10
+		},
+		{
+			"name": "Module 2 (Organised Crime) Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Terrorism or Organised Crime",
+			"weight": 30
+		},
+		{
+			"name": "Module 3 (Cyber Crime) Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Module 4 (Enviro / Geo-pol Threats) Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Cyber Crime or Geopolitical Threats",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Peer Assessment ",
+			"weight": "Alters final product mark and progress demonstration marks"
+		},
+		{
+			"name": "Individual fabrication project ",
+			"weight": 10
+		},
+		{
+			"name": "Attendance at practical sessions",
+			"weight": "Affects other marks"
+		},
+		{
+			"name": "Team-Client Meetings",
+			"weight": 10
+		},
+		{
+			"name": "Paper design and execution plan",
+			"weight": 10
+		},
+		{
+			"name": "Progress Demonstration I",
+			"weight": 5
+		},
+		{
+			"name": "Product seminar  ",
+			"weight": 5
+		},
+		{
+			"name": "Progress Demonstration II",
+			"weight": 10
+		},
+		{
+			"name": "Product Mark ",
+			"weight": 45
+		},
+		{
+			"name": "Final Report and reflection",
+			"weight": 5
+		}
+	]
+}

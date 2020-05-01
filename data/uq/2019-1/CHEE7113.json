@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning activities",
+			"weight": 4
+		},
+		{
+			"name": "Individual exercise",
+			"weight": 10
+		},
+		{
+			"name": "Project A presentation",
+			"weight": 8
+		},
+		{
+			"name": "Project A report",
+			"weight": 20
+		},
+		{
+			"name": "Individual exercise",
+			"weight": 10
+		},
+		{
+			"name": "Project B presentation",
+			"weight": 8
+		},
+		{
+			"name": "Project B report",
+			"weight": 20
+		},
+		{
+			"name": "Oral defence",
+			"weight": 20
+		}
+	]
+}

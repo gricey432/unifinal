@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "3 Quizzes in Weeks 4, 7 and 12",
+			"weight": 15
+		},
+		{
+			"name": "Practical Report",
+			"weight": 16
+		},
+		{
+			"name": "Practical Lab book",
+			"weight": 14
+		},
+		{
+			"name": "Mid-Term Test",
+			"weight": 30
+		},
+		{
+			"name": "Oral Seminar & Poster - Advanced Food Preservation",
+			"weight": 25
+		}
+	]
+}

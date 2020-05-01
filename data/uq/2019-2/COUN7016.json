@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Dilemmas",
+			"weight": 25
+		},
+		{
+			"name": "Professional Practice Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Responses to Ethical Scenarios",
+			"weight": 25
+		}
+	]
+}

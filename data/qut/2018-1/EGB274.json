@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Site Survey Report",
+			"weight": 50
+		},
+		{
+			"name": "Technical Paper",
+			"weight": 25
+		},
+		{
+			"name": "Presentation",
+			"weight": 25
+		}
+	]
+}

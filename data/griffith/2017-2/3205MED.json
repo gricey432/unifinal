@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Healthcare systems Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 50
+		}
+	]
+}

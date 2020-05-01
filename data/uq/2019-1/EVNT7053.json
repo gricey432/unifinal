@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Event Critique",
+			"weight": 30
+		},
+		{
+			"name": "Group Event Master Plan",
+			"weight": 40
+		}
+	]
+}

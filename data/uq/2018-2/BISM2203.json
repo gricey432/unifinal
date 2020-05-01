@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "BPM & Process Modelling",
+			"weight": 10
+		},
+		{
+			"name": "Team Process Improvement Project",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 65
+		}
+	]
+}

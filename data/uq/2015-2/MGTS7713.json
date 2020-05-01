@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation (in class)",
+			"weight": 20
+		},
+		{
+			"name": "Personal Development Plan",
+			"weight": 40
+		},
+		{
+			"name": "Four frames case study analysis",
+			"weight": 40
+		}
+	]
+}

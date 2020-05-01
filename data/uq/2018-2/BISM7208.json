@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Cases Responses/Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Individual Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

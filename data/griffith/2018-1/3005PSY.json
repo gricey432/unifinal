@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Roleplay participation",
+			"weight": 5
+		},
+		{
+			"name": "Interview Roleplay & Self-reflection",
+			"weight": 25
+		},
+		{
+			"name": "Case Conceptualisation & Treatment Plan",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 30
+		}
+	]
+}

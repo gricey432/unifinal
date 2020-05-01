@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation week 2-6 & 9",
+			"weight": 10
+		},
+		{
+			"name": "Pre fieldwork report",
+			"weight": 25
+		},
+		{
+			"name": "Seminar presentation",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Journal/field notes",
+			"weight": 10
+		},
+		{
+			"name": "Final report/ research proposal",
+			"weight": 40
+		}
+	]
+}

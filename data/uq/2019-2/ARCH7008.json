@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research - (Groupwork)",
+			"weight": 20
+		},
+		{
+			"name": "Schematic Project (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Detailed Resolution and Presentation (Individual)",
+			"weight": 40
+		}
+	]
+}

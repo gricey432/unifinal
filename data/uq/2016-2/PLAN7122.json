@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Place Critique Report",
+			"weight": 35
+		},
+		{
+			"name": "Conceptual Design Solution",
+			"weight": 45
+		},
+		{
+			"name": "Presentation of Findings",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Obligations and Options Report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1: Site Construction - Connect + Repair",
+			"weight": 30
+		},
+		{
+			"name": "Project 2: Plant Research Facility + Community Hub",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online coaching course (Task 1)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Workbook Part A (Task 2A)",
+			"weight": 30
+		},
+		{
+			"name": "Facilitating a PA session (Task 3)",
+			"weight": 40
+		},
+		{
+			"name": "Workbook Part B (Task 2B)",
+			"weight": 30
+		}
+	]
+}

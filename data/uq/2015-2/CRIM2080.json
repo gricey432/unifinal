@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line discussion board",
+			"weight": 30
+		},
+		{
+			"name": "Briefing paper",
+			"weight": 50
+		},
+		{
+			"name": "Multiple-choice test",
+			"weight": 20
+		}
+	]
+}

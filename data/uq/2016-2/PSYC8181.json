@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation in class discussion",
+			"weight": 10
+		},
+		{
+			"name": "Competency assessment",
+			"weight": 30
+		},
+		{
+			"name": "Complex Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation Case Study Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation Case Study Discussion",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Participation at tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Comparative analysis of two film sequences",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Lab Tests",
+			"weight": 10
+		},
+		{
+			"name": "Site Visit Reflection & Linked-in Profile",
+			"weight": 10
+		},
+		{
+			"name": "Project - Embedded C Project",
+			"weight": 20
+		},
+		{
+			"name": "Lab Test 2",
+			"weight": 25
+		}
+	]
+}

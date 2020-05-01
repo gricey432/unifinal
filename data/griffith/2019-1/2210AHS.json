@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Dietary Analysis Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End-Trimester Exam",
+			"weight": 50
+		}
+	]
+}

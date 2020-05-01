@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Process Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Conference-style oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Journal manuscript",
+			"weight": 50
+		}
+	]
+}

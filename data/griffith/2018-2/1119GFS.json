@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. Pendulum",
+			"weight": 15
+		},
+		{
+			"name": "2. Basic rig interacting with an object ",
+			"weight": 25
+		},
+		{
+			"name": "4.Pantomime Shot with full biped character rig",
+			"weight": 60
+		}
+	]
+}

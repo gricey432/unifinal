@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Test",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Service Audit Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Teacher's Report",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Language and Diction Test for Voice Students",
+			"weight": 0
+		},
+		{
+			"name": "Chorale",
+			"weight": 20
+		},
+		{
+			"name": "Chorale or Orchestra Repertoire",
+			"weight": 20
+		}
+	]
+}

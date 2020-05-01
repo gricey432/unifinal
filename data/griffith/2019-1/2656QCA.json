@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interiority - Assessment 1",
+			"weight": 40
+		},
+		{
+			"name": "Interiority -Assessment 2",
+			"weight": 40
+		},
+		{
+			"name": "Interiority -Assessment 3",
+			"weight": 20
+		}
+	]
+}

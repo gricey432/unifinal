@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Prac 1: Creating landscape pattern",
+			"weight": 10
+		},
+		{
+			"name": "Prac 2: Landscape metrics",
+			"weight": 10
+		},
+		{
+			"name": "Prac 3: Ecological impacts of habitat loss",
+			"weight": 10
+		},
+		{
+			"name": "Prac 4: Redland Shire Case Study report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

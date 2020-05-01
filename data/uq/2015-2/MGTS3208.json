@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project (case study)",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student group media production",
+			"weight": 20
+		},
+		{
+			"name": "Participatory media production",
+			"weight": 40
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 40
+		}
+	]
+}

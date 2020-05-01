@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal ",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal Seminar",
+			"weight": 5
+		},
+		{
+			"name": "Journal Club Presentation and Participation",
+			"weight": 5
+		},
+		{
+			"name": "Supervisors Report",
+			"weight": 5
+		},
+		{
+			"name": "Research Report",
+			"weight": 55
+		},
+		{
+			"name": "Seminar Diary",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Final Research Seminar",
+			"weight": 20
+		}
+	]
+}

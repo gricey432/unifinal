@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Individual contributions green discussion boards",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": 9
+		},
+		{
+			"name": "Modules 1-3",
+			"weight": 12
+		},
+		{
+			"name": "\"Satisfactory\" attendance at online tutorials",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical Appraisal - Journal Club",
+			"weight": 5
+		},
+		{
+			"name": "Description and Reflection on Future Practice",
+			"weight": 5
+		},
+		{
+			"name": "Analysis of MI video OR Practice of MI",
+			"weight": 10
+		},
+		{
+			"name": "Journal club/critical appraisal-slide presentation",
+			"weight": 15
+		},
+		{
+			"name": "Drug Information Response",
+			"weight": 32
+		}
+	]
+}

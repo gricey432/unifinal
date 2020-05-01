@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Career Development Case Studies NS 1.1;1.2;3.5;4.1",
+			"weight": 40
+		},
+		{
+			"name": "Career Development Portfolio NS 1.1; 1.2; 3.5; 4.1",
+			"weight": 60
+		}
+	]
+}

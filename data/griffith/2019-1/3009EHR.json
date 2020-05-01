@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

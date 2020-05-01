@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Knowledge and Participation",
+			"weight": 30
+		},
+		{
+			"name": "Individual Presentation on a Chosen Topic",
+			"weight": 10
+		},
+		{
+			"name": "Feature Article/Publishable Essay",
+			"weight": 60
+		}
+	]
+}

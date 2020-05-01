@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "1. Reading Greek Grammar Exercises 7A-C",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "2. Reading Greek Grammar Exercises 7D-F",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "3. Reading Greek Grammar Exercises 7G-H",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "4. Reading Greek Grammar Exercises 8A-C",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "5. Reading Greek Grammar Exercises 9A-E",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "6. Reading Greek Grammar Exercises 9F-G",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "7. Reading Greek Grammar Exercises 9H-J",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "8. Reading Greek Grammar Exercises 10A-B",
+			"weight": 25
+		},
+		{
+			"name": "9. Reading Greek Grammar Exercises 10C-E",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "10. Reading Greek Grammar Exercises 11A-C",
+			"weight": "contributes towards total weighting 25"
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

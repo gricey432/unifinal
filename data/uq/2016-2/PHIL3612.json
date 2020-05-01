@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Review of selected readings",
+			"weight": 30
+		},
+		{
+			"name": "Powerpoint presentation slides",
+			"weight": 20
+		},
+		{
+			"name": "Powerpoint presentation, question and answers",
+			"weight": 50
+		},
+		{
+			"name": "Final essay, alternative to oral examination",
+			"weight": 50
+		}
+	]
+}

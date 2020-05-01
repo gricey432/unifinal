@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 60
+		},
+		{
+			"name": "Residential Valuation report",
+			"weight": 40
+		}
+	]
+}

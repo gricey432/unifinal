@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks (inc ARTIE Academy tutoring)",
+			"weight": 25
+		},
+		{
+			"name": "Lesson Plan and Rationale",
+			"weight": 35
+		},
+		{
+			"name": "Investigative Assessment Task and Scoring Rubric",
+			"weight": 40
+		}
+	]
+}

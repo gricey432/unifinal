@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment One",
+			"weight": 25
+		},
+		{
+			"name": "Briefing Paper",
+			"weight": "See final grade description"
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Three",
+			"weight": 25
+		},
+		{
+			"name": "Assignment Four",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 85
+		}
+	]
+}

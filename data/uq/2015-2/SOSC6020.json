@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Questions and commentary",
+			"weight": 10
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Poster",
+			"weight": 30
+		}
+	]
+}

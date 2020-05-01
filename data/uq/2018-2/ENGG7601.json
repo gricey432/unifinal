@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Dimensional analysis and scaling",
+			"weight": 5
+		},
+		{
+			"name": "Wind tunnel experiments",
+			"weight": 0
+		},
+		{
+			"name": "Design drawings",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 multiparamteric uncertainty analysis",
+			"weight": 5
+		},
+		{
+			"name": "Experiment Design Plan",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 numerical experiment ",
+			"weight": 10
+		},
+		{
+			"name": "peer assessment for experiment project",
+			"weight": 0
+		},
+		{
+			"name": "Experiment Design Report Group submission",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

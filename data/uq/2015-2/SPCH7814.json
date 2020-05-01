@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Seminar Presentations",
+			"weight": 20
+		},
+		{
+			"name": "Ethics Seminar Reflections",
+			"weight": 5
+		},
+		{
+			"name": "Professional Practice Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Community Education Project, Assessed in 2 stages",
+			"weight": 40
+		},
+		{
+			"name": "Ethics end of semester exam",
+			"weight": 25
+		}
+	]
+}

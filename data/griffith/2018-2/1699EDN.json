@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Develop and justify a school philosophy statement",
+			"weight": 50
+		},
+		{
+			"name": "Analyse ethical scenarios",
+			"weight": 50
+		}
+	]
+}

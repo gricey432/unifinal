@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester examination",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1 - Laboratory Project Report",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 - Problem Solving",
+			"weight": 15
+		},
+		{
+			"name": "End of trimester examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Editing Test",
+			"weight": 24
+		},
+		{
+			"name": "Style Guide",
+			"weight": 4
+		},
+		{
+			"name": "First Portfolio Draft (feature article)",
+			"weight": 3
+		},
+		{
+			"name": "Second Portfolio Draft (own choice)",
+			"weight": 3
+		},
+		{
+			"name": "Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Final Editing Test",
+			"weight": 36
+		}
+	]
+}

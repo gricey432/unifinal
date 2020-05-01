@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of industry case presentations",
+			"weight": 30
+		},
+		{
+			"name": "Concept testing of a new product/service concept",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

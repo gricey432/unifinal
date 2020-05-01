@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on the Profession",
+			"weight": 25
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		}
+	]
+}

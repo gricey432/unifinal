@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports and attendance",
+			"weight": 30
+		},
+		{
+			"name": "Implications of N, P & K from pigs and poultry",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

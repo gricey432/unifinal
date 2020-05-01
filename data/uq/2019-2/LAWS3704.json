@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class group presentation",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam (closed-book)",
+			"weight": 65
+		}
+	]
+}

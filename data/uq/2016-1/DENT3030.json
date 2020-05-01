@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical work across the year",
+			"weight": 30
+		},
+		{
+			"name": "OSCE",
+			"weight": 10
+		},
+		{
+			"name": "Pre-clinical Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Semester 2 theory examination",
+			"weight": 30
+		}
+	]
+}

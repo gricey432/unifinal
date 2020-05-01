@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Change and Innovation Individual Essay",
+			"weight": 30
+		},
+		{
+			"name": "Guest Experience Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

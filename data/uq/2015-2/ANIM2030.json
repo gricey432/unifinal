@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Science Communication 1",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Science Communication 2",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

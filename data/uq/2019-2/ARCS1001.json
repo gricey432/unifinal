@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Practical Exam 1",
+			"weight": 25
+		},
+		{
+			"name": "In-Class Practical Exam 2",
+			"weight": 25
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Survey",
+			"weight": 2
+		},
+		{
+			"name": "Qualitative Research Photovoice Project",
+			"weight": 8
+		},
+		{
+			"name": "Quantitative Research Practical Reports",
+			"weight": 15
+		},
+		{
+			"name": "Interprofessional Group Research Project",
+			"weight": 30
+		},
+		{
+			"name": "Mixed & Qualitative Research Methods Exam",
+			"weight": 20
+		},
+		{
+			"name": "Quantitative Research Methods Exam",
+			"weight": 25
+		}
+	]
+}

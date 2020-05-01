@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Case Study Memo",
+			"weight": 20
+		},
+		{
+			"name": "Individual Strategic HRM Report",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

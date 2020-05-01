@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-departure learning plan",
+			"weight": 30
+		},
+		{
+			"name": "Placement journal/reflection",
+			"weight": 40
+		},
+		{
+			"name": "Presentation (oral or digital)",
+			"weight": 30
+		}
+	]
+}

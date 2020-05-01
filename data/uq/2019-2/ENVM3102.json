@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Placement Project Brief",
+			"weight": 10
+		},
+		{
+			"name": "Project Brief Feedback (Workshop)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Supervisor's Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Placement Debrief (Review)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Supervisor's Report 2",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2: Placement Project Poster",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Placement Project Report",
+			"weight": 60
+		}
+	]
+}

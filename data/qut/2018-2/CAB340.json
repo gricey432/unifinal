@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cryptography  assignment",
+			"weight": 40
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 20
+		},
+		{
+			"name": "Examination (Theory)",
+			"weight": 40
+		}
+	]
+}

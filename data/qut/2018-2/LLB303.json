@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video (oral) Advocacy Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Written Advocacy Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Open-book Exam",
+			"weight": 60
+		}
+	]
+}

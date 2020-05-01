@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Health Promotion Project",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

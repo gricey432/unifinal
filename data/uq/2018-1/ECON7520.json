@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quiz 1",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard Quiz 2",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard Quiz 3",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard Quiz 4",
+			"weight": 2
+		},
+		{
+			"name": "Application of theory and concept",
+			"weight": 30
+		},
+		{
+			"name": "Blackboard Quiz 5",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

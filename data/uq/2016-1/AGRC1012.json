@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contemporary Issues in Agribusiness",
+			"weight": 20
+		},
+		{
+			"name": "Contemporary Issues in Agribusiness ",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 10
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 3",
+			"weight": 30
+		}
+	]
+}

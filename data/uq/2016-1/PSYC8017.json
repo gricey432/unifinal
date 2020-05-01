@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Engagement in Workshops",
+			"weight": 10
+		},
+		{
+			"name": "10 x 250w executive summary of workshop reading",
+			"weight": 20
+		},
+		{
+			"name": "Individual vs. Social Determinants Essay",
+			"weight": 30
+		},
+		{
+			"name": "\"Closing the Gap\" Report",
+			"weight": 40
+		}
+	]
+}

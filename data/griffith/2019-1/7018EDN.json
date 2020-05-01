@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of selected texts on globalisation",
+			"weight": 40
+		},
+		{
+			"name": "Education and globalisation",
+			"weight": 60
+		}
+	]
+}

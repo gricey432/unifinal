@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Placement proposal &amp; Lab book",
+			"weight": 35
+		},
+		{
+			"name": "Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 15
+		}
+	]
+}

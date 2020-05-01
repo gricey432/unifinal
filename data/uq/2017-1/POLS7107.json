@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam I",
+			"weight": 20
+		},
+		{
+			"name": "Essay (3000 words)",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Exam II",
+			"weight": 20
+		}
+	]
+}

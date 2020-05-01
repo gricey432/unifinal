@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review Activities",
+			"weight": 20
+		},
+		{
+			"name": "Law Reform Submission",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

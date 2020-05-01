@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/report on weekly reading",
+			"weight": 20
+		},
+		{
+			"name": "In class Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignnment",
+			"weight": 40
+		},
+		{
+			"name": "In class Quiz 2",
+			"weight": 20
+		}
+	]
+}

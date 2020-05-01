@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1 x Research Project Report",
+			"weight": 12
+		},
+		{
+			"name": "5 x Laboratories with 2 x Laboratory Reports",
+			"weight": 16
+		},
+		{
+			"name": "1 x Site Visit Report",
+			"weight": 12
+		},
+		{
+			"name": "1 x Examination",
+			"weight": 60
+		}
+	]
+}

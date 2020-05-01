@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical pharmacology and allied health profession",
+			"weight": 25
+		},
+		{
+			"name": "Online Supervised Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 50
+		}
+	]
+}

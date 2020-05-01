@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A1 - e-Portfolio - Who am I, and where am I going?",
+			"weight": 10
+		},
+		{
+			"name": "A2 - Interview with a Professional",
+			"weight": 25
+		},
+		{
+			"name": "A3 - Personal Development Portfolio",
+			"weight": 45
+		},
+		{
+			"name": "A4 - Online Exam",
+			"weight": 20
+		}
+	]
+}

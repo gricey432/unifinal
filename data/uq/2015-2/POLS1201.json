@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly for nine weeks",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 30
+		}
+	]
+}

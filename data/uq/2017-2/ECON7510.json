@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1,500 word Seminar paper & slides",
+			"weight": 30
+		},
+		{
+			"name": "1,500 word journal article review",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

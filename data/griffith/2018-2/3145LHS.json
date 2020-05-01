@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Verbal Seminar Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

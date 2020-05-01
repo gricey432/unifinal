@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Feedback",
+			"weight": 0
+		},
+		{
+			"name": "Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Film",
+			"weight": 50
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Report on a substation site visit",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Submisssion No 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Submisssion No 2",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

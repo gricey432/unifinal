@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Business Analysis",
+			"weight": 60
+		}
+	]
+}

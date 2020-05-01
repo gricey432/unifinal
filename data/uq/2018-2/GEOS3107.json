@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Key Debates in Palaeoecology/Archaeobotany",
+			"weight": 50
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

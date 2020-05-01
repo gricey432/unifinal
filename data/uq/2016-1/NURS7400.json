@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Frameworks for illness and disability",
+			"weight": 40
+		},
+		{
+			"name": "Models of Care in CDM/PC",
+			"weight": 60
+		}
+	]
+}

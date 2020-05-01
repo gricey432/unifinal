@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project plan",
+			"weight": 10
+		},
+		{
+			"name": "Essay on a Topic in Rural Community Development",
+			"weight": 30
+		},
+		{
+			"name": "Collation of Personal Learning ",
+			"weight": 10
+		},
+		{
+			"name": "Learning Project Report",
+			"weight": 50
+		}
+	]
+}

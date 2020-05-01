@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Units & exercises",
+			"weight": 20
+		},
+		{
+			"name": "Research essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

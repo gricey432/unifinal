@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Corrosion and Electrochemistry Labs",
+			"weight": 10
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Electrochemistry Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Corrosion Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

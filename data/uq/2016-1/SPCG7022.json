@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Selection of tutorial exercises",
+			"weight": 30
+		},
+		{
+			"name": "Conduct a High Performance Review",
+			"weight": 70
+		}
+	]
+}

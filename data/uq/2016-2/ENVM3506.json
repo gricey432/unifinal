@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of selected Aichi Targets",
+			"weight": 30
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 50
+		}
+	]
+}

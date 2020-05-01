@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Appraisal Pre-Test",
+			"weight": "Pass"
+		},
+		{
+			"name": "Critical appraisal and academic writing",
+			"weight": "Pass"
+		},
+		{
+			"name": "Research commentary",
+			"weight": "Pass"
+		}
+	]
+}

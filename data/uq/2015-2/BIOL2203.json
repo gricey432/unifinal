@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Biodiversity - Fungi",
+			"weight": 5
+		},
+		{
+			"name": "Biodiversity Gymnosperms",
+			"weight": 5
+		},
+		{
+			"name": "Biodiversity Angiosperms",
+			"weight": 5
+		},
+		{
+			"name": "Plant-hormone interactions",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Plant-Environment Interactions",
+			"weight": 15
+		},
+		{
+			"name": "Biotechnology practical",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 20
+		}
+	]
+}

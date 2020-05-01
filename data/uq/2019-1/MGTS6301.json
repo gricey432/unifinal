@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Constructive contributions to debating theory",
+			"weight": 20
+		},
+		{
+			"name": "Reflective diary",
+			"weight": 50
+		},
+		{
+			"name": "An evaluation of a manuscript",
+			"weight": 30
+		}
+	]
+}

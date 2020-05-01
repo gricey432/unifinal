@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Reflections on Learning and Lecture Attendance",
+			"weight": 2
+		},
+		{
+			"name": "Aspirin Absorption",
+			"weight": 10
+		},
+		{
+			"name": "Reflection on Unknown Experience",
+			"weight": 1
+		},
+		{
+			"name": "Resolution of Unknown Experiments",
+			"weight": 1
+		},
+		{
+			"name": "Identification of Unknowns Report",
+			"weight": 15
+		},
+		{
+			"name": "Alcohol ",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 45
+		}
+	]
+}

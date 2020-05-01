@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Supervision Contract",
+			"weight": "Formative"
+		},
+		{
+			"name": "Core Skills Competency",
+			"weight": "Formative"
+		},
+		{
+			"name": "Learning Journal",
+			"weight": "Personal Development"
+		},
+		{
+			"name": "Formative Supervisor Evaluation of Practice",
+			"weight": "Formative"
+		},
+		{
+			"name": "Three Minute Thesis Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Practicum Report Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1 : Project Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2: Project Report",
+			"weight": 50
+		}
+	]
+}

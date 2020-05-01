@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Exam",
+			"weight": 25
+		},
+		{
+			"name": "1. Descriptive Statistics",
+			"weight": 4
+		},
+		{
+			"name": "2. Probability",
+			"weight": 4
+		},
+		{
+			"name": "My Own Statistics Story Book (MOSS Book)",
+			"weight": 5
+		},
+		{
+			"name": "3. Normal and Sampling Distributions",
+			"weight": 4
+		},
+		{
+			"name": "4. Confidence Intervals",
+			"weight": 4
+		},
+		{
+			"name": "5. Hypothesis Testing",
+			"weight": 4
+		},
+		{
+			"name": "6. Simple Linear Regression",
+			"weight": 4
+		},
+		{
+			"name": "Final exam. TBA.",
+			"weight": 50
+		}
+	]
+}

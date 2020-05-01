@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fixed prosthodontics preclinical competency FGC",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Preclinical competency - Premolar Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "End of semester Theory Examination",
+			"weight": 60
+		}
+	]
+}

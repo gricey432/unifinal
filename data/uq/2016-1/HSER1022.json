@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Short essay on an ethical issue",
+			"weight": 40
+		},
+		{
+			"name": "Human rights & law",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Campaign strategy",
+			"weight": 60
+		},
+		{
+			"name": "Multiple-choice exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Electron Microscopy",
+			"weight": 8
+		},
+		{
+			"name": "Electron Microscopy",
+			"weight": 12
+		},
+		{
+			"name": "3D scanning",
+			"weight": 20
+		},
+		{
+			"name": "Microcontroller for signal processing",
+			"weight": 20
+		},
+		{
+			"name": "Electrochemical characterization of materials",
+			"weight": 20
+		},
+		{
+			"name": "Heat Transfer",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Participation",
+			"weight": 25
+		},
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

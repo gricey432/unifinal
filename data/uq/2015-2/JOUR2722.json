@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PROJECT PART 1",
+			"weight": 10
+		},
+		{
+			"name": "PROJECT PART 2",
+			"weight": 15
+		},
+		{
+			"name": "PROJECT PART 3",
+			"weight": 25
+		},
+		{
+			"name": "Weekly In Class Test: MCQ or Short Answer",
+			"weight": 50
+		}
+	]
+}

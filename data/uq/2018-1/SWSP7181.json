@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "An analysis of health care needs and health care",
+			"weight": 20
+		},
+		{
+			"name": "Framework for practice in health and ageing",
+			"weight": 30
+		},
+		{
+			"name": "Demonstration of skills",
+			"weight": 25
+		},
+		{
+			"name": "Part One: Case note from the demonstration",
+			"weight": 10
+		},
+		{
+			"name": "Part Two: Reflection on the demonstration",
+			"weight": 15
+		}
+	]
+}

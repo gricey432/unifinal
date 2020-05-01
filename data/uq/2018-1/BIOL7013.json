@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Web-based Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Glossary of technical terms",
+			"weight": 20
+		},
+		{
+			"name": "Assignment: diagnostic exercise",
+			"weight": 40
+		},
+		{
+			"name": "Final Quiz",
+			"weight": "Pass/Fail"
+		}
+	]
+}

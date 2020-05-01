@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Case Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Individual Newspaper Article Review 1",
+			"weight": 20
+		},
+		{
+			"name": "Individual Newspaper Article Review 2",
+			"weight": 20
+		},
+		{
+			"name": "Individual Essay",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quantitative research plan - Part I/ II",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz - muliple choice",
+			"weight": 10
+		},
+		{
+			"name": "Interview activity",
+			"weight": 25
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		}
+	]
+}

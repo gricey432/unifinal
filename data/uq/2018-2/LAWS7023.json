@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Business Law Multiple Choice Exam",
+			"weight": 20
+		},
+		{
+			"name": "Two ILAC Submissions in Seminars",
+			"weight": "Each submission is worth 5"
+		},
+		{
+			"name": "Business Law Assignment",
+			"weight": 20
+		},
+		{
+			"name": "First 5% Corporate Law In-Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Second 5% Corporate Law In-Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Corporate Law Exam",
+			"weight": 40
+		}
+	]
+}

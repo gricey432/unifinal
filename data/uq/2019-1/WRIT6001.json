@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Online Tutorial",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Outline of Literature Review assessment",
+			"weight": 15
+		},
+		{
+			"name": "Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Article Review",
+			"weight": 30
+		},
+		{
+			"name": "Literature review",
+			"weight": 40
+		}
+	]
+}

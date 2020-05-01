@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative practice in sim",
+			"weight": 20
+		},
+		{
+			"name": "Care plan case study",
+			"weight": 40
+		},
+		{
+			"name": "Short Answer Case Study Exam",
+			"weight": 40
+		}
+	]
+}

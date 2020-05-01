@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Modules 1-6 ",
+			"weight": 12
+		},
+		{
+			"name": "Individual Contribution to Green Discussion Boards",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Group Presentations ",
+			"weight": 12
+		},
+		{
+			"name": "Attendance at online tutorials",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Peer feedback on Group Work Sem 1",
+			"weight": 0
+		},
+		{
+			"name": "Clinical Bite Presentation",
+			"weight": 2
+		},
+		{
+			"name": "Oral VIVA   ",
+			"weight": 22
+		},
+		{
+			"name": "End of year Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Case Review ",
+			"weight": 12
+		},
+		{
+			"name": "Slides for Clinical Bite Presentation  ",
+			"weight": 2
+		},
+		{
+			"name": "Peer Review of a VIVA",
+			"weight": 4
+		},
+		{
+			"name": "Reflection on Professional Practice ",
+			"weight": " Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Online Reading Quizzes ",
+			"weight": 10
+		},
+		{
+			"name": "Representation of a scene from \"Huis clos\"",
+			"weight": 6
+		},
+		{
+			"name": "Analytical essay based on performance: \"Huis clos\"",
+			"weight": 9
+		},
+		{
+			"name": "Audio-visual presentation of a mythology",
+			"weight": 20
+		},
+		{
+			"name": "Commentary: Sebbar",
+			"weight": 15
+		},
+		{
+			"name": "Exam - critical commentary",
+			"weight": 30
+		}
+	]
+}

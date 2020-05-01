@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Exam held during Class",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 ",
+			"weight": 10
+		},
+		{
+			"name": "In-class Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

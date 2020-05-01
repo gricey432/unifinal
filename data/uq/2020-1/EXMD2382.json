@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Final Practical Exam",
+			"weight": 45
+		},
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "Skill assessment (contact)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Theory Quizzes",
+			"weight": 28
+		},
+		{
+			"name": "Data Table",
+			"weight": 2
+		},
+		{
+			"name": "Vidoe/Reflection task",
+			"weight": 15
+		},
+		{
+			"name": "Interpretation, Discussion and Feedback Task",
+			"weight": 10
+		}
+	]
+}

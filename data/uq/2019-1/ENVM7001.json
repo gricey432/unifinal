@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental management analysis",
+			"weight": 30
+		},
+		{
+			"name": "Science-based decisions & management",
+			"weight": 30
+		},
+		{
+			"name": "ENVM7001 Examination ",
+			"weight": 40
+		}
+	]
+}

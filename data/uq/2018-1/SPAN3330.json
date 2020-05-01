@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participación y Asistencia",
+			"weight": 5
+		},
+		{
+			"name": "In Class Assessment 1 - Narración",
+			"weight": 15
+		},
+		{
+			"name": "Lectura, revision y reflexion de articulo",
+			"weight": 20
+		},
+		{
+			"name": "In Class Assessment 2 - Descripción",
+			"weight": 15
+		},
+		{
+			"name": "Exposición",
+			"weight": 20
+		},
+		{
+			"name": "Argumentación",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Occupational Performance Interview",
+			"weight": 15
+		},
+		{
+			"name": "Occupational Performance Case Assignment",
+			"weight": 35
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1 (Book Review)",
+			"weight": 15
+		},
+		{
+			"name": "Assessment Task 2: Presentation - Book Club",
+			"weight": 15
+		},
+		{
+			"name": "Assessment Task 3: Peer assessment of presentation",
+			"weight": 5
+		},
+		{
+			"name": "Four in-class quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Attendance at Library Skills Session",
+			"weight": 5
+		},
+		{
+			"name": "Assessment Task 4",
+			"weight": 40
+		}
+	]
+}

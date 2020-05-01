@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture input and short quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Team project",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Disease Collection",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester Practical Exam",
+			"weight": 5
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

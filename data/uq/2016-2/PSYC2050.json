@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercise",
+			"weight": 20
+		},
+		{
+			"name": "Self monitoring project",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in the residential school",
+			"weight": 7
+		},
+		{
+			"name": "Essay on diversity and abundance of invertebrates",
+			"weight": 18
+		},
+		{
+			"name": "Technique Manual",
+			"weight": 35
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

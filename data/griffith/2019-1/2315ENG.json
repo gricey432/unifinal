@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engineering Stage 1 Competencies Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Conduct and Reports",
+			"weight": 40
+		},
+		{
+			"name": "Four Module quizzes",
+			"weight": 50
+		}
+	]
+}

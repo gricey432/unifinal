@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Independent tasks",
+			"weight": 10
+		},
+		{
+			"name": "A1",
+			"weight": 20
+		},
+		{
+			"name": "A2",
+			"weight": 20
+		},
+		{
+			"name": "A3",
+			"weight": 50
+		}
+	]
+}

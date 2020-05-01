@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Blog",
+			"weight": 40
+		},
+		{
+			"name": "Design Charrette",
+			"weight": 60
+		}
+	]
+}

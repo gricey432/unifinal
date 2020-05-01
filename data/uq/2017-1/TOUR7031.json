@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facility Design Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Critique of visitor site",
+			"weight": 40
+		},
+		{
+			"name": "Facility Design Proposal",
+			"weight": 45
+		}
+	]
+}

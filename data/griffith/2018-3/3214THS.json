@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Web-based Assignment Problems",
+			"weight": 10
+		},
+		{
+			"name": "Mid-trimester Test",
+			"weight": 35
+		},
+		{
+			"name": "Hotel Annual Report Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 35
+		}
+	]
+}

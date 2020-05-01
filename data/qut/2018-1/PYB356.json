@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration and Critique",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

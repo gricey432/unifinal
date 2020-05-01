@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of articles for Research Essay (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay (3000 words)",
+			"weight": 50
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

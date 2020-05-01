@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Arcade Game Prototype",
+			"weight": 40
+		},
+		{
+			"name": "Arcade Game",
+			"weight": 60
+		}
+	]
+}

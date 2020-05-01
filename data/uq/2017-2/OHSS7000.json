@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook - Part A",
+			"weight": 6
+		},
+		{
+			"name": "Workbook - Part B",
+			"weight": 6
+		},
+		{
+			"name": "Workbook - Part C",
+			"weight": 4
+		},
+		{
+			"name": "Legislation Quiz",
+			"weight": 4
+		},
+		{
+			"name": "Hazardous Chemicals Case Study Report",
+			"weight": 15
+		},
+		{
+			"name": "Hazardous Manual Tasks Case Study Report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

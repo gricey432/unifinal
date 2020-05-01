@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Special Interest Group (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Tour Plan Portfolio and Presentation (Group)",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

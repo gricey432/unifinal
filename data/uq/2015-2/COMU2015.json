@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, Preparation and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Celebrity media analysis",
+			"weight": 30
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group project: Outline, rationale, research plan",
+			"weight": 15
+		},
+		{
+			"name": "Project Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Reflection: Practice, Concepts, Rigour and Benefit",
+			"weight": 15
+		},
+		{
+			"name": "Group project: research results",
+			"weight": 15
+		},
+		{
+			"name": "A topic chosen by the group",
+			"weight": 45
+		}
+	]
+}

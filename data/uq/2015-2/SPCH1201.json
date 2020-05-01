@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Fieldwork Results",
+			"weight": 15
+		},
+		{
+			"name": "Research Module Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Communication Across the Lifespan Module Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Semantics Report",
+			"weight": 30
+		},
+		{
+			"name": "Articulation/Phonology Report",
+			"weight": 30
+		}
+	]
+}

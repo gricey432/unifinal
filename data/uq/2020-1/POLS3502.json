@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and synopsis writing",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay 1 (3000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Research Essay 2 (3000 words)",
+			"weight": 45
+		}
+	]
+}

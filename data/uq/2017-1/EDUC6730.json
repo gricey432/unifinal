@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Musicianship",
+			"weight": 20
+		},
+		{
+			"name": "Repertoire Folio",
+			"weight": 30
+		},
+		{
+			"name": "Learning Sequence",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Standardised Patient Voice Clinic",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Weekly Rostered Clinic",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

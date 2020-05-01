@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "MediaLab Participation",
+			"weight": 5
+		},
+		{
+			"name": "Choice of assessment",
+			"weight": 25
+		},
+		{
+			"name": "Surveys and uploads",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 18
+		},
+		{
+			"name": "Long Essay",
+			"weight": 40
+		}
+	]
+}

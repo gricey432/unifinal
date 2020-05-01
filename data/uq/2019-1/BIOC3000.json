@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pipetting exercise",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Press Release",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory worksheets w1-w8",
+			"weight": 13
+		},
+		{
+			"name": "News & Views article",
+			"weight": 30
+		},
+		{
+			"name": "NMR in biology and X-ray structure determination",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

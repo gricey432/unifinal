@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop  assessment",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Trimester Test",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

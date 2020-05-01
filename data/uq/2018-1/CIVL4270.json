@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Geotechnical Investigation & Testing Program",
+			"weight": 20
+		},
+		{
+			"name": "Interpreting Geotechnical Parameters",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz - SDL Week 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - Practical Schedule 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - SDL week 6",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - Practical Schedule 2",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - Practical Schedule 3",
+			"weight": 10
+		},
+		{
+			"name": "Written Examination",
+			"weight": 50
+		}
+	]
+}

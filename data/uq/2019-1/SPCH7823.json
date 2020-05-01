@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook ",
+			"weight": 10
+		},
+		{
+			"name": "Narrative analysis",
+			"weight": 20
+		},
+		{
+			"name": "Assessment planning assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

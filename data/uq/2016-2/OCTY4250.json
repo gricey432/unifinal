@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Organisational SWOT Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Work Rehabilitation Evidence Report",
+			"weight": 35
+		},
+		{
+			"name": "Rehabilitation Plan Seminar - E-Conference ",
+			"weight": 45
+		}
+	]
+}

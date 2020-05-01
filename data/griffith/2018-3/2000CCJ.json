@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz ",
+			"weight": 20
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

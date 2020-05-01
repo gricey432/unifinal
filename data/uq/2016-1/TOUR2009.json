@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Destination Market Analysis",
+			"weight": 20
+		},
+		{
+			"name": "IMC Strategy",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

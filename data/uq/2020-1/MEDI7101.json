@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental scan and Advocacy Letter",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Vlog",
+			"weight": 25
+		},
+		{
+			"name": "Database Search",
+			"weight": 25
+		}
+	]
+}

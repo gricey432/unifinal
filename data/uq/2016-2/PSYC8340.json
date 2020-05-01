@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of work completed on extended placement",
+			"weight": "mandatory"
+		},
+		{
+			"name": "Interview with site supervisor at mid term and end",
+			"weight": "This is the most important part of the assessment"
+		}
+	]
+}

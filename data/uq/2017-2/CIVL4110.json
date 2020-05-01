@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving sessions ",
+			"weight": 0
+		},
+		{
+			"name": "Attendance and professional participation in field",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of class data & group oral presentation ",
+			"weight": 15
+		},
+		{
+			"name": "Group report & Excel data file on fieldwork",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

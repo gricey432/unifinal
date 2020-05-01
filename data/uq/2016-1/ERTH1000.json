@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Tectonics of the Australian plate",
+			"weight": 5
+		},
+		{
+			"name": "Visualizing the Earth using maps",
+			"weight": 5
+		},
+		{
+			"name": "Water flow & flooding",
+			"weight": 5
+		},
+		{
+			"name": "Landscape evolution",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Field trip report",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

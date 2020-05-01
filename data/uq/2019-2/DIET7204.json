@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Skills attainment",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Placement reports",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Attendance and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

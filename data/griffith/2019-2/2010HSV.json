@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Headline Learning ",
+			"weight": 15
+		},
+		{
+			"name": "Podcast: What is Dialogue?",
+			"weight": 40
+		},
+		{
+			"name": "Bringing It All Together - Case Study Analysis    ",
+			"weight": 45
+		},
+		{
+			"name": "Headline Learning ",
+			"weight": 15
+		},
+		{
+			"name": "Podcast: What is Dialogue?",
+			"weight": 40
+		},
+		{
+			"name": "Bringing It All Together - Case Study Analysis    ",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (practical)",
+			"weight": 60
+		},
+		{
+			"name": "Professional Plan (Manifesto)",
+			"weight": 40
+		}
+	]
+}

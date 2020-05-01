@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 20
+		},
+		{
+			"name": "Issue brief and briefing",
+			"weight": 50
+		}
+	]
+}

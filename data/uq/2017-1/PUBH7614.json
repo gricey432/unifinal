@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HEALTH SYSTEM REPORT",
+			"weight": 50
+		},
+		{
+			"name": "IMHO: MY HEALTH SYSTEM ISSUE",
+			"weight": 30
+		},
+		{
+			"name": "Quizzes ",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion Forum",
+			"weight": 10
+		},
+		{
+			"name": "Written Report 1",
+			"weight": 20
+		},
+		{
+			"name": "Written Report 2",
+			"weight": 25
+		},
+		{
+			"name": "Written Report 3",
+			"weight": 20
+		},
+		{
+			"name": "Written Report 4",
+			"weight": 25
+		}
+	]
+}

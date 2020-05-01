@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Online module and memorandum of advice",
+			"weight": 20
+		},
+		{
+			"name": "Seminar facilitation",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Open-Book Exam",
+			"weight": 40
+		}
+	]
+}

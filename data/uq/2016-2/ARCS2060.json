@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Field Recording (including artefact analysis)",
+			"weight": 50
+		},
+		{
+			"name": "Participation in the full fieldwork season",
+			"weight": 20
+		},
+		{
+			"name": "Research Report",
+			"weight": 30
+		}
+	]
+}

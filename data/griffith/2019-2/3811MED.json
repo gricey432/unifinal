@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Risk Assessment Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Job Application",
+			"weight": 10
+		},
+		{
+			"name": "Triage Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Major Incident Desktop Simulation",
+			"weight": 0
+		}
+	]
+}

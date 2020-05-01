@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Briefing Note",
+			"weight": 40
+		},
+		{
+			"name": "Workplace Report",
+			"weight": 60
+		}
+	]
+}

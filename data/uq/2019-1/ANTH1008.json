@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation during the course",
+			"weight": 5
+		},
+		{
+			"name": "Short Exercises",
+			"weight": 55
+		},
+		{
+			"name": "Talking and Observing",
+			"weight": 40
+		}
+	]
+}

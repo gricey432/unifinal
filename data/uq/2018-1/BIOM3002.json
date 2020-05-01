@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Evaluation for Visceral Dissection",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Gross Anatomy Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		},
+		{
+			"name": "End of Semester Gross Anatomy Practical Exam",
+			"weight": 20
+		}
+	]
+}

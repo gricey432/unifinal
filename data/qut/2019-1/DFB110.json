@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Fashion: Line, Shape &amp; Volume",
+			"weight": 40
+		},
+		{
+			"name": "Fashion: Colour and Texture",
+			"weight": 60
+		}
+	]
+}

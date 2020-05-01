@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Positioning Statement ",
+			"weight": 20
+		},
+		{
+			"name": "Team research and presentation ",
+			"weight": 40
+		},
+		{
+			"name": "Written assessment of personal performance",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, Participation and Short Presentation",
+			"weight": 20
+		},
+		{
+			"name": "First Essay ",
+			"weight": 20
+		},
+		{
+			"name": "Second Essay",
+			"weight": 35
+		},
+		{
+			"name": "Take-Home Exam",
+			"weight": 25
+		}
+	]
+}

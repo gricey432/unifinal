@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading and research diary",
+			"weight": 50
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Research assignment",
+			"weight": 30
+		}
+	]
+}

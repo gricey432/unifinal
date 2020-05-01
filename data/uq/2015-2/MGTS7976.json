@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Project Report",
+			"weight": 50
+		},
+		{
+			"name": "Learning Project Plan",
+			"weight": 15
+		},
+		{
+			"name": "Essay on an Engagement Topic (Choice of 4 topics)",
+			"weight": 35
+		}
+	]
+}

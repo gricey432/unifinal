@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Practice Immersion",
+			"weight": 50
+		},
+		{
+			"name": "Professional Practice Exam",
+			"weight": 50
+		}
+	]
+}

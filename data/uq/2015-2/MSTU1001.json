@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "critical reading summary and quote analysis",
+			"weight": 10
+		},
+		{
+			"name": "Storyboard and Rationale",
+			"weight": 40
+		},
+		{
+			"name": "Film or Television Analysis Essay",
+			"weight": 40
+		}
+	]
+}

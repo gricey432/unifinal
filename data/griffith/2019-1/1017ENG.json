@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PROJECT 1: Materials Characterisation & Selection",
+			"weight": 10
+		},
+		{
+			"name": "On-line Concept Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "PROJECT 2: Mechanical Properties of Materials",
+			"weight": 30
+		},
+		{
+			"name": "PROJECT 3: Conductivity and Corrosion of Materials",
+			"weight": 30
+		},
+		{
+			"name": "PROJECT 4: Research on Properties of Materials",
+			"weight": 10
+		}
+	]
+}

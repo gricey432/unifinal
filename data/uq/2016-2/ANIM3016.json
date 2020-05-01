@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Husbandry Manual",
+			"weight": 15
+		},
+		{
+			"name": "Online Report - Ipswich Nature Centre",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation based on ZIMS case study",
+			"weight": 10
+		},
+		{
+			"name": "The Release of Captive Wildlife ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

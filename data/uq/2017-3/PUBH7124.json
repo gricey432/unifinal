@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TOBACCO CONTROL IN THE MEDIA - Online Article",
+			"weight": 20
+		},
+		{
+			"name": "Cabinet Submission",
+			"weight": 50
+		},
+		{
+			"name": "Quizzes for Module 1, 2, 3 & 4.",
+			"weight": 30
+		}
+	]
+}

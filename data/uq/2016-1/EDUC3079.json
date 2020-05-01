@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Conflict Resolution",
+			"weight": 20
+		},
+		{
+			"name": "Understanding the Role of Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Critiquing Current Educational Policy Issues",
+			"weight": 20
+		},
+		{
+			"name": "Applying Educational Policy and Issues",
+			"weight": 40
+		}
+	]
+}

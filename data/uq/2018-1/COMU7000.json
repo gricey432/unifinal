@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Post-seminar discussions & Summaries",
+			"weight": 10
+		},
+		{
+			"name": "Key shifts in CSC Theory",
+			"weight": 45
+		},
+		{
+			"name": "Essay: A Critique of participatory Communications",
+			"weight": 45
+		}
+	]
+}

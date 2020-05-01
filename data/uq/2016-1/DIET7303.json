@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Identification of personal contribution to work",
+			"weight": "satisfactory"
+		},
+		{
+			"name": "Attendance and Competence",
+			"weight": "Satisfactory"
+		},
+		{
+			"name": "Report of placement projects",
+			"weight": "satisfactory"
+		}
+	]
+}

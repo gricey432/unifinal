@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation in class",
+			"weight": 20
+		},
+		{
+			"name": "Final Quiz",
+			"weight": 20
+		},
+		{
+			"name": "FIRST QUIZ",
+			"weight": 15
+		},
+		{
+			"name": "Practical class active participation",
+			"weight": 5
+		},
+		{
+			"name": "Personal final reflective essay",
+			"weight": 20
+		},
+		{
+			"name": "1st Reflective essay",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical attendance & group risk assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Proteomics practical - lab notebooks, presentation",
+			"weight": 10
+		},
+		{
+			"name": "Critical analysis of research paper",
+			"weight": 15
+		},
+		{
+			"name": "Proteomics Practical: practical report",
+			"weight": 20
+		},
+		{
+			"name": "Metabolomics practical & report",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

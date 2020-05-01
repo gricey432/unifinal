@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "IRR assignment",
+			"weight": 20
+		},
+		{
+			"name": "Marketing assignment",
+			"weight": 20
+		},
+		{
+			"name": "PDP group seminars",
+			"weight": 15
+		},
+		{
+			"name": "Group PDP report",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Editing and genre writing",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Week 12: Final Editing Test",
+			"weight": 40
+		}
+	]
+}

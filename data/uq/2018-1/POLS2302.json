@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summaries of set texts",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Short Answer Test",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Summary & Comparison of Selected Texts (800 words)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratories 1-5 ",
+			"weight": 16
+		},
+		{
+			"name": "Quiz 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 ",
+			"weight": 10
+		},
+		{
+			"name": "Enzyme kinetics report",
+			"weight": 12
+		},
+		{
+			"name": "Quiz 3 ",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Exam ",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Voice Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Hearing Screening Practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fluency Disorders Mid-Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Self-analysis of Voice",
+			"weight": 20
+		},
+		{
+			"name": "Fluency: Practical and case-based assignment",
+			"weight": 20
+		},
+		{
+			"name": "SPCH7803/2 Online exam - Fluency Disorders",
+			"weight": 15
+		},
+		{
+			"name": "SPCH7803/1 Voice Disorders",
+			"weight": 20
+		}
+	]
+}

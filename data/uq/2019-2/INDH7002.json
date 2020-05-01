@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal standpoint: Introducing yourself",
+			"weight": 15
+		},
+		{
+			"name": "Culturally-appropriate models of Indigenous health",
+			"weight": 40
+		},
+		{
+			"name": "Addressing an Indigenous Health issue",
+			"weight": 45
+		}
+	]
+}

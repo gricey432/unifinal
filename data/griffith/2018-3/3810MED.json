@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Based Learning Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Prehospital Management Report  ",
+			"weight": 30
+		},
+		{
+			"name": "Case Based Learning Report 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		},
+		{
+			"name": "End of Trimester OSCE",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Mix Critique",
+			"weight": 40
+		}
+	]
+}

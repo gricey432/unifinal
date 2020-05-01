@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Vocabulary",
+			"weight": 15
+		},
+		{
+			"name": "online discussion ",
+			"weight": 10
+		},
+		{
+			"name": "Writing assignment ",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

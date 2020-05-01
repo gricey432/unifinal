@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review (1500 words)",
+			"weight": 25
+		},
+		{
+			"name": "Policy Brief (2500) words)",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Examination of a biotechnology patent",
+			"weight": 20
+		},
+		{
+			"name": "Deconstruction and analysis of a dispute ",
+			"weight": 20
+		},
+		{
+			"name": "Myriad decisions in the U.S. and Australia",
+			"weight": 20
+		},
+		{
+			"name": "Biotechnology IP protection strategy",
+			"weight": 40
+		}
+	]
+}

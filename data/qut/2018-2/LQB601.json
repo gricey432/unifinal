@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory research project",
+			"weight": 50
+		},
+		{
+			"name": "LQB601 Conference",
+			"weight": 25
+		},
+		{
+			"name": "Biotechnology patent pitch",
+			"weight": 25
+		}
+	]
+}

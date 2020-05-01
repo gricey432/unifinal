@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Translation exam",
+			"weight": 45
+		},
+		{
+			"name": "Multiple-choice quiz on Bb",
+			"weight": 10
+		},
+		{
+			"name": "Translation exam",
+			"weight": 45
+		}
+	]
+}

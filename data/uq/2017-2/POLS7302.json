@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation ",
+			"weight": 5
+		},
+		{
+			"name": "First Essay (2000- 2200 words)",
+			"weight": 40
+		},
+		{
+			"name": "Second Essay (3000-3200 words)",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CHEM2002 laboratory",
+			"weight": 35
+		},
+		{
+			"name": "Summative tutorial sheets",
+			"weight": 15
+		},
+		{
+			"name": "Written examination paper",
+			"weight": 50
+		}
+	]
+}

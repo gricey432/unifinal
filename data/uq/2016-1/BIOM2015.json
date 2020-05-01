@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Disruption of homeostasis video or written text",
+			"weight": 19
+		},
+		{
+			"name": "Laboratory quiz (Spirometry)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory quiz (Oral Glucose Tolerance Test)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory Quiz (Blood Pressure)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory Quiz (ECG)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory Quiz (Exercise)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory quiz (Parkinson's Disease)",
+			"weight": 3
+		},
+		{
+			"name": "Laboratory quiz (Somatosensory)",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 45
+		}
+	]
+}

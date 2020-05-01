@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MID-SEMESTER Exam",
+			"weight": 30
+		},
+		{
+			"name": "Market analysis report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

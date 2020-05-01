@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial worksheets",
+			"weight": 5
+		},
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Online quiz #1",
+			"weight": 9
+		},
+		{
+			"name": "Online quiz #2",
+			"weight": 9
+		},
+		{
+			"name": "Submission 1 - Draft of Introduction to Report",
+			"weight": 0
+		},
+		{
+			"name": "Online quiz #3",
+			"weight": 9
+		},
+		{
+			"name": "Online quiz #4",
+			"weight": 9
+		},
+		{
+			"name": "Submission 2 - Complete Lab Report",
+			"weight": 35
+		},
+		{
+			"name": "Online quiz #5",
+			"weight": 9
+		},
+		{
+			"name": "Online quiz #6",
+			"weight": 9
+		}
+	]
+}

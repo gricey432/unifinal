@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Community of Practice (CoP) for Assign 2 (Lit Rev)",
+			"weight": 5
+		},
+		{
+			"name": "Critical analysis of school leadership literature",
+			"weight": 35
+		},
+		{
+			"name": "Community of Practice (CoP) for Assign 4 (Case)",
+			"weight": 5
+		},
+		{
+			"name": "Critical analysis of leadership in action",
+			"weight": 55
+		}
+	]
+}

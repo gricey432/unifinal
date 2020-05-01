@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "AGRC6005 Research Thesis",
+			"weight": 80
+		},
+		{
+			"name": "AGRC6005 Supervisor's assessment",
+			"weight": 10
+		},
+		{
+			"name": "AGRC6005 Honours Seminar",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Research Proposal",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Qualitative Research Assignment ",
+			"weight": 20
+		},
+		{
+			"name": "Full Research Proposal",
+			"weight": 50
+		},
+		{
+			"name": "Final Statistics Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small group presentation",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		}
+	]
+}

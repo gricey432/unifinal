@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Acquired Aphasia Exam",
+			"weight": 50
+		},
+		{
+			"name": "Cognitive-Communication Disorders Exam",
+			"weight": 50
+		},
+		{
+			"name": "Clinical practice evaluation",
+			"weight": "Pass/Fail (must pass)"
+		}
+	]
+}

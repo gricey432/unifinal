@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exercise Program",
+			"weight": 25
+		},
+		{
+			"name": "Literature Review and Demo.",
+			"weight": 40
+		},
+		{
+			"name": "Athlete Annual Plan",
+			"weight": 35
+		}
+	]
+}

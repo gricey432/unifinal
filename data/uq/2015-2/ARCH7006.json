@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Urban analysis",
+			"weight": 20
+		},
+		{
+			"name": "Physical model",
+			"weight": 20
+		},
+		{
+			"name": "Architectural Project ",
+			"weight": 60
+		}
+	]
+}

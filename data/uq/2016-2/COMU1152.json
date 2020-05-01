@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "PR Writing Foundations",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio of PR Tools",
+			"weight": 55
+		},
+		{
+			"name": "Digital Communication Tools",
+			"weight": 25
+		}
+	]
+}

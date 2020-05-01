@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exam 1 - Spotter Test",
+			"weight": 20
+		},
+		{
+			"name": "Participation during the Practical classes",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz on Musculoskeletal Anatomy",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exam 2 (EOS) - Spotter Test",
+			"weight": 25
+		},
+		{
+			"name": "Theory Exam (EOS)",
+			"weight": 40
+		}
+	]
+}

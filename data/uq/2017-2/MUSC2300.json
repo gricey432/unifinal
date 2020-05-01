@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Collaborative Group Project and Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Individual Report of Collaborative Group Project ",
+			"weight": 40
+		}
+	]
+}

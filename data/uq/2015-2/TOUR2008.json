@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism Futures Scenario",
+			"weight": 35
+		},
+		{
+			"name": "Scenario Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Points on Readings",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 1 Individual Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 2 Individual Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 3 Group Proposal",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 7
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 7
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 35
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

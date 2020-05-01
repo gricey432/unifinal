@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Opinion Paper",
+			"weight": 15
+		},
+		{
+			"name": "Briefing Notes and Executive Summary",
+			"weight": 40
+		},
+		{
+			"name": "Guided Discussion with Peers",
+			"weight": 20
+		},
+		{
+			"name": "Applied Case Responses",
+			"weight": 25
+		}
+	]
+}

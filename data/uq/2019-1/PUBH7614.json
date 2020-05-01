@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Health System of a Developing country",
+			"weight": 50
+		},
+		{
+			"name": "Two Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "IMHO - Opinion piece on a health system issue",
+			"weight": 20
+		}
+	]
+}

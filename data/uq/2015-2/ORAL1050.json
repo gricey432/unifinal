@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Completed Workbook Activities",
+			"weight": 60
+		},
+		{
+			"name": "Presentation and Written Summary",
+			"weight": 20
+		},
+		{
+			"name": "MCQ and T/F",
+			"weight": 20
+		}
+	]
+}

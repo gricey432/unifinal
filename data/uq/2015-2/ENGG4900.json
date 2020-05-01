@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials & Workshop Participation / Submissions ",
+			"weight": 20
+		},
+		{
+			"name": "Draft Case Study Report",
+			"weight": 10
+		},
+		{
+			"name": "Student Case Study presentations",
+			"weight": 15
+		},
+		{
+			"name": "Final Case Study Report",
+			"weight": 50
+		},
+		{
+			"name": "Peer Assessment of two Case Study Submissions",
+			"weight": 5
+		}
+	]
+}

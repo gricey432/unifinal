@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Week 1 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Health & Safety Induction Module",
+			"weight": 0
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Research Encounter",
+			"weight": 15
+		},
+		{
+			"name": "Competency Based Lab Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

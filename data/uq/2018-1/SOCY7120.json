@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "Media Watch Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Final Report",
+			"weight": 50
+		}
+	]
+}

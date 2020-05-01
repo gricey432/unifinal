@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis of industry video case studies",
+			"weight": 30
+		},
+		{
+			"name": "Concept testing of a new product/service concept",
+			"weight": 40
+		}
+	]
+}

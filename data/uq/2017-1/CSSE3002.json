@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Functional Requirements",
+			"weight": 0
+		},
+		{
+			"name": "Formal Inspection",
+			"weight": 10
+		},
+		{
+			"name": "Software Requirements Specification",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

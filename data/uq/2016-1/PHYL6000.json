@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "ANATOMY 1",
+			"weight": 10
+		},
+		{
+			"name": "BIOMECHANICS 1",
+			"weight": 10
+		},
+		{
+			"name": "BIOMECHANICS Assignment",
+			"weight": 30
+		},
+		{
+			"name": "PHYSIOLOGY 1",
+			"weight": 25
+		},
+		{
+			"name": "BIOMECHANICS 2 OR PHYSIOLOGY 2",
+			"weight": 25
+		}
+	]
+}

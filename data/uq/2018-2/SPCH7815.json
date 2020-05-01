@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Planning a Culturally Responsive Child Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Key Word Signing assignment - Paired assignment",
+			"weight": 25
+		},
+		{
+			"name": "Description and Management of a Child",
+			"weight": 40
+		}
+	]
+}

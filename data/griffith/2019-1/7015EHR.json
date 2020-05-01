@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop designed & conducted by student groups",
+			"weight": 40
+		},
+		{
+			"name": "Workshop Critique Report  - Individual ",
+			"weight": 35
+		},
+		{
+			"name": "Interactive Orals",
+			"weight": 25
+		}
+	]
+}

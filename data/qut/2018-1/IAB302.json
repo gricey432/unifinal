@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Turorial Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Consulting Workshop",
+			"weight": 40
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: ER Modelling and Mapping",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: Database System Implementation",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

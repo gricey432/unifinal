@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Analysing a multimodal text",
+			"weight": 40
+		},
+		{
+			"name": "Analysing and teaching a written text",
+			"weight": 60
+		},
+		{
+			"name": "Analysing a multimodal text",
+			"weight": 40
+		},
+		{
+			"name": "Analysing and teaching a written text",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "2 Short Presentations on Trading/Hedging Activity",
+			"weight": 20
+		},
+		{
+			"name": "Overall Hedging & Trading Simulation Activities",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

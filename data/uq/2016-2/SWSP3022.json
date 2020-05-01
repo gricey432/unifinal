@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facilitated Group Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Critical Video Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Central Examination",
+			"weight": 40
+		}
+	]
+}

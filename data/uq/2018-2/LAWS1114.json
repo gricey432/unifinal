@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Examination - Problem Solving",
+			"weight": 40
+		},
+		{
+			"name": "Closed Book Examination",
+			"weight": 60
+		}
+	]
+}

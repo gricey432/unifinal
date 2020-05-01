@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Health Organisations Group Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Protocol",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": "Pass/Fail"
+		}
+	]
+}

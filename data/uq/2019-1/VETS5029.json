@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical EMS Performance",
+			"weight": 50
+		},
+		{
+			"name": "EMS Driving licence",
+			"weight": "P/F"
+		},
+		{
+			"name": "Conference Report",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice ",
+			"weight": 30
+		}
+	]
+}

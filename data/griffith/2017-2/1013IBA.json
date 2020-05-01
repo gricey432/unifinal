@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic quiz",
+			"weight": 0
+		},
+		{
+			"name": "Individual assignment",
+			"weight": 20
+		},
+		{
+			"name": "Elevator pitch",
+			"weight": 20
+		},
+		{
+			"name": "Open editorial",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

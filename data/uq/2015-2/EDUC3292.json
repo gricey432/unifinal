@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Content knowledge quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory skills test",
+			"weight": 20
+		},
+		{
+			"name": "Science lesson planning",
+			"weight": 30
+		}
+	]
+}

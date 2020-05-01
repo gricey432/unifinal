@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation Quizzes",
+			"weight": "NGP"
+		},
+		{
+			"name": "Preparation for Practice",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance ePortfolio 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Evaluation (Formative)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance ePortfolio  2",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Evaluation (Summative)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Assessment (OSCA)",
+			"weight": "NGP"
+		}
+	]
+}

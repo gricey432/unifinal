@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exploring the music industry",
+			"weight": 50
+		},
+		{
+			"name": "Music Industry report",
+			"weight": 50
+		}
+	]
+}

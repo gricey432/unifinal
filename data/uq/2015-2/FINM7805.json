@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Valuation, Portfolio and Risk Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term",
+			"weight": 40
+		},
+		{
+			"name": "Final exam to be held 09:00 12 September 2015",
+			"weight": 50
+		}
+	]
+}

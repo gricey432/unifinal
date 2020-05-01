@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer behaviour literature review",
+			"weight": 20
+		},
+		{
+			"name": "Consumer Research Project",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

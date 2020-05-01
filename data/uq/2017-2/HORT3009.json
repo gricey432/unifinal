@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion topics",
+			"weight": 20
+		},
+		{
+			"name": "Case study on Module 1",
+			"weight": 10
+		},
+		{
+			"name": "Case Sudy on Module 2",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on Module 3",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on Module 4",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

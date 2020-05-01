@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Presentation and Critique  ",
+			"weight": 20
+		},
+		{
+			"name": "eBusiness Project Development ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

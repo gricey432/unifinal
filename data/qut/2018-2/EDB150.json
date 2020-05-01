@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic assessment design",
+			"weight": 40
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 60
+		}
+	]
+}

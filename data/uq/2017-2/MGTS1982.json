@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive assessment ",
+			"weight": 20
+		},
+		{
+			"name": "Personal analysis",
+			"weight": 15
+		},
+		{
+			"name": "Group analysis - Applying theory in practice ",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

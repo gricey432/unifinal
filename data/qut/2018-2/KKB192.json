@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Letter to the editor",
+			"weight": 30
+		},
+		{
+			"name": "Presentation (Oral)",
+			"weight": 40
+		}
+	]
+}

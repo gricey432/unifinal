@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion leadership",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

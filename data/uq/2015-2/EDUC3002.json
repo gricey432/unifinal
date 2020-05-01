@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Music education in theory and practice",
+			"weight": 40
+		},
+		{
+			"name": "Music Learning Workshop",
+			"weight": 30
+		},
+		{
+			"name": "Unit overview",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Agribusiness Case Study - Introduction",
+			"weight": 15
+		},
+		{
+			"name": "Agribusiness Case Study - Report",
+			"weight": 20
+		},
+		{
+			"name": "Agribusiness Case Study - Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - Written Paper",
+			"weight": 50
+		}
+	]
+}

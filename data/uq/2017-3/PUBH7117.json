@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation & reflection ",
+			"weight": 20
+		},
+		{
+			"name": "Mini-health vulnerability assessment",
+			"weight": 35
+		},
+		{
+			"name": "Systematic review ",
+			"weight": 45
+		}
+	]
+}

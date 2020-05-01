@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "(Musicology students only)",
+			"weight": 10
+		},
+		{
+			"name": "(Performers only)",
+			"weight": 30
+		},
+		{
+			"name": "(All students)",
+			"weight": 25
+		},
+		{
+			"name": "(Musicology students only)",
+			"weight": 20
+		},
+		{
+			"name": "(All students) Draft of editing project",
+			"weight": 5
+		},
+		{
+			"name": "(All students) Editing Project",
+			"weight": 40
+		}
+	]
+}

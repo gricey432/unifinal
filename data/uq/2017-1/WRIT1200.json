@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Writing journal",
+			"weight": 10
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reading tasks",
+			"weight": 10
+		},
+		{
+			"name": "Writing project - development process",
+			"weight": 30
+		},
+		{
+			"name": "Writing project - final submission",
+			"weight": 50
+		}
+	]
+}

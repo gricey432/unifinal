@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Reading and Listening Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Minor Creative Production Projects",
+			"weight": 50
+		},
+		{
+			"name": "Major Creative Project & Presentation",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Rehabilitation in the equine industry",
+			"weight": 20
+		},
+		{
+			"name": "Equine Exercise Physiology and Training",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of a review of a journal article/s",
+			"weight": 10
+		},
+		{
+			"name": "Final Prac Exam",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

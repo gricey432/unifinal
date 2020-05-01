@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical Exercises",
+			"weight": 60
+		},
+		{
+			"name": "Dental Materials ",
+			"weight": 20
+		},
+		{
+			"name": "Viva voce",
+			"weight": 20
+		}
+	]
+}

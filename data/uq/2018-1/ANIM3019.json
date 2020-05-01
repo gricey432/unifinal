@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Reproductive Endocrinology Group A",
+			"weight": 10
+		},
+		{
+			"name": "Reproductive Endocrinology Group B",
+			"weight": 10
+		},
+		{
+			"name": "Goat artificial breeding program analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

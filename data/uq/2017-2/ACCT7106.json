@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly case write-up",
+			"weight": 10
+		},
+		{
+			"name": "BAV Project",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

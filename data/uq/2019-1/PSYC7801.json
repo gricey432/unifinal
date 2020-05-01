@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Integrity Module Completion",
+			"weight": 0
+		},
+		{
+			"name": "Submission of One Interview (All Students) ",
+			"weight": "Not Weighted Alone"
+		},
+		{
+			"name": "The Science and Practice in Therapy",
+			"weight": 30
+		},
+		{
+			"name": "Submission of Second DVD and Commentary ",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Sheets and Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Competency Interview",
+			"weight": 15
+		}
+	]
+}

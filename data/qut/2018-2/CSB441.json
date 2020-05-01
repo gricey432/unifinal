@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Placement Workbook",
+			"weight": 40
+		},
+		{
+			"name": "OSCE",
+			"weight": 40
+		}
+	]
+}

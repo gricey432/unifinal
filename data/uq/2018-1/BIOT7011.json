@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on industry workshop",
+			"weight": 0
+		},
+		{
+			"name": "Outline of research project",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory notebook preparation",
+			"weight": 10
+		},
+		{
+			"name": "Research report in the format of a journal article",
+			"weight": 75
+		}
+	]
+}

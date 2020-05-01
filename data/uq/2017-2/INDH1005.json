@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Teamwork Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Weekly workbooks",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Indigenous health and the socio-cultural context",
+			"weight": 30
+		},
+		{
+			"name": "Indigenous Health across the Lifecourse",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 15
+		}
+	]
+}

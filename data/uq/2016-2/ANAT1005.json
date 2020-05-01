@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation during the Practical classes",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz on Musculoskeletal Anatomy",
+			"weight": 10
+		},
+		{
+			"name": "End of SemestPractical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Theory Exam (EOS)",
+			"weight": 40
+		}
+	]
+}

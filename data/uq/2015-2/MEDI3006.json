@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Clinical Case Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "Management Clinical Case Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "PASS/FAIL (To pass the course, students must pass the summative CPA)"
+		},
+		{
+			"name": "Multiple Choice Question (MCQ) Exam",
+			"weight": "Equal"
+		},
+		{
+			"name": "Honours Assessment Task 3 - Oral Presentation ",
+			"weight": 100
+		}
+	]
+}

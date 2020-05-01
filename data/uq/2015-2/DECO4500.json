@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation in class activities",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Needs analysis presentation",
+			"weight": 10
+		},
+		{
+			"name": "Literature review paper",
+			"weight": 20
+		},
+		{
+			"name": "Final Report Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 35
+		}
+	]
+}

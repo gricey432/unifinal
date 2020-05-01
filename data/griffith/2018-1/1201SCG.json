@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Algebra Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Interaction with online resources",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Vectors Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Complex Numbers Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Matrices Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Probability Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

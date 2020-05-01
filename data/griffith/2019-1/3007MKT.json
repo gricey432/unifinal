@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Social Change Scoping Report",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2: MID-TERM EXAM (online)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Social Change Strategy",
+			"weight": 45
+		}
+	]
+}

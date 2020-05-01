@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/Test",
+			"weight": 60
+		},
+		{
+			"name": "Critique (written)",
+			"weight": 40
+		}
+	]
+}

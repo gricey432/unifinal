@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Mooting Competition",
+			"weight": 50
+		},
+		{
+			"name": "Written Memorials",
+			"weight": 50
+		}
+	]
+}

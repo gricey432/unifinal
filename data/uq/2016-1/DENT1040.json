@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester exam (1)",
+			"weight": 15
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 20
+		},
+		{
+			"name": "Mid semester exam (2)",
+			"weight": 15
+		},
+		{
+			"name": "Information Literacy Written Task",
+			"weight": 15
+		},
+		{
+			"name": "End of semester examination (2)",
+			"weight": 30
+		}
+	]
+}

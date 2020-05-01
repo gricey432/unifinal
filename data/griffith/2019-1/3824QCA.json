@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Storyboard",
+			"weight": 30
+		},
+		{
+			"name": "Character Driven Feature",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Week 9",
+			"weight": 60
+		},
+		{
+			"name": "Week 12",
+			"weight": 40
+		}
+	]
+}

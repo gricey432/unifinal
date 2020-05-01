@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "LABORATORY REPORT 1",
+			"weight": 7
+		},
+		{
+			"name": "ASSIGNMENT I",
+			"weight": 15
+		},
+		{
+			"name": "LABORATORY REPORT 2",
+			"weight": 7
+		},
+		{
+			"name": "LABORATORY REPORT 3",
+			"weight": 5
+		},
+		{
+			"name": "ASSIGNMENT II",
+			"weight": 15
+		},
+		{
+			"name": "FINAL EXAMINATION (2 hours)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Legislation Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Hazardous Chemicals Case Study",
+			"weight": 10
+		},
+		{
+			"name": "EOS Exam",
+			"weight": 45
+		},
+		{
+			"name": "Part A",
+			"weight": 8
+		},
+		{
+			"name": "Part B",
+			"weight": 8
+		},
+		{
+			"name": "Part C",
+			"weight": 8
+		},
+		{
+			"name": "Part D",
+			"weight": 8
+		},
+		{
+			"name": "Part E",
+			"weight": 8
+		}
+	]
+}

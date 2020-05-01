@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation "
+		},
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Discussion Block 1",
+			"weight": 15
+		},
+		{
+			"name": "Discussion Block 2",
+			"weight": 15
+		},
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Multiple Choice Exam",
+			"weight": 40
+		},
+		{
+			"name": "Discussion Block 3",
+			"weight": 15
+		},
+		{
+			"name": "Discussion Block 4",
+			"weight": 15
+		}
+	]
+}

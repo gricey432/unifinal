@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective essay 1",
+			"weight": 20
+		},
+		{
+			"name": "Reflective essay 2",
+			"weight": 30
+		},
+		{
+			"name": "Case study report and workshop facilitation",
+			"weight": 50
+		}
+	]
+}

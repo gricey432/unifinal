@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "course participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical analysis essay",
+			"weight": 40
+		},
+		{
+			"name": "Team project - group assessment",
+			"weight": 50
+		}
+	]
+}

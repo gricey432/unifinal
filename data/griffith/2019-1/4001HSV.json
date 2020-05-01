@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership framework",
+			"weight": 50
+		},
+		{
+			"name": "Leadership development plan",
+			"weight": 50
+		}
+	]
+}

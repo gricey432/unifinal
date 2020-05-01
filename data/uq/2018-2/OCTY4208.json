@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Job application assignment",
+			"weight": 30
+		},
+		{
+			"name": "Journal club",
+			"weight": 10
+		},
+		{
+			"name": "Clinical performance in fieldwork experience",
+			"weight": 40
+		},
+		{
+			"name": "Client report",
+			"weight": 20
+		}
+	]
+}

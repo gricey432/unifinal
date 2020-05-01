@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "5 quiz sets | released after sessions 1,2,4,5,7",
+			"weight": 20
+		},
+		{
+			"name": "Case Framing* & Innovation Pathways*",
+			"weight": 20
+		},
+		{
+			"name": "Building Innovation Capability*",
+			"weight": 30
+		},
+		{
+			"name": "Research Journal",
+			"weight": 30
+		}
+	]
+}

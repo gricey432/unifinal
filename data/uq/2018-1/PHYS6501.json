@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research",
+			"weight": 0
+		},
+		{
+			"name": "Research Progress Talk ",
+			"weight": 0
+		},
+		{
+			"name": " Literature Review and Progress Report ",
+			"weight": 0
+		},
+		{
+			"name": "Outline of review paper",
+			"weight": 0
+		},
+		{
+			"name": "Honours Talk ",
+			"weight": 0
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 80
+		},
+		{
+			"name": "Review Paper",
+			"weight": 20
+		},
+		{
+			"name": "Interview",
+			"weight": 0
+		}
+	]
+}

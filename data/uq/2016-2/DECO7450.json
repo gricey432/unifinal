@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Interaction analyses and critical reflections",
+			"weight": 10
+		},
+		{
+			"name": "Attendance and participation in class activities",
+			"weight": "Pass/Fail for the course"
+		},
+		{
+			"name": "Needs analysis and user experience profile",
+			"weight": 20
+		},
+		{
+			"name": "Peer critiques",
+			"weight": 5
+		},
+		{
+			"name": "Sprint demonstrations",
+			"weight": 30
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 20
+		},
+		{
+			"name": "Annotated portfolio",
+			"weight": 15
+		}
+	]
+}

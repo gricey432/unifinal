@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Lecture preparation - Embryo/egg cryopreservation",
+			"weight": 10
+		},
+		{
+			"name": "Reproductive endocrinology",
+			"weight": 10
+		},
+		{
+			"name": "Reproductive Science Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

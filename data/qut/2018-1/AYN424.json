@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Oral in Groups)",
+			"weight": 20
+		},
+		{
+			"name": "Major Group Project",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

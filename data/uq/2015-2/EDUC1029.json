@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly participation: One statement; one question",
+			"weight": 10
+		},
+		{
+			"name": "Article Review",
+			"weight": 15
+		},
+		{
+			"name": "Social Justice and Schooling",
+			"weight": 35
+		},
+		{
+			"name": "Analysis of a media representation of schooling",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory work",
+			"weight": 10
+		},
+		{
+			"name": "Online quiz (total 2 quizzes)",
+			"weight": 20
+		},
+		{
+			"name": "Project 1: Data analysis",
+			"weight": 25
+		},
+		{
+			"name": "Site Visit Reflection and Linked-in Profile",
+			"weight": 10
+		},
+		{
+			"name": "Project 2: Final project",
+			"weight": 35
+		}
+	]
+}

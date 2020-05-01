@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "# 1 Multiple Choice & Multiple Answers (Module 2)",
+			"weight": 10
+		},
+		{
+			"name": "# 2 Multiple Choice & Multiple Answers (Module 3)",
+			"weight": 10
+		},
+		{
+			"name": "# 3 Multiple Choice & Multiple Answers (Module 4)",
+			"weight": 10
+		},
+		{
+			"name": "Critical appraisal assignment (Module 1)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam (Modules 5-7)",
+			"weight": 40
+		}
+	]
+}

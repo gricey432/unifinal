@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Academic writing and referencing",
+			"weight": 15
+		},
+		{
+			"name": "Repertoire Test",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

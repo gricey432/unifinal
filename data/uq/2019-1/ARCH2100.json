@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1.0 'Decorated Shed'-The FutureLab",
+			"weight": 50
+		},
+		{
+			"name": "2.0 'Duck'- Animal Enclosure",
+			"weight": 50
+		}
+	]
+}

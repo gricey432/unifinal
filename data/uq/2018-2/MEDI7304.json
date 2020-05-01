@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Mini Clinical Evaluation Exercise",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Long Case Examination Clinical Skills Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Long Case Examination Clinical Practice Discussion",
+			"weight": 25
+		},
+		{
+			"name": "NPS Online Modules",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+		},
+		{
+			"name": "Mini Clinical Evaluation Exercise 1",
+			"weight": 10
+		},
+		{
+			"name": "Prepared Long Case Discussion 1",
+			"weight": 15
+		},
+		{
+			"name": "Prepared Long Case Discussion 2",
+			"weight": 15
+		},
+		{
+			"name": "Mini Clinical Evaluation Exercise 2",
+			"weight": 10
+		}
+	]
+}

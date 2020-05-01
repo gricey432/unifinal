@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Choral Repertoire",
+			"weight": 25
+		},
+		{
+			"name": "Conducting Skills / Rehearsal Strategies",
+			"weight": 30
+		},
+		{
+			"name": "Engagement and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Choral Music Prezi",
+			"weight": 25
+		}
+	]
+}

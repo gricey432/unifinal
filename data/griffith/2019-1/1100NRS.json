@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment - Annotated Bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Educational Poster",
+			"weight": 35
+		},
+		{
+			"name": "Individual essay -Critique of literature",
+			"weight": 40
+		}
+	]
+}

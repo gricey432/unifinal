@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Fortnightly reflections on selected topics",
+			"weight": 20
+		},
+		{
+			"name": "Guided discussion",
+			"weight": 20
+		},
+		{
+			"name": "Debates in SLA",
+			"weight": 60
+		}
+	]
+}

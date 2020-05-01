@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 1: Preparing for Malaysia",
+			"weight": 20
+		},
+		{
+			"name": "Assess 2: Learning from Malaysia",
+			"weight": 50
+		},
+		{
+			"name": "Assess 3 - Lessons from Malaysia",
+			"weight": 30
+		}
+	]
+}

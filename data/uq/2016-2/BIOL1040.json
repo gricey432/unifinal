@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Core Competencies (4)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 3
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 3
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 3
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 3
+		},
+		{
+			"name": "Practical Report - Plants",
+			"weight": 3
+		},
+		{
+			"name": "Personal Response",
+			"weight": 6
+		},
+		{
+			"name": "Professional Response",
+			"weight": 10
+		},
+		{
+			"name": "PowerPoint Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Professional Discussion",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 1 - Modules 1&2",
+			"weight": 3
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 2 - Modules 3&4",
+			"weight": 3
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 3 - Modules 5&6",
+			"weight": 3
+		},
+		{
+			"name": "Knowledge - Examination",
+			"weight": 50
+		}
+	]
+}

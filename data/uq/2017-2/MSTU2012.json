@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on films screened and associated articles",
+			"weight": 10
+		},
+		{
+			"name": "Assignment on Module 2 (French cinema)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment on Module 1 (Spanish cinema)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment on Module 3 (German cinema)",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

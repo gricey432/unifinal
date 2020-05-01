@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design Challenges",
+			"weight": "equal"
+		},
+		{
+			"name": "Just the Facts",
+			"weight": "equal"
+		},
+		{
+			"name": "Infographics",
+			"weight": "equal"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "equal"
+		}
+	]
+}

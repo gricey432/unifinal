@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set",
+			"weight": 5
+		},
+		{
+			"name": "Numerical solution of ODEs",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Problem Set",
+			"weight": 5
+		},
+		{
+			"name": "Numerical solution of BVPs",
+			"weight": 20
+		},
+		{
+			"name": "Computer Laboratory Exam",
+			"weight": 25
+		}
+	]
+}

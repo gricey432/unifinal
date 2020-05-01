@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": " Assessment 1: Developing an ecotourism product",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Field trip reflections",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Environmental reporting",
+			"weight": 30
+		},
+		{
+			"name": "End semester exam",
+			"weight": 40
+		}
+	]
+}

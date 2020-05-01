@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Case Study",
+			"weight": 25
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

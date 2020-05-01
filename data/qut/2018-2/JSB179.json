@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Plan (Case Study)",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

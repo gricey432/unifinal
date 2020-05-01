@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class and online discussion",
+			"weight": 40
+		},
+		{
+			"name": "Weekly quiz on readings",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Three in-lecture listening tests",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

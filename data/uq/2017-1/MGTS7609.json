@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "ER Litertaure Review",
+			"weight": 30
+		},
+		{
+			"name": "Analytical essay ",
+			"weight": 30
+		}
+	]
+}

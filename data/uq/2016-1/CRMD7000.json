@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": 10
+		},
+		{
+			"name": "Mediation Video Review (3500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (4500 words)",
+			"weight": 60
+		}
+	]
+}

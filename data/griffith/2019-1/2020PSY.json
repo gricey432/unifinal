@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A1 - Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "A2 - Case Study - Applying Career Theory",
+			"weight": 15
+		},
+		{
+			"name": "A3 - Career Counselling Interview",
+			"weight": 30
+		},
+		{
+			"name": "A4 - Client Assessment Report",
+			"weight": 35
+		}
+	]
+}

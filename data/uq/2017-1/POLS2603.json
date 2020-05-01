@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 8
+		},
+		{
+			"name": "Research Proposal (1000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (3000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Discussion Paper (1000 words)",
+			"weight": 12
+		},
+		{
+			"name": "Take Home Exam (1000 words)",
+			"weight": 20
+		}
+	]
+}

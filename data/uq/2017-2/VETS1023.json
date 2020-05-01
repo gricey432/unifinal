@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Behaviour and Welfare",
+			"weight": 50
+		},
+		{
+			"name": "Animal Handling Practical Exam",
+			"weight": 50
+		}
+	]
+}

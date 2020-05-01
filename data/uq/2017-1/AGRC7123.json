@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Group Report Back Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Foundation Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Main assignment report",
+			"weight": 20
+		},
+		{
+			"name": "Main assignment class presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

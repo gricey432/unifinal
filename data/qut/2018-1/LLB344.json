@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Briefing or Memo",
+			"weight": 40
+		},
+		{
+			"name": "Video Teaching Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Memo of Advice",
+			"weight": 40
+		}
+	]
+}

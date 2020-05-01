@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals",
+			"weight": "Compulsory Participation"
+		},
+		{
+			"name": "Antimicrobial Assignment ",
+			"weight": 10
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Hospital Experiential Learning ",
+			"weight": "Compulsory Participation"
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Written exam",
+			"weight": 50
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		}
+	]
+}

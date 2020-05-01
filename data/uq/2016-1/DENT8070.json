@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Presentation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

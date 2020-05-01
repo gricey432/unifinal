@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Spreadsheet",
+			"weight": 15
+		},
+		{
+			"name": "Group Valuation report (Written and Presentation)",
+			"weight": 35
+		},
+		{
+			"name": " Final exam",
+			"weight": 50
+		}
+	]
+}

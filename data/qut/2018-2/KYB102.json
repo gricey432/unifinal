@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Career Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Self-assessment",
+			"weight": 10
+		},
+		{
+			"name": "Prof Creative Career Plan",
+			"weight": 50
+		}
+	]
+}

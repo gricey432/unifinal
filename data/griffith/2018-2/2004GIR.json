@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop engagement",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice Quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Business submission OR Essay",
+			"weight": 40
+		},
+		{
+			"name": "Workshop Questions",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Business Submission OR Essay",
+			"weight": 40
+		},
+		{
+			"name": "Workshop Questions",
+			"weight": 40
+		}
+	]
+}

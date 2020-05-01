@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Tourism Experience Report",
+			"weight": 20
+		},
+		{
+			"name": "Youth Intercultural Tourism Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

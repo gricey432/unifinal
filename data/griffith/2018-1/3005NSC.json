@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2000-6000 words",
+			"weight": 60
+		},
+		{
+			"name": "15-20mins",
+			"weight": 20
+		},
+		{
+			"name": "Length: N/A",
+			"weight": 20
+		}
+	]
+}

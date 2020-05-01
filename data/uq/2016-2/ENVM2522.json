@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Contemporary Issues in Carbon and Energy",
+			"weight": 30
+		},
+		{
+			"name": "Practical Report",
+			"weight": 30
+		}
+	]
+}

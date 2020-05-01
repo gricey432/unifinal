@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online self-study quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 5
+		},
+		{
+			"name": "Daily class quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester in class quiz",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

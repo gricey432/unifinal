@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Visualisation",
+			"weight": 50
+		},
+		{
+			"name": "Portfolio of sketches",
+			"weight": 50
+		}
+	]
+}

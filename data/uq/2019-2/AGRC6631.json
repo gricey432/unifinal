@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Report",
+			"weight": 15
+		},
+		{
+			"name": "Concept Note",
+			"weight": 30
+		},
+		{
+			"name": "Fact Sheet",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Personal Reflection",
+			"weight": 15
+		}
+	]
+}

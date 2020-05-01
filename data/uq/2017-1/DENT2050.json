@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-clinical asessment - 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pre-clinical asessment - 2",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pre-clinical asessment - 3",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pre-clinical asessment - 4",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Viva voce",
+			"weight": "Pass/Fail"
+		}
+	]
+}

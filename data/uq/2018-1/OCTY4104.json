@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student Practice Evaluation Form - Revised Edition",
+			"weight": " Final Evaluation Non graded pass/fail"
+		},
+		{
+			"name": "Submission of placement documentation",
+			"weight": "Non graded compulsory component"
+		},
+		{
+			"name": "Lectures and Workshop series",
+			"weight": "Non graded compulsory component"
+		}
+	]
+}

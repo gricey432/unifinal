@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Antimicrobial Drugs and Resistance Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Respiratory Pharmacolgy Quiz & Disease Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 60
+		}
+	]
+}

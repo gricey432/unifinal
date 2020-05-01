@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentation (CCP)",
+			"weight": 20
+		},
+		{
+			"name": "General Surgery Assessment-Multiple Choice Exam",
+			"weight": 30
+		},
+		{
+			"name": "General Surgery Assessment-Short Answer Questions",
+			"weight": 40
+		},
+		{
+			"name": "Problem Oriented Medical Record (POMR)",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Honours Assessment Task 3 - Oral Presentation",
+			"weight": 100
+		}
+	]
+}

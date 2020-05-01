@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in lectures and workshops",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reading Review",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		}
+	]
+}

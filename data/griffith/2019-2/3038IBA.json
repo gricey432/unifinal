@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Travel Blog",
+			"weight": 30
+		},
+		{
+			"name": "Written Business Case",
+			"weight": 40
+		},
+		{
+			"name": "Travel Expo Poster",
+			"weight": 30
+		}
+	]
+}

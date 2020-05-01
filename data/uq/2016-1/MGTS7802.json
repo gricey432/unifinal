@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of International Management Topic",
+			"weight": 25
+		},
+		{
+			"name": "Firm Internationalisation Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Case Analysis",
+			"weight": 35
+		}
+	]
+}

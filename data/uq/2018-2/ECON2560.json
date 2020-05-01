@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Piece on Lecture",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Piece on Lecture",
+			"weight": 15
+		},
+		{
+			"name": "Essay Test in Class ",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Assignment ",
+			"weight": 15
+		}
+	]
+}

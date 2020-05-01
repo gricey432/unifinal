@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Business Service Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Business of Healthcare Exam",
+			"weight": 60
+		}
+	]
+}

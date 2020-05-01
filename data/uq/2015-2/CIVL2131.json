@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 20
+		},
+		{
+			"name": "Design Check of AEB Hydraulics laboratory pipes",
+			"weight": 6
+		},
+		{
+			"name": "Feedback on learning progress",
+			"weight": 4
+		},
+		{
+			"name": "Final examination",
+			"weight": 70
+		}
+	]
+}

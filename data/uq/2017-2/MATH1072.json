@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "MATLAB questions",
+			"weight": 15
+		},
+		{
+			"name": "Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Three TUTORIAL QUIZZES",
+			"weight": 15
+		},
+		{
+			"name": "FINAL EXAM",
+			"weight": 55
+		}
+	]
+}

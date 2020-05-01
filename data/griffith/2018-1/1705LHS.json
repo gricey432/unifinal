@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral and Written Report (1200 words total)",
+			"weight": 50
+		},
+		{
+			"name": "Essay  (1500 words)",
+			"weight": 50
+		}
+	]
+}

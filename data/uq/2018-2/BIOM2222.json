@@ -1,0 +1,64 @@
+{
+	"assessment": [
+		{
+			"name": "MB-Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Molecular Biology quiz",
+			"weight": 5
+		},
+		{
+			"name": "Molecular Biology Lab Book",
+			"weight": 5
+		},
+		{
+			"name": "MB-Advanced techniques - Oral examination",
+			"weight": 15
+		},
+		{
+			"name": "CB- Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Cell Biology quiz",
+			"weight": 5
+		},
+		{
+			"name": "Cell Biology Lab Book",
+			"weight": 5
+		},
+		{
+			"name": "CB- Advanced techniques - Lab report",
+			"weight": 15
+		},
+		{
+			"name": "Biochem- Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Biochemistry quiz",
+			"weight": 5
+		},
+		{
+			"name": "Biochemistry Lab Book",
+			"weight": 5
+		},
+		{
+			"name": "Biochem- Advanced techniques - Lab report",
+			"weight": 15
+		},
+		{
+			"name": "Practical participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Presentation of an advanced technique",
+			"weight": 10
+		},
+		{
+			"name": "Presentation participation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

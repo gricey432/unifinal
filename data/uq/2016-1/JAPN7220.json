@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly vocabulary tests semester 1",
+			"weight": 5
+		},
+		{
+			"name": "Sight translation tests",
+			"weight": 15
+		},
+		{
+			"name": "1st semester interpreting exam",
+			"weight": 30
+		},
+		{
+			"name": "NAATI Conference Interpreter Exam",
+			"weight": 50
+		}
+	]
+}

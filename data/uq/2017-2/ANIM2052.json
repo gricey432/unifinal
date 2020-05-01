@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Practical sessions",
+			"weight": 10
+		},
+		{
+			"name": "Problem based assignments",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

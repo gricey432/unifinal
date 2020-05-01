@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Physical Examination Video and Reflection",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Teaching Concepts of Breaking bad news",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Skills 2 Practical Exam",
+			"weight": "Pass/Fail"
+		}
+	]
+}

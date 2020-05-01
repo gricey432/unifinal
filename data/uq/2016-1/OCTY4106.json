@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz - reflections and connections",
+			"weight": 30
+		},
+		{
+			"name": "The person-professional encounter assignment",
+			"weight": 30
+		},
+		{
+			"name": "Academic analysis of context",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Hand Drawn sketch of carpark cross-section",
+			"weight": 2
+		},
+		{
+			"name": "Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Online Peer Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Tutor Mentor Meetings",
+			"weight": 5
+		},
+		{
+			"name": "Phase 1",
+			"weight": 30
+		},
+		{
+			"name": "Phase 2",
+			"weight": 35
+		},
+		{
+			"name": "Tutor review of Phase 2 Sketches",
+			"weight": 3
+		},
+		{
+			"name": "Final Exam",
+			"weight": 15
+		}
+	]
+}

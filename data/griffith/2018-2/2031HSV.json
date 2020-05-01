@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Working in an Organisation",
+			"weight": 40
+		},
+		{
+			"name": "Mid Trimester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

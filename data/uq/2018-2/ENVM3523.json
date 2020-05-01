@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Short tutorial quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of a NRM Intervention",
+			"weight": 5
+		},
+		{
+			"name": "In Class Exam",
+			"weight": 15
+		},
+		{
+			"name": "Assessment of a NRM Intervention",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of a NRM Intervention",
+			"weight": 20
+		},
+		{
+			"name": "Final (End of Semester) Exam",
+			"weight": 40
+		}
+	]
+}

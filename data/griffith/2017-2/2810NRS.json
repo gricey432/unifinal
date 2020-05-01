@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Child and family nursing practice assignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online discussion board participation",
+			"weight": 10
+		},
+		{
+			"name": "Major Assignment One",
+			"weight": 25
+		},
+		{
+			"name": "Major Assignment Two",
+			"weight": 25
+		},
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Reflection",
+			"weight": 20
+		}
+	]
+}

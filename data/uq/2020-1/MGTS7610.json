@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Argumentative genre",
+			"weight": 10
+		},
+		{
+			"name": "Problem-solving genre",
+			"weight": 10
+		},
+		{
+			"name": "Comprehensive Final Examination",
+			"weight": 50
+		}
+	]
+}

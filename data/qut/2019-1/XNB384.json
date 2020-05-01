@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Mental Health Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Written Examination",
+			"weight": 40
+		}
+	]
+}

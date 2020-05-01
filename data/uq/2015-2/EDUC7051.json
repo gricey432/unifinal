@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Career Counselling Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Applications of Narrative Career Counselling",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Deterministic Modelling 1",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 2: Deterministic Modelling 2",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 3: Statistical Methods 1",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 4: Statistical Methods 2",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 5: Synthesis & Case Studies",
+			"weight": 8
+		},
+		{
+			"name": "MATH3070 Final Exam",
+			"weight": 60
+		}
+	]
+}

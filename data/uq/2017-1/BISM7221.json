@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Role of IS Audit",
+			"weight": 30
+		},
+		{
+			"name": "Comprehensive Audit Case Using ACL",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "STAT1201 Mid-Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Online Survey",
+			"weight": 1
+		},
+		{
+			"name": "A4 Project",
+			"weight": 1
+		},
+		{
+			"name": "Paper Review",
+			"weight": 11
+		},
+		{
+			"name": "STAT1301 Mid-semester Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Research Project",
+			"weight": 12
+		},
+		{
+			"name": "STAT1201 (Final Examination)",
+			"weight": 30
+		},
+		{
+			"name": "STAT1301 (Final Examination)",
+			"weight": 15
+		}
+	]
+}

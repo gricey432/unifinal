@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Language Approaches",
+			"weight": 40
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Portrait by Speedlight",
+			"weight": 40
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		}
+	]
+}

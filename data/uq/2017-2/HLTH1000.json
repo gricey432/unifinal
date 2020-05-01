@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workshop learning summaries",
+			"weight": 10
+		},
+		{
+			"name": "Poster and rationale",
+			"weight": 20
+		},
+		{
+			"name": "Chart and report (Group)",
+			"weight": 35
+		},
+		{
+			"name": "Short answer essay",
+			"weight": 35
+		}
+	]
+}

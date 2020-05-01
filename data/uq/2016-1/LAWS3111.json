@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Peer Reviewed Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 65
+		}
+	]
+}

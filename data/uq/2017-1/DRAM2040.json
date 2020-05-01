@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Group Performance and Critical Reflection",
+			"weight": 40
+		}
+	]
+}

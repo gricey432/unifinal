@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Computational Physics Problem Sets",
+			"weight": 50
+		},
+		{
+			"name": "Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "The role of computation in physical sciences",
+			"weight": 5
+		},
+		{
+			"name": "Orbital mechanics project",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

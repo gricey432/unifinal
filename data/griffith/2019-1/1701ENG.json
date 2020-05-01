@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design Progress Presentations",
+			"weight": 40
+		},
+		{
+			"name": "Project Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "A Design Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "A Video Interview Based on the Design Project",
+			"weight": 10
+		}
+	]
+}

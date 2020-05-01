@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "My Choice of Majors",
+			"weight": 5
+		},
+		{
+			"name": "Key Concepts in Social Science",
+			"weight": 60
+		},
+		{
+			"name": "Social Science Career Plan",
+			"weight": 15
+		}
+	]
+}

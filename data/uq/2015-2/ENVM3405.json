@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Identifying suitable natural analogues",
+			"weight": 15
+		},
+		{
+			"name": "Remediation of post-mining soil substrates",
+			"weight": 35
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

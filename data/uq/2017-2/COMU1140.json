@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multimedia project- Milestone 1",
+			"weight": 20
+		},
+		{
+			"name": "Multimedia project- Milestone 2",
+			"weight": 20
+		},
+		{
+			"name": "Multimedia project",
+			"weight": "P/F"
+		},
+		{
+			"name": "Multimedia project",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative and critical participation",
+			"weight": 50
+		},
+		{
+			"name": "Wiki",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

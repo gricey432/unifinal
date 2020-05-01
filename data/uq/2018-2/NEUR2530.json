@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Discussion Questions",
+			"weight": 20
+		},
+		{
+			"name": "Workshop Oral Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Lecture Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Skill Acquisition Project Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

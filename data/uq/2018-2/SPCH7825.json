@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Acquired Aphasia Exam",
+			"weight": 40
+		},
+		{
+			"name": "SPCH7825 Acquired Aphasia Assessments video exam",
+			"weight": 15
+		},
+		{
+			"name": "SPCH7825/1 Cognitive-Communication Disorders Exam",
+			"weight": 45
+		},
+		{
+			"name": "Clinical practice evaluation",
+			"weight": "Pass/Fail (must pass)"
+		}
+	]
+}

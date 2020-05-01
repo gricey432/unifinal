@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lab 1",
+			"weight": 10
+		},
+		{
+			"name": "Signals Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Lab 2",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Controls Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

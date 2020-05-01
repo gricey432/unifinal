@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Critical Illness in the mother and neonate",
+			"weight": 50
+		},
+		{
+			"name": "Midwifery OSCE",
+			"weight": "NGP"
+		}
+	]
+}

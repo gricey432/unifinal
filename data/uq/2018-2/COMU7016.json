@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1. Production plan",
+			"weight": 15
+		},
+		{
+			"name": "2a. Student production",
+			"weight": 20
+		},
+		{
+			"name": "2b. Participant production",
+			"weight": 30
+		},
+		{
+			"name": "3. Reflective essay",
+			"weight": 35
+		}
+	]
+}

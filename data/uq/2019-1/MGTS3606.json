@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Global Mobility Project",
+			"weight": 40
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

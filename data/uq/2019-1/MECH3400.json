@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Thermodynamics and Heat Transfer prac sessions",
+			"weight": 5
+		},
+		{
+			"name": "Virtual Power Plant ",
+			"weight": 5
+		},
+		{
+			"name": "Mid-term",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

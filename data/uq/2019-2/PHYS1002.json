@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-lecture reading questions",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory report and experimental proposals",
+			"weight": 15
+		},
+		{
+			"name": "MasteringPhysics Online Homework",
+			"weight": 15
+		},
+		{
+			"name": "Class Participation",
+			"weight": "Combined with reading quiz"
+		},
+		{
+			"name": "End-of-semester written examination",
+			"weight": 50
+		},
+		{
+			"name": "Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		}
+	]
+}

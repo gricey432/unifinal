@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Informed Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard discussion point",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Contemporary Australia: an exhibition",
+			"weight": 30
+		}
+	]
+}

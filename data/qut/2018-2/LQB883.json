@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Discussion Forum",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Student led Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Practicum reflection and oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Teaching Unit Adjustment Plan",
+			"weight": 30
+		}
+	]
+}

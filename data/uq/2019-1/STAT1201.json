@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Statistical Review",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Ethics Review",
+			"weight": 10
+		},
+		{
+			"name": "Statistical Research Project",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

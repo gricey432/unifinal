@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection on News Item (750 words)",
+			"weight": 20
+		},
+		{
+			"name": "Critical Development of Case Study (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Final Research Essay (4000 words)",
+			"weight": 50
+		}
+	]
+}

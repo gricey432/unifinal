@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance and active participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Outline + Internships Agreement",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Completed (and Signed) Internship Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Report (6000 words)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

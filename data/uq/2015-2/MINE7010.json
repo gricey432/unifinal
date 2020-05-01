@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research or Project Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Masters in Mineral Resources thesis ",
+			"weight": 70
+		}
+	]
+}

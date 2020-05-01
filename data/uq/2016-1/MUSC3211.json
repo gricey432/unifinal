@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Ensemble Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Ensemble Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Record of activities, events, achievements etc.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Recital ",
+			"weight": 60
+		},
+		{
+			"name": "School of Music Concerts",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Weekly Lesson Semester 1",
+			"weight": 20
+		},
+		{
+			"name": "Practical Class/Performance Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Weekly Lesson Semester 2",
+			"weight": 15
+		}
+	]
+}

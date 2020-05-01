@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Overall Participation",
+			"weight": 10
+		},
+		{
+			"name": "A2: Story-in-1-Frame",
+			"weight": 20
+		},
+		{
+			"name": "A3: One Minute Film with-no-dialogue-or-voice-over",
+			"weight": 60
+		},
+		{
+			"name": "A4: Cine Learning Journal",
+			"weight": 10
+		}
+	]
+}

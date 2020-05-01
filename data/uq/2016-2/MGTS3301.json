@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Ethics Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Case Analysis in Management Team Meetings ",
+			"weight": 30
+		},
+		{
+			"name": "Written Report on Strategy Simulation",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

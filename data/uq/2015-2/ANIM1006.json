@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Equine Husbandry Theory activities",
+			"weight": 0
+		},
+		{
+			"name": "Equine Unit Duty",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Equine enterprise evaluation.",
+			"weight": 5
+		},
+		{
+			"name": "Evaluation of an Equine Enterprise.",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Equine Husbandry Practical Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

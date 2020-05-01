@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 15
+		},
+		{
+			"name": "Evaluating Peer Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

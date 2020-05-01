@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Regular language assignments",
+			"weight": 15
+		},
+		{
+			"name": "participation in class activities",
+			"weight": 15
+		},
+		{
+			"name": "Interview with native speaker",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "viva voce",
+			"weight": 40
+		}
+	]
+}

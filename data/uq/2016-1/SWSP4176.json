@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Topic Lit-Rev",
+			"weight": 30
+		},
+		{
+			"name": "Pyromania, Arson, Young People",
+			"weight": 30
+		},
+		{
+			"name": "Discussion, Reading, Thinking",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentations",
+			"weight": 30
+		}
+	]
+}

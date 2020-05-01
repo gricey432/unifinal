@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical Exam 1.",
+			"weight": 15
+		},
+		{
+			"name": "Practical Exam 2.",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

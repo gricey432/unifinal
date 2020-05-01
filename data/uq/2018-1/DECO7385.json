@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online reflective journal",
+			"weight": 10
+		},
+		{
+			"name": "Project Ideas and Inspirations",
+			"weight": 5
+		},
+		{
+			"name": "Project proposal & presentation",
+			"weight": 15
+		},
+		{
+			"name": "Prototype/ Sketch/ Mock-up",
+			"weight": 20
+		},
+		{
+			"name": "Project Summary Webpage",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Exhibit Finished Product",
+			"weight": 25
+		},
+		{
+			"name": "Portfolio and Documentation of work",
+			"weight": 25
+		}
+	]
+}

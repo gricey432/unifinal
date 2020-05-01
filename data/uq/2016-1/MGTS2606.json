@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay",
+			"weight": 10
+		},
+		{
+			"name": "Group Communication Experience",
+			"weight": 55
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

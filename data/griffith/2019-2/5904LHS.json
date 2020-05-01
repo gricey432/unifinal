@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Development",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Written Essay",
+			"weight": 25
+		},
+		{
+			"name": "Written Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Wildlife Management Essay",
+			"weight": 30
+		},
+		{
+			"name": "Wildlife Management Research Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

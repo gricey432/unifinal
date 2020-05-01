@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Skills passport",
+			"weight": 0
+		},
+		{
+			"name": "Practical sessions logbook",
+			"weight": 0
+		},
+		{
+			"name": "Exercise programming and delivery",
+			"weight": 0
+		},
+		{
+			"name": "External practicum",
+			"weight": 0
+		},
+		{
+			"name": "Practical exam",
+			"weight": 0
+		}
+	]
+}

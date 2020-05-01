@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Interim Report for Project deliverable 1",
+			"weight": 0
+		},
+		{
+			"name": "Project deliverable 1: Process analysis/control",
+			"weight": 26
+		},
+		{
+			"name": "PA for Project deliverable 1 report",
+			"weight": "Applied to Project deliverable 1 mark"
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Practical hand-in sheets",
+			"weight": 6
+		},
+		{
+			"name": "Project deliverable 2: Hardware and controller",
+			"weight": 18
+		},
+		{
+			"name": "PA for Project deliverable 2 report",
+			"weight": "Applied to Project deliverable 2 mark"
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

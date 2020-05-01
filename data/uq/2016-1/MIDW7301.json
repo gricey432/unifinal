@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hypertensive Emergency in Pregnancy",
+			"weight": 40
+		},
+		{
+			"name": "Cardiovascular changes in pregnancy ",
+			"weight": 20
+		},
+		{
+			"name": "Preterm Labour and the Premature Infant",
+			"weight": 40
+		}
+	]
+}

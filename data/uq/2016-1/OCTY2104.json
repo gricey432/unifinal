@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Administration and Critique",
+			"weight": 30
+		},
+		{
+			"name": "Written Intervention Session and Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		}
+	]
+}

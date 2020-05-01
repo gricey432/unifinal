@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding Specific Terrestrial Ecosystem   ",
+			"weight": 30
+		},
+		{
+			"name": "Environmental impacts and rehabilitation strategy",
+			"weight": 40
+		},
+		{
+			"name": "An integrated mined land rehabilitation plan",
+			"weight": 30
+		}
+	]
+}

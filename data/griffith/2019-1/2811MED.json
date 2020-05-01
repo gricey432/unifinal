@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ECG Quizzes 10 for 10 weeks",
+			"weight": 20
+		},
+		{
+			"name": "Report with recommendations",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester OSCE",
+			"weight": 0
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Workshop",
+			"weight": 15
+		},
+		{
+			"name": "Minor Essay",
+			"weight": 25
+		},
+		{
+			"name": "Policy Recommendation",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 25
+		}
+	]
+}

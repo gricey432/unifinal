@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract",
+			"weight": 0
+		},
+		{
+			"name": "OHS Task 1",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Task 2",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Task 3",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Task 4",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Task 5",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Audit",
+			"weight": "Equal"
+		},
+		{
+			"name": "OHS Task 6",
+			"weight": "Equal"
+		},
+		{
+			"name": "Supervisor's Report",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative policy recommendation",
+			"weight": 15
+		},
+		{
+			"name": "Minor Essay",
+			"weight": 25
+		},
+		{
+			"name": "Collaborative policy recommendation",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Final Exam - Date to be announced",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance and participation is essential",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation (groups of 4-5)",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of the literature",
+			"weight": 40
+		}
+	]
+}

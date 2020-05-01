@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Practical Exercises (practicals weeks 1-4)",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exercises (practicals weeks 5-8)",
+			"weight": 10
+		},
+		{
+			"name": "GIS Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

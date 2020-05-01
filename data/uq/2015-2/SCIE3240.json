@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research report",
+			"weight": 50
+		},
+		{
+			"name": "Performance",
+			"weight": 25
+		},
+		{
+			"name": " of Poster",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Examination Graph Theory",
+			"weight": 34
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 5
+		},
+		{
+			"name": "Graph Theory and Operations Research Project",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination",
+			"weight": 34
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Management Report Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review Assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "Article Assignment 3",
+			"weight": 50
+		}
+	]
+}

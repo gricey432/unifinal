@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "After-Module Online quizzes",
+			"weight": 0
+		},
+		{
+			"name": "3 Laboratory Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Examination",
+			"weight": 18
+		},
+		{
+			"name": "Course Quiz",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

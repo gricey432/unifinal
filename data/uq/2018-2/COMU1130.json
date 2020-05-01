@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial debate",
+			"weight": 20
+		},
+		{
+			"name": "Tweet the Debate",
+			"weight": 15
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Online Portfolio",
+			"weight": 50
+		}
+	]
+}

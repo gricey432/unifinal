@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " multi-sensory and inclusive design p",
+			"weight": 30
+		},
+		{
+			"name": "design response",
+			"weight": 40
+		},
+		{
+			"name": "Technical Drafting and FF&E",
+			"weight": 30
+		}
+	]
+}

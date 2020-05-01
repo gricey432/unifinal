@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reading material presentation",
+			"weight": 5
+		},
+		{
+			"name": "Teaching demonstration",
+			"weight": 25
+		},
+		{
+			"name": "Pre-departure report ",
+			"weight": 5
+		},
+		{
+			"name": "Oral report",
+			"weight": 5
+		},
+		{
+			"name": "Report on school visit",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

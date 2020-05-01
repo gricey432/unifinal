@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical learning activities",
+			"weight": "Compulsory Participation"
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Hospital Experiential Learning ",
+			"weight": "Compulsory Participation"
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Written exam",
+			"weight": 60
+		},
+		{
+			"name": "Oral (counselling) Exam",
+			"weight": 20
+		}
+	]
+}

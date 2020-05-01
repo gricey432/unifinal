@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Skills",
+			"weight": 35
+		},
+		{
+			"name": "Communication in Health",
+			"weight": 25
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

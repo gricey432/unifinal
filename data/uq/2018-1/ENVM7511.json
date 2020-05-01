@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Farmers' Views on Sustainable Farming in Australia",
+			"weight": 30
+		},
+		{
+			"name": "Controversial Issues in NRM",
+			"weight": 20
+		},
+		{
+			"name": "Community-based Environmental Restoration",
+			"weight": 30
+		}
+	]
+}

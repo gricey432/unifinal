@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Framing Space",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 - Folding Space",
+			"weight": 40
+		},
+		{
+			"name": "Project 3 - In transit: Campus Addition",
+			"weight": 50
+		}
+	]
+}

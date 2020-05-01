@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis ",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		}
+	]
+}

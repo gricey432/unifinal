@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Client interview and advice",
+			"weight": 25
+		},
+		{
+			"name": "Multiple choice quiz",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 55
+		}
+	]
+}

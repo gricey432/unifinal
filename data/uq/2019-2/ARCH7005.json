@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "INTERROGATING DIFFERENCE ASSESSMENT 1",
+			"weight": 20
+		},
+		{
+			"name": "ASSESSMENT 2 - NEW INDIGENOUS CENTRE",
+			"weight": 30
+		},
+		{
+			"name": "Final Design New Indigenous Centre",
+			"weight": 50
+		}
+	]
+}

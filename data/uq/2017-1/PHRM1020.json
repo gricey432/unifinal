@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pharm. calculations: BlackBoard Quizzes (4 x 2.5%)",
+			"weight": 10
+		},
+		{
+			"name": "Pharmaceutical calculations:Tutorial tests(4x10%)",
+			"weight": 40
+		},
+		{
+			"name": "Data analysis: Computer laboratory quizzes (8x1%)",
+			"weight": 8
+		},
+		{
+			"name": "Data Analysis Mid-semester exam",
+			"weight": 14
+		},
+		{
+			"name": "Data analysis examination",
+			"weight": 28
+		}
+	]
+}

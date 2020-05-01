@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Undergraduate Laboratory Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Hydrometallurgy Process Description",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory Report #1",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Report #2",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Report #3",
+			"weight": 10
+		},
+		{
+			"name": "Group Project No.1",
+			"weight": 20
+		},
+		{
+			"name": "SysCAD Simulation Report",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

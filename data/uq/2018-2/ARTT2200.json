@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "GROUP IMAGE ANALYSIS",
+			"weight": 30
+		},
+		{
+			"name": "Field Trip participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Journal for Field Trip",
+			"weight": 40
+		},
+		{
+			"name": "Group Online Exhibition",
+			"weight": 30
+		}
+	]
+}

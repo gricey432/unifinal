@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Sport Event Infographic",
+			"weight": 25
+		},
+		{
+			"name": "Sport Event Feasibility Assessment",
+			"weight": 45
+		},
+		{
+			"name": "Legacy Critical Analysis",
+			"weight": 30
+		}
+	]
+}

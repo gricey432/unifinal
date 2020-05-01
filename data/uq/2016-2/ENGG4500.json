@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution",
+			"weight": 30
+		},
+		{
+			"name": "Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Reflection on Workshops",
+			"weight": 0
+		}
+	]
+}

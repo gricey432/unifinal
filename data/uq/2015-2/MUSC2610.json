@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Composition participation (Create)",
+			"weight": 25
+		},
+		{
+			"name": "Wiki pages (Explain)",
+			"weight": 25
+		},
+		{
+			"name": "Collaborative cover version (Collaborate)",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

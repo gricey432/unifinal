@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Trimester Quiz",
+			"weight": 45
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 55
+		}
+	]
+}

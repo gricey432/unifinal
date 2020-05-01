@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1 - Laboratory testing of rocks: Part 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2 - Laboratory testing of rocks: Part 2",
+			"weight": 10
+		},
+		{
+			"name": "IT Computing - Numerical Modelling",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 60
+		}
+	]
+}

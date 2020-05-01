@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Attendance",
+			"weight": "Participation"
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Exam",
+			"weight": 65
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 25
+		}
+	]
+}

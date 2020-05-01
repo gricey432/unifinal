@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-Reflection (individual)",
+			"weight": 25
+		},
+		{
+			"name": "On-Line Quiz (individual)",
+			"weight": 20
+		},
+		{
+			"name": "Workshop Presentation (individual/group)",
+			"weight": 15
+		},
+		{
+			"name": "Case Analysis Preparation (individual)",
+			"weight": 40
+		}
+	]
+}

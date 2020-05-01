@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-class online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Speaking Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 3",
+			"weight": 20
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

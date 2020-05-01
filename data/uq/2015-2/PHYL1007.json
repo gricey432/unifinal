@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online group quiz 1",
+			"weight": 6
+		},
+		{
+			"name": "Online group quiz 2",
+			"weight": 6
+		},
+		{
+			"name": "Online group quiz 3",
+			"weight": 6
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 6
+		},
+		{
+			"name": "Meta-Learning 2",
+			"weight": 6
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Theory exam",
+			"weight": 50
+		}
+	]
+}

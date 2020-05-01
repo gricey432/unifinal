@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "WHS and Risk Assessment to be read & consented to.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Demo. - instr. amplifier & filter (wk 7)",
+			"weight": 10
+		},
+		{
+			"name": "MCQ quiz in week 7 class time",
+			"weight": 10
+		},
+		{
+			"name": "Demo. - digitisation and feature detection (wk 13)",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

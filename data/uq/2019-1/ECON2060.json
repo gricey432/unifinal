@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Performance in Tutorial Programme",
+			"weight": 10
+		},
+		{
+			"name": "Behavioural Economics, Poverty and Health",
+			"weight": 40
+		},
+		{
+			"name": "Three essays, each of around 1200-1500 words",
+			"weight": 50
+		}
+	]
+}

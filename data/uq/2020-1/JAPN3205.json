@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Internship journal",
+			"weight": 30
+		},
+		{
+			"name": "Reading material presentation",
+			"weight": 5
+		},
+		{
+			"name": "Teaching demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Plan",
+			"weight": 10
+		},
+		{
+			"name": "Response to reading materials",
+			"weight": 25
+		}
+	]
+}

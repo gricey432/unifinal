@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Key Concepts online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Brand Strategy Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Promotional Plan",
+			"weight": 50
+		}
+	]
+}

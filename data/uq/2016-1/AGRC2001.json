@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reporting",
+			"weight": 20
+		},
+		{
+			"name": "The Biochemistry & Metabolism of Toxins in Plants",
+			"weight": 10
+		},
+		{
+			"name": " Practical exam  ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

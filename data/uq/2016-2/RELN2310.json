@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 35
+		},
+		{
+			"name": "Religious Violence & Peace",
+			"weight": 55
+		},
+		{
+			"name": "Tutorial Participation ",
+			"weight": 10
+		}
+	]
+}

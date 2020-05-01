@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Community Education Project - 3 stages",
+			"weight": 40
+		},
+		{
+			"name": "Mock Community Education Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Professional Issues Group Peer Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Seminar Peer Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Practice Group Seminars",
+			"weight": 45
+		}
+	]
+}

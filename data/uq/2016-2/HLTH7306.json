@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": " Results of quantitative analysis assignment",
+			"weight": 40
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 60
+		}
+	]
+}

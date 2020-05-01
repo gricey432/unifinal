@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online  discussion",
+			"weight": 10
+		},
+		{
+			"name": "Evidence-based teaching?",
+			"weight": 50
+		},
+		{
+			"name": "Critical analysis of practitioner research",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test No. 1",
+			"weight": 25
+		},
+		{
+			"name": "Workplace Audit",
+			"weight": 45
+		},
+		{
+			"name": "Test No. 2",
+			"weight": 30
+		}
+	]
+}

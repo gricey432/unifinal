@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Content Quiz - Weeks 1 to 6",
+			"weight": 20
+		},
+		{
+			"name": "Lesson Plan Design, Delivery and Critique",
+			"weight": 40
+		},
+		{
+			"name": "Teacher's Health Work Portfolio",
+			"weight": 40
+		}
+	]
+}

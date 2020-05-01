@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Applied Journal Article",
+			"weight": 20
+		},
+		{
+			"name": "Psychological Skill Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

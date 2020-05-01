@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflections on pratical exercises",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 20
+		},
+		{
+			"name": "Addresing a Process Issue in Therapy",
+			"weight": 40
+		}
+	]
+}

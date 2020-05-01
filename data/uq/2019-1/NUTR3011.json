@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Nutritional epidemiology/ nutrition assessment",
+			"weight": 10
+		},
+		{
+			"name": "Critical appraisal ",
+			"weight": 15
+		},
+		{
+			"name": "In-class exam",
+			"weight": 40
+		},
+		{
+			"name": "Community nutrition investigation",
+			"weight": 35
+		}
+	]
+}

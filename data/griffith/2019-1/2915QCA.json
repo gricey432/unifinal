@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Artist Bio essay",
+			"weight": 30
+		},
+		{
+			"name": "Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Virtual Aboriginal art exhibition or proposal",
+			"weight": 40
+		}
+	]
+}

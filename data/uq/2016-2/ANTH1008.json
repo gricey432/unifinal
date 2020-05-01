@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial presentation",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester in-class exam",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

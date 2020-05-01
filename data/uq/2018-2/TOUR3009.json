@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Job application package",
+			"weight": 35
+		},
+		{
+			"name": "Setting goals for professional relationships.",
+			"weight": 25
+		},
+		{
+			"name": "Industry Placement & Reflective Portfolio ",
+			"weight": 40
+		}
+	]
+}

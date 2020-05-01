@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "An invitation to feminist/gender research",
+			"weight": 45
+		},
+		{
+			"name": "A feminist/gender research project",
+			"weight": 55
+		}
+	]
+}

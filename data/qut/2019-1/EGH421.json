@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Modelling Problem Solving Task",
+			"weight": 25
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

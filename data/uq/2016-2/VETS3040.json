@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical skills checklist - log book",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 35
+		},
+		{
+			"name": "Pathology case study",
+			"weight": 10
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 55
+		}
+	]
+}

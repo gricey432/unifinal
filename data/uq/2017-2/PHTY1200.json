@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Regions 2(LL)& 3(Spine) Prac exam in exam period",
+			"weight": 35
+		},
+		{
+			"name": "Region 1 - Upper Limb Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Technique poster",
+			"weight": 10
+		},
+		{
+			"name": "Theory Exam - all subject content",
+			"weight": 40
+		}
+	]
+}

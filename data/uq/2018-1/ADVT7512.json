@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Campaign Analysis Presentation (weekly in class)",
+			"weight": 20
+		},
+		{
+			"name": "Media Plan ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

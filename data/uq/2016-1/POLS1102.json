@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Informed Contribution to Class Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Forward Essay ",
+			"weight": 20
+		},
+		{
+			"name": "Full Essay ",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

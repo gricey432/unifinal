@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Monologue",
+			"weight": 40
+		},
+		{
+			"name": "Group Performance (including individual mark)",
+			"weight": 60
+		}
+	]
+}

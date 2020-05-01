@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board",
+			"weight": 20
+		},
+		{
+			"name": "Online Learning Journal",
+			"weight": 20
+		},
+		{
+			"name": "Community Profiling",
+			"weight": 20
+		},
+		{
+			"name": "Final Project Proposal",
+			"weight": 40
+		}
+	]
+}

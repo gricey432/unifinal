@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation - formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "CBL Participation - summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 50
+		},
+		{
+			"name": "End-Of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

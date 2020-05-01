@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asynchronous Online Discussion Board",
+			"weight": 40
+		},
+		{
+			"name": "Essay Outline 500 words",
+			"weight": 20
+		},
+		{
+			"name": " Essay 2000 words",
+			"weight": 40
+		}
+	]
+}

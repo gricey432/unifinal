@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Read, think, talk",
+			"weight": 10
+		},
+		{
+			"name": "Power and Social Issues(from Case Scenario)",
+			"weight": 40
+		},
+		{
+			"name": "Theory and Practice",
+			"weight": 50
+		}
+	]
+}

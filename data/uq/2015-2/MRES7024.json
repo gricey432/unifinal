@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Adiabatic radio frequency pulses",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Multi-modality imaging (MRI-PET)",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Magnetic susceptibility mapping",
+			"weight": 10
+		},
+		{
+			"name": "Structural and functional brain connectivity",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Online Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Blackboard Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PCB Alarm Circuit",
+			"weight": 30
+		},
+		{
+			"name": "Digital Voice Recorder Demo",
+			"weight": 30
+		},
+		{
+			"name": "Digital Voice Recorder Design",
+			"weight": 40
+		}
+	]
+}

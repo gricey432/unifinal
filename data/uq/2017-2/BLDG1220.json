@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Drawings : Stage 1",
+			"weight": 25
+		},
+		{
+			"name": "Working with timber 1:1",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Drawings : Stage 2 ",
+			"weight": 25
+		}
+	]
+}

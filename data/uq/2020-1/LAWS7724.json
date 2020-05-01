@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written reflection on material",
+			"weight": 20
+		},
+		{
+			"name": "Report Plan",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment #1 COMPUTING DEMOGRAPHIC MEASURES",
+			"weight": 20
+		},
+		{
+			"name": "Assignment #2 DEMOGRAPHIC PROJECTIONS",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 45
+		}
+	]
+}

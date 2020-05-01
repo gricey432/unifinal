@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical competency- Molar Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "Prosthodontic/Endodontic Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Preclinical competency- Fixed Prosthodontics ",
+			"weight": 20
+		},
+		{
+			"name": "Endodontic case report -written",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Written end of Semester exam ",
+			"weight": 30
+		}
+	]
+}

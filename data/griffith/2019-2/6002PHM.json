@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online workshop quiz",
+			"weight": 20
+		},
+		{
+			"name": "Quizzes - In-person ",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of Practical Activities",
+			"weight": 50
+		}
+	]
+}

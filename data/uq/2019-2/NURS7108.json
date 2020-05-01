@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formative ANSATsx2,Reflection. Child Safety Module",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication Calculations",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Assessment (OSCA)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative ANSATs x 2, Reflection & timesheet",
+			"weight": "NGP"
+		}
+	]
+}

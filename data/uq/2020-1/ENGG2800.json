@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Working circuit module on PCB & pdf of schematic",
+			"weight": 2
+		},
+		{
+			"name": "Risk Assessments to be read and consented to",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Group Plan",
+			"weight": 5
+		},
+		{
+			"name": "Preliminary Demo",
+			"weight": 7
+		},
+		{
+			"name": "Seminar I",
+			"weight": 10
+		},
+		{
+			"name": "Intermediate Demo",
+			"weight": 10
+		},
+		{
+			"name": "Product Submission",
+			"weight": 60
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal- Woman Centred Care in Practice ",
+			"weight": 20
+		},
+		{
+			"name": "Midwifery knowledge past, present and future",
+			"weight": 30
+		},
+		{
+			"name": "Documentary ",
+			"weight": 50
+		}
+	]
+}

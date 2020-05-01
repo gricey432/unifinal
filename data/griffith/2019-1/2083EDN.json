@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project - 1500 words",
+			"weight": 30
+		},
+		{
+			"name": "Biomechanical analysis -  Dartfish and 1200 words",
+			"weight": 30
+		},
+		{
+			"name": "Written Examination -  2hrs 10 mins purusal",
+			"weight": 40
+		}
+	]
+}

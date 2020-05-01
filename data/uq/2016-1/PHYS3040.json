@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quantum Physics",
+			"weight": 20
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester test",
+			"weight": 15
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Translation Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		}
+	]
+}

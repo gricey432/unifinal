@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice quiz",
+			"weight": 30
+		},
+		{
+			"name": "Individual Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Group - Investigation, Reporting and Seminar",
+			"weight": 40
+		}
+	]
+}

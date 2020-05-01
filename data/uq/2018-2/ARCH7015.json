@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Part 1 - Research & Concept Design - Sub/Review",
+			"weight": 20
+		},
+		{
+			"name": "Part 2 -Detailed Design -Submission/Review",
+			"weight": 50
+		},
+		{
+			"name": "Part 3 - Final Presentation - Submission/Review",
+			"weight": 30
+		}
+	]
+}

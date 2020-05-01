@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Informal assessment of typical communication ",
+			"weight": 40
+		},
+		{
+			"name": "Small Group Presentation 1",
+			"weight": 10
+		},
+		{
+			"name": "Small Group Presentation 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

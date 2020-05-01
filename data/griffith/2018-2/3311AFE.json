@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CBA Worksheet",
+			"weight": 25
+		},
+		{
+			"name": "On-line test",
+			"weight": 20
+		},
+		{
+			"name": "CBA Group Report ",
+			"weight": 25
+		},
+		{
+			"name": "Blog ",
+			"weight": 30
+		}
+	]
+}

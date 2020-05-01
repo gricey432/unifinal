@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interviewing and counselling reflection on a case",
+			"weight": 15
+		},
+		{
+			"name": "Education program planning",
+			"weight": 15
+		},
+		{
+			"name": "Ready reckoner and peer review activity",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

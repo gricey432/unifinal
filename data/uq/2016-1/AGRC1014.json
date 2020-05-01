@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pasture report 1",
+			"weight": 12
+		},
+		{
+			"name": "Pasture report 2",
+			"weight": 12
+		},
+		{
+			"name": "Crop Report 1 - Climatic Effect on Crop Production",
+			"weight": 12
+		},
+		{
+			"name": "Challenges to Sustainable Cropping Systems ",
+			"weight": 12
+		},
+		{
+			"name": "Theory Final Exam",
+			"weight": 50
+		}
+	]
+}

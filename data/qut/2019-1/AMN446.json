@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Brand Research Project",
+			"weight": 50
+		},
+		{
+			"name": "Brand Equity Report",
+			"weight": 50
+		}
+	]
+}

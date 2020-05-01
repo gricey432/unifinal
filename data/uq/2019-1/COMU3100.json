@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Research Proposal Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Work In Progress Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Digital Production Project",
+			"weight": 50
+		}
+	]
+}

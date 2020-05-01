@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research project",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation of research findings",
+			"weight": 15
+		},
+		{
+			"name": "Written report on research findings",
+			"weight": 80
+		}
+	]
+}

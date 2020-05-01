@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Wiley Online Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Experiment 1",
+			"weight": 15
+		},
+		{
+			"name": "Experiment 2",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Exam - Mechanics",
+			"weight": 20
+		},
+		{
+			"name": "End Of Semester Exam",
+			"weight": 20
+		}
+	]
+}

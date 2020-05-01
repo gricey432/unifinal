@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Infographic and report",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2 - In Class Test",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 - Report",
+			"weight": 45
+		}
+	]
+}

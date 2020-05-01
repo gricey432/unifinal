@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "End-of-Trimester Examination",
+			"weight": 50
+		}
+	]
+}

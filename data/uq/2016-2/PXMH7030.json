@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Practice Journal",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Mid Semester - Supervision Report",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "End of Semester - Supervision Report",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Practicum Log - Client Contact",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Practicum Log - Non Client Contact",
+			"weight": "pass/fail"
+		}
+	]
+}

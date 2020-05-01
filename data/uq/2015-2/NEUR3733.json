@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class quizzes   ",
+			"weight": 30
+		},
+		{
+			"name": "Three Laboratory assessments 3 x 10%",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

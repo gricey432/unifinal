@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "ICT teacher oriented tasks",
+			"weight": 50
+		},
+		{
+			"name": "ICT student oriented task",
+			"weight": 50
+		}
+	]
+}

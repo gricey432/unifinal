@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing professional communication with client",
+			"weight": 5
+		},
+		{
+			"name": "Scrum Board and GIT repository",
+			"weight": 10
+		},
+		{
+			"name": "Web PA peer assessment",
+			"weight": "as needed only"
+		},
+		{
+			"name": "Project Charter",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Understanding the Scrum Framework",
+			"weight": 5
+		},
+		{
+			"name": "Sprint Zero: Pitch/Quote/Early Prototype",
+			"weight": 15
+		},
+		{
+			"name": "Critiques",
+			"weight": 5
+		},
+		{
+			"name": "Project Proposal Presentation",
+			"weight": 15
+		},
+		{
+			"name": "INDIVIDUAL Reflective Review",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 35
+		}
+	]
+}

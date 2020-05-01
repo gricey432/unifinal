@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Corporate Valuation Model",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

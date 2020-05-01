@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch",
+			"weight": 7
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": 7
+		},
+		{
+			"name": "Responses to pitches and drafts",
+			"weight": 7
+		},
+		{
+			"name": "Responses to Readings",
+			"weight": 7
+		},
+		{
+			"name": "Drafts of project",
+			"weight": 30
+		},
+		{
+			"name": "Final Project",
+			"weight": 40
+		}
+	]
+}

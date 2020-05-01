@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Discussion in Workshops",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Group Poster and Oral Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Group Report",
+			"weight": 25
+		}
+	]
+}

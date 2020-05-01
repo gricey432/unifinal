@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1: Magic Mat House",
+			"weight": 20
+		},
+		{
+			"name": "Project 2.1 House for a Collector",
+			"weight": 20
+		},
+		{
+			"name": "Project 2.2 House for a Collector",
+			"weight": 20
+		},
+		{
+			"name": "Project 2.3 House for a Collector [hurdle]",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 10
+		},
+		{
+			"name": "Risk assessment report ",
+			"weight": 20
+		},
+		{
+			"name": "Disaster Management ",
+			"weight": 20
+		},
+		{
+			"name": "Sea-Level change risk assessment report",
+			"weight": 20
+		},
+		{
+			"name": "Final",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Topics in Nano-Manufacturing",
+			"weight": 25
+		},
+		{
+			"name": "Surface Engineering",
+			"weight": 25
+		},
+		{
+			"name": "Oral Presentation - Microstructures",
+			"weight": 12
+		},
+		{
+			"name": "Critical factors affecting 3D printing of concrete",
+			"weight": 12
+		},
+		{
+			"name": "Topics in Electronics Manufacturing",
+			"weight": 25
+		}
+	]
+}

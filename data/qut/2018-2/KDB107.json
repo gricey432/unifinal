@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration",
+			"weight": 40
+		},
+		{
+			"name": "Dance Toolbox",
+			"weight": 60
+		}
+	]
+}

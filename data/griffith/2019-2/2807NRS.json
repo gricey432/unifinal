@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical simulation assessment",
+			"weight": 20
+		},
+		{
+			"name": "Clinical practicum (80 hours)",
+			"weight": 0
+		},
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

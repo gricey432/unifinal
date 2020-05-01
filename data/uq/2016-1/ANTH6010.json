@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three Presentations and student-led discussion",
+			"weight": 20
+		},
+		{
+			"name": "1st essay",
+			"weight": 40
+		},
+		{
+			"name": "2nd essay",
+			"weight": 40
+		}
+	]
+}

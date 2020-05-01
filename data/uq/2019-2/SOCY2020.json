@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group tutorial presentation",
+			"weight": 20
+		},
+		{
+			"name": "Dialogue and participation",
+			"weight": 10
+		},
+		{
+			"name": "Peer evaluation of group presentation",
+			"weight": 5
+		},
+		{
+			"name": "Sociological analysis of an environmental problem",
+			"weight": 25
+		},
+		{
+			"name": "Research essay",
+			"weight": 40
+		}
+	]
+}

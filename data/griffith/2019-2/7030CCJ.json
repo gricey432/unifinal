@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz: Assessment and Evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Risk Assessment (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

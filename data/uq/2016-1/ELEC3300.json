@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 5
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial assessment",
+			"weight": 15
+		},
+		{
+			"name": "Mid semester class test",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

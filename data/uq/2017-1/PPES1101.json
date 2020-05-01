@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Opinion Piece (600 words)",
+			"weight": 15
+		},
+		{
+			"name": "Politics and Economics in Australia (2000 words)",
+			"weight": 55
+		},
+		{
+			"name": "Take Home Exam (1000 words)",
+			"weight": 30
+		}
+	]
+}

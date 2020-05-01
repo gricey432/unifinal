@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Language Profile",
+			"weight": 5
+		},
+		{
+			"name": "\"Language in the News\" & worksheet presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 5
+		},
+		{
+			"name": "Language as a code (Chapters 1, 3-7)",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 6",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 7",
+			"weight": 5
+		},
+		{
+			"name": "Take-Home Quiz",
+			"weight": 25
+		}
+	]
+}

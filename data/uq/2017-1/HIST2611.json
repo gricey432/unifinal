@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar discussion",
+			"weight": 10
+		},
+		{
+			"name": "Seminar paper and presentation",
+			"weight": 25
+		},
+		{
+			"name": "Group Seminar presentation or major paper",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

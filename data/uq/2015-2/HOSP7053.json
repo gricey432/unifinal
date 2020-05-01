@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team work: In class group presentations",
+			"weight": 30
+		},
+		{
+			"name": "Written Analysis of Everest Simulation",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

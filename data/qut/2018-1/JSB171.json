@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Forum",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

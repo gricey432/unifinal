@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "iPad Ensemble Membership & Reflection ",
+			"weight": 25
+		},
+		{
+			"name": "Practical Projects",
+			"weight": 40
+		},
+		{
+			"name": "Major Performance Presentation",
+			"weight": 35
+		}
+	]
+}

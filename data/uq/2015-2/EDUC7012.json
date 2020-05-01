@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Conceptualising the guidance role",
+			"weight": "Pass/Fail All assessment items must be submitted and passed to gain a passing grade in this course "
+		},
+		{
+			"name": "Counselling tape 1 - Reviewing the basics",
+			"weight": "Pass/Fail All assessment items must be submitted and passed to gain a passing grade in this course"
+		},
+		{
+			"name": "Ethical Issues",
+			"weight": "Pass/Fail All assessment items must be submitted and passed to gain a passing grade in this course"
+		},
+		{
+			"name": "Applying a counselling theory",
+			"weight": "Pass/Fail All assessment items must be submitted and passed to gain a passing rade in this course "
+		},
+		{
+			"name": "Log of practicum experiences",
+			"weight": "Pass/Fail All assessment items must be submitted and passed to gain a passing grade in this course"
+		}
+	]
+}

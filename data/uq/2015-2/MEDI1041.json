@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Exam",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Student-led Symposium",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Discussion Board",
+			"weight": "Pass/Fail"
+		}
+	]
+}

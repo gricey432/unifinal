@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory/Practical",
+			"weight": 30
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Theory / Lab Exam",
+			"weight": 50
+		}
+	]
+}

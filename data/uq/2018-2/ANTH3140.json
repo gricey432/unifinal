@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Leading discussion",
+			"weight": 10
+		},
+		{
+			"name": "Reading response",
+			"weight": 20
+		},
+		{
+			"name": "Early career research forum ",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

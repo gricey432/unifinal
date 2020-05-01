@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "My Virtual Life ",
+			"weight": 20
+		},
+		{
+			"name": "Part A: Case Study Assignment Plan",
+			"weight": "Formative"
+		},
+		{
+			"name": "Part B: Case Study Essay",
+			"weight": 40
+		},
+		{
+			"name": " Exam",
+			"weight": 40
+		}
+	]
+}

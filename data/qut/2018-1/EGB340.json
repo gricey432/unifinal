@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Framing",
+			"weight": 25
+		},
+		{
+			"name": "Interim Presentation &amp; Crit",
+			"weight": 15
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 60
+		}
+	]
+}

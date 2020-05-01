@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Animation Sound Design",
+			"weight": 40
+		},
+		{
+			"name": "Game Sound Design",
+			"weight": 60
+		}
+	]
+}

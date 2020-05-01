@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Individual wastewater assignment",
+			"weight": 10
+		},
+		{
+			"name": "Forum discussion on Water 4.0",
+			"weight": 5
+		},
+		{
+			"name": "Wastewater field trip (individual mark)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Group Wastewater Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Field trip - landfill (Individual mark)",
+			"weight": 5
+		},
+		{
+			"name": "Compilation of tutorial work (Individual mark)",
+			"weight": 5
+		},
+		{
+			"name": "Solid waste assignment (Pair mark)",
+			"weight": 20
+		},
+		{
+			"name": "Final exam (open book)",
+			"weight": 40
+		}
+	]
+}

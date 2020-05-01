@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Theory test (was In-class tests)",
+			"weight": 60
+		},
+		{
+			"name": "Application test (was Group worksheet answer)",
+			"weight": 20
+		}
+	]
+}

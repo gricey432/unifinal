@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Design or Project/Team Management Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Contributions to Team",
+			"weight": "Embedded"
+		},
+		{
+			"name": "Report # 1 - Context Report",
+			"weight": 15
+		},
+		{
+			"name": "Team Management Report",
+			"weight": 15
+		},
+		{
+			"name": "Report # 2 - Project Plan",
+			"weight": 40
+		},
+		{
+			"name": "Individual Project Workbook",
+			"weight": 15
+		}
+	]
+}

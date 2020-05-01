@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Protection strategy review",
+			"weight": 25
+		},
+		{
+			"name": "MPA management plan",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in tutorial discussions",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation in Tutorial",
+			"weight": 15
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 45
+		}
+	]
+}

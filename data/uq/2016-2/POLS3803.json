@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Reading Reports",
+			"weight": 16
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 9
+		},
+		{
+			"name": "Article Review and Response (2250 words)",
+			"weight": 30
+		},
+		{
+			"name": "Take home exam (3000 words)",
+			"weight": 45
+		}
+	]
+}

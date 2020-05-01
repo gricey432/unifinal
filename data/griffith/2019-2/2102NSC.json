@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "In class compulsory problem-solving workshops",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Reports that are compulsory",
+			"weight": 15
+		},
+		{
+			"name": "Module 1 exam, 1 hour 50 minutes",
+			"weight": 35
+		},
+		{
+			"name": "End of Trimester Exam ",
+			"weight": 35
+		},
+		{
+			"name": "In class compulsory problem-solving workshops",
+			"weight": 15
+		},
+		{
+			"name": "Module 1 exam, 1 hour 50 minutes",
+			"weight": 35
+		},
+		{
+			"name": "Laboratory Reports that are compulsory",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam ",
+			"weight": 35
+		}
+	]
+}

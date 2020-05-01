@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Procedural Skills Workshop (PSW) OnLine Assessment",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122"
+		},
+		{
+			"name": "Standardised Patient History Recording and Review ",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Procedural Skills Workshops - Basic Life Support",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Clinical Coaching Examination - Musculoskeletal",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Formative",
+			"weight": "Provides feedback on performance, to guide successful performance in summative CPA assessment."
+		},
+		{
+			"name": "Clinical Coaching Examination - Nervous System",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Nutrition Masterclass - OnLine Assessment",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Summative",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Clinical Coaching Examination - Gastrointestinal",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		}
+	]
+}

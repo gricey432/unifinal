@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard 'Discussion Board' Weekly Question",
+			"weight": 30
+		},
+		{
+			"name": "Online Exam",
+			"weight": 30
+		},
+		{
+			"name": "Online Take Home Exam",
+			"weight": 40
+		}
+	]
+}

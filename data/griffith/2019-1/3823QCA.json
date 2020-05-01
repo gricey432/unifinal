@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Insane Honesty",
+			"weight": 30
+		},
+		{
+			"name": "Digital Disruption",
+			"weight": 30
+		},
+		{
+			"name": "Culture Jamming",
+			"weight": 40
+		}
+	]
+}

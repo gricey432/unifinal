@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Case Analysis Assignment",
+			"weight": 30
+		},
+		{
+			"name": "An Integrated Marketing Plan",
+			"weight": 40
+		},
+		{
+			"name": "Key Learnings & Reflections",
+			"weight": 30
+		}
+	]
+}

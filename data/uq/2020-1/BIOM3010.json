@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Heart Sounds and Blood Pressure",
+			"weight": 5
+		},
+		{
+			"name": "Diuretics",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 65
+		}
+	]
+}

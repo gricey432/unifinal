@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Peer Assessment",
+			"weight": "Modifies product mark"
+		},
+		{
+			"name": "Individual Design Brief",
+			"weight": 3
+		},
+		{
+			"name": "Schematic and PCB",
+			"weight": 5
+		},
+		{
+			"name": "Critique of Peer Design Briefs",
+			"weight": 2
+		},
+		{
+			"name": "Design overview and execution plan",
+			"weight": 5
+		},
+		{
+			"name": "Performance Review Meeting",
+			"weight": 5
+		},
+		{
+			"name": "Progress Seminar and Slides I",
+			"weight": 4
+		},
+		{
+			"name": "Progress Seminar and Slides II",
+			"weight": 8
+		},
+		{
+			"name": "Product Mark modified by PAF",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 3
+		},
+		{
+			"name": "Final Report",
+			"weight": 5
+		}
+	]
+}

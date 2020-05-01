@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Crewing",
+			"weight": 60
+		},
+		{
+			"name": "Creative Work",
+			"weight": 40
+		}
+	]
+}

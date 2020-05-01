@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Multiple choice quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "1400 words",
+			"weight": 35
+		},
+		{
+			"name": "Multiple choice quiz 3",
+			"weight": 15
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		}
+	]
+}

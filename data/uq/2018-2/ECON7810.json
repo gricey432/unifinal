@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion of research articles",
+			"weight": 15
+		},
+		{
+			"name": "Written critical appraisal",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam - Venue TBA",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

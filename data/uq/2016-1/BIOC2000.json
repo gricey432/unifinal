@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory attendance and participation",
+			"weight": 8
+		},
+		{
+			"name": "Plasmid Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Practical report",
+			"weight": 12
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

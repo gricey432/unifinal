@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay One: The Media and Social Policy",
+			"weight": 25
+		},
+		{
+			"name": "Distributional analysis of social policy",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

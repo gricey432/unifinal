@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Km for leu-peptide binding to aminopeptidase",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Expression, purification and analysis of KARI",
+			"weight": 30
+		},
+		{
+			"name": "Molecular Visualization -PyMOL",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

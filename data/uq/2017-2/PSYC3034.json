@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Intervention Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Applied Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 10
+		}
+	]
+}

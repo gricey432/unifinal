@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Team blog, presentations & client communication",
+			"weight": 13
+		},
+		{
+			"name": "Web PA peer assessment",
+			"weight": "n/a"
+		},
+		{
+			"name": "Critique",
+			"weight": 5
+		},
+		{
+			"name": "Individual reflective journal",
+			"weight": 5
+		},
+		{
+			"name": "Project Charter",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Return Brief",
+			"weight": 5
+		},
+		{
+			"name": "UX Profile",
+			"weight": 8
+		},
+		{
+			"name": "Minimum Viable Product (MVP)",
+			"weight": 8
+		},
+		{
+			"name": "Final Product Demonstration",
+			"weight": 28
+		},
+		{
+			"name": "Final project package: software and documentation",
+			"weight": 18
+		},
+		{
+			"name": "Academic paper",
+			"weight": 10
+		}
+	]
+}

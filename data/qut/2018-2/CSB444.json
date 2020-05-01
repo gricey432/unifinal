@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Set learning tasks",
+			"weight": 25
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 25
+		},
+		{
+			"name": "Examination (Theory)",
+			"weight": 50
+		}
+	]
+}

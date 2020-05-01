@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Critique of contemporary literature",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Peer Assessment ",
+			"weight": "X PAF by group mark to get individual mark"
+		},
+		{
+			"name": "Case Study - Repowering Gladstone Roadmap",
+			"weight": 40
+		}
+	]
+}

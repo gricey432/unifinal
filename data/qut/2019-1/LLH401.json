@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Resource",
+			"weight": 40
+		},
+		{
+			"name": "Academic Article",
+			"weight": 60
+		}
+	]
+}

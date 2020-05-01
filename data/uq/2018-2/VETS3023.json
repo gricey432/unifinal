@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SOP Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Residential School Performance",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		},
+		{
+			"name": "Practical Examination - Blood Film Evaluation",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Analysis Project",
+			"weight": 40
+		},
+		{
+			"name": "Online Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		}
+	]
+}

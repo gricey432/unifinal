@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Conference Paper Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Catchment inspection",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 - Catchment flood design report",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 65
+		}
+	]
+}

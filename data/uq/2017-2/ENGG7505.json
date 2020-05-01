@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Daily open-notes quiz",
+			"weight": 5
+		},
+		{
+			"name": "Nodal Analysis/Artificial Lift Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Reservoir Stimulation Optimisation Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

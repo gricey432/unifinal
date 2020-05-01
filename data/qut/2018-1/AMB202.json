@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hot Topic Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam (online)",
+			"weight": 30
+		},
+		{
+			"name": "IMC Digital Pitch",
+			"weight": 40
+		}
+	]
+}

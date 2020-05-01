@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini-Essays",
+			"weight": 35
+		},
+		{
+			"name": "Comparing and contrasting theoretical approaches",
+			"weight": 35
+		},
+		{
+			"name": "Case Conceptualisation",
+			"weight": 30
+		}
+	]
+}

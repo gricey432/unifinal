@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Oral Introduction",
+			"weight": 30
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "TAKE HOME EXAM",
+			"weight": 30
+		},
+		{
+			"name": "Art research project",
+			"weight": 40
+		}
+	]
+}

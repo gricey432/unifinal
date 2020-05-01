@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Examination of thesis",
+			"weight": 66
+		},
+		{
+			"name": "Overall Research Performance",
+			"weight": 33
+		}
+	]
+}

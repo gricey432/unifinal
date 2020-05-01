@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Satisfactory attendance & completion of exercises",
+			"weight": 20
+		},
+		{
+			"name": "Structural map of Nambucca Heads",
+			"weight": 15
+		},
+		{
+			"name": "Cape Clairault exercise",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 45
+		}
+	]
+}

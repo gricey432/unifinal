@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual case analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final case group presentation",
+			"weight": 50
+		},
+		{
+			"name": "Within group evaluation",
+			"weight": 20
+		}
+	]
+}

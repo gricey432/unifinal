@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1.0 CONCEPT DESIGN (materials)",
+			"weight": 40
+		},
+		{
+			"name": "1.1 CONCEPT DESIGN (presentation)",
+			"weight": "forms part of 1.0"
+		},
+		{
+			"name": "2.0 DRAFT FINAL DESIGN",
+			"weight": "forms part of 3.0"
+		},
+		{
+			"name": "3.0_FINAL DESIGN (materials)",
+			"weight": 60
+		},
+		{
+			"name": "3.1_FINAL DESIGN (presentation)",
+			"weight": "forms part of 3.0"
+		}
+	]
+}

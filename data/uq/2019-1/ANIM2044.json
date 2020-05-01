@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Prac reports & Compulsory Residential School",
+			"weight": 30
+		},
+		{
+			"name": "Environmental Requirements of Swine OR Poultry",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Needs Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Article Summaries x 4",
+			"weight": 20
+		},
+		{
+			"name": "Program Plan",
+			"weight": 45
+		}
+	]
+}

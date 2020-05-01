@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video Pres: My Creative Voice",
+			"weight": 10
+		},
+		{
+			"name": "1 Minute Factual Sequence",
+			"weight": 40
+		},
+		{
+			"name": "3-5 Minute Documentary",
+			"weight": 50
+		}
+	]
+}

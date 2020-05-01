@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Memorandum of Advice",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 40
+		}
+	]
+}

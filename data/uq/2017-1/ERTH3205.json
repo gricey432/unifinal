@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assignments ",
+			"weight": 30
+		},
+		{
+			"name": "Field Trip ",
+			"weight": 5
+		},
+		{
+			"name": "Research Paper ",
+			"weight": 25
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

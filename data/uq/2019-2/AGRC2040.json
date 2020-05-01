@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Herbicide Resistance",
+			"weight": 10
+		},
+		{
+			"name": "Harvest Weed Seed Control",
+			"weight": 10
+		},
+		{
+			"name": "Wheat Study Report",
+			"weight": 30
+		},
+		{
+			"name": "Student presentations",
+			"weight": 15
+		},
+		{
+			"name": "Open book final exam",
+			"weight": 35
+		}
+	]
+}

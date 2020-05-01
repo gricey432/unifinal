@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Slake Durability Test",
+			"weight": 5
+		},
+		{
+			"name": "Longwall face stability analysis using LVA",
+			"weight": 15
+		},
+		{
+			"name": "Rockbolt Pull Out Test",
+			"weight": 10
+		},
+		{
+			"name": "Scanning radar",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "In class quiz",
+			"weight": 20
+		},
+		{
+			"name": "Multi-seam mining",
+			"weight": 25
+		}
+	]
+}

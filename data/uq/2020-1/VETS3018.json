@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Sessions",
+			"weight": 25
+		},
+		{
+			"name": "Parasitology Report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam Online Examination",
+			"weight": 60
+		}
+	]
+}

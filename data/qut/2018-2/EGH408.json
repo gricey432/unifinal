@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Report",
+			"weight": 20
+		},
+		{
+			"name": "Progress Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Report",
+			"weight": 60
+		},
+		{
+			"name": "Report",
+			"weight": 0
+		}
+	]
+}

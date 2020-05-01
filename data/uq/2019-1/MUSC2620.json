@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Music Techniques Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Final Music Techniques Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Individual and/or Ensemble Performances",
+			"weight": 30
+		},
+		{
+			"name": "In-class Dictations and Listening Test",
+			"weight": 20
+		}
+	]
+}

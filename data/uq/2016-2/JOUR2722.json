@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical analysis of Media Watch program",
+			"weight": 45
+		},
+		{
+			"name": "Project",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reading summaries (12 in total)",
+			"weight": 60
+		},
+		{
+			"name": "Paper and presentation (group work)",
+			"weight": 40
+		}
+	]
+}

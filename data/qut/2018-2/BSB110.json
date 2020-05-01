@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Accounting Decision-making",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

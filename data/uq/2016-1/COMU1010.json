@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Self Presentation in Public Life",
+			"weight": 40
+		},
+		{
+			"name": "Final exam covering all lectures and readings",
+			"weight": 30
+		}
+	]
+}

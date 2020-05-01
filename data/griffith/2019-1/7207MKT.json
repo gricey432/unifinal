@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Definition Report",
+			"weight": 30
+		},
+		{
+			"name": "Research Report",
+			"weight": 50
+		},
+		{
+			"name": "Concepts Test (Online)",
+			"weight": 20
+		}
+	]
+}

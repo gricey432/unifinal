@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Four (4) Duos",
+			"weight": 20
+		},
+		{
+			"name": "Four (4) Small Ensembles Exercises",
+			"weight": 40
+		},
+		{
+			"name": "Arrangement for Orchestra",
+			"weight": 40
+		}
+	]
+}

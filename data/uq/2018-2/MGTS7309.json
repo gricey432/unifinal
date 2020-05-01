@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Organisations & future sustainability challenges",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Organisational reporting for sustainability",
+			"weight": 60
+		}
+	]
+}

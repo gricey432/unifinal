@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Spectroscopy",
+			"weight": 25
+		},
+		{
+			"name": "Electron Transfer Reactions",
+			"weight": 25
+		},
+		{
+			"name": "Advanced coordination chemistry",
+			"weight": 25
+		},
+		{
+			"name": "Bioinorganic Chemistry",
+			"weight": 15
+		},
+		{
+			"name": "Bioinorganic Chemistry",
+			"weight": 10
+		}
+	]
+}

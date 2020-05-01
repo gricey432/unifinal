@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "DISC Performance",
+			"weight": 60
+		},
+		{
+			"name": "Tutorial Engagement",
+			"weight": 30
+		},
+		{
+			"name": "Reflection and Concert reviews",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Performances",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Performance",
+			"weight": 50
+		}
+	]
+}

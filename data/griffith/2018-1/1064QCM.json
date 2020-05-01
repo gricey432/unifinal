@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Storytelling Project",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Tests",
+			"weight": 15
+		},
+		{
+			"name": "Songwriting Project",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Tests",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Arts and creativity content knowledge",
+			"weight": 30
+		},
+		{
+			"name": "Analysis of Arts and creativity resources",
+			"weight": 30
+		},
+		{
+			"name": "Leading with Drama - team teaching program",
+			"weight": 40
+		}
+	]
+}

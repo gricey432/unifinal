@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester quiz",
+			"weight": 20
+		},
+		{
+			"name": "Creative Advertising Campaign",
+			"weight": 45
+		},
+		{
+			"name": "Final Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of work",
+			"weight": 15
+		}
+	]
+}

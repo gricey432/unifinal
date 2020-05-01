@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Oral)",
+			"weight": 20
+		},
+		{
+			"name": "Demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 50
+		}
+	]
+}

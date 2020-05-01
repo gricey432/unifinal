@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of warung sinema activities",
+			"weight": 10
+		},
+		{
+			"name": "In-class listening and reading tests",
+			"weight": 20
+		},
+		{
+			"name": "Group play script and learning journal",
+			"weight": 15
+		},
+		{
+			"name": "Group role play",
+			"weight": 15
+		},
+		{
+			"name": "Written examination",
+			"weight": 25
+		},
+		{
+			"name": "End of semester oral interview",
+			"weight": 15
+		}
+	]
+}

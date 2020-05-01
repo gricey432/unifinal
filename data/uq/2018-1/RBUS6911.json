@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IP Proposal (Assignment 1)",
+			"weight": 20
+		},
+		{
+			"name": "IP Commercialisation Feasibility Study (Assign. 2)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

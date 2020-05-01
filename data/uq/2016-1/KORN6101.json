@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation of work in progress",
+			"weight": 0
+		},
+		{
+			"name": "Dissertation",
+			"weight": 100
+		}
+	]
+}

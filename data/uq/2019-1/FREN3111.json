@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation aux forums sur Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Exam: mid-semester scheduled outside class",
+			"weight": 20
+		},
+		{
+			"name": "Message audio(visuel) ",
+			"weight": 20
+		},
+		{
+			"name": "Plan pour le texte autobiographique",
+			"weight": 5
+		},
+		{
+			"name": "Examen de fin de semestre",
+			"weight": 30
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		}
+	]
+}

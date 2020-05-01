@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "'Mastery' Quiz - Unit 1",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 2",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 3",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 4",
+			"weight": 5
+		},
+		{
+			"name": "Soil fertility & nutrition of plants",
+			"weight": 25
+		},
+		{
+			"name": "Soil science in action",
+			"weight": 25
+		},
+		{
+			"name": "Review of carbon or nitrogen cycling in soils",
+			"weight": 30
+		}
+	]
+}

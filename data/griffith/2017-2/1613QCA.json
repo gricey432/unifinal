@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Exposure",
+			"weight": 25
+		},
+		{
+			"name": "Selective Focus and Maximum Depth of Field",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Portable Studio Speedlight Portrait",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 5
+		}
+	]
+}

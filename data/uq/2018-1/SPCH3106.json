@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 10
+		},
+		{
+			"name": "Part 1: Preliminary analysis",
+			"weight": 5
+		},
+		{
+			"name": "Part 2: Detailed analyses and interpretation",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

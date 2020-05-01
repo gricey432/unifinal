@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "800 word visual analysis",
+			"weight": 20
+		},
+		{
+			"name": "Worksheet",
+			"weight": 5
+		},
+		{
+			"name": "In Class Essay Writing Workshop",
+			"weight": 10
+		},
+		{
+			"name": "2500 word research essay",
+			"weight": 35
+		},
+		{
+			"name": "In Class Slide Test",
+			"weight": 30
+		}
+	]
+}

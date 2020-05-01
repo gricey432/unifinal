@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation and Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Critical Article Review (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Major Research essay (2,000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

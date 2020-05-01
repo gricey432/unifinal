@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		},
+		{
+			"name": "Literature Review",
+			"weight": 20
+		}
+	]
+}

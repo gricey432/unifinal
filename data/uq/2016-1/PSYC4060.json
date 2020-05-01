@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Review & Clearance of Proposed Thesis",
+			"weight": "Required"
+		},
+		{
+			"name": "Written Statement of Your Own 'Code of Ethics'",
+			"weight": "Required"
+		},
+		{
+			"name": " & Participation in Weekly Discussions",
+			"weight": "Min 9 sessions required"
+		}
+	]
+}

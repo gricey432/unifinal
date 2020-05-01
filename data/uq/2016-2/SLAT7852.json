@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Synthesis essay",
+			"weight": 70
+		}
+	]
+}

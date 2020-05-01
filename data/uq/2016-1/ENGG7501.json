@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in in-class quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Well log interpretation assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem based learning activities",
+			"weight": 20
+		},
+		{
+			"name": "Development: oral health promotion activity",
+			"weight": 40
+		},
+		{
+			"name": "Indigenous Health Modules",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

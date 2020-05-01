@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "In-class presentation of own-choice grammar topic",
+			"weight": 10
+		},
+		{
+			"name": "Test on grammar and syntax",
+			"weight": 25
+		},
+		{
+			"name": "An entry for a style guide",
+			"weight": 15
+		},
+		{
+			"name": "Exam on grammar, syntax, & punctuation",
+			"weight": 40
+		}
+	]
+}

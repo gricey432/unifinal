@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 35
+		},
+		{
+			"name": "Evidence of \"Care giver\" pract",
+			"weight": 10
+		},
+		{
+			"name": "OSCE",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal",
+			"weight": 30
+		},
+		{
+			"name": "Basic Practical Circuit",
+			"weight": 10
+		},
+		{
+			"name": "Complex Design and Construction Project",
+			"weight": 60
+		}
+	]
+}

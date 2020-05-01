@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Workbook",
+			"weight": 4
+		},
+		{
+			"name": "Mid-semester Essay (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Second Essay (2500 words)",
+			"weight": 56
+		}
+	]
+}

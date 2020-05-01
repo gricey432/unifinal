@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of a conservation problem",
+			"weight": 30
+		},
+		{
+			"name": "Marxan practicals",
+			"weight": 30
+		},
+		{
+			"name": "Test",
+			"weight": 40
+		}
+	]
+}

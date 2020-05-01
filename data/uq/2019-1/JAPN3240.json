@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tasks",
+			"weight": 10
+		},
+		{
+			"name": "\"Higan\" and \"Fushi no shima\" textual analysis ",
+			"weight": 15
+		},
+		{
+			"name": "written assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "recitation (reading aloud)",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

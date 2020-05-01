@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Periodontics",
+			"weight": 10
+		},
+		{
+			"name": "Endodontics",
+			"weight": 10
+		},
+		{
+			"name": "Written examination",
+			"weight": 40
+		},
+		{
+			"name": "OSCE",
+			"weight": 40
+		}
+	]
+}

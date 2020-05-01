@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "ECG",
+			"weight": 5
+		},
+		{
+			"name": "Heart Sounds and Blood Pressure",
+			"weight": 5
+		},
+		{
+			"name": "Diuresis",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 25
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 60
+		}
+	]
+}

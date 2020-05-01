@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Small project report",
+			"weight": 20
+		},
+		{
+			"name": "Semester 1 Final examination",
+			"weight": 30
+		},
+		{
+			"name": "Searching for and analysing scientific arguments",
+			"weight": 20
+		},
+		{
+			"name": "Semester 2 Final Examination",
+			"weight": 30
+		}
+	]
+}

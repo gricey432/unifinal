@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Breeding records and evaluation",
+			"weight": 10
+		},
+		{
+			"name": "Practical Tasks Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Practical exam",
+			"weight": 10
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 50
+		}
+	]
+}

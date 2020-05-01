@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Summaries",
+			"weight": 50
+		},
+		{
+			"name": "Weekly Reading Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Class Insights",
+			"weight": 5
+		},
+		{
+			"name": "Participation and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial discussion leadership",
+			"weight": 5
+		},
+		{
+			"name": "Final Essay",
+			"weight": 10
+		}
+	]
+}

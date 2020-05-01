@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Appraisal of bush foods",
+			"weight": 10
+		},
+		{
+			"name": "Report on nutritional & medical value of bush food",
+			"weight": 30
+		},
+		{
+			"name": "Law, Lore, and Gumbi Gumbi",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

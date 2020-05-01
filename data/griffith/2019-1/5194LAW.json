@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Advice on Evidence 3000 Word Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Final Take Home Examination",
+			"weight": 50
+		}
+	]
+}

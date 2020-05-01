@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Trimester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Legal Hypothetical (ILAC) & Research Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

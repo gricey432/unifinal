@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework & Tutorial Exercises",
+			"weight": 24
+		},
+		{
+			"name": "Checkpoint Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Checkpoint Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Sustainability Measures for Energy Systems",
+			"weight": 10
+		},
+		{
+			"name": "Online non-invigilated examination",
+			"weight": 50
+		}
+	]
+}

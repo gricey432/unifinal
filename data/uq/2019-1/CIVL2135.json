@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice questions",
+			"weight": 10
+		},
+		{
+			"name": "Project 1 - Sustainability in engineering",
+			"weight": 30
+		},
+		{
+			"name": "Group assignment: Case study Ethics in engineering",
+			"weight": 10
+		},
+		{
+			"name": "Group assignment: short reports",
+			"weight": 10
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

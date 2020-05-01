@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Anaysis",
+			"weight": 40
+		},
+		{
+			"name": "Study Smart Online Tutorial and Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Report - Presenting the Findings",
+			"weight": 60
+		}
+	]
+}

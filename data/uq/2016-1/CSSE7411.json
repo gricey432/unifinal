@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Laboratory Performance",
+			"weight": 40
+		},
+		{
+			"name": "Project milestone",
+			"weight": 5
+		},
+		{
+			"name": "Final Project Demonstration (Group)",
+			"weight": 15
+		},
+		{
+			"name": "Final Project Presentation (Individual)",
+			"weight": 15
+		},
+		{
+			"name": "Conference paper",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

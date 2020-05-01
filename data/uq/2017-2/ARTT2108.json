@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets to be completed in class",
+			"weight": 20
+		},
+		{
+			"name": "Exhibition Review 1000 words",
+			"weight": 30
+		},
+		{
+			"name": "Research essay 2500 words",
+			"weight": 50
+		}
+	]
+}

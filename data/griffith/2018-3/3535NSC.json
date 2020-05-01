@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scenario Based Safety Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Class Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Course Examination",
+			"weight": 40
+		}
+	]
+}

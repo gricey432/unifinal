@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tasks",
+			"weight": 10
+		},
+		{
+			"name": "research proposal",
+			"weight": 10
+		},
+		{
+			"name": "book review",
+			"weight": 10
+		},
+		{
+			"name": "seminar presentation",
+			"weight": 20
+		},
+		{
+			"name": "research paper",
+			"weight": 50
+		}
+	]
+}

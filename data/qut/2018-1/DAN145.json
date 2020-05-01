@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Reflective Journal",
+			"weight": 60
+		},
+		{
+			"name": "Module 2 Simulation",
+			"weight": 40
+		}
+	]
+}

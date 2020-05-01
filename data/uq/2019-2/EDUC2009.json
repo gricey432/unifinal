@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Health Resource Critique",
+			"weight": 40
+		},
+		{
+			"name": "Content Quiz - Weeks 1-8",
+			"weight": 20
+		},
+		{
+			"name": "Lesson Plan Design, Delivery and Critique",
+			"weight": 40
+		}
+	]
+}

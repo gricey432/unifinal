@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial engagement and reports",
+			"weight": 20
+		},
+		{
+			"name": "Socilogical story and conversation about story",
+			"weight": 40
+		},
+		{
+			"name": "Comparison essay assignment",
+			"weight": 40
+		}
+	]
+}

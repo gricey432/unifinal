@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Team Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment For Team Assignment",
+			"weight": "Adjust Team Assignment Score"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

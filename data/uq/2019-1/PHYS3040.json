@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-class reading",
+			"weight": 10
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 25
+		},
+		{
+			"name": "Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester test",
+			"weight": 15
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 30
+		}
+	]
+}

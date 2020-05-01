@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory notebook",
+			"weight": 50
+		},
+		{
+			"name": "Case Study",
+			"weight": 35
+		},
+		{
+			"name": "Viva voce",
+			"weight": 15
+		}
+	]
+}

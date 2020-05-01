@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Supervisor Report",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Placement Portfolio",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Occupational Health and Safety Quiz",
+			"weight": "Submission"
+		},
+		{
+			"name": "Pre-Placement Workshop",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Placement Attendance",
+			"weight": "Pass / Fail"
+		}
+	]
+}

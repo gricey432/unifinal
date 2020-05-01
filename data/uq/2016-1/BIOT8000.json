@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review background literature for your research",
+			"weight": 25
+		},
+		{
+			"name": "Lab book maintenance",
+			"weight": 20
+		},
+		{
+			"name": "Report on research project",
+			"weight": 55
+		}
+	]
+}

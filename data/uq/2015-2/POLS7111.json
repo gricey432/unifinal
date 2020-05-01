@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in lectures and workshops",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reading Review",
+			"weight": 30
+		},
+		{
+			"name": "Public Policy Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Participation in lectures and workshops",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reading Review",
+			"weight": 30
+		},
+		{
+			"name": "Public Policy Case Study",
+			"weight": 40
+		}
+	]
+}

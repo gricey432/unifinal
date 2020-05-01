@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online case-based activity 1",
+			"weight": "P/F"
+		},
+		{
+			"name": "Online case-based activity 2",
+			"weight": "P/F"
+		},
+		{
+			"name": "Online case-based activity 3",
+			"weight": "P/F"
+		},
+		{
+			"name": "Online case-based activity 4",
+			"weight": "P/F"
+		},
+		{
+			"name": "Clinical competence",
+			"weight": "P/F"
+		},
+		{
+			"name": "Viva Voce",
+			"weight": "P/F"
+		}
+	]
+}

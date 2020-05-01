@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Focus Question Participation",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Online Take Home Exam",
+			"weight": 40
+		}
+	]
+}

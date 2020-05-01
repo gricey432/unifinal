@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Presentation - 5 mins",
+			"weight": 20
+		},
+		{
+			"name": "Story One - 1000 words",
+			"weight": 30
+		},
+		{
+			"name": "Story Two - 2000 words",
+			"weight": 50
+		}
+	]
+}

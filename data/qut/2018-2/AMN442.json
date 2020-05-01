@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Online Exam",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Mix Critique",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Research Project",
+			"weight": 20
+		},
+		{
+			"name": "Practical exercises and short field trip",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Term Exam",
+			"weight": 15
+		},
+		{
+			"name": "Student Seminar",
+			"weight": 5
+		},
+		{
+			"name": "Final Theory Exam (closed book)",
+			"weight": 50
+		}
+	]
+}

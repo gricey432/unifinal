@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Teaching presentation",
+			"weight": 20
+		},
+		{
+			"name": "EBP based written assignment ",
+			"weight": 30
+		},
+		{
+			"name": "Exam for MIDW2007",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Albumin Binding Report",
+			"weight": 10
+		},
+		{
+			"name": "Organ Bath Lab Report",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 50
+		}
+	]
+}

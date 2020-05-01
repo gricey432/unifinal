@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "CLEIMS",
+			"weight": 15
+		},
+		{
+			"name": "Understanding Occupational Issues Form",
+			"weight": 10
+		},
+		{
+			"name": "Objective Structured Clinical Examination ",
+			"weight": 0
+		},
+		{
+			"name": "Intervention Plan",
+			"weight": 35
+		},
+		{
+			"name": "SummativeObjective Structured Clinical Examination",
+			"weight": 40
+		}
+	]
+}

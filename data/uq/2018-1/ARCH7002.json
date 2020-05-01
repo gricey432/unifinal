@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Stage 1_Hybrid institutions : the urban school ",
+			"weight": 20
+		},
+		{
+			"name": "Stage 2 _ Drawing out",
+			"weight": 30
+		},
+		{
+			"name": "Stage 3_Part + Whole (IVAH)",
+			"weight": 50
+		}
+	]
+}

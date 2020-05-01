@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Workshop Activity Book",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2 - Mid-Semester Test",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 - Group Oral Presentation",
+			"weight": 35
+		}
+	]
+}

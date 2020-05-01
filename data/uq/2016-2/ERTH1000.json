@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pracs",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Field trip notes and report",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1: Introductory",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 2: Bronze",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 3: Orientalising Ware",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 4: Black-Figure Ware",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 5: Votive Terracottas",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Object Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial 6: Attic Red-Figure ware",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 7: Greek Coinage",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 8: South Italian Red-Figure Ware",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial 9: Hellenistic Pottery",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Tutorial 10: Luxury Arts",
+			"weight": "Part of 15"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

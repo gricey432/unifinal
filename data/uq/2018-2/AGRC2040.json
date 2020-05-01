@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercises",
+			"weight": 30
+		},
+		{
+			"name": "Practical activities",
+			"weight": 30
+		},
+		{
+			"name": "Class presentations",
+			"weight": 10
+		},
+		{
+			"name": "Open book final examination at end of semester",
+			"weight": 30
+		}
+	]
+}

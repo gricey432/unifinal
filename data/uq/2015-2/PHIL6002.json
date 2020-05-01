@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Philosophical essay",
+			"weight": 100
+		},
+		{
+			"name": "Compulsory presentation",
+			"weight": 0
+		}
+	]
+}

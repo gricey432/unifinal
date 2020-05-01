@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflections on HRM",
+			"weight": 25
+		},
+		{
+			"name": "SHRM Research Report",
+			"weight": 25
+		},
+		{
+			"name": "Issues in Strategic Human Resource Management",
+			"weight": 50
+		}
+	]
+}

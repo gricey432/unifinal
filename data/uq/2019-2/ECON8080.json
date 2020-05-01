@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "(To be advised)",
+			"weight": 60
+		},
+		{
+			"name": "Quizzes (Group Work)",
+			"weight": 18
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 22
+		}
+	]
+}

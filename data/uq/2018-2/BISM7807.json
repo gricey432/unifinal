@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Operational Audit Report",
+			"weight": 30
+		},
+		{
+			"name": "Team Case Study Report and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - 10 November",
+			"weight": 40
+		}
+	]
+}

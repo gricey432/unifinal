@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Techniques Exam",
+			"weight": 10
+		},
+		{
+			"name": "Problem Based Learning",
+			"weight": 40
+		},
+		{
+			"name": "Professional participation and contribution ",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Follow Up Treatments",
+			"weight": 20
+		}
+	]
+}

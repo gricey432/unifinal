@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Speed Tutorial- Essay Topic - IVAH component",
+			"weight": "Formative feedback"
+		},
+		{
+			"name": "Essay Topic Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Paper",
+			"weight": 30
+		},
+		{
+			"name": "Speed tutorial - Essay - IVAH component",
+			"weight": "Formative feedback"
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Close reading exercise",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

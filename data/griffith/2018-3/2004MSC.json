@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Role Play",
+			"weight": 4
+		},
+		{
+			"name": "Simulated Interaction",
+			"weight": 5
+		},
+		{
+			"name": "Practical Assessment",
+			"weight": 18
+		},
+		{
+			"name": "Case Scenarios",
+			"weight": 15
+		},
+		{
+			"name": "Essay - self reflection",
+			"weight": 5
+		},
+		{
+			"name": "Workshop assessments",
+			"weight": 24
+		},
+		{
+			"name": "Quiz",
+			"weight": 14
+		},
+		{
+			"name": "Clinical Placement",
+			"weight": 15
+		}
+	]
+}

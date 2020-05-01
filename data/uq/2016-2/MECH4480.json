@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Series: Case studies in applying CFD ",
+			"weight": 5
+		},
+		{
+			"name": "Potential Flow and Panel Methods",
+			"weight": 10
+		},
+		{
+			"name": "Design, Analyse, Build and Test: Aerofoil",
+			"weight": 25
+		},
+		{
+			"name": "Using CFD tools & visualizing results",
+			"weight": 10
+		},
+		{
+			"name": "Simulate and Test Re-Entry Capsule",
+			"weight": 20
+		},
+		{
+			"name": "Using and creating CFD solvers",
+			"weight": 30
+		}
+	]
+}

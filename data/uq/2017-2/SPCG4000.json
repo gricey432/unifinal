@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Review of literature source",
+			"weight": 10
+		},
+		{
+			"name": "Sport event log and reflective journal excerpts",
+			"weight": 25
+		},
+		{
+			"name": "Reflective submission",
+			"weight": 55
+		},
+		{
+			"name": "Peer feedback for article review",
+			"weight": 10
+		}
+	]
+}

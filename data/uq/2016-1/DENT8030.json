@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practical assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

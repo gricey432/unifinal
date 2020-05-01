@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IT Governance Mechanisms in Action",
+			"weight": 30
+		},
+		{
+			"name": "Data Visualisation Team Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination (Online)",
+			"weight": 40
+		}
+	]
+}

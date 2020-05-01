@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Provocations: landscape, morphology & typology",
+			"weight": 40
+		},
+		{
+			"name": "Housing Project: Room, Building & Street",
+			"weight": 60
+		}
+	]
+}

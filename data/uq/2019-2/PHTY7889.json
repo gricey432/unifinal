@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of online learning component",
+			"weight": 20
+		},
+		{
+			"name": "Physiotherapy Service Proposal",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

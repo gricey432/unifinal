@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at classes in Weeks 1-11 + 1st CAL",
+			"weight": "P/F"
+		},
+		{
+			"name": "Assignment 1 - Submission and Peer review",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - Submission and Peer review",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 - Submission and Peer review",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4 - Submission and Peer review",
+			"weight": 5
+		},
+		{
+			"name": "Sound file for the major assignment slides",
+			"weight": 15
+		},
+		{
+			"name": "PowerPoint slides for talk on the major assignment",
+			"weight": 15
+		},
+		{
+			"name": "Submission of two assignments (student choice)",
+			"weight": 50
+		}
+	]
+}

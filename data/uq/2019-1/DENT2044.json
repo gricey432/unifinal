@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester exam",
+			"weight": 25
+		},
+		{
+			"name": "In-class quiz",
+			"weight": 15
+		},
+		{
+			"name": "Microbiology, Immunology, Infection Final exam",
+			"weight": 40
+		}
+	]
+}

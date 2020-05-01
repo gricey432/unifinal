@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "End-of-module Test (Cardiovascular)",
+			"weight": 15
+		},
+		{
+			"name": "Viva (Cardiovascular)",
+			"weight": 10
+		},
+		{
+			"name": "End-of-module Test (Infection)",
+			"weight": 15
+		},
+		{
+			"name": "Viva voce (Infection)",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

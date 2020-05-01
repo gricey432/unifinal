@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 2",
+			"weight": 5
+		},
+		{
+			"name": "Communication technologies 1",
+			"weight": 5
+		},
+		{
+			"name": "Communication technologies 2",
+			"weight": 5
+		},
+		{
+			"name": "Communication technologies for Project Management",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Presentation Discussion Questions",
+			"weight": 5
+		},
+		{
+			"name": "Oral in Class Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

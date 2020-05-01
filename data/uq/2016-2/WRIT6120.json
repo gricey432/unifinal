@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sample Screenplay Formatting",
+			"weight": 10
+		},
+		{
+			"name": "Short Pitch Document",
+			"weight": 15
+		},
+		{
+			"name": "Film Treatment",
+			"weight": 30
+		},
+		{
+			"name": "Screenplay Assignment",
+			"weight": 45
+		}
+	]
+}

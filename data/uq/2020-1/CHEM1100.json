@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Laboratory Learning Experiences",
+			"weight": 25
+		},
+		{
+			"name": "Online tasks linked to lecture activities",
+			"weight": 5
+		},
+		{
+			"name": "Sapling Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam (Online)",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam (online non-invigilated exam)",
+			"weight": 40
+		}
+	]
+}

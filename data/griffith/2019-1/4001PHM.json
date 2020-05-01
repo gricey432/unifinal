@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals",
+			"weight": 30
+		},
+		{
+			"name": "Trimester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 0
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

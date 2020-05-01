@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Science Communication-Final draft",
+			"weight": 7
+		},
+		{
+			"name": "Online activity questions (Edx)",
+			"weight": "Grade restriction (see grade matrix)"
+		},
+		{
+			"name": "Tutorials",
+			"weight": 0
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": 0
+		},
+		{
+			"name": "Practical preparation and participation",
+			"weight": 3
+		},
+		{
+			"name": "Mini tests",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

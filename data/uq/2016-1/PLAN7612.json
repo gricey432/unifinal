@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical discussion and questions",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay - Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Role Play Items",
+			"weight": 20
+		},
+		{
+			"name": "Final Essay on Development Planning",
+			"weight": 50
+		}
+	]
+}

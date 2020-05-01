@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Simulated Patient Recording and Review Session",
+			"weight": "Pass / Fail Is Hurdle Requirement"
+		},
+		{
+			"name": "Clinical Practice Masterclasses",
+			"weight": "Assessed in MEDI7222"
+		},
+		{
+			"name": "Clinical Practice Attendance",
+			"weight": "Pass / Fail Is Hurdle Requirement"
+		},
+		{
+			"name": "Procedural Skills Workshop - Venepuncture",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formative Portfolio Assignment",
+			"weight": "Formative Assessment"
+		},
+		{
+			"name": "Formative Clinical Participation Assessment",
+			"weight": "Formative Assessment"
+		},
+		{
+			"name": "Summative Portfolio Assignment",
+			"weight": "Pass / Fail Is Hurdle Requirement"
+		},
+		{
+			"name": "Summative Clinical Participation Assessment",
+			"weight": "Pass / Fail Is Hurdle Requirement"
+		}
+	]
+}

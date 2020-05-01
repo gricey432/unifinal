@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Palaeo-ecology",
+			"weight": 10
+		},
+		{
+			"name": "Action Learning Project ",
+			"weight": 20
+		},
+		{
+			"name": "Syntheses of course themes",
+			"weight": 15
+		},
+		{
+			"name": "Action Learning Project",
+			"weight": 15
+		},
+		{
+			"name": "Action Learning Project",
+			"weight": 30
+		},
+		{
+			"name": "Mind map-formulating project strategies",
+			"weight": 10
+		}
+	]
+}

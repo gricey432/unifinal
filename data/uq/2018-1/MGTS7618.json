@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Challenge Activity",
+			"weight": 20
+		},
+		{
+			"name": "Structured Class Activity",
+			"weight": 15
+		},
+		{
+			"name": "Wisdom confronts wicked problems",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

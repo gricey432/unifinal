@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class briefing paper",
+			"weight": 15
+		},
+		{
+			"name": "Critical Literature Review 1500 words",
+			"weight": 35
+		},
+		{
+			"name": "Report 2500 words",
+			"weight": 50
+		}
+	]
+}

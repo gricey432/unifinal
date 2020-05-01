@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Response: Reading theories",
+			"weight": 50
+		},
+		{
+			"name": "Assignment",
+			"weight": 50
+		}
+	]
+}

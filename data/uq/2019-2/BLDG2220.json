@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Construction site visit assignment",
+			"weight": 10
+		},
+		{
+			"name": "Construction drawing assignment pin-up",
+			"weight": 10
+		},
+		{
+			"name": "Construction knowledge",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 Construction drawing set",
+			"weight": 60
+		}
+	]
+}

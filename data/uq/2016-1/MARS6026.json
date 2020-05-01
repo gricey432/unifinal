@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Presentation on Honours Project",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "History and Mental status examination assessment",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Completion of on-line case studies (ispring etc)",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Participation in CCRDs",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Multiple Choice Examination",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "CASE-BASED WRITTEN EXAMINATION",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle:  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

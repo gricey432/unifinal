@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 25
+		},
+		{
+			"name": "OSCE",
+			"weight": 45
+		},
+		{
+			"name": "DigiExplanation",
+			"weight": 30
+		}
+	]
+}

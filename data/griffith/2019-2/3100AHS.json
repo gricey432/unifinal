@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop & WIL Workbooks",
+			"weight": 35
+		},
+		{
+			"name": "Social history taking",
+			"weight": 15
+		},
+		{
+			"name": "Employability ",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": 0
+		}
+	]
+}

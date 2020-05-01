@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Learning Plan",
+			"weight": 10
+		},
+		{
+			"name": "Critical Review",
+			"weight": 30
+		},
+		{
+			"name": "Participation in professional communities",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio",
+			"weight": 30
+		}
+	]
+}

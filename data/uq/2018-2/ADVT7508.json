@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class mid-semester online quiz ",
+			"weight": 20
+		},
+		{
+			"name": "Creative Advertising Pitch Presentation",
+			"weight": 10
+		},
+		{
+			"name": "IMC Advertising campaign report ",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

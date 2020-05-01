@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab exercise report (4 parts)",
+			"weight": 40
+		},
+		{
+			"name": "Article Critique",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

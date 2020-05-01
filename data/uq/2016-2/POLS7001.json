@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Diary: Weeks 2-9",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essay (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assumed Knowledge Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Concrete Practical - Participation & Report",
+			"weight": "Pass/Fail Failure to complete the Laboratory will lead to a grade of 2"
+		},
+		{
+			"name": "Concrete Technology Quizzes",
+			"weight": 2
+		},
+		{
+			"name": "In-class Student Response Quizzes",
+			"weight": 3
+		},
+		{
+			"name": "Concrete Technology",
+			"weight": 25
+		},
+		{
+			"name": "Practice Problems",
+			"weight": 0
+		},
+		{
+			"name": "Reinforced Concrete Design Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Reinforced Concrete Design",
+			"weight": 60
+		}
+	]
+}

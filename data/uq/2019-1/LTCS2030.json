@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and completion of weekly tasks",
+			"weight": 10
+		},
+		{
+			"name": "Assignment ",
+			"weight": 30
+		},
+		{
+			"name": "Presentation",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 35
+		}
+	]
+}

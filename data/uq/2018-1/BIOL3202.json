@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Report: Plant Growth",
+			"weight": 10
+		},
+		{
+			"name": "Module 2 Report: Photosynthesis",
+			"weight": 10
+		},
+		{
+			"name": "Science Communication",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		},
+		{
+			"name": "Module 3 Report: Genomics and Bioinformatics",
+			"weight": 10
+		}
+	]
+}

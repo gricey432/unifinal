@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Supervise and give Feedback on Clinical Skills",
+			"weight": 15
+		},
+		{
+			"name": "Group Interview",
+			"weight": "Participation"
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "End of Semseter Exam - Practical",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam - Theory",
+			"weight": 15
+		}
+	]
+}

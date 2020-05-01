@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory reports",
+			"weight": 15
+		},
+		{
+			"name": "Problem Sheets",
+			"weight": 15
+		},
+		{
+			"name": "CHEM3011 Exam",
+			"weight": 70
+		}
+	]
+}

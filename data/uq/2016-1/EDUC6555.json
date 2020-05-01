@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Lesson Plan:National Standard:1.5,2.1,2.2,2.3,3.3",
+			"weight": 40
+		},
+		{
+			"name": "Rationale: National Standard:2.1,2.3,2.",
+			"weight": 40
+		},
+		{
+			"name": "Classroom activity:National Standard:2.1,.2,.6,4.2",
+			"weight": 20
+		}
+	]
+}

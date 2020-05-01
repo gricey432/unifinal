@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Quiz on Head and Neck Anatomy",
+			"weight": 30
+		},
+		{
+			"name": "Final Examinations on Head and Neck Anatomy",
+			"weight": 70
+		}
+	]
+}

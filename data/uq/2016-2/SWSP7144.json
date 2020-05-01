@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Article reviews",
+			"weight": 25
+		},
+		{
+			"name": "Semi-structured Interviewing Exercise",
+			"weight": 45
+		},
+		{
+			"name": "Survey design conference presentation",
+			"weight": 30
+		}
+	]
+}

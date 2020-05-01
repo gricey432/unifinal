@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Alternative assessment to Noosa fieldwork project",
+			"weight": 40
+		},
+		{
+			"name": "Noosa Project",
+			"weight": 40
+		},
+		{
+			"name": "exam",
+			"weight": 40
+		}
+	]
+}

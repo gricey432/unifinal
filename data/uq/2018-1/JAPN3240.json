@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tasks",
+			"weight": 10
+		},
+		{
+			"name": "tutorial presentation",
+			"weight": 20
+		},
+		{
+			"name": "written assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "recitation (reading aloud)",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

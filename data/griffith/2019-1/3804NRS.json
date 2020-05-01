@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 (A1): Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Clinical practicum",
+			"weight": 0
+		},
+		{
+			"name": "Assessment 2 (A2): Community assessment essay",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 (A3): Digital poster and presentation",
+			"weight": 40
+		}
+	]
+}

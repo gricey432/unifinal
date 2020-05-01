@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Peer Assessment of Group Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Organisational Communication: Success and Failure",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

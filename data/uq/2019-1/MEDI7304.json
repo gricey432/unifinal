@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Long Case Examination",
+			"weight": 40
+		},
+		{
+			"name": "Standardised Clinical Scenario",
+			"weight": 20
+		},
+		{
+			"name": "MCQ Examination",
+			"weight": 40
+		},
+		{
+			"name": "NPS Online Modules",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Accessing Case Law and Legislation",
+			"weight": 15
+		},
+		{
+			"name": "Case Law and Statutory Interpretation Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Law Reform and Lawyers - Research Assignment",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 35
+		}
+	]
+}

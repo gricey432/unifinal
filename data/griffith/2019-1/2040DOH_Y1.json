@@ -1,0 +1,96 @@
+{
+	"assessment": [
+		{
+			"name": "Formative activities",
+			"weight": 0
+		},
+		{
+			"name": "Comprehensive Practical Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Theory written examination 1",
+			"weight": 10
+		},
+		{
+			"name": "Theory written examination 2",
+			"weight": 20
+		},
+		{
+			"name": "Comprehensive Practical Exam 2",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory tasks",
+			"weight": 0
+		},
+		{
+			"name": "Theory written exam 1",
+			"weight": 50
+		},
+		{
+			"name": "Theory written Exam 2",
+			"weight": 50
+		},
+		{
+			"name": "Radiography Practical Examination",
+			"weight": 20
+		},
+		{
+			"name": "Theory written exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Theory written Exam 2",
+			"weight": 50
+		},
+		{
+			"name": "Radiation Licence",
+			"weight": 0
+		},
+		{
+			"name": "Dental Hygiene Practical exam",
+			"weight": 10
+		},
+		{
+			"name": "Professionalism and Ethics written",
+			"weight": 10
+		},
+		{
+			"name": "Introduction to Clinics theory written exam",
+			"weight": 80
+		},
+		{
+			"name": "Cariology theory written exam",
+			"weight": 20
+		},
+		{
+			"name": "Preventive Dentistry quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Preventive Dentistry theory written exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester 2 theory written exam Public Oral",
+			"weight": 40
+		},
+		{
+			"name": "End of activity Quizzes T2",
+			"weight": 40
+		},
+		{
+			"name": "Cultural awareness module quiz T2",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Written Exam",
+			"weight": 100
+		},
+		{
+			"name": "Growth and Development Theory Written Exam",
+			"weight": 100
+		}
+	]
+}

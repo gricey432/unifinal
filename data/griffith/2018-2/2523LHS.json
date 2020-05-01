@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "News Bulletin including one news pkg with  grab",
+			"weight": 20
+		},
+		{
+			"name": "News Story with grab ",
+			"weight": 20
+		},
+		{
+			"name": "Current Affairs story",
+			"weight": 20
+		},
+		{
+			"name": "Radio program",
+			"weight": 40
+		}
+	]
+}

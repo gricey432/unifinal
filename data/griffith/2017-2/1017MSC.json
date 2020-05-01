@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Exam 1",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Laboratory Exam",
+			"weight": 10
+		},
+		{
+			"name": "Exam 2",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Laboratory Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of  Trimester Exam",
+			"weight": 30
+		}
+	]
+}

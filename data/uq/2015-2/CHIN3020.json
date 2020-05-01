@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Attendance and Performance",
+			"weight": 5
+		},
+		{
+			"name": "Exercise book weekly homework",
+			"weight": 5
+		},
+		{
+			"name": "HSK Tests",
+			"weight": 5
+		},
+		{
+			"name": "Writing practice",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term exams",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

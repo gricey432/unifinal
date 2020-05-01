@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-lecture activities(weekly exercises e.g. cases)",
+			"weight": 30
+		},
+		{
+			"name": "Case Analysis in Conflict & Conflict Management  ",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

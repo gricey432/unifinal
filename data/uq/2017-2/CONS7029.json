@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: The human context of conservation",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Paper critique",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Talk ",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 4 Marine mammals conservation conflicts",
+			"weight": 30
+		}
+	]
+}

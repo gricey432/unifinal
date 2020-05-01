@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation based on preparation",
+			"weight": "Pass"
+		},
+		{
+			"name": "Question statement and literature review",
+			"weight": "Pass"
+		},
+		{
+			"name": "Action learning proposal",
+			"weight": "Pass"
+		}
+	]
+}

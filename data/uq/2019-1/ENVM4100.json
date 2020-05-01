@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Brief ",
+			"weight": 15
+		},
+		{
+			"name": "Literature review based on the project brief",
+			"weight": 20
+		},
+		{
+			"name": "Group Peer Assessment Semester 1",
+			"weight": 0
+		},
+		{
+			"name": "Presentation to Client",
+			"weight": 10
+		},
+		{
+			"name": "Group Peer Assessment Semester 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 45
+		}
+	]
+}

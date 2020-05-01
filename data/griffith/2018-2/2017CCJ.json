@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "4 Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Final Exam",
+			"weight": 40
+		}
+	]
+}

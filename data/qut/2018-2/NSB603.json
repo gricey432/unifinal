@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Clinical skill examination",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Analysis (Individual Assignment) ",
+			"weight": 15
+		},
+		{
+			"name": "The Happen Experience (Individual Assignment) ",
+			"weight": 10
+		},
+		{
+			"name": "Business Opportunity Assignment (Group Assignment)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Essay on human evolution",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam (Multiple Choice)",
+			"weight": 40
+		}
+	]
+}

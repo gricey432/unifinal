@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Tests",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 1 (Part 1)",
+			"weight": 7
+		},
+		{
+			"name": "Assignment 2 (Part 2)",
+			"weight": 7
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

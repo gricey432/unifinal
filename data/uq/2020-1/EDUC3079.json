@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critiquing Current Educational Policy Issues",
+			"weight": 50
+		},
+		{
+			"name": "Applying Educational Policy and Issues",
+			"weight": 50
+		}
+	]
+}

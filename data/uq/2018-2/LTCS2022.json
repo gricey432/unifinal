@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Article Review & Reflection",
+			"weight": 10
+		},
+		{
+			"name": "ESSAY 1: MODULE 1 MEXICO",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 2: MODULE 2 BRAZIL",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 3: MODULE 3 ARGENTINA",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Branding theory critique",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2 - Brand Audit Report",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 - Brand Strategy Presentation",
+			"weight": 35
+		}
+	]
+}

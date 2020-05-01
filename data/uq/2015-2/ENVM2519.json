@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Protected area systems ",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 - World Heritage Advisory Bodies",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Orthoses Manufacturing",
+			"weight": 20
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 50
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 30
+		}
+	]
+}

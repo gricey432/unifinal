@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of practical assignments",
+			"weight": 52
+		},
+		{
+			"name": "Theory examination",
+			"weight": 48
+		}
+	]
+}

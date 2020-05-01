@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical: Soil characteristics",
+			"weight": 8
+		},
+		{
+			"name": "Practical: QGlobe",
+			"weight": 8
+		},
+		{
+			"name": "Online Study Quiz 1",
+			"weight": 8
+		},
+		{
+			"name": "Practical: Soil respiration",
+			"weight": 8
+		},
+		{
+			"name": "Practical: Soil physical properties",
+			"weight": 8
+		},
+		{
+			"name": "Online Study Quiz 2",
+			"weight": 8
+		},
+		{
+			"name": "Final examination (online via BlackBoard)",
+			"weight": 52
+		}
+	]
+}

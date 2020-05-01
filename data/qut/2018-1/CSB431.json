@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Role Playing Task",
+			"weight": 20
+		},
+		{
+			"name": "Workbook",
+			"weight": 40
+		},
+		{
+			"name": "Analysis",
+			"weight": 40
+		}
+	]
+}

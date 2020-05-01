@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Virology Exam",
+			"weight": 15
+		},
+		{
+			"name": "Parasitology Exam",
+			"weight": 30
+		},
+		{
+			"name": "Group Antibacterial Assignment and Seminar",
+			"weight": 6
+		},
+		{
+			"name": "Mid semester Bacteriology exam",
+			"weight": 9
+		},
+		{
+			"name": "Integration VIVA (Semester 2)",
+			"weight": 20
+		},
+		{
+			"name": "Bacteriology & Public Health Exam(Semester 2)",
+			"weight": 20
+		},
+		{
+			"name": "Practical Skills Examination (PSE)",
+			"weight": "Pass/ Fail"
+		}
+	]
+}

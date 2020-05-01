@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project",
+			"weight": 30
+		},
+		{
+			"name": "Practical Demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Stage Management Role",
+			"weight": 40
+		}
+	]
+}

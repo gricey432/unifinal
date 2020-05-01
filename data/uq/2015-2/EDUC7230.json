@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Literature Critique",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Plan for Positive Behaviour Supports",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3: Positive Behaviour Support Plan",
+			"weight": 40
+		}
+	]
+}

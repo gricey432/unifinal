@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning journal and tutorial portfolio",
+			"weight": 40
+		},
+		{
+			"name": "GROUP Marketing Plan and presentation",
+			"weight": 40
+		},
+		{
+			"name": "Mid semester online exam ",
+			"weight": 20
+		}
+	]
+}

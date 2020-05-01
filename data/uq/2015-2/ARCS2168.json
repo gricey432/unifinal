@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Practical Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Essay on human evolution",
+			"weight": 35
+		},
+		{
+			"name": "Practical Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam (Multiple Choice)",
+			"weight": 35
+		}
+	]
+}

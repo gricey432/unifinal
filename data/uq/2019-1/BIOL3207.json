@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Poster presentation and discussion",
+			"weight": 30
+		},
+		{
+			"name": "Peer + tutor assessment of effort put into project",
+			"weight": 5
+		},
+		{
+			"name": "Weekly online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

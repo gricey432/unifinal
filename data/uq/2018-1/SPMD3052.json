@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SPMD3052 Exam 1",
+			"weight": 20
+		},
+		{
+			"name": "SPMD3052 Exam 2",
+			"weight": 20
+		},
+		{
+			"name": "Practical Skills Examination",
+			"weight": 5
+		},
+		{
+			"name": "SPMD3052 Exam 3",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation in class",
+			"weight": 20
+		},
+		{
+			"name": "Written case study",
+			"weight": 30
+		},
+		{
+			"name": "Exam for MIDW2005",
+			"weight": 50
+		}
+	]
+}

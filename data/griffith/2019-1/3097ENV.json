@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Phase 1 Preliminary Scoping Study",
+			"weight": 5
+		},
+		{
+			"name": "Phase 2 Background Study on SEQ",
+			"weight": 20
+		},
+		{
+			"name": "Phase 3 Individual Research Report",
+			"weight": 30
+		},
+		{
+			"name": "Phase 4 Strategic Policy Framework",
+			"weight": 5
+		},
+		{
+			"name": "Phase 5 Regional Strategic Management Plan",
+			"weight": 30
+		},
+		{
+			"name": "Class participation and group involvement",
+			"weight": 10
+		}
+	]
+}

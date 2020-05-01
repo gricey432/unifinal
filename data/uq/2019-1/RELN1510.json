@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Answer Response",
+			"weight": 20
+		},
+		{
+			"name": "Comparative Essay",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Journal Entries",
+			"weight": 10
+		}
+	]
+}

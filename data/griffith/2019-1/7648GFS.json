@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Minor Workshop Project",
+			"weight": 30
+		},
+		{
+			"name": "Competency test",
+			"weight": 20
+		},
+		{
+			"name": "Major Workshop  Project",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PRAC Exam",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 25
+		},
+		{
+			"name": "Immersion placement & checklist with responses",
+			"weight": 10
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

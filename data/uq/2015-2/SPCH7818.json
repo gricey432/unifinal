@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Paediatric Case Study Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Reflection pre and post simulated learning task",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

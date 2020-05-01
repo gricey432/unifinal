@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Minor essay",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Attendance & Participation",
+			"weight": 15
+		},
+		{
+			"name": "Major Essay",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Assignment and Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Chapter-based weekly worksheets",
+			"weight": 30
+		},
+		{
+			"name": "Group worksheet presentation",
+			"weight": 10
+		},
+		{
+			"name": "Part I Language code (Chapters 3-7)",
+			"weight": 30
+		},
+		{
+			"name": "Part II Language use(Chapters 8-10 & 12)",
+			"weight": 30
+		}
+	]
+}

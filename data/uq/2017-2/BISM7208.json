@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Business Cases Summary and Discussion/Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Team IS Strategy Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

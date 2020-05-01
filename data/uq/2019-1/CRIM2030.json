@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Activities and Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "True Crime Study",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion on the Reef 2050 plan ",
+			"weight": 10
+		},
+		{
+			"name": "poster and press release on research project",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

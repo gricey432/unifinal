@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1: Simulated counselling interview",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Item 2: Corey exercises and essay ",
+			"weight": 35
+		},
+		{
+			"name": "Assessment Item 3: ",
+			"weight": 35
+		}
+	]
+}

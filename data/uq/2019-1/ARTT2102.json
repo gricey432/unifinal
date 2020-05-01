@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation + Discussion + Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "In class slide test",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

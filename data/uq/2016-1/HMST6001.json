@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Honours Research Thesis",
+			"weight": 100
+		}
+	]
+}

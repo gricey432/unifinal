@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Notebook",
+			"weight": 0
+		},
+		{
+			"name": "Results Sheets for A1-A4 & B5",
+			"weight": 35
+		},
+		{
+			"name": "Formative Full Report",
+			"weight": 0
+		},
+		{
+			"name": "Full Reports for B6-B10.",
+			"weight": 45
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 20
+		}
+	]
+}

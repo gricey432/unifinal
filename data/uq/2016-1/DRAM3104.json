@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Secondment Log Book",
+			"weight": "By negotiation"
+		},
+		{
+			"name": "Secondment Portfolio",
+			"weight": "By negotiation"
+		},
+		{
+			"name": "Secondment Company Report",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research Project Design",
+			"weight": 30
+		},
+		{
+			"name": "Individual Research Project Essay",
+			"weight": 70
+		}
+	]
+}

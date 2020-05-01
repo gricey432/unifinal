@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Models of Midwifery Care",
+			"weight": 40
+		},
+		{
+			"name": " Model of Midwifery Care Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Synopsis",
+			"weight": 20
+		}
+	]
+}

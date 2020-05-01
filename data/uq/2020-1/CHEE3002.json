@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sets",
+			"weight": 40
+		},
+		{
+			"name": "Chemical Engineering Lab Safety Induction",
+			"weight": "Compulsory prior to prac attendance"
+		},
+		{
+			"name": "Online quizzes - 1% each weeks 4 to 13",
+			"weight": 10
+		},
+		{
+			"name": "Lab 1 - at home analysis of lab data",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Lab 2 - at home activity with data supplied",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

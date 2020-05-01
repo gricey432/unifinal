@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Endodontic case report -written",
+			"weight": 15
+		},
+		{
+			"name": "Preclinical competency- Molar Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical competency- Paediatric dentistry",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical competency- Fixed Prosthodontics ",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Written end of Semester exam ",
+			"weight": 25
+		}
+	]
+}

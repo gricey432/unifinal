@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Periodical Assessments",
+			"weight": 70
+		},
+		{
+			"name": "Assignment 1: Missing Data",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester examination",
+			"weight": 20
+		},
+		{
+			"name": "Surface anatomy viva",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory examination",
+			"weight": 30
+		},
+		{
+			"name": "End-of-trimester examination",
+			"weight": 30
+		}
+	]
+}

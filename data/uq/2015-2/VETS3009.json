@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Skills Log",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 35
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

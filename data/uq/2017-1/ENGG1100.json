@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Templates",
+			"weight": 3
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Preliminary Investigation Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Project Scoping Package (Team)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Ethics (Individual)",
+			"weight": 3
+		},
+		{
+			"name": "Team Project Peer Assessment (Individual)",
+			"weight": "P/F - Affects team marks"
+		},
+		{
+			"name": "Compulsory sessions (Individual)",
+			"weight": "See details"
+		},
+		{
+			"name": "Demo Day! (Team)",
+			"weight": 30
+		},
+		{
+			"name": "Logbook (Individual)",
+			"weight": 14
+		},
+		{
+			"name": "Team Project Report (Team)",
+			"weight": 30
+		}
+	]
+}

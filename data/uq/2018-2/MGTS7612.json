@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Latest Thinking in Org Design and Staffing",
+			"weight": 30
+		},
+		{
+			"name": "Recruitment & Selection Strategy Design",
+			"weight": 30
+		},
+		{
+			"name": "Recruitment and Selection Strategy Recommendation ",
+			"weight": 40
+		}
+	]
+}

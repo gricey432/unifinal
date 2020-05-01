@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Part 1 Strategic Moves - SUBMISSION",
+			"weight": 30
+		},
+		{
+			"name": "Part 1 Strategic Moves - critique",
+			"weight": "presentation of part 1"
+		},
+		{
+			"name": "Part 2 Transect and Interface - SUBMISSION",
+			"weight": 20
+		},
+		{
+			"name": "Part 2 Transect and Interface - critique",
+			"weight": "presentation of part 2"
+		},
+		{
+			"name": "Part 3 Architectural Proposition - SUBMISSION",
+			"weight": 50
+		},
+		{
+			"name": "Part 3 Architectural Proposition - critique",
+			"weight": "presentation of part 3"
+		}
+	]
+}

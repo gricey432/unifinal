@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/Test",
+			"weight": 15
+		},
+		{
+			"name": "Presentation and Report",
+			"weight": 45
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

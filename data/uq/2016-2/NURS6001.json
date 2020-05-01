@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PICO Statement for Systematic/Literature Review",
+			"weight": 15
+		},
+		{
+			"name": "Systematic or Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Response to Reviewers Systematic/Literature Review",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentation of Systematic/Literature Review",
+			"weight": 20
+		}
+	]
+}

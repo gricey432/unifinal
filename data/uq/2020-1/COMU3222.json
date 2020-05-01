@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Role players in spin",
+			"weight": 25
+		},
+		{
+			"name": "Analysing spin",
+			"weight": 35
+		},
+		{
+			"name": "Hillary Clintons 2016 campaign",
+			"weight": 40
+		}
+	]
+}

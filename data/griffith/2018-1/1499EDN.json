@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VIDEO ANALYSIS",
+			"weight": 40
+		},
+		{
+			"name": "Part A: Video Animation",
+			"weight": 30
+		},
+		{
+			"name": "Part B: Individual response to video animation",
+			"weight": 30
+		}
+	]
+}

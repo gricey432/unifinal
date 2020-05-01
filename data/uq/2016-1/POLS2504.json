@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials and Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Essay 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam 2 hours",
+			"weight": 50
+		}
+	]
+}

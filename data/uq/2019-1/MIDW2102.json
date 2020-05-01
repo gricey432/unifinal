@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Care of complex pregnancy",
+			"weight": 50
+		},
+		{
+			"name": "OSCA",
+			"weight": "NGP"
+		},
+		{
+			"name": "Exam for MIDW2102",
+			"weight": 50
+		}
+	]
+}

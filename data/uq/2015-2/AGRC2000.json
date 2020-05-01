@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "An evaluation of the firm's management",
+			"weight": 20
+		},
+		{
+			"name": "An evaluation of the firm's management",
+			"weight": 20
+		},
+		{
+			"name": "An evaluation of the firm's chain management",
+			"weight": 20
+		},
+		{
+			"name": "An evaluation of the firm's chain management",
+			"weight": 25
+		},
+		{
+			"name": "Final Presentation on Industry Issue",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Designing learning activities ",
+			"weight": 30
+		},
+		{
+			"name": "Explanation videos of syllabus concepts",
+			"weight": 40
+		},
+		{
+			"name": "Evaluating HaSS Assessment Instruments",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 Group Project",
+			"weight": 20
+		},
+		{
+			"name": "Lab Experiment on Solar PV",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 Group Project",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam during examination period",
+			"weight": 50
+		}
+	]
+}

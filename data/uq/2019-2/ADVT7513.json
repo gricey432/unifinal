@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Journal Article Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Advertising Research Project",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

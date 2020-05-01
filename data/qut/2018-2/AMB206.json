@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Test",
+			"weight": 40
+		},
+		{
+			"name": "Social Marketing Project",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": " Competency Task 1 - Endodontic",
+			"weight": 20
+		},
+		{
+			"name": "Competency Task 2 - Restorative Dentistry",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Practice Performance ",
+			"weight": 30
+		},
+		{
+			"name": "Final Semester examination",
+			"weight": 30
+		}
+	]
+}

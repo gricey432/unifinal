@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Approach and effort, laboratory records",
+			"weight": 15
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Thesis",
+			"weight": 75
+		}
+	]
+}

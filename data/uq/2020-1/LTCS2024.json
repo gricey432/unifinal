@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Zoom presentation and discussion",
+			"weight": 30
+		},
+		{
+			"name": "Report of Zoom presentation and discussion",
+			"weight": 20
+		}
+	]
+}

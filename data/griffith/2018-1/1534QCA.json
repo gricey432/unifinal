@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Discourse",
+			"weight": 50
+		},
+		{
+			"name": "Drawing Portfolio",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Fluid therapy quiz",
+			"weight": 5
+		},
+		{
+			"name": "Rotation - online participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Rotations Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Video Assignment & Written Abstract",
+			"weight": 15
+		},
+		{
+			"name": "Content Exam",
+			"weight": 40
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		}
+	]
+}

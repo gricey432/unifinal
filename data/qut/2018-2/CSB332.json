@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Patient management plan",
+			"weight": 30
+		},
+		{
+			"name": "Log/workbook",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Development of an aquatic ecosystem health monitor",
+			"weight": 35
+		},
+		{
+			"name": "Individual PBL 3 - Gladstone",
+			"weight": 25
+		},
+		{
+			"name": "Final Individual PBL",
+			"weight": 25
+		}
+	]
+}

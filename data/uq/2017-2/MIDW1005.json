@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW1005 ",
+			"weight": 50
+		}
+	]
+}

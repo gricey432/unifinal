@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical 1: Impedance Transformers",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 1 ",
+			"weight": 8
+		},
+		{
+			"name": "Practical 2: Hybrid Circuits",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 8
+		},
+		{
+			"name": "Practical 3: Analyis and Design of Antennas",
+			"weight": 8
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

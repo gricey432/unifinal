@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Surgery Assessment - Short Answer (SAQ) Exam",
+			"weight": "Performance Hurdle with SAQ component"
+		},
+		{
+			"name": "Surgery Assessment - Multiple Choice (MCQ) Exam",
+			"weight": "Performance Hurdle with MCQ component"
+		},
+		{
+			"name": "Problem Orientated Medical Record (POMR)",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Case Presentation (CCP)",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle:  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Zoom Tutorial Series",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

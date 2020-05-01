@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review activities",
+			"weight": 20
+		},
+		{
+			"name": "Evaluation Report",
+			"weight": 30
+		},
+		{
+			"name": "Background Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 10
+		},
+		{
+			"name": "Group Laboratory Oral Presentation & Questions",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 50
+		}
+	]
+}

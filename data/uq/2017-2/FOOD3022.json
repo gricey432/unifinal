@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contrasting bush food with western counterparts",
+			"weight": 30
+		},
+		{
+			"name": "Nutritional value of bush foods and western foods",
+			"weight": 30
+		},
+		{
+			"name": "Formulation and report of new product",
+			"weight": 10
+		},
+		{
+			"name": "Final exam on product developed",
+			"weight": 30
+		}
+	]
+}

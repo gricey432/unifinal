@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critique (written)",
+			"weight": 50
+		},
+		{
+			"name": "Practice Framework",
+			"weight": 50
+		}
+	]
+}

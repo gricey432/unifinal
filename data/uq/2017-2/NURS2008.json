@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 1 (CPPP)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 2(CPPP)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Participation in learning activities",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA Simulation",
+			"weight": "NGP"
+		}
+	]
+}

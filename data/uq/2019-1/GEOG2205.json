@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Is the planet full?",
+			"weight": 20
+		},
+		{
+			"name": "Exploring a contemporary global population issue",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

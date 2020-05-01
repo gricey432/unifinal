@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Skills based competency assessment",
+			"weight": 40
+		},
+		{
+			"name": "Public Health Message Video",
+			"weight": 30
+		}
+	]
+}

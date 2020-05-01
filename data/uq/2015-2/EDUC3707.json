@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Workshop activities",
+			"weight": 30
+		},
+		{
+			"name": "Group Unit Plan",
+			"weight": 40
+		},
+		{
+			"name": "Collaborative Task&Individual Critical Reflection",
+			"weight": 30
+		}
+	]
+}

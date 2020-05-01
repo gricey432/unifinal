@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. Group Presentation Case Study",
+			"weight": 30
+		},
+		{
+			"name": "2. Individual Assessment - Reflective Essay",
+			"weight": 30
+		},
+		{
+			"name": "3. Individual Assessment - Zara Case Study",
+			"weight": 40
+		}
+	]
+}

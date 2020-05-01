@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Online Quiz Parts One and Two",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial participation and Textual Analysis",
+			"weight": 20
+		}
+	]
+}

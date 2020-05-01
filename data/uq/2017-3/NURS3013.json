@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Safety ",
+			"weight": 50
+		},
+		{
+			"name": "Oral Presentation ",
+			"weight": 50
+		}
+	]
+}

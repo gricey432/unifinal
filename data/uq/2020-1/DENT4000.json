@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ Quiz",
+			"weight": 10
+		},
+		{
+			"name": "CYOA Reflection 1",
+			"weight": 10
+		},
+		{
+			"name": "CYOA Reflection 2",
+			"weight": 10
+		},
+		{
+			"name": "Workplace Observation Reflection VLOG",
+			"weight": 10
+		},
+		{
+			"name": "CYOA Reflection 3",
+			"weight": 10
+		},
+		{
+			"name": "Final online invigilated exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Activites",
+			"weight": 20
+		},
+		{
+			"name": "Team-teaching using innovative learning sequence",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reflective Essay",
+			"weight": 40
+		}
+	]
+}

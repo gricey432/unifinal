@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-placement assessment",
+			"weight": "Formative"
+		},
+		{
+			"name": "End of Placement assessment",
+			"weight": "Pass/Fail (Must Pass)"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communication and social change  readings",
+			"weight": 10
+		},
+		{
+			"name": "Communication and social change  readings",
+			"weight": 20
+		},
+		{
+			"name": "Approaches to communicating for development",
+			"weight": 25
+		},
+		{
+			"name": "Appraising a communication & social change project",
+			"weight": 45
+		}
+	]
+}

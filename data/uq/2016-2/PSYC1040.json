@@ -1,0 +1,100 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 4",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 5",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 6",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 7",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 8",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 9",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 10",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 11",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Problem Set 12",
+			"weight": "Best 8 of 12=50"
+		},
+		{
+			"name": "Online Quiz #1",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #2",
+			"weight": "Best of 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #3",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #4",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #5",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #6",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #7",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #8",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #9",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #10",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #11",
+			"weight": "Best 10 of 12 = 50"
+		},
+		{
+			"name": "Online Quiz #12",
+			"weight": "Best 10 of 12 = 50"
+		}
+	]
+}

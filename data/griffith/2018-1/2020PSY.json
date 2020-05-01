@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple Choice Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Case Study- Applying Career Theory",
+			"weight": 15
+		},
+		{
+			"name": "\"Professional\" report on \"client\"",
+			"weight": 30
+		},
+		{
+			"name": "Career Counselling Skills Assignment",
+			"weight": 35
+		}
+	]
+}

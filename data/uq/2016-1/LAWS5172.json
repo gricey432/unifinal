@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Written Responses to the Set Readings",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Exam ",
+			"weight": 30
+		}
+	]
+}

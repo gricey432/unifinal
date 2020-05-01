@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Test Your Understanding",
+			"weight": "Bonus Marks 10"
+		},
+		{
+			"name": "Markets in Action",
+			"weight": 30
+		},
+		{
+			"name": "ECON7002 Final Examination",
+			"weight": 45
+		}
+	]
+}

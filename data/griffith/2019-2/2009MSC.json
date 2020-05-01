@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Report of lab work",
+			"weight": 5
+		},
+		{
+			"name": "Lab report",
+			"weight": 10
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

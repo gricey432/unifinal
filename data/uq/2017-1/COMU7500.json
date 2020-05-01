@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ETHICAL & REGULATORY FRAMEWORKS",
+			"weight": 20
+		},
+		{
+			"name": "ETHICAL & REGULATORY FRAMEWORKS",
+			"weight": 30
+		},
+		{
+			"name": "FINAL ASSESSMENT",
+			"weight": 50
+		}
+	]
+}

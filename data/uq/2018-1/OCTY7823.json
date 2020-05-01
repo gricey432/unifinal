@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Occupation in Context",
+			"weight": 25
+		},
+		{
+			"name": "Case-Based Assignment",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

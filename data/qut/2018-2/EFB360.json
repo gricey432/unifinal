@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Technical Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Piece",
+			"weight": 20
+		},
+		{
+			"name": "Oral Pitch",
+			"weight": 40
+		}
+	]
+}

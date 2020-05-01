@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Primary Text Reading Reports",
+			"weight": 11
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 9
+		},
+		{
+			"name": "Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz #2",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

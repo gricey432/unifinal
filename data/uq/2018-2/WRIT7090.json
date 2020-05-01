@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teachers' Notes",
+			"weight": 20
+		},
+		{
+			"name": "Story synopsis (20%) and book pitch (10%)",
+			"weight": 30
+		},
+		{
+			"name": "Opening scenes of a Middle Grade or YA novel",
+			"weight": 50
+		}
+	]
+}

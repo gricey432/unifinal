@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibiography of one of the arts",
+			"weight": 20
+		},
+		{
+			"name": "Belletristic essay",
+			"weight": 50
+		},
+		{
+			"name": "Rhetorical analysis of a published review",
+			"weight": 30
+		}
+	]
+}

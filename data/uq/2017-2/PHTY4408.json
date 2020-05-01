@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding successful organisations ",
+			"weight": 20
+		},
+		{
+			"name": "Developing a Marketing Strategy ",
+			"weight": 20
+		},
+		{
+			"name": "Written Exam",
+			"weight": 60
+		}
+	]
+}

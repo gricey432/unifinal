@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class/take home translation assignments",
+			"weight": 20
+		},
+		{
+			"name": "Translation Exam",
+			"weight": 45
+		},
+		{
+			"name": "Translation Project",
+			"weight": 35
+		}
+	]
+}

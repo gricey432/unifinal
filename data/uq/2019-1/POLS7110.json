@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Review and Reflection Exercises(up to 2500 words)",
+			"weight": 30
+		},
+		{
+			"name": "(5000 words)",
+			"weight": 70
+		}
+	]
+}

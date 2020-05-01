@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership & Management in a Changing Environment",
+			"weight": 50
+		},
+		{
+			"name": "Delivering a Nursing / Midwifery Service",
+			"weight": 50
+		}
+	]
+}

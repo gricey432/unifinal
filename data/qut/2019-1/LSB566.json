@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Final Theory Examination",
+			"weight": 35
+		},
+		{
+			"name": "Progress Theory Examination",
+			"weight": 15
+		}
+	]
+}

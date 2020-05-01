@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Coursework Essay",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Ancient Portraits of Julius Caesar",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester (Multiple-Choice) Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

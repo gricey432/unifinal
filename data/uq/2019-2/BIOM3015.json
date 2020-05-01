@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 24
+		},
+		{
+			"name": "Participation",
+			"weight": 2
+		},
+		{
+			"name": "Herston Museum task",
+			"weight": 4
+		},
+		{
+			"name": "Patient diagnosis - Metabolism",
+			"weight": 4
+		},
+		{
+			"name": "Patient diagnosis - Cardiovascular",
+			"weight": 4
+		},
+		{
+			"name": "Patient diagnosis - Cancer",
+			"weight": 4
+		},
+		{
+			"name": "Patient diagnosis - Renal",
+			"weight": 4
+		},
+		{
+			"name": "Patient diagnosis - Dementia",
+			"weight": 4
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Persuasive oral exam",
+			"weight": 50
+		},
+		{
+			"name": "Critique (written and oral)",
+			"weight": 50
+		}
+	]
+}

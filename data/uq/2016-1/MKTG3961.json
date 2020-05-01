@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Test (Week 1 - Week 5)",
+			"weight": 20
+		},
+		{
+			"name": "Final Trading Activities Report",
+			"weight": 25
+		},
+		{
+			"name": "Trading Activities",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

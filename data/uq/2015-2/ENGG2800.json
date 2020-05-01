@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Working circuit element on PCB",
+			"weight": 5
+		},
+		{
+			"name": "Risk Assessments to be read and consented to.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Group Plan",
+			"weight": 5
+		},
+		{
+			"name": "Performance Review Meeting I",
+			"weight": 5
+		},
+		{
+			"name": "Progress Seminar 1",
+			"weight": 5
+		},
+		{
+			"name": "Performance Review Meeting 2",
+			"weight": 0
+		},
+		{
+			"name": "Progress Seminar 2",
+			"weight": 10
+		},
+		{
+			"name": "Product",
+			"weight": 65
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": 5
+		}
+	]
+}

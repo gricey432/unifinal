@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "MBEB Problem Set 1",
+			"weight": 2
+		},
+		{
+			"name": "Design Activity 1",
+			"weight": 5
+		},
+		{
+			"name": "MBEB Problem Set 2",
+			"weight": 2
+		},
+		{
+			"name": "Design Activity 2",
+			"weight": 5
+		},
+		{
+			"name": "MBEB Problem Set 3",
+			"weight": 2
+		},
+		{
+			"name": "Design Activity 3",
+			"weight": 5
+		},
+		{
+			"name": "Project 1",
+			"weight": 15
+		},
+		{
+			"name": "MBEB Problem Set 4",
+			"weight": 2
+		},
+		{
+			"name": "Design Activity 4",
+			"weight": 5
+		},
+		{
+			"name": "Project 2",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

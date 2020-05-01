@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board Participation & interaction ",
+			"weight": 10
+		},
+		{
+			"name": "Minor Essay: Choice of topics",
+			"weight": 35
+		},
+		{
+			"name": "First report",
+			"weight": 5
+		},
+		{
+			"name": "Second report",
+			"weight": 5
+		},
+		{
+			"name": "Major Essay: Places of Worship ",
+			"weight": 45
+		}
+	]
+}

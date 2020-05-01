@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Background quiz",
+			"weight": 5
+		},
+		{
+			"name": "Practicals (Computer labs)",
+			"weight": 45
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

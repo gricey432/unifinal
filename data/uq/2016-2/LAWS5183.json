@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Prescribed Meetings",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal and Draft Outline",
+			"weight": 20
+		},
+		{
+			"name": "Dissertation",
+			"weight": 70
+		}
+	]
+}

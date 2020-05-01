@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Lipid oxidation",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Practical 2: Metabolic Pathways",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Practical 3: Purine Degradation",
+			"weight": 25
+		},
+		{
+			"name": "Metabolic Diseases: Presentation Upload",
+			"weight": "Marks awarded when assessed in \"Metabolic Diseases: Peer Assessment\""
+		},
+		{
+			"name": "Metabolic Diseases: Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Paper critique in tutorial groups",
+			"weight": 18
+		},
+		{
+			"name": "Revision quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Practical report 1",
+			"weight": 11
+		},
+		{
+			"name": "Practical report 2",
+			"weight": 11
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

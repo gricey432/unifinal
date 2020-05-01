@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop attendance and performance",
+			"weight": 12
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 8
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 20
+		},
+		{
+			"name": "Report on Field Trips",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Test",
+			"weight": 45
+		}
+	]
+}

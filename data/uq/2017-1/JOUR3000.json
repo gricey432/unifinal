@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of an Existing Data Journalism Story",
+			"weight": 30
+		},
+		{
+			"name": "Story Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Story",
+			"weight": 50
+		}
+	]
+}

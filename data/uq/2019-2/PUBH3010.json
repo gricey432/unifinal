@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Infectious Diseases of Global Health importance",
+			"weight": 40
+		},
+		{
+			"name": "Global Change and Infectious diseases",
+			"weight": 30
+		},
+		{
+			"name": "Global Change, Global Health and Infect. Diseases",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation, Preparation, Professionalism",
+			"weight": 5
+		},
+		{
+			"name": "End-semester practical exam",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester written exam",
+			"weight": 20
+		},
+		{
+			"name": "Workbook activities related to SP sessions",
+			"weight": 10
+		},
+		{
+			"name": "End-semester written exam",
+			"weight": 35
+		}
+	]
+}

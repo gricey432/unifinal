@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Placement Assessment on COMPASS®2",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "End Placement Assessment on COMPASS®2",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

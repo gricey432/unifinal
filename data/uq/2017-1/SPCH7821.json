@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 foundational knowledge quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Paediatric case-based assignment",
+			"weight": 35
+		},
+		{
+			"name": "Paediatric language assessment - AV recording",
+			"weight": 15
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

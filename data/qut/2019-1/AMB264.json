@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media release",
+			"weight": 20
+		},
+		{
+			"name": "Workbook",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective piece on future practice",
+			"weight": 10
+		},
+		{
+			"name": "Assignment - Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Multiple choice  quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Participation in case study presentations in class",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Bites- week1-5",
+			"weight": 5
+		},
+		{
+			"name": "Esafety Resource",
+			"weight": 30
+		},
+		{
+			"name": "ICT Portfolio",
+			"weight": 65
+		}
+	]
+}

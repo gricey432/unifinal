@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Oral Introduction",
+			"weight": 15
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "First Assessment Piece",
+			"weight": 15
+		},
+		{
+			"name": "Second Assessment Piece",
+			"weight": 25
+		},
+		{
+			"name": "Third Assessment Piece: Art Project",
+			"weight": 15
+		},
+		{
+			"name": "Final Research Essay",
+			"weight": 30
+		}
+	]
+}

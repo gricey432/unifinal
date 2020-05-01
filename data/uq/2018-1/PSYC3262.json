@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & attendance in tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Human Cognitive Autapomorphy",
+			"weight": 10
+		},
+		{
+			"name": "Guided essay on presentation topic",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

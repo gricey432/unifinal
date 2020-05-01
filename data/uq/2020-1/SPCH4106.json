@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Blackboard Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Service Plan",
+			"weight": 40
+		},
+		{
+			"name": "Online Short Essay Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Tutorial",
+			"weight": 15
+		},
+		{
+			"name": "Team project peer assessment",
+			"weight": 0
+		},
+		{
+			"name": "Workbook",
+			"weight": 0
+		},
+		{
+			"name": "Design Project 1",
+			"weight": 15
+		},
+		{
+			"name": "Design Project 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

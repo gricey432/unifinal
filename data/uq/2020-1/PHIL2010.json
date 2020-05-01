@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Letter from Bertrand Russell to the King",
+			"weight": 10
+		},
+		{
+			"name": "Argument Map",
+			"weight": 5
+		},
+		{
+			"name": "Critical Responses",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 25
+		},
+		{
+			"name": "Take-home exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short-form Experimental Film",
+			"weight": 40
+		},
+		{
+			"name": "Specialist Crew Demonstration",
+			"weight": 60
+		}
+	]
+}

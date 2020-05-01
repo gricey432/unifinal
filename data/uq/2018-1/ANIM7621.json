@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Student delivered lecture ",
+			"weight": 10
+		},
+		{
+			"name": "Reproductive Science Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

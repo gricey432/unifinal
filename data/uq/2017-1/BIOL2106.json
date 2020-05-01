@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Mini-exam 1 (W1-W3)",
+			"weight": 5
+		},
+		{
+			"name": "PRAC Mini-exam 1 (W1-W3)",
+			"weight": 5
+		},
+		{
+			"name": "PBL Mini-exam 2 (W4-W6)",
+			"weight": 5
+		},
+		{
+			"name": "PRAC Mini-exam 2 (W4-W6)",
+			"weight": 5
+		},
+		{
+			"name": "PBL Mini-exam 3 (W7-W9)",
+			"weight": 5
+		},
+		{
+			"name": "PRAC Mini-exam 3 (W7-W9)",
+			"weight": 5
+		},
+		{
+			"name": "PBL Mini-exam 4 (W10-W12)",
+			"weight": 5
+		},
+		{
+			"name": "PRAC Mini-exam 4 (W10-W12)",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

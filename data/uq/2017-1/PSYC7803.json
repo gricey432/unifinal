@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "CBT Case Study",
+			"weight": 15
+		},
+		{
+			"name": "IPT Case Study",
+			"weight": 15
+		},
+		{
+			"name": "ACT Case Study",
+			"weight": 15
+		},
+		{
+			"name": "MI Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Competency: CBT",
+			"weight": 20
+		},
+		{
+			"name": "Competency: Risk assessment",
+			"weight": 20
+		}
+	]
+}

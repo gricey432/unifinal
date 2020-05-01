@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of weekly readings",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1 on 'Adopted' Grammar",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 on 'Adopted' Grammar",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3 on 'Adopted' Grammar",
+			"weight": 20
+		},
+		{
+			"name": "Final report and reflection",
+			"weight": 20
+		}
+	]
+}

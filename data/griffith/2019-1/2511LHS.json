@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class exercise",
+			"weight": 10
+		},
+		{
+			"name": "News Handout",
+			"weight": 10
+		},
+		{
+			"name": "News Story 1 - Indigenous Affairs ",
+			"weight": 40
+		},
+		{
+			"name": "News Story 2",
+			"weight": 40
+		}
+	]
+}

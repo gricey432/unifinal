@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lab practicals",
+			"weight": 15
+		},
+		{
+			"name": "Lab Report 1 - Archaeobotany",
+			"weight": 20
+		},
+		{
+			"name": "Lab Report 2 - Zooarchaeology",
+			"weight": 20
+		},
+		{
+			"name": "Lab Report 3 - Isotope Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 25
+		}
+	]
+}

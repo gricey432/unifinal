@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Situation Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		},
+		{
+			"name": "Campaign Analysis",
+			"weight": 40
+		}
+	]
+}

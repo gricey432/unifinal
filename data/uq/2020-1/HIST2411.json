@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Primary Source Transcription & Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Research",
+			"weight": 40
+		},
+		{
+			"name": "SIX One-Hour Tutorials (6 out of 10 weeks)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Emergency & Response /OHS PI's",
+			"weight": 20
+		},
+		{
+			"name": "Participation and Learning Journal",
+			"weight": 15
+		},
+		{
+			"name": "Implementation of SHMS",
+			"weight": 40
+		},
+		{
+			"name": "Occupational Health Issues ",
+			"weight": 20
+		},
+		{
+			"name": "Occupational Injury and Health",
+			"weight": 5
+		}
+	]
+}

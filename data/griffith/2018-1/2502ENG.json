@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "in-class assessments (clicker tests)",
+			"weight": 15
+		},
+		{
+			"name": "Small project",
+			"weight": 15
+		},
+		{
+			"name": "Project skill test",
+			"weight": 10
+		},
+		{
+			"name": "Engineering Stage 1 Competencies Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Main Project: Weir Warman Challenge",
+			"weight": 50
+		}
+	]
+}

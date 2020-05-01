@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review and Project Plan",
+			"weight": 40
+		},
+		{
+			"name": "Conference Poster and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Unit / Organisation Inservice Presentation",
+			"weight": 20
+		}
+	]
+}

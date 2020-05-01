@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning related to Workshop 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning related to Workshop 2",
+			"weight": 2
+		},
+		{
+			"name": "Student Workshop 1  Journal Article Presentation",
+			"weight": 0
+		},
+		{
+			"name": "Student Workshop 2  Journal Article Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Practical Report",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

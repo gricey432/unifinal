@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Global Mobility Project",
+			"weight": 40
+		},
+		{
+			"name": "24 hour TAKE-HOME Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "48 hour TAKE-HOME Final Examination",
+			"weight": 40
+		}
+	]
+}

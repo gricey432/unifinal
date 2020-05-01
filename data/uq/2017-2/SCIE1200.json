@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1",
+			"weight": 5
+		},
+		{
+			"name": "Module 2",
+			"weight": 5
+		},
+		{
+			"name": "Module 3",
+			"weight": 15
+		},
+		{
+			"name": "Module 4",
+			"weight": 15
+		},
+		{
+			"name": "All Class Activities",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 10
+		},
+		{
+			"name": "Interim Report",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 40
+		}
+	]
+}

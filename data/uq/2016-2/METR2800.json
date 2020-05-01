@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Peer Assessment",
+			"weight": "Formative, but may be used as part of moderation for product marks and progress demos"
+		},
+		{
+			"name": "Individual Ideation",
+			"weight": "Formative"
+		},
+		{
+			"name": "Working circuit model on PCB & PDF of schematic",
+			"weight": 5
+		},
+		{
+			"name": "Initial report",
+			"weight": 5
+		},
+		{
+			"name": "Progress demo and team meeting I",
+			"weight": 15
+		},
+		{
+			"name": "Paper design and execution plan",
+			"weight": 10
+		},
+		{
+			"name": "Product seminar",
+			"weight": 5
+		},
+		{
+			"name": "Progress demo and team meeting II",
+			"weight": 20
+		},
+		{
+			"name": "Product Mark ",
+			"weight": 35
+		},
+		{
+			"name": "Final Report and reflection",
+			"weight": 5
+		}
+	]
+}

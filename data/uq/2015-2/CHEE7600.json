@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution",
+			"weight": 30
+		},
+		{
+			"name": "Topic Form for Student and Supervisor ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Assignment / Report",
+			"weight": 70
+		}
+	]
+}

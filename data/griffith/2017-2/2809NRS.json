@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement ",
+			"weight": 0
+		},
+		{
+			"name": "Written assignment (2000 words)",
+			"weight": 50
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

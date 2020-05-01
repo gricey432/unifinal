@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Biodiversity planning and management assessment",
+			"weight": 50
+		},
+		{
+			"name": "Communicating conservation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		}
+	]
+}

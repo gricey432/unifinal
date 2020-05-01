@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on the Clinical Elective",
+			"weight": 10
+		},
+		{
+			"name": "Student, Supervisor Details & Review Protocol",
+			"weight": 10
+		},
+		{
+			"name": "EBVM: systematic review of an intervention",
+			"weight": 40
+		},
+		{
+			"name": "Clinical elective placement performance assessment",
+			"weight": 40
+		},
+		{
+			"name": "Activity/ Case Reports",
+			"weight": "P/F"
+		}
+	]
+}

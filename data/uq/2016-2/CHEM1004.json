@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "eQuizzes (Best 7 eQuizzes)",
+			"weight": 14
+		},
+		{
+			"name": "eMid Sem Exam for ONLY External Students-Open Book",
+			"weight": 20
+		},
+		{
+			"name": "Five Laboratory Experiments at Residential School",
+			"weight": 20
+		},
+		{
+			"name": "Practical Examination at Residential School",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

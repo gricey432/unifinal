@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Unit of work",
+			"weight": "Pass/Fail (1000 words)"
+		},
+		{
+			"name": "Personal Development Plan (PDP)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Professional Experience",
+			"weight": "Pass/Fail"
+		}
+	]
+}

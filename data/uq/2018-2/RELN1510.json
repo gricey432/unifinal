@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Long Paper",
+			"weight": 55
+		},
+		{
+			"name": "Short Paper",
+			"weight": 35
+		},
+		{
+			"name": "Weekly Journal Entries",
+			"weight": 10
+		}
+	]
+}

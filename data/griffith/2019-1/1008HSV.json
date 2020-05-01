@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & Participation ",
+			"weight": 20
+		},
+		{
+			"name": "Transcript Analysis & Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Interpersonal Interaction Examination",
+			"weight": 40
+		},
+		{
+			"name": "Online Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Intensive Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Interpersonal Interaction Examination ",
+			"weight": 40
+		},
+		{
+			"name": "Transcript Analysis & Reflection",
+			"weight": 40
+		}
+	]
+}

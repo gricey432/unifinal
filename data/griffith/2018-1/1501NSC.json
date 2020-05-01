@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Resume",
+			"weight": 5
+		},
+		{
+			"name": "Multiple choice test: Regulatory overview",
+			"weight": 5
+		},
+		{
+			"name": "Multiple choice test: Basic aeronautical knowledge",
+			"weight": 5
+		},
+		{
+			"name": "Multiple choice test: Aircraft performance",
+			"weight": 5
+		},
+		{
+			"name": "Multiple choice test: Basic Navigation",
+			"weight": 5
+		},
+		{
+			"name": "Aviation business plan and tender - report",
+			"weight": 50
+		},
+		{
+			"name": "Essay",
+			"weight": 25
+		}
+	]
+}

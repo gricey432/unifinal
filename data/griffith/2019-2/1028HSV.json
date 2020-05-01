@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Podcast",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2: Scenario Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Case Study",
+			"weight": 40
+		}
+	]
+}

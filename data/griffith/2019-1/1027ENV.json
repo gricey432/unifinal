@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Activities and Reflections",
+			"weight": 25
+		},
+		{
+			"name": "Graphic skills development portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Studio Foundations Professional Skills Portfolio",
+			"weight": 40
+		}
+	]
+}

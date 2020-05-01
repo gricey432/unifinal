@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Orthopaedics Clinical Participation Assessments",
+			"weight": "PASS/FAIL "
+		},
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": 25
+		},
+		{
+			"name": "Orthopaedics Clinical Case Presentation (CCP)",
+			"weight": 25
+		},
+		{
+			"name": "Orthopaedics Assessment of Clinical Competency ",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Ophthalmology Clinical Participation Assessment ",
+			"weight": "PASS/FAIL "
+		},
+		{
+			"name": "Ophthalmology Assessment of Clinical Competency ",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": 25
+		},
+		{
+			"name": "Surgical Specialty Option Problem Oriented Medical",
+			"weight": 25
+		},
+		{
+			"name": "Surgical Spec Clinical Participation Assessment",
+			"weight": "PASS/FAIL "
+		}
+	]
+}

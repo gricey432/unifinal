@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical write-up 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical write-ups 2 & 3",
+			"weight": 15
+		},
+		{
+			"name": "Research Project Paper",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

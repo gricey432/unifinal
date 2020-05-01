@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Discussion Activities (Module One)",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Activities (Module Two)",
+			"weight": 30
+		},
+		{
+			"name": "Discussion Activities (Module Three)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Research Project 1: Seminar",
+			"weight": 40
+		},
+		{
+			"name": "Research Project 2: Paper",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Module 1 (Organ baths)",
+			"weight": 10
+		},
+		{
+			"name": "Practical Module 2 (Nervous system)",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

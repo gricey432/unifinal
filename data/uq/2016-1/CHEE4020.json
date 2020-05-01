@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Beer & Biofuels Practical - Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Beer & Biofuels Practical-Group Work Participation",
+			"weight": 0
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Beer & Biofuels Practical - Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

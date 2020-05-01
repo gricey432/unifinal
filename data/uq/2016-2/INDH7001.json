@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "5 Quizzes ",
+			"weight": 25
+		},
+		{
+			"name": "Infographics",
+			"weight": 25
+		},
+		{
+			"name": "Major essay",
+			"weight": 50
+		}
+	]
+}

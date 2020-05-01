@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Metal Additive Manufacturing",
+			"weight": 15
+		},
+		{
+			"name": "Superconducting Device Manufacturing",
+			"weight": 15
+		},
+		{
+			"name": "Fabrication of Nanostructured Solar Cells",
+			"weight": 15
+		},
+		{
+			"name": "Electronic Manufacturing",
+			"weight": 8
+		},
+		{
+			"name": "Topics in Electronic Manufacturing",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation & participation in oral discussions",
+			"weight": 10
+		},
+		{
+			"name": "Participation on Internet news websites",
+			"weight": 20
+		},
+		{
+			"name": "Oral discussion",
+			"weight": 30
+		},
+		{
+			"name": "Written exam",
+			"weight": 40
+		}
+	]
+}

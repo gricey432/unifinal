@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in 10 full days of fieldwork",
+			"weight": 20
+		},
+		{
+			"name": "Field Notebook",
+			"weight": 40
+		},
+		{
+			"name": "Research Report",
+			"weight": 40
+		}
+	]
+}

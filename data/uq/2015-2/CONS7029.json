@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1a: The human context of conservation",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 1b: The human context of conservation",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2a: Spoken exam ",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2b: Ants, plants & mine rehabilitation",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3: Marine mammal status review",
+			"weight": 20
+		}
+	]
+}

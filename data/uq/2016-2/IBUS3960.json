@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Presentations.",
+			"weight": 20
+		},
+		{
+			"name": "Export Marketing Plan. ",
+			"weight": 40
+		},
+		{
+			"name": "Progressive Journal of Learning",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation based on preparatory work",
+			"weight": "Pass"
+		},
+		{
+			"name": "Critique of articles",
+			"weight": "Pass"
+		},
+		{
+			"name": "Design of course or learning sequence",
+			"weight": "Pass"
+		}
+	]
+}

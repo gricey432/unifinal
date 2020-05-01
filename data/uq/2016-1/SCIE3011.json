@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Seminar diary",
+			"weight": 0
+		},
+		{
+			"name": "Research conference presentation",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory performance",
+			"weight": 25
+		},
+		{
+			"name": "Manuscript",
+			"weight": 45
+		}
+	]
+}

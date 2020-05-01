@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Structure Project (Part 1)",
+			"weight": 30
+		},
+		{
+			"name": "Market Structure Project (Part 2)",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

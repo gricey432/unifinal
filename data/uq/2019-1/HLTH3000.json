@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz weeks 4, 8, 11",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentations ",
+			"weight": 20
+		},
+		{
+			"name": "Written Assessment",
+			"weight": 40
+		}
+	]
+}

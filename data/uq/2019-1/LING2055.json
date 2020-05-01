@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Preliminaries",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - Data and Transcription",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 3 - Turn Taking and Sequence Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Data analysis project",
+			"weight": 45
+		}
+	]
+}

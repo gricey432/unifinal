@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise",
+			"weight": 16
+		},
+		{
+			"name": "Probability Puzzles 1",
+			"weight": 2
+		},
+		{
+			"name": "Probability Puzzle 2",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

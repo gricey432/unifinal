@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Blog - Clinical Visit",
+			"weight": 5
+		},
+		{
+			"name": "Falls Risk Factors and Management in Older People",
+			"weight": 20
+		},
+		{
+			"name": "Balance/Vestib Assessment & Exercise Prescription",
+			"weight": 30
+		},
+		{
+			"name": "Written Theory Exam",
+			"weight": 45
+		}
+	]
+}

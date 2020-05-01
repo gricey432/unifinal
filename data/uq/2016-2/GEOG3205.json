@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment #1 BRISBANE DEMOGRAPHIC PROFILE",
+			"weight": 30
+		},
+		{
+			"name": "Assignment #2 DEMOGRAPHIC PROJECTIONS",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

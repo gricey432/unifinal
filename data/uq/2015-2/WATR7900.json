@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Individual PBL 3 - Gladstone",
+			"weight": 25
+		},
+		{
+			"name": "Evaluate a collaborative or other engagement activ",
+			"weight": 25
+		},
+		{
+			"name": "Design of Collaboration process",
+			"weight": 15
+		},
+		{
+			"name": "A short talk answering questions based on the soci",
+			"weight": 10
+		},
+		{
+			"name": "Problem-Based Learning: Individual Task ",
+			"weight": 25
+		}
+	]
+}

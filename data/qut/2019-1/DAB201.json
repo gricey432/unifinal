@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Residential Architecture A",
+			"weight": 40
+		},
+		{
+			"name": "Residential Architecture B",
+			"weight": 60
+		}
+	]
+}

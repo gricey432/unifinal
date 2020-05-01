@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional journal",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		},
+		{
+			"name": "Multiple choice quiz",
+			"weight": 10
+		}
+	]
+}

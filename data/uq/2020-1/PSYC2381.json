@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Complete ten tutorial tasksheets",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 60
+		},
+		{
+			"name": "Positive Psychology Journal Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Positive Psychology Journal Part 2",
+			"weight": 15
+		}
+	]
+}

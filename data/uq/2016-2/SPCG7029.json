@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar I  ",
+			"weight": 15
+		},
+		{
+			"name": "Seminar II  ",
+			"weight": 15
+		},
+		{
+			"name": "Seminar III  ",
+			"weight": 15
+		},
+		{
+			"name": "Case Study Plan",
+			"weight": 5
+		},
+		{
+			"name": "Review of case study plan",
+			"weight": 5
+		},
+		{
+			"name": "Personal Case Study",
+			"weight": 45
+		}
+	]
+}

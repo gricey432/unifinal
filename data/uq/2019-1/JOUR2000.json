@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch ",
+			"weight": 20
+		},
+		{
+			"name": "Storyboard and Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Complete Podcast Episode",
+			"weight": 50
+		}
+	]
+}

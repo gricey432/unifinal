@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing professional communication",
+			"weight": 5
+		},
+		{
+			"name": "Web PA peer assessment",
+			"weight": "n/a"
+		},
+		{
+			"name": "Scrum Board and GIT repository",
+			"weight": 10
+		},
+		{
+			"name": "Project Charter",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "The Scrum Framework",
+			"weight": 5
+		},
+		{
+			"name": "Return Brief",
+			"weight": 5
+		},
+		{
+			"name": "UX Profile",
+			"weight": 15
+		},
+		{
+			"name": "Critique",
+			"weight": 5
+		},
+		{
+			"name": "Minimum Viable Product (MVP)",
+			"weight": 10
+		},
+		{
+			"name": "Informative product website",
+			"weight": 10
+		},
+		{
+			"name": "Final Product Demonstration & Documentation",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Primer Design",
+			"weight": 5
+		},
+		{
+			"name": "Cloning Strategy",
+			"weight": 15
+		},
+		{
+			"name": "Scientific report",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": 40
+		},
+		{
+			"name": "Skills Test 1: Chemical Numeracy Quiz",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skills Test 2: Serial Dilutions",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skills Test 3: PCR",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

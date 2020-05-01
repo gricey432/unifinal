@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class quizzes",
+			"weight": 16
+		},
+		{
+			"name": "First Philosophical Essay",
+			"weight": 34
+		},
+		{
+			"name": "Final Philosophical Essay",
+			"weight": 50
+		}
+	]
+}

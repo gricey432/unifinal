@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Industry Evaluation",
+			"weight": 30
+		},
+		{
+			"name": "Strategic Group Oral Pres.",
+			"weight": 50
+		},
+		{
+			"name": "Post Project Reflection",
+			"weight": 20
+		}
+	]
+}

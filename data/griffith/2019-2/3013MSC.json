@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Journal reflection ",
+			"weight": 10
+		},
+		{
+			"name": "WORKSHOP 1 week 5",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 1 week 5",
+			"weight": 20
+		},
+		{
+			"name": "WORKSHOP 2 week 9",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2 week 9",
+			"weight": 20
+		},
+		{
+			"name": "WORKSHOP 3 week 12",
+			"weight": 3
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project: Research & Strategy",
+			"weight": 10
+		},
+		{
+			"name": "Active Sketch Notes (Part 1)",
+			"weight": 10
+		},
+		{
+			"name": "Major Project: Brand Mark",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Exercise Journal",
+			"weight": 30
+		},
+		{
+			"name": "Active Sketch Notes (Part 2)",
+			"weight": 10
+		},
+		{
+			"name": "Major Project: Identity and Style Guide",
+			"weight": 30
+		}
+	]
+}

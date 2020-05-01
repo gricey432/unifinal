@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Structured Class Activity & Case studies",
+			"weight": 30
+		},
+		{
+			"name": "Challenge Activity & Lifespan Action Plan",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

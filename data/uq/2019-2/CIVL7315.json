@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Concrete failure",
+			"weight": 10
+		},
+		{
+			"name": "Concrete design",
+			"weight": 20
+		},
+		{
+			"name": "Moment-curvature relationship",
+			"weight": 10
+		},
+		{
+			"name": "Ductility design of RC beams",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

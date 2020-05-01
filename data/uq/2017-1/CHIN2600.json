@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class presentation",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Participation ",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Final exam ",
+			"weight": 50
+		}
+	]
+}

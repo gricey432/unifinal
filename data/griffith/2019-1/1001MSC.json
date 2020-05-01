@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory and lab Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Examination",
+			"weight": 18
+		},
+		{
+			"name": "Course Quiz",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination.",
+			"weight": 50
+		}
+	]
+}

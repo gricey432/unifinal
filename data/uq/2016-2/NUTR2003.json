@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Contemporary Issues in Nutrition",
+			"weight": 20
+		},
+		{
+			"name": "Group oral presentation and annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

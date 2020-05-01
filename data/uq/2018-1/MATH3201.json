@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Problem Set",
+			"weight": 5
+		},
+		{
+			"name": "Computational Project",
+			"weight": 20
+		},
+		{
+			"name": "Problem Set",
+			"weight": 5
+		},
+		{
+			"name": "Computational Project",
+			"weight": 20
+		},
+		{
+			"name": "Theoretical Exam",
+			"weight": 25
+		}
+	]
+}

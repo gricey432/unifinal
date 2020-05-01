@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Simulated Patient Recording and Review Session",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Practice Masterclasses",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Procedural Skills Workshop",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Formative Portfolio Assignment",
+			"weight": "Formative Only"
+		},
+		{
+			"name": "Summative Portfolio Assignment",
+			"weight": "Pass / Fail"
+		}
+	]
+}

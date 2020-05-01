@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "RRM Case-Based Discussion",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Rural Health Project Report",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Online MCQ Exam paper - RRM",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Rural Health Project Plan",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks"
+		},
+		{
+			"name": "Active learning engagement",
+			"weight": "Compliance Hurdle (Block 3 students)"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Rural and Remote Medicine Mandatory Online Modules",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		}
+	]
+}

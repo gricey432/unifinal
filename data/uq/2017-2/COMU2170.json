@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Application of theory",
+			"weight": 30
+		},
+		{
+			"name": "Intercultural Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

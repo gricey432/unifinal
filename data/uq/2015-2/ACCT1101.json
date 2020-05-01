@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Business Enterprise (VBE) Business Plan",
+			"weight": 30
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

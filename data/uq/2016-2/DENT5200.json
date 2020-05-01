@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "General Dental Practice (Clinical Placement)",
+			"weight": "Competent/Not Competent"
+		},
+		{
+			"name": "Case Report",
+			"weight": "Competent/Not Competent"
+		},
+		{
+			"name": "Oral Examination",
+			"weight": "Competent/Not Competent"
+		}
+	]
+}

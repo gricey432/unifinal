@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "EOS Practical Examination",
+			"weight": 30
+		},
+		{
+			"name": "Preparation for clinical practice",
+			"weight": 5
+		},
+		{
+			"name": "Exercise program design assignment",
+			"weight": 35
+		},
+		{
+			"name": "End-of-semester written examination",
+			"weight": 30
+		}
+	]
+}

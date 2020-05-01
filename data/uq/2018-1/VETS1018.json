@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation Skills",
+			"weight": 2
+		},
+		{
+			"name": "Suture Skills",
+			"weight": 2
+		},
+		{
+			"name": "Veterinary Professional Practice & Research Skills",
+			"weight": 30
+		},
+		{
+			"name": "Veterinary calculations",
+			"weight": 2
+		},
+		{
+			"name": "First Aid assessment",
+			"weight": 2
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Community Profile Group Project",
+			"weight": 30
+		},
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Theory Application Paper",
+			"weight": 40
+		}
+	]
+}

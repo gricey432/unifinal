@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Poster Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Health Promotion Case Study",
+			"weight": 60
+		}
+	]
+}

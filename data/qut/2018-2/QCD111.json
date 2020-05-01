@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay (Draft)",
+			"weight": 0
+		},
+		{
+			"name": "Essay (Final Copy)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

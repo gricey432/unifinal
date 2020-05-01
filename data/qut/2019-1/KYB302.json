@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 50
+		},
+		{
+			"name": "Supervisor and Peer Assessment",
+			"weight": 40
+		}
+	]
+}

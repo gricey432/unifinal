@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Lab Experiments",
+			"weight": 5
+		},
+		{
+			"name": "Online Quizzes about the Reading",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Description of your proposed research question",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

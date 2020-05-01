@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and synopsis writing",
+			"weight": "compulsory/required"
+		},
+		{
+			"name": "Option 1: Research Essay 1",
+			"weight": 50
+		},
+		{
+			"name": "Option 1: Research Essay 2 ",
+			"weight": 50
+		},
+		{
+			"name": "Option 2: Plan and literature review",
+			"weight": 30
+		},
+		{
+			"name": "Option 2: Long Research Essay ",
+			"weight": 70
+		}
+	]
+}

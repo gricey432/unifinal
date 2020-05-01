@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on assigned reading material",
+			"weight": 15
+		},
+		{
+			"name": "Biodiversity of a group",
+			"weight": 10
+		},
+		{
+			"name": "Take-home assignment based on practicals",
+			"weight": 35
+		},
+		{
+			"name": "open book exam",
+			"weight": 40
+		}
+	]
+}

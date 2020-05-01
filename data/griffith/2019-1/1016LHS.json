@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative Essay",
+			"weight": 20
+		},
+		{
+			"name": "Reading Journal",
+			"weight": 40
+		},
+		{
+			"name": "Comparative Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Core Technical Skills",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Virology Exam",
+			"weight": 15
+		},
+		{
+			"name": "Parasitology Semester One Exam",
+			"weight": 30
+		},
+		{
+			"name": "Mid semester Bacteriology exam",
+			"weight": 10
+		},
+		{
+			"name": "Integration VIVA (Semester 2)",
+			"weight": 20
+		},
+		{
+			"name": "Bacteriology & Public Health Exam(Semester 2)",
+			"weight": 25
+		}
+	]
+}

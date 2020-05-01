@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Orbital Mechanics",
+			"weight": 5
+		},
+		{
+			"name": "Lab Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 2 - Eigenproblem",
+			"weight": 10
+		},
+		{
+			"name": "Informal in-lab discussion",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 - Helium",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 4 - Classical Magnetism",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 5 - Many-body Quantum",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

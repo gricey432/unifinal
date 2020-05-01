@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Test (COMPULSORY)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		}
+	]
+}

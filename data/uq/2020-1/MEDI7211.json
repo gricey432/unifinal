@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in CBL - FORMATIVE",
+			"weight": "Provides formative feedback towards the summative CBL participation assessment"
+		},
+		{
+			"name": "Participation in CBL - SUMMATIVE",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Weekly online quizzes-formative",
+			"weight": 0
+		},
+		{
+			"name": "MSE (MCQ)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam (ESE) Paper I (MCQ)",
+			"weight": 50
+		},
+		{
+			"name": "ESE Paper II - (MCQ)",
+			"weight": 20
+		}
+	]
+}

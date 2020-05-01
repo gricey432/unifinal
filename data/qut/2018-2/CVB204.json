@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 25
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 45
+		}
+	]
+}

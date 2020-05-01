@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Production Work",
+			"weight": 25
+		},
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Rehearsals",
+			"weight": 25
+		},
+		{
+			"name": "Performance",
+			"weight": 25
+		},
+		{
+			"name": "Research Presentation",
+			"weight": "Pass/Fail<br />Hurdle"
+		},
+		{
+			"name": "Research Essay and Presentation",
+			"weight": 10
+		}
+	]
+}

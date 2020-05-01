@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Confidentiality Statement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "QUM Practice-focussed Project Report",
+			"weight": 50
+		},
+		{
+			"name": "QUM Practice-focussed placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Placement Diary",
+			"weight": 10
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Evidence of Performance Skill",
+			"weight": 30
+		},
+		{
+			"name": "Practicing Professional Discussion (GDT)",
+			"weight": 10
+		}
+	]
+}

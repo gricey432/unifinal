@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "One-Minute-Paper (10 in total)",
+			"weight": 0
+		},
+		{
+			"name": "Urban Utopia",
+			"weight": 10
+		},
+		{
+			"name": "Critique a planning commission/committee meeting",
+			"weight": 40
+		},
+		{
+			"name": "Great Planning Game",
+			"weight": 5
+		},
+		{
+			"name": "Ethical dilemmas",
+			"weight": 5
+		},
+		{
+			"name": "Take-home quiz",
+			"weight": 40
+		}
+	]
+}

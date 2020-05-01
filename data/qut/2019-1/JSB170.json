@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research log",
+			"weight": 20
+		},
+		{
+			"name": "Literature review",
+			"weight": 35
+		},
+		{
+			"name": "Examination (Written)",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Individual written activity (In-class test)",
+			"weight": 10
+		},
+		{
+			"name": "Audio recording",
+			"weight": 15
+		},
+		{
+			"name": "Discussion forum entry",
+			"weight": 10
+		},
+		{
+			"name": "Role play",
+			"weight": 25
+		},
+		{
+			"name": "Final examination: Listening, Writing",
+			"weight": 40
+		}
+	]
+}

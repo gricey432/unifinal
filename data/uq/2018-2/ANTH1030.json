@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes; end-of-module reflections",
+			"weight": 30
+		},
+		{
+			"name": "Museum Project",
+			"weight": 19
+		},
+		{
+			"name": "Wikis",
+			"weight": 51
+		}
+	]
+}

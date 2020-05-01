@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Performance and Notekeeping",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Laboratory Report 1 - Bacterial Vaccine Antigens",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Report 2 - Beer and Biofuels",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

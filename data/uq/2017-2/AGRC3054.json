@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Field trip diaries",
+			"weight": 50
+		},
+		{
+			"name": "Agricultural Systems of Java",
+			"weight": 30
+		},
+		{
+			"name": "Seminar on review topic",
+			"weight": 20
+		}
+	]
+}

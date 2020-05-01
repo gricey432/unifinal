@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer teaching session in class",
+			"weight": 20
+		},
+		{
+			"name": "Weekly Written Synopsis X 3",
+			"weight": 30
+		},
+		{
+			"name": "Exam for MIDW2003",
+			"weight": 50
+		}
+	]
+}

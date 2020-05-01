@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal Seminar",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Seminar diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research performance",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 60
+		},
+		{
+			"name": "Final seminar",
+			"weight": 15
+		}
+	]
+}

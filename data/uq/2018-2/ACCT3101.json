@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Case study - Audit planning and testing",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

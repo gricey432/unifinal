@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal project on a nutrition science topic",
+			"weight": 20
+		},
+		{
+			"name": "Exam: multiple choice / short answer questions",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

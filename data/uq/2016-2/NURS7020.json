@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluation and result ",
+			"weight": 30
+		},
+		{
+			"name": "Identifying the Clinical or Service Need",
+			"weight": 40
+		},
+		{
+			"name": "Planning and Implementing the Intervention",
+			"weight": 30
+		}
+	]
+}

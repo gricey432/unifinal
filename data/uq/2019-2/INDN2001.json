@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interview and transcription project",
+			"weight": 45
+		},
+		{
+			"name": "Listening material from Warung Cinema",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on Warung Sinema, textbook and pojok",
+			"weight": 30
+		}
+	]
+}

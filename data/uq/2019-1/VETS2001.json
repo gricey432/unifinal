@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class or On-line quizzes ",
+			"weight": 15
+		},
+		{
+			"name": "Vet Tech For Life (VTFL) Leadership Retreat",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester Examination - on line ",
+			"weight": 35
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Online weekly tests",
+			"weight": 16
+		},
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 3
+		},
+		{
+			"name": "Group tests",
+			"weight": 40
+		},
+		{
+			"name": "Submission 1 - Draft of Introduction to Report",
+			"weight": 0
+		},
+		{
+			"name": "Submission 2 - Complete Lab Report",
+			"weight": 35
+		}
+	]
+}

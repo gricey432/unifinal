@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "History of the English Curriculum",
+			"weight": 50
+		},
+		{
+			"name": "Using the Australian English Curriculum",
+			"weight": 50
+		}
+	]
+}

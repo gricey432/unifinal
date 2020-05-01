@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Practical requirements",
+			"weight": 5
+		},
+		{
+			"name": "6021 Mid-trimester exam",
+			"weight": 50
+		},
+		{
+			"name": "Personal Professional Development Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "WIL Placement Conference presentation",
+			"weight": 10
+		}
+	]
+}

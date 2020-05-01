@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork (Adult Physical)",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Fieldwork report",
+			"weight": 30
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

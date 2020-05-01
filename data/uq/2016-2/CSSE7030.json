@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "On-line problems (MyPyTutor)",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

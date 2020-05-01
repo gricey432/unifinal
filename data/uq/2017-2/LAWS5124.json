@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Prepared answer and class participation",
+			"weight": 10
+		},
+		{
+			"name": "Phone a friend",
+			"weight": 4
+		},
+		{
+			"name": "Mid-semester take home 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Skills sessions: Weeks 6 and 10",
+			"weight": 6
+		},
+		{
+			"name": "Final take home exam 2000 words",
+			"weight": 40
+		}
+	]
+}

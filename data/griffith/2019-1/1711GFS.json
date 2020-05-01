@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "ASSESSMENT 1: Photoshop & After Effects exercises",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: After Effects Exercises",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 4: Premiere & After Effects exercises",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 5: Film",
+			"weight": 40
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		}
+	]
+}

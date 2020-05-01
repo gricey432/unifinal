@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Defining the problem",
+			"weight": 15
+		},
+		{
+			"name": "Project Management Plan",
+			"weight": 20
+		},
+		{
+			"name": "Product presentation and project report",
+			"weight": 50
+		},
+		{
+			"name": "Self Reflection",
+			"weight": 15
+		}
+	]
+}

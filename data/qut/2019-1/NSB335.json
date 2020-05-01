@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation",
+			"weight": 0
+		},
+		{
+			"name": "Clin Placement Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Online Healthcare Modules",
+			"weight": 0
+		}
+	]
+}

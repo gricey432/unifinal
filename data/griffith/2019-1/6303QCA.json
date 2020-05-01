@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Revised Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Context Survey Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Work in Progress - methods + methodology",
+			"weight": 20
+		},
+		{
+			"name": "Report on Research Project ",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Team): Firm and Industry Responses",
+			"weight": 40
+		},
+		{
+			"name": "Individual Assessment",
+			"weight": 60
+		}
+	]
+}

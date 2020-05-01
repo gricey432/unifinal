@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Medication safety and calculations",
+			"weight": "NGP"
+		},
+		{
+			"name": "Assessment 2: Assessment of COCE learning",
+			"weight": "NGP"
+		},
+		{
+			"name": "Continuity of Care experiences submission",
+			"weight": "NGP"
+		},
+		{
+			"name": "Assessment 3: Assessment of COCE learning",
+			"weight": "NGP"
+		}
+	]
+}

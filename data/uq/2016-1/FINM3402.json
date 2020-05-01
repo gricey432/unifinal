@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Behavioral finance review",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam Timetable to be advised",
+			"weight": 65
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: BE 58 POH",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "On Line Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 30
+		}
+	]
+}

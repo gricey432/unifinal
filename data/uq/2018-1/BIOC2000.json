@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Authoring and reviewing multiple-choice questions.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Laboratory attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Plasmid Analysis",
+			"weight": 10
+		},
+		{
+			"name": "The Thermodynamics of Enzymology.",
+			"weight": 15
+		},
+		{
+			"name": "Practical report",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

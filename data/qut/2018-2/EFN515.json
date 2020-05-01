@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task",
+			"weight": 45
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 4 improvisation in-class test",
+			"weight": 25
+		},
+		{
+			"name": "Week 8 improvisation in-class test",
+			"weight": 25
+		},
+		{
+			"name": "Final concert",
+			"weight": 25
+		},
+		{
+			"name": "Week 13 improvisation in-class test",
+			"weight": 25
+		}
+	]
+}

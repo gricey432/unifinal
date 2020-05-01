@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Written field report",
+			"weight": 75
+		}
+	]
+}

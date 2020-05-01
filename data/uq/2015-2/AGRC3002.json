@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Modelling Report",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2 - Wheat ",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

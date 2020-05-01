@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Landsc Appraisal &amp; Des Method",
+			"weight": 20
+		},
+		{
+			"name": "Landscape Design Proposition",
+			"weight": 30
+		},
+		{
+			"name": "Landscape Design",
+			"weight": 50
+		}
+	]
+}

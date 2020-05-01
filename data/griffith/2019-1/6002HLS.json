@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Study Design and Analytical Planning",
+			"weight": 40
+		},
+		{
+			"name": "Research and Statistical Report",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 40
+		},
+		{
+			"name": "Research and statistical report",
+			"weight": 60
+		}
+	]
+}

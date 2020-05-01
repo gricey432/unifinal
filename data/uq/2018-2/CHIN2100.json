@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-class online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Reading test ",
+			"weight": 10
+		},
+		{
+			"name": "Speaking Task",
+			"weight": 10
+		},
+		{
+			"name": "Drama Project",
+			"weight": 15
+		},
+		{
+			"name": "Aural Test ",
+			"weight": 30
+		},
+		{
+			"name": "Oral Interviews",
+			"weight": 25
+		}
+	]
+}

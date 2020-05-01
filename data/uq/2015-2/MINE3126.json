@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Longwall Coal Mining Project Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Report Longwall Coal Mining Project",
+			"weight": 35
+		},
+		{
+			"name": "Hard Rock Mining Project Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Report Hard Rock Mining Project",
+			"weight": 35
+		}
+	]
+}

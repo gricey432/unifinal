@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Full practical reports (4)",
+			"weight": 25
+		},
+		{
+			"name": "Regular quiz (4)",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 50
+		}
+	]
+}

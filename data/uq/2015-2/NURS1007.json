@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer teaching session in class",
+			"weight": 20
+		},
+		{
+			"name": "EBP based written assignment ",
+			"weight": 30
+		},
+		{
+			"name": "Exam for NURS1007",
+			"weight": 50
+		}
+	]
+}

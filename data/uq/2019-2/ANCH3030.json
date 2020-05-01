@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class Preparation and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Draft and Final Exhibition Proposals",
+			"weight": 15
+		},
+		{
+			"name": "Industry Partner Team Pitch",
+			"weight": 5
+		},
+		{
+			"name": "Exhibition Signage",
+			"weight": 30
+		},
+		{
+			"name": "Exhibition Preview: R.D. Milns Antiquities Museum",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 25
+		}
+	]
+}

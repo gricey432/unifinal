@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-tutorial activities throughout the semester ",
+			"weight": 30
+		},
+		{
+			"name": "Current Issues in Leadership: Theory and practice ",
+			"weight": 30
+		},
+		{
+			"name": "Final (End of Semester Exam) ",
+			"weight": 40
+		}
+	]
+}

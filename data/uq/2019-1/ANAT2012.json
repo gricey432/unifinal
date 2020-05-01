@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 4
+		},
+		{
+			"name": "Group PowerPoint Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Meta-learning task 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook extracts",
+			"weight": 10
+		},
+		{
+			"name": "Modelling and Numerical Methods 1",
+			"weight": 15
+		},
+		{
+			"name": "Application of Numerical Methods 2",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		}
+	]
+}

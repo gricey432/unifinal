@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 16
+		},
+		{
+			"name": "Childhood memoirs (first draft)",
+			"weight": 14
+		},
+		{
+			"name": "Writing Test",
+			"weight": 20
+		},
+		{
+			"name": "Childhood memoirs (final version)",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

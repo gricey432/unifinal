@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation - Summative",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "CBL Participation - Formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "Virtue Ethics and Medicine ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "Pass/Fail"
+		}
+	]
+}

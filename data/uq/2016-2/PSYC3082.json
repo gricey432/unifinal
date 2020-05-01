@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Role-play Reflection Summaries",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

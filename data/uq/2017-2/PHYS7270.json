@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Computational Physics Problem Sets",
+			"weight": 45
+		},
+		{
+			"name": "Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Orbital mechanics project",
+			"weight": 7
+		},
+		{
+			"name": "Scattering Project",
+			"weight": 7
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

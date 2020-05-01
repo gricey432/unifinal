@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation and Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay (1000 wds)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay Plan/Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

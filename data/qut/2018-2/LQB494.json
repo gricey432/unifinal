@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": 45
+		},
+		{
+			"name": "Final Theory Examination",
+			"weight": 40
+		}
+	]
+}

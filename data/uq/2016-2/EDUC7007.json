@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding psychometrics (Hurdle Exam)",
+			"weight": 0
+		},
+		{
+			"name": "Test review",
+			"weight": 25
+		},
+		{
+			"name": "Interviews as a source of data",
+			"weight": 35
+		},
+		{
+			"name": "Assessment as a tool for intervention planning",
+			"weight": 40
+		}
+	]
+}

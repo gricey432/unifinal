@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Program development, simulations, reports",
+			"weight": 50
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

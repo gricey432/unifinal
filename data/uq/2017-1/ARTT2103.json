@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Students will lead discussion of set readings",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Exhibition Review",
+			"weight": 15
+		},
+		{
+			"name": "Worksheet 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Worksheet 2 ",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		}
+	]
+}

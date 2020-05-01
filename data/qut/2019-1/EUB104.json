@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Teaching Statement",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 50
+		}
+	]
+}

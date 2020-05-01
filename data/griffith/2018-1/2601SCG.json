@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Emerging Scientist Reflections",
+			"weight": 0
+		},
+		{
+			"name": "Conduct of Research",
+			"weight": 20
+		},
+		{
+			"name": "Advanced Studies Task 1 Report",
+			"weight": 80
+		}
+	]
+}

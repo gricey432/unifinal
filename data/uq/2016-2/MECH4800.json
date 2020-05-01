@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1 Reliability Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 2 Heat Transfer",
+			"weight": 5
+		},
+		{
+			"name": "Thermal Analysis Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial 3 Trajectory Optimisation Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial 4 Orbital Mechanics",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

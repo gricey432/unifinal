@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Occupational Performance Parent Interview",
+			"weight": 15
+		},
+		{
+			"name": "Occupational Participation: Interview & Report",
+			"weight": 35
+		},
+		{
+			"name": "End Semester Examination (Central)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "HSK Tests",
+			"weight": 3
+		},
+		{
+			"name": "Dictation ",
+			"weight": 17
+		},
+		{
+			"name": "Persuasive speech ",
+			"weight": 40
+		},
+		{
+			"name": "Debate & Question-and-answer",
+			"weight": 40
+		}
+	]
+}

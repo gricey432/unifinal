@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Evaluation ",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Case Integration Examination",
+			"weight": "Pass/Fail (Must Pass)"
+		}
+	]
+}

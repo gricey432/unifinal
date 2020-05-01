@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial",
+			"weight": 20
+		},
+		{
+			"name": "Mentor Meeting 1",
+			"weight": "used to moderate project mark"
+		},
+		{
+			"name": "Scoping Report",
+			"weight": 10
+		},
+		{
+			"name": "Mentor Meeting 2",
+			"weight": "used to moderate project mark"
+		},
+		{
+			"name": "Mentor Meeting 3",
+			"weight": "used to moderate project mark"
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "IN-CLASS QUIZ (1)",
+			"weight": 10
+		},
+		{
+			"name": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES (1)",
+			"weight": 10
+		},
+		{
+			"name": "IN-CLASS QUIZ (2)",
+			"weight": 20
+		},
+		{
+			"name": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES (2)",
+			"weight": 20
+		},
+		{
+			"name": "BACKGROUND ISSUES PAPER ",
+			"weight": 40
+		}
+	]
+}

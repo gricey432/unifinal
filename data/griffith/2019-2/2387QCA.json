@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Studio Tasks 1-3",
+			"weight": 40
+		},
+		{
+			"name": "e/Journal",
+			"weight": 20
+		},
+		{
+			"name": "Major Studio Task: Installation",
+			"weight": 40
+		}
+	]
+}

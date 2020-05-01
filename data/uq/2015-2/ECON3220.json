@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Assignments (in 3 of the weeks)",
+			"weight": 20
+		},
+		{
+			"name": "Case Study in Applied Benefit-Cost Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

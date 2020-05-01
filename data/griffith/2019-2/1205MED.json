@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Environment and global health challenges",
+			"weight": 20
+		},
+		{
+			"name": "Social determinants of health: case study",
+			"weight": 25
+		},
+		{
+			"name": "Interprofessional learning",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

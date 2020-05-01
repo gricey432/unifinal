@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": 25
+		},
+		{
+			"name": "Engineering Finite Element Project",
+			"weight": 25
+		},
+		{
+			"name": "Closed Book Exam ",
+			"weight": 50
+		}
+	]
+}

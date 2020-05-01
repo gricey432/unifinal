@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Tour and Group Work Participation",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "Northern and Tropical Queensland Tour ENVM3529",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Group work",
+			"weight": 15
+		},
+		{
+			"name": "Paper",
+			"weight": 45
+		},
+		{
+			"name": "Multiple choice exam - end of semester",
+			"weight": 30
+		}
+	]
+}

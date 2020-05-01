@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research Report of Class Project",
+			"weight": 30
+		},
+		{
+			"name": "Moderated Online Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

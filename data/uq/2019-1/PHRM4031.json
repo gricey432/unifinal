@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Business Service Proposal - Part 1",
+			"weight": 9
+		},
+		{
+			"name": "Team Process for Success - Individual",
+			"weight": 0
+		},
+		{
+			"name": "Business Service Proposal - Part 2",
+			"weight": 21
+		},
+		{
+			"name": "Business of Healthcare Exam",
+			"weight": 60
+		}
+	]
+}

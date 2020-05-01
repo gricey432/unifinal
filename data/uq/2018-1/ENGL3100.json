@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Critical Essay",
+			"weight": 30
+		},
+		{
+			"name": "Review Essay",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		}
+	]
+}

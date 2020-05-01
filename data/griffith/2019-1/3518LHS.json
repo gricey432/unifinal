@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Campaign Simulation Exercise",
+			"weight": 50
+		},
+		{
+			"name": "Multiple Choice & Blind scenario ",
+			"weight": 30
+		},
+		{
+			"name": "Campaign Simulation Individual Report",
+			"weight": 20
+		}
+	]
+}

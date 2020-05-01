@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Remise des devoirs",
+			"weight": 15
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Pastiche",
+			"weight": 20
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		},
+		{
+			"name": "Examen de fin de semestre",
+			"weight": 35
+		}
+	]
+}

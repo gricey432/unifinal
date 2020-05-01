@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Active Tutorial Collaboration",
+			"weight": 20
+		},
+		{
+			"name": "Submission of ROI / EOI - Expression of Interest",
+			"weight": 20
+		},
+		{
+			"name": "University of Sydney Real Estate Case Competition",
+			"weight": 60
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Proposal Submission",
+			"weight": 40
+		}
+	]
+}

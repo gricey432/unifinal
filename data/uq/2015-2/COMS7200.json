@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Topics in Networking",
+			"weight": 20
+		},
+		{
+			"name": "Advanced Programming Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

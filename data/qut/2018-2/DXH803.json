@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Strategy",
+			"weight": 50
+		},
+		{
+			"name": "Strategy Realisation Project",
+			"weight": 50
+		}
+	]
+}

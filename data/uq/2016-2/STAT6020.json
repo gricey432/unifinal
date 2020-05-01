@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Survey/Progress Report",
+			"weight": 10
+		},
+		{
+			"name": "Honours Talk",
+			"weight": 0
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 90
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

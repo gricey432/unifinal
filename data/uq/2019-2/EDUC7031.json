@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group teaching presentation",
+			"weight": 30
+		},
+		{
+			"name": "Critique and Feedback",
+			"weight": 30
+		},
+		{
+			"name": "Curriculum Development Project",
+			"weight": 40
+		}
+	]
+}

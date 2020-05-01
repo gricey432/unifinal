@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Response to ethical/moral dilemma",
+			"weight": 40
+		},
+		{
+			"name": "Quality Improvement Plan",
+			"weight": 60
+		}
+	]
+}

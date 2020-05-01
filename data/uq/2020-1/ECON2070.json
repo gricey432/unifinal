@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise",
+			"weight": 14
+		},
+		{
+			"name": "Online Test 1, 2, 3",
+			"weight": 21
+		},
+		{
+			"name": "Online Mid-semester Exam During Lecture Time",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination (Online)",
+			"weight": 40
+		}
+	]
+}

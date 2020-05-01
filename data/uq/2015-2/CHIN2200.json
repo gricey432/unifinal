@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Character Practice Booklet",
+			"weight": 10
+		},
+		{
+			"name": "Class Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "6 Lesson Review Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Chinese Word Processing Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Test 2",
+			"weight": 25
+		}
+	]
+}

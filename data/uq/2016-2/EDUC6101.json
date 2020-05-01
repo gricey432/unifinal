@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation based on preparatory work",
+			"weight": "Pass"
+		},
+		{
+			"name": "Teaching philosophy statement",
+			"weight": "Pass"
+		},
+		{
+			"name": "Designing assessment: Initial Draft ",
+			"weight": 0
+		},
+		{
+			"name": "Peer feedback",
+			"weight": "Pass"
+		},
+		{
+			"name": "Designing Assessment Final Draft",
+			"weight": "Pass"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two lesson plans: Teaching Productive modes",
+			"weight": 35
+		},
+		{
+			"name": "English curriculum Unit",
+			"weight": 40
+		},
+		{
+			"name": "Professional learning presentation",
+			"weight": 25
+		}
+	]
+}

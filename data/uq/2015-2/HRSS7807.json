@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Multiple Choice and Short Answer Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Critical Appraisal Assignment",
+			"weight": 40
+		}
+	]
+}

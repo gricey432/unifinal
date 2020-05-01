@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Site Plan",
+			"weight": 30
+		},
+		{
+			"name": "Volunteer Recruitment Report",
+			"weight": 30
+		},
+		{
+			"name": "Event Operations Report",
+			"weight": 40
+		}
+	]
+}

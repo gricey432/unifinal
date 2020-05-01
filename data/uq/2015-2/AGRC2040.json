@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Examination",
+			"weight": 15
+		},
+		{
+			"name": "Report on Nutrient Omission Experiment",
+			"weight": 25
+		},
+		{
+			"name": "Final examination at end of semester",
+			"weight": 60
+		}
+	]
+}

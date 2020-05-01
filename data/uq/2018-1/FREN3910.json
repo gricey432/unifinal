@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in weekly meetings",
+			"weight": 10
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research plan OR Translation and commentary",
+			"weight": 30
+		}
+	]
+}

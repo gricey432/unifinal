@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Short Writing Tasks",
+			"weight": 10
+		},
+		{
+			"name": "On Chosen Topic",
+			"weight": 25
+		},
+		{
+			"name": "Individual Student Presentation in Class",
+			"weight": 20
+		},
+		{
+			"name": "Participation during all Class Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Essay Outline",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Computer-based Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Case study",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination (Online)",
+			"weight": 45
+		}
+	]
+}

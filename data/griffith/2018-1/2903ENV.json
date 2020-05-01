@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ass.1-Urban Design History",
+			"weight": 30
+		},
+		{
+			"name": "Ass.2-Research participation ",
+			"weight": 5
+		},
+		{
+			"name": "Ass.3-Urban Design Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Ass.4-Exam",
+			"weight": 15
+		}
+	]
+}

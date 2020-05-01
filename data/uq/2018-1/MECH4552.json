@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Attendance/Written Reflection (Individual)",
+			"weight": "Grade Restriction (P/F)"
+		},
+		{
+			"name": "WebPA Team Peer Review",
+			"weight": "P/F - Impacts Team Assessment"
+		},
+		{
+			"name": "Templates (Individual)",
+			"weight": "Grade Restriction (P/F)"
+		},
+		{
+			"name": "PDR Report (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Design Logbooks (Individual)",
+			"weight": "Grade Restriction (P/F)"
+		},
+		{
+			"name": "PDR Video Presentation (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Critical Design Review (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Final Design Report (Individual/Team)",
+			"weight": 70
+		}
+	]
+}

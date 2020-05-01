@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Ready reckoner activity and interview critique",
+			"weight": 25
+		},
+		{
+			"name": "Cultural competence quiz",
+			"weight": 15
+		},
+		{
+			"name": "Diet disease relationship task",
+			"weight": 20
+		}
+	]
+}

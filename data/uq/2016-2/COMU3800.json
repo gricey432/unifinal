@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Case Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Pitch",
+			"weight": 5
+		},
+		{
+			"name": "Draft 1 & Draft 2 of Your Project ",
+			"weight": 30
+		},
+		{
+			"name": "Final Portfolio (Project + Reflections)",
+			"weight": 45
+		},
+		{
+			"name": "\"Practice of Writing & Being a Writer\" Reflections",
+			"weight": 10
+		}
+	]
+}

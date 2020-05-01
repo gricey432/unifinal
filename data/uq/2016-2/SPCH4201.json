@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Incident Seminar Presentations ",
+			"weight": 40
+		},
+		{
+			"name": "Critical Incident Seminar Presentation Attendance",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 50
+		}
+	]
+}

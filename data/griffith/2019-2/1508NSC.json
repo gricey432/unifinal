@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1508NSC Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "1508NSC Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "1508NSC Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam; 2hrs",
+			"weight": 40
+		}
+	]
+}

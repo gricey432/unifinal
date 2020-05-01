@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Wastewater field trip report",
+			"weight": 5
+		},
+		{
+			"name": "Wastewater Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Solid waste assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final exam (open book)",
+			"weight": 40
+		}
+	]
+}

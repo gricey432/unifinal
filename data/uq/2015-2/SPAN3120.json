@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participacion",
+			"weight": 4
+		},
+		{
+			"name": "Tareas evaluadas",
+			"weight": 16
+		},
+		{
+			"name": "Prueba 1",
+			"weight": 24
+		},
+		{
+			"name": "Composicion",
+			"weight": 10
+		},
+		{
+			"name": "Patrimonios de la humanidad del mundo hispano",
+			"weight": 22
+		},
+		{
+			"name": "Prueba 2",
+			"weight": 24
+		}
+	]
+}

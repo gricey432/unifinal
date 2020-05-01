@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical essay #1",
+			"weight": 30
+		},
+		{
+			"name": "Exam:statistical analysis using R",
+			"weight": 20
+		},
+		{
+			"name": "Statistical analysis and experimental design",
+			"weight": 50
+		}
+	]
+}

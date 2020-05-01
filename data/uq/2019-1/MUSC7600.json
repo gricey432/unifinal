@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture attendance",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Rehearsal",
+			"weight": 30
+		},
+		{
+			"name": "Informal performance UQSO",
+			"weight": 70
+		}
+	]
+}

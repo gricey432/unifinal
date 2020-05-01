@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Reading Reports",
+			"weight": 11
+		},
+		{
+			"name": "Participation in seminar discussions",
+			"weight": 11
+		},
+		{
+			"name": "Artwork - Reflective Analysis (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Text Analysis Paper (1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Course Reflection (500 words)",
+			"weight": 3
+		},
+		{
+			"name": "Research Essay (4000 Words)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Journaling and Conversations ",
+			"weight": 40
+		},
+		{
+			"name": "Early childhood learning spaces ",
+			"weight": 30
+		},
+		{
+			"name": "Early years documentation & planning ",
+			"weight": 30
+		}
+	]
+}

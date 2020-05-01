@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Reflective Journals",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Workplace Feedback by Placement Supervisor",
+			"weight": 15
+		},
+		{
+			"name": "Interim Report",
+			"weight": 5
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 55
+		}
+	]
+}

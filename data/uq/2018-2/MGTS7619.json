@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practice (25%) & Course Engagement (20%)",
+			"weight": 55
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

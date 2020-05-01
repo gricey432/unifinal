@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Matlab Exercise",
+			"weight": 2
+		},
+		{
+			"name": "Weekly pre-class quizzes",
+			"weight": 6
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Prac: Ternary Phase Diagram",
+			"weight": 2
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

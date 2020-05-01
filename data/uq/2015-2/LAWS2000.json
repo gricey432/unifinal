@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation ",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice",
+			"weight": 25
+		},
+		{
+			"name": "Library Exercise and Case Note",
+			"weight": 10
+		},
+		{
+			"name": "Work based Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Final",
+			"weight": 45
+		}
+	]
+}

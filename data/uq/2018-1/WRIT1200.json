@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing journal",
+			"weight": 10
+		},
+		{
+			"name": "Annotation tasks",
+			"weight": 10
+		},
+		{
+			"name": "Writing project - proposal",
+			"weight": 30
+		},
+		{
+			"name": "Writing project - final submission",
+			"weight": 50
+		}
+	]
+}

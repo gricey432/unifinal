@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "REPORT",
+			"weight": 10
+		},
+		{
+			"name": "Mid-trimester EXAMINATION",
+			"weight": 15
+		},
+		{
+			"name": "PRESENTATION",
+			"weight": 25
+		},
+		{
+			"name": "End-trimester examination",
+			"weight": 50
+		}
+	]
+}

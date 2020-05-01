@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Argumentative essay",
+			"weight": 40
+		},
+		{
+			"name": "Summarising three primary sources",
+			"weight": 30
+		},
+		{
+			"name": "Conversation Piece",
+			"weight": 30
+		}
+	]
+}

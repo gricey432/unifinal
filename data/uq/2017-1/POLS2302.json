@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Summaries of set texts/Oral Exam on texts",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Summary & Critique of Set Text (800 words)",
+			"weight": 40
+		}
+	]
+}

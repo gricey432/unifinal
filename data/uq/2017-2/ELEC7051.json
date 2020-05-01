@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1:Application of Dissolved Gas Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Condition assessment techniques",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3: Transformer failure analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

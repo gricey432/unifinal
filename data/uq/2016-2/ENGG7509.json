@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project execution mark (supervisor assessed)",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Proposal",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Final project report and thesis",
+			"weight": 80
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		}
+	]
+}

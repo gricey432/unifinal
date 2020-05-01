@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": "Three journals must be submitted to pass"
+		},
+		{
+			"name": "Placement Timesheet",
+			"weight": "90 hours must be completed and signed off to pass the course"
+		},
+		{
+			"name": "Unlocking your employability ",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": "Attendance is compulsory to pass the course"
+		},
+		{
+			"name": "Work Placement",
+			"weight": "PASS - verified by placement supervisor"
+		},
+		{
+			"name": "My CV ",
+			"weight": "Must be submitted to pass"
+		},
+		{
+			"name": "My Work Placement (Poster)",
+			"weight": "A PASS grade must be achieved"
+		}
+	]
+}

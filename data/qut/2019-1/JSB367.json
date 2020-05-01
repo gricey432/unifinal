@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical essay",
+			"weight": 30
+		},
+		{
+			"name": "Project (research)",
+			"weight": 50
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 20
+		}
+	]
+}

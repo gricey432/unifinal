@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": 15
+		},
+		{
+			"name": "Public Relations pitch",
+			"weight": 30
+		},
+		{
+			"name": "Campaign Proposal",
+			"weight": 55
+		}
+	]
+}

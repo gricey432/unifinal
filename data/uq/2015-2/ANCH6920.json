@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Contribution to Weekly Seminar Discussions",
+			"weight": 10
+		},
+		{
+			"name": "Seminar Presentation and Handout",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

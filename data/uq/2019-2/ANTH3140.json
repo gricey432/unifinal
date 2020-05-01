@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Leading discussion and reading reflection",
+			"weight": 20
+		},
+		{
+			"name": "Critical precis",
+			"weight": 10
+		},
+		{
+			"name": "Early career research forum",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

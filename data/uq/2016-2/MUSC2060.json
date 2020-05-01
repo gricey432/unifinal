@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation & Repertoire",
+			"weight": 15
+		},
+		{
+			"name": "Individual and Ensemble performance",
+			"weight": 20
+		},
+		{
+			"name": "AURALIA",
+			"weight": 15
+		},
+		{
+			"name": "Worksheets",
+			"weight": 25
+		},
+		{
+			"name": "Fluency in Rudiments and Notation",
+			"weight": 0
+		},
+		{
+			"name": "Chorale Harmonisation",
+			"weight": 25
+		}
+	]
+}

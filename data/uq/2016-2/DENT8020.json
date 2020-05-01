@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical/Practical Examination ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Viva Voce",
+			"weight": "Pass/Fail"
+		}
+	]
+}

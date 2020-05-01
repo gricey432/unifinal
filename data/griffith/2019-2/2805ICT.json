@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop exercises",
+			"weight": 20
+		},
+		{
+			"name": "Milestone 1",
+			"weight": 10
+		},
+		{
+			"name": "In Trimester Exam ",
+			"weight": 10
+		},
+		{
+			"name": "Milestome Two- Progress Report",
+			"weight": 10
+		},
+		{
+			"name": "Overall project report and demonstration",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

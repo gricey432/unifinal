@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Kanji Concentration Talk",
+			"weight": 15
+		},
+		{
+			"name": "Mid-term Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Kuizu Show",
+			"weight": 30
+		},
+		{
+			"name": "Oral Assessment",
+			"weight": 30
+		}
+	]
+}

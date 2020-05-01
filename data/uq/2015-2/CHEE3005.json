@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Prac for both Chem Eng and Chem/Met",
+			"weight": 5
+		},
+		{
+			"name": "Safety Inductions for all students",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Safety Inductions for chem/met students",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1 - for both Chem Eng and Chem/Met ",
+			"weight": 4
+		},
+		{
+			"name": "In-class Quiz - for both Chem Eng and Chem/Met",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - for both Chem Eng and Chem/Met",
+			"weight": 4
+		},
+		{
+			"name": "Mid Semester test -for both Chem Eng and Chem/Met",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 3 - for both Chem Eng and Chem/Met",
+			"weight": 4
+		},
+		{
+			"name": "Final Exam - for both Chem Eng and Chem/Met",
+			"weight": 45
+		},
+		{
+			"name": "Assignment 4 for Chem Eng  only ",
+			"weight": 5
+		},
+		{
+			"name": "In-class Quiz - for Chem Eng only",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 5 - for Chem Eng Only",
+			"weight": 5
+		},
+		{
+			"name": "Reaction Kinetics and Non-Ideal Behaviour",
+			"weight": 5
+		},
+		{
+			"name": "Analysis and Design of a Heterogeneous Reactor",
+			"weight": 10
+		}
+	]
+}

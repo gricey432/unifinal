@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 60
+		},
+		{
+			"name": "Recorded/rendered creativework",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of the PR Industry",
+			"weight": 35
+		},
+		{
+			"name": "PR Campaign",
+			"weight": 15
+		},
+		{
+			"name": "PR Campaign",
+			"weight": 25
+		},
+		{
+			"name": "Campaign Tactics Portfolio",
+			"weight": 25
+		}
+	]
+}

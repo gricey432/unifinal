@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Role of IS Audit in Internal Audit",
+			"weight": 20
+		},
+		{
+			"name": "Group Audit Report and Video Summary (Audit Case)",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

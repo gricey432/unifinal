@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "9 x In Class Activities",
+			"weight": 15
+		},
+		{
+			"name": "Group research and presentations",
+			"weight": 15
+		},
+		{
+			"name": "Drilling and Blasting Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Blasting and Machine Mining Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook Part 1",
+			"weight": 15
+		},
+		{
+			"name": "A Contemporary Issue in Australian Geography",
+			"weight": 30
+		},
+		{
+			"name": "Workbook Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

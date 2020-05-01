@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line tests to help prepare for lectures",
+			"weight": 10
+		},
+		{
+			"name": "Case study 1",
+			"weight": 40
+		},
+		{
+			"name": "Case study 2",
+			"weight": 50
+		}
+	]
+}

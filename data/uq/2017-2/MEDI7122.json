@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Coaching Examination (CCE) x 3",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Sim Patient Video Recording and Review Session",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7122."
+		}
+	]
+}

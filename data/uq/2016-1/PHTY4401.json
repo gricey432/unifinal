@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio Task - Reflective Essay",
+			"weight": 10
+		},
+		{
+			"name": "One per area of study",
+			"weight": 30
+		},
+		{
+			"name": "OSCE",
+			"weight": 40
+		},
+		{
+			"name": "OSCE Written component",
+			"weight": 20
+		}
+	]
+}

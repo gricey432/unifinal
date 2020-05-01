@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Learning commitment plan",
+			"weight": "Formative"
+		},
+		{
+			"name": "Formative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment Portfolio",
+			"weight": "NGP"
+		},
+		{
+			"name": "Peer Education - Teaching a clinical skill",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment Portfolio",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Clinical Assessment (Timesheet)",
+			"weight": "NGP"
+		}
+	]
+}

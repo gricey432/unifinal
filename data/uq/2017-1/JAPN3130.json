@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Vocabulary and Grammar Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Test",
+			"weight": 25
+		},
+		{
+			"name": "Movie Review",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

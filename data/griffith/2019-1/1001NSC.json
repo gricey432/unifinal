@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Assignments set in Mastering A&P",
+			"weight": 5
+		},
+		{
+			"name": "Workshop Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Workshop Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Research-Based Learning Task",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 40
+		}
+	]
+}

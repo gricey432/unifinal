@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project outline and plan",
+			"weight": 35
+		},
+		{
+			"name": "Project report",
+			"weight": 65
+		}
+	]
+}

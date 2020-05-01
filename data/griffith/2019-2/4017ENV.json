@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professionalism and engagement.",
+			"weight": 15
+		},
+		{
+			"name": "Planning Placement Supervisor's Report",
+			"weight": 20
+		},
+		{
+			"name": "Journal Article",
+			"weight": 35
+		},
+		{
+			"name": "Professional E-Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Planning Practicum Presentation",
+			"weight": 10
+		}
+	]
+}

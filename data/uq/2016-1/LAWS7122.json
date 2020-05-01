@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Assignment (OPTIONAL OR EXAMINATION)",
+			"weight": 60
+		},
+		{
+			"name": "Dismissal Hypothetical (MANDATORY)",
+			"weight": 40
+		},
+		{
+			"name": "Final examination (OPTION OR RESEARCH ASSIGNMENT)",
+			"weight": 60
+		}
+	]
+}

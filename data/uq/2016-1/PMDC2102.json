@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Respiratory Condition Essay",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Written Examination",
+			"weight": 50
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Test",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

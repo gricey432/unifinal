@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Soils in the field",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Phosphorus nutrition of plants",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Soil description",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Soil science in action",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 2",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 3",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 4",
+			"weight": "Pass/Fail"
+		}
+	]
+}

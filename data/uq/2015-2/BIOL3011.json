@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project A - Report",
+			"weight": 20
+		},
+		{
+			"name": "Project B",
+			"weight": 20
+		},
+		{
+			"name": "Oral",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

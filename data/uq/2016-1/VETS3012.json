@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment - animal handling (clinical)",
+			"weight": 40
+		},
+		{
+			"name": "Interactive problem based learning tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Examination at the end of 1st Semester",
+			"weight": 40
+		}
+	]
+}

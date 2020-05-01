@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Visualisation Individual Project",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Presentation and Strategy",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

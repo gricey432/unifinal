@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presenting Further Reading",
+			"weight": 30
+		},
+		{
+			"name": "Ideas for Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

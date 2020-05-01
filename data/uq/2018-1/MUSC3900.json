@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of Professional Materials",
+			"weight": 50
+		},
+		{
+			"name": "Lecture discussions, reading, online learning task",
+			"weight": 30
+		},
+		{
+			"name": "Informational Interview",
+			"weight": 10
+		},
+		{
+			"name": "Mock interview",
+			"weight": 10
+		}
+	]
+}

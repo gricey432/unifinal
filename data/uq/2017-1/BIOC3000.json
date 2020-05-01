@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Pipetting exercise",
+			"weight": 0
+		},
+		{
+			"name": " Characterization of aminopeptidase",
+			"weight": 5
+		},
+		{
+			"name": "Can we find a new inhibitor for amino peptidase?",
+			"weight": 5
+		},
+		{
+			"name": "News and Views article",
+			"weight": 15
+		},
+		{
+			"name": "NMR and X-ray structure determination",
+			"weight": 5
+		},
+		{
+			"name": "Expert Review",
+			"weight": 20
+		},
+		{
+			"name": "Molecular Visualization -PyMOL",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

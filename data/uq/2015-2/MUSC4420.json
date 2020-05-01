@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review on Chosen Topic",
+			"weight": 15
+		},
+		{
+			"name": "Main Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Draft of complete Project",
+			"weight": 0
+		},
+		{
+			"name": "On a chosen topic",
+			"weight": 70
+		}
+	]
+}

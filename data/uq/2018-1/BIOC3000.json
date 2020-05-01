@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pipetting & Characterization of aminopeptidase",
+			"weight": 5
+		},
+		{
+			"name": "Design and perform your own kinetics experiment",
+			"weight": 5
+		},
+		{
+			"name": "New Scientist article",
+			"weight": 30
+		},
+		{
+			"name": "NMR and X-ray structure determination",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

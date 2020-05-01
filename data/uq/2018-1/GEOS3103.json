@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Essay 1: Geography in the C19",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay 2: Progress in Human Geography",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay 3: Geography in Universities",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay 4: Progress in Physical Geography",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay 5: Geography in Practice",
+			"weight": 20
+		}
+	]
+}

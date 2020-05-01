@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Syllabus/planning task",
+			"weight": 30
+		},
+		{
+			"name": "Annotated Digital Resource Folio",
+			"weight": 35
+		},
+		{
+			"name": "Digital Submission and Marking",
+			"weight": 35
+		}
+	]
+}

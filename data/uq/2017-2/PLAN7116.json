@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "What makes a good transport plan?",
+			"weight": 15
+		},
+		{
+			"name": "Transport Plan Critique",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Fieldwork Plan",
+			"weight": 10
+		},
+		{
+			"name": "Field Note Book",
+			"weight": 30
+		},
+		{
+			"name": "Final Report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media release",
+			"weight": 20
+		},
+		{
+			"name": "Job application",
+			"weight": 40
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 40
+		}
+	]
+}

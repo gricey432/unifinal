@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student seminar presentation",
+			"weight": 40
+		},
+		{
+			"name": "online discussion of new graduate competencies",
+			"weight": 12
+		},
+		{
+			"name": "Submission Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Viva examination",
+			"weight": 28
+		}
+	]
+}

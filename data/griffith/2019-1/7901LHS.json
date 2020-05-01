@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of Evidence",
+			"weight": 35
+		},
+		{
+			"name": "Learner profile: Language and needs analysis 1",
+			"weight": 25
+		},
+		{
+			"name": "Learner profile: Language and needs analysis 2",
+			"weight": 40
+		}
+	]
+}

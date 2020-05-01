@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theme 2: Family dynamics ",
+			"weight": 35
+		},
+		{
+			"name": "Theme 3: Interview project",
+			"weight": 35
+		},
+		{
+			"name": "Theme 1: Pidato Presiden",
+			"weight": 30
+		}
+	]
+}

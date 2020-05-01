@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Nutritional epidemiology/ nutrition assessment",
+			"weight": 25
+		},
+		{
+			"name": "Critical appraisal ",
+			"weight": 10
+		},
+		{
+			"name": "Research methods design for a PHN investigation",
+			"weight": 25
+		},
+		{
+			"name": "Situation Analysis Report",
+			"weight": 40
+		}
+	]
+}

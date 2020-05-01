@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Individual Context Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2: Chair Meeting & Reflexive Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Action Minutes",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 4: Group Project Plan",
+			"weight": 40
+		}
+	]
+}

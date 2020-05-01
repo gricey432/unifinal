@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of DVD One for Review (All Students) ",
+			"weight": "Not Weighted Alone"
+		},
+		{
+			"name": "The Scientist and the Practitioner in Counselling",
+			"weight": 25
+		},
+		{
+			"name": "Submission of Second DVD and Commentary ",
+			"weight": 35
+		},
+		{
+			"name": "Competency Interview",
+			"weight": 40
+		}
+	]
+}

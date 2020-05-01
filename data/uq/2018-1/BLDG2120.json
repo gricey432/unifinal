@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly course material and reading review",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Survey - (My)Home performance",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: FirstRate - (Ideal)Home Performance",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 3:(Prefab)Home Design and Performance",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two separate tutorial presentations (5% each)",
+			"weight": 10
+		},
+		{
+			"name": "Professional Residential Valuation Report",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

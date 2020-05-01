@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Year 7 unit of work ",
+			"weight": 50
+		},
+		{
+			"name": "Teaching strengths",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Verification folio",
+			"weight": 50
+		}
+	]
+}

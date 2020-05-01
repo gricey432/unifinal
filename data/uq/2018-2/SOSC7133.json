@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Cultural Development Practice Resource",
+			"weight": 45
+		},
+		{
+			"name": "Emerging Framework Presentation & Discussion",
+			"weight": 5
+		},
+		{
+			"name": "Community Cultural Development Practice Framework",
+			"weight": 50
+		}
+	]
+}

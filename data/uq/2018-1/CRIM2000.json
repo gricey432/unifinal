@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class discussion participation & worksheet",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review and Case Studies",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

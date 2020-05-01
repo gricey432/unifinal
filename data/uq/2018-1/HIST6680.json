@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Critical Evaluation",
+			"weight": 30
+		},
+		{
+			"name": "The History Manifesto",
+			"weight": 20
+		}
+	]
+}

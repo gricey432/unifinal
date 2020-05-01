@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Summary",
+			"weight": 20
+		},
+		{
+			"name": "Visual Analysis Peer Review",
+			"weight": 10
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory/Practical",
+			"weight": 30
+		},
+		{
+			"name": "Manuscript Critique",
+			"weight": 40
+		}
+	]
+}

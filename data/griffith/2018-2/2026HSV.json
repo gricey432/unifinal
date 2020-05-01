@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis Reading",
+			"weight": 25
+		},
+		{
+			"name": "Professional Conversation",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Essay",
+			"weight": 50
+		}
+	]
+}

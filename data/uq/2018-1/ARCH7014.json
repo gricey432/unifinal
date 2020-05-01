@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research and Communications Training",
+			"weight": 10
+		},
+		{
+			"name": "Review of Architectural Criticism",
+			"weight": 20
+		},
+		{
+			"name": "Video Manifesto (Group Project)",
+			"weight": 20
+		},
+		{
+			"name": "Essay: Contemporary Architecture & its Production",
+			"weight": 50
+		}
+	]
+}

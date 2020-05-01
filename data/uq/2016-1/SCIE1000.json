@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises ",
+			"weight": 12
+		},
+		{
+			"name": "In-class clicker questions",
+			"weight": 3
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 70
+		}
+	]
+}

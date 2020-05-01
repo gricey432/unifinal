@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of textbook or news or web materials",
+			"weight": 35
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		},
+		{
+			"name": "Critical Micro Teaching",
+			"weight": 25
+		}
+	]
+}

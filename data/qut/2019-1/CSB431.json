@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Role playing task",
+			"weight": 10
+		},
+		{
+			"name": "Workbook",
+			"weight": 35
+		},
+		{
+			"name": "Oral examination",
+			"weight": 55
+		}
+	]
+}

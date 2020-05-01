@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paper Critique",
+			"weight": 15
+		},
+		{
+			"name": "2800-3200 words",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		},
+		{
+			"name": "Workshop Critiques (Semester 2)",
+			"weight": 25
+		}
+	]
+}

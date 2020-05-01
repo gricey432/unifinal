@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "WEEKLY QUIZ/WRITING EXERCISE DURING TUTORIALS",
+			"weight": 10
+		},
+		{
+			"name": "CREATE A RADIO NEWSCAST",
+			"weight": 30
+		},
+		{
+			"name": "RADIO CURRENT AFFAIRS PACKAGE",
+			"weight": 30
+		},
+		{
+			"name": "RADIO MINI-DOCUMENTARY or PODCAST",
+			"weight": 30
+		}
+	]
+}

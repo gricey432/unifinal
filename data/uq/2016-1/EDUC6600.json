@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Curriculum, pedagogy and assessment",
+			"weight": 35
+		},
+		{
+			"name": "Contemporary issues in teaching & learning",
+			"weight": 55
+		}
+	]
+}

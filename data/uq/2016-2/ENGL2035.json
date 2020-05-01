@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class preparation & participation",
+			"weight": 20
+		},
+		{
+			"name": "Reading Modernism",
+			"weight": 30
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

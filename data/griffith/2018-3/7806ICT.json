@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Business Case",
+			"weight": 50
+		},
+		{
+			"name": "Workshop activities",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

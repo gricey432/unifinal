@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Workshop 1",
+			"weight": 2
+		},
+		{
+			"name": "Article Summaries x 5",
+			"weight": 50
+		},
+		{
+			"name": "Research Workshop 2",
+			"weight": 2
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 35
+		}
+	]
+}

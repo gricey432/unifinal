@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester Test",
+			"weight": 25
+		},
+		{
+			"name": "Hotel Annual Report Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

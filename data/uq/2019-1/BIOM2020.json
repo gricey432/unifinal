@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "BioStats Entry Survey",
+			"weight": 2
+		},
+		{
+			"name": "BioStats Data Collection",
+			"weight": 5
+		},
+		{
+			"name": "BioStats Assignment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "BioStats Assignment",
+			"weight": 20
+		},
+		{
+			"name": "BioStats Exit Survey",
+			"weight": 2
+		},
+		{
+			"name": "Practical Spotter Exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam (EOS)",
+			"weight": 30
+		}
+	]
+}

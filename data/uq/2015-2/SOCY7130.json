@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group project: Outline, rationale, research plan",
+			"weight": 10
+		},
+		{
+			"name": "Group research fieldwork: explaining the choices",
+			"weight": 10
+		},
+		{
+			"name": "Group project: research findings",
+			"weight": 20
+		},
+		{
+			"name": "A topic chosen by the group",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group discussion and problem-solving exercises",
+			"weight": 15
+		},
+		{
+			"name": "Annotated bibliography ",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Multiple choice exam",
+			"weight": 30
+		}
+	]
+}

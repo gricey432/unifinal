@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation and Report",
+			"weight": 45
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": 40
+		}
+	]
+}

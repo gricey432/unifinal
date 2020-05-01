@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SQL skills quiz",
+			"weight": 15
+		},
+		{
+			"name": "System Development",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

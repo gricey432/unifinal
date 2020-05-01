@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 - Musculoskeletal Viva Voce",
+			"weight": 10
+		},
+		{
+			"name": "Module 1 - Musculoskeletal Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Module 2 - Endocrine Quiz ",
+			"weight": 20
+		},
+		{
+			"name": "Module 2 - Endocrine Viva Voce",
+			"weight": 10
+		},
+		{
+			"name": "EOT Theory Examination",
+			"weight": 40
+		}
+	]
+}

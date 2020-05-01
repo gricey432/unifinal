@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops",
+			"weight": 60
+		},
+		{
+			"name": "Project",
+			"weight": 25
+		},
+		{
+			"name": "Advanced topics in bioinformatics",
+			"weight": 15
+		}
+	]
+}

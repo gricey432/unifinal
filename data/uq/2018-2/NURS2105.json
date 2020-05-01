@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Clinical Based Learning Workshops",
+			"weight": "NGP"
+		},
+		{
+			"name": "Reflective Practice",
+			"weight": 10
+		},
+		{
+			"name": "Digital Poster",
+			"weight": 45
+		},
+		{
+			"name": "Objective Structured Clinical assessment (OSCA)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Final written exam",
+			"weight": 45
+		}
+	]
+}

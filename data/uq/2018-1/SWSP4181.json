@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Framework for practice in health and ageing",
+			"weight": 40
+		},
+		{
+			"name": "Demonstration of skills",
+			"weight": 25
+		},
+		{
+			"name": "Part One: case note from the demonstration",
+			"weight": 15
+		},
+		{
+			"name": "Part two: Reflection on the demonstration",
+			"weight": 20
+		}
+	]
+}

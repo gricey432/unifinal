@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment item on systematic reviews",
+			"weight": 25
+		},
+		{
+			"name": "Media presentation",
+			"weight": 25
+		},
+		{
+			"name": "Qualitative interpretative analysis",
+			"weight": 25
+		},
+		{
+			"name": "Turning your thesis into a publishable paper",
+			"weight": 25
+		}
+	]
+}

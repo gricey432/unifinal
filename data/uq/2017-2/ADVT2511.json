@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class exam",
+			"weight": 30
+		},
+		{
+			"name": "Advertising Campaign and Analysis (Team)",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

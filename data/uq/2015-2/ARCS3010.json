@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Stratigraphy",
+			"weight": 5
+		},
+		{
+			"name": "Feature Excavation",
+			"weight": 5
+		},
+		{
+			"name": "Skeleton/Burial Excavation",
+			"weight": 5
+		},
+		{
+			"name": "Research Design",
+			"weight": 30
+		},
+		{
+			"name": "Peer Evaluation Form",
+			"weight": "Required with Field Notes"
+		},
+		{
+			"name": "ATARC Excavation Notes",
+			"weight": 20
+		},
+		{
+			"name": "Final ATARC Excavation Report",
+			"weight": 35
+		}
+	]
+}

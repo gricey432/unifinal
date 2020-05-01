@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement with activities and lecturers ",
+			"weight": 5
+		},
+		{
+			"name": "Library Skills Test",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review & Annotated Bibliography ",
+			"weight": 25
+		},
+		{
+			"name": "Research, Writing and Presentation",
+			"weight": 60
+		}
+	]
+}

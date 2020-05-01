@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student participation in research laboratory",
+			"weight": 10
+		},
+		{
+			"name": "Honours final seminar",
+			"weight": 20
+		},
+		{
+			"name": "Honours research thesis",
+			"weight": 70
+		}
+	]
+}

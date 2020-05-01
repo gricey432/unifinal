@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Survey planning outline",
+			"weight": 10
+		},
+		{
+			"name": "Research report - Quantitative Report",
+			"weight": 40
+		},
+		{
+			"name": "Research report - Qualitative Report - EARLY submi",
+			"weight": 0
+		},
+		{
+			"name": "Research report - Qualitative Report - Timing 2",
+			"weight": 50
+		}
+	]
+}

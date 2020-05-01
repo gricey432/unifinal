@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Java Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 13
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 13
+		},
+		{
+			"name": "Final examination",
+			"weight": 58
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Preparation, Writing, and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 45
+		},
+		{
+			"name": "Final test",
+			"weight": 40
+		}
+	]
+}

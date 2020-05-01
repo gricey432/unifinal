@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Macroeconomic Policy Research Assignment-I",
+			"weight": 20
+		},
+		{
+			"name": "Macroeconomic Policy Research Assignment-II",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

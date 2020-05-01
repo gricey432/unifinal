@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Radiology Clinical Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Case Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Anaesthesia/ICU Clinical Performance Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Case Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Emergency Clinical Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Oral Examination - Anaesthesia, ICU & Emergency",
+			"weight": 15
+		},
+		{
+			"name": "Radiographic assessment",
+			"weight": 5
+		},
+		{
+			"name": "Skills List",
+			"weight": "Pass/Fail"
+		}
+	]
+}

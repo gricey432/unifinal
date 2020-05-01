@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Early Progress Evaluation",
+			"weight": 15
+		},
+		{
+			"name": "Research Report",
+			"weight": 35
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 50
+		}
+	]
+}

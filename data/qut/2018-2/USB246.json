@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Challenge/Negotiation",
+			"weight": 20
+		},
+		{
+			"name": "Transaction Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Written Examination",
+			"weight": 50
+		}
+	]
+}

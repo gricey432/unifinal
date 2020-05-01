@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research essay/Academic paper",
+			"weight": 30
+		},
+		{
+			"name": "Review of a style guide",
+			"weight": 20
+		},
+		{
+			"name": "Corporate document open-book editing test",
+			"weight": 25
+		},
+		{
+			"name": "Academic document open-book editing test",
+			"weight": 25
+		}
+	]
+}

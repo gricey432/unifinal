@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Major essay",
+			"weight": 30
+		},
+		{
+			"name": "Fieldwork / Diary",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

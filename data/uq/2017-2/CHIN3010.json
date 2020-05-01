@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and attendance",
+			"weight": 5
+		},
+		{
+			"name": "Communication with NS",
+			"weight": 15
+		},
+		{
+			"name": "Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Listening test",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

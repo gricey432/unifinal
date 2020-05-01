@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio and Practice",
+			"weight": 20
+		},
+		{
+			"name": "Scenic Images",
+			"weight": 30
+		},
+		{
+			"name": "Environment Concept Art ",
+			"weight": 50
+		}
+	]
+}

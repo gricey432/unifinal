@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Developing Entrepreneurial Expertise",
+			"weight": 50
+		},
+		{
+			"name": "Progression of Business Idea",
+			"weight": 20
+		},
+		{
+			"name": "Pitch",
+			"weight": 30
+		}
+	]
+}

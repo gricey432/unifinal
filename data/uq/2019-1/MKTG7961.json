@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Selection of topic",
+			"weight": 10
+		},
+		{
+			"name": "Progressive development of marketing plan ",
+			"weight": 20
+		},
+		{
+			"name": "Finalisation of marketing plan",
+			"weight": 40
+		},
+		{
+			"name": "Presentation of marketing plan",
+			"weight": 30
+		}
+	]
+}

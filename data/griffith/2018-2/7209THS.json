@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scenario presentations ",
+			"weight": 20
+		},
+		{
+			"name": "Tourism enterprise impact and response analysis ",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

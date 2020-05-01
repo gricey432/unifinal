@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Presentations on Technology/Management",
+			"weight": 20
+		},
+		{
+			"name": "Individual presentation on complex systems",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of Challenge Report",
+			"weight": 20
+		},
+		{
+			"name": "One report on design/integration challenges",
+			"weight": 40
+		}
+	]
+}

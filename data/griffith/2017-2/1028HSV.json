@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective journal",
+			"weight": 40
+		},
+		{
+			"name": "Experiential learning task",
+			"weight": 40
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester written test",
+			"weight": 20
+		},
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 10
+		},
+		{
+			"name": "Discussion du roman policier",
+			"weight": 20
+		},
+		{
+			"name": "Transformation de texte",
+			"weight": 20
+		},
+		{
+			"name": "Policier",
+			"weight": 20
+		}
+	]
+}

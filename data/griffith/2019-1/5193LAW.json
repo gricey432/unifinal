@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Career transition and Problem solving assessment",
+			"weight": 30
+		},
+		{
+			"name": "Trust Accounts online exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

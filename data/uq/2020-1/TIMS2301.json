@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Constructive contributions to online discussions",
+			"weight": 30
+		},
+		{
+			"name": "Literature review on a specific topic",
+			"weight": 35
+		},
+		{
+			"name": "Video presentation",
+			"weight": 35
+		}
+	]
+}

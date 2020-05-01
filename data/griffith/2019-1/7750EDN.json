@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning Study",
+			"weight": 50
+		},
+		{
+			"name": "Professional Experience Placement - 20 Days",
+			"weight": 50
+		}
+	]
+}

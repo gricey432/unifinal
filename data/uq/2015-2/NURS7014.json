@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review",
+			"weight": 20
+		},
+		{
+			"name": "Nursing Interventions",
+			"weight": 40
+		},
+		{
+			"name": "Nursing Intervention Video Recording & Critique",
+			"weight": 40
+		}
+	]
+}

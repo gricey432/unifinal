@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student-led weekly class quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis essay",
+			"weight": 50
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid- Trimester exam*",
+			"weight": 50
+		},
+		{
+			"name": "Project 1 (Group Project)",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 (Individual Project)",
+			"weight": 20
+		}
+	]
+}

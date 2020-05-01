@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Accident Causation Essay",
+			"weight": 25
+		},
+		{
+			"name": "Accident Investigation Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

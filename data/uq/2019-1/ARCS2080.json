@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module A: Microfossil analysis",
+			"weight": 25
+		},
+		{
+			"name": "Module B: Seeds and fruits",
+			"weight": 25
+		},
+		{
+			"name": "Module C: Wood and USOs",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 25
+		}
+	]
+}

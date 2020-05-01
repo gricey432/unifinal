@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A01_Shaping Sustainable Urban Systems",
+			"weight": 20
+		},
+		{
+			"name": "A02_Smart Sustainable Urbanism",
+			"weight": 20
+		},
+		{
+			"name": "A03_Smart Urban Interiors",
+			"weight": 60
+		}
+	]
+}

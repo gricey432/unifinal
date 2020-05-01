@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Experience Design Checkpoints",
+			"weight": "2x5"
+		},
+		{
+			"name": "Experience Design Project",
+			"weight": 50
+		}
+	]
+}

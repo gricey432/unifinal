@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Technique-Based Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Reasoning Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Practical VIVA",
+			"weight": 35
+		},
+		{
+			"name": "Written Examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Accelerated Programming Laboratories",
+			"weight": 20
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Software Project",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 50
+		}
+	]
+}

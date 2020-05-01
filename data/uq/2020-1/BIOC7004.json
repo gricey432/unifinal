@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Km for leu-peptide binding to aminopeptidase",
+			"weight": 10
+		},
+		{
+			"name": "Expression, purification and analysis of KARI",
+			"weight": 25
+		},
+		{
+			"name": "Molecular Visualization(Drug Targets for COVID-19)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

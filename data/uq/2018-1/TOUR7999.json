@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workplace Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Reflective diary: MOOC and Work Placement",
+			"weight": 40
+		},
+		{
+			"name": "Attendance and Performance in Work Placement",
+			"weight": 30
+		}
+	]
+}

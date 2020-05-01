@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 35
+		},
+		{
+			"name": "Mathematics Competency Task",
+			"weight": 30
+		},
+		{
+			"name": "Group numeracy video project",
+			"weight": 25
+		}
+	]
+}

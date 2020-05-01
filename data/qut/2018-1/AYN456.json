@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Sem Progressive Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Essay/Problem Solving Question",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

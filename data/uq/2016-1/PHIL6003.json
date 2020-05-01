@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Philosophical Essay",
+			"weight": 100
+		},
+		{
+			"name": "Seminar Attendance and Participation",
+			"weight": 0
+		},
+		{
+			"name": "Presentation",
+			"weight": 0
+		}
+	]
+}

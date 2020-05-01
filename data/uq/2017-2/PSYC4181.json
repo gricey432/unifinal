@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem analysis",
+			"weight": 20
+		},
+		{
+			"name": "Leadership in the world today",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

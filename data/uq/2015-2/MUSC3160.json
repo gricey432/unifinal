@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Repertoire Folio ",
+			"weight": 30
+		},
+		{
+			"name": "Conducting",
+			"weight": 45
+		},
+		{
+			"name": "Lecture and Tutorial Attendance",
+			"weight": 5
+		},
+		{
+			"name": "Aural Knowledge of Repertoire",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Startups-in-Practice",
+			"weight": 40
+		},
+		{
+			"name": "Understanding Entrepreneurial Ecosystems",
+			"weight": 40
+		},
+		{
+			"name": "Reflection Journal",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions (1 and 2)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "In class Quizzes (7 in total)",
+			"weight": 35
+		},
+		{
+			"name": "TE lab based practical",
+			"weight": 15
+		},
+		{
+			"name": "C&T Engineering Innovation Project Proposal",
+			"weight": 40
+		},
+		{
+			"name": "C&T Engineering Innovation Project Pitch",
+			"weight": 10
+		}
+	]
+}

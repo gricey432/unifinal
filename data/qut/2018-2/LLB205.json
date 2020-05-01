@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Letter, Memo, Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 60
+		}
+	]
+}

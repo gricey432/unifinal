@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Role of mathematics and numeracy",
+			"weight": 25
+		},
+		{
+			"name": "Group numeracy video: Real life mathematics",
+			"weight": 25
+		},
+		{
+			"name": "Mathematical problem-solving tasks",
+			"weight": 50
+		}
+	]
+}

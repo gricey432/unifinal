@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Scientific Analysis in Archaeology",
+			"weight": 35
+		},
+		{
+			"name": "Exam 2",
+			"weight": 35
+		}
+	]
+}

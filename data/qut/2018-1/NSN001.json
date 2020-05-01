@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Creative Work",
+			"weight": 20
+		}
+	]
+}

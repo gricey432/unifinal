@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Language Policy & Planning: Group Work ",
+			"weight": 20
+		},
+		{
+			"name": "Language Policy & Planning: Group work",
+			"weight": 10
+		},
+		{
+			"name": "Individual Write-Up",
+			"weight": 30
+		},
+		{
+			"name": "Minority Group in the News: Individual work",
+			"weight": 40
+		}
+	]
+}

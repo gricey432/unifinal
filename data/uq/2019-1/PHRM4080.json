@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Study Synopsis, Aims and Hypothesis",
+			"weight": 5
+		},
+		{
+			"name": "Literature Review",
+			"weight": 20
+		},
+		{
+			"name": "Research Plan Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Data Management Record",
+			"weight": 10
+		},
+		{
+			"name": "Final Presentation",
+			"weight": 15
+		}
+	]
+}

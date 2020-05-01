@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "In-depth exploration of a topic",
+			"weight": 50
+		},
+		{
+			"name": "Weekly diary entries",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A4 Exercise: Power, values and social problems",
+			"weight": 5
+		},
+		{
+			"name": "Film review of Food, Inc.",
+			"weight": 10
+		},
+		{
+			"name": "Research Conduct Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Major essay",
+			"weight": 35
+		},
+		{
+			"name": "Photovoice Project",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay on a Leadership Topic",
+			"weight": 30
+		},
+		{
+			"name": "Collation of Personal Learning",
+			"weight": 20
+		},
+		{
+			"name": "Learning Project Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Necropsy performance & reports",
+			"weight": 15
+		},
+		{
+			"name": "Review",
+			"weight": 45
+		}
+	]
+}

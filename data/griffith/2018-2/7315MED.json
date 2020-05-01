@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-Line Test",
+			"weight": 20
+		},
+		{
+			"name": "Evidence Based Briefing Document",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment of 2,500 words",
+			"weight": 50
+		}
+	]
+}

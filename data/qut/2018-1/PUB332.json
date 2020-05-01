@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Essay Questions",
+			"weight": 25
+		},
+		{
+			"name": "Presentation (Group Oral)",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 45
+		}
+	]
+}

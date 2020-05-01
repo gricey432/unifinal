@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Comprehensive Destination Case Study Report",
+			"weight": 60
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

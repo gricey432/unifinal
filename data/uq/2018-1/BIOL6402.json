@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short question assignment",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 50
+		},
+		{
+			"name": "Written report",
+			"weight": 30
+		},
+		{
+			"name": "Session attendance/participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Diary",
+			"weight": "Pass/Fail"
+		}
+	]
+}

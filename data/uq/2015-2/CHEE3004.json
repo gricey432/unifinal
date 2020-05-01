@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities and Project Consultations",
+			"weight": "to C: Manage your work and that of your team"
+		},
+		{
+			"name": "Design activities 1-4",
+			"weight": 20
+		},
+		{
+			"name": "Project 1",
+			"weight": 15
+		},
+		{
+			"name": "Project 2",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		},
+		{
+			"name": "Material balance and energy balance problem sets",
+			"weight": "Compulsory. Formative to B: Technical Calculations"
+		}
+	]
+}

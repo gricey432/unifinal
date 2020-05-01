@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for Internship",
+			"weight": 0
+		},
+		{
+			"name": "Reflection during internship",
+			"weight": 0
+		},
+		{
+			"name": "Evaluation of Internship",
+			"weight": 0
+		}
+	]
+}

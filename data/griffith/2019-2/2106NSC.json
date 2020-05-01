@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly assignments",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 30
+		},
+		{
+			"name": "Exam, 2 hrs",
+			"weight": 40
+		}
+	]
+}

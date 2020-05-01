@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "WEEK 4 - Individual Business Report",
+			"weight": 30
+		},
+		{
+			"name": "WEEK 11 Panel Interaction",
+			"weight": 10
+		},
+		{
+			"name": "WEEK 11 Industry Group project",
+			"weight": 20
+		},
+		{
+			"name": "Individual Final Examination",
+			"weight": 40
+		}
+	]
+}

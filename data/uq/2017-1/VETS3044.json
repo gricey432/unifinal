@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "30 days Pre-Clinical EMS",
+			"weight": "Program Milestone"
+		},
+		{
+			"name": "RCVS Online VN Clinical Placement Tool",
+			"weight": 10
+		},
+		{
+			"name": "Journal Article and Quiz",
+			"weight": 20
+		},
+		{
+			"name": "VETS3044 Written Examination",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal based on Clinical Placement ",
+			"weight": 20
+		},
+		{
+			"name": "Clinical/Industry Placement & One45 Entries",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

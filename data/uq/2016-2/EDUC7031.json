@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching ",
+			"weight": 20
+		},
+		{
+			"name": "Critique and Feedback",
+			"weight": 15
+		},
+		{
+			"name": "Review of empirical research ",
+			"weight": 25
+		},
+		{
+			"name": "Curriculum Development Project",
+			"weight": 40
+		}
+	]
+}

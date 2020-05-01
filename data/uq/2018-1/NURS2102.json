@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 50
+		},
+		{
+			"name": "Participation in Clinical Based Learning Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio ",
+			"weight": 10
+		}
+	]
+}

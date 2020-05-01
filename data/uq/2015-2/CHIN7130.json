@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional & ethical case analysis",
+			"weight": 40
+		},
+		{
+			"name": "Essay on theoretical and professional aspects",
+			"weight": 40
+		},
+		{
+			"name": "Class presentation",
+			"weight": 20
+		}
+	]
+}

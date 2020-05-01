@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online activity questions ",
+			"weight": 0
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": 0
+		},
+		{
+			"name": "Practical - pre prac completed in advance of prac",
+			"weight": 3
+		},
+		{
+			"name": "Tutorial",
+			"weight": 0
+		},
+		{
+			"name": "During practical sessions",
+			"weight": 36
+		},
+		{
+			"name": "Science Communication - First draft",
+			"weight": 0
+		},
+		{
+			"name": "Science Communication - Final draft",
+			"weight": 11
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

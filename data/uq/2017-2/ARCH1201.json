@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Analytical - Slice",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 - Conceptual - Shop Front",
+			"weight": 30
+		},
+		{
+			"name": "Project 3 - Schematic - Shop House",
+			"weight": 50
+		}
+	]
+}

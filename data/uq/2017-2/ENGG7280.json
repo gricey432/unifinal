@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Interim Report",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentations",
+			"weight": 0
+		},
+		{
+			"name": "Final Project report",
+			"weight": 85
+		},
+		{
+			"name": "Reflection on professional development",
+			"weight": 0
+		}
+	]
+}

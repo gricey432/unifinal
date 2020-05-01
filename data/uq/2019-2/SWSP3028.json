@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Child Protection Case Assessment (in class)",
+			"weight": 25
+		},
+		{
+			"name": "Workshop style seminar on Public Inquiries",
+			"weight": 25
+		},
+		{
+			"name": "Social Work Practice Workbook",
+			"weight": 50
+		}
+	]
+}

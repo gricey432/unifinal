@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Team and Individual Activities",
+			"weight": 45
+		},
+		{
+			"name": "Case Analysis Report/ Portfolio A and B",
+			"weight": 45
+		},
+		{
+			"name": "Log of Simulation - Everest",
+			"weight": 10
+		}
+	]
+}

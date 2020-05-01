@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "Participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Exam for NURS1006",
+			"weight": 50
+		}
+	]
+}

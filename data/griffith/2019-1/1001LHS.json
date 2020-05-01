@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of weekly worksheets (wks2-12)",
+			"weight": 30
+		},
+		{
+			"name": "Early In-class test (30 mins)",
+			"weight": 10
+		},
+		{
+			"name": "Mid-trimester Online Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

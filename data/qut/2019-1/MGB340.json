@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Internationalisation Bus plan",
+			"weight": 50
+		}
+	]
+}

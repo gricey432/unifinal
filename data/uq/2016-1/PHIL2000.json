@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Nutshell #1 ( max 500 words)",
+			"weight": 15
+		},
+		{
+			"name": "Nutshell #2 (max 500 words)",
+			"weight": 15
+		},
+		{
+			"name": "Final essay",
+			"weight": 40
+		},
+		{
+			"name": "Nutshell #3 (max 500 words)",
+			"weight": 15
+		}
+	]
+}

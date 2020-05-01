@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attend, attempt quizzes and exercises",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of hypothetical experiments",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of published journal articles",
+			"weight": 20
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

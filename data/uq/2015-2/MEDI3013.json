@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL (To pass the course, students must pass this regardless of marks in other assessments)"
+		},
+		{
+			"name": "Clinical Case Presentation",
+			"weight": "Equal"
+		},
+		{
+			"name": "Written Examination",
+			"weight": "Equal"
+		},
+		{
+			"name": "Health Project",
+			"weight": "Equal"
+		}
+	]
+}

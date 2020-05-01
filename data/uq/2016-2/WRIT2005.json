@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation & participation",
+			"weight": 10
+		},
+		{
+			"name": "Library seminar assignment",
+			"weight": 5
+		},
+		{
+			"name": "Research proposal",
+			"weight": 15
+		},
+		{
+			"name": "Annotated bibliography and literature review",
+			"weight": 30
+		},
+		{
+			"name": "Research essay",
+			"weight": 40
+		}
+	]
+}

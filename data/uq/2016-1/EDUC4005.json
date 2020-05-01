@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professionalism",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Teaching reports",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Teaching Folio",
+			"weight": "Pass / Fail"
+		}
+	]
+}

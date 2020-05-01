@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Specialist topic presentations",
+			"weight": 25
+		},
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

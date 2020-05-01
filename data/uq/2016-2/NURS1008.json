@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation Test",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment - Clinical Preparation ",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Participation in learning activities",
+			"weight": "NGP"
+		}
+	]
+}

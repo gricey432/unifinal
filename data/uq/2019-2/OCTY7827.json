@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "LINKS Fieldwork Assignment",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

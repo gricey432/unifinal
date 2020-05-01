@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Infectious disease diagnosis",
+			"weight": 30
+		},
+		{
+			"name": "Communication in Health",
+			"weight": 30
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Skills list",
+			"weight": 0
+		},
+		{
+			"name": "Mid-semester 1 exam",
+			"weight": 15
+		},
+		{
+			"name": "End of semester 1 Exam",
+			"weight": 20
+		},
+		{
+			"name": "Mid semester quiz",
+			"weight": 7
+		},
+		{
+			"name": "Diagnosis for body systems powerpoint",
+			"weight": 8
+		},
+		{
+			"name": "End of semester 2 exam",
+			"weight": 30
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 20
+		}
+	]
+}

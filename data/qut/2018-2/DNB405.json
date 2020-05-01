@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique",
+			"weight": 40
+		},
+		{
+			"name": "Discussion Paper",
+			"weight": 30
+		},
+		{
+			"name": "Critical or Speculative Design",
+			"weight": 30
+		}
+	]
+}

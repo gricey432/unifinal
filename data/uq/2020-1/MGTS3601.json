@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Change Strategies (REVISED)",
+			"weight": 45
+		},
+		{
+			"name": "Personal learning Reflective Essay (REVISED)",
+			"weight": 25
+		},
+		{
+			"name": "Change Case Analysis",
+			"weight": 30
+		}
+	]
+}

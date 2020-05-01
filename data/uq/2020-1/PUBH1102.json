@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Personal Health Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Task 2: Fieldwork Report",
+			"weight": 45
+		},
+		{
+			"name": "Task 3: A guide to health determinants",
+			"weight": 30
+		}
+	]
+}

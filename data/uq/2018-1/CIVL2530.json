@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Scientific Data Analysis",
+			"weight": 50
+		},
+		{
+			"name": "STAT2201 Out of Class Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Online Peer Assessment - Formative Feedback",
+			"weight": 0
+		},
+		{
+			"name": "Online Peer Assessment",
+			"weight": 0
+		},
+		{
+			"name": "STAT2201 Final Exam  40% hurdle requirement",
+			"weight": 30
+		}
+	]
+}

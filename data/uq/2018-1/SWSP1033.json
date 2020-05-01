@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Assessment 1: Self-Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Agency Visit and Essay",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Case Scenario Essay",
+			"weight": 40
+		}
+	]
+}

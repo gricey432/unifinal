@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment ",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW2007",
+			"weight": 50
+		}
+	]
+}

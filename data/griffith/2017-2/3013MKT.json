@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual reflective diary",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester test",
+			"weight": 20
+		},
+		{
+			"name": "Written report",
+			"weight": 40
+		}
+	]
+}

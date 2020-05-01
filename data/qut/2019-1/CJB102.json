@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Technical skills proficiency",
+			"weight": 40
+		},
+		{
+			"name": "Visual journalism project",
+			"weight": 60
+		}
+	]
+}

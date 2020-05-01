@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Collection and annotation of journal articles (1)",
+			"weight": 15
+		},
+		{
+			"name": "Poster describing a technological solution",
+			"weight": 40
+		},
+		{
+			"name": "Technology analysis",
+			"weight": 30
+		},
+		{
+			"name": "Collection and annotation of journal articles (2)",
+			"weight": 15
+		}
+	]
+}

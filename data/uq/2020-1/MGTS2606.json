@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Responses to Tutorial Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Case Review Analysis",
+			"weight": 50
+		}
+	]
+}

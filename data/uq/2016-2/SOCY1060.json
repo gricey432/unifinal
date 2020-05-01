@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial group participation",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation of analysis and Peer Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		},
+		{
+			"name": "Multiple choice and short answer exam",
+			"weight": 40
+		}
+	]
+}

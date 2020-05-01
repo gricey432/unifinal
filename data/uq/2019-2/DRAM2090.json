@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Greek Drama Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Seneca Group Presentation",
+			"weight": 40
+		}
+	]
+}

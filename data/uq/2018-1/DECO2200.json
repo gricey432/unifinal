@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": "Used to determine final grade"
+		},
+		{
+			"name": "Design Project: Just the Facts",
+			"weight": "Equal"
+		},
+		{
+			"name": "Design Project: Infographics",
+			"weight": "Equal"
+		},
+		{
+			"name": "Design Project: Portfolio",
+			"weight": "Equal"
+		}
+	]
+}

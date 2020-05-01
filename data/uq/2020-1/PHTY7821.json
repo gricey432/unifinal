@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback Quizzes (outside class time)",
+			"weight": 20
+		},
+		{
+			"name": "Palpation & Biomechanics Exam",
+			"weight": 15
+		},
+		{
+			"name": "Written Examination",
+			"weight": 30
+		},
+		{
+			"name": "Clinical reasoned summary, practical video",
+			"weight": 35
+		}
+	]
+}

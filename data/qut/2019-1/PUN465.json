@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental Noise Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Report",
+			"weight": 40
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 30
+		}
+	]
+}

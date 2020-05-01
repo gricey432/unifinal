@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Application of Agile Practices",
+			"weight": 20
+		},
+		{
+			"name": "Analysis and design project ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

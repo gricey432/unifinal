@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Portfolio and Viva",
+			"weight": 40
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 60
+		}
+	]
+}

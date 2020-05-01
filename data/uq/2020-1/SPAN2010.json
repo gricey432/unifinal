@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Oral Interview (ONLINE)",
+			"weight": 24
+		},
+		{
+			"name": "Written Compositions",
+			"weight": 5
+		},
+		{
+			"name": "Online revision quizzes",
+			"weight": 6
+		},
+		{
+			"name": "Oral presentation (WEEK 6)",
+			"weight": 10
+		},
+		{
+			"name": "Written Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 30
+		}
+	]
+}

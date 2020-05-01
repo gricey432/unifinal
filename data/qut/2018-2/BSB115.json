@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Managerial Insights",
+			"weight": 25
+		},
+		{
+			"name": "Business Report",
+			"weight": 50
+		}
+	]
+}

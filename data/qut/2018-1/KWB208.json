@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		},
+		{
+			"name": "Essay or Fictocritical Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment reports",
+			"weight": 60
+		},
+		{
+			"name": "Consulting competition",
+			"weight": 12
+		},
+		{
+			"name": "Project seminar",
+			"weight": 5
+		},
+		{
+			"name": "Project report",
+			"weight": 23
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Preparation Component",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Take-Home Examination",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Closed Book Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Rectifier Circuits ",
+			"weight": 7
+		},
+		{
+			"name": "Operational Amplifiers",
+			"weight": 7
+		},
+		{
+			"name": "BJT common-emitter amplifier",
+			"weight": 7
+		},
+		{
+			"name": "Wide bandwidth amplifiers and transmission lines",
+			"weight": 7
+		},
+		{
+			"name": "Digital electronics",
+			"weight": 7
+		},
+		{
+			"name": "Lectures 1-2",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 3-4",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 5-6",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 7-9",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 10-11",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 12-13",
+			"weight": 4
+		},
+		{
+			"name": "Lectures 14-16",
+			"weight": 4
+		},
+		{
+			"name": "End-of-semester written examination",
+			"weight": 37
+		}
+	]
+}

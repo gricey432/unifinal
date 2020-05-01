@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of two journal articles ",
+			"weight": 40
+		},
+		{
+			"name": "Plan and facilitate a focus group ",
+			"weight": 25
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 35
+		}
+	]
+}

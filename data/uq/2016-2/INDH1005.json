@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading responses",
+			"weight": 10
+		},
+		{
+			"name": "Indigenous health and the socio-cultural context",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Indigenous Health across the Lifecourse",
+			"weight": 35
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 15
+		}
+	]
+}

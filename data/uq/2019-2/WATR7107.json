@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Journal from in-class and computing activities",
+			"weight": 10
+		},
+		{
+			"name": "Project report 1 - Modelling study",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester quiz - 30 minutes",
+			"weight": 10
+		},
+		{
+			"name": "Project report 2 - Control and optimisation",
+			"weight": 10
+		},
+		{
+			"name": "Computing practical examination",
+			"weight": 10
+		},
+		{
+			"name": "Group Capstone Report",
+			"weight": 15
+		},
+		{
+			"name": "Present group outcomes from capstone project",
+			"weight": 5
+		},
+		{
+			"name": "Theory exam",
+			"weight": 30
+		}
+	]
+}

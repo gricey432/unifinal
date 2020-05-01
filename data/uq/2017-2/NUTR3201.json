@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active listening practical reports",
+			"weight": 15
+		},
+		{
+			"name": "Split mid-semester examination",
+			"weight": 30
+		},
+		{
+			"name": "Group presentation on a research question",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

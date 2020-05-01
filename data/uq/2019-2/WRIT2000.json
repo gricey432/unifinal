@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Writing, Editing or Style Guide Tasks (x10)",
+			"weight": 20
+		},
+		{
+			"name": "Proposal for final assessment task (500 words)",
+			"weight": 20
+		},
+		{
+			"name": "A Report (1700 words) and a re-write (300 words)",
+			"weight": 60
+		}
+	]
+}

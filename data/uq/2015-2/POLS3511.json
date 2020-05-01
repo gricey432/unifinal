@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Short answer quiz",
+			"weight": 20
+		},
+		{
+			"name": "Conflict map of a post-conflict country",
+			"weight": 30
+		},
+		{
+			"name": "Critical evaluation of peacebuilding effort ",
+			"weight": 40
+		}
+	]
+}

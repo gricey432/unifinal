@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet 1",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 2",
+			"weight": 5
+		},
+		{
+			"name": "Language Profile",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 3",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 4",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 5",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 6",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 7",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 8",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 9",
+			"weight": 5
+		},
+		{
+			"name": "Worksheet 10",
+			"weight": 5
+		},
+		{
+			"name": "Final take home exam",
+			"weight": 40
+		}
+	]
+}

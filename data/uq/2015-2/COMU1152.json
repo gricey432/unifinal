@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PR Writing Foundations and Writing for the Media",
+			"weight": 20
+		},
+		{
+			"name": "Digital Communication Tools",
+			"weight": 35
+		},
+		{
+			"name": "Portfolio and Showcase Presentation",
+			"weight": 45
+		}
+	]
+}

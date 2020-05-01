@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Modelling accessibility",
+			"weight": 25
+		},
+		{
+			"name": "Spatial statistical analysis",
+			"weight": 25
+		},
+		{
+			"name": "3D modelling",
+			"weight": 20
+		},
+		{
+			"name": "Final",
+			"weight": 30
+		}
+	]
+}

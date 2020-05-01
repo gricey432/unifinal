@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Video Presentation & Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Discussion of Video Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Research paper",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

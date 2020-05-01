@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Protocol for systematic review",
+			"weight": 30
+		},
+		{
+			"name": "Systematic search strategy ",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Systematic Review",
+			"weight": 70
+		}
+	]
+}

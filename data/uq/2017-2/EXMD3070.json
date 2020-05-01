@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Motor Active peformance",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		},
+		{
+			"name": "Motor Active peformance",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Viva Voce",
+			"weight": 25
+		},
+		{
+			"name": "End of Module Test",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

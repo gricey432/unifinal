@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Forum",
+			"weight": 20
+		},
+		{
+			"name": "Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Outline for research paper",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal",
+			"weight": 50
+		},
+		{
+			"name": "Journal article referee report",
+			"weight": 25
+		},
+		{
+			"name": "Journal article referee report",
+			"weight": 25
+		}
+	]
+}

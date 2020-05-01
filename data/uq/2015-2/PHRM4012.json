@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Therapeutics Quiz One",
+			"weight": 2
+		},
+		{
+			"name": "Ethics Quiz ",
+			"weight": 2
+		},
+		{
+			"name": "Therapeutics Quiz Two",
+			"weight": 2
+		},
+		{
+			"name": "Therapeutics Quiz Three",
+			"weight": 2
+		},
+		{
+			"name": "Dispensing and Checking",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Patient Integrated Case mid-semester exam",
+			"weight": 16
+		},
+		{
+			"name": "Therapeutics Quiz Four",
+			"weight": 2
+		},
+		{
+			"name": "Therapeutics Quiz Five",
+			"weight": 2
+		},
+		{
+			"name": "OSCE Oral Exam",
+			"weight": 24
+		},
+		{
+			"name": "PHRM4012 written exam",
+			"weight": 48
+		}
+	]
+}

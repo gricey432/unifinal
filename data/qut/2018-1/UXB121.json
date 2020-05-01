@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/Test",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Theory examination",
+			"weight": 35
+		},
+		{
+			"name": "Toxicology scenario group online presentation",
+			"weight": 10
+		},
+		{
+			"name": "Toxic plant, fungi, cyanobacteria identification",
+			"weight": 5
+		},
+		{
+			"name": "VIVA",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester 2 theory exam",
+			"weight": 30
+		}
+	]
+}

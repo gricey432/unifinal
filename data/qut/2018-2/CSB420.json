@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial tasks",
+			"weight": 25
+		},
+		{
+			"name": "OSCE",
+			"weight": 45
+		},
+		{
+			"name": "Open book exam",
+			"weight": 30
+		}
+	]
+}

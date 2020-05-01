@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Trip Orientation Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Reflective Journal",
+			"weight": 50
+		},
+		{
+			"name": "Japan Tour Opinion Piece",
+			"weight": 30
+		}
+	]
+}

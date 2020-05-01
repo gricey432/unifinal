@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lessons 1-9",
+			"weight": 20
+		},
+		{
+			"name": "Turfgrass Species identification",
+			"weight": 5
+		},
+		{
+			"name": "Elite Sports Turf installations",
+			"weight": 5
+		},
+		{
+			"name": "A major Australian turfgrass disease",
+			"weight": 20
+		},
+		{
+			"name": "Non-Elite Sports Turf installations",
+			"weight": 5
+		},
+		{
+			"name": "Turfgrass production farm",
+			"weight": 5
+		},
+		{
+			"name": "Final exam - All lessons, field days and pracs.",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Paper / Lecture-demonstration",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Portfolio of Artistic Research",
+			"weight": 100
+		}
+	]
+}

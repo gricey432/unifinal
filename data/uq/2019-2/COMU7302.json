@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder and Issues Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Simulated media conference",
+			"weight": 20
+		},
+		{
+			"name": "Crisis Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Crisis Analysis",
+			"weight": 10
+		}
+	]
+}

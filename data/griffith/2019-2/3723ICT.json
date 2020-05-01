@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment - Interaction Design",
+			"weight": 60
+		},
+		{
+			"name": "Assessed Laboratory Activities",
+			"weight": 20
+		},
+		{
+			"name": "In class design challenge",
+			"weight": 20
+		}
+	]
+}

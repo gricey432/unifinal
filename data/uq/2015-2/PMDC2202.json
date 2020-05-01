@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Behavioural Conditions and Emergencies Project",
+			"weight": 25
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Written Exam",
+			"weight": 45
+		}
+	]
+}

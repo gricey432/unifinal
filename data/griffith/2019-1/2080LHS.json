@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Computer Mediated Activities (OCMA).",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "First Written Exam",
+			"weight": 20
+		},
+		{
+			"name": "Second Written Exam",
+			"weight": 20
+		},
+		{
+			"name": "Oral Interview",
+			"weight": 20
+		}
+	]
+}

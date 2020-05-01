@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "INFS4205 Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "INFS4205 Assignment 2",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

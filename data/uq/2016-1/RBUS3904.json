@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual submissions, practice questions, MCQs.",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Valuation Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - Closed Book",
+			"weight": 50
+		}
+	]
+}

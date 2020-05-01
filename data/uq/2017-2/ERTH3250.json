@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Practicals",
+			"weight": 18
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 17
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

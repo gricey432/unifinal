@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 15
+		},
+		{
+			"name": "Problem Solving Assignments",
+			"weight": 15
+		},
+		{
+			"name": "MasteringPhysics Online Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		}
+	]
+}

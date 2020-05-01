@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Discussion Forum",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Case Management Presentations",
+			"weight": 60
+		},
+		{
+			"name": "Skin Cancer Case Study Essays",
+			"weight": 30
+		}
+	]
+}

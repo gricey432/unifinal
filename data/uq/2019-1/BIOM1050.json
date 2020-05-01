@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirement at PASS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Minimum participation requirement at Workshops",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report - Toad Anatomy",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 5
+		},
+		{
+			"name": "Practical Core Competencies (4)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 55
+		}
+	]
+}

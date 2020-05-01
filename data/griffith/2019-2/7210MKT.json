@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Observational Research & Consumer Audit ",
+			"weight": 25
+		},
+		{
+			"name": "Customer Journey Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Online Consumer Behaviour Case Study",
+			"weight": 35
+		}
+	]
+}

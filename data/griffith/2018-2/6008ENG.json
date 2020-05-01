@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Informational Interview",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Professional Practice Log Book",
+			"weight": 50
+		}
+	]
+}

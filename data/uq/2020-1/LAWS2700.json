@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar preparation, presentations, exercises",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1: Case analysis",
+			"weight": 35
+		},
+		{
+			"name": "Assignment 2: research, law reform",
+			"weight": 60
+		}
+	]
+}

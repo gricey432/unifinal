@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Templates Online",
+			"weight": "Grade restriction"
+		},
+		{
+			"name": "Academic Integrity Tutorial (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Preliminary Investigation Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Project Scheduling Package (Team)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Team Project Peer Assessment (Individual)",
+			"weight": "P/F - Affects team marks"
+		},
+		{
+			"name": "Compulsory Zoom Online Sessions (Individual)",
+			"weight": "See details"
+		},
+		{
+			"name": "Demo Day! (Team, online)",
+			"weight": 20
+		},
+		{
+			"name": "Logbook (Individual)",
+			"weight": 25
+		},
+		{
+			"name": "Team Project Report (Team)",
+			"weight": 35
+		}
+	]
+}

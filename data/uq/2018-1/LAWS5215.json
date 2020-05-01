@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Plan & Answers to 2 x Tutorial Problem Questions",
+			"weight": 10
+		},
+		{
+			"name": "Critique and Re-drafting of a Statement of Claim",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on Court Observation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

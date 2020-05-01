@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Course TEST",
+			"weight": 30
+		},
+		{
+			"name": "Group Case Study - Strategic Planning",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

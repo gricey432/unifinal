@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation, writing, and participation",
+			"weight": 15
+		},
+		{
+			"name": "OED close reading essay",
+			"weight": 30
+		},
+		{
+			"name": "Research essay annotated bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

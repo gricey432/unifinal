@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review",
+			"weight": 10
+		},
+		{
+			"name": "Bach Studies Essay",
+			"weight": 35
+		},
+		{
+			"name": "Literature & Peer Review",
+			"weight": 10
+		},
+		{
+			"name": "Honours research proposal",
+			"weight": 45
+		}
+	]
+}

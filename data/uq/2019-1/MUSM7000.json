@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly in-class and online participation",
+			"weight": 10
+		},
+		{
+			"name": "Short essay",
+			"weight": 30
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Long essay",
+			"weight": 40
+		}
+	]
+}

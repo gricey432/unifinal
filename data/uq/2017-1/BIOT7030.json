@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pharmaco Debate",
+			"weight": 20
+		},
+		{
+			"name": "Essay-style report",
+			"weight": 10
+		},
+		{
+			"name": "Licensing Negotiation",
+			"weight": 10
+		},
+		{
+			"name": "Theory",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 35
+		},
+		{
+			"name": "Weekly Reflections Blog",
+			"weight": 25
+		},
+		{
+			"name": "Reflection of Partnership Approach",
+			"weight": 40
+		}
+	]
+}

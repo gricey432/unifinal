@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Heritage Law Problem ",
+			"weight": 50
+		},
+		{
+			"name": "Research paper",
+			"weight": 50
+		}
+	]
+}

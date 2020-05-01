@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Summary",
+			"weight": 4
+		},
+		{
+			"name": "Reading Comprehension",
+			"weight": 16
+		},
+		{
+			"name": "Grammar",
+			"weight": 25
+		},
+		{
+			"name": "Film Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Individual Interview",
+			"weight": 25
+		}
+	]
+}

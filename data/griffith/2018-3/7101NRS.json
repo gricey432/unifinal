@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis Essay",
+			"weight": 30
+		},
+		{
+			"name": "Structured Essay - Self Development Plan",
+			"weight": 30
+		},
+		{
+			"name": "Powerpoint Presentation with voice over and notes",
+			"weight": 40
+		}
+	]
+}

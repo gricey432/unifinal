@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution 1",
+			"weight": 7
+		},
+		{
+			"name": "Project Execution 2",
+			"weight": 7
+		},
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": 0
+		},
+		{
+			"name": "OHS",
+			"weight": "PASS / FAIL"
+		},
+		{
+			"name": "<200 word Abstract, electronic submission",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Seminar 1",
+			"weight": 5
+		},
+		{
+			"name": "Interim Report 1",
+			"weight": 10
+		},
+		{
+			"name": "<200 word Abstract, electronic submission",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Seminar 2",
+			"weight": 10
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 60
+		}
+	]
+}

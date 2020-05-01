@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "research proposal",
+			"weight": 10
+		},
+		{
+			"name": "book review",
+			"weight": 10
+		},
+		{
+			"name": "seminar presentation, attendance",
+			"weight": 15
+		},
+		{
+			"name": "research paper",
+			"weight": 65
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Court Observation & Reflection ",
+			"weight": 25
+		},
+		{
+			"name": "Information Sheet & Reflection",
+			"weight": 35
+		},
+		{
+			"name": "Advocacy Plan & Court Report",
+			"weight": 40
+		}
+	]
+}

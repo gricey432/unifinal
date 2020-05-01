@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 30
+		},
+		{
+			"name": "Reading Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Writing Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Thesis Summaries",
+			"weight": 30
+		},
+		{
+			"name": "Two Presentations and student-led discussion",
+			"weight": 30
+		},
+		{
+			"name": "Contribution to Discussion & Debate",
+			"weight": 15
+		},
+		{
+			"name": "Working Paper Review",
+			"weight": 10
+		},
+		{
+			"name": "Draft thesis plan and peer review",
+			"weight": 10
+		},
+		{
+			"name": "Essay on Theoretical/Methodological Topic",
+			"weight": 25
+		},
+		{
+			"name": "Mock Journal Abstract",
+			"weight": 10
+		}
+	]
+}

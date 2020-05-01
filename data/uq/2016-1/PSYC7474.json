@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Ethical, Legal and Professional Conduct",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review & Proposed Methodology",
+			"weight": 40
+		}
+	]
+}

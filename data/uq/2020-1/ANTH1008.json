@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation during the course",
+			"weight": 10
+		},
+		{
+			"name": "150 word summaries of articles",
+			"weight": 20
+		},
+		{
+			"name": "800 word Observation Description",
+			"weight": 25
+		},
+		{
+			"name": "Final Essay & Coded Notes",
+			"weight": 45
+		}
+	]
+}

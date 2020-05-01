@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Key References",
+			"weight": 25
+		},
+		{
+			"name": "Organisation Strategic Research Plan",
+			"weight": 30
+		},
+		{
+			"name": "Organisation Research Tender",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "WEEKLY TUTORIAL ACTIVITIES",
+			"weight": 16
+		},
+		{
+			"name": "RESEARCH PROPOSAL PRESENTATION",
+			"weight": 10
+		},
+		{
+			"name": "RESEARCH ANALYSIS ASSIGNMENT",
+			"weight": 24
+		},
+		{
+			"name": "END OF SEMESTER EXAM",
+			"weight": 50
+		}
+	]
+}

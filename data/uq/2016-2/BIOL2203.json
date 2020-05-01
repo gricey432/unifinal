@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Plant Evolution and Biodiversity",
+			"weight": 15
+		},
+		{
+			"name": "Critique of current issue in plant biology",
+			"weight": 10
+		},
+		{
+			"name": "Plant hormone experiment report",
+			"weight": 15
+		},
+		{
+			"name": "Plant-environment research outcomes",
+			"weight": 15
+		},
+		{
+			"name": "Biotechnology scientific paper",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

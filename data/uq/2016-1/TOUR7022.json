@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "The Great Tourism & Social Sciences Forum",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

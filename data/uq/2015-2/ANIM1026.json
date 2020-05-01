@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mammal Community",
+			"weight": 20
+		},
+		{
+			"name": "Development of a dichotomous key for snakes",
+			"weight": 15
+		},
+		{
+			"name": "Skulls, scats and traces laboratory practicals",
+			"weight": 25
+		},
+		{
+			"name": "Seminar summarizing scientific paper",
+			"weight": 5
+		},
+		{
+			"name": "Bird and Field practical reports",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 25
+		}
+	]
+}

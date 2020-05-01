@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Contribution",
+			"weight": 20
+		},
+		{
+			"name": "On-line fortnightly tests",
+			"weight": 30
+		},
+		{
+			"name": "Online assignment",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Short Answer Questions",
+			"weight": 20
+		}
+	]
+}

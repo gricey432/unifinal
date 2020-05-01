@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on L2 writing classroom observation",
+			"weight": 25
+		},
+		{
+			"name": "Position on feedback in L2 writing",
+			"weight": 25
+		},
+		{
+			"name": "Instructional materials / accompanying rationale",
+			"weight": 50
+		}
+	]
+}

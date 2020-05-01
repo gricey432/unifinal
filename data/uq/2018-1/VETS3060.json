@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester 1 exam",
+			"weight": 15
+		},
+		{
+			"name": "End of semester 1 Exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical skills examation (PSE)",
+			"weight": 15
+		},
+		{
+			"name": "End of semester 2 exam",
+			"weight": 30
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 20
+		}
+	]
+}

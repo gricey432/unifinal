@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Surviving a Pandemic",
+			"weight": 8
+		},
+		{
+			"name": "The Future of Food",
+			"weight": 8
+		},
+		{
+			"name": "Going to Mars",
+			"weight": 8
+		},
+		{
+			"name": "Towards an Artificial Brain",
+			"weight": 8
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 8
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Modules, Symposium and Conference",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "3 Minute Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Researcher Profile",
+			"weight": 15
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		}
+	]
+}

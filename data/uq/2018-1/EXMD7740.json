@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "3 x blackboard quizzes during lecture times",
+			"weight": 45
+		},
+		{
+			"name": "Evidence-based practice and clinic competency",
+			"weight": 40
+		},
+		{
+			"name": "Examination of practical skills and prescription",
+			"weight": 15
+		}
+	]
+}

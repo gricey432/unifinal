@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1",
+			"weight": 10
+		},
+		{
+			"name": "Module 2",
+			"weight": 10
+		},
+		{
+			"name": "Module 3",
+			"weight": 10
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 10
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Modules, Symposium and Conference",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "3 Minute Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Researcher Profile",
+			"weight": 15
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		}
+	]
+}

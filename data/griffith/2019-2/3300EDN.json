@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Creating an Inclusive Culture",
+			"weight": 40
+		},
+		{
+			"name": "Student-Centred Planning for Inclusion",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mainstream Cohort - Assessment Task 1",
+			"weight": 10
+		},
+		{
+			"name": "Mainstream Cohort - Assessment Task 2a, 10 minutes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mainstream Cohort - Assessment Task 2b",
+			"weight": 30
+		},
+		{
+			"name": "Mainstream Cohort - Assessment Task 3a, 20 minutes",
+			"weight": 20
+		},
+		{
+			"name": "Mainstream Cohort - Assessment Task 3b",
+			"weight": 40
+		},
+		{
+			"name": "Honours Cohort - Assessment Task 1",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Confidentiality Statement",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Application for Project Ethics + Project  approval",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Placement Diary",
+			"weight": 10
+		},
+		{
+			"name": "QUM Research Placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "QUM Research Reports (Written & Powerpoint upload)",
+			"weight": 35
+		},
+		{
+			"name": "QUM Research Project Oral Presentation (delivery)",
+			"weight": 35
+		},
+		{
+			"name": "QUM Research Oral presentation Attendance",
+			"weight": "Compulsory"
+		}
+	]
+}

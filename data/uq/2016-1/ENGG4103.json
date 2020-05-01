@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment No.1 Maintenance Strategy Formulation",
+			"weight": 30
+		},
+		{
+			"name": "Practical No 1 Weibull/component replacement",
+			"weight": 10
+		},
+		{
+			"name": "Assignment No.2 - Individual",
+			"weight": 30
+		},
+		{
+			"name": "Practical No.2 Capital Replacement",
+			"weight": 10
+		},
+		{
+			"name": "Assignment No.3 Mine Services Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Quiz - Physical Asset Management",
+			"weight": 20
+		}
+	]
+}

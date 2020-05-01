@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1. M-estimation and simultaneous equations model",
+			"weight": 12
+		},
+		{
+			"name": "2. Linear panel; Bootstrap; Quantile regression",
+			"weight": 12
+		},
+		{
+			"name": "3. Bayesian analysis",
+			"weight": 12
+		},
+		{
+			"name": "4. Nonparametric estimation",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

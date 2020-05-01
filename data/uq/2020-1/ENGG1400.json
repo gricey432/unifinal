@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Classes",
+			"weight": 5
+		},
+		{
+			"name": "Contact Classes",
+			"weight": 0
+		},
+		{
+			"name": "Statics Weekly Assignment",
+			"weight": 12
+		},
+		{
+			"name": "Dynamics Weekly Assignment",
+			"weight": 8
+		},
+		{
+			"name": "Statics On-Line Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Statics On-Line Quiz #2",
+			"weight": 10
+		},
+		{
+			"name": "Statics On-Line Quiz #3",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam - Online Non-invigilated Timed Test",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "EBP knowledge and skills pre-test",
+			"weight": "To pass the course, students must complete this learning activity"
+		},
+		{
+			"name": "Critical appraisal of a selected journal article",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Application of EBP knowledge and skills",
+			"weight": "Pass/Fail"
+		}
+	]
+}

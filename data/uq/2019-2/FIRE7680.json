@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1 - Tender",
+			"weight": 10
+		},
+		{
+			"name": "Report 2 - Egress and smoke management design",
+			"weight": 20
+		},
+		{
+			"name": "Presentation #1",
+			"weight": 10
+		},
+		{
+			"name": "Report 3 - Structural fire engineering design",
+			"weight": 20
+		},
+		{
+			"name": "Presentation #2",
+			"weight": 20
+		},
+		{
+			"name": "Report 4 - Fire Safety Engineering Report",
+			"weight": 20
+		}
+	]
+}

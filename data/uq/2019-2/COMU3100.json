@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal: 1500 words",
+			"weight": 25
+		},
+		{
+			"name": "Midterm Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Final Presentation and Project",
+			"weight": 30
+		},
+		{
+			"name": "Peer Feedback 1",
+			"weight": 10
+		},
+		{
+			"name": "Peer Feedback 2",
+			"weight": 10
+		}
+	]
+}

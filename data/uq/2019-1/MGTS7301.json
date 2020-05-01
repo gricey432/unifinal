@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly case Q&A",
+			"weight": 10
+		},
+		{
+			"name": "Case analysis using Minto pyramid",
+			"weight": 20
+		},
+		{
+			"name": "Simulation-based assessments",
+			"weight": 30
+		},
+		{
+			"name": "Final exam (2 hours)",
+			"weight": 40
+		}
+	]
+}

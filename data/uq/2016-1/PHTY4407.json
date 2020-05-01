@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Complex Case Written Project",
+			"weight": 40
+		},
+		{
+			"name": "Complex Case Practice-Based Outcomes Project",
+			"weight": 60
+		}
+	]
+}

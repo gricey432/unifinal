@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "4 x Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Primary Source Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Essay Proposal and Annotated Bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Term Essay",
+			"weight": 40
+		}
+	]
+}

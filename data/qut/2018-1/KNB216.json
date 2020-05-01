@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Storyboards and Animatics",
+			"weight": 40
+		},
+		{
+			"name": "Production Development",
+			"weight": 60
+		}
+	]
+}

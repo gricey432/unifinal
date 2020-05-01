@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Evidence based professional portfolio (25 mins)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory Online Weekly Participation",
+			"weight": 25
+		},
+		{
+			"name": "Written Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Written Test 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 35
+		}
+	]
+}

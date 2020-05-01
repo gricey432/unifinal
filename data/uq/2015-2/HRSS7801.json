@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": 90
+		},
+		{
+			"name": "Project management skills mark",
+			"weight": 10
+		}
+	]
+}

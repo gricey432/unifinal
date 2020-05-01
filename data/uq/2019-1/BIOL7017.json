@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Assignment ",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester theory exam",
+			"weight": 10
+		},
+		{
+			"name": "Disease Collection",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

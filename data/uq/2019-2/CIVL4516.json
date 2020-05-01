@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Team Assessment - Phase 2 environmental assessment",
+			"weight": 0
+		},
+		{
+			"name": "Team Assessment - Phase 1 Infrastructure design",
+			"weight": 0
+		},
+		{
+			"name": "Design report - Phase 1 Infrastructure design",
+			"weight": 40
+		},
+		{
+			"name": "Design report - Phase 2 environmental assessment",
+			"weight": 40
+		},
+		{
+			"name": "Team Assessment - The Pitch",
+			"weight": 0
+		},
+		{
+			"name": "Electronic logbook",
+			"weight": 0
+		},
+		{
+			"name": "Pitch to private investors and govt agencies",
+			"weight": 20
+		}
+	]
+}

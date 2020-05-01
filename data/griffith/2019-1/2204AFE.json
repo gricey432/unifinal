@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group project",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

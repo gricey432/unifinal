@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "CAM continuing assessment",
+			"weight": 10
+		},
+		{
+			"name": "CAD CREO Basic Skills",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "CAD Rim Wheel Design",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

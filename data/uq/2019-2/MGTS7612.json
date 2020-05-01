@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contemporary Practice in Org Design and Staffing",
+			"weight": 30
+		},
+		{
+			"name": "Recruitment & Selection Strategy",
+			"weight": 50
+		},
+		{
+			"name": "Organisational Design",
+			"weight": 20
+		}
+	]
+}

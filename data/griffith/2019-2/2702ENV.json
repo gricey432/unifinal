@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Small plant assessment item ",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		},
+		{
+			"name": "Vegetation Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Practical exam",
+			"weight": 10
+		}
+	]
+}

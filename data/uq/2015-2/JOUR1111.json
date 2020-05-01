@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation and attendance",
+			"weight": 10
+		},
+		{
+			"name": "Media use log",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final essay",
+			"weight": 30
+		}
+	]
+}

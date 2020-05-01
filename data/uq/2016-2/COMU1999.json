@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Elements of Visual Language",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio - Work In Progress",
+			"weight": 30
+		},
+		{
+			"name": "Final Portfolio",
+			"weight": 50
+		}
+	]
+}

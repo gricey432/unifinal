@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Topic, aim, questions and introduction",
+			"weight": 0
+		},
+		{
+			"name": "Project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Written project proposal",
+			"weight": 50
+		},
+		{
+			"name": "Comprehensive final exam",
+			"weight": 35
+		}
+	]
+}

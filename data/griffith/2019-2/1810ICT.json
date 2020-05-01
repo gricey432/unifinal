@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Scripting Languages",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 - Databases",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3 - User Interfaces",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Writing Craft",
+			"weight": 30
+		},
+		{
+			"name": "Presentation - Three Minute Synopsis",
+			"weight": 10
+		},
+		{
+			"name": "Opening Scenes of a Novel",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Cultural and language trivia discussion board",
+			"weight": 5
+		},
+		{
+			"name": "Weekly worksheets and writing prompts",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester oral interview",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		},
+		{
+			"name": "End-of-semester oral interview",
+			"weight": 15
+		}
+	]
+}

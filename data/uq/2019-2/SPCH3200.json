@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Description and Management of a Child",
+			"weight": 40
+		},
+		{
+			"name": "Key Word Signing Video Submission",
+			"weight": 25
+		},
+		{
+			"name": "Indigenous health online module",
+			"weight": 5
+		},
+		{
+			"name": "Planning a Culturally Responsive Child Assessment",
+			"weight": 20
+		}
+	]
+}

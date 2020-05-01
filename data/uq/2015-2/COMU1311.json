@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Intercultural Project Report (2000 words)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

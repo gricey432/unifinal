@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Tech Philosophy",
+			"weight": 35
+		},
+		{
+			"name": "Website Demo Sketches",
+			"weight": 10
+		},
+		{
+			"name": "Website Demo",
+			"weight": 35
+		},
+		{
+			"name": "Industry Pitch",
+			"weight": 20
+		}
+	]
+}

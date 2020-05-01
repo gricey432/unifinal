@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Pleading Problem",
+			"weight": 30
+		},
+		{
+			"name": "Topic agreed between student & course co-ordinator",
+			"weight": 60
+		}
+	]
+}

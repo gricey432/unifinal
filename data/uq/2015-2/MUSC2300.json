@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Music Life Story",
+			"weight": 20
+		},
+		{
+			"name": "Literature review",
+			"weight": 35
+		},
+		{
+			"name": "written exam",
+			"weight": 45
+		}
+	]
+}

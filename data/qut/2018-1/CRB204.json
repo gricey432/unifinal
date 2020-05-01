@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Log",
+			"weight": 60
+		},
+		{
+			"name": "Teaching Plan",
+			"weight": 40
+		}
+	]
+}

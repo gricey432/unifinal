@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "01_CONCEPT: Tall Timber Office Building",
+			"weight": 30
+		},
+		{
+			"name": "02_DEVELOPMENT: Facade Concept",
+			"weight": 30
+		},
+		{
+			"name": "03 TRANSLATION - Detailed Office Floor Plan",
+			"weight": 40
+		}
+	]
+}

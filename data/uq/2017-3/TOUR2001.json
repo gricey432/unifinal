@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Pop Quiz *HURDLE",
+			"weight": 50
+		},
+		{
+			"name": "Facility Design",
+			"weight": 50
+		}
+	]
+}

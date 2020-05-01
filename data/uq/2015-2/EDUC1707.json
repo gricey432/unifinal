@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal literacy profile",
+			"weight": 30
+		},
+		{
+			"name": "Knowledge of language and literacy",
+			"weight": 40
+		},
+		{
+			"name": "Literacy learning story",
+			"weight": 30
+		}
+	]
+}

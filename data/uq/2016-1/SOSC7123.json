@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Naming the Issue",
+			"weight": 5
+		},
+		{
+			"name": "Strategy for Change",
+			"weight": 50
+		},
+		{
+			"name": "Evaluating Your Strategy",
+			"weight": 45
+		}
+	]
+}

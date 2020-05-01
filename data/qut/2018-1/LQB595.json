@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Skills",
+			"weight": 35
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 30
+		},
+		{
+			"name": "Conference presentation",
+			"weight": 35
+		}
+	]
+}

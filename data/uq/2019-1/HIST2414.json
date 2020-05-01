@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First essay",
+			"weight": 30
+		},
+		{
+			"name": "Second essay",
+			"weight": 50
+		},
+		{
+			"name": "tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercise",
+			"weight": 10
+		}
+	]
+}

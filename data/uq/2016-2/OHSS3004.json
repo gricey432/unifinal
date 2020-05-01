@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "OHSMS Case Study",
+			"weight": 25
+		},
+		{
+			"name": "OHS Management System Audit Report",
+			"weight": 20
+		},
+		{
+			"name": "Current Approaches to OHS Management",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

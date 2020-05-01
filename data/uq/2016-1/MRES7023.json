@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Online quiz based on modules",
+			"weight": 15
+		},
+		{
+			"name": "Compulsory online tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

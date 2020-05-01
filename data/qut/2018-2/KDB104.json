@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Forum",
+			"weight": 40
+		},
+		{
+			"name": "Examination (practical)",
+			"weight": 60
+		}
+	]
+}

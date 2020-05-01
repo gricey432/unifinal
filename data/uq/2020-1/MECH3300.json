@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Fracture Prac A experiments, submissions & test",
+			"weight": 6
+		},
+		{
+			"name": "FEA Tutorial Short Report",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac B experiments, submissions & test",
+			"weight": 4
+		},
+		{
+			"name": "Energy method assignment",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac C experiments, submission & test",
+			"weight": 6
+		},
+		{
+			"name": "FEA Project Report Submission",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 64
+		}
+	]
+}

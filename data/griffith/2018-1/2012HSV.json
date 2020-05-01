@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Self-evaluation essay",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis of case management practice",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Self-evaluation essay",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis of case management practice",
+			"weight": 30
+		},
+		{
+			"name": "End of semster exam",
+			"weight": 40
+		}
+	]
+}

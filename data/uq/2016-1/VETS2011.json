@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Physiology practical continuous assessment",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester theory exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester practical exam",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Group oral presentation",
+			"weight": 20
+		},
+		{
+			"name": "Theory exam",
+			"weight": 20
+		},
+		{
+			"name": "Anatomy practical exam",
+			"weight": 15
+		}
+	]
+}

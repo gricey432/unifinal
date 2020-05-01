@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Self Experimentation Paper and Video",
+			"weight": 35
+		},
+		{
+			"name": "Reddit Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Episode 1 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 2 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 3 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 4 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 5 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 6 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 7 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 8 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 9 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 10 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Episode 11 Quiz",
+			"weight": 0
+		}
+	]
+}

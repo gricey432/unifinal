@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article Analyses",
+			"weight": 25
+		},
+		{
+			"name": "Article Review Paper",
+			"weight": 20
+		},
+		{
+			"name": "Conceptual Paper ",
+			"weight": 55
+		}
+	]
+}

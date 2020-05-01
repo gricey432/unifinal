@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online self-study quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Daily class quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 - Rock and fluid properties",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term in class quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - well influx problem",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment on Module 1 (Spanish cinema)",
+			"weight": 15
+		},
+		{
+			"name": "Assignment on Module 2 (German cinema)",
+			"weight": 15
+		},
+		{
+			"name": "Assignment on Module 3 (French cinema)",
+			"weight": 15
+		},
+		{
+			"name": "Assignment on Module 4 (Russian cinema)",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

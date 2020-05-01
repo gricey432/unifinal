@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial worksheets",
+			"weight": 9
+		},
+		{
+			"name": "Kanji Tests x 5",
+			"weight": 25
+		},
+		{
+			"name": "Short writings x 3",
+			"weight": 21
+		},
+		{
+			"name": "In-Class Writing ",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

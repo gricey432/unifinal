@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Blog Entries (1,000 words) and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Reflection Essay (1,500 words)",
+			"weight": 35
+		},
+		{
+			"name": "Major Research Essay (3,500 words)",
+			"weight": 50
+		}
+	]
+}

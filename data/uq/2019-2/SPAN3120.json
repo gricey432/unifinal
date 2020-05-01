@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participacion and attendance",
+			"weight": 4
+		},
+		{
+			"name": "Tareas evaluadas",
+			"weight": 8
+		},
+		{
+			"name": "Prueba 1",
+			"weight": 24
+		},
+		{
+			"name": "Composition -listening comprehension-",
+			"weight": 10
+		},
+		{
+			"name": "Patrimonios de la humanidad del mundo hispano",
+			"weight": 20
+		},
+		{
+			"name": "Reading comprehension",
+			"weight": 10
+		},
+		{
+			"name": "Written test 2",
+			"weight": 24
+		}
+	]
+}

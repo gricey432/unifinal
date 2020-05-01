@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Written Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Group AV Production (Micro Doc)",
+			"weight": 45
+		},
+		{
+			"name": "Class participation and Seminar Presentation",
+			"weight": 15
+		}
+	]
+}

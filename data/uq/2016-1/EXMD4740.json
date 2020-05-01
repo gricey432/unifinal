@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Mid Semester theory exam",
+			"weight": 10
+		},
+		{
+			"name": "Competency in musculoskeletal assessment and rehab",
+			"weight": 40
+		},
+		{
+			"name": "Examination of practical skills and prescription",
+			"weight": 25
+		},
+		{
+			"name": "Theory exam",
+			"weight": 25
+		}
+	]
+}

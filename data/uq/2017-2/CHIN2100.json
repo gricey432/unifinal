@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Reading test ",
+			"weight": 15
+		},
+		{
+			"name": "Drama Project",
+			"weight": 20
+		},
+		{
+			"name": "Aural Test",
+			"weight": 25
+		},
+		{
+			"name": "Oral Interviews",
+			"weight": 30
+		}
+	]
+}

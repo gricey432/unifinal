@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice Exam - residential school",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Reports-residential school",
+			"weight": 20
+		},
+		{
+			"name": "Review of a Recent Scientific Paper",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 35
+		}
+	]
+}

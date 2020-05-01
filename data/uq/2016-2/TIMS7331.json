@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "'Test the Problem' Milestone Presentation ",
+			"weight": 25
+		},
+		{
+			"name": "'Test the Solution' Milestone Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Personal Development",
+			"weight": 35
+		}
+	]
+}

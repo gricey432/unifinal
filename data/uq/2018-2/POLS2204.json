@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Participation and Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Activity LOGBOOK",
+			"weight": 15
+		},
+		{
+			"name": "Essay (2500 Words)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 40
+		}
+	]
+}

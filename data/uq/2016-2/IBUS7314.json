@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Group Written Report (Initial Draft & Final Report",
+			"weight": 50
+		},
+		{
+			"name": "On-Site Presentation ",
+			"weight": 30
+		}
+	]
+}

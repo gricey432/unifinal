@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Simulation",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Case-Study QUTopia",
+			"weight": 50
+		}
+	]
+}

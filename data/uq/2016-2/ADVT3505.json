@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Social Media Content",
+			"weight": 25
+		},
+		{
+			"name": "Advertising Industry Project(Group Project)",
+			"weight": 60
+		},
+		{
+			"name": "Individual",
+			"weight": 15
+		}
+	]
+}

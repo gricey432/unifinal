@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment ",
+			"weight": 28
+		},
+		{
+			"name": "Quiz module 5",
+			"weight": 2
+		},
+		{
+			"name": "Quiz Module 2",
+			"weight": 2
+		},
+		{
+			"name": "Quiz Module 3",
+			"weight": 2
+		},
+		{
+			"name": "Quiz module 4",
+			"weight": 2
+		},
+		{
+			"name": "Quiz module 6",
+			"weight": 2
+		},
+		{
+			"name": "Quiz Module 1",
+			"weight": 2
+		},
+		{
+			"name": "Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical workshops",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical timesheet",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formative assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative assessment",
+			"weight": "NGP"
+		}
+	]
+}

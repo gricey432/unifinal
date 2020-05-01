@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Formative Quiz",
+			"weight": 2
+		},
+		{
+			"name": "Module Quizzes ",
+			"weight": 22
+		},
+		{
+			"name": "Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Data related assignments",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

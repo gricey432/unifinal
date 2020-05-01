@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation Tutorial 3 for UQ Students only",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial 2 simulation assignment",
+			"weight": 0
+		},
+		{
+			"name": "Reservoir Simulation Examination",
+			"weight": 80
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practice peer interview and interview critique",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Peer interview and Reflection report",
+			"weight": 50
+		},
+		{
+			"name": "Communication Exam",
+			"weight": 50
+		}
+	]
+}

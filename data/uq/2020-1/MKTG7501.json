@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing quiz (Individual)",
+			"weight": 25
+		},
+		{
+			"name": "Case evaluation (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Learning reflection (Individual)",
+			"weight": 35
+		}
+	]
+}

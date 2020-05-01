@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Charter",
+			"weight": 30
+		},
+		{
+			"name": "Project Schedule",
+			"weight": 30
+		},
+		{
+			"name": "Project Plan &amp; Schedule",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "OSCE",
+			"weight": 0
+		},
+		{
+			"name": "Presentation ",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

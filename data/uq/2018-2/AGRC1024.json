@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Crop Production Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Scientific Article Deconstruction",
+			"weight": 10
+		},
+		{
+			"name": "Computer-based Assessments for Practicals",
+			"weight": 12
+		},
+		{
+			"name": "Quantitative Plant Production Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Weeds, Pests and Diseases",
+			"weight": 8
+		},
+		{
+			"name": "Group Debates",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

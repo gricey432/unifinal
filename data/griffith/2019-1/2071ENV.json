@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online laboratory quiz 1",
+			"weight": 4
+		},
+		{
+			"name": "Online laboratory quiz 2",
+			"weight": 4
+		},
+		{
+			"name": "Online laboratory quiz 3",
+			"weight": 4
+		},
+		{
+			"name": "Online laboratory quiz 4",
+			"weight": 4
+		},
+		{
+			"name": "Online laboratory quiz 5",
+			"weight": 4
+		},
+		{
+			"name": "Toohey Forest Report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

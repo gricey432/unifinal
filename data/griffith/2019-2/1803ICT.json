@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workshop exercises",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

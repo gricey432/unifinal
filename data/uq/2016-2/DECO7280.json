@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "GIT Exercise",
+			"weight": 0
+		},
+		{
+			"name": "Team Charter",
+			"weight": 0
+		},
+		{
+			"name": "Proposal/First Ticket",
+			"weight": 0
+		},
+		{
+			"name": "Project Critiques",
+			"weight": 10
+		},
+		{
+			"name": "Group Project Checkpoint 1",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 10
+		},
+		{
+			"name": "Group Project Checkpoint 2",
+			"weight": 25
+		},
+		{
+			"name": "Individual Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Readiness Assurance Test",
+			"weight": 15
+		},
+		{
+			"name": "Written Report",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

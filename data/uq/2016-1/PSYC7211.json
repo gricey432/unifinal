@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Produce DVD and Self-reflection",
+			"weight": 10
+		},
+		{
+			"name": "Competency - Intake Interview",
+			"weight": 40
+		},
+		{
+			"name": "Competency - Suicide Risk Assessment",
+			"weight": 50
+		}
+	]
+}

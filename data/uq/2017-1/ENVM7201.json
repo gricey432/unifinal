@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical answers",
+			"weight": 30
+		},
+		{
+			"name": "Catchment field report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

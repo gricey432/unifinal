@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding Health Behaviour Measures",
+			"weight": 10
+		},
+		{
+			"name": "Needs Assessment Plan",
+			"weight": 30
+		},
+		{
+			"name": "Synthesising the findings of the Needs Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Pitching a health promotion action",
+			"weight": 30
+		}
+	]
+}

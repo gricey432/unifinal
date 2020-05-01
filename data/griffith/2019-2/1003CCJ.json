@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Law Reform Report",
+			"weight": 40
+		},
+		{
+			"name": "Final/End Study Period Exam",
+			"weight": 40
+		}
+	]
+}

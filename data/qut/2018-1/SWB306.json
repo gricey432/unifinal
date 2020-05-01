@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz/Short Answer Test",
+			"weight": 40
+		},
+		{
+			"name": "Illustrative Essay",
+			"weight": 60
+		}
+	]
+}

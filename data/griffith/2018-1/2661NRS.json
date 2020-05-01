@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": 50
+		},
+		{
+			"name": "Midwifery Clinical ePortfolio",
+			"weight": 0
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

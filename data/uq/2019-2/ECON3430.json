@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative Course Notes",
+			"weight": 20
+		},
+		{
+			"name": "Online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Final draft",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 20
+		}
+	]
+}

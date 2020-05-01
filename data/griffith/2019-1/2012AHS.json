@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Laboratory Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Textbook Quiz 1",
+			"weight": 7
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Textbook Quiz 2",
+			"weight": 7
+		},
+		{
+			"name": "End Trimester Exam",
+			"weight": 35
+		}
+	]
+}

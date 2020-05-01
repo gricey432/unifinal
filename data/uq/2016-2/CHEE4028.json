@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fermentation report 1",
+			"weight": 15
+		},
+		{
+			"name": "Network modelling",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		},
+		{
+			"name": "Design of Metabolic Network for Production",
+			"weight": 15
+		}
+	]
+}

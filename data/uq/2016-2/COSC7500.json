@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Computer exercises",
+			"weight": 60
+		},
+		{
+			"name": "Programming Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Project",
+			"weight": 30
+		}
+	]
+}

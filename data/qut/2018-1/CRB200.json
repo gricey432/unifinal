@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Debate",
+			"weight": 40
+		},
+		{
+			"name": "Professional Plans",
+			"weight": 60
+		}
+	]
+}

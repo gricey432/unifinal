@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports",
+			"weight": 20
+		},
+		{
+			"name": "Thermal Stress",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

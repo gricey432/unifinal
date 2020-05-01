@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop questions",
+			"weight": 10
+		},
+		{
+			"name": "5 Laboratory Reports",
+			"weight": 10
+		},
+		{
+			"name": "Forensic Science in Popular Culture",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

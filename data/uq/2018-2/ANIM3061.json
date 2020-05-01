@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Introduction to Metabolomic Analyses",
+			"weight": 15
+		},
+		{
+			"name": "You will select one from several possible titles",
+			"weight": 20
+		},
+		{
+			"name": "Bioinformatics and molecular biology",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

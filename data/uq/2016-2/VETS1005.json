@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computer Based Activities",
+			"weight": 20
+		},
+		{
+			"name": "Veterinary Terminology Exam",
+			"weight": 20
+		},
+		{
+			"name": "Communication Lectures and Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Final Written Examination",
+			"weight": 50
+		}
+	]
+}

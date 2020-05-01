@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Scansion Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Class Leadership",
+			"weight": 10
+		},
+		{
+			"name": "Coursework Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 15
+		},
+		{
+			"name": "Coursework Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Coursework Assignment 3",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

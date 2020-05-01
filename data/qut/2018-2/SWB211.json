@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay (with literature review)",
+			"weight": 50
+		},
+		{
+			"name": "Practical role play",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tooth Morphology Related to Complete Dentures",
+			"weight": 20
+		},
+		{
+			"name": "Critique of a Dental Prescription: Laboratory Card",
+			"weight": 20
+		},
+		{
+			"name": "Theory Written Exam (Final)",
+			"weight": 60
+		}
+	]
+}

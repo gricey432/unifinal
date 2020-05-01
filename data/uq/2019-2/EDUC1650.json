@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies + procedures for professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3: Reflective journal, starts in Week 3 - 12",
+			"weight": 30
+		},
+		{
+			"name": "Task 1: Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Design for learning",
+			"weight": 40
+		}
+	]
+}

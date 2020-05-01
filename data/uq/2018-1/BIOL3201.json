@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Disease Collection",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 1 week 1-4 material",
+			"weight": 5
+		},
+		{
+			"name": "First Practical exam",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 week 5-8 material",
+			"weight": 5
+		},
+		{
+			"name": "Second Practical exam",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

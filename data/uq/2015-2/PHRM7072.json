@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Methodology and Ethics   ",
+			"weight": 0
+		},
+		{
+			"name": "Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Preparation of a Research Paper ",
+			"weight": 60
+		},
+		{
+			"name": "Conference Abstract",
+			"weight": 5
+		},
+		{
+			"name": "Conference Poster and Presentation",
+			"weight": 15
+		}
+	]
+}

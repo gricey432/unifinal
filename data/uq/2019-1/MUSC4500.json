@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence of Human Research Ethics Approval",
+			"weight": 0
+		},
+		{
+			"name": "Thesis",
+			"weight": 80
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Conference-style paper",
+			"weight": 20
+		}
+	]
+}

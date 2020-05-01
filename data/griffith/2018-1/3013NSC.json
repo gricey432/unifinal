@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration of camera skills",
+			"weight": 10
+		},
+		{
+			"name": "Photography Module - Theory Examination",
+			"weight": 25
+		},
+		{
+			"name": "Evidence Photography - Practical Examination",
+			"weight": 20
+		},
+		{
+			"name": "Digital Imaging Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Written Exam",
+			"weight": 25
+		}
+	]
+}

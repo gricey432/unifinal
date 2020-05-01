@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "iPad Ensemble Leadership Exercise & Reflection",
+			"weight": 40
+		},
+		{
+			"name": "App Composition Folio & Lesson Plans ",
+			"weight": 40
+		},
+		{
+			"name": "Practical Laboratory Intensive",
+			"weight": 20
+		}
+	]
+}

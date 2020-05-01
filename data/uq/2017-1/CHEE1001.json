@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Component (Microbiology)",
+			"weight": 7
+		},
+		{
+			"name": "Laboratory Component (Biochemistry)",
+			"weight": 7
+		},
+		{
+			"name": "Mid-Semester Exam ",
+			"weight": 20
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

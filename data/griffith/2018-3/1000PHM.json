@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interprofessional Learning (IPL) Activities",
+			"weight": 10
+		},
+		{
+			"name": "Pharma Employability Project",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

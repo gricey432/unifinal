@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Student Presentations",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Problem Solving Task",
+			"weight": 15
+		},
+		{
+			"name": "Team Problem Solving Present",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

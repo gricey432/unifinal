@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes ",
+			"weight": 10
+		},
+		{
+			"name": "Hypothetical Problems ",
+			"weight": 45
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Article Review",
+			"weight": 15
+		},
+		{
+			"name": "Social Justice and Schooling",
+			"weight": 25
+		},
+		{
+			"name": "Analysis of a media representation of schooling",
+			"weight": 40
+		}
+	]
+}

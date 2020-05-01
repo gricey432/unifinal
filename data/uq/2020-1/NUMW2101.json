@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice exam",
+			"weight": 20
+		},
+		{
+			"name": "Individual PowerPoint Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Written Assignment: Discussion paper",
+			"weight": 40
+		}
+	]
+}

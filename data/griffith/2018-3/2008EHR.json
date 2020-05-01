@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: 'Me in a Minute' Video Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 4: Peer Assessment of Team Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2: Team Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 3: Team Member Evaluation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 5A: Reflective Essay",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 5B: 'The New Me' Video Presentation",
+			"weight": 15
+		}
+	]
+}

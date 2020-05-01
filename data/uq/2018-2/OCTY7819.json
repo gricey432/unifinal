@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Funding Request Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Occupational Therapy Competency Standards",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Peer-led seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Student seminar presentation",
+			"weight": 40
+		},
+		{
+			"name": "leadership activity",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Viva Examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Clinical Examination and Viva",
+			"weight": 25
+		},
+		{
+			"name": "VETS4035 Semester 1 Written Examination",
+			"weight": 35
+		},
+		{
+			"name": "VETS4035 Semester 2 Comprehensive Written Exam",
+			"weight": 40
+		}
+	]
+}

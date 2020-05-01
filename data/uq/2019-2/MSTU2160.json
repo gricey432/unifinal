@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "weekly digital archive scavenger hunt",
+			"weight": 10
+		},
+		{
+			"name": "multiple choice quiz",
+			"weight": 10
+		},
+		{
+			"name": "writing tasks",
+			"weight": 10
+		},
+		{
+			"name": "Archive research essay",
+			"weight": 35
+		},
+		{
+			"name": "Found-footage video essay or standard essay",
+			"weight": 35
+		}
+	]
+}

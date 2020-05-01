@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Australia through my eyes",
+			"weight": 20
+		},
+		{
+			"name": "Country profile",
+			"weight": 40
+		},
+		{
+			"name": "Intercultural training program",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research seminar web-log",
+			"weight": 9
+		},
+		{
+			"name": "Developing academic language skills",
+			"weight": 6
+		},
+		{
+			"name": "Library research project",
+			"weight": 35
+		},
+		{
+			"name": "Peer assessment - research proposal presentation",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal Outline Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Your research project",
+			"weight": 40
+		}
+	]
+}

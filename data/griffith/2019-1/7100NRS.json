@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Oral Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Comprehensive Patient Health Assessment",
+			"weight": 50
+		},
+		{
+			"name": "Reflection on learning",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Minor comparative essay",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 45
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

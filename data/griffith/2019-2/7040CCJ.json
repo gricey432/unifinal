@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog entry on one of four set themes/ questions  ",
+			"weight": 20
+		},
+		{
+			"name": "Essay ",
+			"weight": 50
+		},
+		{
+			"name": "Discussion Board Portfolio ",
+			"weight": 30
+		}
+	]
+}

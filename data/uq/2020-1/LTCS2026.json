@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Module 1 Indigenous Pre-Columbian World",
+			"weight": 25
+		},
+		{
+			"name": "Module 2 Spain and Spanish America",
+			"weight": 25
+		},
+		{
+			"name": "Module 3 Latin America 20th Century",
+			"weight": 25
+		},
+		{
+			"name": "Module 4 Brazil past and present",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Paper on a Special Interest Tourism Type ",
+			"weight": 40
+		},
+		{
+			"name": "Walking Tour Presentation ",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

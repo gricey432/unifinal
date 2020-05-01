@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Culture Experiences & in-Tutorial Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Cross-Cultural Incident Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Wheat practical report",
+			"weight": 25
+		},
+		{
+			"name": "Journal of practical field experience",
+			"weight": 10
+		},
+		{
+			"name": "Weedsmart assignment",
+			"weight": 25
+		},
+		{
+			"name": "Crop competition practical report",
+			"weight": 10
+		}
+	]
+}

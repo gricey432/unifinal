@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Behaviour change needs analysis",
+			"weight": 20
+		},
+		{
+			"name": "Behaviour change intervention&evaluation proposal",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

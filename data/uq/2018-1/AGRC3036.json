@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2xPracticals Precision Ag",
+			"weight": 10
+		},
+		{
+			"name": "Biomass Monitoring using UQMiniAg Drone & NOIR ",
+			"weight": 30
+		},
+		{
+			"name": " Spatial Variability and Agriculture",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		}
+	]
+}

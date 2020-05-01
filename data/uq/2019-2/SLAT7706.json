@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of blog reflections",
+			"weight": 30
+		},
+		{
+			"name": "Reviewing an applied linguistics text",
+			"weight": 20
+		},
+		{
+			"name": "Current issues in applied linguistics",
+			"weight": 30
+		}
+	]
+}

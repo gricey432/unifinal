@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 1",
+			"weight": 2
+		},
+		{
+			"name": "Fracture Prac A attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 2",
+			"weight": 2
+		},
+		{
+			"name": "Energy Method Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 24
+		},
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 3",
+			"weight": 2
+		},
+		{
+			"name": "Fracture Prac B attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 4",
+			"weight": 2
+		},
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 5",
+			"weight": 2
+		},
+		{
+			"name": "Fracture Assignment ",
+			"weight": 5
+		},
+		{
+			"name": "Quiz on Finite Element Computer Tutorial 6",
+			"weight": 2
+		},
+		{
+			"name": "FINAL Examination",
+			"weight": 48
+		}
+	]
+}

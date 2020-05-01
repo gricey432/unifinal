@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Griffith University News Story",
+			"weight": 30
+		},
+		{
+			"name": "Group presentation",
+			"weight": 35
+		},
+		{
+			"name": "Community news story or Specialised news story",
+			"weight": 35
+		}
+	]
+}

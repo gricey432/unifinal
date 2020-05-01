@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Prac Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Practical Lab book",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

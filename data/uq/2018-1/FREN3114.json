@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 5
+		},
+		{
+			"name": "Eyewitness report/ Témoignage",
+			"weight": 30
+		},
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 10
+		},
+		{
+			"name": "Discussion du roman policier",
+			"weight": 15
+		},
+		{
+			"name": "Transformation de texte",
+			"weight": 20
+		},
+		{
+			"name": "Policier",
+			"weight": 20
+		}
+	]
+}

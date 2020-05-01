@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Dictation",
+			"weight": 10
+		},
+		{
+			"name": "Project I: Interview Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Project II: Radio Project",
+			"weight": 15
+		},
+		{
+			"name": "Listening Comprehension Exam ",
+			"weight": 20
+		},
+		{
+			"name": "Debate & Question-and-answer",
+			"weight": 25
+		}
+	]
+}

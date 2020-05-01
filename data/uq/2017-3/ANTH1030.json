@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Museum Project",
+			"weight": 15
+		},
+		{
+			"name": "Critical reflection on an online discussion post",
+			"weight": 15
+		},
+		{
+			"name": "Online quizzes; end-of-module reflections",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper",
+			"weight": 30
+		}
+	]
+}

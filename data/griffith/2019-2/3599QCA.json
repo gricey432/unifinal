@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Exercise Journal",
+			"weight": 40
+		},
+		{
+			"name": "Active Sketch Notes ",
+			"weight": 20
+		},
+		{
+			"name": "Major Project: Digital Product Design",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PREPARATION AND PARTICIPATION",
+			"weight": 10
+		},
+		{
+			"name": "POETRY EXERCISES",
+			"weight": 20
+		},
+		{
+			"name": "POEM EXPLICATION",
+			"weight": 25
+		},
+		{
+			"name": "POETRY PORTFOLIO",
+			"weight": 45
+		}
+	]
+}

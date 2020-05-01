@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation aux forums",
+			"weight": 10
+		},
+		{
+			"name": "Compréhension écrite + mél formel ",
+			"weight": 20
+		},
+		{
+			"name": "Conseils pour réussir l'université ",
+			"weight": 15
+		},
+		{
+			"name": "Plan pour l'analyse interculturelle",
+			"weight": 10
+		},
+		{
+			"name": "Examen: compréhension auditive, dissertation",
+			"weight": 25
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		}
+	]
+}

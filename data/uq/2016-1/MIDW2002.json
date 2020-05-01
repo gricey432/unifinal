@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Poster presentation and essay",
+			"weight": 50
+		},
+		{
+			"name": "Exam for MIDW2002 ",
+			"weight": 50
+		}
+	]
+}

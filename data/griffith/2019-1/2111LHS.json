@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Career Development Activity",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 20
+		},
+		{
+			"name": "Critical Policy Analysis",
+			"weight": 40
+		}
+	]
+}

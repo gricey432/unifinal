@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Industry Project Pitch",
+			"weight": 40
+		},
+		{
+			"name": "Project Management Reflection",
+			"weight": 30
+		}
+	]
+}

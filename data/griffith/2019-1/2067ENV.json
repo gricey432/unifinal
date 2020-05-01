@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "MODULE 1: Development Processes and Assessment",
+			"weight": 50
+		},
+		{
+			"name": "MODULE 2: Tactical Urbanism",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Technologies, Firm Behaviour and Efficiency",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 - Index Numbers",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 - Piecewise Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4 - Deterministic Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 5 - Stochastic Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

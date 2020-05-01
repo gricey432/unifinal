@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 10
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 60
+		}
+	]
+}

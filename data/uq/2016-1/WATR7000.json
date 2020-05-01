@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tools for Planning Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Short Report on Socially Vulnerable Groups",
+			"weight": 25
+		},
+		{
+			"name": "Group PBL 1: Critique a Project",
+			"weight": 50
+		}
+	]
+}

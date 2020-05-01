@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Laboratory Reports",
+			"weight": 5
+		},
+		{
+			"name": "Australian ore deposits (Group Work)",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Term Exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical Mid-term",
+			"weight": 10
+		},
+		{
+			"name": "Prospect Evaluation Report (Group Work)",
+			"weight": 30
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

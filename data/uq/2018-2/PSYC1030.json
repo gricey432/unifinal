@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes (tutorial prep)",
+			"weight": 4
+		},
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Weekly online quizzes (lecture - formative)",
+			"weight": 0
+		},
+		{
+			"name": "Weekly online quizzes (lecture - summative)",
+			"weight": 16
+		},
+		{
+			"name": "Introduction + References",
+			"weight": 19
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 16
+		},
+		{
+			"name": "Group written assessment",
+			"weight": 20
+		},
+		{
+			"name": "Discussion + References",
+			"weight": 19
+		}
+	]
+}

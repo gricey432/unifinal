@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Warm-up Reading Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

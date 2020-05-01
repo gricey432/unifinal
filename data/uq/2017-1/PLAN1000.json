@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On Line Quiz ",
+			"weight": 35
+		},
+		{
+			"name": "Seive mapping report ",
+			"weight": 30
+		},
+		{
+			"name": "Place Making exercise",
+			"weight": 35
+		}
+	]
+}

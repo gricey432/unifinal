@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Research Project Design",
+			"weight": 30
+		},
+		{
+			"name": "Individual Research Project Essay",
+			"weight": 70
+		},
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Rehearsal",
+			"weight": 25
+		},
+		{
+			"name": "Dramaturgical Research Essay & Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Production Work",
+			"weight": 25
+		},
+		{
+			"name": "Performance",
+			"weight": 25
+		},
+		{
+			"name": "Secondment Log Book",
+			"weight": "By negotiation"
+		},
+		{
+			"name": "Secondment Portfolio",
+			"weight": "By negotiation"
+		},
+		{
+			"name": "Secondment Company Report",
+			"weight": 20
+		}
+	]
+}

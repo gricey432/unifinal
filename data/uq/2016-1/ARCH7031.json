@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Business Plan (Individual)",
+			"weight": 60
+		},
+		{
+			"name": "Assignment 2 - Consultancy Report (Group)",
+			"weight": 40
+		}
+	]
+}

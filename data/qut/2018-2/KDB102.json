@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Evaluation",
+			"weight": 50
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "Performance",
+			"weight": 30
+		}
+	]
+}

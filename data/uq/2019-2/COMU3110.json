@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Podcast Audio",
+			"weight": 20
+		},
+		{
+			"name": "Writing task 1: Critical analysis",
+			"weight": 20
+		},
+		{
+			"name": "Writing task 2: Critical analysis",
+			"weight": 20
+		},
+		{
+			"name": "Writing task 4: audio scripts",
+			"weight": 20
+		},
+		{
+			"name": "Participation and Presentation Pitch",
+			"weight": 20
+		}
+	]
+}

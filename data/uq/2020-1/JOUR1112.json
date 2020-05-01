@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "News writing task",
+			"weight": 20
+		},
+		{
+			"name": "Story idea and pitch",
+			"weight": 30
+		},
+		{
+			"name": "Final news story: story and images",
+			"weight": 50
+		}
+	]
+}

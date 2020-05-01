@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Pre-reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Programming Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Programming Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Programming Assignment 3",
+			"weight": 20
+		},
+		{
+			"name": "Mini-Project (Identity-Verified Assessment)",
+			"weight": 30
+		}
+	]
+}

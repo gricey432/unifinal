@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Reading Reports",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 8
+		},
+		{
+			"name": "Choose your own political thinker",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam (3000 words)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class discussion",
+			"weight": 20
+		},
+		{
+			"name": "Comparative analysis - research paper ",
+			"weight": 50
+		},
+		{
+			"name": "Elevator Pitch ",
+			"weight": 30
+		}
+	]
+}

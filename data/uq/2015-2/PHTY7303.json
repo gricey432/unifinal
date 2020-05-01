@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Problem based learning - Case scenario seminars",
+			"weight": 30
+		},
+		{
+			"name": "Injury prevention discussions",
+			"weight": 10
+		},
+		{
+			"name": "Professional participation and contribution",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Progressive clinical assessment",
+			"weight": 10
+		},
+		{
+			"name": "Follow up treatment VIVA 1",
+			"weight": 15
+		},
+		{
+			"name": "5x5 podium presentation",
+			"weight": 5
+		},
+		{
+			"name": "Follow up treatment VIVA 2",
+			"weight": 15
+		},
+		{
+			"name": "Sports coverage",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": " Age hardening behaviour of AZ91 alloy",
+			"weight": 20
+		},
+		{
+			"name": "Heat treatment of steels",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

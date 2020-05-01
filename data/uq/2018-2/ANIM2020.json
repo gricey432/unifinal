@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Report",
+			"weight": 15
+		},
+		{
+			"name": "The Great Debate",
+			"weight": 25
+		},
+		{
+			"name": "Article Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Motor Active task",
+			"weight": "to be negotiated"
+		},
+		{
+			"name": "Teaching & Professionalism",
+			"weight": "pass / fail"
+		},
+		{
+			"name": "Autism task",
+			"weight": "to be negotiated"
+		},
+		{
+			"name": "Teaching Showcase",
+			"weight": "to be negotiated"
+		}
+	]
+}

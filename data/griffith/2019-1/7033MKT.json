@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Test",
+			"weight": 10
+		},
+		{
+			"name": "Case Study 1: CLV Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Case Study 2: Conjoint Analysis",
+			"weight": 50
+		}
+	]
+}

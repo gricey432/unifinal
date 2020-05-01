@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork, Tutorial Tasks & Audiology Report",
+			"weight": 20
+		},
+		{
+			"name": "Observation Report - Child Care Visits",
+			"weight": 30
+		},
+		{
+			"name": "Oral Presentation - Clinic Observations",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

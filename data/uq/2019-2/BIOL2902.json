@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quizzes (Four)",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "The Genetic Basis of Stuff and Things",
+			"weight": 20
+		},
+		{
+			"name": "Advanced Genetics practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

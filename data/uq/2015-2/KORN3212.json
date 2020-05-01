@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tests: Translation and Interpreting",
+			"weight": 30
+		},
+		{
+			"name": "Group Work",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Sentence Recommendations",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Prison Simulations",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3: Argumentative Essays",
+			"weight": 40
+		}
+	]
+}

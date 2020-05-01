@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Property Valuation Issue",
+			"weight": 15
+		},
+		{
+			"name": "Group Valuation report and class presentation",
+			"weight": 35
+		},
+		{
+			"name": " Final exam",
+			"weight": 50
+		}
+	]
+}

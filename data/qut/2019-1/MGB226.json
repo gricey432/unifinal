@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Innovation Simulation",
+			"weight": 20
+		},
+		{
+			"name": "Innovation Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Innovation Action Plan",
+			"weight": 40
+		}
+	]
+}

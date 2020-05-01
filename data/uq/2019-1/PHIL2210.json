@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation and In-class Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Critical Summary",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Learning Journal",
+			"weight": 20
+		},
+		{
+			"name": "Philosophy Essay",
+			"weight": 40
+		}
+	]
+}

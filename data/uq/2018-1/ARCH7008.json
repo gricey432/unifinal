@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Schematic Design, Research and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Detailed Resolution and Presentation",
+			"weight": 60
+		}
+	]
+}

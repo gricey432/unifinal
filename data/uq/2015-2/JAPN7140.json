@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly vocabulary tests",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester interpreting test",
+			"weight": 25
+		},
+		{
+			"name": "End-of-semester interpreting exam",
+			"weight": 70
+		}
+	]
+}

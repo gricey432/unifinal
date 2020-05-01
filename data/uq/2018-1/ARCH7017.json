@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 01: The Urban Scale (1:1000-1:200)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Item 02: The Project Scale (1:200)",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Item 3: The Tectonic Scale (1:100-1:50)",
+			"weight": 50
+		}
+	]
+}

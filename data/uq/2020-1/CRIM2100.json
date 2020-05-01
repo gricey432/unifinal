@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paper",
+			"weight": 35
+		},
+		{
+			"name": "Critical Reflection Essay (Individual component)",
+			"weight": 20
+		},
+		{
+			"name": "Poster (Group component)",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 35
+		}
+	]
+}

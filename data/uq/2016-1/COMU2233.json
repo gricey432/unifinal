@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: structured case study",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Journal article case study",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 3: critical response to Black Mirror",
+			"weight": 30
+		}
+	]
+}

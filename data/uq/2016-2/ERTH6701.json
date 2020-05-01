@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops and Deliverables",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review",
+			"weight": 35
+		},
+		{
+			"name": "Thesis research proposal",
+			"weight": 35
+		},
+		{
+			"name": "Presentation of proposed thesis research ",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report",
+			"weight": 35
+		},
+		{
+			"name": "Literature Review &amp; Case Study",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": 30
+		}
+	]
+}

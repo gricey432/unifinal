@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Rube Goldberg Machine",
+			"weight": 10
+		},
+		{
+			"name": "in-class ('clicker') questions and online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "1.8 metre dash",
+			"weight": 15
+		},
+		{
+			"name": "Main Project: Weir Warman - Project SOLVE",
+			"weight": 50
+		},
+		{
+			"name": "Engineering Stage 1 Competencies Reflection",
+			"weight": 10
+		}
+	]
+}

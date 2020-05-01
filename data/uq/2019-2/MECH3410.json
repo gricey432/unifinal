@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Revision & Diagnostic Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": "max 20"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "min 50"
+		},
+		{
+			"name": "Fortnightly Tutorial Questions",
+			"weight": 10
+		},
+		{
+			"name": "Exp 1 (Aerofoil)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 2 (Pipe Flow)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 3 (Shock Tube)",
+			"weight": 3
+		},
+		{
+			"name": "Exp 4 (Turbomachinery)",
+			"weight": 3
+		}
+	]
+}

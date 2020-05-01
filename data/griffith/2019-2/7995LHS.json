@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of Teaching Activities",
+			"weight": 20
+		},
+		{
+			"name": "Discourse Analysis Report",
+			"weight": 60
+		}
+	]
+}

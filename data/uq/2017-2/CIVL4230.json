@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Stress paths",
+			"weight": 0
+		},
+		{
+			"name": "Mohr's circle",
+			"weight": 10
+		},
+		{
+			"name": "Consolidation",
+			"weight": 0
+		},
+		{
+			"name": "Retaining walls",
+			"weight": 10
+		},
+		{
+			"name": "Critical state soil mechanics",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 70
+		}
+	]
+}

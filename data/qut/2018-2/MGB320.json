@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Selection Technique Fact Sheet",
+			"weight": 40
+		},
+		{
+			"name": "Selection Package Project",
+			"weight": 40
+		},
+		{
+			"name": "Teamwork Evaluation",
+			"weight": 20
+		}
+	]
+}

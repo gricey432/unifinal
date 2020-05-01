@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workplace learning analysis & learning plan",
+			"weight": 20
+		},
+		{
+			"name": "Workplace Supervisors evaluation",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Practice Journal",
+			"weight": 35
+		},
+		{
+			"name": "Class participation ",
+			"weight": 10
+		},
+		{
+			"name": "In-class presentation",
+			"weight": 20
+		}
+	]
+}

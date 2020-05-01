@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Journal Entries",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay",
+			"weight": 50
+		}
+	]
+}

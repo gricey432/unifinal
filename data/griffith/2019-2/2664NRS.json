@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Portfolio",
+			"weight": 0
+		},
+		{
+			"name": "Critical Reflection One",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflection Two",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

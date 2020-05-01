@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback quizzes (outside class time)",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester written examination (Blocks 1 & 2)",
+			"weight": 20
+		},
+		{
+			"name": "End-semester video assignment",
+			"weight": 20
+		},
+		{
+			"name": "End-semester written online invigilated exam",
+			"weight": 45
+		}
+	]
+}

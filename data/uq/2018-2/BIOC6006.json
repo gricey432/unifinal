@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1 on modules 1 & 2.",
+			"weight": 25
+		},
+		{
+			"name": "Literature Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Bioinformatics assignment",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 2 on modules 3, 4, & 5.",
+			"weight": 35
+		}
+	]
+}

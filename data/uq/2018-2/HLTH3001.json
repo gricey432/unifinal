@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Unlocking your employability ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Placement Timesheet",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Work Placement",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "My CV ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "My Work Placement (Poster)",
+			"weight": "Pass / Fail"
+		}
+	]
+}

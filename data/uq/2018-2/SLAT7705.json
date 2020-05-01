@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly short-answer problem sets",
+			"weight": 45
+		},
+		{
+			"name": "Group worksheet presentation",
+			"weight": 5
+		},
+		{
+			"name": "Language: Words, Sentences and Meaning",
+			"weight": 25
+		},
+		{
+			"name": "Language: Sounds and Acquisition",
+			"weight": 25
+		}
+	]
+}

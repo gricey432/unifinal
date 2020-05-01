@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review, Rationale and Questions",
+			"weight": 10
+		},
+		{
+			"name": "Draft Project Description Protocol",
+			"weight": 15
+		},
+		{
+			"name": "Project Ethics Application",
+			"weight": 0
+		},
+		{
+			"name": "Oral Research Presentation of Project",
+			"weight": 15
+		},
+		{
+			"name": "Research Project Report",
+			"weight": 60
+		}
+	]
+}

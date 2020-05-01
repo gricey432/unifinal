@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "EPA Competency Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Radiology Exam - Must pass",
+			"weight": 30
+		},
+		{
+			"name": "Group Presentation - EBP",
+			"weight": 10
+		},
+		{
+			"name": "VIVA exam - use of mobility aids - Must pass",
+			"weight": 10
+		},
+		{
+			"name": "Written Exam - Must pass",
+			"weight": 30
+		}
+	]
+}

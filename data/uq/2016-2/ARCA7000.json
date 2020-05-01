@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Why Study World Heritage?",
+			"weight": 20
+		},
+		{
+			"name": "Teamwork and individual performance",
+			"weight": 30
+		},
+		{
+			"name": "Does World Heritage have a future?",
+			"weight": 50
+		}
+	]
+}

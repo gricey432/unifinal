@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Review of Scholarly Book Reviews",
+			"weight": 5
+		},
+		{
+			"name": "Scholarly Book Review",
+			"weight": 25
+		},
+		{
+			"name": "Peer Review of Programme Notes",
+			"weight": 5
+		},
+		{
+			"name": "Programme Notes",
+			"weight": 15
+		},
+		{
+			"name": "Presentation of Research Proposal Topic",
+			"weight": 5
+		},
+		{
+			"name": "Peer Review of Research Proposals",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 40
+		}
+	]
+}

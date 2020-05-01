@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Modernist narrative: Joyce",
+			"weight": 10
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		},
+		{
+			"name": "Reading Modernist poetry: Eliot",
+			"weight": 10
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		}
+	]
+}

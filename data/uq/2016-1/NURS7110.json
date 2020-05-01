@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "First 2 Act Web",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Learning Committment Plan",
+			"weight": "NGP"
+		},
+		{
+			"name": "Discussion Board Initial",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Clinical Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "eCPPP formative assessment 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Deteriorating Patient Assessment Scenario",
+			"weight": "NGP"
+		},
+		{
+			"name": "Discussion Board Responsive",
+			"weight": "NGP"
+		},
+		{
+			"name": "eCPPP formative assessment 2",
+			"weight": "NGP"
+		},
+		{
+			"name": "Translating research into practice",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Clinical Assessment",
+			"weight": "NGP"
+		}
+	]
+}

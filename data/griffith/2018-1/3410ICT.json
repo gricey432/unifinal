@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ten Weekly Quizzes (online)",
+			"weight": 20
+		},
+		{
+			"name": "Essay Part 1 of 2: Analysing an Ethical Dilemma",
+			"weight": 30
+		},
+		{
+			"name": "Essay Part 2 of 2: Analysing an Ethical Dilemma",
+			"weight": 50
+		}
+	]
+}

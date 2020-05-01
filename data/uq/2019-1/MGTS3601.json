@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Article Critique | Team Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

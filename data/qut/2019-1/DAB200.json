@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Architectural Critique",
+			"weight": 40
+		},
+		{
+			"name": "Architectural Essay",
+			"weight": 60
+		}
+	]
+}

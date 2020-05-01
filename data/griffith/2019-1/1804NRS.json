@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment Part A (750 words)",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment Part B (1500 words)",
+			"weight": 35
+		},
+		{
+			"name": "End of trimester exam",
+			"weight": 50
+		}
+	]
+}

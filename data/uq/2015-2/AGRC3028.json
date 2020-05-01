@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract for Internship",
+			"weight": 20
+		},
+		{
+			"name": "Resource Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Management Analysis",
+			"weight": 40
+		}
+	]
+}

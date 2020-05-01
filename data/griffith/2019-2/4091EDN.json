@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio  of a Learning Activity",
+			"weight": 60
+		},
+		{
+			"name": "Multiple Choice and Short Answer Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Health Professionals in Practice",
+			"weight": 15
+		},
+		{
+			"name": "Competency Assessment",
+			"weight": 10
+		},
+		{
+			"name": "PATIENT INTERVIEW AND REFLECTION",
+			"weight": 30
+		},
+		{
+			"name": "Practical Viva (End-trimester)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Essay (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Long Essay (2500 words)",
+			"weight": 55
+		}
+	]
+}

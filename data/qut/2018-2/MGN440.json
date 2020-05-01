@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Critique (written)",
+			"weight": 20
+		}
+	]
+}

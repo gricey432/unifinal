@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Online Quiz ",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 40
+		},
+		{
+			"name": "A2: Research Essay",
+			"weight": 40
+		}
+	]
+}

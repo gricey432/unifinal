@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Science Communication",
+			"weight": 7
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": 0
+		},
+		{
+			"name": "Online Learning (EdX) questions ",
+			"weight": 0
+		},
+		{
+			"name": "Practical class preparation & participation",
+			"weight": 3
+		},
+		{
+			"name": "Tutorials",
+			"weight": 0
+		},
+		{
+			"name": "Mini-test",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

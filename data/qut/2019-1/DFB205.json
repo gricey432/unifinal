@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short Fashion Film",
+			"weight": 40
+		},
+		{
+			"name": "Fashion in New Media Critique",
+			"weight": 60
+		}
+	]
+}

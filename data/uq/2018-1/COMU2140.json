@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Analysis of a Media Firm",
+			"weight": 40
+		},
+		{
+			"name": "Research Report on Digital Disruptions",
+			"weight": 45
+		}
+	]
+}

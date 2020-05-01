@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Construction knowledge",
+			"weight": 20
+		},
+		{
+			"name": "Construction documentation assignment",
+			"weight": 20
+		},
+		{
+			"name": "Architectural documentation assignment",
+			"weight": 60
+		}
+	]
+}

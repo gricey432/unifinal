@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Communication: Diversity and Difference",
+			"weight": 40
+		},
+		{
+			"name": "Recording, analysis of practice and case note",
+			"weight": 60
+		}
+	]
+}

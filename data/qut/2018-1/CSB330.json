@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		},
+		{
+			"name": "Written assessment/essay",
+			"weight": 30
+		},
+		{
+			"name": "Pamphlet and oral presentation",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review on a Foundational Concept",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

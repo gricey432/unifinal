@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral tutorial tasks 1 and 2",
+			"weight": 15
+		},
+		{
+			"name": "in-class quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Final oral interview",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Written Test",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Listening Exam (in class)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

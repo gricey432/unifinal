@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports",
+			"weight": 20
+		},
+		{
+			"name": "Multiple choice Exam ",
+			"weight": 20
+		},
+		{
+			"name": "Critical Review of a Recent Scientific Paper",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Disability Issues Blog/Podcast",
+			"weight": 40
+		},
+		{
+			"name": "Peer Feedback",
+			"weight": 10
+		},
+		{
+			"name": "SPCH4107 Case-based Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practicum Reflections & Participation",
+			"weight": 30
+		},
+		{
+			"name": "360 degree performance review and development plan",
+			"weight": 50
+		},
+		{
+			"name": "Employability Presentation",
+			"weight": 20
+		}
+	]
+}

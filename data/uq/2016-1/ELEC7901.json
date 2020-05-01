@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Cardiac instrumentation & signal analysis task",
+			"weight": 10
+		},
+		{
+			"name": "Magnetic Resonance Instrumentation",
+			"weight": 10
+		},
+		{
+			"name": "AMDs with Smart Mobile Devices",
+			"weight": 10
+		},
+		{
+			"name": "Conceptualise your own AMD",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

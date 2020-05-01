@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Submission of Tutorial Exercises",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Newspaper Article Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 40
+		}
+	]
+}

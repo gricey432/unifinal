@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Modules 1-3",
+			"weight": 7
+		},
+		{
+			"name": "Assignment One",
+			"weight": 35
+		},
+		{
+			"name": "Quiz 2: Modules 4-5",
+			"weight": 5
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 45
+		},
+		{
+			"name": "Quiz 3: Modules 6-8",
+			"weight": 7
+		}
+	]
+}

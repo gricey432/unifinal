@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Motivational interview critique",
+			"weight": 40
+		},
+		{
+			"name": "Complex case analysis ",
+			"weight": 45
+		},
+		{
+			"name": "Discussion board participation",
+			"weight": 15
+		}
+	]
+}

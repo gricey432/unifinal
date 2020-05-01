@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Techniques Midterm 1",
+			"weight": 15
+		},
+		{
+			"name": "Writing Techniques Midterm 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Skills Exams",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Individual and Ensemble Performances",
+			"weight": 30
+		}
+	]
+}

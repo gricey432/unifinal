@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "3D Model and texture",
+			"weight": 40
+		},
+		{
+			"name": "Game Re-skin",
+			"weight": 60
+		}
+	]
+}

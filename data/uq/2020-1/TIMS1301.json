@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Analysis - explaining failure",
+			"weight": 20
+		},
+		{
+			"name": "Therapair - A make or break decision",
+			"weight": 40
+		},
+		{
+			"name": "FuelzFoods Growth Strategy",
+			"weight": 40
+		}
+	]
+}

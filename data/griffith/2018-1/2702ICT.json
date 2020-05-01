@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory exercise",
+			"weight": 16
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 24
+		},
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 40
+		}
+	]
+}

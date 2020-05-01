@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Progress group critique",
+			"weight": 10
+		},
+		{
+			"name": "Industry Activity Record",
+			"weight": 10
+		},
+		{
+			"name": "Studio Project and Journal ",
+			"weight": 80
+		}
+	]
+}

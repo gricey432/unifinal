@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment in Discussion Forum",
+			"weight": 50
+		},
+		{
+			"name": "Integrated Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 30
+		}
+	]
+}

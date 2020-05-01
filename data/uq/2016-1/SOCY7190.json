@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "First 800 word paper (on unit 4 material)",
+			"weight": 20
+		},
+		{
+			"name": "Second 800 word paper (on unit 6 material)",
+			"weight": 20
+		},
+		{
+			"name": "Evaluation Plan (Group Assignment)",
+			"weight": 50
+		}
+	]
+}

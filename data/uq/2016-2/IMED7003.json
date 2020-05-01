@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercise",
+			"weight": 30
+		},
+		{
+			"name": "Final Summative Assessment",
+			"weight": 70
+		}
+	]
+}

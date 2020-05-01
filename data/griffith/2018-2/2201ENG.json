@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester examination",
+			"weight": 20
+		},
+		{
+			"name": "Joule's experiment design",
+			"weight": 15
+		},
+		{
+			"name": "External heat engine design",
+			"weight": 15
+		},
+		{
+			"name": "End of trimester examination",
+			"weight": 50
+		}
+	]
+}

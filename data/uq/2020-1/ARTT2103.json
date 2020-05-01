@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Image Annotation",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reflection Writing Task No: 1",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reflection Writing Task No: 2",
+			"weight": 15
+		}
+	]
+}

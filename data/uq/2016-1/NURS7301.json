@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review",
+			"weight": 50
+		},
+		{
+			"name": "Developmental & Physical Assessment & Reflection",
+			"weight": 50
+		}
+	]
+}

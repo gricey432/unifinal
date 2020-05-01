@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 30
+		},
+		{
+			"name": "CML Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "CML Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "CML Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "CML Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

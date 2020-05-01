@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Report",
+			"weight": 40
+		},
+		{
+			"name": "Project Report",
+			"weight": 60
+		}
+	]
+}

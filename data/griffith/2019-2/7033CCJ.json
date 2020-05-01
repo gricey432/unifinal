@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Learning Task",
+			"weight": 30
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Fracture Prac A attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "FEA IT Tutorial Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 31
+		},
+		{
+			"name": "Fracture Prac B attendance & results submission",
+			"weight": 2
+		},
+		{
+			"name": "FEA IT Tutorial Interview",
+			"weight": 5
+		},
+		{
+			"name": "FEA Documentation package ",
+			"weight": 5
+		},
+		{
+			"name": "FINAL Examination",
+			"weight": 50
+		}
+	]
+}

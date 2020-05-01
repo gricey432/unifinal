@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Catch-Up Tasks",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "E-mail to Client",
+			"weight": 20
+		},
+		{
+			"name": "Mental Status Examination Report",
+			"weight": 40
+		},
+		{
+			"name": "Suicide Risk Assessment",
+			"weight": 40
+		}
+	]
+}

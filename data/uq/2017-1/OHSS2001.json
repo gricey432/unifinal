@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Industry OHS Review",
+			"weight": 20
+		},
+		{
+			"name": "Accident Investigation Report",
+			"weight": 35
+		},
+		{
+			"name": "Workbook",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

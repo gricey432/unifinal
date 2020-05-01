@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Food and Beverage Evaluation ",
+			"weight": 25
+		},
+		{
+			"name": "Group project- Food & Drink Experience Design ",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

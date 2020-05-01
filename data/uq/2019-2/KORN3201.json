@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final Oral Exam",
+			"weight": 25
+		},
+		{
+			"name": "Written Exam I",
+			"weight": 20
+		},
+		{
+			"name": "In-class Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Essay writing",
+			"weight": 10
+		},
+		{
+			"name": "Written exam II",
+			"weight": 30
+		}
+	]
+}

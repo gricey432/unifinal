@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "SELF ASSESSMENT ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Portfolio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

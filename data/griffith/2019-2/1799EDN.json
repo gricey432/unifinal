@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "EVIDENCE OF LEARNING",
+			"weight": 20
+		},
+		{
+			"name": "COMPARING CURRICULUM",
+			"weight": 30
+		},
+		{
+			"name": "PROJECT-BASED LEARNING",
+			"weight": 50
+		}
+	]
+}

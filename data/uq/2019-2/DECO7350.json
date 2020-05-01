@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "A1 : Active Participation",
+			"weight": "Pass/Fail/Boost"
+		},
+		{
+			"name": "A2 : Domain Research",
+			"weight": 10
+		},
+		{
+			"name": "A3 : Concept Proposal",
+			"weight": 15
+		},
+		{
+			"name": "A4 : Design Prototype",
+			"weight": 40
+		},
+		{
+			"name": "A6 : Contextual Bibliography",
+			"weight": 10
+		},
+		{
+			"name": "A5 : Critical Reflection",
+			"weight": 25
+		}
+	]
+}

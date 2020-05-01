@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Critical reflections on Indigenous health ",
+			"weight": 30
+		},
+		{
+			"name": "Approaches for improving Indigenous health  ",
+			"weight": 25
+		},
+		{
+			"name": "Addressing an Indigenous health issue",
+			"weight": 45
+		}
+	]
+}

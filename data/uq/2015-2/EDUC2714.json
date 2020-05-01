@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Unit of work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Personal Development Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Professional Experience",
+			"weight": "Pass/Fail"
+		}
+	]
+}

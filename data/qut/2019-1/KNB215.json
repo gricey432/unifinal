@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Animate Series of Performances",
+			"weight": 40
+		},
+		{
+			"name": "Short Character Animation",
+			"weight": 60
+		}
+	]
+}

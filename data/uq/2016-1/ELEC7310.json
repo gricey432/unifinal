@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Project ",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial assessment",
+			"weight": 3
+		},
+		{
+			"name": "Simulation Lab reports",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "final exam during exam period",
+			"weight": 40
+		}
+	]
+}

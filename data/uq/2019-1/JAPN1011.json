@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preparatory Listening Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Oral Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Oral Exam 2",
+			"weight": 30
+		}
+	]
+}

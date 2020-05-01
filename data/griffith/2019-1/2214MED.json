@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group work documents",
+			"weight": 15
+		},
+		{
+			"name": "Literature review and research rationale",
+			"weight": 35
+		},
+		{
+			"name": "Final research report",
+			"weight": 50
+		}
+	]
+}

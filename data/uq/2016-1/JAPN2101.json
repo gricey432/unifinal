@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation ",
+			"weight": 5
+		},
+		{
+			"name": "Kanji test 1",
+			"weight": 10
+		},
+		{
+			"name": "Workbook Assignment ",
+			"weight": 10
+		},
+		{
+			"name": "Kanji Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Kanji Test 3",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Reading and writing exam",
+			"weight": 35
+		}
+	]
+}

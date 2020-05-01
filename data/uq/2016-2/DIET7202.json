@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Competency assessment",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Attendance and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Completion of records",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Group Education Session",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

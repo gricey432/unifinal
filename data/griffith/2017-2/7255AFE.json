@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Client interview and performance reflection",
+			"weight": 30
+		},
+		{
+			"name": "SoA Construction project",
+			"weight": 30
+		},
+		{
+			"name": "SoA Presentation*",
+			"weight": 40
+		}
+	]
+}

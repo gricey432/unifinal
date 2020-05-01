@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced information retrieval skills session",
+			"weight": "Satisfactory"
+		},
+		{
+			"name": "Outline of proposed work",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of Results",
+			"weight": 40
+		},
+		{
+			"name": "Research manuscript or report",
+			"weight": 50
+		}
+	]
+}

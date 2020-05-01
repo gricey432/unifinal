@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Media Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Argumentative Essay Assignment",
+			"weight": 50
+		}
+	]
+}

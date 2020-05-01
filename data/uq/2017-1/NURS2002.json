@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical Issue",
+			"weight": 40
+		},
+		{
+			"name": "Exam for NURS2002",
+			"weight": 50
+		}
+	]
+}

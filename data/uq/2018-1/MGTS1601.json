@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment ",
+			"weight": 35
+		},
+		{
+			"name": "Team Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Review of Tutorial Workshop",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

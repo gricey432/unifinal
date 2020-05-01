@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture based Quiz using Keepad questions",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Information Booklet",
+			"weight": 10
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 60
+		}
+	]
+}

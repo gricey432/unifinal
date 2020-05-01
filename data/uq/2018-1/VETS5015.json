@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Grand Rounds",
+			"weight": 10
+		},
+		{
+			"name": "UQ Equine Hospital Rotation",
+			"weight": 70
+		},
+		{
+			"name": "Equine Skills List",
+			"weight": "Pass Fail"
+		},
+		{
+			"name": "Equine VIVA",
+			"weight": 20
+		}
+	]
+}

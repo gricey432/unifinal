@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for Clinical Practice",
+			"weight": 5
+		},
+		{
+			"name": "Upper Limb Applied Anatomy Exam",
+			"weight": 5
+		},
+		{
+			"name": "Upper Limb Pathology Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Written Examination",
+			"weight": 20
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 30
+		}
+	]
+}

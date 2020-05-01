@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Research Communication Item",
+			"weight": 40
+		},
+		{
+			"name": "Three Minute Thesis",
+			"weight": 15
+		},
+		{
+			"name": "Cover Letter",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Introductory Skills in Scientific Communication",
+			"weight": 5
+		},
+		{
+			"name": "Coastal Marine Environments",
+			"weight": 20
+		},
+		{
+			"name": "Coral Reef Environments",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

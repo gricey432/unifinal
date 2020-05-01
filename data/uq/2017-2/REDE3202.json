@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of ROI / EOI - Expression of Interest",
+			"weight": 20
+		},
+		{
+			"name": "Active Tutorial Collaboration",
+			"weight": 20
+		},
+		{
+			"name": "Proposal Submission",
+			"weight": 40
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 20
+		}
+	]
+}

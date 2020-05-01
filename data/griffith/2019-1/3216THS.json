@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Gantt Chart - Case Study Project Planning",
+			"weight": 10
+		},
+		{
+			"name": "Pitch Presentation - Case Study Project",
+			"weight": 35
+		},
+		{
+			"name": "Peer Review & Self Assessment - Case Study Project",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

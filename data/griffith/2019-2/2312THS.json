@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 -  Big Data and Sport",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Sport Media Strategy Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3 - Vodcast and Email Responses",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4: Media Statement Presentation",
+			"weight": 30
+		}
+	]
+}

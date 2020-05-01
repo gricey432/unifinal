@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Homicide Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Homicide Investigation Review",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

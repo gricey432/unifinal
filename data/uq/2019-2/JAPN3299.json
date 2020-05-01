@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Face-to-face interpreting dialogues",
+			"weight": 30
+		},
+		{
+			"name": "In-Class Translation Test",
+			"weight": 30
+		},
+		{
+			"name": "Speech & Consecutive interpreting",
+			"weight": 40
+		}
+	]
+}

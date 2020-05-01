@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "The Balance of Nature",
+			"weight": 5
+		},
+		{
+			"name": "Paper critique in tutorial groups",
+			"weight": 12
+		},
+		{
+			"name": "Revision quizzes",
+			"weight": 18
+		},
+		{
+			"name": "Practical 1: Abstract",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2: Abstract",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

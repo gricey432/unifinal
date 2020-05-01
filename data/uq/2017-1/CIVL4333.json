@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "(1) Serviceability limit state design of PC beam",
+			"weight": 10
+		},
+		{
+			"name": "(2) Loss of prestress",
+			"weight": 10
+		},
+		{
+			"name": "(3) Design of composite beam",
+			"weight": 10
+		},
+		{
+			"name": "(4) Struct-and-tie and/or torsion design",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

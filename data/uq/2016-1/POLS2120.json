@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participate in seminar activities, discuss reading",
+			"weight": 10
+		},
+		{
+			"name": "Ministerial Briefings",
+			"weight": 40
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 50
+		}
+	]
+}

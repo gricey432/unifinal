@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Part A",
+			"weight": 15
+		},
+		{
+			"name": "Industrial control practical",
+			"weight": 5
+		},
+		{
+			"name": "Project Part B",
+			"weight": 15
+		},
+		{
+			"name": "Strain gauge practical",
+			"weight": 5
+		},
+		{
+			"name": "Project Part C",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Case Reports",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		}
+	]
+}

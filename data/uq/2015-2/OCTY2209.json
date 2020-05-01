@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "LINKS Fieldwork Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Group Approaches in Occupational Therapy",
+			"weight": 20
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

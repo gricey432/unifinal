@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Herbicide resistance quiz",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		},
+		{
+			"name": "Weed ID prac report",
+			"weight": 10
+		},
+		{
+			"name": "Weedsmart assignment",
+			"weight": 30
+		},
+		{
+			"name": "Insect pest factsheet",
+			"weight": 5
+		}
+	]
+}

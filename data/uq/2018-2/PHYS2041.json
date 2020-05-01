@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignments",
+			"weight": 20
+		},
+		{
+			"name": "Weakly reading quizzes (away from class)",
+			"weight": "formative"
+		},
+		{
+			"name": "Laboratory written reports",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 15
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final exam: two-hour, closed-book exam",
+			"weight": 35
+		}
+	]
+}

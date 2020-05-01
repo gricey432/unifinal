@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Synopsis",
+			"weight": 60
+		},
+		{
+			"name": "Group Work - Presentation",
+			"weight": 40
+		}
+	]
+}

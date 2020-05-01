@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Synopsis",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment Database Search",
+			"weight": 40
+		},
+		{
+			"name": "Written examination",
+			"weight": 50
+		}
+	]
+}

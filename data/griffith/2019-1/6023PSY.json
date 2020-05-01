@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Intake Interview and Reflective Report",
+			"weight": 30
+		},
+		{
+			"name": "Clinical psychological report",
+			"weight": 35
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

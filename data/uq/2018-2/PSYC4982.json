@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation of journal article",
+			"weight": 10
+		},
+		{
+			"name": "Critique of journal article",
+			"weight": 20
+		},
+		{
+			"name": "Formulate questions for presenters",
+			"weight": 10
+		},
+		{
+			"name": "Special Topics I - Cognitive Neuroscience",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam 1",
+			"weight": 27
+		},
+		{
+			"name": "Practical Participation",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Exam 2",
+			"weight": 27
+		},
+		{
+			"name": "Video Data Collection (Group Task)",
+			"weight": 5
+		},
+		{
+			"name": "Video Analysis Report",
+			"weight": 30
+		}
+	]
+}

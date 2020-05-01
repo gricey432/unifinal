@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Part A Annotated Bibliography",
+			"weight": "Pass/Fail  600 word limit"
+		},
+		{
+			"name": "Assignment 1: Part B Content Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 2: Discourse Analysis ",
+			"weight": 50
+		}
+	]
+}

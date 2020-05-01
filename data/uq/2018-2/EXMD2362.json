@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Quiz 1 and Quiz 2",
+			"weight": 30
+		},
+		{
+			"name": "Resistance training practical exam",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 1: Case Study (Low Risk)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Case Study and Lit Review (Spec Pop)",
+			"weight": 20
+		}
+	]
+}

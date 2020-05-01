@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Workshop Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Module Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Case Study presentation draft",
+			"weight": 5
+		},
+		{
+			"name": "Module Quiz 2",
+			"weight": 20
+		},
+		{
+			"name": "Case Studies",
+			"weight": 20
+		},
+		{
+			"name": "End  of Semester Exam",
+			"weight": 40
+		}
+	]
+}

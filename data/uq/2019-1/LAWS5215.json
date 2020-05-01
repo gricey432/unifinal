@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique and Re-drafting of a Statement of Claim",
+			"weight": 30
+		},
+		{
+			"name": "Court Observation and Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

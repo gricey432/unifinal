@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

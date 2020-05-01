@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formal presentations",
+			"weight": 20
+		},
+		{
+			"name": "Discussion participation (including attendance)",
+			"weight": 30
+		},
+		{
+			"name": "Lab journal",
+			"weight": 50
+		}
+	]
+}

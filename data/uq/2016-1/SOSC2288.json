@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz",
+			"weight": 45
+		},
+		{
+			"name": "Class Engagement Activities",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Learning Paper",
+			"weight": 50
+		}
+	]
+}

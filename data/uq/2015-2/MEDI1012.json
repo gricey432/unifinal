@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Intra semester test",
+			"weight": 25
+		},
+		{
+			"name": "Contribution to PBL",
+			"weight": 5
+		},
+		{
+			"name": "Practical and image-based exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

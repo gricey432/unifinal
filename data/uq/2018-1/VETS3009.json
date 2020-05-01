@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Skills Log",
+			"weight": 15
+		},
+		{
+			"name": "Progressive online quizzes X 5 (5% each)",
+			"weight": 25
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 60
+		}
+	]
+}

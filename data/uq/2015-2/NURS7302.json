@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Portfolio and Reflection",
+			"weight": 60
+		},
+		{
+			"name": "Health Priority Area Case Study and Reflection",
+			"weight": 40
+		}
+	]
+}

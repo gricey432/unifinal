@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Completion of MATLAB tutorials ",
+			"weight": 8
+		},
+		{
+			"name": "PebblePad Reflection",
+			"weight": 3
+		},
+		{
+			"name": "Weekly in-class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 8
+		},
+		{
+			"name": "MATLAB Quiz",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester",
+			"weight": 45
+		}
+	]
+}

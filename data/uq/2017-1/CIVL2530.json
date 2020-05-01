@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Probability and Statistics",
+			"weight": 25
+		},
+		{
+			"name": "Probability and Statistics",
+			"weight": 45
+		},
+		{
+			"name": "Scientific Computing",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reporting",
+			"weight": 30
+		},
+		{
+			"name": " Practical exam  ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

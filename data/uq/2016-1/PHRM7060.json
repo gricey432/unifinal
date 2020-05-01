@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Modules 1-6",
+			"weight": 12
+		},
+		{
+			"name": "Individual Contribution to 'Green' Task",
+			"weight": 12
+		},
+		{
+			"name": "\"Satisfactory\" attendance at online tutorials",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Tutorial Group Participation & Presentations",
+			"weight": 12
+		},
+		{
+			"name": "Peer feedback on Group Work Sem 1",
+			"weight": 0
+		},
+		{
+			"name": "Reflection on Professional Practice",
+			"weight": 0
+		},
+		{
+			"name": "Case Presentation with Discussion - Semester 2 ",
+			"weight": 5
+		},
+		{
+			"name": "Written Case Review- Semester 1",
+			"weight": 10
+		},
+		{
+			"name": "Peer Evaluation of Previous VIVA - Semester 2",
+			"weight": 4
+		},
+		{
+			"name": "Slides for Case Presentation with Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Oral VIVA",
+			"weight": 15
+		},
+		{
+			"name": "End of year Exam",
+			"weight": 20
+		}
+	]
+}

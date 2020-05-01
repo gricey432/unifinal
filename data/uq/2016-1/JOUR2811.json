@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Feature article (Profile)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Feature article ",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 3: Feature article (Deadline)",
+			"weight": 30
+		}
+	]
+}

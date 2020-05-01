@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Analysis Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Artwork Slide Test",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Investigating Prehospital Pain Management",
+			"weight": 40
+		},
+		{
+			"name": "Patient Examination Clinical Skill Assessment ",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Case Based Exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Practical Assessment",
+			"weight": 0
+		}
+	]
+}

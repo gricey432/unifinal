@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation & Case Study(ENGG7800 Students Only)",
+			"weight": 15
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Examination - Class Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Practical Examination - MS Project Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Project Report",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Formulation pre-work and plan (Group assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Good Laboratory Practice (Group assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Final Product (Group assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Group Formulation report (Group assessment)",
+			"weight": 15
+		},
+		{
+			"name": "Poster Presentation (Individual assessment)",
+			"weight": 35
+		},
+		{
+			"name": "Integrating theory (Individual assessment)",
+			"weight": 35
+		}
+	]
+}

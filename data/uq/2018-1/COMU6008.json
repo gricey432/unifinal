@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class participation",
+			"weight": 15
+		},
+		{
+			"name": "Essay on Audience and Reception studies",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 25
+		},
+		{
+			"name": "Online Audience Analysis",
+			"weight": 30
+		}
+	]
+}

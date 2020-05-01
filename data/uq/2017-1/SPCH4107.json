@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group seminars",
+			"weight": 30
+		},
+		{
+			"name": "Seminar Reflection",
+			"weight": 10
+		},
+		{
+			"name": "SPCH4107 Case-based Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review activities",
+			"weight": 20
+		},
+		{
+			"name": "Critique (written)",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 50
+		}
+	]
+}

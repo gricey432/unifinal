@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Reflection on course readings",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2:Inquiry Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Reflective report on inquiry",
+			"weight": 45
+		}
+	]
+}

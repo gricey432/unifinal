@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Story pitch for investigation",
+			"weight": 20
+		},
+		{
+			"name": "Court Story / Parliament or Council Story",
+			"weight": 30
+		},
+		{
+			"name": "Major investigation",
+			"weight": 50
+		}
+	]
+}

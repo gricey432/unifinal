@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CB Project & Group Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

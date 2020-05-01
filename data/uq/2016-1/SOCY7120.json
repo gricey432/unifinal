@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workshop participation",
+			"weight": 10
+		},
+		{
+			"name": "Research skills exercise",
+			"weight": 15
+		},
+		{
+			"name": "Short Essay",
+			"weight": 25
+		},
+		{
+			"name": "Final Report",
+			"weight": 50
+		}
+	]
+}

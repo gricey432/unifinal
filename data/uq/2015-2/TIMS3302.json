@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Entrepreneurship",
+			"weight": 20
+		},
+		{
+			"name": "Business Plan Presentations",
+			"weight": 20
+		},
+		{
+			"name": "Business Plan submission",
+			"weight": 60
+		}
+	]
+}

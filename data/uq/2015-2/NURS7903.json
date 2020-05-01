@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study 1",
+			"weight": 30
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz - Module 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz - Module 2 & 3",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Culture Experience Reflection & Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Cross-Cultural Work Adjustment Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

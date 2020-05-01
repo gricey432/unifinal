@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lectorial quizzes (7)",
+			"weight": 0
+		},
+		{
+			"name": "Pathology quiz",
+			"weight": 10
+		},
+		{
+			"name": "Case Studies - Proteins/Enzymes/LFT",
+			"weight": 10
+		},
+		{
+			"name": "Case Studies - Lipids",
+			"weight": 10
+		},
+		{
+			"name": "Case Studies - Carbohydrates/RFT",
+			"weight": 10
+		},
+		{
+			"name": "MCQ quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

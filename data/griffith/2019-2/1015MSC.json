@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 25
+		},
+		{
+			"name": "ePortfolio & LinkedIn Profile",
+			"weight": 10
+		},
+		{
+			"name": "Lab Workbook",
+			"weight": 12
+		},
+		{
+			"name": "Lab report",
+			"weight": 13
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

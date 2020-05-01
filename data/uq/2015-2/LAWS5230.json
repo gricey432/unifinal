@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Federal Circuit Court Moot (Judicial Review)",
+			"weight": 30
+		},
+		{
+			"name": "Administrative Review Moot (Merits Review)",
+			"weight": 35
+		},
+		{
+			"name": "International Law Moot",
+			"weight": 35
+		}
+	]
+}

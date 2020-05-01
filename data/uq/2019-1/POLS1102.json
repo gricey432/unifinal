@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Informed Contribution to Class Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Summaries",
+			"weight": 8
+		},
+		{
+			"name": "Minor Essay (1100 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

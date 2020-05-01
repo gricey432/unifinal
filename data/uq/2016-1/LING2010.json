@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short questions online",
+			"weight": 25
+		},
+		{
+			"name": "Exercise set 1",
+			"weight": 15
+		},
+		{
+			"name": "Exercise set 2",
+			"weight": 15
+		},
+		{
+			"name": "Exercise set 3",
+			"weight": 15
+		},
+		{
+			"name": "Take-home final exam",
+			"weight": 30
+		}
+	]
+}

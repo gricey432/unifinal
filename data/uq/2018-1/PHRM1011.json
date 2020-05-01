@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Health Sciences Language Screening Test",
+			"weight": "Completion required"
+		},
+		{
+			"name": "Peer Teaching Videos (group assignment)",
+			"weight": 8
+		},
+		{
+			"name": "Placement Attendance Record",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Reflective Task",
+			"weight": 5
+		},
+		{
+			"name": "Confidentiality Statement",
+			"weight": "Submission Only: Pass/Fail"
+		},
+		{
+			"name": "Weekly feedback quizzes (outside class time)",
+			"weight": 12
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Participation and completion required"
+		},
+		{
+			"name": "Written Exam",
+			"weight": 55
+		},
+		{
+			"name": "Oral Exam (OTC product request)",
+			"weight": 20
+		}
+	]
+}

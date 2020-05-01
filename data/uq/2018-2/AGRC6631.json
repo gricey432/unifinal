@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Note",
+			"weight": 20
+		},
+		{
+			"name": "Gantt Chart",
+			"weight": 15
+		},
+		{
+			"name": "Progress Report",
+			"weight": 15
+		},
+		{
+			"name": "Fact Sheet",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive annotated bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Writing",
+			"weight": 10
+		}
+	]
+}

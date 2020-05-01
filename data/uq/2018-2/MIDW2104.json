@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Issues of addiction for mother and baby",
+			"weight": 30
+		},
+		{
+			"name": "Development of a postpartum Mental Health Plan",
+			"weight": 20
+		},
+		{
+			"name": "Exam for MIDW2104",
+			"weight": 50
+		}
+	]
+}

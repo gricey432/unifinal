@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Project Report (Completed Draft)",
+			"weight": 5
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Practical Examination - MS Project Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Class Test",
+			"weight": 20
+		},
+		{
+			"name": "Project Report (Final Version)",
+			"weight": 40
+		}
+	]
+}

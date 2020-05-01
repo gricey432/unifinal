@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Anatomy Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

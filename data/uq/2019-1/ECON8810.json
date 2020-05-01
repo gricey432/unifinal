@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Idea Paragraph",
+			"weight": 10
+		},
+		{
+			"name": "#1: Empirical and/or Theoretical Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "#2: Experimental Design Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

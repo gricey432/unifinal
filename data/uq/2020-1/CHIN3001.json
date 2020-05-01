@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Proficiency tests",
+			"weight": 5
+		},
+		{
+			"name": "Written Vocabulary Study",
+			"weight": 10
+		},
+		{
+			"name": "Writing tasks",
+			"weight": 10
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

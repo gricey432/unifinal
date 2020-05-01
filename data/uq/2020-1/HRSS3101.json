@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Planning Skills",
+			"weight": 10
+		},
+		{
+			"name": "Group Research Project Peer Assessment",
+			"weight": "Pass/Fail - Affects individual mark for Group Research Project Report"
+		},
+		{
+			"name": "Ethics Application (Including research proposal)",
+			"weight": 20
+		},
+		{
+			"name": "Group Research Project Written Scientific Report",
+			"weight": 40
+		},
+		{
+			"name": "Qualitative and Quantitative Research Methods Exam",
+			"weight": 30
+		}
+	]
+}

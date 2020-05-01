@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reviews and Discussion",
+			"weight": 30
+		},
+		{
+			"name": "Project Report and Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Project Report",
+			"weight": 50
+		}
+	]
+}

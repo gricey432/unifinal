@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance in Clinical Practice 1",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "PSW: OnLine Assessment (OLA) - PPE",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "PSW: OnLine Assessment (OLA): Hand Hygiene",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "CCS: Peer Interview Recording and Review Session",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Formative",
+			"weight": "Provides formal feedback of performance towards summative CPA"
+		},
+		{
+			"name": "Clinical Coaching Examination(CCE): Cardiovascular",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Summative",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Coaching Examination (CCE): Respiratory",
+			"weight": "Pass / Fail"
+		}
+	]
+}

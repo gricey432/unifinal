@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Paper (500 words)",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Question (500 words)",
+			"weight": 5
+		},
+		{
+			"name": "Critical Paper 1: Scientific Inquiry",
+			"weight": 20
+		},
+		{
+			"name": "Critical Paper 2: Method Exploration",
+			"weight": 20
+		},
+		{
+			"name": "Full Research Proposal (2,000 words)",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Test No. 1",
+			"weight": 20
+		},
+		{
+			"name": "Employee cost calculation",
+			"weight": 15
+		},
+		{
+			"name": "Online Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Assessing actual business using EA",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Podcast: What is Dialogue?",
+			"weight": 30
+		},
+		{
+			"name": "Reading Journal",
+			"weight": 40
+		},
+		{
+			"name": "Bringing It All Together - Analysis    ",
+			"weight": 30
+		},
+		{
+			"name": "Podcast: What is Dialogue?",
+			"weight": 30
+		},
+		{
+			"name": "Reading Journal  ",
+			"weight": 40
+		},
+		{
+			"name": "Bringing It All Together - Analysis    ",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written diary",
+			"weight": 10
+		},
+		{
+			"name": "Written report on library assignment",
+			"weight": 90
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Situation Analysis Report (Group Report)",
+			"weight": 30
+		},
+		{
+			"name": "Nutrition Data Collection Methods",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

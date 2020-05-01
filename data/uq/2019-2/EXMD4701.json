@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Self Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Self Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim Supervisors Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Final Supervisors Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Case Study",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

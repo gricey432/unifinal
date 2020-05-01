@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning reflections x 3",
+			"weight": 30
+		},
+		{
+			"name": "1000 word case study of SM use in journalism or PR",
+			"weight": 30
+		},
+		{
+			"name": "2000 word innovation report",
+			"weight": 40
+		}
+	]
+}

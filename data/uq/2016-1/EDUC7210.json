@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quality teaching ",
+			"weight": 50
+		},
+		{
+			"name": "Universal Design for Learning and differentiation ",
+			"weight": 50
+		}
+	]
+}

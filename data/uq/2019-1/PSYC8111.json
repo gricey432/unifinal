@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Group Intervention Formulation",
+			"weight": 50
+		},
+		{
+			"name": "MSAT Competency: Oral and Written",
+			"weight": 40
+		}
+	]
+}

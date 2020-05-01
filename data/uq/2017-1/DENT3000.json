@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Smoking cessation",
+			"weight": 5
+		},
+		{
+			"name": "Aboriginal Cultural Orientation ",
+			"weight": 10
+		},
+		{
+			"name": "Development of oral health promotion material",
+			"weight": 35
+		},
+		{
+			"name": "Social determinants of oral health",
+			"weight": 50
+		}
+	]
+}

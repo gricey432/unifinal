@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reading summaries #1",
+			"weight": 8
+		},
+		{
+			"name": "Seminar participation",
+			"weight": 18
+		},
+		{
+			"name": "Reading summaries #2",
+			"weight": 8
+		},
+		{
+			"name": "Reading summaries #3",
+			"weight": 8
+		},
+		{
+			"name": "Reading summaries #4",
+			"weight": 8
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

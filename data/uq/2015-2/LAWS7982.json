@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal for Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Major Paper on a Consumer Law Topic",
+			"weight": 70
+		}
+	]
+}

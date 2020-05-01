@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Animation production",
+			"weight": 60
+		}
+	]
+}

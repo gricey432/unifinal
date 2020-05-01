@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 20
+		},
+		{
+			"name": "QUIZ 1",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 2",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 3",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 4",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 5",
+			"weight": 2
+		},
+		{
+			"name": "Mystery Mineral Project",
+			"weight": 20
+		},
+		{
+			"name": "Practical Exam ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (Theory)",
+			"weight": 35
+		}
+	]
+}

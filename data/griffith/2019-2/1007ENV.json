@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Field notebook ",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory write up",
+			"weight": 20
+		},
+		{
+			"name": "Two closed book quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Closed book final examination",
+			"weight": 50
+		}
+	]
+}

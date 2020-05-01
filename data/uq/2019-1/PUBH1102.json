@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: In-class quiz",
+			"weight": 20
+		},
+		{
+			"name": "Task 2: Suburb comparison",
+			"weight": 30
+		},
+		{
+			"name": "Task 3 (Part A): Health game construction",
+			"weight": 20
+		},
+		{
+			"name": "Task 3 (Part B): Game justification & reflection",
+			"weight": 30
+		}
+	]
+}

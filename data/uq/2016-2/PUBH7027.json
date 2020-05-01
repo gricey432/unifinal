@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz Series: 5 Knowledge tests by Module",
+			"weight": 40
+		},
+		{
+			"name": "2 Essays to apply your basic EnHealth knowledge ",
+			"weight": 30
+		},
+		{
+			"name": "Assessing an environmental health problem",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Impact of Climate Change- Assignment 1",
+			"weight": 33
+		},
+		{
+			"name": "Development Project - Assignment 2",
+			"weight": 33
+		},
+		{
+			"name": "Consultancy report on sustainable agriculture",
+			"weight": 34
+		}
+	]
+}

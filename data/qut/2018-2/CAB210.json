@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Studying People and Context",
+			"weight": 50
+		},
+		{
+			"name": "Evaluation of Technology",
+			"weight": 50
+		}
+	]
+}

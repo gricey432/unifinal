@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Coding assignment 1",
+			"weight": 7
+		},
+		{
+			"name": "Coding assignment 2",
+			"weight": 7
+		},
+		{
+			"name": "Coding exam",
+			"weight": 36
+		},
+		{
+			"name": "Cryptography Assignment 1",
+			"weight": 7
+		},
+		{
+			"name": "Cryptography Assignment 2",
+			"weight": 7
+		},
+		{
+			"name": "Cryptography exam",
+			"weight": 36
+		}
+	]
+}

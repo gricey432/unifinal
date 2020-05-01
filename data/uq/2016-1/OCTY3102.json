@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Paediatric Fieldwork",
+			"weight": 35
+		},
+		{
+			"name": "Manual Handling",
+			"weight": 20
+		},
+		{
+			"name": "End of semester viva exam",
+			"weight": 45
+		}
+	]
+}

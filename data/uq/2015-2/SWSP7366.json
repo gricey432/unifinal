@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Keep a Work Diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formal Assessment or Analysis Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Demonstrate minimum of 3 Skills relevant to agency",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Proposal or submission",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Process Reports,Reflection Sheets and/or Analysis",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Appropriate Agency Records of Work Done",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Write initial practice framework",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Learning Curriculum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Development Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Complete Mid point and Final Evaluation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

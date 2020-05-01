@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Paper Aeroplane",
+			"weight": 5
+		},
+		{
+			"name": "Kafka on the Shore",
+			"weight": 5
+		},
+		{
+			"name": "The Mandibles",
+			"weight": 20
+		},
+		{
+			"name": "Disgrace",
+			"weight": 5
+		},
+		{
+			"name": "Fun Home",
+			"weight": 5
+		},
+		{
+			"name": "Paper of Many Parts",
+			"weight": 50
+		}
+	]
+}

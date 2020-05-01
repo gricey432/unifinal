@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural awareness in projects - self reflection",
+			"weight": 25
+		},
+		{
+			"name": "Industry Project Pitch",
+			"weight": 50
+		},
+		{
+			"name": "Identifying/solving project needs -self reflection",
+			"weight": 25
+		}
+	]
+}

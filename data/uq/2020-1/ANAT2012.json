@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning task 1",
+			"weight": 3
+		},
+		{
+			"name": "Assessment tutorial",
+			"weight": 3
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 6
+		},
+		{
+			"name": "Online Mid Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Open Mind Online Learning Module and Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Article Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 35
+		}
+	]
+}

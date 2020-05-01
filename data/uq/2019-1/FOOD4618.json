@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal including Experimental Protocol",
+			"weight": 0
+		},
+		{
+			"name": "Advisors Assessment - lab book record each week",
+			"weight": 10
+		},
+		{
+			"name": "Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Experience and treatment of a comorbidity",
+			"weight": 30
+		},
+		{
+			"name": "Class presentation",
+			"weight": 30
+		},
+		{
+			"name": "Evidence based education video and guide",
+			"weight": 40
+		}
+	]
+}

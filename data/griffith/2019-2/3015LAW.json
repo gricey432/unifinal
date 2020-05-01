@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Module - The Torrens System",
+			"weight": 20
+		},
+		{
+			"name": "Proctored quiz on Co-ownership & Formalities",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

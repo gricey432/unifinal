@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Exam",
+			"weight": 30
+		},
+		{
+			"name": "Research Design",
+			"weight": 20
+		},
+		{
+			"name": "Peer Evaluation Form",
+			"weight": "Required with Field Notes"
+		},
+		{
+			"name": "ATARC Excavation Notes",
+			"weight": 15
+		},
+		{
+			"name": "Final ATARC Excavation Report",
+			"weight": 35
+		}
+	]
+}

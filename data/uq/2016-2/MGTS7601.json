@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project on the \"Latest thinking\"",
+			"weight": 20
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Individual Case Study Report",
+			"weight": 55
+		}
+	]
+}

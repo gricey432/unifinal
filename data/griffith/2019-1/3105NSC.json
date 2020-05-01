@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Cycle 1",
+			"weight": 14
+		},
+		{
+			"name": "Cycle 2",
+			"weight": 14
+		},
+		{
+			"name": "Cycle 3",
+			"weight": 14
+		},
+		{
+			"name": "Cycle 4",
+			"weight": 14
+		},
+		{
+			"name": "Assignment Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 20
+		},
+		{
+			"name": "Cycle 5",
+			"weight": 14
+		}
+	]
+}

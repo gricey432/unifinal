@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing tasks (7 x 250 words each)",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Literature review",
+			"weight": 20
+		},
+		{
+			"name": "Argumentative essay",
+			"weight": 35
+		}
+	]
+}

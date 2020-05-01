@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Hypertensive disorder in pregnancy ",
+			"weight": 50
+		},
+		{
+			"name": "Exam for MIDW2003",
+			"weight": 50
+		}
+	]
+}

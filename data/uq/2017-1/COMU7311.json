@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "My culture and my people",
+			"weight": 20
+		},
+		{
+			"name": "My intercultural experience",
+			"weight": 40
+		},
+		{
+			"name": "Intercultural training program",
+			"weight": 40
+		}
+	]
+}

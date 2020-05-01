@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Hospital Experiential Learning",
+			"weight": 0
+		},
+		{
+			"name": "Practicals",
+			"weight": 0
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written exam",
+			"weight": 60
+		}
+	]
+}

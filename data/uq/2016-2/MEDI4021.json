@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "EBP knowledge and skills pre-test",
+			"weight": "Pass"
+		},
+		{
+			"name": "Critical appraisal of a selected journal article",
+			"weight": "Pass"
+		},
+		{
+			"name": "Application of EBP knowledge and skills",
+			"weight": "Pass"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam during residential school",
+			"weight": 30
+		},
+		{
+			"name": "Examination of Practical Workbook",
+			"weight": 40
+		},
+		{
+			"name": "Final theory examination",
+			"weight": 30
+		}
+	]
+}

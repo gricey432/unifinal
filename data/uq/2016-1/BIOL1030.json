@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for Practical Classes",
+			"weight": "pass"
+		},
+		{
+			"name": "Worksheets/reports",
+			"weight": 20
+		},
+		{
+			"name": "ID plants, animals & processes & answer questions",
+			"weight": 14
+		},
+		{
+			"name": "Problem-based workshops",
+			"weight": 6
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

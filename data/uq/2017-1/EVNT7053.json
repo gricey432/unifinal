@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Report, 3000 words",
+			"weight": 30
+		},
+		{
+			"name": "Event Proposal",
+			"weight": 20
+		},
+		{
+			"name": "EVNT7053 Final Exam",
+			"weight": 50
+		}
+	]
+}

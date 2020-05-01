@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Fire Management Strategy (FMS)",
+			"weight": 35
+		},
+		{
+			"name": "Prescribed Burn Plan",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

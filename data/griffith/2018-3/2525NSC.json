@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2525NSC Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "2525NSC Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "2525NSC Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "2525NSC End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

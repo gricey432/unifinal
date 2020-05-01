@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research paper proposal",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper on a selected Metro Planning topic",
+			"weight": 40
+		},
+		{
+			"name": "Semester examination",
+			"weight": 45
+		}
+	]
+}

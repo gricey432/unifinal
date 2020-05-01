@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Engagement Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

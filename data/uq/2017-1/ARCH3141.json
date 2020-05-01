@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 (Urban Cultural Cross-Roads)",
+			"weight": 20
+		},
+		{
+			"name": "Participation & Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 (Asian Architecture)",
+			"weight": 20
+		},
+		{
+			"name": "Architecture in Asia Final Evaluation",
+			"weight": 50
+		}
+	]
+}

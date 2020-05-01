@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical class work sheets",
+			"weight": 20
+		},
+		{
+			"name": "Body system evolutionary seminar series",
+			"weight": 20
+		},
+		{
+			"name": "Animal structure and function theory exam",
+			"weight": 60
+		}
+	]
+}

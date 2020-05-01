@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning &amp; Dev. Needs Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Learning &amp; Dev. Video",
+			"weight": 40
+		},
+		{
+			"name": "Learning &amp; Dev. Plan",
+			"weight": 40
+		}
+	]
+}

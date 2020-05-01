@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for major prac",
+			"weight": 10
+		},
+		{
+			"name": "Final Personal Training Report",
+			"weight": 30
+		},
+		{
+			"name": "PBL Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Student Professional Conduct",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Client Training and Assessment Skills",
+			"weight": 15
+		},
+		{
+			"name": "Draft personal training program",
+			"weight": 15
+		}
+	]
+}

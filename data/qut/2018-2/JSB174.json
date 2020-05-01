@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Forensic Case Report",
+			"weight": 50
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		}
+	]
+}

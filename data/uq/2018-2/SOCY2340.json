@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Work - 10 Padlet Digital Stories",
+			"weight": 50
+		},
+		{
+			"name": "Essay (1200 words)",
+			"weight": 25
+		},
+		{
+			"name": "multiple choice exam - end of semester",
+			"weight": 25
+		}
+	]
+}

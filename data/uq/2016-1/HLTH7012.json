@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Workbook",
+			"weight": 50
+		},
+		{
+			"name": "Chronic Disease Management/written assignment",
+			"weight": 25
+		},
+		{
+			"name": "Palliative Care/written assignment",
+			"weight": 25
+		}
+	]
+}

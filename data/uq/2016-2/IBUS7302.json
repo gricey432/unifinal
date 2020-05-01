@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contemporary International Business Issues",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Test, Take-home",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam - in-class",
+			"weight": 50
+		}
+	]
+}

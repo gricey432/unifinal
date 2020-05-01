@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lectures 1-4",
+			"weight": 30
+		},
+		{
+			"name": "Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

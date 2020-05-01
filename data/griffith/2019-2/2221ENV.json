@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Mid-term essay",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		},
+		{
+			"name": "Mid-term essay",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

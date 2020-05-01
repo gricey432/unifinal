@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Defining and analysing course concepts",
+			"weight": 10
+		},
+		{
+			"name": "Analysing a New Experience",
+			"weight": 40
+		},
+		{
+			"name": "Personal Educational Philosophy & Portfolio",
+			"weight": 50
+		}
+	]
+}

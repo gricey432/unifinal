@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Climate Change",
+			"weight": 50
+		},
+		{
+			"name": "Final course examination",
+			"weight": 20
+		}
+	]
+}

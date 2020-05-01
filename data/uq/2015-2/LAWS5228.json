@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation & Participation",
+			"weight": 10
+		},
+		{
+			"name": "APP Application & Evaluation",
+			"weight": 50
+		},
+		{
+			"name": "The Future of Australian Privacy Law",
+			"weight": 40
+		}
+	]
+}

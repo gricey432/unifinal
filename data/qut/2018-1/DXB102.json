@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Porftolio",
+			"weight": 40
+		},
+		{
+			"name": "Vis Communication Des Project",
+			"weight": 60
+		}
+	]
+}

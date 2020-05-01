@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Museum management assignment",
+			"weight": 50
+		},
+		{
+			"name": "Museum management project report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Thought pieces",
+			"weight": 50
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 50
+		}
+	]
+}

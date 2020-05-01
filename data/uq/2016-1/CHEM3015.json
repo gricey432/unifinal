@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "7 QUIZZES",
+			"weight": 3
+		},
+		{
+			"name": "7 Practical Sessions & 3 Prac Reports/Lab Notebook",
+			"weight": 35
+		},
+		{
+			"name": "TAKE-HOME MID-SEMESTER EXAMINATION",
+			"weight": 12
+		},
+		{
+			"name": "FINAL EXAMINATION - Open Book",
+			"weight": 50
+		}
+	]
+}

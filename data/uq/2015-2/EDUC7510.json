@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective learning journal",
+			"weight": 25
+		},
+		{
+			"name": "Reflective reading summaries",
+			"weight": 25
+		},
+		{
+			"name": "A critical discussion of the cultural interface",
+			"weight": 25
+		},
+		{
+			"name": "A conversation about Indigenous education",
+			"weight": 25
+		}
+	]
+}

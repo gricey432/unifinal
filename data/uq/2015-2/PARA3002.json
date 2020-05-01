@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Parasite pathogenicity",
+			"weight": 20
+		},
+		{
+			"name": "Practical examination",
+			"weight": 20
+		},
+		{
+			"name": "Theory examination",
+			"weight": 60
+		}
+	]
+}

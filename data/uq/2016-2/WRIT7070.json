@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Proofreading marks test",
+			"weight": 10
+		},
+		{
+			"name": "Acquisitions Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Copy-editing test",
+			"weight": 10
+		},
+		{
+			"name": "Copy-editing test",
+			"weight": 10
+		},
+		{
+			"name": "Structural report",
+			"weight": 50
+		}
+	]
+}

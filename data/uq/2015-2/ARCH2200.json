@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Conceptual Design",
+			"weight": 40
+		},
+		{
+			"name": "Final Design",
+			"weight": 60
+		}
+	]
+}

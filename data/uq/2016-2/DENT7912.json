@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation and Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Protocol ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Extra-Oral Radiology Licence Examination",
+			"weight": "Pass/Fail"
+		}
+	]
+}

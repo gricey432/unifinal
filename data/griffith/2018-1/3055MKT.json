@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concepts Test",
+			"weight": 25
+		},
+		{
+			"name": "Green Marketing Observation & Analysis Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

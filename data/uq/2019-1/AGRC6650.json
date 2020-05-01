@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Attendance Diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Literature Review/Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Abstract of your Research thesis",
+			"weight": 0
+		},
+		{
+			"name": "Powerpoint slides of your Research thesis",
+			"weight": 0
+		},
+		{
+			"name": "Research thesis",
+			"weight": 60
+		},
+		{
+			"name": "Research Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Advisor's Assessment",
+			"weight": 10
+		}
+	]
+}

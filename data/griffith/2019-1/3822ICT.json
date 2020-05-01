@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": " Workplace based assessment",
+			"weight": 20
+		},
+		{
+			"name": "Project Portfolio ",
+			"weight": 20
+		},
+		{
+			"name": "Project Plan ",
+			"weight": 20
+		},
+		{
+			"name": "Post-Project Review ",
+			"weight": 20
+		},
+		{
+			"name": "Technical or professional poster (Expo Display)",
+			"weight": 20
+		}
+	]
+}

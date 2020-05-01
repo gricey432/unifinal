@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Public Health Message Abstract",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Skills based competency assessment",
+			"weight": 40
+		},
+		{
+			"name": "Public Health Message Video",
+			"weight": 30
+		}
+	]
+}

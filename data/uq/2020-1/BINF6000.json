@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Core Practicals Quiz (Assessment 1)",
+			"weight": 10
+		},
+		{
+			"name": "Workshop 0 (Course Assessment Hurdle)",
+			"weight": "Pass of Fail (see 5.4)"
+		},
+		{
+			"name": "Workshop 1 (Assessment 2)",
+			"weight": 15
+		},
+		{
+			"name": "Workshop 2 (Assessment 3)",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

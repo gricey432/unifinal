@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar engagement",
+			"weight": 15
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Two in-class tests in Weeks 6 and 12",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Task and Essay",
+			"weight": 30
+		},
+		{
+			"name": "Online Problem Solving Exercis",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

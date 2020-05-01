@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Workbook",
+			"weight": 15
+		},
+		{
+			"name": "Career Competencies Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Scientific Report",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

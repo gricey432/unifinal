@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Physical Health Assessment",
+			"weight": 50
+		},
+		{
+			"name": "Local Emergency/Disaster Situation",
+			"weight": 50
+		}
+	]
+}

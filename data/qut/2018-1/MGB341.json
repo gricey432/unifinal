@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Crisis Management Simulation",
+			"weight": 40
+		},
+		{
+			"name": "Risk Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Managing Risk",
+			"weight": 20
+		}
+	]
+}

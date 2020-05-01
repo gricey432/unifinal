@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "First philosophical essay",
+			"weight": 40
+		},
+		{
+			"name": "Second philosophical essay",
+			"weight": 50
+		}
+	]
+}

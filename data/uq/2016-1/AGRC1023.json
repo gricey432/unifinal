@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZZES - PART 1",
+			"weight": 15
+		},
+		{
+			"name": "Part 1 - completion of problems",
+			"weight": 5
+		},
+		{
+			"name": "QUIZZES - PART 2",
+			"weight": 15
+		},
+		{
+			"name": "Part 2 - Week 7 to 12",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam ",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

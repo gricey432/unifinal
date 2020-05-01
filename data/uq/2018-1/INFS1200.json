@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "PeerWise Question Authoring and Answering",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 1 (for monday 5-6 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1 (for tuesday 11-12 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 (for monday 5-6 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2 (for tuesday 11-12 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3 (for monday 5-6 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3 (for tuesday 11-12 contact session)",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

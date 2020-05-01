@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PBL weekly participation and discussion board",
+			"weight": 10
+		},
+		{
+			"name": "Critical issue",
+			"weight": 40
+		},
+		{
+			"name": "Exam for NURS7103",
+			"weight": 50
+		}
+	]
+}

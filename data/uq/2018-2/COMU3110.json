@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Journal",
+			"weight": 30
+		},
+		{
+			"name": "Participation and Presentation Pitch",
+			"weight": 20
+		},
+		{
+			"name": " ",
+			"weight": "hurdle"
+		},
+		{
+			"name": " ",
+			"weight": 20
+		},
+		{
+			"name": " ",
+			"weight": 10
+		},
+		{
+			"name": "Podcast Audio",
+			"weight": 20
+		}
+	]
+}

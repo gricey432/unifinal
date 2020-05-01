@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HW 1",
+			"weight": 10
+		},
+		{
+			"name": "HW 2",
+			"weight": 10
+		},
+		{
+			"name": "HW 3",
+			"weight": 10
+		},
+		{
+			"name": "Report project",
+			"weight": 20
+		},
+		{
+			"name": "Report reviews",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

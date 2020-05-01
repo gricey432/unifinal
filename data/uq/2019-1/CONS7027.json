@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Udy: EIA Practical assessment ",
+			"weight": 5
+		},
+		{
+			"name": "Udy: Written exam - EIA assignment",
+			"weight": 30
+		},
+		{
+			"name": "Kilpatrick: Social Media post or E-newsletter",
+			"weight": 5
+		},
+		{
+			"name": "Bunce: Group Presentations - Government",
+			"weight": 30
+		},
+		{
+			"name": "Muurmans: Writing a winning conservation grant",
+			"weight": 30
+		}
+	]
+}

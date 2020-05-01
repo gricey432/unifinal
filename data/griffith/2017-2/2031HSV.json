@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation and Analysis. ",
+			"weight": 60
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

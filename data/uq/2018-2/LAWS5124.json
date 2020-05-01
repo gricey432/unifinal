@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class preparation and participation",
+			"weight": 20
+		},
+		{
+			"name": "Take home exam (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Law reform submission (2000 words)",
+			"weight": 40
+		}
+	]
+}

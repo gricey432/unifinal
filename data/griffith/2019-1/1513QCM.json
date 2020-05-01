@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Raised Voices",
+			"weight": 0
+		},
+		{
+			"name": "Assignments during semester",
+			"weight": 10
+		},
+		{
+			"name": "Music Materials Workbooks",
+			"weight": 40
+		},
+		{
+			"name": "Practical Tests",
+			"weight": 20
+		},
+		{
+			"name": "Exam - Practical Test 3",
+			"weight": 30
+		}
+	]
+}

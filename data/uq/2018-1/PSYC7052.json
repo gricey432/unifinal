@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Core competencies for Group Triple P",
+			"weight": 60
+		},
+		{
+			"name": "Group Triple P Quiz",
+			"weight": 40
+		}
+	]
+}

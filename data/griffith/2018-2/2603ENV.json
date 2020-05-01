@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory report",
+			"weight": 30
+		},
+		{
+			"name": "Group Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Scientific Research Report",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Ecology - Final Exam",
+			"weight": 30
+		}
+	]
+}

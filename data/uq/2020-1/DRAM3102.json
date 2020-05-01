@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection - Blackboard Entries",
+			"weight": 10
+		},
+		{
+			"name": "Script Assessments for Presenting Playwrights",
+			"weight": 10
+		},
+		{
+			"name": "Script Dramaturgy Report",
+			"weight": 30
+		},
+		{
+			"name": "Short Play Script",
+			"weight": 50
+		}
+	]
+}

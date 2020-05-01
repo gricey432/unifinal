@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "MCQ & SAQ exam based on published research papers",
+			"weight": 30
+		},
+		{
+			"name": "Written Examination ",
+			"weight": 60
+		}
+	]
+}

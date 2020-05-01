@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class tests",
+			"weight": 20
+		},
+		{
+			"name": "Reading Quizzes",
+			"weight": "Must answer 75"
+		},
+		{
+			"name": "Distance Ladder Project",
+			"weight": 20
+		},
+		{
+			"name": "Cosmological parameter Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration",
+			"weight": 50
+		},
+		{
+			"name": "Production Practice 1 Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summary",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Attendence and Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Essay",
+			"weight": 45
+		},
+		{
+			"name": "Second Essay",
+			"weight": 35
+		}
+	]
+}

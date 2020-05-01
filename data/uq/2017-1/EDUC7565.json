@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 10
+		},
+		{
+			"name": "Numeracy Research Report",
+			"weight": 35
+		},
+		{
+			"name": "Mathametics Competency Task",
+			"weight": 30
+		},
+		{
+			"name": "Numeracy video presentation and research report",
+			"weight": 25
+		}
+	]
+}

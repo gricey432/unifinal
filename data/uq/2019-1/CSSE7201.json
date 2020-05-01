@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Prac Exam",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Instruction Set Architecture Assignment",
+			"weight": 5
+		},
+		{
+			"name": "AVR Programming Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video teaching exercise",
+			"weight": 20
+		},
+		{
+			"name": "Writing exercise",
+			"weight": 40
+		},
+		{
+			"name": "Take-home examination",
+			"weight": 40
+		}
+	]
+}

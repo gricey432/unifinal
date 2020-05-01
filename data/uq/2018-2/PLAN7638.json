@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Week 4 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 6 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 8 Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Project Review - Individual",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

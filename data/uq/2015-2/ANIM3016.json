@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Zoo Report - The Ipswich Experience",
+			"weight": 10
+		},
+		{
+			"name": "Developing a Husbandry Manual",
+			"weight": 25
+		},
+		{
+			"name": "The Release of Captive Wildlife ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

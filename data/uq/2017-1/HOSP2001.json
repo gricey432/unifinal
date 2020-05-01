@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of hotel operations",
+			"weight": 20
+		},
+		{
+			"name": "Operational Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Hotel Operations Insights",
+			"weight": 50
+		}
+	]
+}

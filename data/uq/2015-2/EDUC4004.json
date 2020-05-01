@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Senior Health Education Work Program Report",
+			"weight": 20
+		},
+		{
+			"name": "Assessment practice and reform",
+			"weight": 30
+		},
+		{
+			"name": "Conference presentation and paper",
+			"weight": 50
+		}
+	]
+}

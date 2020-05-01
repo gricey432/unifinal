@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "System and Material Balances",
+			"weight": 15
+		},
+		{
+			"name": "Individual PBL 3 - Gladstone",
+			"weight": 25
+		},
+		{
+			"name": "Sustainable Urban Development",
+			"weight": 35
+		},
+		{
+			"name": "Problem-Based Learning - Individual Task ",
+			"weight": 25
+		}
+	]
+}

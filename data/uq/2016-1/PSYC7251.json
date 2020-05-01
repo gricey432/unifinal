@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Present an assessment measure during tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Clinical competency demonstration",
+			"weight": 40
+		},
+		{
+			"name": "Formulation and Treatment of Complex Cases ",
+			"weight": 50
+		}
+	]
+}

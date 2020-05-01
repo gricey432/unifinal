@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "HSK Testing",
+			"weight": 5
+		},
+		{
+			"name": "Weekly worksheet/dictation",
+			"weight": 5
+		},
+		{
+			"name": "Writing Report 1",
+			"weight": 10
+		},
+		{
+			"name": "IN-CLASS Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Writing Report 2",
+			"weight": 10
+		},
+		{
+			"name": "IN-CLASS Exam 2",
+			"weight": 30
+		},
+		{
+			"name": "Writing Report 3",
+			"weight": 10
+		}
+	]
+}

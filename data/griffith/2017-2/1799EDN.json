@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning to teach using evidence of learning",
+			"weight": 30
+		},
+		{
+			"name": "Using curriculum and assessment to design learning",
+			"weight": 70
+		}
+	]
+}

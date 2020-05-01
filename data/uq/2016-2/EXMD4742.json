@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 15
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Placement (Immersion) & case study notes",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam ",
+			"weight": 35
+		}
+	]
+}

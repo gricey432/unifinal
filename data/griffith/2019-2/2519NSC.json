@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "TEST OR QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "Assignment-problem solving",
+			"weight": 10
+		},
+		{
+			"name": "TEST OR QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "Assignment - problem solving ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Case Examination",
+			"weight": 20
+		},
+		{
+			"name": "Problem Solving Question",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

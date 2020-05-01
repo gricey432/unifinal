@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Academic development quiz",
+			"weight": 30
+		},
+		{
+			"name": "Paired oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

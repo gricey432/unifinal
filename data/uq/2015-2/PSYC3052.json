@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Facebook Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 5",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 6",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 7",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 8",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 9",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 10",
+			"weight": 5
+		},
+		{
+			"name": "Essay",
+			"weight": 35
+		},
+		{
+			"name": "Essay Peer Review",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 11",
+			"weight": 0
+		}
+	]
+}

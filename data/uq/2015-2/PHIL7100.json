@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis of Key Articles",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Dialogue",
+			"weight": 30
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 40
+		}
+	]
+}

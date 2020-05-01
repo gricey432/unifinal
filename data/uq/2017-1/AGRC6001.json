@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced draft literature review",
+			"weight": 0
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Advisor's assessment",
+			"weight": 10
+		},
+		{
+			"name": "Honours seminar",
+			"weight": 10
+		},
+		{
+			"name": "Research thesis",
+			"weight": 70
+		}
+	]
+}

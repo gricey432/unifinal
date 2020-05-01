@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Proposal (Part A)",
+			"weight": 15
+		},
+		{
+			"name": "Event Proposal (Part B)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

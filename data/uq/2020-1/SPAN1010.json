@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Oral Interview (ONLINE)",
+			"weight": 25
+		},
+		{
+			"name": "Course Engagement PADLET",
+			"weight": 5
+		},
+		{
+			"name": "Revision Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Term Pair-Interview (VIDEO)",
+			"weight": 10
+		},
+		{
+			"name": "Written Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-term Critique Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "ePortfolio 1",
+			"weight": 30
+		},
+		{
+			"name": "End of term folio",
+			"weight": 30
+		},
+		{
+			"name": "ePortfolio 2",
+			"weight": 30
+		}
+	]
+}

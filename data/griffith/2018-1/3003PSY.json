@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester exam",
+			"weight": 25
+		},
+		{
+			"name": "Administer survey and enter data",
+			"weight": 5
+		},
+		{
+			"name": "Survey-based research report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

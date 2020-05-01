@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Postmortem reports",
+			"weight": 50
+		},
+		{
+			"name": "Histopathology case presentation",
+			"weight": 10
+		},
+		{
+			"name": "Pathology case study ",
+			"weight": 40
+		},
+		{
+			"name": "Diagnostic technique log book",
+			"weight": "Pass/ Fail"
+		}
+	]
+}

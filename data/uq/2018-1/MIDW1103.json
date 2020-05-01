@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mandatory requirements for clinical practice ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Manual Handling Workshop",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Continuity of Care Experiences",
+			"weight": "NGP"
+		},
+		{
+			"name": "Timesheet ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative assessment",
+			"weight": "NGP"
+		}
+	]
+}

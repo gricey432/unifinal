@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Small Group Participation",
+			"weight": 25
+		},
+		{
+			"name": "Formative Outline of Argument",
+			"weight": 15
+		},
+		{
+			"name": "Final Moot Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Outline of Argument",
+			"weight": 40
+		}
+	]
+}

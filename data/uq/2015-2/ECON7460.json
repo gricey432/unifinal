@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Presentation and Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Presentation/Discussion Slides",
+			"weight": 5
+		},
+		{
+			"name": "Empirical Project",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

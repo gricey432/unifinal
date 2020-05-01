@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of an incident  ",
+			"weight": 20
+		},
+		{
+			"name": "Risk Assessment for a Proposed Development",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of project outcomes",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

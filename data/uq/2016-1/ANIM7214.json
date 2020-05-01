@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Animal Behaviour Presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Applied Animal Behaviour ",
+			"weight": 20
+		},
+		{
+			"name": "Short Behaviour Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

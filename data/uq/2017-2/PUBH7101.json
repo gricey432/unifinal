@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis of contemporary debates",
+			"weight": 50
+		},
+		{
+			"name": "Policy Briefing Paper",
+			"weight": 30
+		}
+	]
+}

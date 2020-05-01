@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Journal: submission via Blackboard x 2",
+			"weight": 28
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 7
+		},
+		{
+			"name": "Kanji test x 4",
+			"weight": 20
+		},
+		{
+			"name": "In-Class Writing Test",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Dilemma",
+			"weight": 30
+		},
+		{
+			"name": "Viva",
+			"weight": 30
+		},
+		{
+			"name": "Clinical assessment",
+			"weight": 40
+		}
+	]
+}

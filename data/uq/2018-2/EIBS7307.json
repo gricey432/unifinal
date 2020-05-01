@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Business Model Environment & Value Proposition ",
+			"weight": 20
+		},
+		{
+			"name": "Business Model Canvas Progress",
+			"weight": 20
+		},
+		{
+			"name": "Final Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Final BMC Report",
+			"weight": 40
+		}
+	]
+}

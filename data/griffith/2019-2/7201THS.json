@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Course exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Case Study Problem Solving ",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

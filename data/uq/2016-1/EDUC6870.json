@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Resource file ",
+			"weight": 50
+		},
+		{
+			"name": "Senior unit of work",
+			"weight": 50
+		}
+	]
+}

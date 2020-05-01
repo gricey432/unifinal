@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Syndicate Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Major Project",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration and Essay",
+			"weight": 60
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

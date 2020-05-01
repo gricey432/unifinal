@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Progamming Sketchbook",
+			"weight": 50
+		},
+		{
+			"name": "Major Interactive Work",
+			"weight": 50
+		}
+	]
+}

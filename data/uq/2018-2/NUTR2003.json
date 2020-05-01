@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Food intake and nutrient analysis exercise",
+			"weight": 10
+		},
+		{
+			"name": " Contemporary Issues in Nutrition",
+			"weight": 10
+		},
+		{
+			"name": "Group oral presentation and annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

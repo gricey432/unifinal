@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Earth System - online quiz (x1), Lab reports (x4)",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Trimester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

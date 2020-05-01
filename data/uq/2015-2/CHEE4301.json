@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Crystallography",
+			"weight": 5
+		},
+		{
+			"name": "Crystal Structure Modelling ",
+			"weight": 10
+		},
+		{
+			"name": "Diffraction",
+			"weight": 5
+		},
+		{
+			"name": "XPS ",
+			"weight": 5
+		},
+		{
+			"name": "Synthesis of Bi2Te3",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

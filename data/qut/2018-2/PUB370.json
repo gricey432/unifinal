@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Coding",
+			"weight": 50
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

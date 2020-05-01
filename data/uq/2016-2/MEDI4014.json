@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "On Call Shift",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Marked Admission 1",
+			"weight": 15
+		},
+		{
+			"name": "Marked Admission 2",
+			"weight": 15
+		},
+		{
+			"name": "NPC Online Modules",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Learning Objective Report *overseas only",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Clinical Participation Assessment: Specialty 1",
+			"weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+		},
+		{
+			"name": "Multiple Choice Exam: Paper A",
+			"weight": 35
+		},
+		{
+			"name": "Multiple Choice Exam: Paper B",
+			"weight": 35
+		},
+		{
+			"name": "Clinical Participation Assessment: Specialty 2",
+			"weight": "PASS/FAIL. To pass the course, students must pass this regardless of the marks in other assessments."
+		}
+	]
+}

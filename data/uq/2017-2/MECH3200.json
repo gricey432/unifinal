@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Formal Report (1) & Logbook entries (3)",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Assignments (5)",
+			"weight": 25
+		},
+		{
+			"name": "Demonstration Project",
+			"weight": 15
+		},
+		{
+			"name": "Quiz on Part A",
+			"weight": "max 5"
+		},
+		{
+			"name": "Quiz on Part B",
+			"weight": "max 5"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "min 40"
+		}
+	]
+}

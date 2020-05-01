@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and weekly homework",
+			"weight": 5
+		},
+		{
+			"name": "HSK Test 1 in Week 1 and Test 1 in Week 13",
+			"weight": 5
+		},
+		{
+			"name": "Collaborative writing (CW) task",
+			"weight": 15
+		},
+		{
+			"name": "Weekly dictation",
+			"weight": 10
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam ",
+			"weight": 35
+		}
+	]
+}

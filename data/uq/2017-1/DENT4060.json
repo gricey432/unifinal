@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Prosthodontics",
+			"weight": 10
+		},
+		{
+			"name": "Periodontics & Endodontics",
+			"weight": 10
+		},
+		{
+			"name": "Written examination paper",
+			"weight": 40
+		},
+		{
+			"name": "Objective Structured Clinical Examination ",
+			"weight": 40
+		}
+	]
+}

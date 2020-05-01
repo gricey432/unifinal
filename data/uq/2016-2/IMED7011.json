@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Surgical Case",
+			"weight": 30
+		},
+		{
+			"name": "Literature review / Thesis",
+			"weight": 25
+		},
+		{
+			"name": "Discussion",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

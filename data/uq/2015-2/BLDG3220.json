@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Schematic Design",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Technical Report",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 3 - Technical Resolution",
+			"weight": 50
+		}
+	]
+}

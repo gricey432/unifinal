@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Planning and Reflection Task 1a",
+			"weight": 10
+		},
+		{
+			"name": "Planning and Reflection Task 1b",
+			"weight": 15
+		},
+		{
+			"name": "Planning and Reflection Task 1c",
+			"weight": 15
+		},
+		{
+			"name": "Constraints-Led Approach to Teaching and Learning ",
+			"weight": 15
+		},
+		{
+			"name": "Teaching and Learning Project",
+			"weight": 45
+		},
+		{
+			"name": "Minor Prac Teaching Performance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "UniPE Secondary Teaching Performance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

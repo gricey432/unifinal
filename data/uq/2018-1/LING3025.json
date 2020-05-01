@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Bilinarra Language, History and Kinship",
+			"weight": 10
+		},
+		{
+			"name": "Sounds of Bilinarra",
+			"weight": 10
+		},
+		{
+			"name": "Bilinarra Parts of Speech",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation",
+			"weight": 10
+		},
+		{
+			"name": "Case in Bilinarra",
+			"weight": 10
+		},
+		{
+			"name": "Pronouns",
+			"weight": 10
+		},
+		{
+			"name": "Possession, Spatial Relations, Verbs in Bilinarra",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		}
+	]
+}

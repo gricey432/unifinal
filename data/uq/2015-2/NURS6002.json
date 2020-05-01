@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal",
+			"weight": 50
+		},
+		{
+			"name": "Written response to reviewer's comments ",
+			"weight": 20
+		},
+		{
+			"name": "Individual oral presentation",
+			"weight": 30
+		}
+	]
+}

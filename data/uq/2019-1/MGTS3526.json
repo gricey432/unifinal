@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Case Study Quizzes",
+			"weight": 60
+		},
+		{
+			"name": "Team Project",
+			"weight": 30
+		}
+	]
+}

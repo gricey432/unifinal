@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "ICU Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Anaesthetics Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Emergency Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Critical Care End of Semester MCQ Exam",
+			"weight": 70
+		},
+		{
+			"name": "Clinical Participation Assessment - ED & ICU",
+			"weight": "Compliance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "CCC online modules, cases and quizzes",
+			"weight": "Compliance Hurdle: Students must pass regardless of overall course marks"
+		}
+	]
+}

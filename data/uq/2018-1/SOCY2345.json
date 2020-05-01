@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Big social concept",
+			"weight": 40
+		},
+		{
+			"name": "The Conversation Piece",
+			"weight": 35
+		}
+	]
+}

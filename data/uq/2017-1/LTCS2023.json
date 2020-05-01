@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation ",
+			"weight": 10
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group presentations",
+			"weight": 10
+		},
+		{
+			"name": "Essay Writing",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

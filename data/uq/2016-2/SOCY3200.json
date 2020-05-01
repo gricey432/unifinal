@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly article summaries",
+			"weight": 50
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 40
+		}
+	]
+}

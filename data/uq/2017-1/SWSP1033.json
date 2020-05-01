@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1: Agency Visit and Essay",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 2: Case Scenario Essay",
+			"weight": 45
+		}
+	]
+}

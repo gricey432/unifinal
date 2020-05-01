@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom PA Integration: PD Workshop",
+			"weight": 70
+		},
+		{
+			"name": "Applying for Funding: Developing/Extening a WSSPAP",
+			"weight": 30
+		}
+	]
+}

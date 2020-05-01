@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Laboratory (weeks 4, 7, 8 & 10)",
+			"weight": "penalties "
+		},
+		{
+			"name": "Field trip",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Portfolio 1 (Module 1 and Field Trip)",
+			"weight": 8
+		},
+		{
+			"name": "Portfolio 2 (Module 2 and Lab 1)",
+			"weight": 8
+		},
+		{
+			"name": "Portfolio 3 (Module 3 and Lab 2)",
+			"weight": 8
+		},
+		{
+			"name": "Portfolio 4 (module 4 and Lab 3)",
+			"weight": 8
+		},
+		{
+			"name": "Portfolio 5 (Module 5 and Lab 4)",
+			"weight": 8
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

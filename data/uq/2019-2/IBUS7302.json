@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Team Debate: IB Issues; See Assign. Guide",
+			"weight": 25
+		},
+		{
+			"name": "Exam in signed-on class Week 7",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

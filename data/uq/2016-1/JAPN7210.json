@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of translation skills development",
+			"weight": 15
+		},
+		{
+			"name": "Development of professionalism",
+			"weight": 5
+		},
+		{
+			"name": "Homework translation for assessment 1",
+			"weight": 20
+		},
+		{
+			"name": "Homework translation for assessment 2",
+			"weight": 20
+		},
+		{
+			"name": "Translation examination",
+			"weight": 40
+		}
+	]
+}

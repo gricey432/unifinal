@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Preparatory Online Grammar Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Weekly writing tasks",
+			"weight": 30
+		},
+		{
+			"name": "In-class Reading quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "In-class Reading quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "In-class Reading quiz 3",
+			"weight": 25
+		}
+	]
+}

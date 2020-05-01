@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Active Participation",
+			"weight": 30
+		},
+		{
+			"name": "Classroom Activity Plan",
+			"weight": 25
+		},
+		{
+			"name": "Individual Reflection on Activity Plan",
+			"weight": 15
+		},
+		{
+			"name": "Group Professional Development Seminar",
+			"weight": 30
+		}
+	]
+}

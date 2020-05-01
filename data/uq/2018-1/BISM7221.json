@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The role of IS audit in Information Governance",
+			"weight": 20
+		},
+		{
+			"name": "Audit Report and Video Summary (Audit Case)",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

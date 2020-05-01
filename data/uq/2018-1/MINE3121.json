@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Rock Testing Practicals Lab Book",
+			"weight": 15
+		},
+		{
+			"name": "Group Computer Exercise",
+			"weight": 15
+		},
+		{
+			"name": "Deformable Materials (DM) Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Deformable Materials (DM) Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Rock Mechanics",
+			"weight": 40
+		}
+	]
+}

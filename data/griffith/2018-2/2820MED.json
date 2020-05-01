@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Written Reflection",
+			"weight": 35
+		},
+		{
+			"name": "Theory Exam 1",
+			"weight": 10
+		},
+		{
+			"name": "Theory Exam 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Practical Exam",
+			"weight": 0
+		},
+		{
+			"name": "End of Trimester ",
+			"weight": 45
+		}
+	]
+}

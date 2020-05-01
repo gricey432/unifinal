@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Personal critical reflection",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial presentation and participation portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Child Study - Longitudinal Study",
+			"weight": 30
+		},
+		{
+			"name": "Personal philosophy of teaching",
+			"weight": 20
+		}
+	]
+}

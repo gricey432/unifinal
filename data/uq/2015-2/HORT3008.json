@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review on chosen topic",
+			"weight": 25
+		},
+		{
+			"name": "Presentation slides and speaker notes",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

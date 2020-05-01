@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Proof of Concept (POC)",
+			"weight": 30
+		},
+		{
+			"name": "Short Drama Production",
+			"weight": 70
+		}
+	]
+}

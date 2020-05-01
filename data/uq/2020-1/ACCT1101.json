@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Exam during the Examination Period",
+			"weight": 70
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Role-play and reflection",
+			"weight": 40
+		},
+		{
+			"name": "Examination (theory)",
+			"weight": 60
+		}
+	]
+}

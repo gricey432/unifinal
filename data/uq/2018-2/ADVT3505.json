@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Social Media Content",
+			"weight": 25
+		},
+		{
+			"name": "Advertising Industry Project (Team Project)",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Critique",
+			"weight": 15
+		}
+	]
+}

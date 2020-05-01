@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Activities",
+			"weight": 35
+		},
+		{
+			"name": "Teaching a Concept",
+			"weight": 35
+		},
+		{
+			"name": "Modelling an Inquiry",
+			"weight": 30
+		}
+	]
+}

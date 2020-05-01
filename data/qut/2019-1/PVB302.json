@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 60
+		}
+	]
+}

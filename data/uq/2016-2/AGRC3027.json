@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy description and critique",
+			"weight": 25
+		},
+		{
+			"name": "First exam",
+			"weight": 37
+		},
+		{
+			"name": "Second exam",
+			"weight": 37
+		}
+	]
+}

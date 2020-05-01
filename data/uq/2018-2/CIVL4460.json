@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project 1",
+			"weight": 10
+		},
+		{
+			"name": "Group Project 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Project 3",
+			"weight": 10
+		},
+		{
+			"name": "Diagnostic Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Project 4",
+			"weight": 10
+		},
+		{
+			"name": "In-class Software Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and involvement in class activities",
+			"weight": "Program requirement"
+		},
+		{
+			"name": "Thesis sections submitted",
+			"weight": "Program requirement"
+		},
+		{
+			"name": "Student Presentation",
+			"weight": "Program requirement"
+		},
+		{
+			"name": "Group supervised thesis",
+			"weight": 100
+		}
+	]
+}

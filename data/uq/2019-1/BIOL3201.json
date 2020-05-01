@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Disease Collection",
+			"weight": 20
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 15
+		},
+		{
+			"name": "First progressive practical skills test",
+			"weight": 10
+		},
+		{
+			"name": "Second Progressive Practical Skills test",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

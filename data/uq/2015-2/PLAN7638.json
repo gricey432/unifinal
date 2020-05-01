@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Term Exam",
+			"weight": 25
+		},
+		{
+			"name": "Project Analysis- Group presentation (video)",
+			"weight": 30
+		},
+		{
+			"name": "Project Review - Individual",
+			"weight": 45
+		}
+	]
+}

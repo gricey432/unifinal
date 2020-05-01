@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Critical Responses",
+			"weight": 20
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Group Performance and Critical Reflection",
+			"weight": 30
+		}
+	]
+}

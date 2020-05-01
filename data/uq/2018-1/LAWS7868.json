@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 10
+		},
+		{
+			"name": "Case Note",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contribute to Class Discussion on 6th August",
+			"weight": 5
+		},
+		{
+			"name": "Class \"Journal\" Contribution",
+			"weight": 25
+		},
+		{
+			"name": "Frameworks/Traditions of CD Symposium",
+			"weight": 5
+		},
+		{
+			"name": "Emerging Framework Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Community Development Framework",
+			"weight": 60
+		}
+	]
+}

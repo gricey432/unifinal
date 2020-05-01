@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution",
+			"weight": 15
+		},
+		{
+			"name": "Interim Report",
+			"weight": 15
+		},
+		{
+			"name": "Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Reflection on professional development",
+			"weight": 0
+		}
+	]
+}

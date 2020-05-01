@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Lab Reports",
+			"weight": 20
+		},
+		{
+			"name": "Project Management",
+			"weight": 25
+		},
+		{
+			"name": "System Analysis Report",
+			"weight": 25
+		},
+		{
+			"name": "System Design Report",
+			"weight": 20
+		}
+	]
+}

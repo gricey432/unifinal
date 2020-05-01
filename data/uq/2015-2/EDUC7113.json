@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Argumentative essay",
+			"weight": 40
+		},
+		{
+			"name": "Action-oriented inquiry",
+			"weight": 60
+		}
+	]
+}

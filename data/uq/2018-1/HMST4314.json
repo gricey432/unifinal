@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "400hours Practicum in an approved setting",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Self-Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim and Final Supervisors Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Project",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

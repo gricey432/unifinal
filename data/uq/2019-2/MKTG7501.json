@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Situational analysis report",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Plan Development (Group)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

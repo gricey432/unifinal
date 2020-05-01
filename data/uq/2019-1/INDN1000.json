@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard based video workbook (Wks 1-10)",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on out-of-class learning activities",
+			"weight": 20
+		},
+		{
+			"name": "Interview and transcription project",
+			"weight": 30
+		},
+		{
+			"name": "In-class tests for listening and reading ",
+			"weight": 30
+		}
+	]
+}

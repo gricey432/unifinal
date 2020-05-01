@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Journal",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Tasks",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 30
+		}
+	]
+}

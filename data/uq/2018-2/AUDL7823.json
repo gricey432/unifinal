@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Decoding Hearing Aid Features",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 50
+		},
+		{
+			"name": "Earmould Impressions",
+			"weight": 20
+		},
+		{
+			"name": "REMs",
+			"weight": 20
+		}
+	]
+}

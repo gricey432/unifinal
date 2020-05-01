@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Husbandry management of a chosen species",
+			"weight": 20
+		},
+		{
+			"name": "Mid semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online 4-D Farm Evaluation",
+			"weight": 5
+		},
+		{
+			"name": "Final exam - 2 hour",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Surgery and Anaesthesia OSCE",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Two Written Examination",
+			"weight": 10
+		},
+		{
+			"name": "Core Technical Skills",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Mid-Semester One Written Examination",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester One Written Examination",
+			"weight": 20
+		},
+		{
+			"name": "Veterinary Radiology Film Reading Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Two Written Examination",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 1 camera tracking",
+			"weight": 40
+		},
+		{
+			"name": "Assess 2 composited CGI shot",
+			"weight": 60
+		}
+	]
+}

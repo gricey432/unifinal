@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "A1 : Reflection & Project Documentation",
+			"weight": 15
+		},
+		{
+			"name": "A2 : Project Ideas and Inspirations",
+			"weight": "pass/fail "
+		},
+		{
+			"name": "Workshop Safety Induction",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "A4: Portfolio and Critical Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Deliverable 1 & 2: Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Deliverable 3 & 4: Prototype",
+			"weight": 20
+		},
+		{
+			"name": "Deliverable 5: Exhibit Finished Product",
+			"weight": 25
+		},
+		{
+			"name": "Deliverable 6: Project Webpage",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Video Essay",
+			"weight": 60
+		},
+		{
+			"name": "Critical Response",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Experience Placement - Final Report",
+			"weight": 50
+		},
+		{
+			"name": "Professional Portfolio - Targeted Evidence",
+			"weight": 50
+		}
+	]
+}

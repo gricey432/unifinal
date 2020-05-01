@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Exam 1",
+			"weight": 20
+		},
+		{
+			"name": "Formative Exam 2",
+			"weight": 20
+		},
+		{
+			"name": "Practical Skills Examination",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

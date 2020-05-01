@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "2nd Oral Presentation (on Assigned Reading)",
+			"weight": 20
+		},
+		{
+			"name": "Critical review of assigned topic",
+			"weight": 30
+		},
+		{
+			"name": "1st (Enabling) methodological presentation",
+			"weight": 10
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Methodological Approach Essay",
+			"weight": 30
+		}
+	]
+}

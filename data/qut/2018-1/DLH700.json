@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Landscape Assess &amp; Prop  Methd",
+			"weight": 20
+		},
+		{
+			"name": "Strategic Landsc Proposition",
+			"weight": 30
+		},
+		{
+			"name": "Strat &amp; Detailed Landsc Propos",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Micro teaching task",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial 1: Science Unit Plan",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial 2: Laboratory Skills Test",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial 1: Scientific Inquiry",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial 2: Laboratory-based lesson planning",
+			"weight": 40
+		}
+	]
+}

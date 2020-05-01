@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Intra Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "Contribution to CBL",
+			"weight": "See 5.2 Course Grading and 5.4 Other Assessment Information"
+		},
+		{
+			"name": "Practical and Image-Based Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Internet Revision Quiz - Fundamental Fluiddynamics",
+			"weight": 0
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": "max 20"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "min 50"
+		},
+		{
+			"name": "Bi-Weekly Tutorial Questions",
+			"weight": 10
+		},
+		{
+			"name": "Exp 4 (Turbomachinery)",
+			"weight": 3
+		},
+		{
+			"name": "Exp 3 (Pipe Flow)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 2 (Shock Tube)",
+			"weight": 7
+		},
+		{
+			"name": "Exp 1 (Aerofoil)",
+			"weight": 3
+		}
+	]
+}

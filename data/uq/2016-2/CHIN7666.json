@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Translation project 1 (600 words)",
+			"weight": 33
+		},
+		{
+			"name": "Translation project 2 (600 words)",
+			"weight": 33
+		},
+		{
+			"name": "Translation project 3 (600 words)",
+			"weight": 33
+		}
+	]
+}

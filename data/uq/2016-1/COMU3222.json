@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Comparing successful and unsuccessful spin",
+			"weight": 50
+		},
+		{
+			"name": "Influencing Public Opinion",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Case Write Up",
+			"weight": 50
+		},
+		{
+			"name": "End of Trimester Practical examination",
+			"weight": 0
+		}
+	]
+}

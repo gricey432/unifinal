@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Aural Continous Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Writing Techniques Midterm 1",
+			"weight": 15
+		},
+		{
+			"name": "Writing Techniques Midterm 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Skills - Dictation Exam ",
+			"weight": 20
+		},
+		{
+			"name": "Individual and Ensemble Performances",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 20
+		}
+	]
+}

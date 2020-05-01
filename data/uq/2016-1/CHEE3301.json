@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly problem sheets",
+			"weight": 5
+		},
+		{
+			"name": "Lab reports ",
+			"weight": 5
+		},
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "polymer wiki",
+			"weight": 5
+		},
+		{
+			"name": "Polymer materials selection",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

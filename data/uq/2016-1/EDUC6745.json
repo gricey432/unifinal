@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Designing learning activities ",
+			"weight": 33
+		},
+		{
+			"name": "Designing assessment with task specific criteria",
+			"weight": 34
+		},
+		{
+			"name": "Marking assessment & giving feedback to students",
+			"weight": 33
+		}
+	]
+}

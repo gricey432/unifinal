@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer teaching tasks",
+			"weight": 30
+		},
+		{
+			"name": "ROM and MMT Viva",
+			"weight": 30
+		},
+		{
+			"name": "Neuroanatomy Exam",
+			"weight": 40
+		}
+	]
+}

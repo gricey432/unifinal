@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Significance report",
+			"weight": 25
+		},
+		{
+			"name": "Gallery Environmental Survey",
+			"weight": 20
+		},
+		{
+			"name": "Emergency Plan",
+			"weight": 10
+		},
+		{
+			"name": "Acquisition Policy",
+			"weight": 15
+		},
+		{
+			"name": "Risk Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Documentation Task",
+			"weight": 15
+		}
+	]
+}

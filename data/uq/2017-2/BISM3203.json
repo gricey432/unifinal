@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Quizzes",
+			"weight": 21
+		},
+		{
+			"name": "System Development",
+			"weight": 24
+		},
+		{
+			"name": "Final exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio Part A",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio Part B",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio Part C/D",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Structured Clinical Examination in Obstetrics",
+			"weight": 30
+		},
+		{
+			"name": "MCQ Exam Part A - Obstetrics",
+			"weight": 20
+		},
+		{
+			"name": "Structured Clinical Examination in Gynaecology",
+			"weight": 30
+		},
+		{
+			"name": "MCQ Exam Part B - Gynaecology",
+			"weight": 20
+		},
+		{
+			"name": "Documented Vaginal Deliveries",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessments - Obstetrics",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Mini-CEX - Obstetrics",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessments - Gynaecology",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Mini-CEX - Gynaecology",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		}
+	]
+}

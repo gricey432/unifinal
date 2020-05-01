@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1: Research and Concept Design",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Item 2: Interim Design Submission",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Item 3: Final Design Submission",
+			"weight": 40
+		}
+	]
+}

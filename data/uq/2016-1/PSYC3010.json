@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2 In Class Quiz A and B",
+			"weight": 5
+		},
+		{
+			"name": "ANOVA Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1: Factorial Designs",
+			"weight": 20
+		},
+		{
+			"name": "Week 7 In Class Quiz A and B",
+			"weight": 5
+		},
+		{
+			"name": "Regression Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 11 In Class Quiz A and B",
+			"weight": 5
+		},
+		{
+			"name": "Week 12 Two-hour online quiz during class time",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2: Multiple Regression",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

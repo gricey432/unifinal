@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multi-faceted Complex Case Seminars",
+			"weight": 40
+		},
+		{
+			"name": "Reflection task",
+			"weight": 5
+		},
+		{
+			"name": "Multi-faceted Case Study Assignment",
+			"weight": 55
+		}
+	]
+}

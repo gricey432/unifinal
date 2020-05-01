@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Needs assessment report",
+			"weight": 25
+		},
+		{
+			"name": "In class exam",
+			"weight": 40
+		},
+		{
+			"name": "Design an intervention proposal",
+			"weight": 35
+		}
+	]
+}

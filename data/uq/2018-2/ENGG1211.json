@@ -1,0 +1,88 @@
+{
+	"assessment": [
+		{
+			"name": "Templates",
+			"weight": "Grade Matrix restriction"
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "English for Academic Communication (EAC)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Project Scoping Package (Team)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Logbook (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Preliminary Investigation Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Materials Modules (Individual)",
+			"weight": "Grade Matrix restriction"
+		},
+		{
+			"name": "Team Project Peer",
+			"weight": "Grade Matrix restriction"
+		},
+		{
+			"name": "Compulsory Sessions (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "MOOCchat(Individual)",
+			"weight": "Grade Matrix restriction"
+		},
+		{
+			"name": "Materials Quiz (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Demo Day (Team)",
+			"weight": 25
+		},
+		{
+			"name": "Milestone Test (Team)",
+			"weight": 5
+		},
+		{
+			"name": "Problem Solving Online (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Preliminary Memo (Team Based)",
+			"weight": 20
+		},
+		{
+			"name": "Project Session Activities (Individual)",
+			"weight": "Grade Matrix restriction"
+		},
+		{
+			"name": "Reflections (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Milestone Physical (Team)",
+			"weight": 5
+		},
+		{
+			"name": "Model Test and Demonstration (Team-based)",
+			"weight": 30
+		},
+		{
+			"name": "Final Report (Team-based/Individual, 20/80)",
+			"weight": 25
+		}
+	]
+}

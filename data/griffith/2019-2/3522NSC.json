@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "3522NSC Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "3522NSC Written Assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "3522NSC Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment 2",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and attendance",
+			"weight": 10
+		},
+		{
+			"name": "HSK Tests in week 1 and week 13 lecture time",
+			"weight": 5
+		},
+		{
+			"name": "Weekly Dictation ",
+			"weight": 10
+		},
+		{
+			"name": "Collaborative writing (CW) task",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Tests",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

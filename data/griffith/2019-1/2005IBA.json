@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Opportunity Analysis & Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Comparative Management Analysis",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 30
+		}
+	]
+}

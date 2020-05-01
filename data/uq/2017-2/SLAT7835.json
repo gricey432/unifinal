@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Review of research article/public test and present",
+			"weight": 20
+		},
+		{
+			"name": "Assessment of group presentation",
+			"weight": 5
+		},
+		{
+			"name": "Language Testing and Assessment Group Project",
+			"weight": 35
+		},
+		{
+			"name": "Academic essay",
+			"weight": 40
+		}
+	]
+}

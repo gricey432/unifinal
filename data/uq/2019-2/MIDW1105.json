@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formative AMSAT",
+			"weight": "NGP"
+		},
+		{
+			"name": "Reflection on Practice",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative AMSAT",
+			"weight": "NGP"
+		}
+	]
+}

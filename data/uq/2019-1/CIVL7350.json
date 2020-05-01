@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design of a composite bicycle frame",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

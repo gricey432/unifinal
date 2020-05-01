@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Orthodontic Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Onlay Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Dental Implants Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Paediatric Dentistry Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F - MUST PASS"
+		},
+		{
+			"name": "Written end of semester exam",
+			"weight": 50
+		}
+	]
+}

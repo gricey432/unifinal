@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork activity report",
+			"weight": 35
+		},
+		{
+			"name": " Social analysis of a public health issue         ",
+			"weight": 45
+		},
+		{
+			"name": "Reflective journal",
+			"weight": 20
+		}
+	]
+}

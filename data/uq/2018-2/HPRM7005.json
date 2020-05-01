@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Annotated Bibliography of Treatment Modality",
+			"weight": 20
+		},
+		{
+			"name": "Reflective discussion & synthesis",
+			"weight": 30
+		},
+		{
+			"name": "Intervention design",
+			"weight": 50
+		}
+	]
+}

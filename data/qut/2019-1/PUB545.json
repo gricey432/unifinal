@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Critique &amp; Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Program Plan",
+			"weight": 60
+		}
+	]
+}

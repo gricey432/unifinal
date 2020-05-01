@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "E-Tech Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Boards  ",
+			"weight": 20
+		},
+		{
+			"name": "Supervised eLandscape Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Innovative EAgribusiness Project/Social media",
+			"weight": 30
+		},
+		{
+			"name": "Skills Portfolio",
+			"weight": 0
+		}
+	]
+}

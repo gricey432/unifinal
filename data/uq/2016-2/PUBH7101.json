@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Debate of topics of interest",
+			"weight": 25
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Communicable disease control briefing",
+			"weight": 30
+		},
+		{
+			"name": "Diagnostic test evaluation",
+			"weight": 30
+		}
+	]
+}

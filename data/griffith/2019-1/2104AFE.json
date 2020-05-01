@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral communication assessment",
+			"weight": 20
+		},
+		{
+			"name": "Online tests",
+			"weight": 10
+		},
+		{
+			"name": "Budgeting Assignment",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

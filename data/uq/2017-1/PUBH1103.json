@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workbook tasks - Lectorial Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Teamwork",
+			"weight": 10
+		},
+		{
+			"name": "In class Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Online Module - Australia's Health System",
+			"weight": 30
+		},
+		{
+			"name": "Social determinants of health",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Practicum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Evidence Based Professional Portfolio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

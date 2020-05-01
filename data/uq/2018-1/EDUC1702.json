@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reflection: Teachers as Learners",
+			"weight": 20
+		},
+		{
+			"name": "LSAC Child Study; Learner Profile and Plan",
+			"weight": 30
+		},
+		{
+			"name": "Expo",
+			"weight": 30
+		},
+		{
+			"name": "Personal philosophy of teaching",
+			"weight": 20
+		}
+	]
+}

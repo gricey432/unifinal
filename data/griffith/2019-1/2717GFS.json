@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": " Performance & Participation",
+			"weight": 15
+		},
+		{
+			"name": "Location recording and sound editing",
+			"weight": 30
+		},
+		{
+			"name": "Sound Rec & Design Soundscape Video (Group Item)",
+			"weight": 30
+		},
+		{
+			"name": "Short answer/Multiple Choice exam",
+			"weight": 25
+		}
+	]
+}

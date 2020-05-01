@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class exam",
+			"weight": 30
+		},
+		{
+			"name": "Campaign plan presentation",
+			"weight": 15
+		},
+		{
+			"name": "Advertising and consumer culture project.",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 25
+		}
+	]
+}

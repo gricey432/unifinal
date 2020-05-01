@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "End of Class Quizzes",
+			"weight": 66
+		},
+		{
+			"name": "Data collection and submission",
+			"weight": 10
+		},
+		{
+			"name": "Design & conduct your own research project",
+			"weight": 24
+		}
+	]
+}

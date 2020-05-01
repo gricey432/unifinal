@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & Participation",
+			"weight": 6
+		},
+		{
+			"name": "Tu Mundo Revision Quizzes",
+			"weight": 8
+		},
+		{
+			"name": "Written Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Term Pair-Interview",
+			"weight": 12
+		},
+		{
+			"name": "Written Test 2",
+			"weight": 25
+		},
+		{
+			"name": "Individual Oral Interview",
+			"weight": 24
+		}
+	]
+}

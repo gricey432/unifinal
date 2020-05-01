@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes ",
+			"weight": 10
+		},
+		{
+			"name": "Research -Based Assignment ",
+			"weight": 20
+		},
+		{
+			"name": "Workbook Submission ",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		}
+	]
+}

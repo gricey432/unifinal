@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Formal email of complaint",
+			"weight": 15
+		},
+		{
+			"name": "Participation aux forums",
+			"weight": 10
+		},
+		{
+			"name": "Conseils pour réussir l'université ",
+			"weight": 20
+		},
+		{
+			"name": "Plan pour l'analyse interculturelle",
+			"weight": 10
+		},
+		{
+			"name": "Examen: compréhension auditive, dissertation",
+			"weight": 25
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		}
+	]
+}

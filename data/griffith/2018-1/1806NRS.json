@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment: One Annotation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 35
+		},
+		{
+			"name": "Individual Oral Presentation ",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		}
+	]
+}

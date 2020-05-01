@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical involvement",
+			"weight": 8
+		},
+		{
+			"name": "Culture History and Processualism ",
+			"weight": 27
+		},
+		{
+			"name": "Case Study Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

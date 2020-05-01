@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-field trip assignments",
+			"weight": 15
+		},
+		{
+			"name": "Group's field zonation data and map",
+			"weight": 20
+		},
+		{
+			"name": "Final Sediment Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Field Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Agribusiness Case Study Approval Sheet",
+			"weight": 5
+		},
+		{
+			"name": "Agribusiness Visit Report 1",
+			"weight": 20
+		},
+		{
+			"name": "Case Analysis ",
+			"weight": 20
+		},
+		{
+			"name": "Agribusiness Visit Report 2",
+			"weight": 20
+		},
+		{
+			"name": "Agribusiness Case Study Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Agribusiness Case Study Report",
+			"weight": 20
+		}
+	]
+}

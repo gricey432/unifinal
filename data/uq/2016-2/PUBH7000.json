@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal",
+			"weight": 40
+		},
+		{
+			"name": "Critical review of the literature",
+			"weight": 30
+		},
+		{
+			"name": "Considering the ethical implications of research",
+			"weight": 20
+		},
+		{
+			"name": "Module responses",
+			"weight": 10
+		}
+	]
+}

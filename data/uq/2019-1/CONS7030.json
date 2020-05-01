@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept note",
+			"weight": 20
+		},
+		{
+			"name": "Project proposal",
+			"weight": 70
+		},
+		{
+			"name": "Reflection",
+			"weight": 10
+		}
+	]
+}

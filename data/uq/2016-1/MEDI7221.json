@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio Assignment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Simulated Patient DVD Recording and Review Session",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Practice Masterclasses",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Professional Behaviour Assessment (Formative)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

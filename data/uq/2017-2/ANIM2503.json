@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": "(HURDLE)"
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Explaining genetic tests",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 60
+		}
+	]
+}

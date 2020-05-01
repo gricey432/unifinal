@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Draft lesson plans",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Resources & learning activities",
+			"weight": 50
+		},
+		{
+			"name": "Senior unit of work",
+			"weight": 50
+		}
+	]
+}

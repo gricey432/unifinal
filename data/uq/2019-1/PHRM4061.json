@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Confidentiality Statement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Ethics and Project Approval Application",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Placement Diary",
+			"weight": 10
+		},
+		{
+			"name": "QUM Research Placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "QUM Research Reports (Written & Oral presentation)",
+			"weight": 35
+		},
+		{
+			"name": "QUM Research Project Oral Presentation Attendance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

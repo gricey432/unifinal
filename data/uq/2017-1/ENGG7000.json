@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 4.  Verbal presentation",
+			"weight": 8
+		},
+		{
+			"name": "Peer assessment of group work",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Assignment 1.  OCD",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 2.  SRS",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 3A. SRR",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 3B.  SDD",
+			"weight": 16
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

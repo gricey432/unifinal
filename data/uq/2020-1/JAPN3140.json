@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Argumentative",
+			"weight": 15
+		},
+		{
+			"name": "1st draft",
+			"weight": 10
+		},
+		{
+			"name": "Final draft",
+			"weight": 15
+		},
+		{
+			"name": "Written Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Written Test 2",
+			"weight": 23
+		},
+		{
+			"name": "Contact and Tutorial worksheets",
+			"weight": 22
+		}
+	]
+}

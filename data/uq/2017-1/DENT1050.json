@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical competency - wax carving",
+			"weight": 5
+		},
+		{
+			"name": "Mid-year written exam",
+			"weight": 20
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": 20
+		},
+		{
+			"name": "Reflective blog",
+			"weight": 15
+		},
+		{
+			"name": "End of Year Exam",
+			"weight": 40
+		}
+	]
+}

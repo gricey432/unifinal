@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Organisation Strategic Research Plan",
+			"weight": 15
+		},
+		{
+			"name": "Organisation Research Tender",
+			"weight": 25
+		},
+		{
+			"name": "Secondary data search",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 20
+		}
+	]
+}

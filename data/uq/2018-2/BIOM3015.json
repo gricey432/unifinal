@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Herston Museum task",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Dementia",
+			"weight": 3
+		},
+		{
+			"name": "Patient diagnosis - Metabolism",
+			"weight": 3
+		},
+		{
+			"name": "Patient diagnosis - Cardiovascular",
+			"weight": 3
+		},
+		{
+			"name": "Patient diagnosis - Renal",
+			"weight": 3
+		},
+		{
+			"name": "Patient diagnosis - Cancer",
+			"weight": 3
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

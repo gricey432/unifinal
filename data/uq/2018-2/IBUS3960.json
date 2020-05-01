@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First Progressive Assessment (Journal 1)",
+			"weight": 20
+		},
+		{
+			"name": "Second Progressive Assessment (Journal 2)",
+			"weight": 25
+		},
+		{
+			"name": "Third Progressive Assessment (Journal 3)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

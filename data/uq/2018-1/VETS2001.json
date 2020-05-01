@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class or on-line quizzes  ",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Examination ON LINE EXAM",
+			"weight": 35
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Dissection report",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester on-line exam",
+			"weight": 30
+		},
+		{
+			"name": "Tissues and cells",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

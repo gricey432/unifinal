@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Performance in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "The Solar/Wind Power/Battery Revolution",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

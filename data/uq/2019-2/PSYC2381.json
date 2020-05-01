@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Complete ten tutorial tasksheets",
+			"weight": 10
+		},
+		{
+			"name": "In Class Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "essay",
+			"weight": 50
+		},
+		{
+			"name": "Online Exam",
+			"weight": 10
+		}
+	]
+}

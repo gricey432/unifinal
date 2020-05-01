@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Dictation & Repertoire exam",
+			"weight": 30
+		},
+		{
+			"name": "Individual performance",
+			"weight": 20
+		},
+		{
+			"name": "Auralia ",
+			"weight": 30
+		},
+		{
+			"name": "Ensemble performance",
+			"weight": 20
+		}
+	]
+}

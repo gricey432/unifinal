@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation (Group)",
+			"weight": 30
+		},
+		{
+			"name": "Individual Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Individual Report",
+			"weight": 50
+		}
+	]
+}

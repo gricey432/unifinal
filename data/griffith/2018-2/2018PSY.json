@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-reflection",
+			"weight": 10
+		},
+		{
+			"name": "Community / Organisation Needs Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Group program proposal",
+			"weight": 35
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

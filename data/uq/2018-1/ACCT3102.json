@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Practical Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Financial Reporting Case Study *HURDLE",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination *HURDLE",
+			"weight": 50
+		}
+	]
+}

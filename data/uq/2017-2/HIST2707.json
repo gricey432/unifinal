@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Major Essay",
+			"weight": 40
+		},
+		{
+			"name": "Research Proposal and Annotated Bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Attendance & Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly In-Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

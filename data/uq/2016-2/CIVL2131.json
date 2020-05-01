@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 15
+		},
+		{
+			"name": "Feedback on learning progress",
+			"weight": 0
+		},
+		{
+			"name": "Mid-Semester class test",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 70
+		}
+	]
+}

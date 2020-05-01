@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Simulated Clinical Assessment (OSCA)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Care of a woman with a complex health condition",
+			"weight": 50
+		},
+		{
+			"name": "OSCA",
+			"weight": "NGP"
+		},
+		{
+			"name": "Exam for MIDW2108",
+			"weight": 50
+		}
+	]
+}

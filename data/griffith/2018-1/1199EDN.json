@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Communication in Education",
+			"weight": 20
+		},
+		{
+			"name": "Individual Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Scenario Analysis ",
+			"weight": 30
+		}
+	]
+}

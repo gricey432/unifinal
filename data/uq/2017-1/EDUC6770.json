@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Workshops",
+			"weight": 10
+		},
+		{
+			"name": "1. Laboratory-based activity",
+			"weight": 30
+		},
+		{
+			"name": "2. Hard-to-teach Biology Concepts",
+			"weight": 30
+		},
+		{
+			"name": "3. Contemporary Biological Sciences",
+			"weight": 30
+		}
+	]
+}

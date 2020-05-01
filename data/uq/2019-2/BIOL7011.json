@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic techniques in topic to be discussed",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Research paper on the practical component",
+			"weight": 20
+		},
+		{
+			"name": "Lab book notes",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

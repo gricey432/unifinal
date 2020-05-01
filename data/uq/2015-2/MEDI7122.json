@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Behaviour Assessment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Coaching Summative Assessments x 3",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "DVD Simulated Patient Recording and Review Session",
+			"weight": "Pass / Fail"
+		}
+	]
+}

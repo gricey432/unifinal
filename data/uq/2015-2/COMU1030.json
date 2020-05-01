@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation Feedback",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual reflections ",
+			"weight": 5
+		},
+		{
+			"name": "Effective Group Communication",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

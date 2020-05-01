@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Observation of clinical interaction (Minimum of 3)",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Log of client contact and supervision hours",
+			"weight": "Required for Registration"
+		},
+		{
+			"name": "Case presentation",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Mid Semester Review",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Multi Station Assessment Task (MSAT)",
+			"weight": "Pass/Recycle/fail"
+		},
+		{
+			"name": "folio of clinical work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End Semester Review",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "T2 Form",
+			"weight": "Pass/Fail"
+		}
+	]
+}

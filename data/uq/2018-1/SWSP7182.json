@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Simulated exercises on child, youth and family",
+			"weight": 10
+		},
+		{
+			"name": "Social with Children, Young People and Families",
+			"weight": 50
+		},
+		{
+			"name": "Collaborative Family Work Simulation and Analysis",
+			"weight": 40
+		}
+	]
+}

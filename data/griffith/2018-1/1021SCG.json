@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Non Graded Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Laboratory Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Week 4 Workshop Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Week 6 Workshop Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Week 9 Workshop Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Week 11 Workshop Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

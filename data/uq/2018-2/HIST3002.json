@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Best 3 of 4 Quizzes (30%)",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Written Paper (40%)",
+			"weight": 40
+		},
+		{
+			"name": "Short Essay - Australian Paralympic Movement",
+			"weight": 20
+		}
+	]
+}

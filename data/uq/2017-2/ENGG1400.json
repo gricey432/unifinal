@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Classes (Statics & Dynamics)",
+			"weight": 4
+		},
+		{
+			"name": "Mastering Statics Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial assignments- Statics",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester (Statics)",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial assignments- Dynamics ",
+			"weight": 6
+		},
+		{
+			"name": "End of Semester Exam (Statics and Dynamics)",
+			"weight": 45
+		}
+	]
+}

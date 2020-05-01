@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Three best resources for global change and health",
+			"weight": 15
+		},
+		{
+			"name": "Global change and infectious disease ",
+			"weight": 45
+		},
+		{
+			"name": "Infectious disease transmission demonstration",
+			"weight": 15
+		},
+		{
+			"name": "In-class quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Particpation in lecture/tutorials",
+			"weight": 10
+		}
+	]
+}

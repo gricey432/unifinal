@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of decision context of enviro issue",
+			"weight": 5
+		},
+		{
+			"name": "Structuring an environmental issue",
+			"weight": 45
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

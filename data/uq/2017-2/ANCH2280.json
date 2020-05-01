@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Essay",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Exhibition Proposal Draft",
+			"weight": 15
+		},
+		{
+			"name": "Mini Exhibition Curation and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Object Analysis (R.D. Milns Antiquities Museum)",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

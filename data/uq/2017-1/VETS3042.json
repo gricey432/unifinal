@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation on Project",
+			"weight": 15
+		},
+		{
+			"name": "Project Report",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal of Design Process",
+			"weight": 50
+		},
+		{
+			"name": "Text Adventure",
+			"weight": 15
+		},
+		{
+			"name": "Tabletop Game",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Virology and Immunology",
+			"weight": 20
+		},
+		{
+			"name": "Microbiology and parasitology practical exam",
+			"weight": 15
+		},
+		{
+			"name": "Parasitology, Microbiology and Epidemiology",
+			"weight": 65
+		}
+	]
+}

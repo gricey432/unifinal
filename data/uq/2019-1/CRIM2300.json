@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Jurisdictional profile",
+			"weight": 15
+		},
+		{
+			"name": "Comparative case study",
+			"weight": 40
+		},
+		{
+			"name": "Short and Long Written Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Spatial Data Analysis Project",
+			"weight": 30
+		},
+		{
+			"name": "Mid Semester Exam ",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

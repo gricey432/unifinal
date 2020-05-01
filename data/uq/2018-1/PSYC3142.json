@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Tutorial Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Supported research project",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

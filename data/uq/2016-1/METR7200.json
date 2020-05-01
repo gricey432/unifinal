@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Presentations ",
+			"weight": 10
+		},
+		{
+			"name": "Practical Aligned Assignment 1 ",
+			"weight": 5
+		},
+		{
+			"name": "Practical Aligned Assignment 2 ",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Practical Aligned Assignment 3 ",
+			"weight": 5
+		},
+		{
+			"name": "Practical Aligned Assignment 4  ",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

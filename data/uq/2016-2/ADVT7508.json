@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Advertising Campaign Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Advertising campaign plan and analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

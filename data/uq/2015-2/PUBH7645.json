@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Summary and Analysis",
+			"weight": 30
+		},
+		{
+			"name": "10 Best Resources on...",
+			"weight": 70
+		}
+	]
+}

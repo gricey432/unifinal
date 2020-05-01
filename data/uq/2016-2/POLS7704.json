@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meetings with Supervisor",
+			"weight": "compulsory "
+		},
+		{
+			"name": "Research Plan and Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper 8000 words",
+			"weight": 70
+		}
+	]
+}

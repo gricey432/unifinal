@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First Writing Test",
+			"weight": 25
+		},
+		{
+			"name": "Listening Test",
+			"weight": 20
+		},
+		{
+			"name": "Second Writing Test",
+			"weight": 30
+		},
+		{
+			"name": "Oral Interview",
+			"weight": 25
+		}
+	]
+}

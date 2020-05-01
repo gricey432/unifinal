@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Will Drafting Exercise",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Exam 1 (Sets & Relation )",
+			"weight": 20
+		},
+		{
+			"name": "Exam 2 (Function & Propositional logic )",
+			"weight": 20
+		},
+		{
+			"name": "Exam 3 (1st order logic & Proof)",
+			"weight": 20
+		},
+		{
+			"name": "Exam 4 (counting)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam (Exam 5)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in seminar discussions",
+			"weight": 10
+		},
+		{
+			"name": "Summaries of weekly readings",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		}
+	]
+}

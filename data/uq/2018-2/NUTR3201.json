@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation and quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Split semester examination",
+			"weight": 60
+		},
+		{
+			"name": "Resource on a complex nutrition science topic",
+			"weight": 10
+		}
+	]
+}

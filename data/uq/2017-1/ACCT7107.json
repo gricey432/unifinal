@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "2 Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Lecture topics 1 - 5",
+			"weight": 25
+		},
+		{
+			"name": "Minor Case Study",
+			"weight": 10
+		},
+		{
+			"name": "Major Case Study ",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

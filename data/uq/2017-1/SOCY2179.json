@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial work and presentations",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

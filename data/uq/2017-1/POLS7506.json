@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance and participation",
+			"weight": 20
+		},
+		{
+			"name": "Policy Brief (1000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (5000 words)",
+			"weight": 50
+		}
+	]
+}

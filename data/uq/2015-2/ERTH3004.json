@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Practical Assignments",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam ",
+			"weight": 15
+		},
+		{
+			"name": "Estimation Report- BMA Bowen Basin Case Study",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

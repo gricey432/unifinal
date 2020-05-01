@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Synopsis",
+			"weight": 10
+		},
+		{
+			"name": "Peer education session",
+			"weight": 15
+		},
+		{
+			"name": "Padlet",
+			"weight": 5
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

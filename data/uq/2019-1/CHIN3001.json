@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture 2% & tutorial 3%",
+			"weight": 5
+		},
+		{
+			"name": "Proficiency tests",
+			"weight": 5
+		},
+		{
+			"name": "Vocabulary Test",
+			"weight": 5
+		},
+		{
+			"name": "Weekly dictation",
+			"weight": 10
+		},
+		{
+			"name": "Writing tasks",
+			"weight": 10
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam ",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Manufacturing Workshop & Computer Lab Practice",
+			"weight": 30
+		},
+		{
+			"name": "Analysis and problem-solving assignment",
+			"weight": 10
+		},
+		{
+			"name": "EXAMINATION",
+			"weight": 60
+		}
+	]
+}

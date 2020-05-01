@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research project",
+			"weight": 5
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Journal article",
+			"weight": 75
+		},
+		{
+			"name": "Laboratory notebook preparation",
+			"weight": 10
+		}
+	]
+}

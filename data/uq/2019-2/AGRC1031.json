@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Australia's Climate & Ecosystems",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2: Climate Change Causes & Impacts",
+			"weight": 3
+		},
+		{
+			"name": "Module 1 short essay",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 3: Australia's Soil & Landscapes",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 4: Land Use & Management",
+			"weight": 3
+		},
+		{
+			"name": "Module 2 short essay",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 5: Australia's Water Resources",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 6: Water Resource Use",
+			"weight": 3
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 52
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "01. Into the Field & 02. The Street [Group Work]",
+			"weight": 25
+		},
+		{
+			"name": "03. Design Project: Interim Submission",
+			"weight": 25
+		},
+		{
+			"name": "03. Design Project: Final Submission (Hurdle)",
+			"weight": 50
+		}
+	]
+}

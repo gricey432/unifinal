@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IMC Campaign: Background/Brief (Group project)",
+			"weight": 40
+		},
+		{
+			"name": "IMC Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 30
+		}
+	]
+}

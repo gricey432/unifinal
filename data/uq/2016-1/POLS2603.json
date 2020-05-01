@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 15
+		},
+		{
+			"name": "Statement of proposal (750 words)",
+			"weight": 20
+		},
+		{
+			"name": "Gender Project (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam (1 hour)",
+			"weight": 25
+		}
+	]
+}

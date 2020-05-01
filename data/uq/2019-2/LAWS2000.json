@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance, participation and submission",
+			"weight": 10
+		},
+		{
+			"name": "\"Super\" tutorial",
+			"weight": 4
+		},
+		{
+			"name": "Multiple Choice",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

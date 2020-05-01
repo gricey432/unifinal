@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on lecture & primary reading (1)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz on lecture & primary reading (2)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz on lecture & primary reading (3)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz on lecture & primary reading (4)",
+			"weight": 5
+		},
+		{
+			"name": "Documenting your language learning challenge",
+			"weight": 30
+		},
+		{
+			"name": "Student symposia and reflection",
+			"weight": 45
+		},
+		{
+			"name": "Quiz on lecture & primary reading (5)",
+			"weight": 5
+		}
+	]
+}

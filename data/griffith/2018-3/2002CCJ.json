@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Item 1: Analysis of Police Selection Process",
+			"weight": 30
+		},
+		{
+			"name": "Item 2: Application of Operational Police Strategy",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

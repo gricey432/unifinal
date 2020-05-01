@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short answer and Video",
+			"weight": 5
+		},
+		{
+			"name": "Pre-reading quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group In Class Debate",
+			"weight": 10
+		},
+		{
+			"name": "Individual Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Strategy for improving the Energy Trilemma Index",
+			"weight": 50
+		}
+	]
+}

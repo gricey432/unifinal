@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Exam (mid semester theory)",
+			"weight": 30
+		},
+		{
+			"name": "Exam (final theory)",
+			"weight": 30
+		}
+	]
+}

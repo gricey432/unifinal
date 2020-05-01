@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "9 in-class quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Proposal for training intervention",
+			"weight": 30
+		},
+		{
+			"name": "Video presentation teaching course content",
+			"weight": 10
+		},
+		{
+			"name": "Resubmission of proposal with cover letter",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Interprofessional Learning - CLEIMS 3",
+			"weight": 10
+		},
+		{
+			"name": "Mental Health First Aid Training",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Dispensing & Counselling Cases",
+			"weight": 25
+		},
+		{
+			"name": "OSCE",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Written Examination",
+			"weight": 30
+		}
+	]
+}

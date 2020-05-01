@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assign 1: Content Curation",
+			"weight": 10
+		},
+		{
+			"name": "Assign 2: Digital Essay",
+			"weight": 50
+		},
+		{
+			"name": "Assign 3: Podcast and Industry Presentation",
+			"weight": 40
+		}
+	]
+}

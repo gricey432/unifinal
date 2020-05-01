@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Critical summary/analysis, explanatory report",
+			"weight": 3
+		},
+		{
+			"name": "Participation in guest lectures & debates",
+			"weight": 5
+		},
+		{
+			"name": "International case study (ICS)",
+			"weight": 30
+		},
+		{
+			"name": "Peer Review of International case study",
+			"weight": 0
+		},
+		{
+			"name": "Position Paper for topic (X+1) by group X",
+			"weight": 5
+		},
+		{
+			"name": "Local case study (LCS)",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

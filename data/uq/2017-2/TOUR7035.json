@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Research Paradigm Essay",
+			"weight": 20
+		},
+		{
+			"name": "Analysis Assignment ",
+			"weight": 50
+		}
+	]
+}

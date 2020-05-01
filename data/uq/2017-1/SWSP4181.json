@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Responses to scenario 1 - Bleeding Heart",
+			"weight": 25
+		},
+		{
+			"name": "Response to scenario 2 - Conflicting Values",
+			"weight": 25
+		},
+		{
+			"name": "Demonstration of skills",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on the demonstration",
+			"weight": 15
+		},
+		{
+			"name": "Case note on the demonstration",
+			"weight": 10
+		}
+	]
+}

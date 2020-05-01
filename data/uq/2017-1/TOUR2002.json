@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facilitated Group Discussion ",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Portfolio",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

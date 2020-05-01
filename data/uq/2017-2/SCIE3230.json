@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal ",
+			"weight": 20
+		},
+		{
+			"name": "Workbook/Lab book",
+			"weight": 10
+		},
+		{
+			"name": "Report of Results, Analysis and Interpretion",
+			"weight": 50
+		},
+		{
+			"name": "Poster Presentation ",
+			"weight": 20
+		}
+	]
+}

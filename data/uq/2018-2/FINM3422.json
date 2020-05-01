@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Financial Modelling Analysis",
+			"weight": 60
+		},
+		{
+			"name": "Team project",
+			"weight": 30
+		},
+		{
+			"name": "Team presentation",
+			"weight": 10
+		}
+	]
+}

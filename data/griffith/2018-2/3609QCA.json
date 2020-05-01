@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Informational Interviews & Designed Objectives",
+			"weight": 20
+		},
+		{
+			"name": "Mid-point Presentation",
+			"weight": 20
+		},
+		{
+			"name": "100 Hour Internship",
+			"weight": 30
+		},
+		{
+			"name": "Compilation of Works",
+			"weight": 30
+		}
+	]
+}

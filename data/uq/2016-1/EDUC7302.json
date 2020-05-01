@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Tasks",
+			"weight": 50
+		},
+		{
+			"name": "Module 2 Tasks",
+			"weight": 50
+		}
+	]
+}

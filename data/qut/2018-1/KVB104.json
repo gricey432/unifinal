@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 45
+		},
+		{
+			"name": "Creative Work",
+			"weight": 55
+		}
+	]
+}

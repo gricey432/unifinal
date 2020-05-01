@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "User Research Paper",
+			"weight": 50
+		},
+		{
+			"name": "Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Attendance and participation in class activities",
+			"weight": "Pass/Fail for the course"
+		},
+		{
+			"name": "Project Progress Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Video Demonstration and Q/A",
+			"weight": 30
+		}
+	]
+}

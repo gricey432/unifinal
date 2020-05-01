@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Reflections on Learning and Lecture Attendance",
+			"weight": 2
+		},
+		{
+			"name": "Pharmacokinetics of Alcohol",
+			"weight": 10
+		},
+		{
+			"name": "Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Aspirin ADME",
+			"weight": 15
+		},
+		{
+			"name": "Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Organ Bath Report",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Take Home Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 40
+		}
+	]
+}

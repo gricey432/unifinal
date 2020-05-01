@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Exploratory data analysis and QA/QC",
+			"weight": 10
+		},
+		{
+			"name": "Build  a 3D geological model in SURPAC",
+			"weight": 15
+		},
+		{
+			"name": "Mid-term exam",
+			"weight": 20
+		},
+		{
+			"name": "Practical exam",
+			"weight": 10
+		},
+		{
+			"name": "ASX Market Release",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Submission of Completed Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis of an Industry",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

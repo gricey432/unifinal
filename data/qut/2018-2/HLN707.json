@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Plan",
+			"weight": 60
+		},
+		{
+			"name": "Oral Presentation (The Pitch)",
+			"weight": 40
+		}
+	]
+}

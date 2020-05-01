@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Functional Requirements",
+			"weight": 0
+		},
+		{
+			"name": "Formal Inspection",
+			"weight": 10
+		},
+		{
+			"name": "Software Requirements Specification",
+			"weight": 35
+		},
+		{
+			"name": "Project Evaluation (Postgrad Students Only)",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

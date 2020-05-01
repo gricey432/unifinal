@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analyses Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Content Evaluation Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Case Analysis Practical",
+			"weight": 35
+		}
+	]
+}

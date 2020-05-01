@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Molten metal casting ",
+			"weight": 40
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 60
+		}
+	]
+}

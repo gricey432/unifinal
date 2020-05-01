@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "ANATOMY & BIOMECHANICS QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "BIOMECHANICS QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "BIOMECHANICS Assignment",
+			"weight": 25
+		},
+		{
+			"name": "PHYSIOLOGY Quiz",
+			"weight": 10
+		},
+		{
+			"name": "PHYSIOLOGY Quiz",
+			"weight": 10
+		},
+		{
+			"name": "PHYSIOLOGY Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Complete Project Report",
+			"weight": 10
+		}
+	]
+}

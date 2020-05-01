@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Dig Entertainment Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

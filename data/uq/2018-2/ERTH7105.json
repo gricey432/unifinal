@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Geological Hazards Project",
+			"weight": 15
+		},
+		{
+			"name": "Method by Sections Project",
+			"weight": 15
+		},
+		{
+			"name": "Mine Surveying Methods",
+			"weight": 15
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class test of signs of safety and of risk",
+			"weight": 15
+		},
+		{
+			"name": "Course Review",
+			"weight": 40
+		},
+		{
+			"name": "Presentation and essay",
+			"weight": 45
+		}
+	]
+}

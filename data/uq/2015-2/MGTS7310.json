@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Activity Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Individual/group Academic Essay",
+			"weight": 40
+		}
+	]
+}

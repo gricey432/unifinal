@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Team Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam *(with hurdle requirements)",
+			"weight": 45
+		}
+	]
+}

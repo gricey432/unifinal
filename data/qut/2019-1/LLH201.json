@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Career Plan",
+			"weight": 10
+		},
+		{
+			"name": "Research Task",
+			"weight": 35
+		},
+		{
+			"name": "Research Paper",
+			"weight": 55
+		}
+	]
+}

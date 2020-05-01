@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Career action plan",
+			"weight": 20
+		},
+		{
+			"name": "Verbal and Written Assignment Interview",
+			"weight": 30
+		},
+		{
+			"name": "Cover letter",
+			"weight": 10
+		},
+		{
+			"name": "Science in the media",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on Informational Interview",
+			"weight": 20
+		}
+	]
+}

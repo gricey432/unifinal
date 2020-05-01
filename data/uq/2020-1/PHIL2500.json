@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Essay",
+			"weight": 50
+		},
+		{
+			"name": "Online Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Journal Entries x 5",
+			"weight": 40
+		}
+	]
+}

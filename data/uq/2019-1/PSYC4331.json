@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student Seminar",
+			"weight": 36
+		},
+		{
+			"name": "Class Participation",
+			"weight": 12
+		},
+		{
+			"name": "Critical Review",
+			"weight": 52
+		}
+	]
+}

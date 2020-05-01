@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Peer and self-assessment of clinical skills",
+			"weight": "NGP"
+		},
+		{
+			"name": "Written Case Study Assignment and Brochure",
+			"weight": 40
+		},
+		{
+			"name": " Clinical skills assessment (OSCA) ",
+			"weight": 20
+		},
+		{
+			"name": "Exam for NURS1104",
+			"weight": 40
+		}
+	]
+}

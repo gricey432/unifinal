@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 1 Orientation activities",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "#2 equivalent"
+		},
+		{
+			"name": "Research Proposal Seminar and Discussion",
+			"weight": "#0.5 equivalent"
+		},
+		{
+			"name": "Journal Club presentation & participation",
+			"weight": "#2.0 equivalent"
+		},
+		{
+			"name": "Research Report, Viva & Research Performance",
+			"weight": "#10.0 equivalent"
+		},
+		{
+			"name": "Research Seminar and Defence",
+			"weight": "#1.5 equivalent"
+		}
+	]
+}

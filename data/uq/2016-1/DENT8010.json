@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Assessment - Written Paper and/or Viva Voce",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical/Practical Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

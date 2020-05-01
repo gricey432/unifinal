@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-tutorial CML Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Test 1 (topics 1-4)",
+			"weight": 10
+		},
+		{
+			"name": "Test 2 (topics 1-8)",
+			"weight": 10
+		},
+		{
+			"name": "Test 3 (topics 1-10)",
+			"weight": 10
+		},
+		{
+			"name": "Country Report (draft of section 2)",
+			"weight": 5
+		},
+		{
+			"name": "Country Report (full report)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Online Exam",
+			"weight": 30
+		}
+	]
+}

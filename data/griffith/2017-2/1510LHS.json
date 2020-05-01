@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "PR Case study",
+			"weight": 25
+		},
+		{
+			"name": "Group creation & oral presentation of a PR plan",
+			"weight": 30
+		},
+		{
+			"name": "Individual written PR plan",
+			"weight": 30
+		}
+	]
+}

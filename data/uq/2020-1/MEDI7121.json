@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Coaching online assessment",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Summative",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Formative",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Hand Hygiene Australia module",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "DOPS: Hand hygiene or PPE",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "CCS: Peer Interview Recording & Reflection",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

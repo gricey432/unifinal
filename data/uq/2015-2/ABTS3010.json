@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": 15
+		},
+		{
+			"name": "Project Plan and Gantt Chart",
+			"weight": 25
+		},
+		{
+			"name": "Evaluation Plan",
+			"weight": 25
+		},
+		{
+			"name": "Project Resources",
+			"weight": 25
+		},
+		{
+			"name": "Peer and Self-Assessment of Group Contributions ",
+			"weight": 10
+		}
+	]
+}

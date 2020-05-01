@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay in the Australian component",
+			"weight": 50
+		},
+		{
+			"name": "Essay in the Chinese component",
+			"weight": 50
+		}
+	]
+}

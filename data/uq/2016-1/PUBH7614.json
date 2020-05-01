@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Your professional Profile",
+			"weight": 0
+		},
+		{
+			"name": "Case Studies",
+			"weight": 30
+		},
+		{
+			"name": "IMHO: MY HEALTH SYSTEM ISSUE",
+			"weight": 20
+		},
+		{
+			"name": "HEALTH SYSTEM REPORT",
+			"weight": 50
+		}
+	]
+}

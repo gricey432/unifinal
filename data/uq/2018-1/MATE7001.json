@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Presentation on a Key Aspect",
+			"weight": 10
+		},
+		{
+			"name": "Terminology",
+			"weight": 0
+		},
+		{
+			"name": "Key Learning Objectives",
+			"weight": 10
+		},
+		{
+			"name": "Corrosion assignment",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

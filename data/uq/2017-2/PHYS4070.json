@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Computational Physics Problem Sets",
+			"weight": 60
+		},
+		{
+			"name": "Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

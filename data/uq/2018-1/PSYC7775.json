@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "CRISP Summaries",
+			"weight": 20
+		},
+		{
+			"name": "Individual/Team Issues",
+			"weight": 15
+		},
+		{
+			"name": "Exercise Psychology",
+			"weight": 20
+		},
+		{
+			"name": "Intake Interview",
+			"weight": 20
+		},
+		{
+			"name": "Tools and Techniques",
+			"weight": 15
+		}
+	]
+}

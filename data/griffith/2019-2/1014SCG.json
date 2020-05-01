@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project assessment items",
+			"weight": 30
+		},
+		{
+			"name": "Multiple within-semester assessment items",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

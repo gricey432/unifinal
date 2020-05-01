@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Placement: Policies and Procedures ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Barriers and Responses ",
+			"weight": 25
+		},
+		{
+			"name": "Justification & Evaluation - resource collection",
+			"weight": 45
+		},
+		{
+			"name": "Placement: 5 Day Placement and Log Upload ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Journal and Critical Commentary",
+			"weight": 30
+		}
+	]
+}

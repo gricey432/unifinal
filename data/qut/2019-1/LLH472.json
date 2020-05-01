@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Memorandum of advice",
+			"weight": 40
+		},
+		{
+			"name": "Research paper",
+			"weight": 60
+		}
+	]
+}

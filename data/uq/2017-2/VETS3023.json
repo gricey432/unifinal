@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SOP Assignment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Laboratory Experience",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		},
+		{
+			"name": "Practical Examination - Blood Film Evaluation",
+			"weight": 20
+		}
+	]
+}

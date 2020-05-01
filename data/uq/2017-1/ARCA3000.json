@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Critical involvement",
+			"weight": 8
+		},
+		{
+			"name": "Case Study Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Short Paper 1",
+			"weight": 10
+		},
+		{
+			"name": "Short Paper 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 27
+		}
+	]
+}

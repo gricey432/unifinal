@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Minor Essay",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		}
+	]
+}

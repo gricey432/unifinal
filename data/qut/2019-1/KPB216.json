@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Script/Film Schedule Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Film Budget Analysis and Essay",
+			"weight": 60
+		}
+	]
+}

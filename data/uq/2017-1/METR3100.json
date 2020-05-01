@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Industrial control practical",
+			"weight": 5
+		},
+		{
+			"name": "Safety critical control system design and analysis",
+			"weight": 15
+		},
+		{
+			"name": "Strain gauge practical",
+			"weight": 5
+		},
+		{
+			"name": "Design, build and analyse instrumentation system",
+			"weight": 15
+		},
+		{
+			"name": "Motors practical",
+			"weight": 5
+		},
+		{
+			"name": "Actuator selection and analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

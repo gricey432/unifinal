@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research, data analysis and communication",
+			"weight": 30
+		},
+		{
+			"name": "Action Learning Project Report & Conference ",
+			"weight": 40
+		},
+		{
+			"name": "Final semester exam",
+			"weight": 30
+		}
+	]
+}

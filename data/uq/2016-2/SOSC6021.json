@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom participation and peer review exercises",
+			"weight": 10
+		},
+		{
+			"name": "Title, Abstract and Introduction",
+			"weight": 20
+		},
+		{
+			"name": "Critical literature review/theoretical framework",
+			"weight": 30
+		},
+		{
+			"name": "Final Draft of Paper (Front-End)",
+			"weight": 40
+		}
+	]
+}

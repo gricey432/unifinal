@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Active Career Plan",
+			"weight": 10
+		},
+		{
+			"name": "PROJECT - Part 1 (Materials Selection)",
+			"weight": 12
+		},
+		{
+			"name": "IN-CLASS TEST (45 mins)",
+			"weight": 15
+		},
+		{
+			"name": "PROJECT - Part 2 (Manufacturing System Design)",
+			"weight": 12
+		},
+		{
+			"name": "FINAL EXAMINATION (2 hours)",
+			"weight": 50
+		}
+	]
+}

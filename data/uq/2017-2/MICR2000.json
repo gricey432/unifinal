@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation, organisation, and record keeping",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Science Communication Assignment - Video",
+			"weight": 10
+		},
+		{
+			"name": "Project Report",
+			"weight": 15
+		},
+		{
+			"name": "Practical competency assessment",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 65
+		}
+	]
+}

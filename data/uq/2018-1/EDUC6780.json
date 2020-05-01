@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching a Chemistry Concept",
+			"weight": 40
+		},
+		{
+			"name": "Chemistry Student Experiment",
+			"weight": 30
+		},
+		{
+			"name": "Chemistry Assessment Task",
+			"weight": 30
+		}
+	]
+}

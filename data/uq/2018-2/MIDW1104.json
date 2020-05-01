@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Medication and Drug Calculations ",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment ",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Skills Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Exam for MIDW1104",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Organisation Profile",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Community Medicine Workshop",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": "pass/fail"
+		}
+	]
+}

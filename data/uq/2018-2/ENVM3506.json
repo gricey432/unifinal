@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Convention on Biological Diversity targets",
+			"weight": 40
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 60
+		}
+	]
+}

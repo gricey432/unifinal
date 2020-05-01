@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Workshop Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Item 1: Folio Deadline 1",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Item 2: Folio Deadline 2",
+			"weight": 40
+		}
+	]
+}

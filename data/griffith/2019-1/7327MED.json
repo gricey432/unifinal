@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ANNOTATED LITERATURE REVIEW",
+			"weight": 30
+		},
+		{
+			"name": "CLINICAL INNOVATION PROJECT PLAN",
+			"weight": 50
+		},
+		{
+			"name": "Presentation of Innovation Implementation Plan",
+			"weight": 20
+		}
+	]
+}

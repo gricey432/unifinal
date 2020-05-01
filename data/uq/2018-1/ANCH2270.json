@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance and contribution",
+			"weight": 20
+		},
+		{
+			"name": "Object Analysis",
+			"weight": 15
+		},
+		{
+			"name": "ANCH2270 Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

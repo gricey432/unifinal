@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reader's Reports ",
+			"weight": 30
+		},
+		{
+			"name": "Structural Editing Report ",
+			"weight": 30
+		},
+		{
+			"name": "Copy Editing Assignment + Case Overview ",
+			"weight": 40
+		}
+	]
+}

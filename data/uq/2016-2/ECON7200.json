@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance and preparation",
+			"weight": 10
+		},
+		{
+			"name": "Part 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Part 3",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

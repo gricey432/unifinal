@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summaries of Weekly Readings",
+			"weight": 5
+		},
+		{
+			"name": "Essay I",
+			"weight": 45
+		},
+		{
+			"name": "Essay II",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-lecture multiple-choice tests*",
+			"weight": 30
+		},
+		{
+			"name": "Assignment I",
+			"weight": 35
+		},
+		{
+			"name": "Assignment II",
+			"weight": 35
+		}
+	]
+}

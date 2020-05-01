@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-class quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Reading Task Part 1",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Reading Task Part 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

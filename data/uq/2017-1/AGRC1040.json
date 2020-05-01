@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz",
+			"weight": "hurdle - must complete at least 8 of 12"
+		},
+		{
+			"name": "Action Learning Project Conference & Report ",
+			"weight": 34
+		},
+		{
+			"name": "Skills journal",
+			"weight": 33
+		},
+		{
+			"name": "Final semester exam",
+			"weight": 33
+		}
+	]
+}

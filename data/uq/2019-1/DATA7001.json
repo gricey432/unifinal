@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Design thinking task",
+			"weight": 10
+		},
+		{
+			"name": "Practical",
+			"weight": 12
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Group project",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz on Practice Case Studies",
+			"weight": 8
+		}
+	]
+}

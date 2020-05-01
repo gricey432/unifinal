@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paper/computer-based exercises throughout semester",
+			"weight": 10
+		},
+		{
+			"name": "In Class VBA Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mini Project 1: VBA and Circuit Mass Balances",
+			"weight": 10
+		},
+		{
+			"name": "In Class Matlab Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mini Project 2: Modelling of Gold Leaching  ",
+			"weight": 10
+		},
+		{
+			"name": "Final written examination",
+			"weight": 50
+		}
+	]
+}

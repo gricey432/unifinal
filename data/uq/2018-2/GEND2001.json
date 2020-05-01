@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Journal",
+			"weight": 20
+		},
+		{
+			"name": "Digital Humanities Project: Wikipedia Edit-a-thon",
+			"weight": 30
+		},
+		{
+			"name": "Reflective research essay",
+			"weight": 40
+		}
+	]
+}

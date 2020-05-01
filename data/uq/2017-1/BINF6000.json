@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Workshop 1",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Workshop 2",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 3: Practicals",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 4: Group Project Presentation",
+			"weight": 20
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 40
+		}
+	]
+}

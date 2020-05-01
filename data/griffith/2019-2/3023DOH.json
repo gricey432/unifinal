@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report: 2,500 words",
+			"weight": 70
+		},
+		{
+			"name": "Literature Review Topic: Research Plan / Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Individual Presentation: 10 minutes",
+			"weight": 25
+		}
+	]
+}

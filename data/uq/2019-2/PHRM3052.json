@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative Learning Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Pharmacokinetic calculations group assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

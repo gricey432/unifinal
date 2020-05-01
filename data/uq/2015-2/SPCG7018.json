@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formulation of topic",
+			"weight": 5
+		},
+		{
+			"name": "Research proposal - methodological approach",
+			"weight": 20
+		},
+		{
+			"name": "Completion of ethical clearance protocol",
+			"weight": 15
+		},
+		{
+			"name": "Thesis report",
+			"weight": 55
+		},
+		{
+			"name": "Thesis report - update",
+			"weight": 5
+		}
+	]
+}

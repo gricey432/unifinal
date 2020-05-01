@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Written lab reports and slides produced in class",
+			"weight": 17
+		},
+		{
+			"name": "Laboratory practice",
+			"weight": 3
+		},
+		{
+			"name": "Mid Trimester examination",
+			"weight": 30
+		},
+		{
+			"name": "End of trimester theory examination",
+			"weight": 30
+		},
+		{
+			"name": "End of trimester practical examination",
+			"weight": 20
+		}
+	]
+}

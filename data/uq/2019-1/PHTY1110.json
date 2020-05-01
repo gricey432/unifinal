@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester written exam ",
+			"weight": 30
+		},
+		{
+			"name": "Reflexivity assignment - culture & physiotherapy ",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester written Examination",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester practical examination",
+			"weight": 30
+		}
+	]
+}

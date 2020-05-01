@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercises and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Notes from an interview with a workplace writer",
+			"weight": 10
+		},
+		{
+			"name": "Original style guide entry",
+			"weight": 15
+		},
+		{
+			"name": "In-class editing test",
+			"weight": 30
+		},
+		{
+			"name": "Article for a professional publication",
+			"weight": 35
+		}
+	]
+}

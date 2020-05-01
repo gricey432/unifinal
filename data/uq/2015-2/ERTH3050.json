@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lake Moondarra Exercise- Low grade rocks ",
+			"weight": 50
+		},
+		{
+			"name": "Multiple Deformation Mapping Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Mica Creek Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Individual Mapping Exercise ",
+			"weight": 10
+		}
+	]
+}

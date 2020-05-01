@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Safe Handling Workshop",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment for Clinical Placement",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment for Clinical Placement",
+			"weight": "NGP"
+		}
+	]
+}

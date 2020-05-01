@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exam diagrams and calculations",
+			"weight": 50
+		},
+		{
+			"name": "Cabin Design",
+			"weight": 50
+		}
+	]
+}

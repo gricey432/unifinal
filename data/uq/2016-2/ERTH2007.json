@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals",
+			"weight": 10
+		},
+		{
+			"name": "Mid Term Exam",
+			"weight": 10
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final exam ",
+			"weight": 50
+		}
+	]
+}

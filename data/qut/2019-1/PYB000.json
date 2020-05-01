@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student Portfolio (Reflection)",
+			"weight": 30
+		},
+		{
+			"name": "Multimedia Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Workbook",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: The human context of conservation",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Talk ",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 Marine mammals conservation conflicts",
+			"weight": 30
+		}
+	]
+}

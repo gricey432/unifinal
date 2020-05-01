@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Activities/ Laboratory Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mini Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Mini Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

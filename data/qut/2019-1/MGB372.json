@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Value Creation Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Industry Partner Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Transition Reflection",
+			"weight": 40
+		}
+	]
+}

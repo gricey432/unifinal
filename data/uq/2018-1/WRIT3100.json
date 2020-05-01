@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Paper",
+			"weight": 20
+		},
+		{
+			"name": "Short Writing Assignments (4 x 250 words)",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester (Multiple-Choice) Test",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

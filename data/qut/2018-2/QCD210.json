@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography Entry",
+			"weight": 10
+		},
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Small Group Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

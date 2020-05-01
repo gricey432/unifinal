@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mind map and researchable questions",
+			"weight": 10
+		},
+		{
+			"name": "Comparative Methodologies",
+			"weight": 20
+		},
+		{
+			"name": "Social Science Research - Mixed Methodologies",
+			"weight": 20
+		},
+		{
+			"name": "Comprehensive final exam",
+			"weight": 50
+		}
+	]
+}

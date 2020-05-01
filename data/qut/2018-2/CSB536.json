@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. Viva Voce",
+			"weight": 40
+		},
+		{
+			"name": "2. Case Studies Quiz",
+			"weight": 30
+		},
+		{
+			"name": "3. Examination (Theory)",
+			"weight": 30
+		}
+	]
+}

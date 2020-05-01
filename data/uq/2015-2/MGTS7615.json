@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Modules",
+			"weight": 40
+		},
+		{
+			"name": "Accountability Report",
+			"weight": 25
+		},
+		{
+			"name": "Moot submission to a parliamentary committee",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz during tutorial session",
+			"weight": 10
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 14
+		},
+		{
+			"name": "Laboratory Component (Microbiology)",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory Component (Biochemistry)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz during tutorial sessions",
+			"weight": 10
+		},
+		{
+			"name": "Quiz during tutorial sessions",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Component (Fermentation)",
+			"weight": 6
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

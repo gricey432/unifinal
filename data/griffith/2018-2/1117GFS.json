@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Process and Practice",
+			"weight": 20
+		},
+		{
+			"name": "Development Review of Concept Design",
+			"weight": 30
+		},
+		{
+			"name": "Concept Design dossier",
+			"weight": 50
+		}
+	]
+}

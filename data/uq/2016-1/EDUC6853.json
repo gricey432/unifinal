@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Argumentation strategies",
+			"weight": 20
+		},
+		{
+			"name": "Resource Folio",
+			"weight": 40
+		},
+		{
+			"name": "Philosophy - Unit Plan",
+			"weight": 40
+		}
+	]
+}

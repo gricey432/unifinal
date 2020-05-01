@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mind map",
+			"weight": 10
+		},
+		{
+			"name": "Literature review relevant to thesis topic",
+			"weight": 80
+		},
+		{
+			"name": "Timeline for research and thesis writing",
+			"weight": 10
+		}
+	]
+}

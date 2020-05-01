@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Agency Profile",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Workbook and participation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Understanding practice issues.",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Placement evaluation",
+			"weight": "Pass/ Fail"
+		}
+	]
+}

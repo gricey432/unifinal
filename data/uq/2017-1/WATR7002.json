@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group PBL 1 - Critique a Project",
+			"weight": 25
+		},
+		{
+			"name": "Applying literature to a case study ",
+			"weight": 30
+		},
+		{
+			"name": "Group work preparation of Training Guide",
+			"weight": 20
+		},
+		{
+			"name": "Individual PBL: Design a Project",
+			"weight": 25
+		}
+	]
+}

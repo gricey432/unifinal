@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practice & Course Engagement",
+			"weight": 55
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

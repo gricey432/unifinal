@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "project and power point students presentations",
+			"weight": 25
+		},
+		{
+			"name": "Microbiology, Immunology, Infection Final exam",
+			"weight": 60
+		}
+	]
+}

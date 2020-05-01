@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lettre formelle",
+			"weight": 15
+		},
+		{
+			"name": "Participation aux forums",
+			"weight": 5
+		},
+		{
+			"name": "Mél amical",
+			"weight": 5
+		},
+		{
+			"name": "Message audio individuel ",
+			"weight": 20
+		},
+		{
+			"name": "Plan pour l'analyse autobiographique",
+			"weight": 10
+		},
+		{
+			"name": "Examen: compréhension auditive, dissertation",
+			"weight": 25
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 20
+		}
+	]
+}

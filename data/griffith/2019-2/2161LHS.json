@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Textual analysis",
+			"weight": 40
+		},
+		{
+			"name": "Research essay",
+			"weight": 60
+		}
+	]
+}

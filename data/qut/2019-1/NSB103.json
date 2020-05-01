@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique",
+			"weight": 30
+		},
+		{
+			"name": "Reflection on observation",
+			"weight": 30
+		},
+		{
+			"name": "Health assessment",
+			"weight": 40
+		}
+	]
+}

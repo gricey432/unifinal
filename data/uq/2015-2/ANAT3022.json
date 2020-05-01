@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Literature Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory report on Brain Dissection",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation for Brain Dissection",
+			"weight": 10
+		},
+		{
+			"name": "Practical exam ",
+			"weight": 15
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 40
+		}
+	]
+}

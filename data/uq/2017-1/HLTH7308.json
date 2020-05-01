@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Critical Review of the Literature ",
+			"weight": 60
+		},
+		{
+			"name": "Assessment 2  - Development of a Research Proposal",
+			"weight": 40
+		}
+	]
+}

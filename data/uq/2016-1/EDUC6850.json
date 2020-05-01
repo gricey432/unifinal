@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment1 Part A Musicology curriculum materials",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2 Planning for the future",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 1 Part B Senior unit of work",
+			"weight": 50
+		}
+	]
+}

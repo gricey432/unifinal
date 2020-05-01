@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Issues in Carbon and Energy Management",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

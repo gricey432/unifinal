@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Guided discussion with peers",
+			"weight": 20
+		},
+		{
+			"name": " Child/Youth Photostudy",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment ",
+			"weight": 50
+		}
+	]
+}

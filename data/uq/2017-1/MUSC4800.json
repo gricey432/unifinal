@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly improvisation tasks on discussion board",
+			"weight": 40
+		},
+		{
+			"name": "Class participation",
+			"weight": 40
+		},
+		{
+			"name": "Analysis of class recording",
+			"weight": 20
+		}
+	]
+}

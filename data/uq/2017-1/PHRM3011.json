@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop learning activities (practicals)",
+			"weight": "Participation"
+		},
+		{
+			"name": "Community Pharmacy Placements (weeks 5-10)",
+			"weight": 10
+		},
+		{
+			"name": "Dispensing Accuracy Test",
+			"weight": 5
+		},
+		{
+			"name": "Written exam",
+			"weight": 55
+		},
+		{
+			"name": "Oral exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "5 Quizzes-see below"
+		},
+		{
+			"name": "1) Dispensing and Smoking Cessation (weeks 1/2)",
+			"weight": 2
+		},
+		{
+			"name": "2) Arrhythmias (Weeks 3/4)",
+			"weight": 2
+		},
+		{
+			"name": "3) Hypertension (Weeks 6/7)",
+			"weight": 2
+		},
+		{
+			"name": "4) Coronary/Ischaemic Heart Disease (Weeks 8/9)",
+			"weight": 2
+		},
+		{
+			"name": "5)Heart failure (Weeks 11/12)",
+			"weight": 2
+		}
+	]
+}

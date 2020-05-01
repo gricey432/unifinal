@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Work Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Individual Report on Special Interest Group",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

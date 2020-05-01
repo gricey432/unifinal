@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Computer Labs using Matlab/Simulink",
+			"weight": 20
+		},
+		{
+			"name": "In-class assessment",
+			"weight": 5
+		},
+		{
+			"name": "Mid Sem. Exam",
+			"weight": 15
+		},
+		{
+			"name": "Practical Group Project",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

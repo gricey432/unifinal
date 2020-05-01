@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar and workshop 'compiti'",
+			"weight": 40
+		},
+		{
+			"name": "Grammar Test",
+			"weight": 20
+		},
+		{
+			"name": "Reading and Writing Exam ",
+			"weight": 20
+		},
+		{
+			"name": "Oral test ",
+			"weight": 20
+		}
+	]
+}

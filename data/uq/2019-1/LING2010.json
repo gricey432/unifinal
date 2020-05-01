@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Short online questions on advanced readings",
+			"weight": 5
+		},
+		{
+			"name": "Short online questions on lecture content",
+			"weight": 20
+		},
+		{
+			"name": "Exercise set 1",
+			"weight": 15
+		},
+		{
+			"name": "Exercise set 2",
+			"weight": 15
+		},
+		{
+			"name": "Exercise set 3",
+			"weight": 15
+		},
+		{
+			"name": "Take-home final exam",
+			"weight": 30
+		}
+	]
+}

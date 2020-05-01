@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Content Reviews",
+			"weight": 20
+		},
+		{
+			"name": "Assessable Homework",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

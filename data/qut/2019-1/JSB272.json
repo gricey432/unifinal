@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Solving the Crime Problem",
+			"weight": 50
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

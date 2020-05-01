@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Assignment - Case brief ",
+			"weight": 10
+		},
+		{
+			"name": "Journals",
+			"weight": 15
+		},
+		{
+			"name": "Movie Review  (2000 words)",
+			"weight": 35
+		},
+		{
+			"name": "Final assignment - Major essay (2500 words)",
+			"weight": 40
+		}
+	]
+}

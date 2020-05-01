@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Internal Medicine SAH Performance/Self Reflection",
+			"weight": 16
+		},
+		{
+			"name": "Referral Surgery SAH Self Reflection ",
+			"weight": 16
+		},
+		{
+			"name": "Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Primary Accession (GP) SAH",
+			"weight": 16
+		},
+		{
+			"name": "Community Practice Surgery week SAH/CSC",
+			"weight": 8
+		},
+		{
+			"name": "Community Practice RSPCA",
+			"weight": 16
+		},
+		{
+			"name": "Avian and Exotic Pet rotation SAH",
+			"weight": 8
+		},
+		{
+			"name": "Small Animal Oral Examination (Vivas)",
+			"weight": 20
+		},
+		{
+			"name": "Small Animal Core Technical Skills",
+			"weight": "Pass/fail"
+		}
+	]
+}

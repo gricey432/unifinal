@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment (individual)",
+			"weight": 40
+		},
+		{
+			"name": "Cultural Safety learning module and attached quiz",
+			"weight": 0
+		},
+		{
+			"name": "Written examination",
+			"weight": 60
+		}
+	]
+}

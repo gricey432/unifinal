@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on compensation issue",
+			"weight": 10
+		},
+		{
+			"name": "Moot Court Group Report",
+			"weight": 40
+		},
+		{
+			"name": "exam",
+			"weight": 50
+		}
+	]
+}

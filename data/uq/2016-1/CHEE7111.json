@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Part 1",
+			"weight": 40
+		},
+		{
+			"name": "Project Part 1",
+			"weight": 40
+		},
+		{
+			"name": "Interactive sessions",
+			"weight": 20
+		}
+	]
+}

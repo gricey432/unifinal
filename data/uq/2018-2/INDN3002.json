@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theme 1: Pidato Presiden",
+			"weight": 25
+		},
+		{
+			"name": "Theme 2: development and NGOs",
+			"weight": 25
+		},
+		{
+			"name": "Theme 3: Interview project",
+			"weight": 50
+		}
+	]
+}

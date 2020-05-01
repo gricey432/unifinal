@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay ",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Essay Abstract",
+			"weight": 25
+		},
+		{
+			"name": "Visual Recognition, Short Answer & Essay Questions",
+			"weight": 20
+		}
+	]
+}

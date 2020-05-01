@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Functional behavioural assessment & reflections",
+			"weight": 60
+		},
+		{
+			"name": "Theory-based intervention material + reflections",
+			"weight": 40
+		}
+	]
+}

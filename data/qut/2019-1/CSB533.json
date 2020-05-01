@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Examination",
+			"weight": 50
+		},
+		{
+			"name": "Clinical Skills Examination",
+			"weight": 50
+		}
+	]
+}

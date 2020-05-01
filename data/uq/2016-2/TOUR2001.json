@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Facility Design Project",
+			"weight": 60
+		}
+	]
+}

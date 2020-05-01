@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "(1) Torsion/Combined actions",
+			"weight": 10
+		},
+		{
+			"name": "(2) Strut-and-tie modelling",
+			"weight": 10
+		},
+		{
+			"name": "(3) Prestressed concrete - Part 1",
+			"weight": 10
+		},
+		{
+			"name": "(4) Prestressed concrete - Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

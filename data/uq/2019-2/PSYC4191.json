@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "9 in-class quizzes",
+			"weight": 30
+		},
+		{
+			"name": "First submission of assignment",
+			"weight": 40
+		},
+		{
+			"name": "Second submission of assignment with cover letter",
+			"weight": 30
+		}
+	]
+}

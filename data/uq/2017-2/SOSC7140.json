@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Infographic and Exposition",
+			"weight": 50
+		},
+		{
+			"name": "Essay OR Briefing Note",
+			"weight": 30
+		}
+	]
+}

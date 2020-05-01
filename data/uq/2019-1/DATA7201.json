@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion of Advanced Data Analytics Solutions",
+			"weight": 25
+		},
+		{
+			"name": "Report on Dataset Analytics",
+			"weight": 45
+		},
+		{
+			"name": "Advanced Data Analytics Infrastructures",
+			"weight": 30
+		}
+	]
+}

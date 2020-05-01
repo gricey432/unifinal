@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Detail Drawing ",
+			"weight": 20
+		},
+		{
+			"name": "3D Detail Drawing ",
+			"weight": 20
+		},
+		{
+			"name": "Construction Model",
+			"weight": 40
+		},
+		{
+			"name": "Construction Test",
+			"weight": 20
+		}
+	]
+}

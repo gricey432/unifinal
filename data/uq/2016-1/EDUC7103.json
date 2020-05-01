@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of general trends in global work context",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of an issue(s)from the course",
+			"weight": 60
+		}
+	]
+}

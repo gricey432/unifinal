@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept map and reflective essay",
+			"weight": 35
+		},
+		{
+			"name": "LAMS Sequence and Synthesis",
+			"weight": 20
+		},
+		{
+			"name": "Learning designs for technology integration",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback Summary Sheet for Research Participants ",
+			"weight": 20
+		},
+		{
+			"name": "Final Research Report",
+			"weight": 60
+		},
+		{
+			"name": "Group Project Poster and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Revised Report Delivered to Industry Partner",
+			"weight": "Required for award of grade"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "On-going performance",
+			"weight": 20
+		},
+		{
+			"name": "Oral Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Oral Test 2",
+			"weight": 35
+		},
+		{
+			"name": "Written Test",
+			"weight": 20
+		}
+	]
+}

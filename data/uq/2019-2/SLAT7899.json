@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly journal",
+			"weight": 30
+		},
+		{
+			"name": "Intercultural Interview",
+			"weight": 40
+		},
+		{
+			"name": "Group workshop",
+			"weight": 30
+		}
+	]
+}

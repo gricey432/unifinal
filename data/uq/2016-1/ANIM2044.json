@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports and Compulsory attendance",
+			"weight": 25
+		},
+		{
+			"name": "Sustainability of intensive animal farming",
+			"weight": 25
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Presentations.",
+			"weight": 15
+		},
+		{
+			"name": "Journal of Learning",
+			"weight": 25
+		},
+		{
+			"name": "Blackboard Quiz: Module 1.",
+			"weight": 20
+		},
+		{
+			"name": "Export Marketing Plan. ",
+			"weight": 40
+		}
+	]
+}

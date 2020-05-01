@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-placement requirements",
+			"weight": "NGP"
+		},
+		{
+			"name": "Participation in learning activities",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical placement timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance Portfolio part 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Skills Competency",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance Portfolio part 2",
+			"weight": "NGP"
+		}
+	]
+}

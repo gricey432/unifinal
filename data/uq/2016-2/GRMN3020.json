@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog ",
+			"weight": 40
+		},
+		{
+			"name": " Written Test Exam - outside Exam Period (School) ",
+			"weight": 40
+		},
+		{
+			"name": "Debate",
+			"weight": 20
+		}
+	]
+}

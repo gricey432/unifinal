@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Analysis Test",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Group AV Production & Journal",
+			"weight": 40
+		}
+	]
+}

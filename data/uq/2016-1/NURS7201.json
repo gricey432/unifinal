@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "The Application of Nursing Theories to Practice",
+			"weight": 40
+		},
+		{
+			"name": "Models of Care Delivery",
+			"weight": 60
+		}
+	]
+}

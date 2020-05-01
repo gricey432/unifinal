@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line discussion tutorial leader",
+			"weight": 20
+		},
+		{
+			"name": "Use of Technology in the Mental Health Area",
+			"weight": 40
+		},
+		{
+			"name": "Powerpoint presentation",
+			"weight": 40
+		}
+	]
+}

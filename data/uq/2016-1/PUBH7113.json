@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Exam",
+			"weight": 10
+		},
+		{
+			"name": "Article review ",
+			"weight": 20
+		},
+		{
+			"name": "Policy brief ",
+			"weight": 40
+		},
+		{
+			"name": "Intervention critique ",
+			"weight": 30
+		}
+	]
+}

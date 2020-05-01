@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Learning ePortfolio",
+			"weight": 35
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in class activities",
+			"weight": 10
+		},
+		{
+			"name": "Short methods essay (750 words excl references) ",
+			"weight": 20
+		},
+		{
+			"name": "Major essay plan (500 words excluding references)",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay (4,000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Issues brief (750 words not including references)",
+			"weight": 20
+		}
+	]
+}

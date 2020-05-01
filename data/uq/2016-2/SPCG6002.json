@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Elective Essay",
+			"weight": 40
+		},
+		{
+			"name": "4 online quizzes available from week 4 onwards",
+			"weight": 50
+		}
+	]
+}

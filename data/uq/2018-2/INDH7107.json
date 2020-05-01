@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Powerpoint slides",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation",
+			"weight": 40
+		},
+		{
+			"name": "Critical reflective essay",
+			"weight": 40
+		}
+	]
+}

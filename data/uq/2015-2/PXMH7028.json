@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Blackboard Group Discussion ",
+			"weight": 20
+		},
+		{
+			"name": "Participation -Tutorial Discussion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Therapeutic Interventions",
+			"weight": 40
+		},
+		{
+			"name": "Summative examination",
+			"weight": 40
+		}
+	]
+}

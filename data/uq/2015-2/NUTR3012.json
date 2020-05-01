@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": " Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Summaries of case study lectures  ",
+			"weight": 15
+		},
+		{
+			"name": "Group presentations",
+			"weight": 25
+		},
+		{
+			"name": "Design an intervention proposal",
+			"weight": 40
+		}
+	]
+}

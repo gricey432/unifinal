@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Short policy paper (2000 words max)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (4000 words)",
+			"weight": 60
+		}
+	]
+}

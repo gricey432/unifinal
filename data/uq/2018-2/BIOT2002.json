@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Invigilated Online Multiple Choice Exam",
+			"weight": 30
+		},
+		{
+			"name": "Drug Design and Development",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		}
+	]
+}

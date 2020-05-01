@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessments",
+			"weight": 24
+		},
+		{
+			"name": "Animal Models",
+			"weight": 15
+		},
+		{
+			"name": "Evolution Miniquiz",
+			"weight": 5
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 55
+		}
+	]
+}

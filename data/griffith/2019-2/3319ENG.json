@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial submission",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

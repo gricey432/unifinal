@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quiz",
+			"weight": 20
+		},
+		{
+			"name": "In-Class Case Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Individual Report",
+			"weight": 50
+		}
+	]
+}

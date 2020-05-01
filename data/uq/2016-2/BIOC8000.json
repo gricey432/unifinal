@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project plan and summary of objectives",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Project presentation",
+			"weight": 15
+		},
+		{
+			"name": "Project report",
+			"weight": 85
+		}
+	]
+}

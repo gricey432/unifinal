@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Crystallography",
+			"weight": 3
+		},
+		{
+			"name": "Crystal Structure Modelling ",
+			"weight": 10
+		},
+		{
+			"name": "Diffraction",
+			"weight": 3
+		},
+		{
+			"name": "XPS ",
+			"weight": 5
+		},
+		{
+			"name": "Synthesis/Characterisation/Property of NanoBi2Te3 ",
+			"weight": 25
+		},
+		{
+			"name": "Nanomaterials for Energy Applications",
+			"weight": 3
+		},
+		{
+			"name": "Electron Microscopy",
+			"weight": 3
+		},
+		{
+			"name": "Nanomaterials for Enviro/Bio Applications",
+			"weight": 3
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

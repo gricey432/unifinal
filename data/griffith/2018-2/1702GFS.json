@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Studio TV show critique",
+			"weight": 20
+		},
+		{
+			"name": "Live Music Recording",
+			"weight": 20
+		},
+		{
+			"name": "Magazine Show",
+			"weight": 20
+		},
+		{
+			"name": "Course Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Quiz - TV Tonight",
+			"weight": 10
+		}
+	]
+}

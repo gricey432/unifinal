@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IMHO: My Health System Issue",
+			"weight": 30
+		},
+		{
+			"name": "Health Systems in Developing Countries",
+			"weight": 30
+		},
+		{
+			"name": "Health System Country Report",
+			"weight": 40
+		}
+	]
+}

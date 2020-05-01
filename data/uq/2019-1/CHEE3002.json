@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "Chemical Engineering Lab Safety Induction",
+			"weight": "Compulsory prior to prac attendance"
+		},
+		{
+			"name": "Lab report 1",
+			"weight": 2
+		},
+		{
+			"name": "Week 3 in-class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Lab report 2",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

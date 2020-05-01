@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar participation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

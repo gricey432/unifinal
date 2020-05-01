@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Paper 1",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Paper 2",
+			"weight": 10
+		},
+		{
+			"name": "Academic Essay",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

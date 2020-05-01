@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Integrative reading reviews (x 2)",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of Solution to an Applied Org Problem",
+			"weight": 40
+		},
+		{
+			"name": "Ethical, Legal and Professional Conduct",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Report on Solution to an Applied Org Problem",
+			"weight": 40
+		}
+	]
+}

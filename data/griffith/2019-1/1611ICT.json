@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessed Workshop Activities",
+			"weight": 20
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Emerging Technology Design",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

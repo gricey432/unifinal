@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal & Case Studies + 1:10 Model",
+			"weight": 30
+		},
+		{
+			"name": "A1 Panel + 1:20 Axon 1:10 Model + 1:1 Detail",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation and Weekly Blackboard Entries",
+			"weight": 20
+		},
+		{
+			"name": "Performance Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Group Masque Performance and Critical Reflection",
+			"weight": 40
+		}
+	]
+}

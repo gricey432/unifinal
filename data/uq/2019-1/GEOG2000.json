@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Recorded Group Discussion",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 60
+		}
+	]
+}

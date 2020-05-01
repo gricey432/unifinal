@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 -Organisation Media Strategy Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2 - Vodcast and Email Responses",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 3 (Part A) Press Release",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3 (Part B) Media Statement Presentation",
+			"weight": 30
+		}
+	]
+}

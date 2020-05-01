@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exam",
+			"weight": 25
+		},
+		{
+			"name": "Animal Health Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

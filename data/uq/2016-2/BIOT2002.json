@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Drug Design and Development",
+			"weight": 30
+		},
+		{
+			"name": "Build a plasmid and map the i.p.",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		}
+	]
+}

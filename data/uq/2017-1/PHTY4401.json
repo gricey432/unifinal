@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "OSCE",
+			"weight": 70
+		},
+		{
+			"name": "OSCE Written component",
+			"weight": 30
+		}
+	]
+}

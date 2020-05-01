@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Review Questions",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation and Persuasive Essay",
+			"weight": 20
+		},
+		{
+			"name": "Textual Analysis Essay - Classic Literature",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 20
+		}
+	]
+}

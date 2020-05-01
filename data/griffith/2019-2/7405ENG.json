@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 3",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1: Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2:Analysis of renewable energy systems",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 4: End of trimester Examination",
+			"weight": 50
+		}
+	]
+}

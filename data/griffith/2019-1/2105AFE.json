@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid - Term Online Quizzes ",
+			"weight": 20
+		},
+		{
+			"name": "Assignment (ILAC)",
+			"weight": 30
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 50
+		}
+	]
+}

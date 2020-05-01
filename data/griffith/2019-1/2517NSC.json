@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZ 1",
+			"weight": 15
+		},
+		{
+			"name": "Aviation decision making",
+			"weight": 30
+		},
+		{
+			"name": "QUIZ 2",
+			"weight": 15
+		},
+		{
+			"name": "Meteorology exam",
+			"weight": 40
+		}
+	]
+}

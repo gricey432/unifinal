@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formal Software Inspection - Report",
+			"weight": 15
+		},
+		{
+			"name": "Software Requirement Specification - Report",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Essay (Postgrad Students Only)",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

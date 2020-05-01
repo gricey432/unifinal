@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Writing - summation and synthesis",
+			"weight": 25
+		},
+		{
+			"name": "Skills test",
+			"weight": 10
+		},
+		{
+			"name": "Main Project",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Policy/Procedure Review in Clinical Practice",
+			"weight": 40
+		},
+		{
+			"name": "Case Study & Reflection",
+			"weight": 60
+		}
+	]
+}

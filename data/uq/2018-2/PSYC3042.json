@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Participation and Performance in Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of hypothetical experiments",
+			"weight": 15
+		},
+		{
+			"name": "Analysis of published journal articles",
+			"weight": 15
+		},
+		{
+			"name": "In-tutorial Assignment: Analysis of an article",
+			"weight": 15
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 35
+		}
+	]
+}

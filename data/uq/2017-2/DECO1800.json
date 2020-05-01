@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "1. Major Project Part A: Design Proposal",
+			"weight": 15
+		},
+		{
+			"name": "2. Major Project Part B: Progress Demo & Report",
+			"weight": 15
+		},
+		{
+			"name": "3. Major Project Part C: Final Delivery",
+			"weight": 30
+		},
+		{
+			"name": "Active Participation",
+			"weight": "Pass/Fail for the Course"
+		},
+		{
+			"name": "Online Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Missing Data Analysis and Factor Analysis",
+			"weight": 33
+		},
+		{
+			"name": "Logistic Regression, Mediation, and Moderation",
+			"weight": 33
+		},
+		{
+			"name": "Mathematical Models and Bayes",
+			"weight": 34
+		}
+	]
+}

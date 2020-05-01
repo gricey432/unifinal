@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Responses to Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

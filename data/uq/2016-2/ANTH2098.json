@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Museum politics in heritage management",
+			"weight": 10
+		},
+		{
+			"name": "Cultural change and continuity in southeast QLD",
+			"weight": 10
+		},
+		{
+			"name": "Written review",
+			"weight": 20
+		},
+		{
+			"name": "group presentations and participation",
+			"weight": 10
+		},
+		{
+			"name": "Burleigh Headland Cultural Heritage Report",
+			"weight": 50
+		}
+	]
+}

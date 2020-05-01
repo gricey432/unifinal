@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "WEEKLY IN CLASS ASSESSMENT",
+			"weight": 40
+		},
+		{
+			"name": "MEDIA ETHICS",
+			"weight": 30
+		},
+		{
+			"name": "MEDIA LAW",
+			"weight": 30
+		}
+	]
+}

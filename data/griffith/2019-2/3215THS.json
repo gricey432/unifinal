@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "HOTS Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Executive Committee Meeting",
+			"weight": 5
+		},
+		{
+			"name": "HOTS Balanced Scorecard",
+			"weight": 30
+		},
+		{
+			"name": "Interactive Oral: Annual Shareholders Meeting",
+			"weight": 35
+		}
+	]
+}

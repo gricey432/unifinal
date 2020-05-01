@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report & Research Performance",
+			"weight": "#10 "
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "#2"
+		},
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Proposal Seminar ",
+			"weight": "#1"
+		},
+		{
+			"name": "Advanced Coursework - Various assessment items",
+			"weight": "#2"
+		},
+		{
+			"name": "Final Seminar",
+			"weight": "#1"
+		}
+	]
+}

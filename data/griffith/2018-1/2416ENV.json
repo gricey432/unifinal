@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Paper",
+			"weight": 10
+		},
+		{
+			"name": "Major Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

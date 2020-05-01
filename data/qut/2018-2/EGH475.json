@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Problem Solving Test",
+			"weight": 10
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

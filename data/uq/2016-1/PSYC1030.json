@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 54
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 5
+		},
+		{
+			"name": "Submission 1 - Draft of Introduction to Report",
+			"weight": 0
+		},
+		{
+			"name": "Submission 2 - Complete Lab Report",
+			"weight": 35
+		}
+	]
+}

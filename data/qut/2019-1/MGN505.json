@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Foreseeable Futures Report",
+			"weight": 50
+		},
+		{
+			"name": "Change Mgt Report and Plan",
+			"weight": 50
+		}
+	]
+}

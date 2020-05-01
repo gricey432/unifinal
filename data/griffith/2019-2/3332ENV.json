@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Outputs",
+			"weight": 30
+		},
+		{
+			"name": "Management Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Topical Issue in marine conservation",
+			"weight": 30
+		},
+		{
+			"name": "In-class quiz(zes)",
+			"weight": 10
+		}
+	]
+}

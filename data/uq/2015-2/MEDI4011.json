@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Log - Gynaecology Cases",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "Log - Obstetrics Cases",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "Clinical Participation Assessment - Gynaecology",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments."
+		},
+		{
+			"name": "MCQ Examination in Obstetrics",
+			"weight": 17
+		},
+		{
+			"name": "OSCE in Obstetrics",
+			"weight": 33
+		},
+		{
+			"name": "OSCE in Gynaecology",
+			"weight": 33
+		},
+		{
+			"name": "Clinical Participation Assessment - Obstetrics",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "Documented Vaginal Deliveries",
+			"weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+		},
+		{
+			"name": "MCQ Examination in Gynaecology",
+			"weight": 17
+		},
+		{
+			"name": "Research Paper in Journal Format",
+			"weight": 100
+		}
+	]
+}

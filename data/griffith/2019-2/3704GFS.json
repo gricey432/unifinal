@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Distribution Case Study",
+			"weight": 35
+		},
+		{
+			"name": "Audience and Distribution Plan",
+			"weight": 40
+		}
+	]
+}

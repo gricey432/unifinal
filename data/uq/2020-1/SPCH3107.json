@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SPCH3107 Clinical Practice (Module 2)",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Fluency Disorders Mid-Semester Online Examination",
+			"weight": 40
+		},
+		{
+			"name": "Fluency: Practical and case-based assignment",
+			"weight": 30
+		},
+		{
+			"name": "Online final exam",
+			"weight": 30
+		}
+	]
+}

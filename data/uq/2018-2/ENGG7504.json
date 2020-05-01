@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1: Article review and presentation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Reservoir Simulation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

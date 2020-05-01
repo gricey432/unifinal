@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board Paricipation ",
+			"weight": 50
+		},
+		{
+			"name": "Literature Review",
+			"weight": 50
+		}
+	]
+}

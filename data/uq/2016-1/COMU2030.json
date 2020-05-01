@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1: Article Critique",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Item 2: Focus Group, Survey & Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

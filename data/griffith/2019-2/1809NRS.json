@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sim Lab Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Essay 1500 words",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Placement (ANSAT assessment tool)",
+			"weight": 0
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

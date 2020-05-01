@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance, Participation and Workbook",
+			"weight": 5
+		},
+		{
+			"name": "Career Focus Module: Video Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "SPSS analysis assignment",
+			"weight": 30
+		},
+		{
+			"name": "Mid-trimester exam (MTE)",
+			"weight": 15
+		},
+		{
+			"name": "End-of-trimester exam (ETE)",
+			"weight": 35
+		}
+	]
+}

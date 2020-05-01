@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz | 4 sets over 10 weeks",
+			"weight": 20
+		},
+		{
+			"name": "Business Models*, Assumptions*, Growth Pathways*",
+			"weight": 30
+		},
+		{
+			"name": "Business Case Assignment*",
+			"weight": 20
+		},
+		{
+			"name": "TIMS3302 Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Time sheet ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Birth Experience Record ",
+			"weight": "NGP "
+		},
+		{
+			"name": "CoCe Journal submission ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Goal Setting Plan ",
+			"weight": "NGP "
+		},
+		{
+			"name": "Medication Calculation Exam ",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 1",
+			"weight": "NGP"
+		},
+		{
+			"name": " AMSAT-Formative assessment",
+			"weight": "NGP "
+		},
+		{
+			"name": "Portfolio 2 ",
+			"weight": "NGP"
+		},
+		{
+			"name": "AMSAT-Summative assessment",
+			"weight": "NGP"
+		}
+	]
+}

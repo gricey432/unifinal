@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "School of Dentistry & External Clinical Placement",
+			"weight": 50
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Viva Voce",
+			"weight": 30
+		}
+	]
+}

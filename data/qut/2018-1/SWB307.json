@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Youth services practice paper",
+			"weight": 60
+		},
+		{
+			"name": "Scenarios",
+			"weight": 40
+		}
+	]
+}

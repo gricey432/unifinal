@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly learning Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Beef cattle, dairy cattle, sheep, or goats",
+			"weight": 20
+		},
+		{
+			"name": "Practical attendance and participation",
+			"weight": 30
+		},
+		{
+			"name": "END SEMESTER EXAM",
+			"weight": 40
+		}
+	]
+}

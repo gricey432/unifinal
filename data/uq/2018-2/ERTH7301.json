@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Exploratory data analysis and QA/QC",
+			"weight": 5
+		},
+		{
+			"name": "Build  a 3D geological model in Micromine",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term exam",
+			"weight": 20
+		},
+		{
+			"name": "ASX Market Release",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam - Practical",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Case Studies",
+			"weight": 15
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 50
+		},
+		{
+			"name": "Pebblepad portfolio",
+			"weight": 20
+		}
+	]
+}

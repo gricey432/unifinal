@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student & advisor details & EBVM review protocol",
+			"weight": "P/F"
+		},
+		{
+			"name": "Contact with EBVM advisor",
+			"weight": "P/F"
+		},
+		{
+			"name": "Activity report/case log",
+			"weight": "P/F"
+		},
+		{
+			"name": "Reflective essay on the elective placement",
+			"weight": 10
+		},
+		{
+			"name": "Clinical elective placement performance assessment",
+			"weight": 40
+		},
+		{
+			"name": "EBVM: Systematic review of an intervention",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Expectations",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Sport Education model",
+			"weight": 40
+		},
+		{
+			"name": "Teaching Resource Folio",
+			"weight": 45
+		},
+		{
+			"name": "Certification",
+			"weight": "Pass / Fail"
+		}
+	]
+}

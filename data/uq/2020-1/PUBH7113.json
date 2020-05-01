@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Test",
+			"weight": 20
+		},
+		{
+			"name": "Prepare a concise summary of evidence",
+			"weight": 35
+		},
+		{
+			"name": "Conduct a systematic review of the literature",
+			"weight": 45
+		}
+	]
+}

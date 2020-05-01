@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal analysis  of Indonesian agriculture",
+			"weight": 40
+		},
+		{
+			"name": "Agricultural Systems of Java",
+			"weight": 40
+		},
+		{
+			"name": "Seminar on review topic",
+			"weight": 20
+		}
+	]
+}

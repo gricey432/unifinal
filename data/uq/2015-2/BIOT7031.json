@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study of GLP",
+			"weight": 15
+		},
+		{
+			"name": "Case studies of GCP and GMP",
+			"weight": 30
+		},
+		{
+			"name": "Quality Systems and Safety in Biotechnology",
+			"weight": 10
+		},
+		{
+			"name": "Develop a Study Plan for GLP sub-Acute Tox study",
+			"weight": 20
+		},
+		{
+			"name": "Develop a Final Report for GLP sub-Acute Tox study",
+			"weight": 25
+		}
+	]
+}

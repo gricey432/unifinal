@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Letter to the Editor",
+			"weight": 35
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 65
+		}
+	]
+}

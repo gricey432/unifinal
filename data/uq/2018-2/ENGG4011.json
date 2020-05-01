@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Workplace Feedback by Placement Supervisor",
+			"weight": 10
+		},
+		{
+			"name": "Present Project Plan at the Company",
+			"weight": 0
+		},
+		{
+			"name": "Reflection on professional development",
+			"weight": 0
+		},
+		{
+			"name": "Synopsis for Seminar",
+			"weight": 0
+		},
+		{
+			"name": "Presentation Computer Files",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Presentation and Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Final Report",
+			"weight": 75
+		}
+	]
+}

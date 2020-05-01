@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly News Quiz during tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Slide Show for the World Wide Web",
+			"weight": 30
+		},
+		{
+			"name": "Visual News Package and Edited Script",
+			"weight": 30
+		},
+		{
+			"name": "Compilation Reel",
+			"weight": 30
+		}
+	]
+}

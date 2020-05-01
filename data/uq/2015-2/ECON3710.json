@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Applying the theory",
+			"weight": 20
+		},
+		{
+			"name": "Mining and Energy Economics",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

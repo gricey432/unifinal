@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Required reading",
+			"weight": 10
+		},
+		{
+			"name": "Exploring a contemporary global population issue",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental health & governance mapping exercise",
+			"weight": 30
+		},
+		{
+			"name": "Field trip report",
+			"weight": 30
+		},
+		{
+			"name": "Health Risk Audit and Management Plan",
+			"weight": 40
+		}
+	]
+}

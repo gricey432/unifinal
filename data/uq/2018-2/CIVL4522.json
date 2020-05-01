@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Software Exercise (Identity-Verified)",
+			"weight": 5
+		},
+		{
+			"name": "Design and Analysis Asgmt 1 (Identity-Verified)",
+			"weight": 6
+		},
+		{
+			"name": "Design and Analysis Asgmt 2 (Identity-Verified)",
+			"weight": 12
+		},
+		{
+			"name": "Design and Analysis Asgmt 3 (Identity-Verified)",
+			"weight": 12
+		},
+		{
+			"name": "Design and Analysis Asgmt 4 (Identity-Verified)",
+			"weight": 25
+		},
+		{
+			"name": "Project Phase 1 - Statement of Work",
+			"weight": 5
+		},
+		{
+			"name": "Project Phase 2 - Status Update",
+			"weight": 5
+		},
+		{
+			"name": "Project Phase 3 - Final Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Project Phase 3 - Final Report",
+			"weight": 20
+		}
+	]
+}

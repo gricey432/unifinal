@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Negotiated Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review 1: Geography in the C19",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review 2: Progress in Human Geography",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review 3: Progress in Physical Geography",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review 4: Geographical Education II",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review 5: Geography in Practice",
+			"weight": 15
+		},
+		{
+			"name": "Examination",
+			"weight": 25
+		}
+	]
+}

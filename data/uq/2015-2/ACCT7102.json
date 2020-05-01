@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Assessment must be solely the work of the student",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Continuity of Care Experiences",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative assessment",
+			"weight": "NGP"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Templates",
+			"weight": 4
+		},
+		{
+			"name": "Materials Pre-Work (Individual)",
+			"weight": 5
+		},
+		{
+			"name": "Problem Solving Sheets (Team-based)",
+			"weight": 5
+		},
+		{
+			"name": "Module Quizzes + MOOCchat (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Reflections (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Preliminary Memo (Team-based)",
+			"weight": 13
+		},
+		{
+			"name": "Peer Assessment (Individual)",
+			"weight": "P/F (affects team marks)"
+		},
+		{
+			"name": "Mid-semester Exam (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Attendance (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Model Test and Demonstration! (Team-based)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 13
+		}
+	]
+}

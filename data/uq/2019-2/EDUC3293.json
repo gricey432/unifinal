@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching Task",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory-based Lesson Planning",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory Skills Test",
+			"weight": 30
+		}
+	]
+}

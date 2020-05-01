@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Report 1: Client with a mental illness",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Case Study Report 2: Client with a mental illness",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 10
+		}
+	]
+}

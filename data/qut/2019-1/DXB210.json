@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Context Analysis and Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Prototype and UX Strategy",
+			"weight": 60
+		}
+	]
+}

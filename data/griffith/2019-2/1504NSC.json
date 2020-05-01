@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Short Answer Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Aviation Medicine Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam, 2hrs",
+			"weight": 50
+		}
+	]
+}

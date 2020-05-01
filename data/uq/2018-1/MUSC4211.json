@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Recital ",
+			"weight": 60
+		},
+		{
+			"name": "Ensemble Participation, Assessment,and Attendance",
+			"weight": 5
+		},
+		{
+			"name": "Weekly Lesson Semester 1",
+			"weight": 20
+		},
+		{
+			"name": "Concert Reviews and Scholarly Reflection",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Performance Forums",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Weekly Lesson Semester 2",
+			"weight": 15
+		}
+	]
+}

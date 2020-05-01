@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Peer Review and Class Activities",
+			"weight": 25
+		},
+		{
+			"name": "Portfolio of PR Tools for Organisation - Part 1",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of PR Tools for Organisation - Part 2",
+			"weight": 45
+		}
+	]
+}

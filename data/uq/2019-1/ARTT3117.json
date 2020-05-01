@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exhibition review",
+			"weight": 30
+		},
+		{
+			"name": "Acquisition rationale",
+			"weight": 25
+		},
+		{
+			"name": "Exhibition proposal",
+			"weight": 45
+		}
+	]
+}

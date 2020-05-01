@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test Administration",
+			"weight": 25
+		},
+		{
+			"name": "Critical Review",
+			"weight": 30
+		},
+		{
+			"name": "Psychological Report",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Firm Internationalisation Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

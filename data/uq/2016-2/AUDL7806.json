@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical forms, records and checklists",
+			"weight": 0
+		},
+		{
+			"name": "Clinical Viva Exam",
+			"weight": 70
+		},
+		{
+			"name": "Clinical report 1",
+			"weight": 5
+		},
+		{
+			"name": "Clinical report 2",
+			"weight": 5
+		},
+		{
+			"name": "In-class quiz",
+			"weight": 20
+		}
+	]
+}

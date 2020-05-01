@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report on laboratory classes 1 to 3",
+			"weight": 20
+		},
+		{
+			"name": "Report on laboratory 4",
+			"weight": 15
+		},
+		{
+			"name": "Report on Laboratory 5",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

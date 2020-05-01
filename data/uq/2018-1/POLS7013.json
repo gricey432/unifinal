@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Seminar reading reports",
+			"weight": 10
+		},
+		{
+			"name": "Seminar facilitation",
+			"weight": 20
+		},
+		{
+			"name": "Major research essay",
+			"weight": 40
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		}
+	]
+}

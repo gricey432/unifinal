@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project",
+			"weight": 20
+		},
+		{
+			"name": "Collaborative Learning Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Midterm",
+			"weight": 20
+		},
+		{
+			"name": "Practices",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

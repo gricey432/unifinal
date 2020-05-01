@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation based on ZIMS case study",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Online Report - Hidden Vale UQ Wildlife Centre",
+			"weight": 10
+		},
+		{
+			"name": "Should zoos exist?",
+			"weight": 5
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Therapeutic Electrical Stimulation",
+			"weight": 30
+		},
+		{
+			"name": "Written examination",
+			"weight": 30
+		},
+		{
+			"name": "Clinical practice viva with EPA",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "participation & peer reading",
+			"weight": 10
+		},
+		{
+			"name": "Summary 1",
+			"weight": 10
+		},
+		{
+			"name": "Research outline ",
+			"weight": 10
+		},
+		{
+			"name": "Summary 2",
+			"weight": 10
+		},
+		{
+			"name": "Essay (final) ",
+			"weight": 25
+		},
+		{
+			"name": "Individual Oral presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Final exam ",
+			"weight": 25
+		}
+	]
+}

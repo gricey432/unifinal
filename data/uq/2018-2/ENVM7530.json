@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Fire Ecology",
+			"weight": 35
+		},
+		{
+			"name": "Fire Mitigation",
+			"weight": 30
+		},
+		{
+			"name": "Fire Management Plan Review",
+			"weight": 35
+		}
+	]
+}

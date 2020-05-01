@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student slideshow",
+			"weight": 20
+		},
+		{
+			"name": "Convention on Biological Diversity targets",
+			"weight": 30
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 50
+		}
+	]
+}

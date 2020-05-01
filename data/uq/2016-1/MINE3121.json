@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Summative Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Rock Testing Practicals Lab Book",
+			"weight": 10
+		},
+		{
+			"name": "Deformable Materials Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Group Computer Exercise",
+			"weight": 15
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Rock Mechanics",
+			"weight": 40
+		}
+	]
+}

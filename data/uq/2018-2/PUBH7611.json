@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical appraisal",
+			"weight": 30
+		},
+		{
+			"name": "Study design development ",
+			"weight": 30
+		},
+		{
+			"name": "Analysis and interpretation of epidemiolgical data",
+			"weight": 40
+		}
+	]
+}

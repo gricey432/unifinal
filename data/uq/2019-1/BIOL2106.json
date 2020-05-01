@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "PRAC Weekly quizzes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "PBL Mini-exam 1",
+			"weight": 10
+		},
+		{
+			"name": "PBL Mini-exam 2",
+			"weight": 10
+		},
+		{
+			"name": "PRAC Report - applying your R knowledge",
+			"weight": 20
+		},
+		{
+			"name": "PBL Mini-exam 3",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

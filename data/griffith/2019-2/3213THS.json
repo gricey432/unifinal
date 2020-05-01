@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Test (1 hour) ",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Evaluation of Group Communication",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

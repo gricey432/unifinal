@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Poem Recitation",
+			"weight": 10
+		},
+		{
+			"name": "Poem explication",
+			"weight": 20
+		},
+		{
+			"name": "Poetry Essay",
+			"weight": 30
+		},
+		{
+			"name": "Date TBA",
+			"weight": 40
+		}
+	]
+}

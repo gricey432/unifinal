@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar discussion participation ",
+			"weight": 15
+		},
+		{
+			"name": "Exhibition Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Exhibition Catalogue Essay",
+			"weight": 45
+		}
+	]
+}

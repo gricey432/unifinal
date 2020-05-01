@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion board contribution",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online modules",
+			"weight": 20
+		},
+		{
+			"name": "Oral Pres &amp; Support Materials",
+			"weight": 50
+		},
+		{
+			"name": "Post Project Analysis",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "MATLAB modules",
+			"weight": 16
+		},
+		{
+			"name": "Quiz One",
+			"weight": 7
+		},
+		{
+			"name": "Worked solutions",
+			"weight": 10
+		},
+		{
+			"name": " Quiz Two",
+			"weight": 7
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review and group discussion",
+			"weight": 40
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Case Study",
+			"weight": 45
+		}
+	]
+}

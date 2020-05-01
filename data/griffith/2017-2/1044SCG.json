@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Units and Measurements -online quiz",
+			"weight": 6
+		},
+		{
+			"name": "Meteorology, climatology (Report No 1)",
+			"weight": 6
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Rocks and Minerals (Report No 2)",
+			"weight": 6
+		},
+		{
+			"name": "Measuring soil properties (Report No. 3)",
+			"weight": 6
+		},
+		{
+			"name": "Soil Erosion (Report No. 4)",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

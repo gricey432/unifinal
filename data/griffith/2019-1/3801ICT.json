@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-Trimester Exam",
+			"weight": 15
+		},
+		{
+			"name": "In-Trimester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

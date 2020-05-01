@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Resilience",
+			"weight": 20
+		},
+		{
+			"name": "Contribution to on-line discussions",
+			"weight": 40
+		},
+		{
+			"name": "Implications of disability for teaching",
+			"weight": 40
+		}
+	]
+}

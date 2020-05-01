@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Responses to set readings",
+			"weight": 25
+		},
+		{
+			"name": "Visual analysis",
+			"weight": 25
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

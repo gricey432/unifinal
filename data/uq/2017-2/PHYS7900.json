@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Explanation of core physics concept",
+			"weight": 5
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Peer Assessment of Project Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Explanation of core physics concept",
+			"weight": 10
+		},
+		{
+			"name": "Job/scholarship application - Draft",
+			"weight": 5
+		},
+		{
+			"name": "Project Report ",
+			"weight": 30
+		},
+		{
+			"name": "Project presentation",
+			"weight": 10
+		},
+		{
+			"name": "Peer review of research project report",
+			"weight": 10
+		},
+		{
+			"name": "Job/scholarship application - Final version",
+			"weight": 15
+		}
+	]
+}

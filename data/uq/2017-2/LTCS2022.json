@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mexico",
+			"weight": 5
+		},
+		{
+			"name": "ARGENTINA",
+			"weight": 2
+		},
+		{
+			"name": "ESSAY 1: MODULE 1",
+			"weight": 30
+		},
+		{
+			"name": "Brazil",
+			"weight": 2
+		},
+		{
+			"name": "ESSAY 2: MODULE 2 ",
+			"weight": 30
+		},
+		{
+			"name": "ESSAY 3: MODULE 3",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Interpreting Landscape Change",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2: Landscape Metrics",
+			"weight": 10
+		},
+		{
+			"name": "Practical 3: Ecological Impacts of Habitat Loss",
+			"weight": 10
+		},
+		{
+			"name": "Practical 4: Redland Case Study Report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of a Social Movement",
+			"weight": 10
+		},
+		{
+			"name": "The Power of Identity",
+			"weight": 40
+		},
+		{
+			"name": "Media Reform = Social Change. Discuss",
+			"weight": 50
+		}
+	]
+}

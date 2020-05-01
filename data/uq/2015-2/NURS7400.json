@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Frameworks for illness and disability",
+			"weight": 20
+		},
+		{
+			"name": "The principles and core values of CDM / PC",
+			"weight": 30
+		},
+		{
+			"name": "Models of Care in CDM/PC",
+			"weight": 50
+		}
+	]
+}

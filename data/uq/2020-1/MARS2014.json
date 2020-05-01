@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific writing",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam via Blackboard",
+			"weight": 55
+		}
+	]
+}

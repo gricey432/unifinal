@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hotel Online Reviews and Operations Management",
+			"weight": 30
+		},
+		{
+			"name": "Hotel Sustainability Campaign for Guests",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

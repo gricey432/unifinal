@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "(2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Policy brief (1000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Reflective essay (2000 words)",
+			"weight": 40
+		}
+	]
+}

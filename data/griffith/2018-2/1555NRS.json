@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Experience Reflection: Part One",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Experience Reflection: Part Two",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Portfolio of Evidence ",
+			"weight": 0
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

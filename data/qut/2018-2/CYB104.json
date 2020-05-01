@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Social Media Strategy",
+			"weight": 40
+		},
+		{
+			"name": "Portfolio",
+			"weight": 60
+		}
+	]
+}

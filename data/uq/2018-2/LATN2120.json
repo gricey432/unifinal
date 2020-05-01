@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Declension, Conjugation, Principal Parts Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "1 hour ",
+			"weight": 25
+		},
+		{
+			"name": "LATN2120 Final Exam",
+			"weight": 40
+		}
+	]
+}

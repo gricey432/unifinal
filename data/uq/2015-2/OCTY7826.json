@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Infant Simulation Fieldwork Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Case Based Assignment with oral exam",
+			"weight": 40
+		},
+		{
+			"name": "Fieldwork",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 25
+		}
+	]
+}

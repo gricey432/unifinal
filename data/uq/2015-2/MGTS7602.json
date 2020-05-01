@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading tasks and Class participation",
+			"weight": 14
+		},
+		{
+			"name": "Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Group Presentation",
+			"weight": 16
+		}
+	]
+}

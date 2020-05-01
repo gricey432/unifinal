@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics application",
+			"weight": 20
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Annotated bibliography",
+			"weight": 40
+		}
+	]
+}

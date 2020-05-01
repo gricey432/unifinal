@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Workshop Activities",
+			"weight": 10
+		},
+		{
+			"name": "Chemistry of Everything Vlog",
+			"weight": 15
+		},
+		{
+			"name": "Practical Experience",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of literature review",
+			"weight": 5
+		},
+		{
+			"name": "Literature review",
+			"weight": 95
+		}
+	]
+}

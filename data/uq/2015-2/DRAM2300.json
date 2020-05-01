@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & Punctuality",
+			"weight": 15
+		},
+		{
+			"name": "Performance Rehearsals",
+			"weight": 25
+		},
+		{
+			"name": "Production Work",
+			"weight": 25
+		},
+		{
+			"name": "Performance of 'Julius Ceasar'",
+			"weight": 25
+		},
+		{
+			"name": "Dramaturgical Research Presentation",
+			"weight": 10
+		}
+	]
+}

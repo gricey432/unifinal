@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Coaching Development Assignment",
+			"weight": 25
+		},
+		{
+			"name": "2 online quizzes available from weeks 5 + 9",
+			"weight": 40
+		},
+		{
+			"name": "Elective Essay",
+			"weight": 25
+		},
+		{
+			"name": "Online tutorial participation",
+			"weight": 10
+		}
+	]
+}

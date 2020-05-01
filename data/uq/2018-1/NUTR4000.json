@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Article Review",
+			"weight": 20
+		},
+		{
+			"name": "In class quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Sports Nutrition Website",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

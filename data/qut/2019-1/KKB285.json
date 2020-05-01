@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concepts Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Prototype Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Report",
+			"weight": 40
+		}
+	]
+}

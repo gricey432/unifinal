@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1. M-estimation",
+			"weight": 10
+		},
+		{
+			"name": "2. MLE, structural models, linear panel data",
+			"weight": 10
+		},
+		{
+			"name": "3. Simulation based methods, quantile regression",
+			"weight": 15
+		},
+		{
+			"name": "4. Bayesian methods",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

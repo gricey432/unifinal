@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials and Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Sessions",
+			"weight": 15
+		},
+		{
+			"name": "Theory Exams",
+			"weight": 60
+		}
+	]
+}

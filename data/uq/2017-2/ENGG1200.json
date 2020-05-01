@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops, Project Sessions, and MOOCchat",
+			"weight": 13
+		},
+		{
+			"name": "Reflections (Individual)",
+			"weight": 6
+		},
+		{
+			"name": "Materials Modules (Individual)",
+			"weight": 6
+		},
+		{
+			"name": "Preliminary Memo (Team-based)",
+			"weight": 15
+		},
+		{
+			"name": "Peer Assessment (Individual)",
+			"weight": "P/F (affects team marks)"
+		},
+		{
+			"name": "Problem Solving (Online)",
+			"weight": 10
+		},
+		{
+			"name": "Materials Quiz (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Model Test and Demonstration (Team-based)",
+			"weight": 25
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 15
+		}
+	]
+}

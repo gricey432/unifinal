@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3D Virtual World",
+			"weight": 20
+		},
+		{
+			"name": "Video Examination ",
+			"weight": 40
+		},
+		{
+			"name": "3D Immersive & Interactive World/Game",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mobile Robot Systems Project",
+			"weight": 60
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 40
+		}
+	]
+}

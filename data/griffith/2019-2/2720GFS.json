@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Reflections",
+			"weight": 15
+		},
+		{
+			"name": "Emotion Design Analysis of Interactive Experience",
+			"weight": 25
+		},
+		{
+			"name": "Work-in-Progress",
+			"weight": 25
+		},
+		{
+			"name": "Proof of Concept/Prototype",
+			"weight": 35
+		}
+	]
+}

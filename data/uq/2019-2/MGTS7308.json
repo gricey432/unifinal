@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical discussion of social enterprises",
+			"weight": 40
+		},
+		{
+			"name": "Reflection on mindfulness",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of case studies",
+			"weight": 20
+		},
+		{
+			"name": "Comparative analysis of social impact solutions",
+			"weight": 30
+		}
+	]
+}

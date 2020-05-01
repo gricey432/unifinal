@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participate on Blackboard (BLOG) Group Discussion",
+			"weight": 25
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": "Formative assessment - must be completed and must get 8/10 or more each week"
+		},
+		{
+			"name": "Mid Semester Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Summative Examination",
+			"weight": 50
+		}
+	]
+}

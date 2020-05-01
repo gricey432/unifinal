@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": 50
+		},
+		{
+			"name": "MasteringPhysics Online Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Active Learning",
+			"weight": 10
+		},
+		{
+			"name": "Problem Solving Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Assignment",
+			"weight": 15
+		}
+	]
+}

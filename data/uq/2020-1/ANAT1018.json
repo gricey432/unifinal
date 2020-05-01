@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Terminology, Tissues & Integument",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2: Skeletal System",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 3: Muscular System",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 4: Nervous & Endocrine Systems",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 5: Cardiovascular, Respiratory & Digestive",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 6:Urinary & Reproductive",
+			"weight": 2
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 1
+		},
+		{
+			"name": "Meta-Learning II",
+			"weight": 1
+		},
+		{
+			"name": "Mid-semester Online Theory Exam",
+			"weight": 10
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Practical Online Exam 1 - Skeletal System",
+			"weight": 10
+		},
+		{
+			"name": "Practical Online Exam 2 - Muscular System",
+			"weight": 10
+		},
+		{
+			"name": "Practical Online Exam 3 - Nervous System",
+			"weight": 10
+		},
+		{
+			"name": "Practical Online Exam 4 - Visceral System",
+			"weight": 10
+		}
+	]
+}

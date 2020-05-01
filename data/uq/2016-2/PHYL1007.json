@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Online group quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Online group quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Online group quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 2",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 3",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 4",
+			"weight": 3
+		},
+		{
+			"name": "Mid-semester theory exam",
+			"weight": 13
+		},
+		{
+			"name": "End of Semester theory exam",
+			"weight": 60
+		}
+	]
+}

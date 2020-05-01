@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Startups-in-Practice",
+			"weight": 40
+		},
+		{
+			"name": "Active Class Participation",
+			"weight": 20
+		},
+		{
+			"name": "The Theranos Case",
+			"weight": 40
+		}
+	]
+}

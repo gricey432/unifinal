@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in lecture discussions",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Deliverables",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical worksheet 1",
+			"weight": 5
+		},
+		{
+			"name": "Practical worksheet 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical worksheet 4",
+			"weight": 5
+		},
+		{
+			"name": "Practical worksheet 3",
+			"weight": 5
+		},
+		{
+			"name": "Practical assessment 2",
+			"weight": 10
+		},
+		{
+			"name": "Team project",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

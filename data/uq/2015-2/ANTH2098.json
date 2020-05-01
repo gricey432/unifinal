@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 STAGE ONE - Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 STAGE TWO - Bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: Straddie CH Report",
+			"weight": 35
+		},
+		{
+			"name": "Mapping Heritage Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4: FORUM participation and reflection",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 STAGE THREE - Final report",
+			"weight": 25
+		}
+	]
+}

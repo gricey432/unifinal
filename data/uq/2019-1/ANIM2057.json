@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory Practical Class",
+			"weight": 10
+		},
+		{
+			"name": "Group Workshop task",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

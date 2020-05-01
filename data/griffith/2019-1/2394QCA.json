@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Works in Progress",
+			"weight": 20
+		},
+		{
+			"name": "Project Resolution",
+			"weight": 60
+		},
+		{
+			"name": "artists statement & research journal",
+			"weight": 20
+		}
+	]
+}

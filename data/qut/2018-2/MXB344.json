@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Model (Theoretical)",
+			"weight": 20
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 60
+		},
+		{
+			"name": "Presentation (Oral)",
+			"weight": 20
+		}
+	]
+}

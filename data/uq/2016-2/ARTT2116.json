@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Field Notebook",
+			"weight": 50
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 40
+		}
+	]
+}

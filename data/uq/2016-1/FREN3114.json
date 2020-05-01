@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 5
+		},
+		{
+			"name": "Podcast and script",
+			"weight": 30
+		},
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 5
+		},
+		{
+			"name": "Paragraph based on tutorial discussion",
+			"weight": 5
+		},
+		{
+			"name": "Discussion du roman policier",
+			"weight": 15
+		},
+		{
+			"name": "Transformation de texte",
+			"weight": 20
+		},
+		{
+			"name": "Policier",
+			"weight": 20
+		}
+	]
+}

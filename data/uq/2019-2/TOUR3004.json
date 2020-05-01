@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Threshold concepts questionnaire",
+			"weight": 30
+		},
+		{
+			"name": "Group report based on in-country field visits",
+			"weight": 30
+		},
+		{
+			"name": "Visual diary and reflection on Malaysia",
+			"weight": 40
+		}
+	]
+}

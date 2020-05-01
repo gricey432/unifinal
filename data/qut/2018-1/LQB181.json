@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory/Practical",
+			"weight": 50
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Portfolio",
+			"weight": 15
+		}
+	]
+}

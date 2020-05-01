@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Modules, Workshops & Symposium",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Conceptualising Problems Discussion Paper",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography for Global Consumption ",
+			"weight": 15
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Researcher Profile",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		}
+	]
+}

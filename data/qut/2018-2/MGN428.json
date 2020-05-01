@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation to Peers",
+			"weight": 20
+		},
+		{
+			"name": "New Venture Research Project",
+			"weight": 30
+		},
+		{
+			"name": "Personal Learning Statements",
+			"weight": 50
+		}
+	]
+}

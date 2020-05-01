@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

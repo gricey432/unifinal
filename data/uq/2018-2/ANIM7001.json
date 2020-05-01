@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Production Science 1",
+			"weight": 30
+		},
+		{
+			"name": " Animal Production Science 2",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 40
+		}
+	]
+}

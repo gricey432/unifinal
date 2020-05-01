@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 6
+		},
+		{
+			"name": "Review and Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Module 1 Pre-Conquest Civilizations",
+			"weight": 28
+		},
+		{
+			"name": "Module 2 Spain and Spanish America",
+			"weight": 28
+		},
+		{
+			"name": "Module 3 Latin America 20th Century",
+			"weight": 28
+		},
+		{
+			"name": "Module 4 Brazil past and present",
+			"weight": 28
+		}
+	]
+}

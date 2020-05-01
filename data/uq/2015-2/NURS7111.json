@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Learning commitment plan",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative assessment 1",
+			"weight": "Formative"
+		},
+		{
+			"name": "First2ActWeb",
+			"weight": "Formative"
+		},
+		{
+			"name": "Formative Assessment",
+			"weight": "Formative"
+		},
+		{
+			"name": "Formative Assessment 2",
+			"weight": "Formative"
+		},
+		{
+			"name": "Deteriorating Patient Simulation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Peer Education - Teaching a clinical skill",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Clinical Assessment",
+			"weight": "NGP"
+		}
+	]
+}

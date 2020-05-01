@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Group Assessment - Brief 2",
+			"weight": 0
+		},
+		{
+			"name": "Group Assessment - Brief 1",
+			"weight": 0
+		},
+		{
+			"name": "Design report - Brief 1",
+			"weight": 25
+		},
+		{
+			"name": "Logbook",
+			"weight": 10
+		},
+		{
+			"name": "Design report - Brief 2",
+			"weight": 35
+		},
+		{
+			"name": "Mentor Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Tender - Design Brief 2",
+			"weight": 15
+		}
+	]
+}

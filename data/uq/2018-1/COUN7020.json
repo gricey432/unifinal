@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Counselling Competency Interview",
+			"weight": "Hurdle Requirement"
+		},
+		{
+			"name": "Supervision Contract",
+			"weight": "Formative"
+		},
+		{
+			"name": "Core Skills Competency",
+			"weight": "Formative"
+		},
+		{
+			"name": "Learning Journal",
+			"weight": "Personal Development"
+		},
+		{
+			"name": "Formative Supervisor Evaluation of Practice",
+			"weight": "Formative"
+		},
+		{
+			"name": "Practicum Report Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1 : Project Description",
+			"weight": 30
+		},
+		{
+			"name": "Three Minute Thesis Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: Research Report",
+			"weight": 60
+		}
+	]
+}

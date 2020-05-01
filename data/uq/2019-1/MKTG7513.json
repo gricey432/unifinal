@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Social marketing concept test",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Social change project",
+			"weight": 45
+		},
+		{
+			"name": "Project INDIVIDUAL presentation",
+			"weight": 10
+		}
+	]
+}

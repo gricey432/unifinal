@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video concept Plan",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio  Digital Media Practice",
+			"weight": 60
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		}
+	]
+}

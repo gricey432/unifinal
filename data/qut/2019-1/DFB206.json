@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Fashion Res Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Global Fashion Project",
+			"weight": 60
+		}
+	]
+}

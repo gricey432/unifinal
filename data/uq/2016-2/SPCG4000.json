@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review presentation",
+			"weight": 10
+		},
+		{
+			"name": "Sport event log and reflective journal",
+			"weight": 30
+		},
+		{
+			"name": "Reflective submission",
+			"weight": 60
+		}
+	]
+}

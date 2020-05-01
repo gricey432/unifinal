@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Assignment/Quiz",
+			"weight": 9
+		},
+		{
+			"name": "Midsemester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Group composition for \"Economics in the News\"",
+			"weight": 1
+		},
+		{
+			"name": "Microeconomics in the news - group project",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

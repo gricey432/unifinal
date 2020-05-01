@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly feedback quizzes (outside class time)",
+			"weight": 12
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Completion required"
+		},
+		{
+			"name": "Health Sciences Language Screening Test",
+			"weight": "Completion required"
+		},
+		{
+			"name": "Peer Teaching Videos (group assignment)",
+			"weight": 8
+		},
+		{
+			"name": "Written Exam",
+			"weight": 60
+		},
+		{
+			"name": "Oral Exam (OTC product request)",
+			"weight": 20
+		}
+	]
+}

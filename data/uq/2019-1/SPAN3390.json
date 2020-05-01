@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "FOUR (4) READING COMPREHENSION QUIZZES ",
+			"weight": 20
+		},
+		{
+			"name": "MODULO 1: Ensayo 1/Essay 1",
+			"weight": 20
+		},
+		{
+			"name": "MODULO 2: Ensayo 2/Essay 2",
+			"weight": 20
+		},
+		{
+			"name": "MODULO 3: Ensayo 3/Essay 3",
+			"weight": 20
+		},
+		{
+			"name": "MODULO 4: Ensayo 4/Essay 4",
+			"weight": 20
+		}
+	]
+}

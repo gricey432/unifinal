@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Frame Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Case study of an environmental controversy",
+			"weight": 15
+		},
+		{
+			"name": "Environmental Communication Report",
+			"weight": 55
+		}
+	]
+}

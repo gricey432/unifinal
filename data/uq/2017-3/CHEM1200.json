@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Sapling Learning Computer Quizzes",
+			"weight": 7
+		},
+		{
+			"name": "MOOCchat",
+			"weight": 10
+		},
+		{
+			"name": "Five Practicals",
+			"weight": 25
+		},
+		{
+			"name": "In class Quizzes - Revision Workshop",
+			"weight": 2
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

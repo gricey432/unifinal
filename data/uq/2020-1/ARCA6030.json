@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critique of Working Paper",
+			"weight": 25
+		},
+		{
+			"name": "Use EndNote to make annotated bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Thesis Plan Workshop",
+			"weight": 10
+		},
+		{
+			"name": "Grant Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Pecha Kucha 7 slides in 7 minutes",
+			"weight": 25
+		}
+	]
+}

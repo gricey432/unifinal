@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation and Role Play Simulations",
+			"weight": 10
+		},
+		{
+			"name": "Learning Journal",
+			"weight": 20
+		},
+		{
+			"name": "Research Paper",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, Participation and Workbook",
+			"weight": 11
+		},
+		{
+			"name": "Regular online quizzes for script and vocabulary",
+			"weight": 9
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 20
+		},
+		{
+			"name": "Dialogue and Q&A ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

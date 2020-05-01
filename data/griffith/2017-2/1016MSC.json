@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 3
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Exam 1 G40",
+			"weight": 10
+		},
+		{
+			"name": "Mid Term Exam",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Exam 2 G40",
+			"weight": 12
+		},
+		{
+			"name": "End of Term Exam",
+			"weight": 40
+		}
+	]
+}

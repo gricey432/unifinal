@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in  web site class activities",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Case Study, Video Recording & Self-Critique",
+			"weight": 50
+		}
+	]
+}

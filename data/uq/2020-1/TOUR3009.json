@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Goal setting & Job application package",
+			"weight": 40
+		},
+		{
+			"name": "Professional branding & development",
+			"weight": 20
+		},
+		{
+			"name": "Industry Placement Portfolio",
+			"weight": 40
+		}
+	]
+}

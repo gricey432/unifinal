@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online reading quizzes",
+			"weight": 10
+		},
+		{
+			"name": "School Based Mid-Trimester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Digital Poster",
+			"weight": 40
+		},
+		{
+			"name": "Personal Reflection",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE) ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Summative Portfolio of Clinical Experiences",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Professional Behaviour Assessment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Practice Masterclasses",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "Pass / Fail"
+		}
+	]
+}

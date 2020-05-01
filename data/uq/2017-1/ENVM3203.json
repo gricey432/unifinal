@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of the key case study site",
+			"weight": 0
+		},
+		{
+			"name": "ASSIGNMENT: Recipe for a Monit. & Assess. Prog.",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

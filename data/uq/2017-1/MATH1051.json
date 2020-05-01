@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "4 Assignments",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Matlab online modules",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

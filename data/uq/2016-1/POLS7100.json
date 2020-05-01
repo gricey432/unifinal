@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement in weekly discussions",
+			"weight": 20
+		},
+		{
+			"name": "1500 words",
+			"weight": 25
+		},
+		{
+			"name": "4000 words",
+			"weight": 55
+		}
+	]
+}

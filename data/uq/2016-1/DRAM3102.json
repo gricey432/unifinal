@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Script Dramaturgy Feedback/Report",
+			"weight": 40
+		},
+		{
+			"name": "Short Play Script",
+			"weight": 40
+		}
+	]
+}

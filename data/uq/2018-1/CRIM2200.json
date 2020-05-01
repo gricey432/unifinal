@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class workbook",
+			"weight": 30
+		},
+		{
+			"name": "In class Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Sustainable Management Plan Presentation Component",
+			"weight": 15
+		},
+		{
+			"name": "Sustainable Management Plan Report Component",
+			"weight": 35
+		},
+		{
+			"name": "Case studies in sustainable business practice",
+			"weight": 50
+		}
+	]
+}

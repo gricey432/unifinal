@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Metropolitan Plan Evaluation",
+			"weight": 35
+		},
+		{
+			"name": "Semester examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Negotiation Planning",
+			"weight": 40
+		},
+		{
+			"name": "Negotiation Reflective Essay",
+			"weight": 60
+		}
+	]
+}

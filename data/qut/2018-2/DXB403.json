@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Conceptual Design Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 60
+		}
+	]
+}

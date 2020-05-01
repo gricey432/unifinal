@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Team case study analysis",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

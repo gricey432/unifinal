@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facility & Venue Trouble Shooting E-Manual",
+			"weight": 40
+		},
+		{
+			"name": "Event Blueprint for a Facility/Venue",
+			"weight": 35
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 25
+		}
+	]
+}

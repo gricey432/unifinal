@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Original Business Model Canvas ",
+			"weight": 30
+		},
+		{
+			"name": "Team Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Business Model Canvas Revision",
+			"weight": 30
+		},
+		{
+			"name": "My Entrepreneurial Journey",
+			"weight": 20
+		}
+	]
+}

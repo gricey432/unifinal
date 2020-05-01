@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Critique",
+			"weight": 40
+		},
+		{
+			"name": "Sustained Creative Work",
+			"weight": 60
+		}
+	]
+}

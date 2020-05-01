@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Mini-Scientific Essay ",
+			"weight": 10
+		},
+		{
+			"name": "Statistics homework",
+			"weight": 2
+		},
+		{
+			"name": "Cadaveric Neuroanatomy Lab Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Lamb Brain Dissection",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

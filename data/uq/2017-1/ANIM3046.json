@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal breeding & Genetics Exercises",
+			"weight": 25
+		},
+		{
+			"name": " Genetics of Adaptation (Animals)",
+			"weight": 25
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

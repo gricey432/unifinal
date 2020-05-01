@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Remote Sensing Project Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Remote Sensing Project Report",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

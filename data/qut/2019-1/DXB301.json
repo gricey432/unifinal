@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Interface Design",
+			"weight": 50
+		},
+		{
+			"name": "Design",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Interaction of law and policy",
+			"weight": 15
+		},
+		{
+			"name": "Developing and testing a hypothesis ",
+			"weight": 15
+		},
+		{
+			"name": "The role of social science in env management",
+			"weight": 15
+		},
+		{
+			"name": "The role of economics in env. management",
+			"weight": 15
+		},
+		{
+			"name": "ENVM7001 Examination ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A Water Sensitive City in your local context",
+			"weight": 20
+		},
+		{
+			"name": "Debating Water Sensitive Cities",
+			"weight": 10
+		},
+		{
+			"name": "Socio-technical pathways for delivering a Water Se",
+			"weight": 20
+		},
+		{
+			"name": "Individual PBL - Gladstone",
+			"weight": 50
+		}
+	]
+}

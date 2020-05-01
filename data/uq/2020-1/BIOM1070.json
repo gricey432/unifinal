@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 4
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 4
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 1 - Module 1",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 2 - Modules 2 & 3",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 3 - Module 4",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 4 - Module 5",
+			"weight": 4
+		},
+		{
+			"name": "Mid-Semester Theory Exam (On-Line)",
+			"weight": 25
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 45
+		}
+	]
+}

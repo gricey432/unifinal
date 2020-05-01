@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Study (3000 words)",
+			"weight": 50
+		},
+		{
+			"name": "Exam No 1 (1400 words)",
+			"weight": 25
+		},
+		{
+			"name": "Exam No 2 (1400 words)",
+			"weight": 25
+		}
+	]
+}

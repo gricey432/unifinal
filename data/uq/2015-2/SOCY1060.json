@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial group participation",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation of analysis of advertisements",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 25
+		},
+		{
+			"name": "Multiple Choice Exam",
+			"weight": 40
+		}
+	]
+}

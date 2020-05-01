@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online tutorial questions",
+			"weight": 20
+		},
+		{
+			"name": "Information Memorandum",
+			"weight": 20
+		},
+		{
+			"name": "Angus Cartwright IV Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Exam ",
+			"weight": 40
+		}
+	]
+}

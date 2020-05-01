@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Special Topic Project Execution",
+			"weight": 30
+		}
+	]
+}

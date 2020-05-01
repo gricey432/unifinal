@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation (or Alternate Assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial (Pre-lab) exercises",
+			"weight": 5
+		},
+		{
+			"name": "Basic concepts test",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

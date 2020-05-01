@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Responses - Blackboard Entries",
+			"weight": 20
+		},
+		{
+			"name": "Live Performance Review",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Group Performance Script",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Group Performance Project OR Production Secondment",
+			"weight": 20
+		},
+		{
+			"name": "Performance Reflection",
+			"weight": 10
+		}
+	]
+}

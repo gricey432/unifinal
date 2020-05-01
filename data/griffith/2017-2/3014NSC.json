@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop attendance",
+			"weight": 5
+		},
+		{
+			"name": "On line quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester examination",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam, 120mins",
+			"weight": 40
+		}
+	]
+}

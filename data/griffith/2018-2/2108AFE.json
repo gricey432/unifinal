@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly practical work and reflection",
+			"weight": 20
+		},
+		{
+			"name": "Practice set assignment and online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

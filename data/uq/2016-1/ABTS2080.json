@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Student-negotiated Assessment",
+			"weight": 60
+		},
+		{
+			"name": "systematic literature review",
+			"weight": 40
+		}
+	]
+}

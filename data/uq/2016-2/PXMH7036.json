@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral co-presentation of a clinical population",
+			"weight": 25
+		},
+		{
+			"name": "Co-facilitation of an art therapy group.",
+			"weight": 45
+		},
+		{
+			"name": "Art Therapy Group Co-facilitation Experience",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Child Portfolio of Development and Learning",
+			"weight": 55
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Field Placement Report",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini-literature review on a set topic",
+			"weight": 40
+		},
+		{
+			"name": "Student 'Three-Minute Thesis' presentation",
+			"weight": 20
+		},
+		{
+			"name": "Critical response",
+			"weight": 40
+		}
+	]
+}

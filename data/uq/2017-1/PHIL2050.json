@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Argument Map",
+			"weight": 10
+		},
+		{
+			"name": "Science Fiction Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Examination",
+			"weight": 40
+		}
+	]
+}

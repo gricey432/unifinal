@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summary of Reading(s) from the Bible",
+			"weight": 10
+		},
+		{
+			"name": "Essay One",
+			"weight": 40
+		},
+		{
+			"name": "Essay Two",
+			"weight": 40
+		},
+		{
+			"name": "Engagement ",
+			"weight": 10
+		}
+	]
+}

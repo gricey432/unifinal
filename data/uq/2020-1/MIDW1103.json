@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA",
+			"weight": "NGP"
+		}
+	]
+}

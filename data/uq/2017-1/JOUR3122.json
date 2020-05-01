@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": 20
+		},
+		{
+			"name": "Personalised Learning Portfolio",
+			"weight": 70
+		},
+		{
+			"name": "Reflective essay on your experience in Indonesia",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "One",
+			"weight": 4
+		},
+		{
+			"name": "Two",
+			"weight": 4
+		},
+		{
+			"name": "Three",
+			"weight": 4
+		},
+		{
+			"name": "Four",
+			"weight": 4
+		},
+		{
+			"name": "Five",
+			"weight": 4
+		},
+		{
+			"name": "Six",
+			"weight": 4
+		},
+		{
+			"name": "Seven",
+			"weight": 4
+		},
+		{
+			"name": "Eight",
+			"weight": 4
+		},
+		{
+			"name": "Nine",
+			"weight": 4
+		},
+		{
+			"name": "Ten",
+			"weight": 4
+		},
+		{
+			"name": "Final",
+			"weight": 60
+		}
+	]
+}

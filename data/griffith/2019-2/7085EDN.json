@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis and Evaluation",
+			"weight": 50
+		},
+		{
+			"name": "Annotated Panning and Assessment Task",
+			"weight": 50
+		}
+	]
+}

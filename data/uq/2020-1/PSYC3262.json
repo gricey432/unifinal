@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Human Cognitive Autapomorphy",
+			"weight": 10
+		},
+		{
+			"name": "Guided essay on presentation topic",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

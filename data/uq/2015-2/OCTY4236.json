@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Client assessment report",
+			"weight": 20
+		},
+		{
+			"name": "Job Application Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Clinical performance",
+			"weight": 50
+		}
+	]
+}

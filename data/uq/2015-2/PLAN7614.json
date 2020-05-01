@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "What is Good Urban Governance? A visual essay",
+			"weight": 30
+		},
+		{
+			"name": "Urban NGO",
+			"weight": 30
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Practical Exam ",
+			"weight": 10
+		},
+		{
+			"name": "Problem Journal-Section I",
+			"weight": 5
+		},
+		{
+			"name": "Problem Journal-Section II",
+			"weight": 5
+		},
+		{
+			"name": "Design Challenge Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

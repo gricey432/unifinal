@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Moot",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Closed Book Exam",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reading and discussion",
+			"weight": 35
+		},
+		{
+			"name": "논문 요약",
+			"weight": 65
+		}
+	]
+}

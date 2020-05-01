@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Learning Action Plan",
+			"weight": 15
+		},
+		{
+			"name": "School Study",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio - Reflective Essay and Final Report",
+			"weight": 55
+		}
+	]
+}

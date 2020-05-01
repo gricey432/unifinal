@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Internal Medicine SAH",
+			"weight": 18
+		},
+		{
+			"name": "Referral Surgery SAH",
+			"weight": 18
+		},
+		{
+			"name": "Primary Accession (GP) SAH",
+			"weight": 9
+		},
+		{
+			"name": "Community Practice Surgery week SAH/CSC",
+			"weight": 9
+		},
+		{
+			"name": "Community Practice RSPCA",
+			"weight": 18
+		},
+		{
+			"name": "Avian and Exotic Pet rotation SAH OR",
+			"weight": 8
+		},
+		{
+			"name": "Specialty Surgery VSS OR",
+			"weight": 8
+		},
+		{
+			"name": "Internal Medicine VSS",
+			"weight": 8
+		},
+		{
+			"name": "Small Animal Medicine & Surgery Oral Examination",
+			"weight": 20
+		},
+		{
+			"name": "Small Animal Clinical Skills list",
+			"weight": "Pass/fail"
+		}
+	]
+}

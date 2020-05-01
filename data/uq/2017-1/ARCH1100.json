@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Room ",
+			"weight": 40
+		},
+		{
+			"name": "Project 2 - Bird Hide",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal",
+			"weight": 5
+		},
+		{
+			"name": "Report plan",
+			"weight": 10
+		},
+		{
+			"name": "Presentation plan",
+			"weight": 10
+		},
+		{
+			"name": "Project presentation",
+			"weight": 15
+		},
+		{
+			"name": "Mathematical derivation",
+			"weight": 10
+		},
+		{
+			"name": "Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Peer review of Project Report",
+			"weight": 10
+		}
+	]
+}

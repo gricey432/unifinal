@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Video presentation",
+			"weight": 20
+		},
+		{
+			"name": "Executive-style brief report",
+			"weight": 20
+		},
+		{
+			"name": "Reflection and adopting Dweck's 'growth mindset'",
+			"weight": 10
+		},
+		{
+			"name": "Final online exam",
+			"weight": 50
+		}
+	]
+}

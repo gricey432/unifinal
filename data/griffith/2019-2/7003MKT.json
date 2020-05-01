@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Opportunity Analysis (Week 6)",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Mix Plan (Week 12)",
+			"weight": 50
+		},
+		{
+			"name": "Professional Identity Reflection",
+			"weight": 20
+		}
+	]
+}

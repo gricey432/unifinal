@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Uganda Consultancy Project - Part 1",
+			"weight": 35
+		},
+		{
+			"name": "Tourism development blog",
+			"weight": 25
+		},
+		{
+			"name": "Uganda Consultancy Project - Part II",
+			"weight": 40
+		}
+	]
+}

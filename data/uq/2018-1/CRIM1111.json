@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Practice Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Profession Case Study (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Professional Practice Framework (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Group Planning Project (2000 words)",
+			"weight": 35
+		}
+	]
+}

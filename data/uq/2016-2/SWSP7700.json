@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Student-led workshops",
+			"weight": 40
+		},
+		{
+			"name": "Professional Practice Portfolio",
+			"weight": 50
+		}
+	]
+}

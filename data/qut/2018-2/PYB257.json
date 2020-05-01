@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 0
+		},
+		{
+			"name": "Demonstration and Critique",
+			"weight": 0
+		},
+		{
+			"name": "Essay",
+			"weight": 0
+		}
+	]
+}

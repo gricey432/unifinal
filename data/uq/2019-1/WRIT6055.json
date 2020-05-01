@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Response to readings, discussion and workshopping",
+			"weight": 10
+		},
+		{
+			"name": "Writing Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Short memoir",
+			"weight": 25
+		},
+		{
+			"name": "Draft of Major CNF Piece",
+			"weight": 15
+		},
+		{
+			"name": "Major CNF Piece (FINAL)",
+			"weight": 40
+		}
+	]
+}

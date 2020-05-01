@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review and feedback",
+			"weight": 25
+		},
+		{
+			"name": "Review and feedback",
+			"weight": 50
+		},
+		{
+			"name": "Final Review",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Reflective journal",
+			"weight": 40
+		},
+		{
+			"name": " Social analysis of a public health issue         ",
+			"weight": 50
+		}
+	]
+}

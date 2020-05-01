@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Article Review 1",
+			"weight": 25
+		},
+		{
+			"name": "Approval Sheet",
+			"weight": 5
+		},
+		{
+			"name": "Article Review 2",
+			"weight": 25
+		},
+		{
+			"name": "Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz - online",
+			"weight": 20
+		},
+		{
+			"name": "Designing a practical activity",
+			"weight": 20
+		},
+		{
+			"name": "Teaching and engagement plan",
+			"weight": 60
+		}
+	]
+}

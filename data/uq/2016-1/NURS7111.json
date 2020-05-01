@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Learning Committment Plan",
+			"weight": "NGP"
+		},
+		{
+			"name": "eCPPP Formative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Formative Assessment Clinical Placement Evaluation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Peer education - teaching a clinical skill",
+			"weight": "NGP"
+		},
+		{
+			"name": "eCPPP Summative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Final Wrap-up",
+			"weight": "NGP"
+		}
+	]
+}

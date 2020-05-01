@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial components",
+			"weight": 40
+		},
+		{
+			"name": "Short answer exam - East Asia inc Korea & Vietnam",
+			"weight": 30
+		},
+		{
+			"name": "Briefing Note",
+			"weight": 30
+		}
+	]
+}

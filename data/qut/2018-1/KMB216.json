@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Audio/Video Sampler",
+			"weight": 50
+		},
+		{
+			"name": "Creative Work",
+			"weight": 50
+		}
+	]
+}

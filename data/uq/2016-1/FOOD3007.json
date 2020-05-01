@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exercise for Food Sensory & Structures ",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

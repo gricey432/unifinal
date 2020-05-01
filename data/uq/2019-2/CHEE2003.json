@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Group Submissions",
+			"weight": 3
+		},
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Field trip",
+			"weight": 1
+		},
+		{
+			"name": "Portfolio 1 (Module 1A-C)",
+			"weight": 5
+		},
+		{
+			"name": "Portfolio 2 (Module 1D, 2A)",
+			"weight": 5
+		},
+		{
+			"name": "Lab 1 - Fluid Mechanics",
+			"weight": 3
+		},
+		{
+			"name": "Portfolio 3 (Module 2)",
+			"weight": 5
+		},
+		{
+			"name": "Lab 2 - Pumping and Pipe Flow",
+			"weight": 3
+		},
+		{
+			"name": "Portfolio 4 (Module 3, 4A)",
+			"weight": 8
+		},
+		{
+			"name": "Lab 3 - Particles",
+			"weight": 4
+		},
+		{
+			"name": "Portfolio 5 (Module 4, 5 & ALL)",
+			"weight": 8
+		},
+		{
+			"name": "Final exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Analysis of a major food poisoning outbreak",
+			"weight": 20
+		},
+		{
+			"name": "Skills in the food microbiology laboratory",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

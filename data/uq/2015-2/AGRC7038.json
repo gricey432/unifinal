@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Investigation of topical rural policy issue",
+			"weight": 40
+		},
+		{
+			"name": "First exam",
+			"weight": 25
+		},
+		{
+			"name": "Second exam",
+			"weight": 35
+		}
+	]
+}

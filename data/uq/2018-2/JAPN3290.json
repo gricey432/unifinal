@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Consecutive Interpreting for Guest Speaker",
+			"weight": 5
+		},
+		{
+			"name": "Face-to-face interpreting dialogue x 3",
+			"weight": 30
+		},
+		{
+			"name": "Speech & Consecutive interpreting",
+			"weight": 40
+		},
+		{
+			"name": "Radio Program transcription x 2",
+			"weight": 20
+		},
+		{
+			"name": "Attendance and participation ",
+			"weight": 5
+		}
+	]
+}

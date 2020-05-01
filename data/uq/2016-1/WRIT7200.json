@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review writing",
+			"weight": 30
+		},
+		{
+			"name": "Science Communication Podcast",
+			"weight": 60
+		},
+		{
+			"name": "Podcast Evaluation and Feedback",
+			"weight": 10
+		}
+	]
+}

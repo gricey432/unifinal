@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly participation: One statement; one question",
+			"weight": 10
+		},
+		{
+			"name": "Conceptualising the term 'youth'",
+			"weight": 40
+		},
+		{
+			"name": "Field experience case study analysis",
+			"weight": 50
+		}
+	]
+}

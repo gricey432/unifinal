@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral research presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Project management skills mark",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 70
+		}
+	]
+}

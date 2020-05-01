@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on and analysis of tutorial reading.",
+			"weight": 30
+		},
+		{
+			"name": "Participation - Tutorial Discussion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mental Health in Australian Health Care System",
+			"weight": 30
+		},
+		{
+			"name": "Therapeutic Interventions",
+			"weight": 40
+		}
+	]
+}

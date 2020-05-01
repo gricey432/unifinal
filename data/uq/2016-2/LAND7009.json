@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Soils in the field",
+			"weight": 15
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 1",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 4",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 2",
+			"weight": 5
+		},
+		{
+			"name": "'Mastery' Quiz - Unit 3",
+			"weight": 5
+		},
+		{
+			"name": "Soil fertility & nutrition of plants",
+			"weight": 20
+		},
+		{
+			"name": "Soil description",
+			"weight": 15
+		},
+		{
+			"name": "Soil science in action",
+			"weight": 30
+		}
+	]
+}

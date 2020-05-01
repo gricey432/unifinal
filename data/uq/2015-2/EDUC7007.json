@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding psychometrics",
+			"weight": 0
+		},
+		{
+			"name": "Test review",
+			"weight": 25
+		},
+		{
+			"name": "Interview data",
+			"weight": 35
+		},
+		{
+			"name": "Assessment of behavioural difficulties",
+			"weight": 40
+		}
+	]
+}

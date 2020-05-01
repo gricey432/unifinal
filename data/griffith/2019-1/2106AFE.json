@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook submission",
+			"weight": 15
+		},
+		{
+			"name": "Exam - selected response ",
+			"weight": 35
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

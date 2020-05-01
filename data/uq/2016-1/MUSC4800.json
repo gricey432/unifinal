@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 50
+		},
+		{
+			"name": "Analysis of class recording",
+			"weight": 20
+		},
+		{
+			"name": "Final concert participation",
+			"weight": 30
+		}
+	]
+}

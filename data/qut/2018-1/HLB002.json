@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case study",
+			"weight": 60
+		},
+		{
+			"name": "Reflective summary",
+			"weight": 40
+		}
+	]
+}

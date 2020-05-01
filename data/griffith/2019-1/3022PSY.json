@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class involvement",
+			"weight": 6
+		},
+		{
+			"name": "Group Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 24
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 10
+		},
+		{
+			"name": "Group Laboratory Oral Presentation & Questions",
+			"weight": 20
+		},
+		{
+			"name": "Student Meta Learning I",
+			"weight": 2
+		},
+		{
+			"name": "Student Meta Learning II",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 45
+		}
+	]
+}

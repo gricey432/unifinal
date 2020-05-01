@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short presentation on peacebuilding",
+			"weight": 15
+		},
+		{
+			"name": "Literature review and essay plan (1500-2000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (3,500 words)",
+			"weight": 65
+		}
+	]
+}

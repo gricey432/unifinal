@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Coastal engineering applications",
+			"weight": 20
+		},
+		{
+			"name": "Wave modelling",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Report",
+			"weight": 60
+		},
+		{
+			"name": "Professional Practice Portfoli",
+			"weight": 40
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

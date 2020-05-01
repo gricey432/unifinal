@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1 (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Feasibility Study 1: Water Treatment Plant",
+			"weight": "Part of feasibility study 1 report mark"
+		},
+		{
+			"name": "Feasibility Study 1: Water Treatment Plant",
+			"weight": 30
+		},
+		{
+			"name": "Field Trip 1: Water Treatment",
+			"weight": 5
+		},
+		{
+			"name": "Team Project Peer Assessment",
+			"weight": "Affects Feasibility Study 1 report mark"
+		},
+		{
+			"name": "Feasibility Study 2: Advanced Water Treatment",
+			"weight": "Part of feasibility study 2 report mark"
+		},
+		{
+			"name": "Pre Practical 2 report(individual)",
+			"weight": "Part of the prac 2 report"
+		},
+		{
+			"name": "Practical 2 report(individual)",
+			"weight": 15
+		},
+		{
+			"name": "Team Project Peer Assessment",
+			"weight": "Affects Feasibility Study 2 report marks"
+		},
+		{
+			"name": "Feasibility Study 2: Advanced Water Treatment",
+			"weight": 35
+		},
+		{
+			"name": "Field Trip 2: Advanced Water Treatment",
+			"weight": 5
+		},
+		{
+			"name": "Water utility challenge",
+			"weight": 5
+		}
+	]
+}

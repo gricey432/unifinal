@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group workshop presentation and report ",
+			"weight": 15
+		},
+		{
+			"name": "Individual Report 4,000 words.",
+			"weight": 35
+		},
+		{
+			"name": " Case study and short answers",
+			"weight": 50
+		}
+	]
+}

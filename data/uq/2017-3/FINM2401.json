@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Team Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment for Team Project",
+			"weight": 0
+		},
+		{
+			"name": "Mid semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

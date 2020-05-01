@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading and Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "Understanding and applying neoliberalism - essay",
+			"weight": 20
+		},
+		{
+			"name": "Group Workshop ",
+			"weight": 20
+		},
+		{
+			"name": "Paired Evaluation Report ",
+			"weight": 40
+		}
+	]
+}

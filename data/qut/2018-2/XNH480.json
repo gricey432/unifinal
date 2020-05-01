@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Complex Case Mgmt Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Examination (Practical - OSCE)",
+			"weight": 50
+		},
+		{
+			"name": "Digital Presentation",
+			"weight": 20
+		}
+	]
+}

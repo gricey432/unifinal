@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Practice Portfoli",
+			"weight": 60
+		},
+		{
+			"name": "Evidence 1",
+			"weight": 40
+		},
+		{
+			"name": "OSCE",
+			"weight": 0
+		}
+	]
+}

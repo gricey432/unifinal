@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "High-level proposal and research question",
+			"weight": 40
+		},
+		{
+			"name": "Full Research Proposal",
+			"weight": 50
+		}
+	]
+}

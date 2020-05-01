@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Self-reflection 1",
+			"weight": 5
+		},
+		{
+			"name": "Facilitation session ",
+			"weight": 30
+		},
+		{
+			"name": "Self-reflection 2",
+			"weight": 5
+		},
+		{
+			"name": "Self-reflection 3",
+			"weight": 5
+		},
+		{
+			"name": "Self-reflection 4",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

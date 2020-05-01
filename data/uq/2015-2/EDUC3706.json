@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Active Participation ",
+			"weight": 30
+		},
+		{
+			"name": "Unit Plan",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Report on Inquiry Mathematics",
+			"weight": 40
+		}
+	]
+}

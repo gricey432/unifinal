@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Home A Suburban Obsession",
+			"weight": 20
+		},
+		{
+			"name": "Online Take Home Exam",
+			"weight": 40
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal and Study Plan",
+			"weight": 20
+		},
+		{
+			"name": "Research project: Written and Practical Components",
+			"weight": 70
+		}
+	]
+}

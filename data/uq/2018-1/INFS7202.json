@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal (group based)",
+			"weight": 5
+		},
+		{
+			"name": "In-class Exam",
+			"weight": 15
+		},
+		{
+			"name": "Group Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Individual Project Report",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

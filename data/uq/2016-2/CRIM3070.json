@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork project report",
+			"weight": 50
+		},
+		{
+			"name": "Collaborative group exercises ",
+			"weight": 30
+		},
+		{
+			"name": "Multi-choice test",
+			"weight": 20
+		}
+	]
+}

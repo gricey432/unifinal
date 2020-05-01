@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online eQuizzes",
+			"weight": 3
+		},
+		{
+			"name": "7 Prac Sessions; 3 Reports; Laboratory Notebook",
+			"weight": 37
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 10
+		},
+		{
+			"name": "Max 2,000 Word Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 40
+		}
+	]
+}

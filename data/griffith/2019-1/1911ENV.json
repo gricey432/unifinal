@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Eggxercise",
+			"weight": 15
+		},
+		{
+			"name": "Logbook",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2 - A Case in Point",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 - A Case in Space",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4 - A Case of Change ",
+			"weight": 25
+		}
+	]
+}

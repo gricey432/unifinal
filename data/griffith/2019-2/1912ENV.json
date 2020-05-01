@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1:  Site Analysis Charrette",
+			"weight": 15
+		},
+		{
+			"name": "Assessment  3: Log Book",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Assemblage Form Creation  ",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 4: Final Design Presentation ",
+			"weight": 40
+		}
+	]
+}

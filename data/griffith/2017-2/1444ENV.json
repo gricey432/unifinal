@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review",
+			"weight": 40
+		},
+		{
+			"name": "On-line multiple choice quiz",
+			"weight": 25
+		},
+		{
+			"name": "Individual report. DPSIR synopsis",
+			"weight": 20
+		},
+		{
+			"name": "Presentation - DPSIR synopsis",
+			"weight": 15
+		}
+	]
+}

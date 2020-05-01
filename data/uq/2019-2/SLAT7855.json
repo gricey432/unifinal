@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Procedure presentation individual writeup",
+			"weight": 15
+		},
+		{
+			"name": "Basic concept quiz (1)",
+			"weight": 25
+		},
+		{
+			"name": "Group in-class presentation",
+			"weight": 10
+		},
+		{
+			"name": "Basic concept quiz(2)",
+			"weight": 25
+		},
+		{
+			"name": "Data analysis and write up",
+			"weight": 25
+		}
+	]
+}

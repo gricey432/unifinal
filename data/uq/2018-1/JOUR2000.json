@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multimedia Package",
+			"weight": 30
+		},
+		{
+			"name": "A Radio Current Affairs Package",
+			"weight": 35
+		},
+		{
+			"name": "A Television News Report and Edited Script",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism Futures Scenario",
+			"weight": 20
+		},
+		{
+			"name": "Reflection ",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

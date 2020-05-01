@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "IPL reflective journal",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 10
+		},
+		{
+			"name": "Report on a nominated topic",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 45
+		}
+	]
+}

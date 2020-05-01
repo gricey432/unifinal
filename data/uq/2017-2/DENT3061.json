@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F "
+		},
+		{
+			"name": "In Class Quiz Endodontics",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quiz Periodontics",
+			"weight": 15
+		},
+		{
+			"name": "Written examination",
+			"weight": 40
+		},
+		{
+			"name": "Objective Structured Clinical Examination",
+			"weight": 30
+		}
+	]
+}

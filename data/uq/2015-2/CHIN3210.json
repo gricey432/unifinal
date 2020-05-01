@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheet/dictation",
+			"weight": 10
+		},
+		{
+			"name": "Writing Report 1",
+			"weight": 10
+		},
+		{
+			"name": "IN-CLASS Exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Writing Report 2",
+			"weight": 10
+		},
+		{
+			"name": "IN-CLASS Exam 2",
+			"weight": 30
+		},
+		{
+			"name": "Writing Report 3",
+			"weight": 10
+		}
+	]
+}

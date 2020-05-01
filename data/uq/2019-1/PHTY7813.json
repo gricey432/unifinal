@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1: Paediatric Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Module 2: Paediatric Management",
+			"weight": 25
+		},
+		{
+			"name": "Module 2: Paediatric Management",
+			"weight": 25
+		},
+		{
+			"name": "Module 1: Paediatric Assessment",
+			"weight": 15
+		},
+		{
+			"name": " Module 1: Paediatric Assessment",
+			"weight": 20
+		}
+	]
+}

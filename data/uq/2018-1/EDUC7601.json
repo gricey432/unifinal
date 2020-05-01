@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Nature and Role of Literacy in your Teaching Area",
+			"weight": 40
+		},
+		{
+			"name": "Personal and professional literacies and teaching",
+			"weight": 20
+		},
+		{
+			"name": "Sitting the LANTITE test.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Literacy resources:evaluation and teaching ",
+			"weight": 40
+		}
+	]
+}

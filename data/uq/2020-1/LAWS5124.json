@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation, peer discussion and skills exercises",
+			"weight": 20
+		},
+		{
+			"name": "Human rights analysis (2000 words)",
+			"weight": 35
+		},
+		{
+			"name": "Human rights in the arrest courts (1000 words)",
+			"weight": 10
+		},
+		{
+			"name": "Take home exam (2000 words)",
+			"weight": 35
+		}
+	]
+}

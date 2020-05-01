@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Analysis",
+			"weight": 10
+		},
+		{
+			"name": "First Team Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Final Team Pitch",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Application of Risk Assessment Tools",
+			"weight": 30
+		},
+		{
+			"name": "Risk Report",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZZES - PART 1 (Week 1 to 7)",
+			"weight": 30
+		},
+		{
+			"name": "Part 2 - Week 8 to 13",
+			"weight": 10
+		},
+		{
+			"name": "QUIZZES - PART 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

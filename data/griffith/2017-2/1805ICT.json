@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ePortfolio",
+			"weight": 50
+		},
+		{
+			"name": "Design Work",
+			"weight": 30
+		},
+		{
+			"name": "Design Challenge",
+			"weight": 20
+		}
+	]
+}

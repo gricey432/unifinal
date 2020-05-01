@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "CHEERS checklist",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation of the course assignment",
+			"weight": 10
+		},
+		{
+			"name": "Critique of student's poster presentation",
+			"weight": 5
+		},
+		{
+			"name": "Economic evaluation of a health care intervention ",
+			"weight": 60
+		}
+	]
+}

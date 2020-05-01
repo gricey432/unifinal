@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Draft: Surgical Audit Report",
+			"weight": 10
+		},
+		{
+			"name": "Final: Surgical Audit Report",
+			"weight": 20
+		},
+		{
+			"name": "Final:Preparing a Journal Article for 'Publishing'",
+			"weight": 20
+		},
+		{
+			"name": "Draft:Preparing a Journal Article for \"Publishing",
+			"weight": 10
+		},
+		{
+			"name": "Discussion",
+			"weight": 1
+		},
+		{
+			"name": "Final: Assessment of 3 Journal Articles",
+			"weight": 24
+		},
+		{
+			"name": "Draft: Assessment of 3 Journal Articles",
+			"weight": 15
+		}
+	]
+}

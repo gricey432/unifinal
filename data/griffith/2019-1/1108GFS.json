@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": " Formative Feedback",
+			"weight": 0
+		},
+		{
+			"name": "3 Bouncing Balls",
+			"weight": 20
+		},
+		{
+			"name": "Pendulum/Water balloon",
+			"weight": 25
+		},
+		{
+			"name": "Flour Sack Walk Cycle",
+			"weight": 20
+		},
+		{
+			"name": "Flour Sack",
+			"weight": 35
+		}
+	]
+}

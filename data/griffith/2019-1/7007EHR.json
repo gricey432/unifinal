@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Video & Written Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2:  Briefing Paper",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 3: Reflective Journal",
+			"weight": 20
+		}
+	]
+}

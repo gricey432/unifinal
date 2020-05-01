@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Test",
+			"weight": 20
+		},
+		{
+			"name": "Innovation Plan",
+			"weight": 40
+		},
+		{
+			"name": "Innovation Pitch",
+			"weight": 40
+		}
+	]
+}

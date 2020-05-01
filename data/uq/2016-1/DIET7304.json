@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "On learning goals, professional development plan",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Learning contract and professional development ",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Contribution to On-line Discussion Board",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

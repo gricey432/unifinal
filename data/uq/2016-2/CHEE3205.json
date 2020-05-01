@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Experiment Report",
+			"weight": 5
+		},
+		{
+			"name": "Paper-based exercises throughout semester",
+			"weight": 5
+		},
+		{
+			"name": "Computer-based exercises throughout semester",
+			"weight": 5
+		},
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "In Class Theory Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Part 1: Model Development and Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Part 2: Model solution, validation and application",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		},
+		{
+			"name": "Computer based practical exam",
+			"weight": 15
+		}
+	]
+}

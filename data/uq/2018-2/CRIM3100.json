@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion & problem solving activity worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Group facilitation exercise",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

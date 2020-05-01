@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essays",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Pathology 1st Semester",
+			"weight": 50
+		},
+		{
+			"name": "Oral Medicine 2nd Semester",
+			"weight": 50
+		}
+	]
+}

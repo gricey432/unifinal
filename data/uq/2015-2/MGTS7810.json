@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Case Description",
+			"weight": 15
+		},
+		{
+			"name": "Group presentation of case",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 50
+		}
+	]
+}

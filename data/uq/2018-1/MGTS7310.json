@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective summary essay",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Team presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Individual/Team Academic Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Family definition and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Child and family nursing process assignment",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

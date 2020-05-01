@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Applying critical analysis concepts",
+			"weight": 15
+		},
+		{
+			"name": "Critique key literature and review plan",
+			"weight": 25
+		},
+		{
+			"name": "Literature review",
+			"weight": 40
+		},
+		{
+			"name": "Short oral presentation",
+			"weight": 20
+		}
+	]
+}

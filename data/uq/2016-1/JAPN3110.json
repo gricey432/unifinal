@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Discussions and class activities ",
+			"weight": 10
+		},
+		{
+			"name": "Kanji Concentration Talk  ",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term Test ",
+			"weight": 25
+		},
+		{
+			"name": "Nihonjin no kuizu ",
+			"weight": 20
+		},
+		{
+			"name": "Topic summary for Final Oral topic ",
+			"weight": 10
+		},
+		{
+			"name": "Speaking Exam",
+			"weight": 25
+		}
+	]
+}

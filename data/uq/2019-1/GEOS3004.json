@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Profile Page",
+			"weight": 2
+		},
+		{
+			"name": "Course Field workbook",
+			"weight": 25
+		},
+		{
+			"name": "Consultancy Assignment",
+			"weight": 45
+		},
+		{
+			"name": "Group presentation",
+			"weight": 28
+		}
+	]
+}

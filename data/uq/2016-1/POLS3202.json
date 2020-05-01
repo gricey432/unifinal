@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and Performance",
+			"weight": 30
+		},
+		{
+			"name": "Policy Recommendation Report",
+			"weight": 50
+		},
+		{
+			"name": "Final examination on applied negotiation skills",
+			"weight": 20
+		}
+	]
+}

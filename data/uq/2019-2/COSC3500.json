@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessed lab 1",
+			"weight": "/5"
+		},
+		{
+			"name": "Major Project: Milestone 1 (Serial)",
+			"weight": 20
+		},
+		{
+			"name": "Assessed lab 2",
+			"weight": "/5"
+		},
+		{
+			"name": "Assessed lab 3",
+			"weight": "/5"
+		},
+		{
+			"name": "Assessed lab 4",
+			"weight": "/5"
+		},
+		{
+			"name": "Major Project: Milestone 2 (Parallel)",
+			"weight": 20
+		},
+		{
+			"name": "Major Project: Final Report",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Research Based Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Digital Marketing Campaign Plan",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lab practicals",
+			"weight": 10
+		},
+		{
+			"name": "Geoarchaeology",
+			"weight": 13
+		},
+		{
+			"name": "Zooarchaeology",
+			"weight": 13
+		},
+		{
+			"name": "Macro/Microflora",
+			"weight": 13
+		},
+		{
+			"name": "Isotope Lab",
+			"weight": 13
+		},
+		{
+			"name": "Research Project",
+			"weight": 13
+		},
+		{
+			"name": "Final exam",
+			"weight": 25
+		}
+	]
+}

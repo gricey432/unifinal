@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "LTA HF in Design - Introductory Report",
+			"weight": 10
+		},
+		{
+			"name": "LTA HF in Design - Examples & Recommendations",
+			"weight": 40
+		},
+		{
+			"name": "LTA HF in Design - Implementation & Final Report",
+			"weight": 50
+		}
+	]
+}

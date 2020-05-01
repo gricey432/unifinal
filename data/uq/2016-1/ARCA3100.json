@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Paper critique and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Critical essay on human evolution",
+			"weight": 40
+		},
+		{
+			"name": "Critical essay on early farming/past extinctions",
+			"weight": 40
+		}
+	]
+}

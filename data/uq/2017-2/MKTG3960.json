@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Outline",
+			"weight": 15
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - written paper",
+			"weight": 40
+		}
+	]
+}

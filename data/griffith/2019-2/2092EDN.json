@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Measurement, Geometry, Statistics and Probability",
+			"weight": 60
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

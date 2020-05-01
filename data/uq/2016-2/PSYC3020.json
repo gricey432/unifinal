@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 2: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 3: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 4: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 5: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 6: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 7: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 8: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 9: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Quiz 10: Low-stakes online quizzes",
+			"weight": "The scores from your best 7 quizzes will account for 10"
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

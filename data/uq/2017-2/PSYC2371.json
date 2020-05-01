@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reddit Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Change the World Final Video",
+			"weight": 13
+		},
+		{
+			"name": "Change the World Final Paper",
+			"weight": 25
+		}
+	]
+}

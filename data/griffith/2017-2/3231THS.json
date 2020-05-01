@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review & oral presentation",
+			"weight": 40
+		},
+		{
+			"name": "Group Communication",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

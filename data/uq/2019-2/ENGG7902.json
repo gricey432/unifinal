@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "English Assistance Classes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Corporate Charter",
+			"weight": 10
+		},
+		{
+			"name": "Idea Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Leadership Essay (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Value Proposition Canvas",
+			"weight": 10
+		},
+		{
+			"name": "Business Model Canvas",
+			"weight": 10
+		},
+		{
+			"name": "Business Plan",
+			"weight": 30
+		},
+		{
+			"name": "Final Pitch",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group poster",
+			"weight": 35
+		},
+		{
+			"name": "Negotiation exercise",
+			"weight": 15
+		},
+		{
+			"name": "Multiple-choice examination",
+			"weight": 50
+		}
+	]
+}

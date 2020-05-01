@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 8
+		},
+		{
+			"name": "Content and Scenario Based Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Commentary 1",
+			"weight": 6
+		},
+		{
+			"name": "Minor Essay (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Content and Scenario Based Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Commentary 2",
+			"weight": 6
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 40
+		}
+	]
+}

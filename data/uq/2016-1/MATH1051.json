@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Exam",
+			"weight": 20
+		},
+		{
+			"name": "Matlab worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

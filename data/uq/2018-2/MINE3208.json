@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Excercises",
+			"weight": 10
+		},
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 30
+		},
+		{
+			"name": "Plant Design Oral Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Plant Design Written Report",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

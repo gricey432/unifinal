@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Course Investigation - Pebble Pad",
+			"weight": 5
+		},
+		{
+			"name": "STATEMENT FOR COURT",
+			"weight": 15
+		},
+		{
+			"name": "GROUP LABORATORY REPORTS",
+			"weight": 20
+		},
+		{
+			"name": "MID-TRIMESTER EXAM",
+			"weight": 30
+		},
+		{
+			"name": "END OF TRIMESTER WRITTEN EXAM",
+			"weight": 30
+		}
+	]
+}

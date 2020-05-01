@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Assessment for Clinical Placement",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication Safety and Medication Calculation Tests",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Summative Assessment for Clinical Placement",
+			"weight": "NGP"
+		}
+	]
+}

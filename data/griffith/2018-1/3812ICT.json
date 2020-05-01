@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Business Analysis Specification",
+			"weight": 50
+		},
+		{
+			"name": "Business Analysis Challenge",
+			"weight": 20
+		}
+	]
+}

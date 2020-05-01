@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing about and as method",
+			"weight": 30
+		},
+		{
+			"name": "An invitation to feminist/gender research",
+			"weight": 25
+		},
+		{
+			"name": "A feminist/gender research project",
+			"weight": 45
+		}
+	]
+}

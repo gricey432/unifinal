@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Reflection on and analysis of tutorial reading. 1",
+			"weight": 5
+		},
+		{
+			"name": "Fields of Practice in Mental Health",
+			"weight": 50
+		},
+		{
+			"name": "Reflection on and analysis of tutorial reading. 2",
+			"weight": 15
+		},
+		{
+			"name": "DSM-V",
+			"weight": 30
+		}
+	]
+}

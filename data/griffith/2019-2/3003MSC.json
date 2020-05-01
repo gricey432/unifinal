@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communicating science",
+			"weight": 10
+		},
+		{
+			"name": "Project Report",
+			"weight": 60
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Supervisor Mark",
+			"weight": 10
+		}
+	]
+}

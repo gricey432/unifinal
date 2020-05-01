@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 01: Rhetorical Appeals",
+			"weight": 35
+		},
+		{
+			"name": "Assignment 02: Metaphor",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 03: Ethical Framework",
+			"weight": 15
+		}
+	]
+}

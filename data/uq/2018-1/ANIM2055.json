@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Oral Presentation based on ZIMS case study",
+			"weight": 10
+		},
+		{
+			"name": "Practice in Zoo Genetics",
+			"weight": 10
+		},
+		{
+			"name": "Should zoos exist?",
+			"weight": 5
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

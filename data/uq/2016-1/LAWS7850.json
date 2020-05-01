@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		},
+		{
+			"name": "Research paper",
+			"weight": 60
+		}
+	]
+}

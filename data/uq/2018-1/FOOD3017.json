@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Application of Food Policies.",
+			"weight": 10
+		},
+		{
+			"name": "Report on labelling problem working with a company",
+			"weight": 40
+		},
+		{
+			"name": "Predictive Microbiology Simulation and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving sessions ",
+			"weight": 0
+		},
+		{
+			"name": "Fieldwork with Excel data file and group report",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of class data & group oral presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

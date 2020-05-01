@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical performance",
+			"weight": 50
+		},
+		{
+			"name": "Mid Semester Exam - held in week 10",
+			"weight": 20
+		},
+		{
+			"name": "Oral examination in week 10",
+			"weight": 30
+		}
+	]
+}

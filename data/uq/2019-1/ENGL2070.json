@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic essay ",
+			"weight": 15
+		},
+		{
+			"name": "Research essay plan and response",
+			"weight": 5
+		},
+		{
+			"name": "Research essay",
+			"weight": 35
+		},
+		{
+			"name": "In-class presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Reading Quizzes x 5",
+			"weight": 25
+		}
+	]
+}

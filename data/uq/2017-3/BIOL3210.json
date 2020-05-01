@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Week 3 practical report",
+			"weight": 15
+		},
+		{
+			"name": "Report relating to Week 7 Practical class",
+			"weight": 15
+		},
+		{
+			"name": "Weekly quiz",
+			"weight": 30
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

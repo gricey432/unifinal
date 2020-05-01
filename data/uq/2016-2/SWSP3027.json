@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Considering the lived experience",
+			"weight": 30
+		},
+		{
+			"name": "Read, Think, Share",
+			"weight": 10
+		},
+		{
+			"name": "Examination",
+			"weight": 60
+		}
+	]
+}

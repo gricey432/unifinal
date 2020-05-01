@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion board participation and reflection",
+			"weight": 25
+		},
+		{
+			"name": " Hazard worksheet",
+			"weight": 15
+		},
+		{
+			"name": "Environmental Health Policy Brief",
+			"weight": 40
+		},
+		{
+			"name": "Summative Online Quiz",
+			"weight": 20
+		}
+	]
+}

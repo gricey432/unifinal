@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "(A1)",
+			"weight": 5
+		},
+		{
+			"name": "(A2)",
+			"weight": 5
+		},
+		{
+			"name": "Workbook (A3)",
+			"weight": 30
+		},
+		{
+			"name": "(A4)",
+			"weight": 5
+		},
+		{
+			"name": "Group oral presentations (A5)",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (A6)",
+			"weight": 40
+		}
+	]
+}

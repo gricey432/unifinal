@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Poster and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "PlacementPortfolio Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 40
+		}
+	]
+}

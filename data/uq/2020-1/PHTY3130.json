@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1: Paediatric Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Module 1: Paediatric Assessment - Theory Exam",
+			"weight": 15
+		},
+		{
+			"name": "Module 1: Paediatric Assessment - Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Module 2: Paediatric Management - Case Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Module 2: Paediatric Management - Theory Exam",
+			"weight": 25
+		}
+	]
+}

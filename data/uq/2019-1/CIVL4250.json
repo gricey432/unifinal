@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A1 Programming, data analysis, and graphing",
+			"weight": 12
+		},
+		{
+			"name": "A2 The finite differences method (FDM)",
+			"weight": 12
+		},
+		{
+			"name": "A3 The finite element method (FEM)",
+			"weight": 12
+		},
+		{
+			"name": "A4 Structural and geomechanical analyses",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

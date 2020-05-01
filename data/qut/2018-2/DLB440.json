@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Seminar",
+			"weight": 20
+		},
+		{
+			"name": "Model and Report",
+			"weight": 30
+		},
+		{
+			"name": "Design",
+			"weight": 50
+		}
+	]
+}

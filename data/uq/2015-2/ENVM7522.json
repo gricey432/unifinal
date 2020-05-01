@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Study exercise - post two additional readings",
+			"weight": 10
+		},
+		{
+			"name": "Nature needs half (3000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Are protected area mangagers losing the plot?",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

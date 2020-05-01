@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Report of 1,500 words (Max. All included.)",
+			"weight": 30
+		},
+		{
+			"name": "Zomato Research Project Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Semester Examination",
+			"weight": 40
+		}
+	]
+}

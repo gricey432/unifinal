@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ETHICAL & REGULATORY ISSUES",
+			"weight": 20
+		},
+		{
+			"name": "ETHICAL & REGULATORY ISSUES",
+			"weight": 30
+		},
+		{
+			"name": "FINAL ASSESSMENT",
+			"weight": 50
+		}
+	]
+}

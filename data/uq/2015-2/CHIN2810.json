@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation in discussion",
+			"weight": 15
+		},
+		{
+			"name": "Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Essay",
+			"weight": 15
+		},
+		{
+			"name": "Oral Report",
+			"weight": 10
+		},
+		{
+			"name": "Test 2",
+			"weight": 35
+		}
+	]
+}

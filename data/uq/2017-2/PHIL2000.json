@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Epistemology Essay",
+			"weight": 40
+		},
+		{
+			"name": "Metaphysics Essay",
+			"weight": 40
+		}
+	]
+}

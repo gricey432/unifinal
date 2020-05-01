@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion ",
+			"weight": 20
+		},
+		{
+			"name": "Interprofessional Communication and Collaboration",
+			"weight": 40
+		},
+		{
+			"name": "Sentinel event or Obstetric Emergency",
+			"weight": 40
+		}
+	]
+}

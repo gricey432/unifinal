@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "DEVELOPMENT APPLICATION (OPTION 1A)",
+			"weight": 40
+		},
+		{
+			"name": "MINING APPLICATION (OPTION 1B)",
+			"weight": 40
+		},
+		{
+			"name": "INDIVIDUAL RESEARCH PAPER (OPTION 1C)",
+			"weight": 40
+		},
+		{
+			"name": "EXAM",
+			"weight": 60
+		}
+	]
+}

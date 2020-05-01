@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion during lectures & tutorials ",
+			"weight": "bonus, up to 5"
+		},
+		{
+			"name": "Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Thermodynamics and Heat Transfer prac sessions",
+			"weight": 10
+		},
+		{
+			"name": "Virtual Power Plant ",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

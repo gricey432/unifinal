@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Music in Society 2 Essay",
+			"weight": 35
+		},
+		{
+			"name": "Week Five Six",
+			"weight": 10
+		},
+		{
+			"name": "Repertoire and Styles Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

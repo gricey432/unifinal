@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Lab and simulation",
+			"weight": 15
+		},
+		{
+			"name": "PV Online quiz",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial submission",
+			"weight": 20
+		},
+		{
+			"name": "Take home open book exam",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

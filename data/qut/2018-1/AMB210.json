@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Export Planning Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 20
+		}
+	]
+}

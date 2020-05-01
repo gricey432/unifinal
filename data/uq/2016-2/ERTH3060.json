@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Cape Clairault exercise - first submission",
+			"weight": 5
+		},
+		{
+			"name": "Satisfactory attendance & completion of exercises",
+			"weight": 15
+		},
+		{
+			"name": "Cape Clairault exercise - second submission",
+			"weight": 3
+		},
+		{
+			"name": "Structural map of Nambucca Heads",
+			"weight": 15
+		},
+		{
+			"name": "Cape Clairault exercise - final submission",
+			"weight": 12
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 50
+		}
+	]
+}

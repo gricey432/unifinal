@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Requirements for Clinical Placements",
+			"weight": "MUST PASS Pass/Fail"
+		},
+		{
+			"name": "Tutorial Participation and Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Standardised Patient Clinical assessment",
+			"weight": "MUST PASS Pass/Fail"
+		},
+		{
+			"name": "Communication across the lifespan",
+			"weight": 30
+		},
+		{
+			"name": "Clinic Functioning and Disorder",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

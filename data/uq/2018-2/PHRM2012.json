@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Practical Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Confidentiality Form Submission",
+			"weight": 0
+		},
+		{
+			"name": "Community Pharmacy Placement Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Completion of QLD Health Requirements",
+			"weight": 0
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": 0
+		},
+		{
+			"name": "Hospital Pharmacy Placement/Visit",
+			"weight": 0
+		},
+		{
+			"name": "Various Community Pharmacy Placement Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Written End-of-Semester Examination",
+			"weight": 60
+		},
+		{
+			"name": "Consultation Exam",
+			"weight": 25
+		}
+	]
+}

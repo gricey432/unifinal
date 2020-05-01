@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Discussion of Group Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Presentation - submitted online",
+			"weight": 15
+		},
+		{
+			"name": "Research paper",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

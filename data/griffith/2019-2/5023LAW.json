@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. Class Participation & Hypothetical Problem",
+			"weight": 20
+		},
+		{
+			"name": "2. Class participation & Hypothetical Problem",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester ",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Tools ",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Practice Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Communication Skills Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Recording and analysis of practice",
+			"weight": 60
+		}
+	]
+}

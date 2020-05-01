@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at lessons",
+			"weight": 0
+		},
+		{
+			"name": "Peer Teaching Experience",
+			"weight": 33
+		},
+		{
+			"name": "Student Tutorial",
+			"weight": 33
+		},
+		{
+			"name": "Design of an assessment item",
+			"weight": 33
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case scenarios: Knowledge for practice",
+			"weight": 50
+		},
+		{
+			"name": "Practical Demonstration: Skills for practice",
+			"weight": 35
+		},
+		{
+			"name": "Written Referral Letter",
+			"weight": 15
+		}
+	]
+}

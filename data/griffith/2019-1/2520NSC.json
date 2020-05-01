@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2 x Progress Checks (PC)",
+			"weight": 20
+		},
+		{
+			"name": " Dig Deep Mining Contract",
+			"weight": 40
+		},
+		{
+			"name": "End-of-Semester Examination ",
+			"weight": 40
+		}
+	]
+}

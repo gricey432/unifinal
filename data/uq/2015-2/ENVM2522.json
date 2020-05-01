@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Carbon Management Tools Practical Report",
+			"weight": 20
+		},
+		{
+			"name": "Essay - Contemporary Issues in Carbon and Energy",
+			"weight": 40
+		}
+	]
+}

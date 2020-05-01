@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small Group Tutorial Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Newspaper Article Review ",
+			"weight": 35
+		},
+		{
+			"name": "Central Exam",
+			"weight": 40
+		}
+	]
+}

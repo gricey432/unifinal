@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "School Research Seminar Series",
+			"weight": 10
+		},
+		{
+			"name": "Discipline Paper Critique ",
+			"weight": 20
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Written Proposal",
+			"weight": 50
+		}
+	]
+}

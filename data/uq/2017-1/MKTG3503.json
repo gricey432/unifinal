@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Sales Interview and Critique",
+			"weight": 30
+		},
+		{
+			"name": "Sales Leadership",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

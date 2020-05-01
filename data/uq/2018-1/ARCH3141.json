@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation & Presentation on Project 2",
+			"weight": 20
+		},
+		{
+			"name": "Project 1 (Urban Cultural Cross-Roads)",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 (Asian Architecture)",
+			"weight": 20
+		},
+		{
+			"name": "In Class Course Quiz IVAH Requirement",
+			"weight": 40
+		}
+	]
+}

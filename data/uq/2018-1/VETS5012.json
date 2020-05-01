@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Performance Assessment",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Abattoir EMS Journal",
+			"weight": 15
+		},
+		{
+			"name": "VPH Exam",
+			"weight": 60
+		},
+		{
+			"name": "Post-mortem Reports",
+			"weight": 10
+		},
+		{
+			"name": "Necropsy Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Skills list",
+			"weight": "pass/fail"
+		}
+	]
+}

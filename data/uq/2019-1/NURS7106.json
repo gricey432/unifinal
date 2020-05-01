@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Discussion Postings",
+			"weight": 20
+		},
+		{
+			"name": "Critical Issue",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

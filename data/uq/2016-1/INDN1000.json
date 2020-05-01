@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignments",
+			"weight": 10
+		},
+		{
+			"name": "In-class Written Test",
+			"weight": 20
+		},
+		{
+			"name": "In-class listening exam",
+			"weight": 10
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 30
+		},
+		{
+			"name": "Oral interview",
+			"weight": 15
+		},
+		{
+			"name": "Fortnightly Vocab Tests ",
+			"weight": 15
+		}
+	]
+}

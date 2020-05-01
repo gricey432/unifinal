@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Options 1 & 2: Thesis plan & Negotiated Criteria",
+			"weight": "Pass/Fail 1200 words (minimum); you must complete this to proceed with your thesis"
+		},
+		{
+			"name": "Options 1 & 2: Thesis Draft",
+			"weight": "Pass/Fail Milestone (Thesis 5,000 words minimum); Project (exegesis-3000 words minimum; + package)"
+		},
+		{
+			"name": "Option 2: Communication project",
+			"weight": 100
+		},
+		{
+			"name": "Option 1: Communication research thesis",
+			"weight": 100
+		}
+	]
+}

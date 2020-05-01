@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "800 word visual analysis",
+			"weight": 20
+		},
+		{
+			"name": "2500 word research essay",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

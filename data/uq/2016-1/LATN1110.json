@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Take-home exercises",
+			"weight": 25
+		},
+		{
+			"name": "Progress Test",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

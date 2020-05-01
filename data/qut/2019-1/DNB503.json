@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "User Research Report",
+			"weight": 20
+		},
+		{
+			"name": "Product Design 1",
+			"weight": 20
+		},
+		{
+			"name": "Product Research",
+			"weight": 20
+		},
+		{
+			"name": "Product Design 2",
+			"weight": 40
+		}
+	]
+}

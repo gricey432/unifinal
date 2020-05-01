@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Self-evaluation essay",
+			"weight": 20
+		},
+		{
+			"name": "Exam ",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of case management practice",
+			"weight": 40
+		}
+	]
+}

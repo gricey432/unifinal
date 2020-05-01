@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz 1: Musculoskeletal anatomy",
+			"weight": 3
+		},
+		{
+			"name": "Online quiz 2: Neuroanatomy and electromyography",
+			"weight": 4
+		},
+		{
+			"name": "Online quiz 3: Cardiorespiratory anatomy and ECG",
+			"weight": 4
+		},
+		{
+			"name": "Online quiz 4: Blood pressure and spirometry",
+			"weight": 4
+		},
+		{
+			"name": "\"Three best resources\"",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

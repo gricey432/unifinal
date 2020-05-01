@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysing spin",
+			"weight": 50
+		},
+		{
+			"name": "Influencing Public Opinion Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Self reflection on learning",
+			"weight": 10
+		}
+	]
+}

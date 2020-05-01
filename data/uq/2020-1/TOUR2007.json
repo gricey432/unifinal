@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder Script",
+			"weight": 40
+		},
+		{
+			"name": "Impact Report",
+			"weight": 60
+		}
+	]
+}

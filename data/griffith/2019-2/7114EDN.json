@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Text Analysis and Learning Experiences",
+			"weight": 50
+		},
+		{
+			"name": "Evaluation and Differentiation Plan",
+			"weight": 50
+		}
+	]
+}

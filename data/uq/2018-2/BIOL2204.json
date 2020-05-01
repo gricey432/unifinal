@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory performance",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

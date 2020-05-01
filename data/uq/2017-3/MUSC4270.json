@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Activity log and industry partner's evaluation",
+			"weight": 40
+		},
+		{
+			"name": "Industry Placement plan",
+			"weight": 25
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 35
+		}
+	]
+}

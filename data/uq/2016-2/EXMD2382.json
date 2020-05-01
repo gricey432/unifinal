@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1. Student Professionalism",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Personal Data in Excel",
+			"weight": 1
+		},
+		{
+			"name": "Theory Quizzes",
+			"weight": 24
+		},
+		{
+			"name": "3. Mid-semester Practical Exam",
+			"weight": 40
+		},
+		{
+			"name": "4. Final Practical Exam",
+			"weight": 35
+		}
+	]
+}

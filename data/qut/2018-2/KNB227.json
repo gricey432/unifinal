@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project Design &amp; Planning",
+			"weight": 40
+		},
+		{
+			"name": "Real-Time Project",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Loads on Structures",
+			"weight": 10
+		},
+		{
+			"name": "Design of Steel Members-Part 1",
+			"weight": 10
+		},
+		{
+			"name": "Design of Steel Members -Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Design of Connections",
+			"weight": 10
+		},
+		{
+			"name": "Final Examamination",
+			"weight": 60
+		}
+	]
+}

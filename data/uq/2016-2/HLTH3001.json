@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": "Three journals must be submitted to pass"
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": "Attendance is compulsory to pass the course"
+		},
+		{
+			"name": "My CV and Employment searching",
+			"weight": "Must be submitted to pass"
+		},
+		{
+			"name": "My Work Placement (Poster)",
+			"weight": "A PASS grade must be achieved"
+		},
+		{
+			"name": "Work Placement",
+			"weight": "PASS - verified by placement supervisor"
+		}
+	]
+}

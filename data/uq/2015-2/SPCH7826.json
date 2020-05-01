@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quiz for CNS/PNS content",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Adult Motor Speech Disorders",
+			"weight": 40
+		},
+		{
+			"name": "Adult motor speech: Video Examination",
+			"weight": 15
+		},
+		{
+			"name": "Childhood Motor Speech Examination",
+			"weight": 45
+		}
+	]
+}

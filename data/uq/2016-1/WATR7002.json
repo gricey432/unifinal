@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contextual case study ",
+			"weight": 20
+		},
+		{
+			"name": "Group work preparation of Training Guide",
+			"weight": 30
+		},
+		{
+			"name": "Individual PBL: Design a Project",
+			"weight": 50
+		}
+	]
+}

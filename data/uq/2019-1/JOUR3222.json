@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": 10
+		},
+		{
+			"name": "Design Idea",
+			"weight": 10
+		},
+		{
+			"name": "Project plan",
+			"weight": 20
+		},
+		{
+			"name": "Design Prototype",
+			"weight": 30
+		},
+		{
+			"name": "Reflection",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Module associated online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Module associated workbooks/ online tutorials",
+			"weight": 90
+		}
+	]
+}

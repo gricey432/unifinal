@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Debrief of Volunteering Experience",
+			"weight": 30
+		},
+		{
+			"name": "Examination of Course Content ",
+			"weight": 40
+		},
+		{
+			"name": "Personal Reflection on Field Work Experiences",
+			"weight": 30
+		}
+	]
+}

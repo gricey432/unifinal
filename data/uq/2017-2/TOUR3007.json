@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Strategic Analysis and Implementation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Services Marketing Audit Report",
+			"weight": 40
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

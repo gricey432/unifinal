@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory worksheets and laboratory exam",
+			"weight": 40
+		},
+		{
+			"name": "Written examination",
+			"weight": 60
+		}
+	]
+}

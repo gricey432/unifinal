@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Me-in-a-Minute Video",
+			"weight": 20
+		},
+		{
+			"name": "Interview Questions and Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Interview with Chosen Academic/Professional",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Essay on Interview ",
+			"weight": 20
+		}
+	]
+}

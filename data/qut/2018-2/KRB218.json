@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Production Arts Touring Proj",
+			"weight": 40
+		},
+		{
+			"name": "Practical",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		}
+	]
+}

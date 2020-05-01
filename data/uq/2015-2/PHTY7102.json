@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Multi-disciplinary Management of Medical Condition",
+			"weight": 25
+		},
+		{
+			"name": "Seminar Series ",
+			"weight": 35
+		},
+		{
+			"name": "Professional Participation and Contribution ",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Multi-disciplinary Management of Medical Condition",
+			"weight": 5
+		},
+		{
+			"name": "Seminar Series",
+			"weight": 5
+		},
+		{
+			"name": "Problem Based Learning Role Play Pain Patient ",
+			"weight": 15
+		},
+		{
+			"name": "Problem Based Learning- Case Scenario Seminar ",
+			"weight": 15
+		}
+	]
+}

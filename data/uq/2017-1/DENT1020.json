@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Evidence-based dentistry - individual component",
+			"weight": 15
+		},
+		{
+			"name": "Evidence-based dentistry - team component",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

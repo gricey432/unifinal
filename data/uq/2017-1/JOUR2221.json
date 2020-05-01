@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis of media coverage of mob justice",
+			"weight": 40
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 40
+		}
+	]
+}

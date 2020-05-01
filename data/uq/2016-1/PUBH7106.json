@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online discussion ",
+			"weight": 20
+		},
+		{
+			"name": "Powerpoint Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Individual Assignment ",
+			"weight": 50
+		}
+	]
+}

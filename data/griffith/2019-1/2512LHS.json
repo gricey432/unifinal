@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective journal",
+			"weight": 30
+		},
+		{
+			"name": "Speechwriting and presentation",
+			"weight": 30
+		},
+		{
+			"name": "Report writing and pitch",
+			"weight": 40
+		}
+	]
+}

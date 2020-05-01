@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media log assignment",
+			"weight": 30
+		},
+		{
+			"name": "Multiple choice test",
+			"weight": 25
+		},
+		{
+			"name": "Final essay",
+			"weight": 45
+		}
+	]
+}

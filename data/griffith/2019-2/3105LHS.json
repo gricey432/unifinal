@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Feature story for publication",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of work",
+			"weight": 50
+		},
+		{
+			"name": "Production Contribution",
+			"weight": 30
+		}
+	]
+}

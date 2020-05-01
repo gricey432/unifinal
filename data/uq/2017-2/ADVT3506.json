@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Evaluation Protocol Report",
+			"weight": 25
+		},
+		{
+			"name": "Quiz (in lecture)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bonus mark",
+			"weight": "up to 3"
+		},
+		{
+			"name": "Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "2 Assigments ",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

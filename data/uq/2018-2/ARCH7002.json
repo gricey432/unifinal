@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Brief and Manifesto",
+			"weight": 20
+		},
+		{
+			"name": "Interim Critique",
+			"weight": 30
+		},
+		{
+			"name": "Final critique",
+			"weight": 50
+		}
+	]
+}

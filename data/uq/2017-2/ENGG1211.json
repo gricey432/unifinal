@@ -1,0 +1,76 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Investigation Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team)",
+			"weight": 30
+		},
+		{
+			"name": "Templates",
+			"weight": 3
+		},
+		{
+			"name": "Plagiarism Module (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "English for Achademic Communication (EAC)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Project Scoping Package (Team)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Logbook (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Preliminary Memo (Team Based)",
+			"weight": 15
+		},
+		{
+			"name": "Problem solving (Online)",
+			"weight": 10
+		},
+		{
+			"name": "MOOCchat(Individual)",
+			"weight": 4
+		},
+		{
+			"name": "Materials Modules (Individual)",
+			"weight": 6
+		},
+		{
+			"name": "Team Project Peer",
+			"weight": "P/F - Affects team marks"
+		},
+		{
+			"name": "Compulsory Sessions (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Demo Day (Team)",
+			"weight": 22
+		},
+		{
+			"name": "Reflections (Individual)",
+			"weight": 6
+		},
+		{
+			"name": "Attendance (Individual)",
+			"weight": "P/F"
+		},
+		{
+			"name": "Model Test and Demonstration (Team-based)",
+			"weight": 25
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 25
+		}
+	]
+}

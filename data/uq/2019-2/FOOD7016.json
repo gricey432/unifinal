@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Participation in Sensory Session Preparation",
+			"weight": 15
+		},
+		{
+			"name": "Individual Report",
+			"weight": 40
+		}
+	]
+}

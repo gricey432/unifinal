@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Who is a refugee?",
+			"weight": 20
+		},
+		{
+			"name": "Artifact inspired reflective writing",
+			"weight": 25
+		},
+		{
+			"name": "Securing refugee protection",
+			"weight": 55
+		}
+	]
+}

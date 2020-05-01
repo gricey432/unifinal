@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bending of Beams Group Prac Report",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Structural Mechanics Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

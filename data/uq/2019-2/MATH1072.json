@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

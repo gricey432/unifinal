@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Research Study Synopsis, Aims and Hypothesis",
+			"weight": 5
+		},
+		{
+			"name": "School Seminar Attendance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Research Plan Digital Poster",
+			"weight": 12
+		},
+		{
+			"name": "Mini Review",
+			"weight": 20
+		},
+		{
+			"name": "Conference Presentation",
+			"weight": 12
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Research Data Record Submission",
+			"weight": 10
+		}
+	]
+}

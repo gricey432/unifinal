@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Book review of Secondary source",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "CCC Key Learning Activities Record",
+			"weight": "Compliance Hurdle:  Students must meet attendance requirements to pass the course"
+		},
+		{
+			"name": "CCC online modules, cases and quizzes",
+			"weight": "Performance Hurdle: Students must pass these regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment - ED & ICU",
+			"weight": "Performance Hurdle: Students must pass regardless of marks in other assessments"
+		},
+		{
+			"name": "Reflective Workbooks",
+			"weight": "Performance Hurdle. To pass the course, students must pass this assessment task"
+		},
+		{
+			"name": "Pass Level online examination",
+			"weight": "Performance Hurdle: To pass the course, students must pass this assessment task"
+		}
+	]
+}

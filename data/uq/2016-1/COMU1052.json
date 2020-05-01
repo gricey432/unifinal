@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise and participation",
+			"weight": 10
+		},
+		{
+			"name": "Applying communication theory to a PR campaign",
+			"weight": 40
+		},
+		{
+			"name": "Project Report on PR campaign in Two Parts ",
+			"weight": 50
+		}
+	]
+}

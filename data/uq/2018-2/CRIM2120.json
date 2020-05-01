@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 40
+		},
+		{
+			"name": "Queensland law and policy",
+			"weight": 45
+		}
+	]
+}

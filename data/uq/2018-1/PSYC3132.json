@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Individual Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Developing a Health Promotion Intervention",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

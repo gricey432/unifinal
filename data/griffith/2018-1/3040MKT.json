@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Based Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Group Oral Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Digital Marketing Campaign Plan",
+			"weight": 50
+		}
+	]
+}

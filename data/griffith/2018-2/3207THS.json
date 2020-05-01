@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event business proposal presentations",
+			"weight": 20
+		},
+		{
+			"name": "In-class quiz",
+			"weight": 35
+		},
+		{
+			"name": "New Venture Business Plan",
+			"weight": 45
+		}
+	]
+}

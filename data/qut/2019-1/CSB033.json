@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 0
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 0
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		}
+	]
+}

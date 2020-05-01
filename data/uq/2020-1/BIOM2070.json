@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Fact Sheet on One disruption of Homeostasis",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quiz 1: Oral Glucose Tolerance Test",
+			"weight": 5
+		},
+		{
+			"name": "Online Class Quiz 2: Movement Disorders",
+			"weight": 5
+		},
+		{
+			"name": "Online Class Quiz 3: Blood pH Regulation",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 55
+		}
+	]
+}

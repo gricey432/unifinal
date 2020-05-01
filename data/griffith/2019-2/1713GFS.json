@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation ",
+			"weight": 20
+		},
+		{
+			"name": "Critical and Creative Reflective Journal ",
+			"weight": 25
+		},
+		{
+			"name": "Critical and Creative Reflective Journal",
+			"weight": 25
+		},
+		{
+			"name": "Group AV Production ",
+			"weight": 30
+		}
+	]
+}

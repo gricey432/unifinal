@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan for Major Project",
+			"weight": 0
+		},
+		{
+			"name": "Major Project",
+			"weight": 40
+		},
+		{
+			"name": "Practical Workbook - Part A",
+			"weight": 15
+		},
+		{
+			"name": "Practical Workbook - Part B",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bone Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Group Palaeopathology Report",
+			"weight": 30
+		},
+		{
+			"name": "Peer Evaluation Form",
+			"weight": "Required with Palaeopatholgy Report"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

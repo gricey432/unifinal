@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Practical",
+			"weight": 12
+		},
+		{
+			"name": "Tutorial 1 (online quiz)",
+			"weight": 2
+		},
+		{
+			"name": "Tutorial 2 (online quiz)",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial 3 (online quiz)",
+			"weight": 2
+		},
+		{
+			"name": "Tutorial 4 (online quiz)",
+			"weight": 2
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

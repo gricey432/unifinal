@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Marketing Plan Situation Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Strategic Marketing Plan Strategy development",
+			"weight": 30
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Job Application Selection criteria ",
+			"weight": 30
+		}
+	]
+}

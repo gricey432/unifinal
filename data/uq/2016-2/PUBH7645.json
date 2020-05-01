@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Position Papers and Debates",
+			"weight": 20
+		},
+		{
+			"name": "10 Best Resources on...",
+			"weight": 60
+		},
+		{
+			"name": "Blackboard quizzes",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Xanthine oxidase activity 1",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "Practical 2: Xanthine oxidase activity 2",
+			"weight": "FORMATIVE ASSESSMENT"
+		},
+		{
+			"name": "BDent/BDent(H) mini-review",
+			"weight": 25
+		},
+		{
+			"name": "Practical 3: Xanthine oxidase activity 3",
+			"weight": 25
+		},
+		{
+			"name": "Understanding research in metabolism: Part 1",
+			"weight": "Marks awarded when assessed in \"Understanding research in metabolism: Part 2\""
+		},
+		{
+			"name": "Understanding research in metabolism: Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

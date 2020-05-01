@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Guided Discussion with Peers",
+			"weight": 10
+		},
+		{
+			"name": "Take home exam",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Website",
+			"weight": 10
+		},
+		{
+			"name": "Podcast",
+			"weight": 20
+		},
+		{
+			"name": "Video Showcasr",
+			"weight": 30
+		},
+		{
+			"name": "Online Portfolio",
+			"weight": 40
+		}
+	]
+}

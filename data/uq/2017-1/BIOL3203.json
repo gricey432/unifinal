@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Exam - Mid Semester",
+			"weight": 15
+		},
+		{
+			"name": "P2 laboratory report + lab performance",
+			"weight": 15
+		},
+		{
+			"name": "P3 laboratory report + lab performance",
+			"weight": 15
+		},
+		{
+			"name": "P1 laboratory report + lab performance",
+			"weight": 15
+		},
+		{
+			"name": "Exam - Final ",
+			"weight": 40
+		}
+	]
+}

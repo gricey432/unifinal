@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment of varying format",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay 3500 words",
+			"weight": 50
+		},
+		{
+			"name": "Participation in weekly seminars",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "EDUC1706x Participation",
+			"weight": 10
+		},
+		{
+			"name": "Scientific Explanations",
+			"weight": 30
+		},
+		{
+			"name": "Scientific Argument",
+			"weight": 25
+		},
+		{
+			"name": "Scientific Investigation",
+			"weight": 35
+		}
+	]
+}

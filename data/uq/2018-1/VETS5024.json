@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Rural Practice Clinical Case Log",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Rural practice clinical skills list",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "UQVETS Gatton Production Animal Service",
+			"weight": 40
+		},
+		{
+			"name": "UQ Vets Dayboro  ",
+			"weight": 40
+		},
+		{
+			"name": "Livestock Production Medicine viva",
+			"weight": 20
+		}
+	]
+}

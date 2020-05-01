@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Investment/Valuation Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Final Written Examination",
+			"weight": 40
+		}
+	]
+}

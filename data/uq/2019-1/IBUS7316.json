@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Large Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Semester Paper",
+			"weight": 25
+		},
+		{
+			"name": "Individual Final Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Sustainable and Accessible Campus ",
+			"weight": 40
+		},
+		{
+			"name": "Critical reflection",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam on the Infrastructure component",
+			"weight": 30
+		}
+	]
+}

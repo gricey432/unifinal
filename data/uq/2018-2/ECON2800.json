@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Midterm Exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 12
+		},
+		{
+			"name": "Evaluating Peer Presentations",
+			"weight": 1
+		},
+		{
+			"name": "Final exam",
+			"weight": 62
+		}
+	]
+}

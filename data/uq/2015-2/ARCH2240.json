@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Major Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Architectural Debates",
+			"weight": 40
+		}
+	]
+}

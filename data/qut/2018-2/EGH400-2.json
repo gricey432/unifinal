@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Report",
+			"weight": 40
+		},
+		{
+			"name": "Project Report",
+			"weight": 60
+		},
+		{
+			"name": "Work Placement Report",
+			"weight": 0
+		}
+	]
+}

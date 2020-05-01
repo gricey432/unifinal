@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report from Module 1",
+			"weight": 30
+		},
+		{
+			"name": "Project report as scientific paper & presentation",
+			"weight": 30
+		},
+		{
+			"name": "open book exam",
+			"weight": 40
+		}
+	]
+}

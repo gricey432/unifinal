@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The Recovery Model",
+			"weight": 20
+		},
+		{
+			"name": "Writing a psychosocial assessment.",
+			"weight": 35
+		},
+		{
+			"name": "Balancing risk and recovery ",
+			"weight": 35
+		},
+		{
+			"name": "Discussion Forum",
+			"weight": 10
+		}
+	]
+}

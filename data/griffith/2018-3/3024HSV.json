@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Poster Presentation",
+			"weight": 35
+		},
+		{
+			"name": "3-2-1 Reflection Posts",
+			"weight": 20
+		},
+		{
+			"name": "Critical Analysis of Media Portrayals",
+			"weight": 45
+		}
+	]
+}

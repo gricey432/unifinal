@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Case Study Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 40
+		},
+		{
+			"name": "Case Study 3",
+			"weight": 30
+		}
+	]
+}

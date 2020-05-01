@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "What does hospitality mean to you?",
+			"weight": 25
+		},
+		{
+			"name": "Team work - Hospitality analysis and application",
+			"weight": 35
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

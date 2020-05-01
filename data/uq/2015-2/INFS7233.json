@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Group Project: BI Case Study and Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Individual: Final Exam",
+			"weight": 45
+		}
+	]
+}

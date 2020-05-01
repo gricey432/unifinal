@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Risk Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Incident Investigation",
+			"weight": 20
+		},
+		{
+			"name": "Student Interviews",
+			"weight": 15
+		},
+		{
+			"name": "Social Impact Management Plan",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Exam",
+			"weight": 30
+		}
+	]
+}

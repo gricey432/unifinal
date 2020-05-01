@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Molecular Cloning Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Thermodynamics and Enzymology.",
+			"weight": 15
+		},
+		{
+			"name": "Practical report",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-reading",
+			"weight": 4
+		},
+		{
+			"name": "Weekly tutorial worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Module problem set",
+			"weight": 25
+		},
+		{
+			"name": "Practical reports",
+			"weight": 10
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

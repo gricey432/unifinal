@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of one course reading",
+			"weight": 10
+		},
+		{
+			"name": "Student feedback on presentations",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation (30 minutes)",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Essay & Learning Journal",
+			"weight": 50
+		}
+	]
+}

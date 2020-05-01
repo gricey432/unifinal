@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation (or Alternate Assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory report ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

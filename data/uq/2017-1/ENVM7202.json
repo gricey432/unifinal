@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative assessment tasks",
+			"weight": 0
+		},
+		{
+			"name": "Reflection A (1 written & 1 diagrammatic)",
+			"weight": 15
+		},
+		{
+			"name": "Mini research project of your own choice",
+			"weight": 40
+		},
+		{
+			"name": "Reflection B  (1 written & 1 video or audio)",
+			"weight": 15
+		},
+		{
+			"name": "Communicating conservation",
+			"weight": 30
+		}
+	]
+}

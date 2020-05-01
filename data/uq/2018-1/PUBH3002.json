@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Health Policy in Practice",
+			"weight": 10
+		},
+		{
+			"name": "Policy Context Background Paper",
+			"weight": 25
+		},
+		{
+			"name": "Health Policy Document Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 40
+		}
+	]
+}

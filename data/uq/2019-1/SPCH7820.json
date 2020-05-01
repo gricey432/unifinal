@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End Placement Assessment on COMPASS®2 (Module 1)",
+			"weight": "Pass/Fail MUST PASS."
+		},
+		{
+			"name": "Mid Placement Assessment on COMPASS®2 (Module 1)",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "Mid-semester examination (Module 2)",
+			"weight": 40
+		},
+		{
+			"name": "Final examination (Module 2)",
+			"weight": 60
+		}
+	]
+}

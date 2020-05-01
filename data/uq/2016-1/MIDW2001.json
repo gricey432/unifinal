@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Knowledge of diabetes test 1",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge of diabetes test 2",
+			"weight": 5
+		},
+		{
+			"name": "Written Asignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW2001",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis outline",
+			"weight": "P/F"
+		},
+		{
+			"name": "Major thesis",
+			"weight": 100
+		}
+	]
+}

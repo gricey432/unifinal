@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Corporate Disclosure",
+			"weight": 20
+		},
+		{
+			"name": "Course Exam - Open Book: 15/10/16",
+			"weight": 55
+		}
+	]
+}

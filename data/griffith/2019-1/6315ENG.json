@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial & Lab report x4",
+			"weight": 30
+		},
+		{
+			"name": "Experiment-based Assignment I",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

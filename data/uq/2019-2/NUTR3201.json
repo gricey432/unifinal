@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Split mid-semester exam quizzes",
+			"weight": 39
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": 11
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Potential Flow and Panel Methods",
+			"weight": 7
+		},
+		{
+			"name": "Applying CFD tools - Grid Generation",
+			"weight": 7
+		},
+		{
+			"name": "Lecture Series: Case studies in applying CFD ",
+			"weight": 5
+		},
+		{
+			"name": "Using CFD tools & visualizing results",
+			"weight": 10
+		},
+		{
+			"name": "Design, Build and Test: Two element aerofoil",
+			"weight": 25
+		},
+		{
+			"name": "Simulate and Test Re-Entry Capsule",
+			"weight": 20
+		},
+		{
+			"name": "Using and creating CFD solvers",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Health Policy & Practice",
+			"weight": 50
+		},
+		{
+			"name": "The Workforce Challenge - Myth or Reality",
+			"weight": 50
+		}
+	]
+}

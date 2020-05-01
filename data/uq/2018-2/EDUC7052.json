@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1: Career Development Practice",
+			"weight": 50
+		},
+		{
+			"name": "Assessment Item 2: Professional Practice",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice",
+			"weight": 20
+		},
+		{
+			"name": "Media Materials",
+			"weight": 30
+		},
+		{
+			"name": "Plan and Portfolio",
+			"weight": 50
+		}
+	]
+}

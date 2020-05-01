@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution",
+			"weight": 15
+		},
+		{
+			"name": "Guidelines - PLEASE READ !!",
+			"weight": 0
+		},
+		{
+			"name": "OHS",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Seminar Abstract",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 70
+		}
+	]
+}

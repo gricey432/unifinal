@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summative Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Summative Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Environmental Health Policy Brief",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Written assignment",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

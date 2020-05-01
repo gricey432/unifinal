@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Semester 1 Examination",
+			"weight": 30
+		},
+		{
+			"name": "Population Medicine Stakeholder Report",
+			"weight": 25
+		},
+		{
+			"name": "Semester 2 Examination",
+			"weight": 30
+		}
+	]
+}

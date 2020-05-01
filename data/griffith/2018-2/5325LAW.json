@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection Commentary",
+			"weight": 30
+		},
+		{
+			"name": "Mid-term Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - End of Term",
+			"weight": 50
+		}
+	]
+}

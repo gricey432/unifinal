@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz 1",
+			"weight": 2
+		},
+		{
+			"name": "Multiple Choice Quiz 2",
+			"weight": 2
+		},
+		{
+			"name": "Part A - Planner and Summary",
+			"weight": 5
+		},
+		{
+			"name": "Multiple Choice Quiz 3",
+			"weight": 2
+		},
+		{
+			"name": "Part B - Insurance Form",
+			"weight": 5
+		},
+		{
+			"name": "Multiple Choice Quiz 4",
+			"weight": 2
+		},
+		{
+			"name": "Multiple Choice Quiz 5",
+			"weight": 2
+		},
+		{
+			"name": "Part C - SWOT Preparation (2,000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Part D - SWOT Report (2,500 words)",
+			"weight": 25
+		},
+		{
+			"name": "Part E - Placement Self-Assessment (2,500 words)",
+			"weight": 25
+		},
+		{
+			"name": "Part F - Supervisors Reports",
+			"weight": 10
+		}
+	]
+}

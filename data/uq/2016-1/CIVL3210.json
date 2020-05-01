@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory experiments",
+			"weight": 5
+		},
+		{
+			"name": "Fundamental knowledge quiz",
+			"weight": 0
+		},
+		{
+			"name": "Tutorial 1",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 2",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 3",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 4",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 5",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

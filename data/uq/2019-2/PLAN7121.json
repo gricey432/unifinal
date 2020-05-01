@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Case study analysis (group assignment)",
+			"weight": 30
+		},
+		{
+			"name": "Individual essay",
+			"weight": 50
+		}
+	]
+}

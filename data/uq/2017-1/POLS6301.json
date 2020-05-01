@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Review Papers",
+			"weight": 30
+		},
+		{
+			"name": "Method Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Short Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Midsemester Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Full Research Proposal",
+			"weight": 30
+		}
+	]
+}

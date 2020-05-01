@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation at tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Overview of natural resource for the report",
+			"weight": 10
+		},
+		{
+			"name": "Biodiversity planning and management",
+			"weight": 25
+		},
+		{
+			"name": "Communicating conservation",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

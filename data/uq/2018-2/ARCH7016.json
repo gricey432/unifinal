@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A01_Shaping Terrains: Linear Park",
+			"weight": 25
+		},
+		{
+			"name": "A02_ Architectural Morphosis: Adaptive Design",
+			"weight": 30
+		},
+		{
+			"name": "A03_Typological Genesis: WRAP",
+			"weight": 45
+		}
+	]
+}

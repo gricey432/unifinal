@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Conduct and Design Projects",
+			"weight": 24
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 56
+		}
+	]
+}

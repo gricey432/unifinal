@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engineering Stage 1 Competencies Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Laboratories",
+			"weight": 20
+		},
+		{
+			"name": "Experiential Project",
+			"weight": 30
+		},
+		{
+			"name": "Quizzes Modules 1-4",
+			"weight": 40
+		}
+	]
+}

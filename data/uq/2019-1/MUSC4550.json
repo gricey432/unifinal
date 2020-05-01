@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Artistic Research Output: performance/composition ",
+			"weight": 50
+		},
+		{
+			"name": "Exegesis",
+			"weight": 50
+		}
+	]
+}

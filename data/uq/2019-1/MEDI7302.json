@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of on-line case studies (ispring etc)",
+			"weight": 10
+		},
+		{
+			"name": "Participation in CCRDs",
+			"weight": 20
+		},
+		{
+			"name": "Multiple Choice Examination",
+			"weight": 50
+		},
+		{
+			"name": "CASE-BASED WRITTEN EXAMINATION",
+			"weight": 20
+		},
+		{
+			"name": "Mental state examination MINI-CEX",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		}
+	]
+}

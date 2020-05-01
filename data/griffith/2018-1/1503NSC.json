@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1503NSC Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "1503NSC Short Answer",
+			"weight": 15
+		},
+		{
+			"name": "1503NSC Written Assignment",
+			"weight": 65
+		},
+		{
+			"name": "1503NSC Progress Quiz",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement with course aims and outcomes",
+			"weight": 10
+		},
+		{
+			"name": "The reconciliation movementin Australia",
+			"weight": 20
+		},
+		{
+			"name": "Agreed Work Placement Outcome",
+			"weight": 50
+		},
+		{
+			"name": "Personal project diary",
+			"weight": 20
+		}
+	]
+}

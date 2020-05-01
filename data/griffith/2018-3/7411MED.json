@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1.  Tutorial Topic Discussion/Debate Sessions",
+			"weight": 15
+		},
+		{
+			"name": "2.  Interview Report",
+			"weight": 40
+		},
+		{
+			"name": "3. e-Portfolio",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on bush foods and flavours",
+			"weight": 30
+		},
+		{
+			"name": "Report on nutritional & medical value of bush food",
+			"weight": 30
+		},
+		{
+			"name": "Lore and Law, Equitable Benefit Sharing",
+			"weight": 40
+		}
+	]
+}

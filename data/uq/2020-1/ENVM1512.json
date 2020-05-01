@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short tutorial quizzes online via Blackboard",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam via Blackboard",
+			"weight": 20
+		},
+		{
+			"name": "Economic Analysis of an Environmental Issue",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - Take home via Blackboard",
+			"weight": 50
+		}
+	]
+}

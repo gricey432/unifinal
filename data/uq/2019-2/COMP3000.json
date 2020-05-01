@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1",
+			"weight": 10
+		},
+		{
+			"name": "Essay 2",
+			"weight": 10
+		},
+		{
+			"name": "Essay 3",
+			"weight": 10
+		},
+		{
+			"name": "Online exercises",
+			"weight": 30
+		},
+		{
+			"name": "Major Project",
+			"weight": 40
+		}
+	]
+}

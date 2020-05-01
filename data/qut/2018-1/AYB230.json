@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

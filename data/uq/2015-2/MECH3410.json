@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly in-class question and peer assessment",
+			"weight": 10
+		},
+		{
+			"name": "Exp 1 (Pipe Flow)",
+			"weight": 2
+		},
+		{
+			"name": "Exp 2 (Shock Tube)",
+			"weight": 7
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Exp 3 (Aerofoil)",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Exp 4 (Turbomachinery)",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

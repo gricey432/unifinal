@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "CCC online modules, cases and quizzes",
+			"weight": "PASS/FAIL.  To pass the course, students must pass this regardless of marks in other assessments"
+		},
+		{
+			"name": "CCC Clinical Participation Assessment - ED & ICU",
+			"weight": "PASS/FAIL.   Students must meet attendance requirements regardless of marks in other assessments"
+		},
+		{
+			"name": "Reflective workbooks",
+			"weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments"
+		},
+		{
+			"name": "CCC online modules, cases and quizzes",
+			"weight": "PASS/FAIL.  To pass the course, students must pass this regardless of marks in other assessments"
+		},
+		{
+			"name": "CCC Key Learning Activities Record",
+			"weight": "PASS/FAIL.  Students must meet attendance requirements regardless of marks in other assessments"
+		},
+		{
+			"name": "Critical Care Course online examination",
+			"weight": "PASS/FAIL.  To pass the course, students must pass this regardless of marks in other assessments"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning management activities",
+			"weight": 20
+		},
+		{
+			"name": "Major essay",
+			"weight": 30
+		},
+		{
+			"name": "Fieldwork / Diary",
+			"weight": 50
+		}
+	]
+}

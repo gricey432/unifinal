@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2 group based exercises each worth 10%",
+			"weight": 20
+		},
+		{
+			"name": "2 individual written exercises each worth 30% ",
+			"weight": 60
+		},
+		{
+			"name": "MULTI-CHOICE TEST",
+			"weight": 20
+		}
+	]
+}

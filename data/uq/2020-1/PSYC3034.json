@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Collaborative Poster",
+			"weight": 10
+		},
+		{
+			"name": "Evaluation Protocol Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		}
+	]
+}

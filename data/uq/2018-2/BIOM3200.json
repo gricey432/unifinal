@@ -1,0 +1,68 @@
+{
+	"assessment": [
+		{
+			"name": "Group Work Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Group Work Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Group Annotated Bibliography",
+			"weight": 7
+		},
+		{
+			"name": "Individual Critical Reflective Commentary",
+			"weight": 20
+		},
+		{
+			"name": "Biomed Project Part 1. Group plan ",
+			"weight": 7
+		},
+		{
+			"name": "Biomed Project Part 2. Group Preliminary Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Biomed Project Part3. Research Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Proposal Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Biomed Project Part 1. Group plan ",
+			"weight": 7
+		},
+		{
+			"name": "Biomed Project Part 2. Group Critical Appraisal",
+			"weight": 20
+		},
+		{
+			"name": "Biomed Project Part3. Science Translation",
+			"weight": 35
+		},
+		{
+			"name": "Patient Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Biomed Project Part 1. Group plan ",
+			"weight": 7
+		},
+		{
+			"name": "Biomed Project Part 2. Group Market Review",
+			"weight": 20
+		},
+		{
+			"name": "Biomed Project Part3. Project Investment Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Project Pitch",
+			"weight": 10
+		}
+	]
+}

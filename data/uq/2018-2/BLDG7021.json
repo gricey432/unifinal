@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "01_DESIGN FOR FABRICATION ",
+			"weight": 25
+		},
+		{
+			"name": "02_TIMBER TOWER DESIGN CONCEPT",
+			"weight": 40
+		},
+		{
+			"name": "03_DOING THINGS DIFFERENTLY",
+			"weight": 35
+		}
+	]
+}

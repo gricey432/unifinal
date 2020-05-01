@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory/Practical",
+			"weight": 30
+		},
+		{
+			"name": "Viva voce",
+			"weight": 20
+		}
+	]
+}

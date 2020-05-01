@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MCPR Academic analysis of practice in context",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 1 annotated diagrams",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 Video Diary",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Enterprise Visits",
+			"weight": 25
+		},
+		{
+			"name": "Sustainable Animal Production",
+			"weight": 25
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

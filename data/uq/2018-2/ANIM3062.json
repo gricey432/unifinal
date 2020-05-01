@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Emerging Issues in Animal Bioscience",
+			"weight": 15
+		},
+		{
+			"name": "Significant Key Issue-Discussion Paper",
+			"weight": 20
+		},
+		{
+			"name": "Critique of a popular press article/book",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

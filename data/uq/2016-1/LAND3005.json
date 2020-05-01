@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation in Practical Sessions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formative Assessment Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report 1: Soil respiration",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report 2: Water Use by Plants",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report 3: Fertility Status of Soil",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report 4: P nutrition of plants",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

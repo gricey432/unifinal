@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 on-Line in-class Quizzes",
+			"weight": 44
+		},
+		{
+			"name": "Lab assignment 1",
+			"weight": 14
+		},
+		{
+			"name": "lab report 2",
+			"weight": 20
+		},
+		{
+			"name": "on-line, open book, during examination period",
+			"weight": 22
+		}
+	]
+}

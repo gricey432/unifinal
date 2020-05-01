@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective discussion",
+			"weight": 20
+		},
+		{
+			"name": "Online debate",
+			"weight": 30
+		},
+		{
+			"name": "Intervention design",
+			"weight": 50
+		}
+	]
+}

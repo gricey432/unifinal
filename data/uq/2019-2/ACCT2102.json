@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz in Lecture Time",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 15
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

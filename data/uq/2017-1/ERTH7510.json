@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Sem examination",
+			"weight": 25
+		},
+		{
+			"name": "Computational Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

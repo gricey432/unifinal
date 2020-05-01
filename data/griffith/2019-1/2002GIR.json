@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Contribution (+ reading report)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		},
+		{
+			"name": "End of Trimester Exam ",
+			"weight": 30
+		}
+	]
+}

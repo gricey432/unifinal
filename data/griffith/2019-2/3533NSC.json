@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hillcrest Aerodrome Project",
+			"weight": 30
+		},
+		{
+			"name": "Four Module Progress Checks",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

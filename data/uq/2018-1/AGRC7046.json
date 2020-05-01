@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Goals",
+			"weight": 5
+		},
+		{
+			"name": "Project Plan",
+			"weight": 5
+		},
+		{
+			"name": "Essay on a Leadership Topic",
+			"weight": 30
+		},
+		{
+			"name": "Collation of Personal Learning",
+			"weight": 10
+		},
+		{
+			"name": "Learning Project Report",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay answer",
+			"weight": 15
+		},
+		{
+			"name": "Multimedia product",
+			"weight": 30
+		},
+		{
+			"name": "Practice education report",
+			"weight": 55
+		}
+	]
+}

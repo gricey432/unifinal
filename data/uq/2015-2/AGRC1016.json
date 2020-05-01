@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Boards No1 & No2 ",
+			"weight": 30
+		},
+		{
+			"name": "Electronically enabling your agribusiness",
+			"weight": 10
+		},
+		{
+			"name": "Supervised eLandscape Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Innovative EAgribusiness Project & Mob Phone App",
+			"weight": 40
+		}
+	]
+}

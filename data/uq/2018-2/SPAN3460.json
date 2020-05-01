@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "FOUR (4) READING COMPREHENSION QUIZZES",
+			"weight": 20
+		},
+		{
+			"name": "THREE (3) ARTICLE REVIEW AND REFLECTION",
+			"weight": 30
+		},
+		{
+			"name": "ESSAY 1 - MODULE 1",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 2 - MODULE 2",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 3 - MODULE 3",
+			"weight": 25
+		}
+	]
+}

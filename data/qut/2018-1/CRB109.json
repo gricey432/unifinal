@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Data Response Test",
+			"weight": 50
+		}
+	]
+}

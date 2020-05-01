@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Trust Accounts online exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 55
+		}
+	]
+}

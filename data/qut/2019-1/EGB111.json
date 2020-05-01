@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Portfolio",
+			"weight": 45
+		},
+		{
+			"name": "Project Performance",
+			"weight": 20
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 35
+		}
+	]
+}

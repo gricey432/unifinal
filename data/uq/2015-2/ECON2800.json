@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Evaluating Peer Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

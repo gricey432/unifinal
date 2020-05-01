@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": " Video: Speech perception tests",
+			"weight": 10
+		},
+		{
+			"name": "Presentation: Speech perception tests",
+			"weight": 0
+		},
+		{
+			"name": "Observing children's communication development ",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

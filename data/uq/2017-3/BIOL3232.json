@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes: modules 1 & 2",
+			"weight": "part of 10"
+		},
+		{
+			"name": "Quizzes: module 3",
+			"weight": "part of 10"
+		},
+		{
+			"name": "Presentation on insect family",
+			"weight": 10
+		},
+		{
+			"name": "Insect Collection",
+			"weight": 40
+		},
+		{
+			"name": "Final exam - open book",
+			"weight": 40
+		}
+	]
+}

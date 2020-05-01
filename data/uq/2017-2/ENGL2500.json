@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation, Participation & Weekly Responses",
+			"weight": 10
+		},
+		{
+			"name": "Class Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Essay One",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 25
+		},
+		{
+			"name": "Essay Two",
+			"weight": 35
+		}
+	]
+}

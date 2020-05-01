@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creating Change for Sustainability ",
+			"weight": 20
+		},
+		{
+			"name": "Team Presentation & Report",
+			"weight": 30
+		},
+		{
+			"name": "Major Project",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Research Report",
+			"weight": 50
+		},
+		{
+			"name": "Project proposal and literature review",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of Research Report",
+			"weight": 30
+		}
+	]
+}

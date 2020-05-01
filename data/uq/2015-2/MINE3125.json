@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Machine Mining Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Group research and presentations",
+			"weight": 10
+		},
+		{
+			"name": "Drilling and Blasting Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Drilling and Blasting Final Exam",
+			"weight": 35
+		}
+	]
+}

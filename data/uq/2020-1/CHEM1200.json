@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Three On-line Practicals",
+			"weight": 15
+		},
+		{
+			"name": "Computer Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Think.Chat.Learn",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

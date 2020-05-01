@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Collective Assessment - T1",
+			"weight": 40
+		},
+		{
+			"name": "Mid-trimester laboratory exam",
+			"weight": 12
+		},
+		{
+			"name": "Final laboratory exam",
+			"weight": 12
+		},
+		{
+			"name": "End of Trimester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Collective Assessment - T1",
+			"weight": 35
+		},
+		{
+			"name": "Written Exam - T2",
+			"weight": 15
+		},
+		{
+			"name": "Communication Skills Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Self Reflection - T2",
+			"weight": 10
+		},
+		{
+			"name": "Communication Skills Practical Exam",
+			"weight": 30
+		},
+		{
+			"name": "Manual Dexterity Exercises",
+			"weight": 0
+		}
+	]
+}

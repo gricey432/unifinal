@@ -1,0 +1,104 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz #1",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #2",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #3",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #4",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 4",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #5",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 5: Mon, Tue, & Wed only",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Quiz 6: Mon, Tues, Wed only",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 6(M,T,W); Fri: Do Set 5",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #7; Friday workshop: Quiz 6",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 7 (M,T); Fri: Do Set 6",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #8 Mon & Wed; Friday workshop: Quiz 7",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 8 (M,T); Wed & Fri: Do Set 7",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #9 Mon & Tue only; Wed & Fri: Quiz 8",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 8 (Wed & Fri only)",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #9 Wed & Fri only",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 9",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #10",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 10",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #11",
+			"weight": "Average 12 Quizzes = 65"
+		},
+		{
+			"name": "Problem Set 11",
+			"weight": "Avg of 11 Problem Sets = 35"
+		},
+		{
+			"name": "Online Quiz #12",
+			"weight": "Average 12 Quizzes = 65"
+		}
+	]
+}

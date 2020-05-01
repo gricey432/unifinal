@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook Completion and self-correction",
+			"weight": 5
+		},
+		{
+			"name": "Regular online quizzes for script and vocabulary",
+			"weight": 8
+		},
+		{
+			"name": "Weekly Tasks",
+			"weight": 7
+		},
+		{
+			"name": "Test 1 (Week 6 Contact)",
+			"weight": 20
+		},
+		{
+			"name": "Test 2 (Week 11 Tutorial)",
+			"weight": 35
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 25
+		}
+	]
+}

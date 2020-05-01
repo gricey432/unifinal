@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paper Discussions",
+			"weight": 10
+		},
+		{
+			"name": "Practical series and homework",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Field trip",
+			"weight": 10
+		},
+		{
+			"name": "Practical exam",
+			"weight": 20
+		},
+		{
+			"name": "Final theory exam",
+			"weight": 40
+		}
+	]
+}

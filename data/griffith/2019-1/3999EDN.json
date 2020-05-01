@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "The professional experience report ",
+			"weight": 50
+		},
+		{
+			"name": "Digital professional portfolio",
+			"weight": 50
+		}
+	]
+}

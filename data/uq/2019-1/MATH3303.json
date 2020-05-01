@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": 30
+		},
+		{
+			"name": "45-minute class quiz",
+			"weight": 20
+		},
+		{
+			"name": "45-minute class quiz",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "45-minute class quiz",
+			"weight": 20
+		}
+	]
+}

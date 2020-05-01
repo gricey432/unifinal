@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "Alcohol ",
+			"weight": 10
+		},
+		{
+			"name": "Identification of Unknowns Lab Report",
+			"weight": 20
+		},
+		{
+			"name": "Oxytocin, Tocolytics and NSAIDs",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 45
+		}
+	]
+}

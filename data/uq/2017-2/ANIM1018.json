@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "External practical reporting",
+			"weight": 20
+		},
+		{
+			"name": "Production assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 60
+		}
+	]
+}

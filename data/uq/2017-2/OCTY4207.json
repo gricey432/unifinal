@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Meets Practice Online Reflections",
+			"weight": 34
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 33
+		},
+		{
+			"name": "Social Change Strategy",
+			"weight": 33
+		}
+	]
+}

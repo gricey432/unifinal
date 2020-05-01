@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Quizes",
+			"weight": 10
+		},
+		{
+			"name": "Unit of Work in Science",
+			"weight": 30
+		},
+		{
+			"name": "Design a Science Experiment",
+			"weight": 30
+		},
+		{
+			"name": "Teaching a Concept",
+			"weight": 30
+		}
+	]
+}

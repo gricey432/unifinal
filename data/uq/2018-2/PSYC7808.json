@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Development of Plan for Group Sessions",
+			"weight": 45
+		},
+		{
+			"name": "Area of Health Care: Part B Executive  Summary",
+			"weight": 20
+		},
+		{
+			"name": "Area of Health Care: Part A  (Presentation) ",
+			"weight": 25
+		},
+		{
+			"name": "Letters to the People",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Commentary for The Australian",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Epidemiology of an NCD",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 4: Levels of Prevention for an NCD",
+			"weight": 35
+		}
+	]
+}

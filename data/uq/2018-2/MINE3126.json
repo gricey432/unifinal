@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Metal Mining Project Group Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Group Report Metal Mining Project",
+			"weight": 35
+		},
+		{
+			"name": "Coal Project Group Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Group Report Coal Project",
+			"weight": 35
+		}
+	]
+}

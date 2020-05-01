@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Green Marketing Context Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2: Concepts test",
+			"weight": 15
+		},
+		{
+			"name": "Green Marketing Observation & Analysis Portfolio",
+			"weight": 50
+		}
+	]
+}

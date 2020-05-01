@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative Practice Sim.",
+			"weight": 0
+		},
+		{
+			"name": "Online Healthcare Modules",
+			"weight": 0
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		}
+	]
+}

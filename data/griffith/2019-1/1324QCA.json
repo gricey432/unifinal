@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-term folio",
+			"weight": 40
+		},
+		{
+			"name": "End of Term Folio",
+			"weight": 40
+		},
+		{
+			"name": "Process Folio/ePortfolio",
+			"weight": 20
+		}
+	]
+}

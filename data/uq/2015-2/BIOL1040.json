@@ -1,0 +1,68 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Core Competencies (4)",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Practical Report - Plants",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Personal Response",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Professional Response",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "PowerPoint Presentation",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "On-line Discussion: Deadline for posting questions",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "On-line Discussion: Deadline for posting answers",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Group Work",
+			"weight": "See Grading Matrix"
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 1 - Modules 1&2",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 2 - Modules 3&4",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge - Mastering Biology Quiz 3 - Modules 5&6",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge - Examination",
+			"weight": 85
+		}
+	]
+}

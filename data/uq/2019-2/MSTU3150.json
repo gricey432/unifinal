@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly in-class quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Evaluative Criticism Paper",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

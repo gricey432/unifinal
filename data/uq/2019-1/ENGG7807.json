@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Progress Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Seminar Attendance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Conference Paper",
+			"weight": 10
+		},
+		{
+			"name": "Poster and Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "Thesis Report Submission",
+			"weight": 50
+		}
+	]
+}

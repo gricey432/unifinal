@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique (written)",
+			"weight": 40
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		},
+		{
+			"name": "Portfolio",
+			"weight": 60
+		}
+	]
+}

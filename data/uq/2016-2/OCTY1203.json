@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Case Report with Peer Feedback",
+			"weight": 15
+		},
+		{
+			"name": "Knox Preschool Play Scale: Interview & Report",
+			"weight": 35
+		},
+		{
+			"name": "End Semester Examination (Central)",
+			"weight": 50
+		}
+	]
+}

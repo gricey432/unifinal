@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for written assignment",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of Management Issue",
+			"weight": 30
+		},
+		{
+			"name": "Learning Journal",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

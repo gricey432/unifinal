@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Infant Simulation & Standardised Patient Fieldwork",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam (in class)",
+			"weight": 30
+		},
+		{
+			"name": "Case Assignment with Oral Examination",
+			"weight": 55
+		}
+	]
+}

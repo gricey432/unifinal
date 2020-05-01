@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pearson Mastering Physics Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Experiment 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Experiment 2",
+			"weight": 25
+		},
+		{
+			"name": "End Of Semester Exam",
+			"weight": 20
+		}
+	]
+}

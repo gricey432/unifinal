@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 1. Literature & draft plan ",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Critical literature review",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Oral presentation",
+			"weight": 15
+		},
+		{
+			"name": "Open Book Exam",
+			"weight": 30
+		}
+	]
+}

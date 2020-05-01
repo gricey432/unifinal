@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution 1",
+			"weight": 7
+		},
+		{
+			"name": "Project Execution 2",
+			"weight": 7
+		},
+		{
+			"name": "Guidelines, Please Read",
+			"weight": 0
+		},
+		{
+			"name": "OHS",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "<200 word Abstract, electronic submission",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim Report 1",
+			"weight": 10
+		},
+		{
+			"name": "<200 word Abstract, electronic submission",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 60
+		},
+		{
+			"name": "Seminar 1",
+			"weight": 5
+		},
+		{
+			"name": "Seminar 2",
+			"weight": 10
+		}
+	]
+}

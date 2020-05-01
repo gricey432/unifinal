@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and Poster",
+			"weight": 25
+		},
+		{
+			"name": "Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Essay - Power, Structure and Agency",
+			"weight": 45
+		}
+	]
+}

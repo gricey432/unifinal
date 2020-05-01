@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 20
+		},
+		{
+			"name": "Course Reading Response",
+			"weight": 20
+		},
+		{
+			"name": "Major Critical Essay",
+			"weight": 60
+		}
+	]
+}

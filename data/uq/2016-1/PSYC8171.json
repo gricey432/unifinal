@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnosis and Management of Paediatric Disorders",
+			"weight": 30
+		},
+		{
+			"name": "Neuropsychological rehabilitation",
+			"weight": 40
+		},
+		{
+			"name": "Written Case Rehabilitation Report",
+			"weight": 30
+		}
+	]
+}

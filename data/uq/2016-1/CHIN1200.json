@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Character Practice Booklet",
+			"weight": 10
+		},
+		{
+			"name": "Test 1",
+			"weight": 10
+		},
+		{
+			"name": "4 Lesson Review Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Word Processing Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Test 3",
+			"weight": 30
+		}
+	]
+}

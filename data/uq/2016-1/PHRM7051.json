@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module Participation and Completion",
+			"weight": 12
+		},
+		{
+			"name": "Peer Evaluation of Group Contributions",
+			"weight": 2
+		},
+		{
+			"name": "\"Satisfactory\" attendance of online tutorials",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": 12
+		},
+		{
+			"name": "Business Case",
+			"weight": 35
+		},
+		{
+			"name": "Interview with manager",
+			"weight": 12
+		},
+		{
+			"name": "Analysis of journal article",
+			"weight": 12
+		},
+		{
+			"name": "Review of a Business Case ",
+			"weight": 15
+		}
+	]
+}

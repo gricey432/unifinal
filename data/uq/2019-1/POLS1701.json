@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 8
+		},
+		{
+			"name": "Discussion of Lecture Topic",
+			"weight": 20
+		},
+		{
+			"name": "Essay (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 32
+		}
+	]
+}

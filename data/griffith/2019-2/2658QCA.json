@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Research Poster",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2 Concept",
+			"weight": 40
+		},
+		{
+			"name": "Portfolio",
+			"weight": 35
+		}
+	]
+}

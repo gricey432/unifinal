@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz 1: Physiology of ageing",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 2: Oral Glucose Tolerance Test",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 3: Quality Use of Medicines",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 4: Somatosensory physiology",
+			"weight": 3
+		},
+		{
+			"name": "In Class Quiz 5: Integration",
+			"weight": 3
+		},
+		{
+			"name": "Fact Sheet on one disruption of homeostasis",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 55
+		}
+	]
+}

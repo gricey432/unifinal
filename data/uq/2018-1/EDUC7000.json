@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2 Discussion Board Activity",
+			"weight": 20
+		},
+		{
+			"name": "Positive Youth Development: A New Approach",
+			"weight": 35
+		},
+		{
+			"name": "Adolescent Dilemma in Context",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Test Formal In-class",
+			"weight": 25
+		},
+		{
+			"name": "Formal In-class Debates on Contemporary IB Issues",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes 1 & 2",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory reports for labs",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Biomaterials Innovation (1998-2018)",
+			"weight": 15
+		},
+		{
+			"name": "Biomaterials Innovation (1998-2018)",
+			"weight": 15
+		},
+		{
+			"name": "Biocompatibility",
+			"weight": 10
+		},
+		{
+			"name": "Major Literature Review - Team Scoping Evidence",
+			"weight": 10
+		},
+		{
+			"name": "Mechanical Properties of Biomaterials",
+			"weight": 10
+		},
+		{
+			"name": "Major Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "CHEE4305 Key Learnings",
+			"weight": 10
+		}
+	]
+}

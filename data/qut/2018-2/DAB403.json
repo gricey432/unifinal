@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design (Project 1)",
+			"weight": 40
+		},
+		{
+			"name": "Professional Plans (Project 2)",
+			"weight": 60
+		}
+	]
+}

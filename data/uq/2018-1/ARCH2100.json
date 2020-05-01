@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1.0 Concept Design - Form Finding",
+			"weight": 40
+		},
+		{
+			"name": "2.0 Developed Design - Form / Space Resolution",
+			"weight": 60
+		}
+	]
+}

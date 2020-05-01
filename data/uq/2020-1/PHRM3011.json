@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop learning activities (practicals)",
+			"weight": 0
+		},
+		{
+			"name": "Dispensing Accuracy Test (week 5)",
+			"weight": 5
+		},
+		{
+			"name": "Online invigilated examination (written exam)",
+			"weight": 60
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "5 Quizzes-see below"
+		},
+		{
+			"name": "1) Dispensing & Smoking Cessation (starts week 1)",
+			"weight": 3
+		},
+		{
+			"name": "2) Arrhythmias (starts week 3)",
+			"weight": 3
+		},
+		{
+			"name": "3) Hypertension (starts week 6)",
+			"weight": 3
+		},
+		{
+			"name": "4) Coronary Heart Disease (starts week 8)",
+			"weight": 3
+		},
+		{
+			"name": "5) Heart failure (starts week 10)",
+			"weight": 3
+		}
+	]
+}

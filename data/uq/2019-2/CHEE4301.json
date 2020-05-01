@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Crystallography",
+			"weight": 4
+		},
+		{
+			"name": "Diffraction",
+			"weight": 4
+		},
+		{
+			"name": "XPS",
+			"weight": 4
+		},
+		{
+			"name": "Synthesis of Thermoelectric Nanostructures",
+			"weight": 20
+		},
+		{
+			"name": "Crystal Structure Modelling",
+			"weight": 6
+		},
+		{
+			"name": "Magnetic Nanostructures",
+			"weight": 4
+		},
+		{
+			"name": "Electrochemical Characterisation of Magnetic NPs",
+			"weight": 10
+		},
+		{
+			"name": "Nanomaterials for Energy Applications",
+			"weight": 4
+		},
+		{
+			"name": "Nanoporous and their Applications",
+			"weight": 4
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

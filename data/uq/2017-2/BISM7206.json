@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SQL skills quizzes",
+			"weight": 21
+		},
+		{
+			"name": "Business Analytics and Data Quality",
+			"weight": 15
+		},
+		{
+			"name": "System Development",
+			"weight": 24
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

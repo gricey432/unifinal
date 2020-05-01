@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Accuracy test",
+			"weight": 10
+		},
+		{
+			"name": "Speaking Assessment 1",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on Performance in interview",
+			"weight": 10
+		},
+		{
+			"name": "In-class Survey",
+			"weight": 20
+		},
+		{
+			"name": "Opinion paragraph",
+			"weight": 20
+		},
+		{
+			"name": "Speaking and Listening Performance",
+			"weight": 20
+		}
+	]
+}

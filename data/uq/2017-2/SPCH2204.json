@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MODULE 1: Blackboard Quiz for CNS/PNS content",
+			"weight": 10
+		},
+		{
+			"name": "MODULE 2: Adult Motor Speech Disorders",
+			"weight": 50
+		},
+		{
+			"name": "MODULE 3: Paediatric Motor Speech Disorders",
+			"weight": 40
+		}
+	]
+}

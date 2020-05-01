@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Arts and Creativity Content Knowledge and Resource",
+			"weight": 60
+		},
+		{
+			"name": "Assessment 2 - Leading with Drama",
+			"weight": 40
+		}
+	]
+}

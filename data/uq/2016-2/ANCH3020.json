@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Self-Reflection on Group-Project",
+			"weight": 5
+		},
+		{
+			"name": "Course Examination",
+			"weight": 40
+		}
+	]
+}

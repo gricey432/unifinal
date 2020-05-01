@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Six Quizzes",
+			"weight": 90
+		},
+		{
+			"name": "Organic Functional Groups & Unknowns-Lab Report",
+			"weight": 10
+		}
+	]
+}

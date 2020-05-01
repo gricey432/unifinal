@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical and Short Answer Written Exam",
+			"weight": 50
+		},
+		{
+			"name": "Computer based online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Video group assignment",
+			"weight": 10
+		}
+	]
+}

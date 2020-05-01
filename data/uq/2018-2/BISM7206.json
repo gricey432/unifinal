@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Analytics and Data Quality",
+			"weight": 20
+		},
+		{
+			"name": "System Development",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

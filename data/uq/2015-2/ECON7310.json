@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Stage 1 of Research Project: Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 55
+		},
+		{
+			"name": "Stage 2 of Research Project: Implementation",
+			"weight": 10
+		}
+	]
+}

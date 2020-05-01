@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "ANIM1006 Online Exam",
+			"weight": 15
+		},
+		{
+			"name": "Equine Unit Duty",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Equine Husbandry Theory activities",
+			"weight": 0
+		},
+		{
+			"name": "Equine enterprise evaluation.",
+			"weight": 5
+		},
+		{
+			"name": "Evaluation of an Equine Enterprise.",
+			"weight": 20
+		},
+		{
+			"name": "Facility Management Report",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

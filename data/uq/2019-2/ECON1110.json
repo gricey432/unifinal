@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on Topics (Weeks) 1-3",
+			"weight": 20
+		},
+		{
+			"name": "Briefing Paper",
+			"weight": 25
+		},
+		{
+			"name": "End-of-semester examination",
+			"weight": 55
+		}
+	]
+}

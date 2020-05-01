@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Online Survey",
+			"weight": 1
+		},
+		{
+			"name": "Pixels Project",
+			"weight": 1
+		},
+		{
+			"name": "Statistical Review",
+			"weight": 4
+		},
+		{
+			"name": "Ethics Review",
+			"weight": 8
+		},
+		{
+			"name": "Research Project",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination",
+			"weight": 64
+		}
+	]
+}

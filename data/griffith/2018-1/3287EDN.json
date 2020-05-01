@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom scenario ",
+			"weight": 50
+		},
+		{
+			"name": "Professional Experience Report",
+			"weight": 50
+		}
+	]
+}

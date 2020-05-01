@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple Choice Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Comparing and contrasting theoretical approaches",
+			"weight": 45
+		},
+		{
+			"name": "Case Conceptualisation Competency",
+			"weight": 30
+		}
+	]
+}

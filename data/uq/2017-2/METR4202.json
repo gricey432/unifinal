@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Kinematics",
+			"weight": 10
+		},
+		{
+			"name": "Sensing & State-Space Control ",
+			"weight": 10
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Systems Lab",
+			"weight": 50
+		}
+	]
+}

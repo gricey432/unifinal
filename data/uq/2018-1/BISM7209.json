@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asset safeguarding individual essay",
+			"weight": 20
+		},
+		{
+			"name": "Project completed by pairs (2) of students",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short Answer Questions",
+			"weight": 10
+		},
+		{
+			"name": "Project A - Report",
+			"weight": 20
+		},
+		{
+			"name": "Project B - Report",
+			"weight": 20
+		},
+		{
+			"name": "Oral",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

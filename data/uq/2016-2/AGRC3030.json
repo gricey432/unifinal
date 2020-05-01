@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Report",
+			"weight": 70
+		},
+		{
+			"name": "Oral Presentation at Workplace",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Project Plan",
+			"weight": 30
+		}
+	]
+}

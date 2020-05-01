@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Auditor's Independence Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2:Risk Assessment & Audit Strategy ",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 60
+		}
+	]
+}

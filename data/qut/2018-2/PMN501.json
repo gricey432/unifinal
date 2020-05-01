@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/Test",
+			"weight": 20
+		},
+		{
+			"name": "Business Case",
+			"weight": 60
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		}
+	]
+}

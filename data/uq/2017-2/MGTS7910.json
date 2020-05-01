@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Team Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Innovation Business Model",
+			"weight": 50
+		}
+	]
+}

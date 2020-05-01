@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid term exam",
+			"weight": 30
+		},
+		{
+			"name": "Economic analysis of an article",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

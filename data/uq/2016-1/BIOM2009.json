@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Virtual Ileum Appendix",
+			"weight": 5
+		},
+		{
+			"name": "Group Laboratory Seminar & Questions",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

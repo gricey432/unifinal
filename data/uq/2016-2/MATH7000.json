@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "1",
+			"weight": 3
+		},
+		{
+			"name": "2",
+			"weight": 3
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 15
+		},
+		{
+			"name": "3",
+			"weight": 3
+		},
+		{
+			"name": "4",
+			"weight": 3
+		},
+		{
+			"name": "Masters' Assignment",
+			"weight": 10
+		},
+		{
+			"name": "5",
+			"weight": 3
+		},
+		{
+			"name": "Final",
+			"weight": 60
+		}
+	]
+}

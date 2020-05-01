@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Part A: Compare and Contrast [APST: 2.1; 6.2]",
+			"weight": 10
+		},
+		{
+			"name": "Part B: Argumentative Essay [APST: 2.1; 6.2]",
+			"weight": 30
+		},
+		{
+			"name": "APST: 2.1",
+			"weight": 20
+		},
+		{
+			"name": "APST: 2.1; 2.2; 2.3; 3.2; 3.3; 3.4",
+			"weight": 40
+		}
+	]
+}

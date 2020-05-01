@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Short Answer Exam ",
+			"weight": 25
+		},
+		{
+			"name": "Patient management task",
+			"weight": 10
+		},
+		{
+			"name": "Written Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Case based practical station examination ",
+			"weight": 35
+		}
+	]
+}

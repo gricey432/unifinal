@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Event Promotion Plan",
+			"weight": 35
+		},
+		{
+			"name": "Sponsorship Proposal",
+			"weight": 40
+		}
+	]
+}

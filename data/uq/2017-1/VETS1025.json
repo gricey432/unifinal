@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Handling all core species",
+			"weight": 20
+		},
+		{
+			"name": "End of semester 1 Exam - 2 hour",
+			"weight": 30
+		},
+		{
+			"name": "Husbandry management of a chosen species",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester 2 examination",
+			"weight": 30
+		}
+	]
+}

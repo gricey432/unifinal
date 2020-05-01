@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard posting and discussion board",
+			"weight": 10
+		},
+		{
+			"name": "What constitutes evidence in education?",
+			"weight": 50
+		},
+		{
+			"name": "Critique of practitioner research approaches",
+			"weight": 40
+		}
+	]
+}

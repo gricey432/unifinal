@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Workbook  ",
+			"weight": 10
+		},
+		{
+			"name": "Health & Safety Induction Module",
+			"weight": 0
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Research Encounter",
+			"weight": 10
+		},
+		{
+			"name": "Competency Based Lab Exam",
+			"weight": 10
+		},
+		{
+			"name": "End Sem Exam ",
+			"weight": 40
+		}
+	]
+}

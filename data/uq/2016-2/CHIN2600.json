@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Attendance and class participation ",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Final exam ",
+			"weight": 50
+		}
+	]
+}

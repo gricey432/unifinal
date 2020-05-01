@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial reading reports",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial participation (or written work)",
+			"weight": 10
+		},
+		{
+			"name": "Liberalisms quiz",
+			"weight": 10
+		},
+		{
+			"name": "Modern Western political ideas quiz",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (1700 words)",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

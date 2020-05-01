@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PEARL reflective summaries",
+			"weight": 30
+		},
+		{
+			"name": "Critical summary of readings",
+			"weight": 25
+		},
+		{
+			"name": "Short answer questions",
+			"weight": 10
+		},
+		{
+			"name": "Reflective research essay",
+			"weight": 35
+		}
+	]
+}

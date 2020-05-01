@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Five Practicals",
+			"weight": 25
+		},
+		{
+			"name": "Sapling Learning Computer Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 45
+		}
+	]
+}

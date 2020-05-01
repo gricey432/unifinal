@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mentor Meetings",
+			"weight": "used to moderate project mark"
+		},
+		{
+			"name": "Project Report 1",
+			"weight": 40
+		},
+		{
+			"name": "Project Report 2",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		}
+	]
+}

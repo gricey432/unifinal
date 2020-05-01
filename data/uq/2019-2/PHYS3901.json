@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Field Trip to the Physics Colloquium",
+			"weight": 20
+		},
+		{
+			"name": "Project proposal",
+			"weight": 5
+		},
+		{
+			"name": "Report plan",
+			"weight": 10
+		},
+		{
+			"name": "Presentation plan",
+			"weight": 10
+		},
+		{
+			"name": "Project presentation",
+			"weight": 15
+		},
+		{
+			"name": "Project Report",
+			"weight": 40
+		}
+	]
+}

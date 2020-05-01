@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Functional Group Report",
+			"weight": 5
+		},
+		{
+			"name": "Quiz Cycle 1",
+			"weight": 13
+		},
+		{
+			"name": "Quiz Cycle 2",
+			"weight": 13
+		},
+		{
+			"name": "Quiz Cycle 3",
+			"weight": 13
+		},
+		{
+			"name": "Laboratory Reports - Unknowns 1 & 2",
+			"weight": 14
+		},
+		{
+			"name": "Quiz Cycle 4",
+			"weight": 13
+		},
+		{
+			"name": "Quiz Cycle 5",
+			"weight": 13
+		},
+		{
+			"name": "Quiz Cycle 6",
+			"weight": 13
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Progress Test 1 ",
+			"weight": 15
+		},
+		{
+			"name": "Homework Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Progress Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Homework Assignment 3",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Major Studio Project Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Major Studio Project Progress Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Submission of Major Studio Project",
+			"weight": 0
+		},
+		{
+			"name": "Major Studio Project Final Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Learning Journal",
+			"weight": 25
+		}
+	]
+}

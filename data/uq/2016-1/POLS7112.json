@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation and Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Ministerial Briefing",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 40
+		},
+		{
+			"name": "Introduction to Policy Exam ",
+			"weight": 20
+		}
+	]
+}

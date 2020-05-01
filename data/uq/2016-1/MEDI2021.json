@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio Assignments (Formative and Summative)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Practice Masterclasses",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Procedural Skills Workshop ",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "DVD Simulated Patient Recording and Review Session",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Professional Behaviour Assessment (Formative)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

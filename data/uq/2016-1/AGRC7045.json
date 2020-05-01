@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Mind Map of Potential Research Project",
+			"weight": 5
+		},
+		{
+			"name": "Aims and Research Questions",
+			"weight": 5
+		},
+		{
+			"name": "Annotated bibliography of select refereed articles",
+			"weight": 5
+		},
+		{
+			"name": "Research Paradigms - Personal Reflection",
+			"weight": 5
+		},
+		{
+			"name": "Outline of project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Group Assignment - Expt Design or Survey Design",
+			"weight": 5
+		},
+		{
+			"name": "Group Assignment - Focus Group or Animal Studies",
+			"weight": 5
+		},
+		{
+			"name": "Ethics in research",
+			"weight": 5
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Written project proposal",
+			"weight": 40
+		}
+	]
+}

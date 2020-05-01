@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "An article or video for the ALB or a Poster",
+			"weight": 20
+		},
+		{
+			"name": "Short response to an article or video on ALB",
+			"weight": 5
+		},
+		{
+			"name": "Compilation of reference material",
+			"weight": 5
+		},
+		{
+			"name": "Exam with briefing note and short answer reponses",
+			"weight": 70
+		}
+	]
+}

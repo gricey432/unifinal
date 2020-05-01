@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Business Law Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Business Law Assignment",
+			"weight": 30
+		},
+		{
+			"name": "First Corporate Law In Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Second Corporate Law In Class Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam for Corporate Law content",
+			"weight": 40
+		}
+	]
+}

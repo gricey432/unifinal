@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Applied skills and knowledge",
+			"weight": 20
+		},
+		{
+			"name": "Research project (1500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Case study short answer exam",
+			"weight": 40
+		}
+	]
+}

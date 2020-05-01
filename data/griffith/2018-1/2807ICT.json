@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assessed Lab",
+			"weight": 5
+		},
+		{
+			"name": "Assessed Lab",
+			"weight": 7
+		},
+		{
+			"name": "Assessed Lab",
+			"weight": 9
+		},
+		{
+			"name": "In-Trimester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 19
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

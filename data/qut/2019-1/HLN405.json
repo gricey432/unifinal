@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Presentation (Oral)",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "Qualitative Research proposal",
+			"weight": 40
+		}
+	]
+}

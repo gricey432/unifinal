@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and active participation",
+			"weight": 10
+		},
+		{
+			"name": "Survey development and critique",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz ",
+			"weight": 10
+		},
+		{
+			"name": "Qualitative assignment - interview activity",
+			"weight": 25
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		}
+	]
+}

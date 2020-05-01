@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibliography for Readings 1-3",
+			"weight": 9
+		},
+		{
+			"name": "Annotated bibliography for Readings 4-10",
+			"weight": 70
+		},
+		{
+			"name": "The Social Media Interaction Project",
+			"weight": 21
+		}
+	]
+}

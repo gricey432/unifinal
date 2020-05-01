@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review",
+			"weight": 20
+		},
+		{
+			"name": "Assignment based excursion, OR in-lieu assignment",
+			"weight": 30
+		},
+		{
+			"name": "Attendance on Western Tour",
+			"weight": "Compulsory unless granted exemption"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

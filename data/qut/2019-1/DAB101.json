@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "2D 3D representational work",
+			"weight": 40
+		},
+		{
+			"name": "Architectural Design",
+			"weight": 60
+		}
+	]
+}

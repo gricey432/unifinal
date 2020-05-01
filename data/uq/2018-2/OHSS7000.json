@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Hazardous Manual Tasks Case Study",
+			"weight": 10
+		},
+		{
+			"name": "Hazardous Chemicals Case Study",
+			"weight": 10
+		},
+		{
+			"name": "EOS Exam",
+			"weight": 50
+		},
+		{
+			"name": "Part A",
+			"weight": 9
+		},
+		{
+			"name": "Part B",
+			"weight": 6
+		},
+		{
+			"name": "Part C",
+			"weight": 6
+		},
+		{
+			"name": "Part D",
+			"weight": 9
+		}
+	]
+}

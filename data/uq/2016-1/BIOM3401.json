@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Alcohol ",
+			"weight": 10
+		},
+		{
+			"name": "Aspirin analysis and report",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal for Over the Counter Testing",
+			"weight": 5
+		},
+		{
+			"name": "Over the Counter Drug Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory-based practicals",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz on extemporaneous compounding SDL",
+			"weight": 20
+		},
+		{
+			"name": "Online non-invigilated examination",
+			"weight": 70
+		}
+	]
+}

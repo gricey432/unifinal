@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Health and the socio-cultural environment",
+			"weight": 25
+		},
+		{
+			"name": "In class on line Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Health across the Lifecourse",
+			"weight": 35
+		},
+		{
+			"name": "In class on line Quiz 2",
+			"weight": 20
+		}
+	]
+}

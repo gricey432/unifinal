@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Internship Plan Part A",
+			"weight": 5
+		},
+		{
+			"name": "Internship Plan Part B",
+			"weight": 25
+		},
+		{
+			"name": "Peer Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Internship Report",
+			"weight": 45
+		},
+		{
+			"name": "Internship Conduct",
+			"weight": 5
+		}
+	]
+}

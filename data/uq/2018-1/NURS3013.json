@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Safety ",
+			"weight": 50
+		},
+		{
+			"name": "Case study and patient education ",
+			"weight": 50
+		}
+	]
+}

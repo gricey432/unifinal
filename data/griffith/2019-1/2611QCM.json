@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Three sets of practical tests (individual/group)",
+			"weight": 40
+		},
+		{
+			"name": "Aural Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Exam - Aural Perception",
+			"weight": 30
+		},
+		{
+			"name": "Exam - Visual Perception",
+			"weight": 10
+		}
+	]
+}

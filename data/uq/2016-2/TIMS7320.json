@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": ".",
+			"weight": 30
+		},
+		{
+			"name": "Lean Canvass Development",
+			"weight": 30
+		},
+		{
+			"name": "Product Management Plan",
+			"weight": 40
+		}
+	]
+}

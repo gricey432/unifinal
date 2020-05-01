@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sports Show Review",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Report",
+			"weight": 25
+		},
+		{
+			"name": "Participation and Engagement",
+			"weight": 30
+		},
+		{
+			"name": "Livestream Assessment",
+			"weight": 25
+		}
+	]
+}

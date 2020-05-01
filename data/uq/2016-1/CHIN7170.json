@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Field practice report",
+			"weight": 70
+		},
+		{
+			"name": "Practice diary",
+			"weight": 30
+		}
+	]
+}

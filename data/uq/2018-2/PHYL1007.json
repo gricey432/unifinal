@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in PASS classes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Practical Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical Test 3",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester theory exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester theory exam",
+			"weight": 40
+		}
+	]
+}

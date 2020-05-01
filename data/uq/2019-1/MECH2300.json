@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Bending of Beams Experiment",
+			"weight": 8
+		},
+		{
+			"name": "Reports on Studios (4x2)",
+			"weight": 8
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 14
+		},
+		{
+			"name": "Risk Assessment Report for Integrated Assignment",
+			"weight": 4
+		},
+		{
+			"name": "Integrated Assignment - Report",
+			"weight": 16
+		},
+		{
+			"name": "Structures and Materials End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

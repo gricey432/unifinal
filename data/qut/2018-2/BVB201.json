@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 50
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 30
+		},
+		{
+			"name": "Presentation (Oral or Group)",
+			"weight": 20
+		}
+	]
+}

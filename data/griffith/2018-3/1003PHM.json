@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Pharmacology Assignment",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

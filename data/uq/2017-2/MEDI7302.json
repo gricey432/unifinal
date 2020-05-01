@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Viva examination",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Question Examination",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "PASS/FAIL (To pass the course, students must pass this regardless of marks in other assessments)"
+		},
+		{
+			"name": "Observed Clinical Interview",
+			"weight": 30
+		}
+	]
+}

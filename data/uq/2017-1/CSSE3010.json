@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project stage sessions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project1 ",
+			"weight": 25
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Project2 final demo",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 35
+		}
+	]
+}

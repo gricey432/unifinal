@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz: Course Readings ",
+			"weight": 10
+		},
+		{
+			"name": "Pearl Presentations",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on representations of Aboriginal women",
+			"weight": 15
+		},
+		{
+			"name": "Creative Work + Exegesis",
+			"weight": 45
+		}
+	]
+}

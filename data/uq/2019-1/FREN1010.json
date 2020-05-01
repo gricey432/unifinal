@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Forum Participation",
+			"weight": 5
+		},
+		{
+			"name": "In-class writing activity",
+			"weight": 10
+		},
+		{
+			"name": "Oral 1",
+			"weight": 15
+		},
+		{
+			"name": "In-class Grammar Test",
+			"weight": 10
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		},
+		{
+			"name": "Written and Listening exam",
+			"weight": 30
+		}
+	]
+}

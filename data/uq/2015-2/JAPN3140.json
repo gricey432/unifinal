@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation, preparation, homework",
+			"weight": 10
+		},
+		{
+			"name": "Childhood memoirs (first draft)",
+			"weight": 10
+		},
+		{
+			"name": "A small test",
+			"weight": 15
+		},
+		{
+			"name": "Writing Tasks(1&2)",
+			"weight": 10
+		},
+		{
+			"name": "in-class writing (opinion) ",
+			"weight": 15
+		},
+		{
+			"name": "Childhood memoirs (final version)",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Modules, Workshops & Symposium",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Annotated Bibliography for Food & Consumption ",
+			"weight": 10
+		},
+		{
+			"name": "Symposium Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Symposium Proposal - Pitch",
+			"weight": 5
+		},
+		{
+			"name": "Science Communication Review",
+			"weight": 15
+		},
+		{
+			"name": "Researcher Profile",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		}
+	]
+}

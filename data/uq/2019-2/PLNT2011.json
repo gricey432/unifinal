@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Class Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Scientific Communication",
+			"weight": 25
+		},
+		{
+			"name": "Disease susceptibility screening",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

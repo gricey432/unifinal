@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Experiments",
+			"weight": 20
+		},
+		{
+			"name": "Sapling Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Workshop Activities",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

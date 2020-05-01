@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Air pollutants ",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid-trimester examination",
+			"weight": 20
+		},
+		{
+			"name": "Particulate air pollutants",
+			"weight": 15
+		},
+		{
+			"name": "Design Project",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Organisations in a Carbon Constrained World",
+			"weight": 30
+		},
+		{
+			"name": "Practical Report",
+			"weight": 30
+		}
+	]
+}

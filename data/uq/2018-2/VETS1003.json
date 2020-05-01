@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Blackboard anatomy quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Anatomy Practical Exam",
+			"weight": 36
+		},
+		{
+			"name": "Anatomy/Physiology/Biochemistry/Nutrition Theory ",
+			"weight": 54
+		}
+	]
+}

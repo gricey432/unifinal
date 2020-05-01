@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture reflections",
+			"weight": 10
+		},
+		{
+			"name": "Assignment one",
+			"weight": 20
+		},
+		{
+			"name": "Assignment two",
+			"weight": 30
+		},
+		{
+			"name": "Assignment three",
+			"weight": 40
+		}
+	]
+}

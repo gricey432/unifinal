@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer Insight Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Perceptual Mapping Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Project",
+			"weight": 50
+		}
+	]
+}

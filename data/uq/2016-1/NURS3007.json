@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Time sheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical workshop",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance Portfolio",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Performance Portfolio",
+			"weight": "NGP"
+		}
+	]
+}

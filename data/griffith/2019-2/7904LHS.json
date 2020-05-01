@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "A Critical Analysis of Teaching Materials",
+			"weight": 40
+		},
+		{
+			"name": "Language Program Design and Justification",
+			"weight": 60
+		}
+	]
+}

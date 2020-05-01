@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The Woolly Mammoth",
+			"weight": 40
+		},
+		{
+			"name": "Practical sessions",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Activities",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

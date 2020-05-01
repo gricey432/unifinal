@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Activities (APST: 1,2,6,7)",
+			"weight": 20
+		},
+		{
+			"name": "Project Plan (APST: 1,2,3,5)",
+			"weight": 25
+		},
+		{
+			"name": "Enacting Comprehension Strategies (APST: 1-7)",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Learning Cycle (APST: 1,2,3,4,5)",
+			"weight": 25
+		}
+	]
+}

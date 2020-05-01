@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of a popular music event",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of a popular music artist",
+			"weight": 60
+		}
+	]
+}

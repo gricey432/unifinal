@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay (2000-3000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Preparation (5%) and Participation (10%)",
+			"weight": 15
+		},
+		{
+			"name": "Peer assessment of presentations",
+			"weight": 5
+		},
+		{
+			"name": "Oral class presentation",
+			"weight": 40
+		}
+	]
+}

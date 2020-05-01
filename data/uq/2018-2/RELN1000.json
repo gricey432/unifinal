@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Diary Entries ",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal (in preparation for major essay)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay: Places of Worship ",
+			"weight": 40
+		}
+	]
+}

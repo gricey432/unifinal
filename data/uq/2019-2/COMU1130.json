@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "In-class quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "In-class quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "In-class quiz 3",
+			"weight": 10
+		},
+		{
+			"name": "In-class quiz 4",
+			"weight": 10
+		},
+		{
+			"name": "The cultural internet",
+			"weight": 25
+		},
+		{
+			"name": "The technical internet - report",
+			"weight": 35
+		}
+	]
+}

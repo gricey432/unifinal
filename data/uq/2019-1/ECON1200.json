@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Creation of MCQ and numerical questions",
+			"weight": 10
+		},
+		{
+			"name": "In class exam 1",
+			"weight": 30
+		},
+		{
+			"name": "Contribution 2 ",
+			"weight": 10
+		},
+		{
+			"name": "In class exam 2",
+			"weight": 30
+		},
+		{
+			"name": "Contribution 3 ",
+			"weight": 10
+		}
+	]
+}

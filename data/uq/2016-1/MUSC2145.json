@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and Concert reviews Sem 1",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Engagement",
+			"weight": 20
+		},
+		{
+			"name": "Seminar presentation Sem 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Performance Sem 1",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Performance Sem 1",
+			"weight": 20
+		},
+		{
+			"name": "Seminar presentation Sem 2",
+			"weight": 10
+		},
+		{
+			"name": "Reflection and Concert reviews Sem 2",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Performances Sem 2",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Performance Sem 2",
+			"weight": 20
+		}
+	]
+}

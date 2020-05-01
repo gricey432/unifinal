@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Test",
+			"weight": 30
+		},
+		{
+			"name": "Group work",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

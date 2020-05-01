@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 1. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 2. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 3. Reaction /Phase Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Heat and Mass Balance",
+			"weight": 6
+		},
+		{
+			"name": "Week 7. Minor elements,gas/condensed phases",
+			"weight": 2
+		},
+		{
+			"name": "Week 8. Kinetics, reaction mechanisms",
+			"weight": 2
+		},
+		{
+			"name": "Week 10. Pb/Zn smelting",
+			"weight": 2
+		},
+		{
+			"name": "Week 11. Ironmaking",
+			"weight": 2
+		},
+		{
+			"name": "Week 12. Steelmaking",
+			"weight": 2
+		},
+		{
+			"name": "Cu smelting process design report ",
+			"weight": 18
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

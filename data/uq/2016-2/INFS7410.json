@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Text Processing",
+			"weight": 10
+		},
+		{
+			"name": "Indexing",
+			"weight": 15
+		},
+		{
+			"name": "Web Search and Retrieval  ",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

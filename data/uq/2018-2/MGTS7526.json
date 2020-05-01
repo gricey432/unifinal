@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Risk Modelling",
+			"weight": 40
+		},
+		{
+			"name": "Team Project",
+			"weight": 50
+		}
+	]
+}

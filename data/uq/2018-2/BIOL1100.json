@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes in tutorials",
+			"weight": 60
+		},
+		{
+			"name": "Essay on Selected Topic",
+			"weight": 40
+		}
+	]
+}

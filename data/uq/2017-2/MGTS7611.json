@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ED & OD Topic",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of ED & OD in Action",
+			"weight": 40
+		},
+		{
+			"name": "Semester 2 Exam",
+			"weight": 40
+		}
+	]
+}

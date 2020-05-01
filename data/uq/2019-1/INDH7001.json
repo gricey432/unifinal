@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Short Essay",
+			"weight": 20
+		},
+		{
+			"name": "Synopsis and critical reflection",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay on Substance Use Programs",
+			"weight": 50
+		}
+	]
+}

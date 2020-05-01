@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Medication Calculation Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "1807NRS Learning Activities Workbook",
+			"weight": 40
+		},
+		{
+			"name": "End Of Trimester Exam",
+			"weight": 50
+		}
+	]
+}

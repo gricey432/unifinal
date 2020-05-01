@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Module",
+			"weight": 0
+		},
+		{
+			"name": "Pre-Tutorial and Tutorial Work",
+			"weight": 10
+		},
+		{
+			"name": "Minor essay (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Major essay (1500 words)",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

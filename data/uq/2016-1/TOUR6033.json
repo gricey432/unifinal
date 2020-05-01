@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Critical Issues - Hospitality",
+			"weight": 50
+		},
+		{
+			"name": "Industry Critical Issues - Hospitality",
+			"weight": 30
+		},
+		{
+			"name": "Individual Oral Presentation",
+			"weight": 20
+		}
+	]
+}

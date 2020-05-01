@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report 1",
+			"weight": 25
+		},
+		{
+			"name": "Reporting for Sustainability",
+			"weight": 50
+		},
+		{
+			"name": "Practical Report 2",
+			"weight": 25
+		}
+	]
+}

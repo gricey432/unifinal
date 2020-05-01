@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Risk Assessments to be read and consented to.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Working circuit module on PCB & pdf of schematic",
+			"weight": 5
+		},
+		{
+			"name": "Initial Group Plan",
+			"weight": 5
+		},
+		{
+			"name": "Performance Review Meeting & Seminar I",
+			"weight": 10
+		},
+		{
+			"name": "Product",
+			"weight": 65
+		},
+		{
+			"name": "Progress Seminar 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": 5
+		}
+	]
+}

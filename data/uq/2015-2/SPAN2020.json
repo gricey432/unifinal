@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Asistencia y participación",
+			"weight": 5
+		},
+		{
+			"name": "Prueba 1 - Capítulo 12",
+			"weight": 12
+		},
+		{
+			"name": "Prueba 2 Cap. 13",
+			"weight": 13
+		},
+		{
+			"name": "Entrevista en pareja",
+			"weight": 10
+		},
+		{
+			"name": "Prueba 3 Cap. 14",
+			"weight": 14
+		},
+		{
+			"name": "Lectura literaria y Escritura",
+			"weight": 10
+		},
+		{
+			"name": "Prueba 4 Cap. 15",
+			"weight": 16
+		},
+		{
+			"name": "Entrevista oral",
+			"weight": 20
+		}
+	]
+}

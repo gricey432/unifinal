@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Notebooks",
+			"weight": 10
+		},
+		{
+			"name": "Genome Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam Microbial Diversity & Biotechnology",
+			"weight": 60
+		}
+	]
+}

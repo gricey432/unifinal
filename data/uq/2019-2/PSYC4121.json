@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "In Tutorials (Wk's 10 and 13) - Brief MCQ Quiz",
+			"weight": 10
+		},
+		{
+			"name": "In Lecture Quiz Covering Lectures 1, 2, 3, 4",
+			"weight": 40
+		},
+		{
+			"name": "PICO Essay",
+			"weight": 40
+		}
+	]
+}

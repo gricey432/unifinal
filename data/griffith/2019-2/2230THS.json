@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interpreting Qualitative Information ",
+			"weight": 30
+		},
+		{
+			"name": "Analysing and Reporting Quantitative Information",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

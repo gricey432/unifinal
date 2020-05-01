@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation",
+			"weight": 10
+		},
+		{
+			"name": "Textes polémiques",
+			"weight": 20
+		},
+		{
+			"name": "Oral discussion 1",
+			"weight": 10
+		},
+		{
+			"name": "Connectors quiz and in-class essay",
+			"weight": 40
+		},
+		{
+			"name": "Oral discussion 2",
+			"weight": 20
+		}
+	]
+}

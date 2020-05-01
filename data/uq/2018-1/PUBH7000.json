@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of the literature",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Human research ethics application",
+			"weight": 30
+		}
+	]
+}

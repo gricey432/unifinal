@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Three Online Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Three Reflections on Knowledge",
+			"weight": 15
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Group report",
+			"weight": 25
+		}
+	]
+}

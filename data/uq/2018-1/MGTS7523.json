@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "System Archetypes",
+			"weight": 20
+		},
+		{
+			"name": "System Dynamic Modelling",
+			"weight": 20
+		},
+		{
+			"name": "Team Project",
+			"weight": 50
+		}
+	]
+}

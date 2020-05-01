@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Evaluation using COMPASS®2 Online",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Video Examination (Adult)",
+			"weight": "Pass/Fail (Must Pass)"
+		}
+	]
+}

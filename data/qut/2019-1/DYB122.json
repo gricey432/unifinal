@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Research Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Course Work Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Presentation Brochure",
+			"weight": 30
+		}
+	]
+}

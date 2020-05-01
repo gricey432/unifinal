@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard-based MCQ quiz",
+			"weight": 30
+		},
+		{
+			"name": "Drug Discovery A1 End of Semester MCQ Exam",
+			"weight": 70
+		}
+	]
+}

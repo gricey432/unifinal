@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of worksheets",
+			"weight": 25
+		},
+		{
+			"name": "Mid-term Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

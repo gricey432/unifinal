@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "One Case Based Learning Report",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Case Reflection ",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Practical Assessment",
+			"weight": 0
+		}
+	]
+}

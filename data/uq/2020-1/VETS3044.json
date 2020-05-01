@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation, Leadership & Wellbeing",
+			"weight": 15
+		},
+		{
+			"name": "Journal Article and Quiz 1 & 2",
+			"weight": 10
+		},
+		{
+			"name": "Rotation - online participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "VETS3044 Theory Exam",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal based on Clinical Placement",
+			"weight": 10
+		},
+		{
+			"name": "Clinical/Industry Placement & One45 Entries",
+			"weight": 15
+		}
+	]
+}

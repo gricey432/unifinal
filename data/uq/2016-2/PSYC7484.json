@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical, legal and professional conduct",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Training Needs Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Main report",
+			"weight": 50
+		}
+	]
+}

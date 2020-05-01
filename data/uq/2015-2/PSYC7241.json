@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "ACT Case Conceptualization/Formulation Report ",
+			"weight": 40
+		},
+		{
+			"name": "ACT Competencies Assessment",
+			"weight": 40
+		}
+	]
+}

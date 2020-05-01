@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Primary health care policy",
+			"weight": 50
+		},
+		{
+			"name": "Models of Care",
+			"weight": 50
+		}
+	]
+}

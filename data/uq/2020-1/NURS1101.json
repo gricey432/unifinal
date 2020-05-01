@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ quiz",
+			"weight": 20
+		},
+		{
+			"name": "Small Group PowerPoint Submission",
+			"weight": 40
+		},
+		{
+			"name": "Online Invigilated Exam",
+			"weight": 40
+		}
+	]
+}

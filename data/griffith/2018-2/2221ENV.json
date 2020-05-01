@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project",
+			"weight": 45
+		},
+		{
+			"name": "Mid-term essay",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Curriculum Resource/Unit Outline",
+			"weight": 33
+		},
+		{
+			"name": "Short Documentary",
+			"weight": 33
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 33
+		}
+	]
+}

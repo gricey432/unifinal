@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Communicating research to a specialist audience",
+			"weight": 10
+		},
+		{
+			"name": "Searching for and analysing scientific arguments",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

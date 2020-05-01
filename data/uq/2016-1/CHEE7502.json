@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Metabolic Flux Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Preliminary design: bioprocess for organic waste",
+			"weight": 35
+		},
+		{
+			"name": "Compilation of tutorial working",
+			"weight": 10
+		},
+		{
+			"name": "Take home exam",
+			"weight": 35
+		}
+	]
+}

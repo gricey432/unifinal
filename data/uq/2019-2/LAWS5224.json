@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group work and presentation",
+			"weight": 30
+		},
+		{
+			"name": "Individual contributions",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 60
+		}
+	]
+}

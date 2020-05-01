@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Graphical Abstract",
+			"weight": 20
+		},
+		{
+			"name": "Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

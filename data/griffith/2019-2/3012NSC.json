@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1-3 Exam, 90 mins",
+			"weight": 40
+		},
+		{
+			"name": "Exam  ",
+			"weight": 60
+		}
+	]
+}

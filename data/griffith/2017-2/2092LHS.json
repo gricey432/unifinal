@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets and quizzes on short stories",
+			"weight": 15
+		},
+		{
+			"name": "Autobiographical Writing",
+			"weight": 50
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

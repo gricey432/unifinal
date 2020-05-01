@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation & Participation (Théâtre)",
+			"weight": 10
+		},
+		{
+			"name": "Blog entry",
+			"weight": 20
+		},
+		{
+			"name": "Group Oral I ",
+			"weight": 15
+		},
+		{
+			"name": "Group Oral 2",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

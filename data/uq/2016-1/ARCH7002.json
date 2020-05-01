@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Framing a critical practice - digital submission ",
+			"weight": 20
+		},
+		{
+			"name": "Framing a critical practice",
+			"weight": "Presentation of digital submission "
+		},
+		{
+			"name": "'hub'- digital submission ",
+			"weight": 20
+		},
+		{
+			"name": "'hub'",
+			"weight": "Presentation of digital submission "
+		},
+		{
+			"name": "'hub' complete - digital submission ",
+			"weight": 60
+		},
+		{
+			"name": "'hub' complete",
+			"weight": "Presentation of digital submission "
+		}
+	]
+}

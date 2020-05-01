@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Composition participation",
+			"weight": 50
+		},
+		{
+			"name": "Lecture reflections",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "AURALIA",
+			"weight": 10
+		},
+		{
+			"name": "Dictation and Repertoire ",
+			"weight": 20
+		},
+		{
+			"name": "Individual and Ensemble performance",
+			"weight": 20
+		}
+	]
+}

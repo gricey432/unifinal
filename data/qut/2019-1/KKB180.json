@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Industry and careers analysis",
+			"weight": 20
+		},
+		{
+			"name": "Practitioner interview",
+			"weight": 40
+		},
+		{
+			"name": "Professional plan",
+			"weight": 40
+		}
+	]
+}

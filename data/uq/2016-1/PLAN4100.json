@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Panel Discussions",
+			"weight": 15
+		},
+		{
+			"name": "Engagement and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Planning Report",
+			"weight": 30
+		},
+		{
+			"name": "PLAN4100 Final Examination",
+			"weight": 40
+		}
+	]
+}

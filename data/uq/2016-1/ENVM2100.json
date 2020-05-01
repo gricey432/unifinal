@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "'Speed Talks'",
+			"weight": 20
+		},
+		{
+			"name": "Sustainable Development Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

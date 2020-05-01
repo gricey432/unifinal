@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Hands-on Practice on Embedded System",
+			"weight": 10
+		},
+		{
+			"name": "Project Progress Report",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Report on Mechatronics Systems Design",
+			"weight": 20
+		},
+		{
+			"name": "Robot Performance Demonstration",
+			"weight": 45
+		}
+	]
+}

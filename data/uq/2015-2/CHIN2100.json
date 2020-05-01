@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Class attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Dictation Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Drama Project 1",
+			"weight": 10
+		},
+		{
+			"name": "Aural Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Drama Project 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Oral Interviews",
+			"weight": 25
+		}
+	]
+}

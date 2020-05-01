@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2 Pre-class Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 3 in class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 4 in class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1: Factorial Designs",
+			"weight": 20
+		},
+		{
+			"name": "Week 7 in class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 8 in class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Week 9 in class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2: Multiple Regression",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Inclusion of Wheelchair Users",
+			"weight": 50
+		},
+		{
+			"name": "Case study of service user",
+			"weight": 50
+		}
+	]
+}

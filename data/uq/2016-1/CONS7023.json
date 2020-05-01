@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Exam on class content and readings",
+			"weight": 50
+		},
+		{
+			"name": "Report on data collected at Idalia NP",
+			"weight": 50
+		}
+	]
+}

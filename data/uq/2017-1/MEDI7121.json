@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Procedural Skills Workshops",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Coaching Summative Assessment x2",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Peer Interview Recording and Review Session",
+			"weight": "Pass / Fail"
+		}
+	]
+}

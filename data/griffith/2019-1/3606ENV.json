@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical lab report (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Written or oral report on threatened species",
+			"weight": 10
+		},
+		{
+			"name": "Journal club report (group)",
+			"weight": 10
+		},
+		{
+			"name": "Essay on conservation topic",
+			"weight": 25
+		},
+		{
+			"name": "Conservation Biology final exam (2 hours)",
+			"weight": 45
+		}
+	]
+}

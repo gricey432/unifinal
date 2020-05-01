@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "1. PHTY7934 Individual Learning Tasks",
+			"weight": 30
+		},
+		{
+			"name": "2. PHTY7934 Group Learning Tasks",
+			"weight": 20
+		},
+		{
+			"name": "3. PHTY7934 Mid Semester Presentation & Assignment",
+			"weight": 20
+		},
+		{
+			"name": "4. PHTY7934 End of Semester Assignment Part A",
+			"weight": 15
+		},
+		{
+			"name": "5. PHTY7934 End of Semester Assignment Part B",
+			"weight": 15
+		}
+	]
+}

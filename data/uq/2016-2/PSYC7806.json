@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Considerations with Child",
+			"weight": 45
+		},
+		{
+			"name": "Group Presentation of Children's Story",
+			"weight": 10
+		},
+		{
+			"name": "Creative Piece of Work",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 15
+		},
+		{
+			"name": "QUIZ 1",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 2",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 3",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 4",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 5",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 6",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 7",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 8",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 9",
+			"weight": 2
+		},
+		{
+			"name": "QUIZ 10",
+			"weight": 2
+		},
+		{
+			"name": "MARS MYSTERY MINERAL",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Provincial Profile",
+			"weight": 20
+		},
+		{
+			"name": "Vocab Tests",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Listening Comprehension Test",
+			"weight": 10
+		},
+		{
+			"name": "Written Exam",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester Oral Interview",
+			"weight": 15
+		}
+	]
+}

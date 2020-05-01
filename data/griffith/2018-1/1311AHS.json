@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": 0
+		},
+		{
+			"name": "Short written piece",
+			"weight": 15
+		},
+		{
+			"name": "Photographic Exhibit",
+			"weight": 35
+		},
+		{
+			"name": "Occupation Self Analysis",
+			"weight": 50
+		}
+	]
+}

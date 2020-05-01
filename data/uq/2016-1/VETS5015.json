@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Skills List",
+			"weight": "Pass or Fail"
+		},
+		{
+			"name": "UQ Equine Hospital Rotation",
+			"weight": 80
+		},
+		{
+			"name": "Equine VIVA",
+			"weight": 20
+		}
+	]
+}

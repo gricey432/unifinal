@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Self Directed Fieldwork & Presentation",
+			"weight": 40
+		},
+		{
+			"name": "EnviroDev ",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Planning Report",
+			"weight": 10
+		},
+		{
+			"name": "Thesis Final Report",
+			"weight": 65
+		},
+		{
+			"name": "Conduct of Program",
+			"weight": 5
+		},
+		{
+			"name": "Poster Presentation and Technical Defence",
+			"weight": 20
+		}
+	]
+}

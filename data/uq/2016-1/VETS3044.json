@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VETS3044 Written Examination",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal based on Clinical Placement ",
+			"weight": 20
+		},
+		{
+			"name": "Clinical/Industry Placement & One45 Entries",
+			"weight": 30
+		}
+	]
+}

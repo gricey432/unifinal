@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz (Assessment item 1)",
+			"weight": 10
+		},
+		{
+			"name": "Critique of articles (Assessment item 2)",
+			"weight": 20
+		},
+		{
+			"name": "Policy debate (online)",
+			"weight": 30
+		},
+		{
+			"name": "Major essay (Assessment item 4)",
+			"weight": 40
+		}
+	]
+}

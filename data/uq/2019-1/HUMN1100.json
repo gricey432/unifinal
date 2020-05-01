@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Communicating the Humanities",
+			"weight": 10
+		},
+		{
+			"name": "Class Participation",
+			"weight": 10
+		},
+		{
+			"name": "Reflective personal essay",
+			"weight": 20
+		},
+		{
+			"name": "Group Project I ",
+			"weight": 15
+		},
+		{
+			"name": "Group Presentation II",
+			"weight": 15
+		},
+		{
+			"name": "Research essay",
+			"weight": 30
+		}
+	]
+}

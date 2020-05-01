@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Computer lab exercises",
+			"weight": 48
+		},
+		{
+			"name": "Team project in bioinformatics",
+			"weight": 22
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

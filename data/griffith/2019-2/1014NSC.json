@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quizzes ",
+			"weight": 5
+		},
+		{
+			"name": "Study plan development",
+			"weight": 10
+		},
+		{
+			"name": "Peptide assignment",
+			"weight": 15
+		},
+		{
+			"name": "Module Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Enzyme Kinetics assignment",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2 quizzes on Black Board",
+			"weight": 10
+		},
+		{
+			"name": "Individual Report",
+			"weight": 30
+		},
+		{
+			"name": "Place-Making Report",
+			"weight": 60
+		}
+	]
+}

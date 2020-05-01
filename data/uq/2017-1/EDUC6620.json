@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative review: Constructions of disability",
+			"weight": 20
+		},
+		{
+			"name": "The significance of voice and collaboration",
+			"weight": 25
+		},
+		{
+			"name": "Teaching cases of inclusive practices",
+			"weight": 40
+		},
+		{
+			"name": "Attendance and participation",
+			"weight": 15
+		}
+	]
+}

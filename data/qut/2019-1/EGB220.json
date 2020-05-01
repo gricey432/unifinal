@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Demonstration",
+			"weight": 60
+		},
+		{
+			"name": "Final Report",
+			"weight": 20
+		},
+		{
+			"name": "Teamwork (process)",
+			"weight": 20
+		}
+	]
+}

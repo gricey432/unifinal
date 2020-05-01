@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 45
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 45
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 10
+		}
+	]
+}

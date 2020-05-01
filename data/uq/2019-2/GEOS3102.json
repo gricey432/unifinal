@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation and Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Learning Journal 1",
+			"weight": 10
+		},
+		{
+			"name": "Global Change Essay",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Learning Journal 2",
+			"weight": 20
+		},
+		{
+			"name": "Global Change Exam",
+			"weight": 25
+		}
+	]
+}

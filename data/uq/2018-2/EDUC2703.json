@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ARTIE - 10 Field experience school visits",
+			"weight": "Hurdle requirement PASS/FAIL"
+		},
+		{
+			"name": "Part A - Digital portfolio of micro teaching",
+			"weight": 20
+		},
+		{
+			"name": "Using student data to design a lesson",
+			"weight": 50
+		},
+		{
+			"name": "Part B - Digital portfolio of micro teaching",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Project Execution",
+			"weight": 15
+		},
+		{
+			"name": "Thesis Proposal",
+			"weight": 0
+		},
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": 0
+		},
+		{
+			"name": "Interim Report",
+			"weight": 15
+		},
+		{
+			"name": "Synopsis for Seminar",
+			"weight": 0
+		},
+		{
+			"name": "Presentation Computer Files",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Presentation and Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Reflection on professional development",
+			"weight": 0
+		}
+	]
+}

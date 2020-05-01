@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Performance 1",
+			"weight": 20
+		},
+		{
+			"name": "Performance reports for Mid-semester Performance 1",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Concerts 1",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester Performance 2",
+			"weight": 20
+		},
+		{
+			"name": "Performance reports for Mid-semester Performance 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Concerts 2",
+			"weight": 20
+		}
+	]
+}

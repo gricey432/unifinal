@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Non Graded Diagnostic Quiz",
+			"weight": 0
+		},
+		{
+			"name": "Weekly Homework Mastering Chemistry Exercises",
+			"weight": 12
+		},
+		{
+			"name": "Laboratory Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Week 4 Quiz",
+			"weight": 7
+		},
+		{
+			"name": "Week 7 Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Week 11 Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

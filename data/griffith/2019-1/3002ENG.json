@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Work Placement Project Plan",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 40
+		},
+		{
+			"name": "Presentation - Poster and Seminar/Oral defence",
+			"weight": 30
+		},
+		{
+			"name": "Conduct of Program (Supervisor)",
+			"weight": 5
+		}
+	]
+}

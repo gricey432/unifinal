@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar engagement",
+			"weight": 10
+		},
+		{
+			"name": "Sociological story and presentation",
+			"weight": 40
+		},
+		{
+			"name": "Critical textual analysis",
+			"weight": 50
+		}
+	]
+}

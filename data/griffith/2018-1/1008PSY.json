@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Behavioural Skills Test on Modules 1 and 2 (BST 2)",
+			"weight": 10
+		},
+		{
+			"name": "Reflection on an Interpersonal Interaction",
+			"weight": 35
+		},
+		{
+			"name": "Behavioural Skills Test on Module 3 (BST 3)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - workbook",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2 - PBL exercise presentation",
+			"weight": 40
+		},
+		{
+			"name": "On-Line Quiz",
+			"weight": 20
+		}
+	]
+}

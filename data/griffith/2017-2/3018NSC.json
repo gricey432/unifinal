@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on lecture content",
+			"weight": 20
+		},
+		{
+			"name": "Written report on unknown identification",
+			"weight": 15
+		},
+		{
+			"name": "Lab work; Results and question book",
+			"weight": 20
+		},
+		{
+			"name": "Practical exam",
+			"weight": 30
+		},
+		{
+			"name": "Group project report",
+			"weight": 15
+		}
+	]
+}

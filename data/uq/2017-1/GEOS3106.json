@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises and workshop participation",
+			"weight": 20
+		},
+		{
+			"name": "Risk assessment report ",
+			"weight": 20
+		},
+		{
+			"name": "Disaster Management ",
+			"weight": 20
+		},
+		{
+			"name": "SDCC visit worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Final",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Computing tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Practical 1: Temperature measurement",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2: Dissolved oxygen",
+			"weight": 10
+		},
+		{
+			"name": "Capstone experimental plan",
+			"weight": 5
+		},
+		{
+			"name": "Practical 3: Blending",
+			"weight": 10
+		},
+		{
+			"name": "Computing exercice",
+			"weight": 10
+		},
+		{
+			"name": "Capstone final report",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

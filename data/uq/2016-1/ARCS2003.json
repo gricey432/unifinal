@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Human Osteology Exam",
+			"weight": 30
+		},
+		{
+			"name": "Forensic Expert Witness Report",
+			"weight": 30
+		},
+		{
+			"name": "Peer Evaluation Form",
+			"weight": "Required with Forensic Expert Witness Report"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

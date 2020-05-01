@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching theory & practice on a Staffing Topic",
+			"weight": 20
+		},
+		{
+			"name": "Individual Report - Applying Talent Analytics",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

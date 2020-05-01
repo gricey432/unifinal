@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Contemporary theories informing practice",
+			"weight": 50
+		},
+		{
+			"name": "Ethical decision-making",
+			"weight": 50
+		}
+	]
+}

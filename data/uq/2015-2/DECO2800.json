@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal/First Ticket",
+			"weight": 0
+		},
+		{
+			"name": "Team Charter",
+			"weight": 0
+		},
+		{
+			"name": "Project Critiques",
+			"weight": 15
+		},
+		{
+			"name": "Group Project Checkpoint 1",
+			"weight": 15
+		},
+		{
+			"name": "Group Project Checkpoint 2",
+			"weight": 30
+		},
+		{
+			"name": "Individual Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in in-class discussions",
+			"weight": 30
+		},
+		{
+			"name": "Week 1: Introductory essay",
+			"weight": 5
+		},
+		{
+			"name": "Week 2: 2-min presentation #1",
+			"weight": 5
+		},
+		{
+			"name": "Week 3: Bullet-point Method",
+			"weight": 5
+		},
+		{
+			"name": "Week 4: Data entry spreadsheet",
+			"weight": 5
+		},
+		{
+			"name": "Week 5: Bullet-point Discussion",
+			"weight": 5
+		},
+		{
+			"name": "Week 7: 2-min presentation #2",
+			"weight": 5
+		},
+		{
+			"name": "Week 8: Bullet-point Method",
+			"weight": 5
+		},
+		{
+			"name": "Week 9: Mock data",
+			"weight": 5
+		},
+		{
+			"name": "Week 10: 2-min presentation #3",
+			"weight": 5
+		},
+		{
+			"name": "Week 11: 3-min presentation - Intro & Method",
+			"weight": 10
+		},
+		{
+			"name": "Week 12: 3-min presentation - Results & Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Week 13: Reflective essay",
+			"weight": 5
+		}
+	]
+}

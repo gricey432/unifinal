@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Learning Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Peer Group Work",
+			"weight": 50
+		}
+	]
+}

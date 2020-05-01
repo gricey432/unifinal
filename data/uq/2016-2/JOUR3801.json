@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Activity Log & Reflection",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

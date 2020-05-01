@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Role play with feedback and self-evaluation",
+			"weight": 5
+		},
+		{
+			"name": "Practice-based assessment",
+			"weight": 10
+		},
+		{
+			"name": "Online examination",
+			"weight": 20
+		},
+		{
+			"name": "Practice-based and Written Assignment",
+			"weight": 45
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 20
+		}
+	]
+}

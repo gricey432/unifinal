@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Review of research article",
+			"weight": 15
+		},
+		{
+			"name": "Reading summary and reflection",
+			"weight": 15
+		},
+		{
+			"name": "Assessment of group presentation",
+			"weight": 5
+		},
+		{
+			"name": "Language Testing and Assessment Group Project",
+			"weight": 30
+		},
+		{
+			"name": "Academic essay",
+			"weight": 35
+		}
+	]
+}

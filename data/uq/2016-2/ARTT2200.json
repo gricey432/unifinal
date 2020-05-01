@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Image Annotation Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Field Trip participation",
+			"weight": 0
+		},
+		{
+			"name": "Reflective Journal for Field Trip",
+			"weight": 40
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

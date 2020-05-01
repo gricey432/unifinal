@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MSAT on Supervision",
+			"weight": 30
+		},
+		{
+			"name": "Mentorship Interview and Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Reflection on Cultural Safety",
+			"weight": 30
+		}
+	]
+}

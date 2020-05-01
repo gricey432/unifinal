@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis",
+			"weight": 40
+		},
+		{
+			"name": "International Strategic Plan",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay and menu planning worksheet",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "end of semester examination",
+			"weight": 55
+		}
+	]
+}

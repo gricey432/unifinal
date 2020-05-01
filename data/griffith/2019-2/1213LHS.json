@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 30
+		},
+		{
+			"name": "Op-ed piece",
+			"weight": 30
+		},
+		{
+			"name": "Policy Recommendation",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Workplace Journal",
+			"weight": 35
+		},
+		{
+			"name": "Workplace Analysis Report",
+			"weight": 40
+		},
+		{
+			"name": "Industry Presentation",
+			"weight": 25
+		}
+	]
+}

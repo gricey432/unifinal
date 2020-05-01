@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Item 1: Minor Essay - Self Reflective Practice",
+			"weight": 30
+		},
+		{
+			"name": "Item 2: Online Open Book Exam",
+			"weight": 20
+		},
+		{
+			"name": "Item 3: Major Essay",
+			"weight": 50
+		}
+	]
+}

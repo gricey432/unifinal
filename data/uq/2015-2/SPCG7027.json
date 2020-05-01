@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to online discussions",
+			"weight": 10
+		},
+		{
+			"name": "Seminar 1 submission",
+			"weight": 15
+		},
+		{
+			"name": "Literature review and research proposal",
+			"weight": 20
+		},
+		{
+			"name": "Report on Action Research",
+			"weight": 55
+		}
+	]
+}

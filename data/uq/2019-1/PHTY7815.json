@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Lecture By The People",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Blocks 1 & 2 Written Examination",
+			"weight": 30
+		},
+		{
+			"name": "Block 2: Patient with pain portfolio",
+			"weight": 25
+		},
+		{
+			"name": "Block 1 Video assignment for mobility aids.",
+			"weight": 15
+		},
+		{
+			"name": "Blocks 2 & 3 Written Examination",
+			"weight": 30
+		}
+	]
+}

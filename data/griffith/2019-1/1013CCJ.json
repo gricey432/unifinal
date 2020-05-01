@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Short Answers",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Short Answers",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Short Answers",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4: Final Exam",
+			"weight": 40
+		}
+	]
+}

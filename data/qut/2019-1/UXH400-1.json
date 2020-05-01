@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Project Proposal (revised)",
+			"weight": 50
+		}
+	]
+}

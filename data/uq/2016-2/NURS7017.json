@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asynchronous online discussion board ",
+			"weight": 40
+		},
+		{
+			"name": "Case study 1",
+			"weight": 20
+		},
+		{
+			"name": "Case study 2",
+			"weight": 40
+		}
+	]
+}

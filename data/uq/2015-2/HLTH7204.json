@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1-Development of an Education Session",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 2-Development of Educational Resources",
+			"weight": 50
+		}
+	]
+}

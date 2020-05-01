@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Software Defined Networking",
+			"weight": 20
+		},
+		{
+			"name": "Programming Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

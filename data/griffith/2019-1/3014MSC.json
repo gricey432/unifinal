@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Molecular BIology Research Methods ",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 20
+		},
+		{
+			"name": "Multiple Choice Quiz 1 ",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "End of trimester examination",
+			"weight": 50
+		}
+	]
+}

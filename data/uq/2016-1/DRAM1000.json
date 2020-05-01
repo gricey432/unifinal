@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Semiotic Essay",
+			"weight": 30
+		},
+		{
+			"name": "Performance Project / DRAM2210 Secondment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

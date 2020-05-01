@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Journalism Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Data Gif",
+			"weight": 30
+		},
+		{
+			"name": "Story and data visualisation",
+			"weight": 50
+		}
+	]
+}

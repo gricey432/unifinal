@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Write Up - Seeds",
+			"weight": 15
+		},
+		{
+			"name": "Special Topic",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Write Up - Allelopathy",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

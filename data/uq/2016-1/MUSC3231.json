@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical class",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Concert reviews and reflection",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Theme and variations",
+			"weight": 30
+		},
+		{
+			"name": "Composition portfolio 1",
+			"weight": 35
+		},
+		{
+			"name": "Composition portfolio 2",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching Productive modes",
+			"weight": 30
+		},
+		{
+			"name": "English curriculum unit",
+			"weight": 40
+		},
+		{
+			"name": "Contemporary isses in English",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In class exercises and participation",
+			"weight": 20
+		},
+		{
+			"name": "Professional Marketing: showreel, folio, website",
+			"weight": 30
+		},
+		{
+			"name": "Project management: response to client brief",
+			"weight": 50
+		}
+	]
+}

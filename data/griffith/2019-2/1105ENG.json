@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Computer exercise attendance & practice",
+			"weight": 13
+		},
+		{
+			"name": "Formative assessment",
+			"weight": 2
+		},
+		{
+			"name": "Online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment Project ",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

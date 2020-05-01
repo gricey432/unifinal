@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "GATEWAY PRECINCT - SKETCH DESIGN",
+			"weight": 20
+		},
+		{
+			"name": "GATEWAY PRECINCT - SCHEME DESIGN",
+			"weight": 25
+		},
+		{
+			"name": "PRECISION & DETAIL - FORMATIVE FEEDBACK",
+			"weight": 0
+		},
+		{
+			"name": "GATEWAY PRECINCT-PRECISION+DETAIL FOLIOSUBMISSION",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SAS Coding Mid Semester Test",
+			"weight": 20
+		},
+		{
+			"name": "Forensic Investigation Project",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		}
+	]
+}

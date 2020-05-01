@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 1: Communication research report",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2: annotated bibliography & article",
+			"weight": 30
+		}
+	]
+}

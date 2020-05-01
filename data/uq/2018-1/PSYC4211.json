@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Class Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Leadership",
+			"weight": 35
+		},
+		{
+			"name": "Industry Report",
+			"weight": 35
+		}
+	]
+}

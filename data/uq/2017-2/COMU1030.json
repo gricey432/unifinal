@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual reflections ",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam on weeks 1-8 content",
+			"weight": 30
+		},
+		{
+			"name": "Presentation Feedback",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Effective Group Communication",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz on weeks 10-12 content",
+			"weight": 10
+		}
+	]
+}

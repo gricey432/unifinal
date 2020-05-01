@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Group Written Case Study Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 10
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 3",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Contribution to CBL",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 50
+		},
+		{
+			"name": "Practical examination",
+			"weight": 25
+		}
+	]
+}

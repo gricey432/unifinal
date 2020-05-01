@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Tourism Client Research Report",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Youth Intercultural Tourism Presentation",
+			"weight": 35
+		}
+	]
+}

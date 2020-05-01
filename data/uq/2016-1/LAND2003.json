@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Soil physical characteristics",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2: Characterising soil profiles",
+			"weight": 10
+		},
+		{
+			"name": "Practical 3: Soil microbial respiration",
+			"weight": 10
+		},
+		{
+			"name": "Practical 4: Soil biodiversity",
+			"weight": 10
+		},
+		{
+			"name": "Study quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

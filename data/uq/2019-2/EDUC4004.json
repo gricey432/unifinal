@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Qld Senior HPE Curriculum Reform Implications",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice & Snr PE Assessment Reform",
+			"weight": 30
+		},
+		{
+			"name": "Research for Professional Knowledge/Engagement",
+			"weight": 50
+		}
+	]
+}

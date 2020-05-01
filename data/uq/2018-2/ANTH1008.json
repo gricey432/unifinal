@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation ",
+			"weight": 5
+		},
+		{
+			"name": "Anthropology: Writing it",
+			"weight": 30
+		},
+		{
+			"name": "Anthropology: Doing it",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

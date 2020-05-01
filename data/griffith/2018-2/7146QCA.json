@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Viva - presentation",
+			"weight": 40
+		},
+		{
+			"name": "Project Submission",
+			"weight": 60
+		}
+	]
+}

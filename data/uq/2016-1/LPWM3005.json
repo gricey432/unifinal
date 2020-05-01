@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation for Property Based Plan",
+			"weight": 5
+		},
+		{
+			"name": "Exam 1. ",
+			"weight": 8
+		},
+		{
+			"name": "Exam 2.",
+			"weight": 12
+		},
+		{
+			"name": "Property Based Game Management Plan",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam.",
+			"weight": 35
+		}
+	]
+}

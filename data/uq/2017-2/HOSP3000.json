@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Casino table games management",
+			"weight": 30
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		}
+	]
+}

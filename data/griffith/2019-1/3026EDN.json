@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Modelling an Inquiry",
+			"weight": 40
+		},
+		{
+			"name": "Resource Portfolio",
+			"weight": 60
+		}
+	]
+}

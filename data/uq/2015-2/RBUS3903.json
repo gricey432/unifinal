@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Social Impact Model Assumption Testing",
+			"weight": 10
+		},
+		{
+			"name": "Social Business Model",
+			"weight": 40
+		},
+		{
+			"name": "Individual Impact Statement",
+			"weight": 40
+		},
+		{
+			"name": "Peer Evaluation",
+			"weight": 10
+		}
+	]
+}

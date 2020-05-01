@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exercises",
+			"weight": 20
+		},
+		{
+			"name": "My pet rock",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Tasks",
+			"weight": 20
+		},
+		{
+			"name": "In class exam",
+			"weight": 35
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		}
+	]
+}

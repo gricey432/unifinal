@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Topical Issues in Beef Production",
+			"weight": 20
+		},
+		{
+			"name": "Beef",
+			"weight": 30
+		},
+		{
+			"name": "END SEMESTER EXAM",
+			"weight": 50
+		}
+	]
+}

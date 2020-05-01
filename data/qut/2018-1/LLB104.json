@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Critical essay",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

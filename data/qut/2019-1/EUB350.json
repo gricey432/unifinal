@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Interactive map",
+			"weight": 40
+		},
+		{
+			"name": "Exam, short and ext responses",
+			"weight": 60
+		}
+	]
+}

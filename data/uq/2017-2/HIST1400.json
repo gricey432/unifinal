@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Participation & Attendance",
+			"weight": 15
+		},
+		{
+			"name": "Weekly Lecture Notes",
+			"weight": 15
+		},
+		{
+			"name": "Essay Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Essay",
+			"weight": 35
+		}
+	]
+}

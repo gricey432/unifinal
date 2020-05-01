@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial tasks",
+			"weight": 10
+		},
+		{
+			"name": "In-class test",
+			"weight": 10
+		},
+		{
+			"name": "Written examination",
+			"weight": 40
+		},
+		{
+			"name": "Russian Interview",
+			"weight": 10
+		}
+	]
+}

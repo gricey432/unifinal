@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Python and Communication Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Academic Integrity Module",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Workshop Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Midsemester exam",
+			"weight": 0
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

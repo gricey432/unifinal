@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical competency 1 - Fixed Prosthodontics ",
+			"weight": 10
+		},
+		{
+			"name": "Preclinical competency 2 - Fixed Prosthodontics ",
+			"weight": 10
+		},
+		{
+			"name": "Oral diseases",
+			"weight": 10
+		},
+		{
+			"name": "Preclinical competency 3 - Paediatric Dentistry ",
+			"weight": 10
+		},
+		{
+			"name": "Endodontic case report -written",
+			"weight": 20
+		},
+		{
+			"name": "Written end of Semester exam ",
+			"weight": 40
+		}
+	]
+}

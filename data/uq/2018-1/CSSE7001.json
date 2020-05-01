@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "User Stories",
+			"weight": 10
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Use Case Modelling",
+			"weight": 20
+		},
+		{
+			"name": "Research Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

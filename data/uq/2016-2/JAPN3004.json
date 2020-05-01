@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Story presentation",
+			"weight": 20
+		},
+		{
+			"name": "How-to-do",
+			"weight": 20
+		},
+		{
+			"name": "Written anecdote",
+			"weight": 20
+		},
+		{
+			"name": "In Class Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Telling a story",
+			"weight": 20
+		}
+	]
+}

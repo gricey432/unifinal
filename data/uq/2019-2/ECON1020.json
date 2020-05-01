@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "All Chapters - varies across weeks",
+			"weight": 7
+		},
+		{
+			"name": "All Chapters - varies across weeks",
+			"weight": 14
+		},
+		{
+			"name": "Writing, citing and submitting assignments",
+			"weight": 1
+		},
+		{
+			"name": "Country Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 48
+		}
+	]
+}

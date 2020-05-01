@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion Forum",
+			"weight": 10
+		},
+		{
+			"name": "Short Assessment Report",
+			"weight": 30
+		},
+		{
+			"name": "Design and evaluation of an e-health project",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentations of Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (Wed 2 September 2015)",
+			"weight": 60
+		}
+	]
+}

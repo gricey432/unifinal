@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of health policies",
+			"weight": 35
+		},
+		{
+			"name": "Weekly workbook tasks - Lectorial Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Group Work and Culminating Submission",
+			"weight": 25
+		},
+		{
+			"name": "In class Quizzes",
+			"weight": 30
+		}
+	]
+}

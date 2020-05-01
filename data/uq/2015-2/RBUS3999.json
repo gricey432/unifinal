@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar and workshop activities",
+			"weight": 5
+		},
+		{
+			"name": "Workplace Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Critical reflection",
+			"weight": 20
+		},
+		{
+			"name": "Attendance and Performance at worksite",
+			"weight": 25
+		}
+	]
+}

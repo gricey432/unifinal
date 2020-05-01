@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at workshops and participation",
+			"weight": 30
+		},
+		{
+			"name": "Outline of proposed work",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of Results",
+			"weight": 30
+		},
+		{
+			"name": "Research Report/Manuscript",
+			"weight": 30
+		}
+	]
+}

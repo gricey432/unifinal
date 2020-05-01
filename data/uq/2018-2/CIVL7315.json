@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Concrete technology",
+			"weight": 10
+		},
+		{
+			"name": "Wet packing density of concrete",
+			"weight": 10
+		},
+		{
+			"name": "Moment-curvature relationship",
+			"weight": 10
+		},
+		{
+			"name": "Ductility design of RC beams",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

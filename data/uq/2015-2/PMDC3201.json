@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Paediatric Life Support - Advanced Skills",
+			"weight": 2
+		},
+		{
+			"name": "Paediatric Life Support - Core Skills",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 55
+		}
+	]
+}

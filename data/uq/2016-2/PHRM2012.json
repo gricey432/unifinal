@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Confidentiality Form",
+			"weight": 0
+		},
+		{
+			"name": "Community Pharmacy Placement + Placement Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Completion of QLD Health Requirements ",
+			"weight": 0
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": 0
+		},
+		{
+			"name": "Hospital Pharmacy Placement/Visit",
+			"weight": 0
+		},
+		{
+			"name": "Written End-of-Semester Examination",
+			"weight": 65
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 25
+		}
+	]
+}

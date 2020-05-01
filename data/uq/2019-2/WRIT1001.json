@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Online Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Module Participation",
+			"weight": 20
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 20
+		},
+		{
+			"name": "Essay One",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

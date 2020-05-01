@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Field trip report 1 (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Lab prac report 1 (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Workshop 1 report (group)",
+			"weight": 25
+		},
+		{
+			"name": "Field trip report 2 (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Lab prac report 2 (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Workshop 2 report (group)",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

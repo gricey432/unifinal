@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reflections and/or reading analyses",
+			"weight": 20
+		},
+		{
+			"name": "In-class quiz (1)",
+			"weight": 20
+		},
+		{
+			"name": "In-class quiz (2)",
+			"weight": 20
+		},
+		{
+			"name": "Debates in SLA",
+			"weight": 40
+		}
+	]
+}

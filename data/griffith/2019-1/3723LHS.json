@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Story or Essay ",
+			"weight": 35
+		},
+		{
+			"name": "Seminar or Personal Essay",
+			"weight": 30
+		},
+		{
+			"name": "Short Story or Essay ",
+			"weight": 35
+		}
+	]
+}

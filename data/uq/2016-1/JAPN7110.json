@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Dialogue Summary in Japanese",
+			"weight": 25
+		},
+		{
+			"name": "Dialogue Summary in English",
+			"weight": 25
+		},
+		{
+			"name": "Impromptu speech in Japanese",
+			"weight": 25
+		},
+		{
+			"name": "Impromptu Speech in English",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in seminar discussions",
+			"weight": 30
+		},
+		{
+			"name": "Written paper (to be presented in class)",
+			"weight": 35
+		},
+		{
+			"name": "Presentation (of written paper) in class",
+			"weight": 35
+		}
+	]
+}

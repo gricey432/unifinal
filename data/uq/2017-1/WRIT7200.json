@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Short writings",
+			"weight": 40
+		},
+		{
+			"name": "Podcast & Evaluation",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning history and video analysis (Part 1)",
+			"weight": 10
+		},
+		{
+			"name": "Learning history and video analysis (Part 2)",
+			"weight": 40
+		},
+		{
+			"name": "Analysing ethical scenarios",
+			"weight": 50
+		}
+	]
+}

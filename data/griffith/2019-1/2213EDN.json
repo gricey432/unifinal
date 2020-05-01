@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Lesson planning and delivery",
+			"weight": 30
+		},
+		{
+			"name": "Sequential lesson plans and rationale",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Leadership online scenarios",
+			"weight": 60
+		}
+	]
+}

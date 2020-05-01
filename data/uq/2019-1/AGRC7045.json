@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mind map and researchable questions",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment - Survey",
+			"weight": 25
+		},
+		{
+			"name": "Group Assignment - Experimental design",
+			"weight": 25
+		},
+		{
+			"name": "Comprehensive final exam",
+			"weight": 30
+		}
+	]
+}

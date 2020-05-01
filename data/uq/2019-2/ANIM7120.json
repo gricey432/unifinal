@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Breeding records and evaluation",
+			"weight": 10
+		},
+		{
+			"name": "Journal Article Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Practical Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 50
+		},
+		{
+			"name": "Computer based Practical Exam",
+			"weight": 15
+		}
+	]
+}

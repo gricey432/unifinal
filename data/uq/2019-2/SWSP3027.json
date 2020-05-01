@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Significant Mental Health Issue",
+			"weight": 30
+		},
+		{
+			"name": "Information slides for parents/carers",
+			"weight": 30
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

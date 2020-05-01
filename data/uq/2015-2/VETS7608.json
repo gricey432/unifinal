@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Quiz- systems pathology and toxicology",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester examination- systems pathology",
+			"weight": 35
+		},
+		{
+			"name": "ESE- veterinary toxicology",
+			"weight": 40
+		}
+	]
+}

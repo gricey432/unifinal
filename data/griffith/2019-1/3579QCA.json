@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Exploration",
+			"weight": 60
+		},
+		{
+			"name": "Response to Creative Industries Brief",
+			"weight": 40
+		}
+	]
+}

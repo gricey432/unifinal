@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contributions to discussion ",
+			"weight": 10
+		},
+		{
+			"name": "Project Outline",
+			"weight": 10
+		},
+		{
+			"name": "Project presentation",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal and Sources",
+			"weight": 20
+		},
+		{
+			"name": "Project",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The history of cities",
+			"weight": 30
+		},
+		{
+			"name": "Urbanisation & Urban policy",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

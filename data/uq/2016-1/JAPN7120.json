@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Précis writing",
+			"weight": 45
+		},
+		{
+			"name": "Speed reading",
+			"weight": 45
+		},
+		{
+			"name": "Participation in class",
+			"weight": 10
+		}
+	]
+}

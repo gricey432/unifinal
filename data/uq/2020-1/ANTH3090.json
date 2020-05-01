@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-fieldwork report",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Final report/ research proposal",
+			"weight": 45
+		}
+	]
+}

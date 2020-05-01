@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory reports",
+			"weight": 25
+		},
+		{
+			"name": "Written quizzes (2)",
+			"weight": 10
+		},
+		{
+			"name": "Wildlife Activity Budget and Report",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

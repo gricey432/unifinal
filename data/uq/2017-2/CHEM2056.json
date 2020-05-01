@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory",
+			"weight": 20
+		},
+		{
+			"name": "Problem Solving Sessions",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

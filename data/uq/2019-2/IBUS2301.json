@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video",
+			"weight": 15
+		},
+		{
+			"name": "Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

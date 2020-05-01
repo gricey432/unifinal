@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Physiology 1 Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Animal Behaviour ",
+			"weight": 25
+		},
+		{
+			"name": "Animal Nutrition",
+			"weight": 25
+		},
+		{
+			"name": "Animal Reproduction - Post Grad Cert ONLY",
+			"weight": 25
+		},
+		{
+			"name": "Physiology 2 - Masters student ONLY",
+			"weight": 25
+		}
+	]
+}

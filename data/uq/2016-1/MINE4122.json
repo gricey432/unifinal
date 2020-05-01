@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Technical writing editing",
+			"weight": 8
+		},
+		{
+			"name": "Research Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Project Progress Report",
+			"weight": 60
+		},
+		{
+			"name": "Project Plan Agreement",
+			"weight": 2
+		}
+	]
+}

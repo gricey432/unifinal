@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Project workbook",
+			"weight": 20
+		},
+		{
+			"name": "Practical laboratory work",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

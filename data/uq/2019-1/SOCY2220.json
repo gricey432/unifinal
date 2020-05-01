@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Readings",
+			"weight": 10
+		},
+		{
+			"name": "Concepts and theories of development",
+			"weight": 25
+		},
+		{
+			"name": "Communicating Globalisation and Development",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1 In-class quiz",
+			"weight": 20
+		},
+		{
+			"name": "Smartabase Event and Dashboard",
+			"weight": 60
+		},
+		{
+			"name": "Innovation pitch",
+			"weight": 20
+		}
+	]
+}

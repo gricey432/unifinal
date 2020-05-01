@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in discussion",
+			"weight": 10
+		},
+		{
+			"name": "Heritage and Iconoclasm essay",
+			"weight": 15
+		},
+		{
+			"name": "Industry interview and presentation",
+			"weight": 20
+		},
+		{
+			"name": "Research essay abstract and annotated bibliography",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Research essay",
+			"weight": 25
+		}
+	]
+}

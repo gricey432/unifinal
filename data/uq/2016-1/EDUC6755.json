@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer/Micro Teaching",
+			"weight": 10
+		},
+		{
+			"name": "Unit Plan & Design of Assessment Instruments",
+			"weight": 50
+		},
+		{
+			"name": "Excursion submission & Folder of Resources",
+			"weight": 40
+		}
+	]
+}

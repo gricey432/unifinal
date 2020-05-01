@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "PICO(T) statement for proposed literature review",
+			"weight": 40
+		},
+		{
+			"name": "Literature Review based on PICO(T) statement",
+			"weight": 60
+		}
+	]
+}

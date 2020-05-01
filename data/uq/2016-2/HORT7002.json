@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Horticulture industry challenge",
+			"weight": 20
+		},
+		{
+			"name": "PowerPoint presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research and development proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

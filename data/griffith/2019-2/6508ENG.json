@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal & Analytical Calculations",
+			"weight": 10
+		},
+		{
+			"name": "Practical CFD Test",
+			"weight": 10
+		},
+		{
+			"name": "Fluids Research Project: Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

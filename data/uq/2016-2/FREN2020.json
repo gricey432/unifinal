@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Forum entry",
+			"weight": 5
+		},
+		{
+			"name": "Blog entry",
+			"weight": 15
+		},
+		{
+			"name": "Preparation & Participation (Verte)",
+			"weight": 10
+		},
+		{
+			"name": "Group Oral Interview",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		},
+		{
+			"name": "Tale",
+			"weight": 20
+		}
+	]
+}

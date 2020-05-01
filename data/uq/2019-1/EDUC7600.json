@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and informed participation in tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Schooling and social inclusion",
+			"weight": 40
+		},
+		{
+			"name": "Approaching Practice through an educational issue ",
+			"weight": 50
+		}
+	]
+}

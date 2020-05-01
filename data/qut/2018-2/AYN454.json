@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Presentations",
+			"weight": 20
+		},
+		{
+			"name": "Individual Project",
+			"weight": 20
+		},
+		{
+			"name": "End-Semester Exam",
+			"weight": 60
+		}
+	]
+}

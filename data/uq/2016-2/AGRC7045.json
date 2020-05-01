@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mind Map of Potential Research Project",
+			"weight": 5
+		},
+		{
+			"name": "Aims and Research Questions",
+			"weight": 5
+		},
+		{
+			"name": "Annotated bibliography of select refereed articles",
+			"weight": 10
+		},
+		{
+			"name": "Group Assignment - Wiki",
+			"weight": 15
+		},
+		{
+			"name": "Outline of project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Written project proposal",
+			"weight": 40
+		}
+	]
+}

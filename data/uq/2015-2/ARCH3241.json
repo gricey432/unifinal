@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Topic Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Paper",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

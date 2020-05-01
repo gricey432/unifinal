@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Issue ",
+			"weight": 60
+		},
+		{
+			"name": "Video group presentation of topic",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Media Research Task 1: Content Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Research findings overview and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Media Research Task 2: Audience Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

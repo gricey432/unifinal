@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CLICKER Quiz(weekly in lectures and tutes)",
+			"weight": 0
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 70
+		}
+	]
+}

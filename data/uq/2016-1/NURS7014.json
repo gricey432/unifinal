@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review 1000-1500 words",
+			"weight": 20
+		},
+		{
+			"name": "Treatment Interventions 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Treatment Interventions Video Recording + critique",
+			"weight": 40
+		}
+	]
+}

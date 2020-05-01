@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Literature Table",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review",
+			"weight": 60
+		}
+	]
+}

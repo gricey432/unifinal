@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Competency: Blood pressure",
+			"weight": 10
+		},
+		{
+			"name": "Summative Content Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Spirometry / ECG Practical Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Summative Content Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Skills Exam",
+			"weight": 30
+		}
+	]
+}

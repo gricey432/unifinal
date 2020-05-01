@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific report on field project",
+			"weight": 40
+		},
+		{
+			"name": "Group talk",
+			"weight": 10
+		},
+		{
+			"name": "Project proposal and equipment list",
+			"weight": 20
+		},
+		{
+			"name": "midterm exam",
+			"weight": 30
+		}
+	]
+}

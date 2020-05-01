@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learner Language Analysis",
+			"weight": 40
+		},
+		{
+			"name": "A choice from three topics",
+			"weight": 40
+		},
+		{
+			"name": "Take-home test: Online",
+			"weight": 20
+		}
+	]
+}

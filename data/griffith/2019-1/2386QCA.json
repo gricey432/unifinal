@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-directed project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Peer feedback",
+			"weight": 10
+		},
+		{
+			"name": "Expanded Practice e/ Journal",
+			"weight": 40
+		},
+		{
+			"name": "Self-directed project",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal",
+			"weight": 20
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 40
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 40
+		}
+	]
+}

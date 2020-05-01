@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pretext & Lesson Plan ",
+			"weight": 30
+		},
+		{
+			"name": "Senior Drama Work program ",
+			"weight": 30
+		},
+		{
+			"name": "Senior Drama Unit + Annotated Resource List",
+			"weight": 40
+		}
+	]
+}

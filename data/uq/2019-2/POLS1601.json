@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "TUTORIAL PARTICIPATION",
+			"weight": 9
+		},
+		{
+			"name": "Concept application paper (650 words)",
+			"weight": 10
+		},
+		{
+			"name": "TUTORIAL DISCUSSION PAPER (500 words)",
+			"weight": 6
+		},
+		{
+			"name": "REFLECTIVE REPORT - FILMS (2100 words)",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 45
+		}
+	]
+}

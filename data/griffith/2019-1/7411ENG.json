@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Project-based assignment",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Journal on Viewing Video Reports ",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Test",
+			"weight": 45
+		}
+	]
+}

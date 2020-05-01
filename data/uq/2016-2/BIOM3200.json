@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Statistical Analysis Report",
+			"weight": 20
+		},
+		{
+			"name": "Biomedical Research Proposal",
+			"weight": 60
+		},
+		{
+			"name": "Bioethics individual assignment ",
+			"weight": 20
+		}
+	]
+}

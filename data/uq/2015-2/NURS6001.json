@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "PICO Statement for Systematic/Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Oral presentation of Systematic/Literature Review",
+			"weight": 15
+		},
+		{
+			"name": "Systematic or Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Response to Reviewers Systematic/Literature Review",
+			"weight": 10
+		}
+	]
+}

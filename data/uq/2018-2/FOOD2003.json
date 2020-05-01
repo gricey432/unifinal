@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Instrumentations used in food industries",
+			"weight": 10
+		},
+		{
+			"name": "4 quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination - closed book",
+			"weight": 50
+		}
+	]
+}

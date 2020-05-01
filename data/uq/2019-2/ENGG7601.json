@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Wind tunnel experiments",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 1 Dimensional analysis and scaling",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 measurement and uncertainty",
+			"weight": 5
+		},
+		{
+			"name": "Experiment Design Plan",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 numerical experiment",
+			"weight": 10
+		},
+		{
+			"name": "Experiment final Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

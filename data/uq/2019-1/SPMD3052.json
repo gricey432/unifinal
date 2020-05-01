@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SPMD3052 Exam 1",
+			"weight": 20
+		},
+		{
+			"name": "Group Video",
+			"weight": 10
+		},
+		{
+			"name": "SPMD3052 Exam 2",
+			"weight": 20
+		},
+		{
+			"name": "SPMD3052 Exam 3",
+			"weight": 50
+		}
+	]
+}

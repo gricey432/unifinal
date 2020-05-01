@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Questions",
+			"weight": 10
+		},
+		{
+			"name": "Team Charter",
+			"weight": 5
+		},
+		{
+			"name": "Situational Analysis Report",
+			"weight": 15
+		},
+		{
+			"name": "Scenario Planning Report",
+			"weight": 15
+		},
+		{
+			"name": "Strategic Management Plan",
+			"weight": 15
+		},
+		{
+			"name": "Project Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Project Pitch Report",
+			"weight": 15
+		}
+	]
+}

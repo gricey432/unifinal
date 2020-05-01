@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three Laboratory assessments 5 x 2%",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Exams",
+			"weight": 50
+		},
+		{
+			"name": "Neuromechanics in Practice Project",
+			"weight": 40
+		}
+	]
+}

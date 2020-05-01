@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Modules 1-3 Problem Solving Portfolio",
+			"weight": 25
+		},
+		{
+			"name": "Essay or law reform submission ",
+			"weight": 25
+		},
+		{
+			"name": "Final online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final take-home exam",
+			"weight": 40
+		}
+	]
+}

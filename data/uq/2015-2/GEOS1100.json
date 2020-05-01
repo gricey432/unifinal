@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1",
+			"weight": 15
+		},
+		{
+			"name": "Redland Shire Field Report",
+			"weight": 15
+		},
+		{
+			"name": "Alternative assessment; non-fieldtrip participants",
+			"weight": 15
+		},
+		{
+			"name": "Report 2",
+			"weight": 30
+		},
+		{
+			"name": "Course Exam",
+			"weight": 40
+		}
+	]
+}

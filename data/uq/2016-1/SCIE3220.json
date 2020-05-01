@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Active participation in lectures",
+			"weight": 10
+		},
+		{
+			"name": "Critical Evaluation of Scientific Article",
+			"weight": 10
+		},
+		{
+			"name": "Poster",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation of Poster Scientific Data",
+			"weight": 5
+		},
+		{
+			"name": "Performance",
+			"weight": 15
+		},
+		{
+			"name": "Draft research report",
+			"weight": 0
+		},
+		{
+			"name": "Laboratory Record Keeping",
+			"weight": 15
+		},
+		{
+			"name": "Research report",
+			"weight": 30
+		}
+	]
+}

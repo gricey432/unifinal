@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lower Limb Applied Anatomy Exam",
+			"weight": 5
+		},
+		{
+			"name": "Lower Limb Pathology Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Lower limb patient interview",
+			"weight": 20
+		},
+		{
+			"name": "Written exam",
+			"weight": 15
+		},
+		{
+			"name": "VIVA",
+			"weight": 30
+		}
+	]
+}

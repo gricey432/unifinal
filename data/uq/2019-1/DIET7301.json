@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection - EPA",
+			"weight": 10
+		},
+		{
+			"name": "Clinical question & group allocation",
+			"weight": "Satisfactory"
+		},
+		{
+			"name": "Systematic literature review",
+			"weight": 60
+		},
+		{
+			"name": "Participation ",
+			"weight": 5
+		},
+		{
+			"name": "Translation of Evidence into Practice Guidance ",
+			"weight": 25
+		}
+	]
+}

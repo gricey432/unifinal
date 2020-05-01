@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Intra Semester Test",
+			"weight": 30
+		},
+		{
+			"name": "Contribution to CBL",
+			"weight": "P/F. Passing this assessment is required in order to pass MEDI7211."
+		},
+		{
+			"name": "Image-Based Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

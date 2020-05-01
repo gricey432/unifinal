@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Take Home Exam",
+			"weight": 50
+		},
+		{
+			"name": "Individual Case Study Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Problem-based questions",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on learning history",
+			"weight": 20
+		},
+		{
+			"name": "Justify a philosophy of education",
+			"weight": 30
+		},
+		{
+			"name": "Analyse an ethical scenario",
+			"weight": 50
+		}
+	]
+}

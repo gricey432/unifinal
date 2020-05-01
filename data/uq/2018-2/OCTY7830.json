@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Theory Meets Practice Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Social Change Advocacy Project",
+			"weight": 40
+		}
+	]
+}

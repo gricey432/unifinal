@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Facility Design Checkpoints",
+			"weight": 20
+		},
+		{
+			"name": "Facility Design Project",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Field Intervention/experiment",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal for Field Intervention",
+			"weight": 10
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

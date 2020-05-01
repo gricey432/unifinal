@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory/Practical",
+			"weight": 35
+		},
+		{
+			"name": "Quality Control Project",
+			"weight": 45
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 20
+		}
+	]
+}

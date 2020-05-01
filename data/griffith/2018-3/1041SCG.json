@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quiz (12x)",
+			"weight": 12
+		},
+		{
+			"name": "In-Lab Assessment (3x)",
+			"weight": 6
+		},
+		{
+			"name": "Lab Report 1 (Osmosis)",
+			"weight": 10
+		},
+		{
+			"name": "Progress Exam 1 of 3",
+			"weight": 15
+		},
+		{
+			"name": "Progress Exam 2 of 3",
+			"weight": 30
+		},
+		{
+			"name": "Lab Report 2 (Plants)",
+			"weight": 12
+		},
+		{
+			"name": "Progress Exam 3 of 3",
+			"weight": 15
+		}
+	]
+}

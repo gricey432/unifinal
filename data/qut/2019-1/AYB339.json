@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment-Discussion Forums",
+			"weight": 60
+		},
+		{
+			"name": "Integrated Case Study",
+			"weight": 40
+		}
+	]
+}

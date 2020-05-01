@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Manuscript Review",
+			"weight": 15
+		},
+		{
+			"name": "On-line pre-laboratory quiz",
+			"weight": 25
+		},
+		{
+			"name": "Mid-trimester examination",
+			"weight": 30
+		},
+		{
+			"name": "End of trimester Exam",
+			"weight": 30
+		}
+	]
+}

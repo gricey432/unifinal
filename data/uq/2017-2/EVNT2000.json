@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Critique",
+			"weight": 30
+		},
+		{
+			"name": "Activity Practicum - in teams ",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

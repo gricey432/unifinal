@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing topics posted on BlackBoard  ",
+			"weight": 10
+		},
+		{
+			"name": "Short essay",
+			"weight": 40
+		},
+		{
+			"name": "Major essay",
+			"weight": 50
+		}
+	]
+}

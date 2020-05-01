@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Part 1 (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Project Part 2 (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Project Part 3 (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Project Part 4 - Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam - Closed Book Min 45% hurdle",
+			"weight": 40
+		}
+	]
+}

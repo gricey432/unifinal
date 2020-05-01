@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission 1 - Reciprocal Frame Research & Design",
+			"weight": 30
+		},
+		{
+			"name": "Submission 2 - Concept & Structure Design",
+			"weight": 30
+		},
+		{
+			"name": "Submission 3 - Final Presentation",
+			"weight": 40
+		}
+	]
+}

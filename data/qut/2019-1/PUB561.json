@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz/Test",
+			"weight": 50
+		},
+		{
+			"name": "Problem Solving Task",
+			"weight": 50
+		}
+	]
+}

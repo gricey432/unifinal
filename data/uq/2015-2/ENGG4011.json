@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Project Findings",
+			"weight": 15
+		},
+		{
+			"name": "Final Report electronic submission",
+			"weight": 65
+		},
+		{
+			"name": "Thesis final submission",
+			"weight": 5
+		}
+	]
+}

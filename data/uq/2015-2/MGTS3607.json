@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analyses Portfolio",
+			"weight": 41
+		},
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Final Case Analysis",
+			"weight": 34
+		}
+	]
+}

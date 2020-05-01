@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Writing Development",
+			"weight": 30
+		},
+		{
+			"name": "Academic Writing Development Portfolio",
+			"weight": 30
+		},
+		{
+			"name": "Written assignment",
+			"weight": 40
+		}
+	]
+}

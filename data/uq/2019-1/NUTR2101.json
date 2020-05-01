@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tutorial content quizzes and worksheets",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

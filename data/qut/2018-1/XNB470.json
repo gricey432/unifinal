@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Employment Portfolio",
+			"weight": 0
+		},
+		{
+			"name": "Placement Performance",
+			"weight": 0
+		},
+		{
+			"name": "Logbook",
+			"weight": 0
+		}
+	]
+}

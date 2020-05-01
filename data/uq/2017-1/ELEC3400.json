@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Class Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 45
+		},
+		{
+			"name": "Laboratory OH&S",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual Laboratory Demonstration",
+			"weight": 12
+		},
+		{
+			"name": "Team Laboratory Demonstration",
+			"weight": 7
+		},
+		{
+			"name": "End of Semester Project Demonstration (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Supplementary Project Report",
+			"weight": "Supplementary assessment which MAY contribute up to 10"
+		},
+		{
+			"name": "Peer Assessment for Team Lab/Project Assessment",
+			"weight": "Scaling factor applied to team based practical marks to calculate individual mark"
+		}
+	]
+}

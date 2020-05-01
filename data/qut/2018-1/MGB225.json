@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Negotiation Plan &amp; Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Negotiation &amp; Indiv Reflection",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on readings and lecture materials",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Assignment 1 - Risk analysis",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Incident investigation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3: Assessing a big risk challenge",
+			"weight": 20
+		},
+		{
+			"name": "Oral review of performance",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

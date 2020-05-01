@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mini-Clinical Evaluation Exercise (Mini-CEX)",
+			"weight": "Compliance Hurdle: submit minimum number required per semester to avoid \"Late Notice\""
+		},
+		{
+			"name": "Mid year Formative Portfolio Review",
+			"weight": 0
+		},
+		{
+			"name": "End of year Formative Portfolio Review",
+			"weight": 0
+		},
+		{
+			"name": "Institute of Health Improvement online modules",
+			"weight": "Compliance Hurdle: Students must complete regardless of overall course outcomes"
+		},
+		{
+			"name": "Direct Observation of Procedural Skills (DOPS)",
+			"weight": "Compliance Hurdle: submit minimum number required per semester to avoid \"Late Notice\""
+		}
+	]
+}

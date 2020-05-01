@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class poster presentation",
+			"weight": 20
+		},
+		{
+			"name": "Working with people in crisis",
+			"weight": 30
+		},
+		{
+			"name": "Understanding domestic & family violence practice",
+			"weight": 50
+		}
+	]
+}

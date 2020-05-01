@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in tutorials",
+			"weight": 10
+		},
+		{
+			"name": "7x weekly quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Grammatical stylistic analysis of a short extract ",
+			"weight": 20
+		},
+		{
+			"name": "Exam on grammar, syntax, and punctuation",
+			"weight": 40
+		}
+	]
+}

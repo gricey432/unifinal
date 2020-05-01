@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Chapter 1 Part 1: Kanji & Vocabulary Test",
+			"weight": 10
+		},
+		{
+			"name": "End of Chapter 1 test - Part 2",
+			"weight": 20
+		},
+		{
+			"name": "Chapter 2 Part 1:Kanji & Vocabulary Test",
+			"weight": 10
+		},
+		{
+			"name": "End of Chapter 2 Test - Part 1",
+			"weight": 20
+		},
+		{
+			"name": "Pair work tasks",
+			"weight": 20
+		}
+	]
+}

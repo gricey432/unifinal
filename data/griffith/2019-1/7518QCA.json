@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Story(telling) project",
+			"weight": 60
+		},
+		{
+			"name": "Research Journal",
+			"weight": 40
+		}
+	]
+}

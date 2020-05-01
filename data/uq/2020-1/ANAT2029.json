@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Week 12: Meta-Learning Online Task",
+			"weight": 2
+		},
+		{
+			"name": "Week 2: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 3: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 4: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 6: Biomechanics/Tissues Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Week 8: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 9: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 10: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 11: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 12: Regional Anatomy Prep",
+			"weight": 1
+		},
+		{
+			"name": "Week 13: Biomechanics/Tissues Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Week 7: Online Practical Exam - REGIONAL ANATOMY",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Practical Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Independent Study Project Report",
+			"weight": 70
+		}
+	]
+}

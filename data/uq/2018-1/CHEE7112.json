@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Individual exercise",
+			"weight": 7
+		},
+		{
+			"name": "Project A report",
+			"weight": 28
+		},
+		{
+			"name": "Project A presentation",
+			"weight": 7
+		},
+		{
+			"name": "Individual exercise",
+			"weight": 7
+		},
+		{
+			"name": "Project B presentation",
+			"weight": 7
+		},
+		{
+			"name": "Project B report",
+			"weight": 28
+		},
+		{
+			"name": "Oral defence",
+			"weight": 15
+		}
+	]
+}

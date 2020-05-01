@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "People handling competency practical exam ",
+			"weight": 25
+		},
+		{
+			"name": "Health Promotion activity",
+			"weight": 15
+		},
+		{
+			"name": "Lifetec worksheet",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Ergonomics assignment ",
+			"weight": 30
+		},
+		{
+			"name": "Multiple Choice Theory Exam",
+			"weight": 30
+		}
+	]
+}

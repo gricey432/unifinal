@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Plan",
+			"weight": 20
+		},
+		{
+			"name": "In-class assessments",
+			"weight": 20
+		},
+		{
+			"name": "In-class project research presentation",
+			"weight": 20
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

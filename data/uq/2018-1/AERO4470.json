@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1 Hypersonic Wave Processes",
+			"weight": 4
+		},
+		{
+			"name": "Shock tunnel laboratory experiment",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 2
+		},
+		{
+			"name": "Tutorial 2 flow deflection and viscous processes",
+			"weight": 6
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 3 rarefied gas dynamics",
+			"weight": 7
+		},
+		{
+			"name": "Tutorial 4 reacting flows",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

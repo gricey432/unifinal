@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Public relations audit",
+			"weight": 30
+		},
+		{
+			"name": "Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Workbook",
+			"weight": 40
+		}
+	]
+}

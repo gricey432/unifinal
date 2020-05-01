@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Semester 1 Mid-semester Content (I) Exam",
+			"weight": 15
+		},
+		{
+			"name": "SOAP Assignment",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Avian Clinical Skills",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Semester 1 End of Semester Content (II) Exam",
+			"weight": 20
+		},
+		{
+			"name": "Reptile and small mammal clinical skills",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical surgery assessment",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Semester 2 Mid-semester Content (III) Exam",
+			"weight": 15
+		},
+		{
+			"name": "Veterinary Radiology Film Reading Exam",
+			"weight": 10
+		},
+		{
+			"name": "Anaesthesia practical examination",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Semester 2 End of Semester Content (IV) Exam",
+			"weight": 15
+		},
+		{
+			"name": "Semester 2 End of Semester Integration Exam",
+			"weight": 25
+		}
+	]
+}

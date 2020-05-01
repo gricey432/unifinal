@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Annotations of key texts",
+			"weight": 30
+		},
+		{
+			"name": "Optional Philosophy Seminar Reports",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Plan for Digital Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Digital Portfolio",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Digital story",
+			"weight": 40
+		},
+		{
+			"name": "PEARL",
+			"weight": 30
+		},
+		{
+			"name": "Class participation",
+			"weight": "Pass or fail"
+		},
+		{
+			"name": "Reflective journal",
+			"weight": "Pass or fail"
+		},
+		{
+			"name": "Research essay",
+			"weight": 30
+		}
+	]
+}

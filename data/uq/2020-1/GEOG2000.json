@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Recorded Group Discussion",
+			"weight": 40
+		},
+		{
+			"name": "Alternative to the full examination weighting",
+			"weight": 20
+		},
+		{
+			"name": "Online Examination",
+			"weight": 60
+		}
+	]
+}

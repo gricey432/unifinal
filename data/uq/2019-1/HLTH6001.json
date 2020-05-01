@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Ethics or Systematic Review Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Ethics or Systematic Review Proposal ",
+			"weight": 100
+		}
+	]
+}

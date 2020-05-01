@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Brand Positioning Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Examination",
+			"weight": 30
+		},
+		{
+			"name": "Brand Plan",
+			"weight": 30
+		}
+	]
+}

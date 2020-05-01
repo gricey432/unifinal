@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student-developed MCQ - diagnostic focus",
+			"weight": "3 of 21 Assessment criteria"
+		},
+		{
+			"name": "Clinical Participation Assessment  MIS",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Case Presentation and Discussion",
+			"weight": "9 of 21 assessment criteria"
+		},
+		{
+			"name": "Student-developed MCQ - management focus",
+			"weight": "3 of 21 Assessment criteria"
+		},
+		{
+			"name": "Understanding the Person Discussion",
+			"weight": "6 of 21 Assessment Criteria"
+		},
+		{
+			"name": "Medicine in Society Tutorials",
+			"weight": "Performance Hurdle: Satisfactory Participation required to Pass"
+		},
+		{
+			"name": "Student-developed MCQ Quiz",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course outcomes"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Experiential Assignment and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Cross-Cultural Work Adjustment Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

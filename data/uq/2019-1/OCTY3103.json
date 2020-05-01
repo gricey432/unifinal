@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "People Handling Competency",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Fieldwork (Adult Physical) ",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Fieldwork report ",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Viva Examination ",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (Theory)",
+			"weight": 50
+		},
+		{
+			"name": "Write-up - Laboratory exercise",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Report",
+			"weight": 30
+		}
+	]
+}

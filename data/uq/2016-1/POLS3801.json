@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Research Collaboration",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project outline + Internships agreement",
+			"weight": "Pass/Fail "
+		},
+		{
+			"name": "Verified Internship Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Report (6000 words)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

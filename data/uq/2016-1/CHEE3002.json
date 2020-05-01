@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Fortnightly heat & mass transfer concept questions",
+			"weight": 10
+		},
+		{
+			"name": "Chemical Engineering Lab Safety Induction",
+			"weight": "Compulsory prior to prac attendance"
+		},
+		{
+			"name": "Industrial site visit",
+			"weight": 2
+		},
+		{
+			"name": "Unit conversions and equilibrium relationships",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1 Conduction and diffusion",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Ass 2 Convection,transient conduction & diffusion",
+			"weight": 5
+		},
+		{
+			"name": "Transient heat transfer prac",
+			"weight": 3
+		},
+		{
+			"name": "Assignment 3 Heat exchanger & mass transfer design",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

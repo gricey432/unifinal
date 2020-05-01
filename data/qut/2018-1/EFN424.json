@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take-Home Exam",
+			"weight": 25
+		},
+		{
+			"name": "Presentation &amp; Trading Diary",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio",
+			"weight": 55
+		}
+	]
+}

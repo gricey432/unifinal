@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Analysis Essay",
+			"weight": 40
+		},
+		{
+			"name": "Policy Ministerial Submission",
+			"weight": 60
+		}
+	]
+}

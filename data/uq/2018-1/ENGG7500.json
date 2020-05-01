@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Core Description Report",
+			"weight": 15
+		},
+		{
+			"name": "Application of Geostatistics",
+			"weight": 10
+		},
+		{
+			"name": "Hydrocarbon Field Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

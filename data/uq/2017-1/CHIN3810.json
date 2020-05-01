@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analytical Film Critique",
+			"weight": 40
+		},
+		{
+			"name": "In-class worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Final Take Home Exam",
+			"weight": 50
+		}
+	]
+}

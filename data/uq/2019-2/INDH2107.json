@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community or health services",
+			"weight": 20
+		},
+		{
+			"name": "Critical reflective essay",
+			"weight": 50
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

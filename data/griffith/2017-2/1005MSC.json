@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Workbook & Quizzes",
+			"weight": 9
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Competency Exam",
+			"weight": 11
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

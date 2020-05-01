@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Blackboard",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard (tentative date TBC)",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard",
+			"weight": 2
+		},
+		{
+			"name": "Blackboard",
+			"weight": 2
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

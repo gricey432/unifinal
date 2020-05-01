@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Practical Java Problems",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

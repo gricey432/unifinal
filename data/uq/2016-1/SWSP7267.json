@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal 1",
+			"weight": 20
+		},
+		{
+			"name": "Case Description",
+			"weight": "Formative"
+		},
+		{
+			"name": "Family Therapy Information Pack",
+			"weight": 40
+		},
+		{
+			"name": "Case Analysis using two approaches ",
+			"weight": 40
+		}
+	]
+}

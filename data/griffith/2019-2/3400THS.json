@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "eCareer Coach activity",
+			"weight": 5
+		},
+		{
+			"name": "Learning analysis and contribution to class ",
+			"weight": 10
+		},
+		{
+			"name": "Job Application Portfolio  ",
+			"weight": 25
+		},
+		{
+			"name": "In class industry presentation",
+			"weight": 25
+		},
+		{
+			"name": "Final exam - Open Book - 2 hrs",
+			"weight": 35
+		}
+	]
+}

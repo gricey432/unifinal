@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical and clinical practice performance asse",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical Task 1 Performance assessment",
+			"weight": 10
+		},
+		{
+			"name": "Critical peer clinic reflection",
+			"weight": 10
+		},
+		{
+			"name": "Preclinical Task 2 Performance assessment",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical Task 3 Performance assessment",
+			"weight": 20
+		},
+		{
+			"name": "Clinic and Preclinic skills OSCE",
+			"weight": 20
+		}
+	]
+}

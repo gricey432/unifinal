@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Leading",
+			"weight": 10
+		},
+		{
+			"name": "Film critique",
+			"weight": 20
+		},
+		{
+			"name": "Research paper outline and annotated bib.",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 50
+		}
+	]
+}

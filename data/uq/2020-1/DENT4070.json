@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Endodontic case report -written",
+			"weight": 10
+		},
+		{
+			"name": "Endodontics",
+			"weight": 5
+		},
+		{
+			"name": "Preclinical competency- Molar Endodontics",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical competency- Paediatric dentistry",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Online Invigilated Proctored Exam",
+			"weight": 45
+		}
+	]
+}

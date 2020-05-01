@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "IPL Quiz (1 & 2)",
+			"weight": 15
+		},
+		{
+			"name": "Essay 1500 words",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		},
+		{
+			"name": "Clinical Placement (ANSAT assessment tool)",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "P/F"
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Outline",
+			"weight": 10
+		},
+		{
+			"name": "Article Review",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

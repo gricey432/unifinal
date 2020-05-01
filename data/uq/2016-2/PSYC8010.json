@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "DPsych Dissertation ",
+			"weight": 100
+		},
+		{
+			"name": "Confirmation Milestone",
+			"weight": "Mandatory"
+		}
+	]
+}

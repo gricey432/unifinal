@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory Residential School ",
+			"weight": 16
+		},
+		{
+			"name": "Modules 1 to 6",
+			"weight": 24
+		},
+		{
+			"name": "Echidna Reproduction - book chapter update",
+			"weight": 16
+		},
+		{
+			"name": "Koala disease",
+			"weight": 16
+		},
+		{
+			"name": "Final Exam",
+			"weight": 28
+		}
+	]
+}

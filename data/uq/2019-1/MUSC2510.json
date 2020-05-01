@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final exam (central)",
+			"weight": 40
+		},
+		{
+			"name": "Class discussion",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Three in-lecture listening tests",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

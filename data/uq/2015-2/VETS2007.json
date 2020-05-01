@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Immunology tutorial",
+			"weight": 2
+		},
+		{
+			"name": "Histopathology quiz",
+			"weight": 8
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 55
+		}
+	]
+}

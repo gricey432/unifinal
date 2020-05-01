@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A Real Experience of Illness",
+			"weight": 35
+		},
+		{
+			"name": "Letters to the People",
+			"weight": 15
+		},
+		{
+			"name": "OPTION 2: Development of Group Session Plan",
+			"weight": 50
+		},
+		{
+			"name": "OPTION 1 : Funding Submission to QLD Health",
+			"weight": 50
+		}
+	]
+}

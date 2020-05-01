@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation/Poster session",
+			"weight": 30
+		},
+		{
+			"name": "Critical Case Analysis",
+			"weight": 55
+		},
+		{
+			"name": "Personal Case Description",
+			"weight": 15
+		}
+	]
+}

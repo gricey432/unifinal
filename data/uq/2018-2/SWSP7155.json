@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Placement Workshop Participation & Attendance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Learning Curriculum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Integration Workshop 1 ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Process Records,Reflection Sheets and/or Analysis",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Integration Workshop 2 ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Statement of Learning",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Complete Mid point and Final Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Integration Workshop 3 ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Process Records,Reflection Sheets and/or Analysis",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Integration Workshop 4 ",
+			"weight": "Pass/Fail"
+		}
+	]
+}

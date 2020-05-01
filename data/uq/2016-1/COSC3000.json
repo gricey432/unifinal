@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation - Scientific Visualisation",
+			"weight": 15
+		},
+		{
+			"name": "Presentation - Computer Graphics",
+			"weight": 15
+		},
+		{
+			"name": "Project Proposal - Scientific Visualisation",
+			"weight": "Pass required for project grade above 1"
+		},
+		{
+			"name": "Project - Scientific Visualisation",
+			"weight": 35
+		},
+		{
+			"name": "Project Proposal - Computer Graphics",
+			"weight": "Pass required for project grade above 1"
+		},
+		{
+			"name": "Project - Computer Graphics",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Manual",
+			"weight": 60
+		},
+		{
+			"name": "Event Volunteering",
+			"weight": 25
+		},
+		{
+			"name": "Event Management",
+			"weight": 15
+		}
+	]
+}

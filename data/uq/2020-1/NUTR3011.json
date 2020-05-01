@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical appraisal",
+			"weight": 20
+		},
+		{
+			"name": "In-class exam",
+			"weight": 30
+		},
+		{
+			"name": "Personal reflection",
+			"weight": 15
+		},
+		{
+			"name": "Community nutrition investigation",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Journal 1",
+			"weight": 10
+		},
+		{
+			"name": "Journal 2",
+			"weight": 15
+		},
+		{
+			"name": "Journal 3",
+			"weight": 15
+		},
+		{
+			"name": "Group Report",
+			"weight": 40
+		}
+	]
+}

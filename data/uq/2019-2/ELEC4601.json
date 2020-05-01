@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computed Tomography (ELEC4601)",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Magnetic Resonance Imaging (ELEC4601)",
+			"weight": 15
+		},
+		{
+			"name": "Examination (Closed Book)",
+			"weight": 35
+		}
+	]
+}

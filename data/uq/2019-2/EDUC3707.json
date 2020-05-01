@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Learning Community",
+			"weight": 30
+		},
+		{
+			"name": "Group Unit Plan",
+			"weight": 40
+		},
+		{
+			"name": "Co-Teaching Demonstration",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Coursework Essay",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial 1 (Introductory)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 2 (Library Tutorial)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 3 (Heroism and the Odyssey)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Library Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 4 (Museum Pottery)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 5 (Athenian Women)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 6 (Battle of Marathon)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 7 (Spartan History)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 8 (Origins of the Peloponnesian War)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 9 (Comedy & Philosophy)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "Tutorial 10 (Aftermath of War)",
+			"weight": "Part of total 10"
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

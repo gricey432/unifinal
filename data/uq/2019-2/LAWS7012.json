@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Legal Hypothetical",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

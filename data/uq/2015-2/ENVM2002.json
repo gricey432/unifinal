@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Conference poster",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

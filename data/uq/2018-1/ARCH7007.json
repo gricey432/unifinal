@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interim Submission - Context Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Interim submission - Concept Design",
+			"weight": 25
+		},
+		{
+			"name": "Final Submission - Schematic Design",
+			"weight": 60
+		}
+	]
+}

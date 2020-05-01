@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation & assignment presentations ",
+			"weight": 6
+		},
+		{
+			"name": "Mapping Architecture",
+			"weight": 60
+		},
+		{
+			"name": "Buildings in History & Culture - Open Book Exam",
+			"weight": 34
+		}
+	]
+}

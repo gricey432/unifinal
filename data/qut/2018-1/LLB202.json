@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Negotiation &amp; drafting",
+			"weight": 20
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 60
+		}
+	]
+}

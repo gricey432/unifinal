@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Large Group Research Report and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "5 x Negotiation Reflective Reports",
+			"weight": 40
+		},
+		{
+			"name": "1st Quiz on Required Reading - In Class, Week 6",
+			"weight": 20
+		},
+		{
+			"name": "2nd Quiz on Required Reading - In Class, Week 12",
+			"weight": 20
+		}
+	]
+}

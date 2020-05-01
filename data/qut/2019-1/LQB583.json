@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory/Practical",
+			"weight": 20
+		},
+		{
+			"name": "Bioinformatic Workshops",
+			"weight": 40
+		}
+	]
+}

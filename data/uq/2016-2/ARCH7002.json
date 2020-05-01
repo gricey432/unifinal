@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1 Reading",
+			"weight": 0
+		},
+		{
+			"name": "Task 3 Design Agenda",
+			"weight": 20
+		},
+		{
+			"name": "Task 2 General Briefing",
+			"weight": 0
+		},
+		{
+			"name": "Task 4 Interim Critique Design Submission",
+			"weight": 20
+		},
+		{
+			"name": "Task 5 Final Design",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Facilitated Group Debates",
+			"weight": 35
+		},
+		{
+			"name": "Ethical Issues and the Code of Ethics",
+			"weight": 35
+		},
+		{
+			"name": "Central Examination",
+			"weight": 30
+		}
+	]
+}

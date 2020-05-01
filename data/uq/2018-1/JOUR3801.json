@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Activity Log & Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Online Portfolio",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Establish LinkedIn profile",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

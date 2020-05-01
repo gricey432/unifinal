@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Based Learning Report 1",
+			"weight": 20
+		},
+		{
+			"name": "Case Based Learning Report 2",
+			"weight": 20
+		},
+		{
+			"name": "Airway Management Clinical Skill Assessment",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam ",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 0
+		}
+	]
+}

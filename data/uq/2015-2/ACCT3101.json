@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Assignment - Audit planning & testing",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Midpoint Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Process Journal",
+			"weight": 40
+		},
+		{
+			"name": "Group Design Display and Presentation",
+			"weight": 40
+		}
+	]
+}

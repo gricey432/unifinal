@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Forum participation",
+			"weight": 5
+		},
+		{
+			"name": "Grammar test",
+			"weight": 10
+		},
+		{
+			"name": "Video production",
+			"weight": 15
+		},
+		{
+			"name": "Writing exercise",
+			"weight": 15
+		},
+		{
+			"name": "Role play",
+			"weight": 25
+		},
+		{
+			"name": "Final examination: Listening, Writing",
+			"weight": 30
+		}
+	]
+}

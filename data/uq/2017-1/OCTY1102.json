@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer interview and Reflection report",
+			"weight": 35
+		},
+		{
+			"name": "Activity and Occupational Analysis Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Communication Exam",
+			"weight": 35
+		}
+	]
+}

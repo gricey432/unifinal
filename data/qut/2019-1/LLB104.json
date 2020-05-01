@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group oral presentation",
+			"weight": 30
+		},
+		{
+			"name": "Policy Document",
+			"weight": 20
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

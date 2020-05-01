@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Innovation Strategy Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Individual and group task",
+			"weight": 60
+		},
+		{
+			"name": "Individual task",
+			"weight": 20
+		}
+	]
+}

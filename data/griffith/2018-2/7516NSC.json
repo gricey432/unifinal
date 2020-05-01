@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Airline Business Model",
+			"weight": 10
+		},
+		{
+			"name": "Airport Strategic Management",
+			"weight": 25
+		},
+		{
+			"name": "Preliminary performance & competitor analysis",
+			"weight": 20
+		},
+		{
+			"name": "Reflective journal",
+			"weight": 15
+		},
+		{
+			"name": "Annual Report",
+			"weight": 20
+		},
+		{
+			"name": "Performance and position of airline simulation",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Examination",
+			"weight": 40
+		},
+		{
+			"name": "Online Osteology Exam",
+			"weight": 30
+		},
+		{
+			"name": "Crime Scene Assemblage Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Reflection: Expert Witnesses and Expert Evidence",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in learning activities",
+			"weight": 10
+		},
+		{
+			"name": "Peer Teaching session in class",
+			"weight": 40
+		},
+		{
+			"name": "Exam for NURS1005",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Mastery",
+			"weight": 12
+		},
+		{
+			"name": "Workshop Critiques",
+			"weight": 12
+		},
+		{
+			"name": "Data Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Manuscript Critique",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Report for Practical 1",
+			"weight": 10
+		},
+		{
+			"name": "Report and Analysis of Journal Article",
+			"weight": 15
+		},
+		{
+			"name": "Report for Practical 2",
+			"weight": 10
+		},
+		{
+			"name": "Assessment: Modules 1, 2 and 3",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

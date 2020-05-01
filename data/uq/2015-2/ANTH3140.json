@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and discussion",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial discussion leadership",
+			"weight": 15
+		},
+		{
+			"name": "Essay Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Essay",
+			"weight": 40
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		}
+	]
+}

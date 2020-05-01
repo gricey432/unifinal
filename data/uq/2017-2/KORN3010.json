@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "vocab (idiom) test",
+			"weight": 15
+		},
+		{
+			"name": "Speaking Role Play Group Work",
+			"weight": 25
+		},
+		{
+			"name": "Short Exam (Written and Listening test)",
+			"weight": 25
+		},
+		{
+			"name": "Final oral interview",
+			"weight": 35
+		}
+	]
+}

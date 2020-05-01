@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial presentation: media analysis",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Essay Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Project based on tutorial presentation",
+			"weight": 20
+		}
+	]
+}

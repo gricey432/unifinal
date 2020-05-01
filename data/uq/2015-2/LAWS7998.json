@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Administrative Review Moot ",
+			"weight": 40
+		},
+		{
+			"name": "Oral presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Written assignment (discursive essay) ",
+			"weight": 40
+		}
+	]
+}

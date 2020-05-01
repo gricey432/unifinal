@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Engagement Activity points",
+			"weight": 20
+		},
+		{
+			"name": "Case Study",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Summaries",
+			"weight": 20
+		}
+	]
+}

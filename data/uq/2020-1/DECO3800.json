@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Background research report",
+			"weight": 10
+		},
+		{
+			"name": "Active studio participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Problem identification",
+			"weight": 20
+		},
+		{
+			"name": "Interim project critique",
+			"weight": 20
+		},
+		{
+			"name": "Project Proposal Report",
+			"weight": 30
+		},
+		{
+			"name": "Reflective report",
+			"weight": 20
+		}
+	]
+}

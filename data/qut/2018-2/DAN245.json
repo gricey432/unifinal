@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Simulation",
+			"weight": 40
+		},
+		{
+			"name": "Module 2 Report",
+			"weight": 60
+		}
+	]
+}

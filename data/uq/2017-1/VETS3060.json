@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Series of practical class assessments",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester 1 exam",
+			"weight": 15
+		},
+		{
+			"name": "End of semester 1 Exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid semester 2 Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of semester 2 exam",
+			"weight": 25
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 20
+		},
+		{
+			"name": "Practical skills examination",
+			"weight": "pass/fail"
+		}
+	]
+}

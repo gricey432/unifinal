@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Medical Records and Clinical Case Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Surgical Suture and Instrumentation",
+			"weight": 2
+		},
+		{
+			"name": "Semester 1 Examination",
+			"weight": 25
+		},
+		{
+			"name": "Surgery and anaesthesia OSCE",
+			"weight": 18
+		},
+		{
+			"name": "Semester 2 Examination",
+			"weight": 20
+		},
+		{
+			"name": "Integration viva voce (oral) examination",
+			"weight": 25
+		}
+	]
+}

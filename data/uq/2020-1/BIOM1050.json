@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Toad Anatomy",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Theory Exam (On-Line)",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 60
+		}
+	]
+}

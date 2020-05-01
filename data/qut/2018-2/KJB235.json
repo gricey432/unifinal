@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "News Bulletin Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Radio Praxis",
+			"weight": 40
+		},
+		{
+			"name": "TV Praxis",
+			"weight": 40
+		}
+	]
+}

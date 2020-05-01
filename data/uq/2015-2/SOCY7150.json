@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Issues paper",
+			"weight": 30
+		},
+		{
+			"name": "Presentation of Community Profile/Visioning",
+			"weight": 15
+		},
+		{
+			"name": "Peer Assessment of student effort",
+			"weight": 10
+		},
+		{
+			"name": "Strategic Planning for Multicultural Arts",
+			"weight": 45
+		}
+	]
+}

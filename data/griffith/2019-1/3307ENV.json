@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "IN-MODULE ASST 1 - REFLECTIVE JOURNAL",
+			"weight": 20
+		},
+		{
+			"name": "END OF MODULE ASST - MINI-ESSAYS",
+			"weight": 30
+		},
+		{
+			"name": "IN-MODULE ASST 2 - ON-LINE QUIZZES",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics",
+			"weight": 10
+		},
+		{
+			"name": "Written test on musicological research methods",
+			"weight": 10
+		},
+		{
+			"name": "Bach's Musical Offering",
+			"weight": 25
+		},
+		{
+			"name": "In-class exam",
+			"weight": 20
+		},
+		{
+			"name": "Honours research proposal",
+			"weight": 35
+		}
+	]
+}

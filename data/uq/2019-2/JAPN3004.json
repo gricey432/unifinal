@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Worksheets",
+			"weight": 28
+		},
+		{
+			"name": "Oral Presentation 1",
+			"weight": 12
+		},
+		{
+			"name": "Oral Presentation 2",
+			"weight": 15
+		},
+		{
+			"name": "Test",
+			"weight": 20
+		}
+	]
+}

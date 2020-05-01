@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Major report",
+			"weight": 50
+		},
+		{
+			"name": "Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Supervisor assessment",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SWOT Analysis ",
+			"weight": 35
+		},
+		{
+			"name": "Self-Marketing Plan",
+			"weight": 45
+		},
+		{
+			"name": "Video Resume",
+			"weight": 20
+		}
+	]
+}

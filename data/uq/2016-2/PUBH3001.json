@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "MINI LITERATURE SEARCH AND REVIEW",
+			"weight": 15
+		},
+		{
+			"name": "IN-CLASS QUIZ",
+			"weight": 20
+		},
+		{
+			"name": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES",
+			"weight": 25
+		},
+		{
+			"name": "INDIVIDUAL WRITTEN REPORT",
+			"weight": 40
+		}
+	]
+}

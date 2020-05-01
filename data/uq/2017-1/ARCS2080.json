@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online test",
+			"weight": 30
+		},
+		{
+			"name": "Practical exam 1",
+			"weight": 20
+		},
+		{
+			"name": "An essay in archaeobotany",
+			"weight": 30
+		},
+		{
+			"name": "Practical Exam 2",
+			"weight": 20
+		}
+	]
+}

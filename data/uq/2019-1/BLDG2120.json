@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quizzes - Reading review ",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1: Survey Report - (My)Home performance",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: (Retro)Home Design",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3:(Prefab)Home Design",
+			"weight": 40
+		}
+	]
+}

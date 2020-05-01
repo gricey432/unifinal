@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1: Critical Review and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Module 2 & 3: Lab Demo and Class Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Module 4: Lab. Demonstration plus Technical paper",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (1.5Hr, MC, Short Answer, Prob.Solving)",
+			"weight": 25
+		}
+	]
+}

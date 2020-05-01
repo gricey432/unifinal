@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Field trip report",
+			"weight": 30
+		},
+		{
+			"name": "Best practice and innovation: case studies",
+			"weight": 30
+		},
+		{
+			"name": "Group impact assessment and management plan",
+			"weight": 40
+		}
+	]
+}

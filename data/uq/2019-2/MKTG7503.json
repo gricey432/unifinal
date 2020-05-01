@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CB Project & Team Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

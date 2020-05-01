@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Investment Portfolios and Valuation ",
+			"weight": 15
+		},
+		{
+			"name": "Mid-term",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

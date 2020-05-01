@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation & Participation",
+			"weight": 15
+		},
+		{
+			"name": "Programming film history",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of Australian films or TV",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical and Professional Issues in Practice",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 70
+		}
+	]
+}

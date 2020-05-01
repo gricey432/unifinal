@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Patient Interview Competency Exam",
+			"weight": 5
+		},
+		{
+			"name": "CR of PI information and theory examination",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio item-P/E and recording,Reflective essay",
+			"weight": 10
+		},
+		{
+			"name": "Written Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Case based practical station examination ",
+			"weight": 35
+		}
+	]
+}

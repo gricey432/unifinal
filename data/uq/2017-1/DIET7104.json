@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small tasks",
+			"weight": 20
+		},
+		{
+			"name": "Menu planning assignment",
+			"weight": 20
+		},
+		{
+			"name": "end of semester examination",
+			"weight": 60
+		}
+	]
+}

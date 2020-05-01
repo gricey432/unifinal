@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Four short weekly quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Best of the Best Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

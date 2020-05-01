@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project idea",
+			"weight": 10
+		},
+		{
+			"name": "Social and Mobile Investigation",
+			"weight": 15
+		},
+		{
+			"name": "Project and Context Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Oral pitch and project proposal",
+			"weight": 20
+		},
+		{
+			"name": "Design Prototype",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Individual Assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "Final Take Home Exam (Non-invigilated)",
+			"weight": 50
+		}
+	]
+}

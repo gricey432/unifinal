@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical work across the year",
+			"weight": 30
+		},
+		{
+			"name": "Pre-clinical exercises",
+			"weight": 40
+		},
+		{
+			"name": "Semester 2 Theory Examination",
+			"weight": 30
+		}
+	]
+}

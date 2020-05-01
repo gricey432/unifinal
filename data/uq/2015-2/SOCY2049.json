@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Presentation ",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Ethnography literature review & fieldwork plan",
+			"weight": 15
+		},
+		{
+			"name": "Understanding Sport Communities Ethnography Paper",
+			"weight": 35
+		},
+		{
+			"name": "End of semester examination - online",
+			"weight": 20
+		}
+	]
+}

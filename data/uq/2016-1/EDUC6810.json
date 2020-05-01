@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Geographical Inquiry + Lesson Plan",
+			"weight": 20
+		},
+		{
+			"name": "Stimulus Response Essay + Unit Plan",
+			"weight": 40
+		},
+		{
+			"name": "Geographic Field Study: Organisation & Assessment ",
+			"weight": 40
+		}
+	]
+}

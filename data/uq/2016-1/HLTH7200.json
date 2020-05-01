@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam Part A (Modules 1-6)",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Journal Part A (Modules 1-6)",
+			"weight": 10
+		},
+		{
+			"name": "Online Exam Part B (Modules 7-12)",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal Part B (Modules 7-12)",
+			"weight": 10
+		}
+	]
+}

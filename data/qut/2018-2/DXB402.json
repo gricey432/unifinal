@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay with visual annotations",
+			"weight": 40
+		},
+		{
+			"name": "Res Paper: Des Insights/Pitch",
+			"weight": 60
+		}
+	]
+}

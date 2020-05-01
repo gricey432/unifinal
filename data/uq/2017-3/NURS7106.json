@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Discussion Postings",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment 1000 words",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Selection Criteria",
+			"weight": 15
+		},
+		{
+			"name": "Interview Skills (video)",
+			"weight": 15
+		},
+		{
+			"name": "Leadership & Influencing",
+			"weight": 15
+		},
+		{
+			"name": "Workplace Training",
+			"weight": 15
+		},
+		{
+			"name": "Training Session Plan",
+			"weight": 10
+		},
+		{
+			"name": "Emerging Issues",
+			"weight": 30
+		}
+	]
+}

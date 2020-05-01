@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Honours application and learning contract",
+			"weight": 0
+		},
+		{
+			"name": "Comprehensive review of relevant literature",
+			"weight": 0
+		},
+		{
+			"name": "Research Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Supervisor's report",
+			"weight": 10
+		},
+		{
+			"name": "Project Report/Thesis",
+			"weight": 70
+		}
+	]
+}

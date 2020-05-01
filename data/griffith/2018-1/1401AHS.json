@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook",
+			"weight": 15
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "PATIENT INTERVIEW AND REFLECTION",
+			"weight": 30
+		},
+		{
+			"name": "Practical Exam (VIVA)",
+			"weight": 40
+		},
+		{
+			"name": "Interprofessional Learning",
+			"weight": 10
+		}
+	]
+}

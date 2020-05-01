@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Research Presentation and Poster ",
+			"weight": 30
+		},
+		{
+			"name": "Prac Exam",
+			"weight": 35
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 35
+		}
+	]
+}

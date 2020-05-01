@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Leadership",
+			"weight": 15
+		},
+		{
+			"name": "Family of Origin Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Article for ANZJFT",
+			"weight": 50
+		}
+	]
+}

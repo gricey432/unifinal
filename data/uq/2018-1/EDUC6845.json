@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Film, Television and New Media Unit Plan",
+			"weight": 33
+		},
+		{
+			"name": "Documentary Production",
+			"weight": 33
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 33
+		}
+	]
+}

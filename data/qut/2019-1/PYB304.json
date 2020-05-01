@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Log/Workbook",
+			"weight": 0
+		},
+		{
+			"name": "Mid semester examination",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

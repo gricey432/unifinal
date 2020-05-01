@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Reading Reports",
+			"weight": 16
+		},
+		{
+			"name": "Participation in Tutorial Discussion",
+			"weight": 9
+		},
+		{
+			"name": "Textual Analysis ",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay ",
+			"weight": 45
+		}
+	]
+}

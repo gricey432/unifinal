@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: A teaching philosophy statement",
+			"weight": "Pass"
+		},
+		{
+			"name": "Assignment 2: Designing assessment: Initial Draft ",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 3: Peer feedback",
+			"weight": "Pass"
+		},
+		{
+			"name": "Assignment 4: Designing Assessment Final Draft",
+			"weight": "Pass"
+		}
+	]
+}

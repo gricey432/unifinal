@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Journal/Novel",
+			"weight": 40
+		},
+		{
+			"name": "Reading/Writing File",
+			"weight": 60
+		}
+	]
+}

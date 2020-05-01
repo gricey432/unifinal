@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Minor Essay - 1100 words",
+			"weight": 15
+		},
+		{
+			"name": "Major Essay - 2000 words",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

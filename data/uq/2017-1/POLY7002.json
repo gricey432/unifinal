@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Researching an applied policy practice",
+			"weight": 30
+		},
+		{
+			"name": "Social Policy Submission",
+			"weight": 35
+		},
+		{
+			"name": "Social Policy Submission",
+			"weight": 35
+		}
+	]
+}

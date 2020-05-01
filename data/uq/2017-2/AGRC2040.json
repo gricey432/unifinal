@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Herbicide resistance quiz",
+			"weight": 5
+		},
+		{
+			"name": "Weed ID",
+			"weight": 10
+		},
+		{
+			"name": "Crop nutrition report",
+			"weight": 25
+		},
+		{
+			"name": "Harvest weed seed control quiz",
+			"weight": 5
+		},
+		{
+			"name": "Class presentations",
+			"weight": 10
+		},
+		{
+			"name": "Final examination at end of semester",
+			"weight": 45
+		}
+	]
+}

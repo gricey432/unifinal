@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 5
+		},
+		{
+			"name": "Two HSK tests ",
+			"weight": 5
+		},
+		{
+			"name": "Weekly dictation",
+			"weight": 10
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Oral interview",
+			"weight": 35
+		}
+	]
+}

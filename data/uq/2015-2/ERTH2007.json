@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Ideal Gas and Dynamical Systems",
+			"weight": 5
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 10
+		},
+		{
+			"name": "Geochronology & Error Propagation",
+			"weight": 5
+		},
+		{
+			"name": "Fluid Mechanics & Darcy's Law",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 10
+		},
+		{
+			"name": "Heat transfer & stress",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

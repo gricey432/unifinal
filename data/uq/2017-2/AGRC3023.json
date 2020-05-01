@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Strategy Simulation",
+			"weight": 25
+		},
+		{
+			"name": "MID-SEMESTER TEST",
+			"weight": 25
+		},
+		{
+			"name": "Group Case Study Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Online Simulation Exam",
+			"weight": 25
+		}
+	]
+}

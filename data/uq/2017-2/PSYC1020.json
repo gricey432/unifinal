@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Up to Six Research Participation Sessions",
+			"weight": 6
+		},
+		{
+			"name": "Mid-Semester Online Quiz",
+			"weight": 9
+		},
+		{
+			"name": "Draft of Essay Introduction",
+			"weight": 0
+		},
+		{
+			"name": "Complete Essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

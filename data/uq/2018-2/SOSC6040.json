@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Research Communication Plan and Example",
+			"weight": 5
+		},
+		{
+			"name": "First Draft of Research Communication Item",
+			"weight": 5
+		},
+		{
+			"name": "Peer Review of Research Communication Drafts",
+			"weight": 2
+		},
+		{
+			"name": "Social Media Training Activity",
+			"weight": 2
+		},
+		{
+			"name": "Social Media Post",
+			"weight": 10
+		},
+		{
+			"name": "Three Minute Thesis",
+			"weight": 35
+		},
+		{
+			"name": "Research Communication Item",
+			"weight": 40
+		}
+	]
+}

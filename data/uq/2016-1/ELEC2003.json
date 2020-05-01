@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical lab work",
+			"weight": 15
+		},
+		{
+			"name": "Tutorials",
+			"weight": 15
+		},
+		{
+			"name": "AC Circuits only ",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

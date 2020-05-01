@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Entries",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay: 2,500 words",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial Attendance/Participation ",
+			"weight": 10
+		}
+	]
+}

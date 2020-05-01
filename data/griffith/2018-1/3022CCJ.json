@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Restorative justice practice role play",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 45
+		},
+		{
+			"name": "Competency-based skills assessment",
+			"weight": 45
+		}
+	]
+}

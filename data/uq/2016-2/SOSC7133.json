@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "COMMUNITY CULTURAL DEVELOPMENT JOURNAL",
+			"weight": 48
+		},
+		{
+			"name": "ARTIST STATEMENT",
+			"weight": 17
+		},
+		{
+			"name": "CULTURAL CREATION",
+			"weight": 35
+		}
+	]
+}

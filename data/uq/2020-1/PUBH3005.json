@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Strategy Report",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2 - Needs Assessment and Stakeholders",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 - Program Logic Model",
+			"weight": 35
+		}
+	]
+}

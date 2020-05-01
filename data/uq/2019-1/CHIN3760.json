@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class quiz",
+			"weight": 10
+		},
+		{
+			"name": "Class Participation",
+			"weight": 5
+		},
+		{
+			"name": "Translation Test ",
+			"weight": 35
+		},
+		{
+			"name": "Final translation pratice",
+			"weight": 50
+		}
+	]
+}

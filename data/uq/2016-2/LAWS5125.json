@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Research Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Problem Solving Exercise",
+			"weight": 40
+		}
+	]
+}

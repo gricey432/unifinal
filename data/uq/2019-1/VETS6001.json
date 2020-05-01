@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Structured research question&project background",
+			"weight": 20
+		},
+		{
+			"name": "Epi quiz 1: study design and bias",
+			"weight": 20
+		},
+		{
+			"name": "Epi quiz 2: basic stats, power and sample size",
+			"weight": 20
+		},
+		{
+			"name": "Design a simple research proposal",
+			"weight": 20
+		},
+		{
+			"name": "Create a publication quality graphics with legends",
+			"weight": 20
+		}
+	]
+}

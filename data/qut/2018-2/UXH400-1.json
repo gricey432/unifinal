@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 60
+		},
+		{
+			"name": "Ethics Application",
+			"weight": 40
+		}
+	]
+}

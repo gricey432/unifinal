@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Critique",
+			"weight": 30
+		},
+		{
+			"name": "Creative Work",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Problems",
+			"weight": 7
+		},
+		{
+			"name": "Homework Problems",
+			"weight": 9
+		},
+		{
+			"name": "Homework Problems",
+			"weight": 9
+		},
+		{
+			"name": "Well Test Analysis Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

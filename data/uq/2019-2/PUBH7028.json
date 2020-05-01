@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course participation",
+			"weight": 5
+		},
+		{
+			"name": "Online exam",
+			"weight": 20
+		},
+		{
+			"name": "Critique of Articles on Alcohol-Related Problems",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay on Alcohol Policy",
+			"weight": 45
+		}
+	]
+}

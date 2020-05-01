@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Close theoretical reading",
+			"weight": 15
+		},
+		{
+			"name": "Topics for Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Short 'lit review' essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Research Essay",
+			"weight": 40
+		}
+	]
+}

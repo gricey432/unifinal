@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Space Group Determination Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Crystal Structure Determination",
+			"weight": 20
+		},
+		{
+			"name": "Crystallography Exam",
+			"weight": 25
+		},
+		{
+			"name": "Spectroscopy Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Spectroscopy Exam",
+			"weight": 30
+		}
+	]
+}

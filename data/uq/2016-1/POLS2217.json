@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning through dialogue and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 50
+		}
+	]
+}

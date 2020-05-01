@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Thursday Oct 15, 12:00pm",
+			"weight": 50
+		}
+	]
+}

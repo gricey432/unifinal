@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical Reflection (500 words)",
+			"weight": 15
+		},
+		{
+			"name": "(2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "(2000 words)",
+			"weight": 35
+		}
+	]
+}

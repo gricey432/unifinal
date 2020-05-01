@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Vulnerability Assessment Framework",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz ",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Report ",
+			"weight": 30
+		},
+		{
+			"name": "Academic Paper",
+			"weight": 40
+		}
+	]
+}

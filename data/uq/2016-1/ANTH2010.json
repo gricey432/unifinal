@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Social organisation and kinship Test ",
+			"weight": 15
+		},
+		{
+			"name": "Short essay",
+			"weight": 25
+		},
+		{
+			"name": "2000 word essay",
+			"weight": 40
+		}
+	]
+}

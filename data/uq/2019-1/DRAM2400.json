@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Assessable tutorial exercises",
+			"weight": 30
+		},
+		{
+			"name": "Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Critical Research Essay",
+			"weight": 30
+		}
+	]
+}

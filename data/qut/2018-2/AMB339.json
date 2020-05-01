@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Role Project",
+			"weight": 50
+		},
+		{
+			"name": "Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Reflection Presentation",
+			"weight": 30
+		}
+	]
+}

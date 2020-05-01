@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Studio-based Rehearsal",
+			"weight": 20
+		},
+		{
+			"name": "Written Reflection",
+			"weight": 25
+		},
+		{
+			"name": "Performance",
+			"weight": 55
+		}
+	]
+}

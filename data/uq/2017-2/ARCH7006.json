@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategy plan",
+			"weight": 20
+		},
+		{
+			"name": "Architectural concept",
+			"weight": 20
+		},
+		{
+			"name": "Architectural project",
+			"weight": 60
+		}
+	]
+}

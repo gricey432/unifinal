@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Design - Tall Timber Office Building",
+			"weight": 60
+		},
+		{
+			"name": "Design for Digitally Fabricated Meeting Pod",
+			"weight": 40
+		}
+	]
+}

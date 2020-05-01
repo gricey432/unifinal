@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Argumentative Essay Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

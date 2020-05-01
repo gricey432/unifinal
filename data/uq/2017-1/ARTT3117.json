@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation ",
+			"weight": 10
+		},
+		{
+			"name": "Exhibition review",
+			"weight": 25
+		},
+		{
+			"name": "3 critical annotations of course texts on AustLit",
+			"weight": 15
+		},
+		{
+			"name": "Exhibition proposal",
+			"weight": 50
+		}
+	]
+}

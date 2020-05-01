@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Activities",
+			"weight": 45
+		},
+		{
+			"name": "Log of Simulation - Everest",
+			"weight": 10
+		},
+		{
+			"name": "Case Analysis Report - Parts A and B",
+			"weight": 45
+		}
+	]
+}

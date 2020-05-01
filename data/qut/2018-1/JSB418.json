@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Map",
+			"weight": 20
+		},
+		{
+			"name": "Thesis Proposal Paper",
+			"weight": 60
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		}
+	]
+}

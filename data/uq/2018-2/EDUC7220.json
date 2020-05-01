@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The role of the Support Teacher ",
+			"weight": 20
+		},
+		{
+			"name": "Part I - Assessment and Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Part II - Intervention, Monitoring and Adaptation",
+			"weight": 45
+		}
+	]
+}

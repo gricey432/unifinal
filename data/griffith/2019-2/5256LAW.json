@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Presentation / Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blended Learning Exercises including online tests ",
+			"weight": 15
+		},
+		{
+			"name": "Research Paper 1500 words",
+			"weight": 25
+		},
+		{
+			"name": "Final Written Assessment",
+			"weight": 50
+		}
+	]
+}

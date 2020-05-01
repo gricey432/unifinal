@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Reflective Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Micro Teaching ",
+			"weight": 20
+		},
+		{
+			"name": "Review of empirical research ",
+			"weight": 25
+		},
+		{
+			"name": "Curriculum Development Project",
+			"weight": 40
+		}
+	]
+}

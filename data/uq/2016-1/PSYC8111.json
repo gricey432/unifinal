@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in PBL Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "PBL Group presentation",
+			"weight": 45
+		},
+		{
+			"name": "PBL Individual Written Report",
+			"weight": 45
+		}
+	]
+}

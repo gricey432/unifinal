@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop preparation and contribution",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Business submission OR Essay",
+			"weight": 40
+		},
+		{
+			"name": "Short answer take home exam",
+			"weight": 40
+		}
+	]
+}

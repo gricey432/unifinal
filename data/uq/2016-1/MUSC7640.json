@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Examination",
+			"weight": 15
+		},
+		{
+			"name": "Part 1: Assignments weeks 1, 2, 3, 5, 6",
+			"weight": 30
+		},
+		{
+			"name": "Music Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Part 2: Assignments weeks 7, 8, 9, 10, 11",
+			"weight": 30
+		}
+	]
+}

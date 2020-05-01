@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Slope deflection method",
+			"weight": 10
+		},
+		{
+			"name": "Moment-distribution method",
+			"weight": 10
+		},
+		{
+			"name": "Rapid BMD sketching of indeterminate structures ",
+			"weight": 10
+		},
+		{
+			"name": "Direct stiffness method/computational software",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation lectures & guest lecture reports",
+			"weight": 20
+		},
+		{
+			"name": "Pitch presentation group assignment",
+			"weight": 10
+		},
+		{
+			"name": "Group assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final presentation ",
+			"weight": 30
+		}
+	]
+}

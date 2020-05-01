@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Biosecurity and Australian animal industries ",
+			"weight": 20
+		},
+		{
+			"name": "Progressive Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 60
+		}
+	]
+}

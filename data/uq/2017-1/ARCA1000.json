@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Worksheet",
+			"weight": 15
+		},
+		{
+			"name": "Essay Prospectus",
+			"weight": 10
+		},
+		{
+			"name": "Multi-choice test",
+			"weight": 20
+		},
+		{
+			"name": "A key theme in archaeology",
+			"weight": 25
+		},
+		{
+			"name": "Multi-choice and short-answer exam",
+			"weight": 30
+		}
+	]
+}

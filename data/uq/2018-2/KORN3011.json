@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework",
+			"weight": 15
+		},
+		{
+			"name": "Vocabulary Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term Test",
+			"weight": 25
+		},
+		{
+			"name": "In-class writing test",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

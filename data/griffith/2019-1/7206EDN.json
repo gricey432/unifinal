@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Resource Folio (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Child Study Report (3000 words)",
+			"weight": 60
+		}
+	]
+}

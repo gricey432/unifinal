@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Exhibition review",
+			"weight": 40
+		},
+		{
+			"name": "Exhibition project ",
+			"weight": 50
+		}
+	]
+}

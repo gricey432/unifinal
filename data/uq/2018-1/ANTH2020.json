@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 20
+		},
+		{
+			"name": "Biographical Note",
+			"weight": 30
+		},
+		{
+			"name": "Essay Argument Map",
+			"weight": 5
+		},
+		{
+			"name": "Essay",
+			"weight": 45
+		}
+	]
+}

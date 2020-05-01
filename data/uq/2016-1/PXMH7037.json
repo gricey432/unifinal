@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical examination",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Visual and written  Reflections",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Practicum Log",
+			"weight": "pass/fail"
+		}
+	]
+}

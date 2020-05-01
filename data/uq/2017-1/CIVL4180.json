@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester test",
+			"weight": 20
+		},
+		{
+			"name": "Sustainable island resort design",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

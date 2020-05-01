@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-trimester laboratory exam",
+			"weight": 10
+		},
+		{
+			"name": "Final laboratory exam",
+			"weight": 10
+		},
+		{
+			"name": "End of Trimester Written Exam-Unit 1: Oral Biology",
+			"weight": 20
+		},
+		{
+			"name": "Collective Assessment - T2",
+			"weight": 60
+		},
+		{
+			"name": "Written Exam - T1",
+			"weight": 15
+		},
+		{
+			"name": "Communication Skills Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Self Reflection - T1",
+			"weight": 10
+		},
+		{
+			"name": "Collective Assessment - T2",
+			"weight": 65
+		},
+		{
+			"name": "Online content - Test or quiz",
+			"weight": 0
+		},
+		{
+			"name": "Manual Dexterity Exercises",
+			"weight": 0
+		}
+	]
+}

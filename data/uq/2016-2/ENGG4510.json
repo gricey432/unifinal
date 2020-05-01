@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Project Execution",
+			"weight": 15
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Synopsis for Seminar",
+			"weight": 0
+		},
+		{
+			"name": "Presentation Computer Files",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Presentation and Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Final Thesis",
+			"weight": 70
+		},
+		{
+			"name": "Reflection on Workshops",
+			"weight": 0
+		}
+	]
+}

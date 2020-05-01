@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Fortnightly Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard reading quiz",
+			"weight": 10
+		},
+		{
+			"name": "Advanced quantum theory report",
+			"weight": 15
+		},
+		{
+			"name": "Midsemester exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

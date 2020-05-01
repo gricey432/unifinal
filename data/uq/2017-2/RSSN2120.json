@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets and writing prompts",
+			"weight": 20
+		},
+		{
+			"name": "Attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester oral interview",
+			"weight": 10
+		},
+		{
+			"name": "Central Examination",
+			"weight": 40
+		},
+		{
+			"name": "End-of semester Oral Interview",
+			"weight": 20
+		}
+	]
+}

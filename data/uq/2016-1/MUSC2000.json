@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal and Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Two Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Final Essay",
+			"weight": 50
+		}
+	]
+}

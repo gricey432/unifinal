@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Week 4 online quiz",
+			"weight": 5
+		},
+		{
+			"name": "Picturing Philosophy I",
+			"weight": 30
+		},
+		{
+			"name": "Philosophical Correspondence",
+			"weight": 30
+		},
+		{
+			"name": "Online quiz II",
+			"weight": 5
+		},
+		{
+			"name": "Take home examination ",
+			"weight": 25
+		}
+	]
+}

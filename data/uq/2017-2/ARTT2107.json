@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Focus Question Preparation & Participation",
+			"weight": 20
+		},
+		{
+			"name": "In Class Exam",
+			"weight": 40
+		},
+		{
+			"name": "Research-Essay",
+			"weight": 40
+		}
+	]
+}

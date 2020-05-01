@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Media representation",
+			"weight": 10
+		},
+		{
+			"name": "Essay proposal",
+			"weight": 10
+		},
+		{
+			"name": "Issues in Intercultural Communication",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

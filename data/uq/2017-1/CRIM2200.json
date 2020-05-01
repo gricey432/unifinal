@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "2 Workbooks ",
+			"weight": 80
+		},
+		{
+			"name": "MULTI-CHOICE TEST",
+			"weight": 20
+		}
+	]
+}

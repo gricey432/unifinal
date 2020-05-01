@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "ROM and MMT viva (OT component)",
+			"weight": 15
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design Logbook",
+			"weight": 40
+		},
+		{
+			"name": "Design Challenge 1",
+			"weight": 30
+		},
+		{
+			"name": "Design Challenge 2",
+			"weight": 30
+		}
+	]
+}

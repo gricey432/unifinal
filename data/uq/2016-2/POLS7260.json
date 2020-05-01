@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Response",
+			"weight": 10
+		},
+		{
+			"name": "Essay topic and outline",
+			"weight": 5
+		},
+		{
+			"name": "Draft Essay for Essay Exchange",
+			"weight": 5
+		},
+		{
+			"name": " Essay - 4000 words",
+			"weight": 45
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		}
+	]
+}

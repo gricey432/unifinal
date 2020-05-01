@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation on case study",
+			"weight": 20
+		},
+		{
+			"name": "Reflective essay on case study",
+			"weight": 20
+		},
+		{
+			"name": "Consulting Report",
+			"weight": 60
+		}
+	]
+}

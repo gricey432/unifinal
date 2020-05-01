@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short Paper",
+			"weight": 30
+		},
+		{
+			"name": "Long Paper",
+			"weight": 50
+		},
+		{
+			"name": "Presence and participation",
+			"weight": 20
+		}
+	]
+}

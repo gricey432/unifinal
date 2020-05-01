@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Skills journal",
+			"weight": 33
+		},
+		{
+			"name": "Action Learning Project ",
+			"weight": 34
+		},
+		{
+			"name": "Final semester exam",
+			"weight": 33
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Discussion & Report",
+			"weight": 14
+		},
+		{
+			"name": "Communication technologies with BIM",
+			"weight": 26
+		},
+		{
+			"name": "Mini BIM Project",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

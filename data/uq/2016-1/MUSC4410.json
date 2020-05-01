@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics",
+			"weight": 10
+		},
+		{
+			"name": "19th century song research project",
+			"weight": 30
+		},
+		{
+			"name": "Music research in Education",
+			"weight": 30
+		},
+		{
+			"name": "Mini lit-review and case study",
+			"weight": 30
+		}
+	]
+}

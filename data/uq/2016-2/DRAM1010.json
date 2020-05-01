@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Dramaturgical Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Performance Project OR Production Secondment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 25
+		}
+	]
+}

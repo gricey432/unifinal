@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concert Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Ensemble Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Rehearsal Attendance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

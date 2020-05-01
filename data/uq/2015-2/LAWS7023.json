@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Law Mid-semester Examination",
+			"weight": 45
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

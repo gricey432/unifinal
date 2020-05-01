@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Review of a work of Popular History",
+			"weight": 20
+		},
+		{
+			"name": "Essay Proposal and Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		}
+	]
+}

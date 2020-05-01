@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design record (Workbook)",
+			"weight": 30
+		},
+		{
+			"name": "Design Project (Design)",
+			"weight": 50
+		},
+		{
+			"name": "Quiz/Test",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": "used to determine final grade"
+		},
+		{
+			"name": "Just the Facts",
+			"weight": "equal"
+		},
+		{
+			"name": "Infographics",
+			"weight": "equal"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "equal"
+		}
+	]
+}

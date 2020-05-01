@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets in-class ",
+			"weight": 60
+		},
+		{
+			"name": "Presentations",
+			"weight": 40
+		}
+	]
+}

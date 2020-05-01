@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Tutor book comparison - Keyboard",
+			"weight": 50
+		},
+		{
+			"name": "Lecture Reflections - Keyboard",
+			"weight": 50
+		},
+		{
+			"name": "Bodymapping - Voice",
+			"weight": 50
+		},
+		{
+			"name": "Viva Voce - Voice",
+			"weight": 50
+		},
+		{
+			"name": "Tutor book comparison - Strings",
+			"weight": 50
+		},
+		{
+			"name": "Lesson Plans - Strings",
+			"weight": 50
+		},
+		{
+			"name": "Tutor book comparison - guitar",
+			"weight": 50
+		},
+		{
+			"name": "Lesson Plans - guitar",
+			"weight": 50
+		},
+		{
+			"name": "Tutor book comparison",
+			"weight": 50
+		},
+		{
+			"name": "Lesson Plans",
+			"weight": 50
+		},
+		{
+			"name": "Tutor book comparison - wind and brass",
+			"weight": 50
+		},
+		{
+			"name": "Lesson Plans - wind and brass",
+			"weight": 50
+		},
+		{
+			"name": "Tutor book comparison - percussion",
+			"weight": 50
+		},
+		{
+			"name": "Lesson Plans - percussion",
+			"weight": 50
+		}
+	]
+}

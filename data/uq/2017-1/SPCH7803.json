@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Fluency Disorders",
+			"weight": 15
+		},
+		{
+			"name": "Hearing",
+			"weight": 5
+		},
+		{
+			"name": "Voice Disorders",
+			"weight": 20
+		},
+		{
+			"name": "Fluency - Stuttering Simulation Clinical Practice",
+			"weight": 20
+		},
+		{
+			"name": "SPCH7803/1 Voice Disorders + ENT",
+			"weight": 25
+		},
+		{
+			"name": "SPCH7803/2 Fluency Disorders",
+			"weight": 15
+		}
+	]
+}

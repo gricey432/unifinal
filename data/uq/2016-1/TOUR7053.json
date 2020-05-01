@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article review and discussion",
+			"weight": 15
+		},
+		{
+			"name": "Uganda Consultancy Project - Part 1",
+			"weight": 45
+		},
+		{
+			"name": "Uganda Consultancy Project - Part II & III",
+			"weight": 40
+		}
+	]
+}

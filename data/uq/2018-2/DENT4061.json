@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "case presentation",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Practice Performance ",
+			"weight": "P/F "
+		},
+		{
+			"name": "Written ",
+			"weight": 40
+		}
+	]
+}

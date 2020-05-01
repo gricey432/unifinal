@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in online discussion",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Hydrology and Mining",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Water quality and mining",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3: Methods of monitoring",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 4: Analysing & presenting project data",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 5: Final report",
+			"weight": 30
+		}
+	]
+}

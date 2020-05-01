@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Talent Management Models",
+			"weight": 30
+		},
+		{
+			"name": "Group Oral Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 30
+		}
+	]
+}

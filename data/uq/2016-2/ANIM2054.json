@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical attendance and participation",
+			"weight": 20
+		},
+		{
+			"name": "Sheep/goats",
+			"weight": 15
+		},
+		{
+			"name": "Dairy",
+			"weight": 15
+		},
+		{
+			"name": "END SEMESTER EXAM",
+			"weight": 50
+		}
+	]
+}

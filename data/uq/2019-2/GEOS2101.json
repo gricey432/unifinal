@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hydrology Report",
+			"weight": 25
+		},
+		{
+			"name": "Weather Monitoring Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Course Exam",
+			"weight": 50
+		}
+	]
+}

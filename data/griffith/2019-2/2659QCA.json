@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Poster",
+			"weight": 20
+		},
+		{
+			"name": "Concept and Tech drawings",
+			"weight": 30
+		},
+		{
+			"name": "Design Solution",
+			"weight": 50
+		}
+	]
+}

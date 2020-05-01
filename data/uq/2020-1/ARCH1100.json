@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project 01 - Technique, Process, Proposition",
+			"weight": 30
+		},
+		{
+			"name": "Project 02 - Developed Design (Form and Space)",
+			"weight": 70
+		}
+	]
+}

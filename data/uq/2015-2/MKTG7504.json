@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Report",
+			"weight": 25
+		},
+		{
+			"name": "Group Workshop",
+			"weight": 15
+		},
+		{
+			"name": "Final semester exam (individual)",
+			"weight": 60
+		}
+	]
+}

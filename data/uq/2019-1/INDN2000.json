@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on textbooks and pojok",
+			"weight": 36
+		},
+		{
+			"name": "Listening and Reading in class ",
+			"weight": 24
+		},
+		{
+			"name": "Interview and transcription project",
+			"weight": 40
+		}
+	]
+}

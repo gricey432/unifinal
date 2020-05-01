@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review ",
+			"weight": 30
+		},
+		{
+			"name": "Ethnography fieldwork plan",
+			"weight": 15
+		},
+		{
+			"name": "Final Ethnography Paper",
+			"weight": 55
+		}
+	]
+}

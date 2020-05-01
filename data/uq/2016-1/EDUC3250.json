@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 in-class exams",
+			"weight": 45
+		},
+		{
+			"name": "Earth and Space unit planning",
+			"weight": 25
+		},
+		{
+			"name": "Scientific investigation",
+			"weight": 30
+		}
+	]
+}

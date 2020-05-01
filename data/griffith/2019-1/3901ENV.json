@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical site analysis and precedents - Assess. 1A",
+			"weight": 0
+		},
+		{
+			"name": "Master Plan - Assessment 1B",
+			"weight": 30
+		},
+		{
+			"name": "Architectural project Phase 1 -Assessment 2",
+			"weight": 20
+		},
+		{
+			"name": "Architectural project Phase 2 - Assessment 3",
+			"weight": 50
+		}
+	]
+}

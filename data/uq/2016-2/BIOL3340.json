@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Fish lab reports",
+			"weight": 10
+		},
+		{
+			"name": "Fisheries workshop write-up",
+			"weight": 5
+		},
+		{
+			"name": "Consumer fish survey report",
+			"weight": 15
+		},
+		{
+			"name": "Aquaculture laboratory reports",
+			"weight": 10
+		},
+		{
+			"name": "EOS exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Independent learning within Music education",
+			"weight": 40
+		},
+		{
+			"name": "Mini Lesson",
+			"weight": 40
+		},
+		{
+			"name": "Unit Plan",
+			"weight": 20
+		}
+	]
+}

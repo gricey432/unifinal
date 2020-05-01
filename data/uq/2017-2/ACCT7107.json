@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Major Case Study ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

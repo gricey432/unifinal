@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student seminar presentation",
+			"weight": 40
+		},
+		{
+			"name": "Peer-led seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "online discussion of new graduate competencies",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Funding Request Assignment",
+			"weight": 20
+		},
+		{
+			"name": "leadership activity",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Viva Examination",
+			"weight": 30
+		}
+	]
+}

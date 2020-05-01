@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1 Pre-work",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2 Pre-work",
+			"weight": 10
+		},
+		{
+			"name": "Engineering Framework Report",
+			"weight": 20
+		},
+		{
+			"name": "Practical 3 Pre-work",
+			"weight": 10
+		},
+		{
+			"name": "Actuator Tutorial Questions",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

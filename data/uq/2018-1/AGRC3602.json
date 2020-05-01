@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Topic selection",
+			"weight": 5
+		},
+		{
+			"name": "Mind Map",
+			"weight": 15
+		},
+		{
+			"name": "Report 1",
+			"weight": 40
+		},
+		{
+			"name": "Report 2",
+			"weight": 40
+		}
+	]
+}

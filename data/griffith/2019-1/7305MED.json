@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Briefing Document 1500 Words",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment of 2,500 words",
+			"weight": 50
+		},
+		{
+			"name": "Online Test",
+			"weight": 20
+		}
+	]
+}

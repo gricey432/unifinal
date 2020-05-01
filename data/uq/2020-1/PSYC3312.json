@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Online quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 2: Parenting Strategies Essay",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Presentation and feedback",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4: Observational coding",
+			"weight": 10
+		}
+	]
+}

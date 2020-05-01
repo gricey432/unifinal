@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment (Written)",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Logbook",
+			"weight": 30
+		},
+		{
+			"name": "Examination (written)",
+			"weight": 50
+		}
+	]
+}

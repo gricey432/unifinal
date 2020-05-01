@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Learning Summaries",
+			"weight": 20
+		},
+		{
+			"name": "Socioecological Analysis of Health ",
+			"weight": 35
+		},
+		{
+			"name": "Written Exam",
+			"weight": 45
+		}
+	]
+}

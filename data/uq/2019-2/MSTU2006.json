@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group Archival Activity",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 16
+		},
+		{
+			"name": "Participation in class discussion (incl. board)",
+			"weight": 10
+		},
+		{
+			"name": "Australian Film History Online",
+			"weight": 30
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Project on Australian Film and Television",
+			"weight": 24
+		}
+	]
+}

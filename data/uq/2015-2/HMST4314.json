@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "400 hours in an approved setting",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Self Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Weekly Self-Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim and Final Supervisors Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Project",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

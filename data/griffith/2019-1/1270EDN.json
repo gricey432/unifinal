@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Inclusive Curriculum Project",
+			"weight": 50
+		},
+		{
+			"name": "Scenario Analysis",
+			"weight": 50
+		}
+	]
+}

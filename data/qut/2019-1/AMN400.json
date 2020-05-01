@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Indiv Journal Article Critique",
+			"weight": 20
+		},
+		{
+			"name": "Individual Assignment",
+			"weight": 60
+		},
+		{
+			"name": "Hot Topic Discussion Session",
+			"weight": 20
+		}
+	]
+}

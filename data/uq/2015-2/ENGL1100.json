@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance & participation mark",
+			"weight": 20
+		},
+		{
+			"name": "Take-Home Assignment",
+			"weight": 30
+		},
+		{
+			"name": "ENGL1100 Final Exam",
+			"weight": 50
+		}
+	]
+}

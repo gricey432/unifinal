@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review",
+			"weight": 20
+		},
+		{
+			"name": "Social Justice and Schooling",
+			"weight": 35
+		},
+		{
+			"name": "Analysis of media representation of schooling",
+			"weight": 40
+		}
+	]
+}

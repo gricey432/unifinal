@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Destination Overview",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		},
+		{
+			"name": "Visual Learning Diary",
+			"weight": 40
+		}
+	]
+}

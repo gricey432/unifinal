@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "On-line problems (MyPyTutor)",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Initial proposal for assignment 3 ",
+			"weight": 0
+		},
+		{
+			"name": "Design document for assignment 3",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 3 demonstration",
+			"weight": "Part of assignment 3"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

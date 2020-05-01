@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 5
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Matlab questions",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "IWB Flipchart and Oral Presentation - IWB",
+			"weight": 30
+		},
+		{
+			"name": "Blog Assignment",
+			"weight": 60
+		}
+	]
+}

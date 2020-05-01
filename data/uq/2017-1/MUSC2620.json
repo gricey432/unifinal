@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Music Techniques Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Aural Continuous Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual and Ensemble Performances",
+			"weight": 30
+		},
+		{
+			"name": "In-class Dictations and Listening Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Music Techniques Assessment",
+			"weight": 20
+		}
+	]
+}

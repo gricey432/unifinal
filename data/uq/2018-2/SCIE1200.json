@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1",
+			"weight": 10
+		},
+		{
+			"name": "Module 2",
+			"weight": 10
+		},
+		{
+			"name": "Module 3",
+			"weight": 10
+		},
+		{
+			"name": "Module 4",
+			"weight": 10
+		},
+		{
+			"name": "All Class Activities and Discussions",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 10
+		},
+		{
+			"name": "Discipline Interim Report",
+			"weight": 10
+		},
+		{
+			"name": "Discipline Final Report",
+			"weight": 40
+		}
+	]
+}

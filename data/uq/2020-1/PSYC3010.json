@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Factorial Design Quiz",
+			"weight": 5
+		},
+		{
+			"name": "ANOVA Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Factorial Designs",
+			"weight": 20
+		},
+		{
+			"name": "Regression Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Multiple Regression",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

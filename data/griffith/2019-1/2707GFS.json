@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Professional conduct",
+			"weight": 20
+		},
+		{
+			"name": "A2: Composition & Lighting ",
+			"weight": 50
+		},
+		{
+			"name": "A3: Television Commercial (TVC)",
+			"weight": 30
+		}
+	]
+}

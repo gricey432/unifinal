@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Professionalism - team meetings",
+			"weight": 5
+		},
+		{
+			"name": "Team Charter",
+			"weight": 5
+		},
+		{
+			"name": "Case Study Review",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 30
+		}
+	]
+}

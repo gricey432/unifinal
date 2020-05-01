@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Sponsorship Proposal, Permits & Contingency etc.",
+			"weight": 40
+		},
+		{
+			"name": "Event Manual",
+			"weight": 40
+		}
+	]
+}

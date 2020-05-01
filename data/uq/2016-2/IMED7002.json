@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "12 Cases:  2 presented fortnightly over 12 weeks",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Board Participation ",
+			"weight": 10
+		},
+		{
+			"name": "Summative Examination",
+			"weight": 70
+		}
+	]
+}

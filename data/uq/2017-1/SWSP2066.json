@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment one",
+			"weight": 40
+		},
+		{
+			"name": "Assignment two",
+			"weight": 50
+		}
+	]
+}

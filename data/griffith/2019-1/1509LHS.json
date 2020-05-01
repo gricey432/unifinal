@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Periodic quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Media Release",
+			"weight": 40
+		},
+		{
+			"name": "Hard news story",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Performance ",
+			"weight": "P/F "
+		},
+		{
+			"name": "Paediatric Dentistry ",
+			"weight": 10
+		},
+		{
+			"name": "Planning care",
+			"weight": 10
+		},
+		{
+			"name": "Prosthodontics ",
+			"weight": 10
+		},
+		{
+			"name": "Written ",
+			"weight": 40
+		},
+		{
+			"name": "Objective Structured Clinical Examination ",
+			"weight": 30
+		}
+	]
+}

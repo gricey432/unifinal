@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Dispensing and Checking",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Quiz One",
+			"weight": 2
+		},
+		{
+			"name": "Online Quiz Two",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz Three",
+			"weight": 2
+		},
+		{
+			"name": "Online Quiz Four",
+			"weight": 2
+		},
+		{
+			"name": "Online Quiz Five",
+			"weight": 2
+		},
+		{
+			"name": "Online Quiz Six",
+			"weight": 2
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 68
+		}
+	]
+}

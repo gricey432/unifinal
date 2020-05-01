@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 50
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		}
+	]
+}

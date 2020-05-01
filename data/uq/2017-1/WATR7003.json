@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 2: Reflection on readings",
+			"weight": 10
+		},
+		{
+			"name": "Movie review and critique",
+			"weight": 15
+		},
+		{
+			"name": "Assess 3: The Great Water Challenge",
+			"weight": 25
+		},
+		{
+			"name": "PBL 2: Individual Design a Project",
+			"weight": 50
+		}
+	]
+}

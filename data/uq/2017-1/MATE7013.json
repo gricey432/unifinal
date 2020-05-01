@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Surface Engineering",
+			"weight": 25
+		},
+		{
+			"name": "Metal additive manufacturing",
+			"weight": 9
+		},
+		{
+			"name": "Literature review on selected topic",
+			"weight": 25
+		},
+		{
+			"name": "Roll forming and chain die forming",
+			"weight": 8
+		},
+		{
+			"name": "Incremental forming",
+			"weight": 8
+		},
+		{
+			"name": "Topics in Electronics Manufacturing",
+			"weight": 25
+		}
+	]
+}

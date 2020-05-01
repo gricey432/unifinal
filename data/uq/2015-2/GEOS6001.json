@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discipline Paper Critique ",
+			"weight": 25
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Written Proposal",
+			"weight": 50
+		}
+	]
+}

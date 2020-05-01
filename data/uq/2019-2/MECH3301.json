@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "T1: Use of Materials Selection Charts",
+			"weight": 5
+		},
+		{
+			"name": "T2: Material Indices",
+			"weight": 10
+		},
+		{
+			"name": "T3: Materials and Shape",
+			"weight": 10
+		},
+		{
+			"name": "T4: Multiple Constraints",
+			"weight": 5
+		},
+		{
+			"name": "T5: Conflicting Objectives",
+			"weight": 7
+		},
+		{
+			"name": "Selection of Foams",
+			"weight": 15
+		},
+		{
+			"name": "T6: Hybrid Materials",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

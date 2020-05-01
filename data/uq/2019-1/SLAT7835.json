@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and Reading Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of Article Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Research Article Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Language Testing and Assessment Group Project",
+			"weight": 40
+		},
+		{
+			"name": "Academic essay",
+			"weight": 35
+		}
+	]
+}

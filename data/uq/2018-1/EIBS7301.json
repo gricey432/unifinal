@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz over 10 weeks",
+			"weight": 30
+		},
+		{
+			"name": "Ideas, Assumptions & Growth*",
+			"weight": 30
+		},
+		{
+			"name": "Business Case Assignment*",
+			"weight": 20
+		},
+		{
+			"name": "EIBS7301 Final Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TASK 1 - ANALYSIS & PROCUREMENT MODEL PROPOSAL ",
+			"weight": 20
+		},
+		{
+			"name": "TASK 2 - PRELIMINARY DESIGN",
+			"weight": 20
+		},
+		{
+			"name": "TASK 3 - FINAL DESIGN",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Peer assessment of clinical skills (Nursing)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Peer assessment of clinical skills (Midwifery)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Library Tutorial Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice",
+			"weight": 40
+		},
+		{
+			"name": "Clinical skills assessment (OSCA) - Midwifery",
+			"weight": "NGP"
+		},
+		{
+			"name": "Reflection and Discussion Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Clinical skills assessment (OSCA) - Nursing",
+			"weight": "NGP"
+		}
+	]
+}

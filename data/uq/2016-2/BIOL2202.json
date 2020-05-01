@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Short Essays (Four)",
+			"weight": 20
+		},
+		{
+			"name": "Module Quizzes (Four)",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Genetics practical ",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

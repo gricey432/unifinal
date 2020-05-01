@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "A1",
+			"weight": 5
+		},
+		{
+			"name": "Q1",
+			"weight": 8
+		},
+		{
+			"name": "A2",
+			"weight": 5
+		},
+		{
+			"name": "Q2",
+			"weight": 8
+		},
+		{
+			"name": "A3",
+			"weight": 5
+		},
+		{
+			"name": "Final",
+			"weight": 69
+		}
+	]
+}

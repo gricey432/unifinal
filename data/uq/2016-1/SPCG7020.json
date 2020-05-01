@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Overview of Talent Identification and Development",
+			"weight": 30
+		},
+		{
+			"name": "Developing a Performance Profiling Process ",
+			"weight": 40
+		},
+		{
+			"name": "Provide an intervention plan with rationale",
+			"weight": 30
+		}
+	]
+}

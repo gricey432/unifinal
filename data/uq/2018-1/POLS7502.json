@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Conflict Resolution Design (Group Work)",
+			"weight": 20
+		},
+		{
+			"name": "Reading Engagement and Review (800 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Essay (3000 Words)",
+			"weight": 50
+		}
+	]
+}

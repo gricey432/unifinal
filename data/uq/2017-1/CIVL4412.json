@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in the tutorial sessions",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1 on discrete choice models",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2 on road crash models",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

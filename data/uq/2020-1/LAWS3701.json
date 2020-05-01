@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Principles of Government Accountability",
+			"weight": 40
+		},
+		{
+			"name": "Admin Law, Human Rights & Access to Justice",
+			"weight": 60
+		}
+	]
+}

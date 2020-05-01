@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research on Business Cases",
+			"weight": 20
+		},
+		{
+			"name": "Executive Briefing: IT Impacts on Business",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

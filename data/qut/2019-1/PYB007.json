@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interview",
+			"weight": 30
+		},
+		{
+			"name": "W/shop Presentation &amp; Essay",
+			"weight": 50
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		}
+	]
+}

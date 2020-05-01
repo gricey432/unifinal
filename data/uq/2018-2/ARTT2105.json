@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation ",
+			"weight": 10
+		},
+		{
+			"name": "2000-2500 word research essay",
+			"weight": 50
+		},
+		{
+			"name": "Slide Test",
+			"weight": 40
+		}
+	]
+}

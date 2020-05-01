@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Sample Screenplay Formatting",
+			"weight": 10
+		},
+		{
+			"name": "Short Pitch Document",
+			"weight": 10
+		},
+		{
+			"name": "Film Treatment",
+			"weight": 25
+		},
+		{
+			"name": "Screenplay Assignment",
+			"weight": 45
+		}
+	]
+}

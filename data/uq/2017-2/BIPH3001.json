@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar reports",
+			"weight": 10
+		},
+		{
+			"name": "Literature review",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 60
+		}
+	]
+}

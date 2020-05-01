@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Patient Health Assessment 1",
+			"weight": 40
+		},
+		{
+			"name": "Patient Health Assessment 2",
+			"weight": 60
+		}
+	]
+}

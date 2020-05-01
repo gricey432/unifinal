@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Job application package",
+			"weight": 40
+		},
+		{
+			"name": "Industry Placement & Reflective Portfolio ",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "*Retirement Planning Report",
+			"weight": 50
+		},
+		{
+			"name": "Estate Planning Client / Adviser Role Play",
+			"weight": 50
+		}
+	]
+}

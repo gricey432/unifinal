@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Dairy",
+			"weight": 15
+		},
+		{
+			"name": "Sheep/goats",
+			"weight": 15
+		},
+		{
+			"name": "Welfare Issues",
+			"weight": 20
+		},
+		{
+			"name": "END SEMESTER EXAM",
+			"weight": 50
+		}
+	]
+}

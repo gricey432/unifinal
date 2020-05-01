@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Seminar Discussion and Debates ",
+			"weight": 10
+		},
+		{
+			"name": "Reading Engagement and Review (1200 words)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay Research (4500 Words)",
+			"weight": 60
+		}
+	]
+}

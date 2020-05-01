@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reading Diaries, Weeks 2-12",
+			"weight": 18
+		},
+		{
+			"name": "Critical Analysis: What is Politics?",
+			"weight": 20
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 12
+		},
+		{
+			"name": "Major Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

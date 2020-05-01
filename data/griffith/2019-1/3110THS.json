@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Vodcast",
+			"weight": 35
+		},
+		{
+			"name": "Mid-Trimester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Time Released Case Study: Stakeholder Diversity",
+			"weight": 35
+		}
+	]
+}

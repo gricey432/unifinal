@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique",
+			"weight": 20
+		},
+		{
+			"name": "Conceptual Paper",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

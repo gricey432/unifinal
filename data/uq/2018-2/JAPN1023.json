@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contact Participation",
+			"weight": 4
+		},
+		{
+			"name": "Weekly tasks - Tutorial",
+			"weight": 6
+		},
+		{
+			"name": "Test 1",
+			"weight": 25
+		},
+		{
+			"name": "Test 2",
+			"weight": 35
+		},
+		{
+			"name": "News and Weather Presentation ",
+			"weight": 30
+		}
+	]
+}

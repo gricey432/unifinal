@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical/contextual review",
+			"weight": 25
+		},
+		{
+			"name": "technical assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final project",
+			"weight": 45
+		}
+	]
+}

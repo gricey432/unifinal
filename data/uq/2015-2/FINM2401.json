@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Midsemester Multiple Choice Exam",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

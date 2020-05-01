@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Summary writing",
+			"weight": 5
+		},
+		{
+			"name": "Argumentative writing",
+			"weight": 5
+		},
+		{
+			"name": "Introduction paragraph",
+			"weight": 5
+		},
+		{
+			"name": "SPSE introduction",
+			"weight": 5
+		},
+		{
+			"name": "Research Paper",
+			"weight": 25
+		},
+		{
+			"name": "The 3-minute Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Final Examination",
+			"weight": 40
+		}
+	]
+}

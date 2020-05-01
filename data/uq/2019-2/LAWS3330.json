@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Facilitation/Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Paper",
+			"weight": 40
+		}
+	]
+}

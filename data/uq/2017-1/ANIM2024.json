@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Biomechanics of Equine Locomotion",
+			"weight": 15
+		},
+		{
+			"name": "Human-horse interaction",
+			"weight": 15
+		},
+		{
+			"name": "Equine Unit Duties",
+			"weight": 10
+		},
+		{
+			"name": "Handling skills assessment",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Term Quiz",
+			"weight": 35
+		},
+		{
+			"name": "Digital Archive Research Project",
+			"weight": 50
+		}
+	]
+}

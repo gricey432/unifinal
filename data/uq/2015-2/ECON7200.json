@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard test",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Part 1",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard test",
+			"weight": 5
+		},
+		{
+			"name": "Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Part 3",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		},
+		{
+			"name": "Part 4",
+			"weight": 0
+		}
+	]
+}

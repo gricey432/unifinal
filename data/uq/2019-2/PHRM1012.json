@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 5
+		},
+		{
+			"name": "Oral Exam (Symptom based request)",
+			"weight": 20
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": "Not marked (feedback provided to students through ePortfolio)"
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Participation and completion required"
+		},
+		{
+			"name": "Online Feedback Quizzes 10×2%",
+			"weight": 20
+		},
+		{
+			"name": "Written Exam",
+			"weight": 55
+		}
+	]
+}

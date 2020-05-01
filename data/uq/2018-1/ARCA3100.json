@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Plan and aims statement for Theme A essay",
+			"weight": 5
+		},
+		{
+			"name": "Essay Theme A",
+			"weight": 30
+		},
+		{
+			"name": "Plan and aims statement for Theme B essay",
+			"weight": 5
+		},
+		{
+			"name": "Essay Theme B",
+			"weight": 30
+		},
+		{
+			"name": "Essay Theme C",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": " Principles and tools of nutrition",
+			"weight": 20
+		},
+		{
+			"name": "Team presentation ",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam ",
+			"weight": 50
+		}
+	]
+}

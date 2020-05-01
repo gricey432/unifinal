@@ -1,0 +1,21 @@
+{
+	"assessment": [
+		{
+			"name": "Playconomics Videogame",
+			"weight": 25
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 0
+		},
+		{
+			"name": "In-Class Tutorials in Teaching Week 10",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	],
+	"message": "Assessments weights were modified after the midsem. This might not be right. ¯\\_(ツ)_/¯"
+}

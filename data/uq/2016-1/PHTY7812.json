@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Peer assessment of patient interview competency",
+			"weight": 5
+		},
+		{
+			"name": "CR Interpretataion of a PI and theory exam",
+			"weight": 20
+		},
+		{
+			"name": "Independent PE and treatment plan plus reflection",
+			"weight": 10
+		},
+		{
+			"name": "Case based practical examination",
+			"weight": 35
+		},
+		{
+			"name": "Written Theory Exam",
+			"weight": 30
+		}
+	]
+}

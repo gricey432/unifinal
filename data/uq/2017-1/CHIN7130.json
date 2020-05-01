@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class presentation according to a sign-up sheet",
+			"weight": 20
+		},
+		{
+			"name": "Test",
+			"weight": 40
+		},
+		{
+			"name": "Essay on theoretical and professional aspects",
+			"weight": 40
+		}
+	]
+}

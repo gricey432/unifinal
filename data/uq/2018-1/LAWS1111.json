@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Preparation Assessment ",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Legal Research Skills Sessions ",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

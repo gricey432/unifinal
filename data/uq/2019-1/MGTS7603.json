@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1 SHRM Models-A critique of practical application",
+			"weight": 30
+		},
+		{
+			"name": "A2  Report on Issues in SHRM Analysis",
+			"weight": 30
+		},
+		{
+			"name": "A3 Present strategic recommendations and critique",
+			"weight": 40
+		}
+	]
+}

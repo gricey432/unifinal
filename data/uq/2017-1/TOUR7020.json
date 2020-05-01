@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Outline",
+			"weight": 15
+		},
+		{
+			"name": "Report ",
+			"weight": 35
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

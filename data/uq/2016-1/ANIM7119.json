@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Powerpoint presentation - Health",
+			"weight": 30
+		},
+		{
+			"name": "Objective assessment of an equine welfare issue",
+			"weight": 30
+		},
+		{
+			"name": "Equine disease management",
+			"weight": 40
+		}
+	]
+}

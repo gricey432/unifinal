@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz after each experiment.",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Test on Plant-Based Foods",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Practical exam written",
+			"weight": 20
+		}
+	]
+}

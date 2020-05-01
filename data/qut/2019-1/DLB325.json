@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental Autobiography",
+			"weight": 20
+		},
+		{
+			"name": "Digital Story",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 50
+		}
+	]
+}

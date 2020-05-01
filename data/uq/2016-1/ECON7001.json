@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": 20
+		},
+		{
+			"name": "RBA Official Cash Rate Forecasting (preliminary)",
+			"weight": 2
+		},
+		{
+			"name": "RBA Official Cash Rate Forecasting (final)",
+			"weight": 13
+		},
+		{
+			"name": "Application of theory and concept (preliminary)",
+			"weight": 2
+		},
+		{
+			"name": "Application of theory and concept (final)",
+			"weight": 13
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

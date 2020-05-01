@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of placement documentation",
+			"weight": "Non graded compulsory component"
+		},
+		{
+			"name": "Student Practice Evaluation Form - Revised Edition",
+			"weight": "Final evaluation Non graded pass/fail"
+		},
+		{
+			"name": "Participation in placement support tutorials.",
+			"weight": "Non graded compulsory component "
+		}
+	]
+}

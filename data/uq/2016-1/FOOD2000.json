@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Test on Plant-Based Foods",
+			"weight": 30
+		},
+		{
+			"name": "Report on each experiment",
+			"weight": 40
+		},
+		{
+			"name": "Dairy Exam",
+			"weight": 15
+		},
+		{
+			"name": "Exam on animal-based foods",
+			"weight": 15
+		}
+	]
+}

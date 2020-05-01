@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay on intercultural or social design ",
+			"weight": 30
+		},
+		{
+			"name": "Presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Studio project ",
+			"weight": 50
+		}
+	]
+}

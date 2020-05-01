@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Introduction chapter for writing feedback",
+			"weight": 5
+		},
+		{
+			"name": "Poster and/or demo",
+			"weight": 15
+		},
+		{
+			"name": "Introduction and conclusion for writing feedback",
+			"weight": 10
+		},
+		{
+			"name": "Final report",
+			"weight": 70
+		}
+	]
+}

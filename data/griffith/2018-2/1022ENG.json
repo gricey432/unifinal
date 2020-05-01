@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "SolidWorks Assessments",
+			"weight": 30
+		},
+		{
+			"name": "Scoping Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Employability Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Design Review Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Project Report",
+			"weight": 30
+		}
+	]
+}

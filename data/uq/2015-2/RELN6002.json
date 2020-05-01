@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Negotiated with Advisor",
+			"weight": 30
+		},
+		{
+			"name": "Negotiated with Advisor",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Quizzes",
+			"weight": 3
+		},
+		{
+			"name": "Tutorial Workbook",
+			"weight": 3
+		},
+		{
+			"name": "Exam 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid Trimester Laboratory Exam",
+			"weight": 15
+		},
+		{
+			"name": "Exam 2",
+			"weight": 20
+		},
+		{
+			"name": "End of Trimester Laboratory Exam",
+			"weight": 14
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 30
+		}
+	]
+}

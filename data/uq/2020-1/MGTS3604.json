@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Training Program Proposal and Evaluation Plan",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam (online non-invigilated - open book)",
+			"weight": 50
+		}
+	]
+}

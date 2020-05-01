@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Paediatric Fieldwork",
+			"weight": 35
+		},
+		{
+			"name": "Team communication in a hospital environment",
+			"weight": 20
+		},
+		{
+			"name": "Written preparation for viva exam",
+			"weight": 15
+		},
+		{
+			"name": "Oral viva",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 Hypersonic Wave Processes",
+			"weight": 4
+		},
+		{
+			"name": "Shock tunnel laboratory experiment",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 2
+		},
+		{
+			"name": "Assignment 2 flow deflection and viscous processes",
+			"weight": 6
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 reacting flows",
+			"weight": 7
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

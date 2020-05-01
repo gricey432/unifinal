@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance & active participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Weekly On-Line \"Logbook\" Entries",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Outline + Internship Agreement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Internship Report (4000 words)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Applied social science research (2000 words)",
+			"weight": "Pass/Fail"
+		}
+	]
+}

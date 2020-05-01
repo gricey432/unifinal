@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group DCF & Cap Report and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Hypothetical Development Assessment(short report)",
+			"weight": 20
+		},
+		{
+			"name": "Final",
+			"weight": 50
+		}
+	]
+}

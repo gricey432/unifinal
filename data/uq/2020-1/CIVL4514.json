@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Tutor Mentor Meetings",
+			"weight": 0
+		},
+		{
+			"name": "Group Charter",
+			"weight": 0
+		},
+		{
+			"name": "Week 3 Formative Feedback (Online Peer Assessment)",
+			"weight": 0
+		},
+		{
+			"name": "Phase 1 (oral presentation)",
+			"weight": 5
+		},
+		{
+			"name": "Phase 1 (Online Peer Assessment)",
+			"weight": 0
+		},
+		{
+			"name": "Phase 1 (concept design & sustainability reports)",
+			"weight": 30
+		},
+		{
+			"name": "Phase 2 (oral presentation & tutor review)",
+			"weight": 5
+		},
+		{
+			"name": "Phase 2 (Online Peer Assessment)",
+			"weight": 0
+		},
+		{
+			"name": "Phase 2 (detailed design report)",
+			"weight": 30
+		},
+		{
+			"name": "Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Hand Drawn sketch of carpark cross-section",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 15
+		},
+		{
+			"name": "Ethics Workshop",
+			"weight": 0
+		}
+	]
+}

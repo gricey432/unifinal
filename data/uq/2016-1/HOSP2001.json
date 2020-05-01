@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hotel Operations Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Hotel Operations Insights",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

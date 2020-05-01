@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summary of Readings",
+			"weight": 10
+		},
+		{
+			"name": "Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay or Critical Review",
+			"weight": 45
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 35
+		}
+	]
+}

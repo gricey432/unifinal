@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Participatory media production",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 3: Reflective essay",
+			"weight": 40
+		}
+	]
+}

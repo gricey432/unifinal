@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Diagnostic Algebra Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Ongoing on-line practice sessions",
+			"weight": 5
+		},
+		{
+			"name": "Functions, Limits and Derivatives Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

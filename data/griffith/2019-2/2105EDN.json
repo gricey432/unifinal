@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Chapter Book - Reading lesson ",
+			"weight": 45
+		},
+		{
+			"name": "Assignment 2: Picture Book - Review, lesson, task",
+			"weight": 55
+		}
+	]
+}

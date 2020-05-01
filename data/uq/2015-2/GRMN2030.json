@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "German Activity Diary",
+			"weight": 20
+		},
+		{
+			"name": "German Audio Play",
+			"weight": 20
+		},
+		{
+			"name": "Written Test",
+			"weight": 40
+		},
+		{
+			"name": "Panel Discussion",
+			"weight": 20
+		}
+	]
+}

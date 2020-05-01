@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group research project",
+			"weight": 25
+		},
+		{
+			"name": "Week 6: Test 1",
+			"weight": 30
+		},
+		{
+			"name": "Week 11: Test 2",
+			"weight": 30
+		},
+		{
+			"name": "Computer Skills Test",
+			"weight": 15
+		}
+	]
+}

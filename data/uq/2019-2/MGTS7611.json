@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team case study analysis",
+			"weight": 25
+		},
+		{
+			"name": "ED & OD Topic",
+			"weight": 40
+		},
+		{
+			"name": "Team Poster Presentation",
+			"weight": 35
+		}
+	]
+}

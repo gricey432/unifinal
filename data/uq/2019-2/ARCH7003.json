@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Statement of Significance (Group)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Detail Section",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Final Project (Hurdle)",
+			"weight": 60
+		}
+	]
+}

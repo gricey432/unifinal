@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "One",
+			"weight": 10
+		},
+		{
+			"name": "Two",
+			"weight": 10
+		},
+		{
+			"name": "Three",
+			"weight": 10
+		},
+		{
+			"name": "Four",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of Partial Differential Equations",
+			"weight": 60
+		}
+	]
+}

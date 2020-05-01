@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Five Practicals",
+			"weight": 25
+		},
+		{
+			"name": "Computer Quizzes",
+			"weight": 8
+		},
+		{
+			"name": "MOOCchat",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 45
+		}
+	]
+}

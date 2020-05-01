@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ad Critique",
+			"weight": 25
+		},
+		{
+			"name": "Creative Brief and Pitch",
+			"weight": 40
+		},
+		{
+			"name": "Online Blackboard Exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Brisbane River Catchment",
+			"weight": 25
+		},
+		{
+			"name": "Dwelling in Future Waterscapes 1A",
+			"weight": 15
+		},
+		{
+			"name": "Dwelling in Future Waterscapes 1B ",
+			"weight": 30
+		},
+		{
+			"name": "Dwelling in Future Waterscapes 2",
+			"weight": 30
+		}
+	]
+}

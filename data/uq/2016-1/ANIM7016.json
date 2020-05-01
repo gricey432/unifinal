@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract part B",
+			"weight": 50
+		},
+		{
+			"name": "Learning Contract part A",
+			"weight": 50
+		}
+	]
+}

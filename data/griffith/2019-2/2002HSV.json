@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Trimester Test (Online)",
+			"weight": 20
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 45
+		},
+		{
+			"name": "End Trimester Exam",
+			"weight": 35
+		}
+	]
+}

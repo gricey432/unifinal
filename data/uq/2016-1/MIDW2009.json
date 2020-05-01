@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Face to Face Discussion",
+			"weight": "NGP"
+		},
+		{
+			"name": "Knowledge of Diabetes Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Knowledge of Diabetes Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Written Assignment ",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW2009",
+			"weight": 50
+		}
+	]
+}

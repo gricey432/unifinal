@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Part 1",
+			"weight": 30
+		},
+		{
+			"name": "technical drafting",
+			"weight": 50
+		},
+		{
+			"name": "Journal Part 2",
+			"weight": 20
+		}
+	]
+}

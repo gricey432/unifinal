@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Manual Dissection - Powerpoint",
+			"weight": 15
+		},
+		{
+			"name": "On-Line Mid-Semester Spotter Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Practical Exam",
+			"weight": 30
+		}
+	]
+}

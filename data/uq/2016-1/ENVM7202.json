@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative assessment tasks",
+			"weight": 0
+		},
+		{
+			"name": "Reflective Journal 1 (select 2 from weeks 1-4)",
+			"weight": 10
+		},
+		{
+			"name": "Mini research project of your own choice",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Journal 2 (select 4 from topics 5-11)",
+			"weight": 15
+		},
+		{
+			"name": "Communicating conservation",
+			"weight": 25
+		}
+	]
+}

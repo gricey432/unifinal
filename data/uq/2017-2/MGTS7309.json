@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Decision Making Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Organisations & future sustainability challenges",
+			"weight": 40
+		},
+		{
+			"name": "Reporting for Sustainability Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Organisational reporting for sustainability",
+			"weight": 50
+		}
+	]
+}

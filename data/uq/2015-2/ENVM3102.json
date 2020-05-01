@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Placement brief",
+			"weight": 10
+		},
+		{
+			"name": "Placement Supervisor's Assessment Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Placement Supervisor's Assessment Report 2",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2: Project Experience Poster",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Final Project Report",
+			"weight": 60
+		}
+	]
+}

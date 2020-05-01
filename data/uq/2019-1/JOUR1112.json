@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice Style Guide Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Twitter-based news writing task",
+			"weight": 25
+		},
+		{
+			"name": "Story idea and pitch",
+			"weight": 25
+		},
+		{
+			"name": "Final news story: story and images",
+			"weight": 40
+		}
+	]
+}

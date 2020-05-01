@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 30
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Online Take-Home Exam",
+			"weight": 40
+		}
+	]
+}

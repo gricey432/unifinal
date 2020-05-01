@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation & Attendance",
+			"weight": 10
+		},
+		{
+			"name": "Image Description and Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Major Essay",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 25
+		}
+	]
+}

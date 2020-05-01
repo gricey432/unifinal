@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Avian Clinical Skills",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical surgery assessment",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Surgery and Anaesthesia OSCE",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "End of Semester ONE Content Exam",
+			"weight": 30
+		},
+		{
+			"name": "Reptile and small mammal clinical skills",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Veterinary Radiology Film Reading Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Two Content Exam",
+			"weight": 25
+		},
+		{
+			"name": "Semester 2 End of Semester Integration Exam",
+			"weight": 30
+		}
+	]
+}

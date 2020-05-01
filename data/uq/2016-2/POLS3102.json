@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial presentation ",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Essay (3000 words)",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Exam (1500 words)",
+			"weight": 30
+		}
+	]
+}

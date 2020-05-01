@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Club Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Quiz I",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory Quiz II",
+			"weight": 25
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

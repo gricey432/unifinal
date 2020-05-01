@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Polices & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Teaching Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Portfolio",
+			"weight": "Pass/Fail (1000 words)"
+		},
+		{
+			"name": "Reflection on Practice",
+			"weight": "Pass/Fail"
+		}
+	]
+}

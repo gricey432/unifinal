@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Annotated Vocabulary",
+			"weight": 40
+		},
+		{
+			"name": "Terms and their exemplars",
+			"weight": 60
+		}
+	]
+}

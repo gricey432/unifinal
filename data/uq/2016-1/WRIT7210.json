@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Event participation",
+			"weight": 15
+		},
+		{
+			"name": "Pitch your ideas in class",
+			"weight": 10
+		},
+		{
+			"name": "Critical evaluation of cafe scientific event",
+			"weight": 25
+		},
+		{
+			"name": "Online content and evaluation",
+			"weight": 20
+		},
+		{
+			"name": "Academic essay",
+			"weight": 30
+		}
+	]
+}

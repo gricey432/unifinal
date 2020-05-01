@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class Presentation and Group Facilitation",
+			"weight": 25
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Draft Outline of Business Report & Peer Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Business Report",
+			"weight": 35
+		}
+	]
+}

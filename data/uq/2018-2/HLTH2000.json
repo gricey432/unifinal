@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Discussion Forum and webinar",
+			"weight": 15
+		},
+		{
+			"name": " Assignment one: MCQs",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Two: Infographics",
+			"weight": 30
+		},
+		{
+			"name": "Assignment Three: Major Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Paper 1 (500 words)",
+			"weight": 6
+		},
+		{
+			"name": "Paper 2 (750 words)",
+			"weight": 11
+		},
+		{
+			"name": "Reddit Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Paper 3 (1000 words)",
+			"weight": 16
+		},
+		{
+			"name": "Weekly quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Writing Workshop Activity",
+			"weight": 1
+		},
+		{
+			"name": "Paper 1 Peer Review",
+			"weight": 2
+		},
+		{
+			"name": "Paper 2 Peer Review",
+			"weight": 2
+		}
+	]
+}

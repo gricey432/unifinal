@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 35
+		},
+		{
+			"name": "Industry Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Industry Presentation",
+			"weight": 25
+		}
+	]
+}

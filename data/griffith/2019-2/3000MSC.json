@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Preparation and Participation in PBL",
+			"weight": 15
+		},
+		{
+			"name": "Mid-trimester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Reasoning and Problem-Solving",
+			"weight": 15
+		},
+		{
+			"name": "End of Trimester Examination",
+			"weight": 40
+		}
+	]
+}

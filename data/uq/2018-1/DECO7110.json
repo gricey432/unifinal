@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Class participation and in-class activities",
+			"weight": "Pass/Fail for the course"
+		},
+		{
+			"name": "Design Workbook (individual)",
+			"weight": 12
+		},
+		{
+			"name": "Team Charter",
+			"weight": "Pass/Fail for the course"
+		},
+		{
+			"name": "Peer Critique",
+			"weight": 9
+		},
+		{
+			"name": "Project 1",
+			"weight": 25
+		},
+		{
+			"name": "Blog posts",
+			"weight": 9
+		},
+		{
+			"name": "Project 2",
+			"weight": 35
+		}
+	]
+}

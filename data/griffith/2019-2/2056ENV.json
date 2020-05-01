@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Suburban socio-economic status analysis",
+			"weight": 30
+		},
+		{
+			"name": "Survey data exercise",
+			"weight": 30
+		},
+		{
+			"name": "Systematic social observation exercise ",
+			"weight": 30
+		},
+		{
+			"name": "Final portfolio",
+			"weight": 10
+		}
+	]
+}

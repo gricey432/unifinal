@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Active, respectful participation & peer feedback",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Journal/Blog Entry",
+			"weight": 20
+		},
+		{
+			"name": "Travel Feature Article",
+			"weight": 25
+		},
+		{
+			"name": "Critical Review of Literature",
+			"weight": 20
+		},
+		{
+			"name": "Critically Reflective Essay",
+			"weight": 25
+		}
+	]
+}

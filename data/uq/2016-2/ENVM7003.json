@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Concept Reviews (quizzes) on Blackboard",
+			"weight": 30
+		},
+		{
+			"name": "Applied quantitative and qualitative exercises",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

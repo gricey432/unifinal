@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of Work",
+			"weight": 60
+		},
+		{
+			"name": "Newsroom Production and Contribution",
+			"weight": 30
+		},
+		{
+			"name": "Critical reflection",
+			"weight": 10
+		}
+	]
+}

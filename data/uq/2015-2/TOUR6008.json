@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Semester 1 Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Ethics Application",
+			"weight": 0
+		},
+		{
+			"name": "Thesis",
+			"weight": 90
+		}
+	]
+}

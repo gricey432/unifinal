@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment One - Information Sharing Plan",
+			"weight": 50
+		},
+		{
+			"name": "Assessment Two - Essay (Critical analysis)",
+			"weight": 50
+		}
+	]
+}

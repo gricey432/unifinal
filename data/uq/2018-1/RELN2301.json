@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Long Essay 2500 words",
+			"weight": 50
+		},
+		{
+			"name": "Short Paper (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Diary entries (8)",
+			"weight": 20
+		}
+	]
+}

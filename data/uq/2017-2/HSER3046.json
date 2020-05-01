@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": " Attendance and Participation and Workshops",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Personal Positioning Statement ",
+			"weight": 20
+		},
+		{
+			"name": "Team research and  video class presentation ",
+			"weight": 40
+		},
+		{
+			"name": "Written assessment of personal performance",
+			"weight": 40
+		}
+	]
+}

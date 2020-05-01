@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Augmented Reality Precise vs Accurate Data",
+			"weight": 10
+		},
+		{
+			"name": "Yield Mapping Practical Report",
+			"weight": 0
+		},
+		{
+			"name": " Spatial Variability and Agriculture",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

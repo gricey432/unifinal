@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL - formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "Contribution to CBL - summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Weekly online quizzes - formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "End of semester exam II - spotter",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam I- MCQ",
+			"weight": 50
+		}
+	]
+}

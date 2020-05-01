@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratories",
+			"weight": 45
+		},
+		{
+			"name": "Lab Test",
+			"weight": 5
+		},
+		{
+			"name": "Examination ",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "News Feature Article 1",
+			"weight": 40
+		},
+		{
+			"name": "News Feature Article 2",
+			"weight": 60
+		}
+	]
+}

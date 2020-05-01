@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Systematic Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Case Study Development",
+			"weight": 50
+		}
+	]
+}

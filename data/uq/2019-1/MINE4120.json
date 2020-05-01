@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "6 in class quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1:Field Mapping at Kangaroo Point Cliff",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: Modelling of stopes stability",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3- Pillar Design",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

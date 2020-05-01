@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Urbanisation and Housing Essay",
+			"weight": 25
+		},
+		{
+			"name": "Sustainable Cities and Sprawl Essay",
+			"weight": 25
+		},
+		{
+			"name": "Energy and Waste Essay",
+			"weight": 25
+		},
+		{
+			"name": "Sharing Economy and Urban Futures Essay",
+			"weight": 25
+		}
+	]
+}

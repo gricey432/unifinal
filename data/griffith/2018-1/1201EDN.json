@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Context Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Games Lesson",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical thinking theory",
+			"weight": 10
+		},
+		{
+			"name": "Argument mapping ",
+			"weight": 20
+		},
+		{
+			"name": "Media analysis ",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative essay",
+			"weight": 40
+		}
+	]
+}

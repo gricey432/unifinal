@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on Organisational analysis ",
+			"weight": 30
+		},
+		{
+			"name": "Class participation",
+			"weight": 5
+		},
+		{
+			"name": "Infographic",
+			"weight": 10
+		},
+		{
+			"name": "Leadership in the world today",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

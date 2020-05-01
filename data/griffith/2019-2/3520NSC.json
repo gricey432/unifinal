@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "WRITTEN ASSIGNMENT",
+			"weight": 40
+		},
+		{
+			"name": "PROGRESS CHECK - 1",
+			"weight": 10
+		},
+		{
+			"name": "PROGRESS CHECK - 2",
+			"weight": 10
+		},
+		{
+			"name": "FINAL EXAM",
+			"weight": 40
+		}
+	]
+}

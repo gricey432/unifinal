@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review",
+			"weight": 30
+		},
+		{
+			"name": "Professional Plans",
+			"weight": 40
+		},
+		{
+			"name": "Presentation",
+			"weight": 30
+		}
+	]
+}

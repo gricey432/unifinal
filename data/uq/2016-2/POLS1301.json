@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation special requirements",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "article/chapter review (600 words)",
+			"weight": 5
+		},
+		{
+			"name": "article/chapter review",
+			"weight": 20
+		},
+		{
+			"name": "Minor Essay (1500 words)",
+			"weight": 35
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 40
+		}
+	]
+}

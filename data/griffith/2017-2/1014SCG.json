@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Bi-weekly problem sets",
+			"weight": 20
+		},
+		{
+			"name": "Project assessment items",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

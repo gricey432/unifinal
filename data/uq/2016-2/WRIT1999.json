@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journals ",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative / persuasive essay",
+			"weight": 70
+		}
+	]
+}

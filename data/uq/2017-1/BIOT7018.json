@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Course material assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Presentations associated with Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Course material assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "The Emergence of Biosimilars ",
+			"weight": 20
+		},
+		{
+			"name": "Selected Biologic",
+			"weight": 40
+		},
+		{
+			"name": "Course material assignment 3",
+			"weight": 10
+		}
+	]
+}

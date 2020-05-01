@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exam - canine locomotory anatomy",
+			"weight": 30
+		},
+		{
+			"name": "Practical exam - equine locomotory anatomy",
+			"weight": 17
+		},
+		{
+			"name": "Locomotory anatomy (including hoof) theory exam",
+			"weight": 52
+		}
+	]
+}

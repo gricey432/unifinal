@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Contaminant Review",
+			"weight": 10
+		},
+		{
+			"name": "Groundwater",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip Reports",
+			"weight": 5
+		},
+		{
+			"name": "Major Contaminated Land Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Field Trip Report 2",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

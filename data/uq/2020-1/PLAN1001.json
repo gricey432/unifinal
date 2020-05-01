@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A Test of Weeks 1 TO 7",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Take home exam- 6 short essays",
+			"weight": 60
+		}
+	]
+}

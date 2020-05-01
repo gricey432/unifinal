@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Summary definition of the Clients problem(s)",
+			"weight": 10
+		},
+		{
+			"name": "Project Brief ",
+			"weight": 10
+		},
+		{
+			"name": "Literature review based on the project brief",
+			"weight": 20
+		},
+		{
+			"name": "Group Peer Assessment Semester 1",
+			"weight": 0
+		},
+		{
+			"name": "Group Peer Assessment Semester 2",
+			"weight": 10
+		},
+		{
+			"name": "Presentation to Client",
+			"weight": 10
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 40
+		}
+	]
+}

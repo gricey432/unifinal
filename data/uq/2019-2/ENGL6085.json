@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Draft research proposal & annotated bibliography",
+			"weight": 35
+		},
+		{
+			"name": "Project proposal - '3MT' presentation",
+			"weight": 15
+		},
+		{
+			"name": "Proposal and Literature Review",
+			"weight": 50
+		}
+	]
+}

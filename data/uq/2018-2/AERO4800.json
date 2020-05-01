@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Astrodynamics",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Trajectory Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Thermal Analysis Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial 3 Reliability Analysis",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 4 Heat Transfer",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion Board",
+			"weight": 10
+		},
+		{
+			"name": "Open book exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment Part A",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment Part B",
+			"weight": 40
+		},
+		{
+			"name": "Online Discussion Board",
+			"weight": 10
+		},
+		{
+			"name": "Open book exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment Part A",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment Part B",
+			"weight": 40
+		}
+	]
+}

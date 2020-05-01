@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Web Prototype",
+			"weight": 40
+		},
+		{
+			"name": "Web Design Product",
+			"weight": 60
+		}
+	]
+}

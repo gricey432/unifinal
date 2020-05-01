@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer Insight Report",
+			"weight": 25
+		},
+		{
+			"name": "Strategy and Ideation Project",
+			"weight": 35
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

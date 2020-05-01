@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion Forum",
+			"weight": 30
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Q&A(Written)",
+			"weight": 30
+		}
+	]
+}

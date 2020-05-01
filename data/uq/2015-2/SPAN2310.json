@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Creative Writing 1",
+			"weight": 15
+		},
+		{
+			"name": "Escritura con fines especificos 1",
+			"weight": 20
+		},
+		{
+			"name": "Creative Writing 2",
+			"weight": 15
+		},
+		{
+			"name": "Comprension lectora",
+			"weight": 20
+		},
+		{
+			"name": "Escritura con fines específicos 2",
+			"weight": 20
+		}
+	]
+}

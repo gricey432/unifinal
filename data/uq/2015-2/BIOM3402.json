@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pharmacogenetics",
+			"weight": 15
+		},
+		{
+			"name": "Peptides as drugs",
+			"weight": 25
+		},
+		{
+			"name": "Immunopharmacology",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 30
+		}
+	]
+}

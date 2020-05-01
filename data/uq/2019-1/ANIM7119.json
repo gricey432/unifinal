@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective assessment of an equine welfare issue",
+			"weight": 35
+		},
+		{
+			"name": "Equine disease management topics",
+			"weight": 30
+		},
+		{
+			"name": "Powerpoint presentation - Health",
+			"weight": 25
+		},
+		{
+			"name": "Human-horse interaction",
+			"weight": 10
+		}
+	]
+}

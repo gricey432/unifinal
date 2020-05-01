@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 60
+		},
+		{
+			"name": "Theory exam",
+			"weight": 20
+		},
+		{
+			"name": "Online participation log",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay ",
+			"weight": 20
+		},
+		{
+			"name": "Hand Hygiene Laboratory Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": 30
+		}
+	]
+}

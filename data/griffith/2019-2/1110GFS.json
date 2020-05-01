@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Concept Design Blog",
+			"weight": 35
+		},
+		{
+			"name": "Concept Poster Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Game Concept Package",
+			"weight": 40
+		}
+	]
+}

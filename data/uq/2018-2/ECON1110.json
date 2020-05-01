@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Notes on KCIs and Qs",
+			"weight": 12
+		},
+		{
+			"name": "Quiz on Topics (Weeks) 1-3",
+			"weight": 18
+		},
+		{
+			"name": "Briefing Paper",
+			"weight": 20
+		},
+		{
+			"name": "End-of-semester examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research Project - Approval Sheet",
+			"weight": 5
+		},
+		{
+			"name": "Part I",
+			"weight": 15
+		},
+		{
+			"name": "Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Part II",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - written paper",
+			"weight": 50
+		}
+	]
+}

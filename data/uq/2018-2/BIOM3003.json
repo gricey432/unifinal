@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Microscopic Musculoskeletal Anatomy Assessment",
+			"weight": 16
+		},
+		{
+			"name": "Practical Write-up",
+			"weight": 20
+		},
+		{
+			"name": "Muscle Structure Practical",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 54
+		}
+	]
+}

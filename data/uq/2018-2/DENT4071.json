@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Bridge preparation",
+			"weight": 20
+		},
+		{
+			"name": "Dental Implants Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Orthodontic Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "Written end of semester exam",
+			"weight": 50
+		}
+	]
+}

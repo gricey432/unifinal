@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Enterprise Management",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		},
+		{
+			"name": "The Art of Veterinary Practice ",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical Extramural Placements",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Integration Viva ",
+			"weight": 10
+		}
+	]
+}

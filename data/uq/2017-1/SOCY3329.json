@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Week 4 online quiz - Individual Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Transcription of Focus Group - Group Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Nvivo Tree Nodes - Group Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Report on Nvivo analysis - Individual Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Small scale qualitative research project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Week 13 quiz - Individual Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Small scale qualitative research project report",
+			"weight": 30
+		}
+	]
+}

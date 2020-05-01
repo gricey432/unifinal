@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes in tutes (best 7 of 9 must average 50%)",
+			"weight": 40
+		},
+		{
+			"name": "Report 1 - site \"consultancy\" report",
+			"weight": 30
+		},
+		{
+			"name": "Report 2 - site \"consultancy\" report",
+			"weight": 30
+		}
+	]
+}

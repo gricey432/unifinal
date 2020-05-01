@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Tutorial workbook assignment",
+			"weight": 16
+		},
+		{
+			"name": "Group assessment",
+			"weight": 12
+		},
+		{
+			"name": "Mini quizzes (in tutorials)",
+			"weight": 30
+		},
+		{
+			"name": "Introduction + References",
+			"weight": 18
+		},
+		{
+			"name": "Discussion + References",
+			"weight": 18
+		}
+	]
+}

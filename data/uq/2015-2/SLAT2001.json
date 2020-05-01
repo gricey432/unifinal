@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of learner language",
+			"weight": 25
+		},
+		{
+			"name": "Reflective essay (Widening Horizons project)",
+			"weight": 25
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 35
+		},
+		{
+			"name": "Theoretical essay",
+			"weight": 40
+		},
+		{
+			"name": "Portfolio (Widening Horizon Project)",
+			"weight": 35
+		}
+	]
+}

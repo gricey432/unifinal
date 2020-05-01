@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual presentation",
+			"weight": 10
+		},
+		{
+			"name": "Interview",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		}
+	]
+}

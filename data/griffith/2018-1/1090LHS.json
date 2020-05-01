@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Compiti",
+			"weight": 15
+		},
+		{
+			"name": "Language Quiz ",
+			"weight": 25
+		},
+		{
+			"name": "Oral Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 35
+		}
+	]
+}

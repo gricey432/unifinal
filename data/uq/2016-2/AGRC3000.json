@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Conduct during project",
+			"weight": 40
+		},
+		{
+			"name": "Group Report",
+			"weight": 40
+		}
+	]
+}

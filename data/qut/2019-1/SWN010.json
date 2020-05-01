@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Funding Submission Preparation",
+			"weight": 50
+		},
+		{
+			"name": "Essay",
+			"weight": 50
+		}
+	]
+}

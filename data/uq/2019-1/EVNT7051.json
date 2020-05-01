@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Event Manual and Event Pitch",
+			"weight": 50
+		},
+		{
+			"name": "Event quiz",
+			"weight": 25
+		},
+		{
+			"name": "Event job application",
+			"weight": 25
+		}
+	]
+}

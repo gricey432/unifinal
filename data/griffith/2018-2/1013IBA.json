@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic quiz",
+			"weight": 0
+		},
+		{
+			"name": "Written Assignment 1-Preparation for Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Mid Trimester Test",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 ",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

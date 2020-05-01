@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of a Weekly Reading",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab 1",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab 2",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab 3",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab 4",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Grab 5",
+			"weight": 10
+		},
+		{
+			"name": "Final essay",
+			"weight": 30
+		}
+	]
+}

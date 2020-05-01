@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Environmental Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Management Audit",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Visual Analysis Essay",
+			"weight": 20
+		},
+		{
+			"name": "Storyboard & Rationale",
+			"weight": 30
+		},
+		{
+			"name": "Revised and Supplemented Comparative Analysis",
+			"weight": 30
+		}
+	]
+}

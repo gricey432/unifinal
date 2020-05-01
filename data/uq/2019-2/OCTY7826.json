@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Fieldwork and Case Report",
+			"weight": 35
+		},
+		{
+			"name": "Case Study Part 1 - Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Part 2 - Oral Examination",
+			"weight": 15
+		},
+		{
+			"name": "Infant Simulation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 25
+		}
+	]
+}

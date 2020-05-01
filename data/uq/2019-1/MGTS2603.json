@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reflections",
+			"weight": 25
+		},
+		{
+			"name": "Theory and Practice of Leadership",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

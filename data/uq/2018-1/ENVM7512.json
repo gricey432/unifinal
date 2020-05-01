@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Decision context of environmental case study",
+			"weight": 5
+		},
+		{
+			"name": "Structuring an environmental issue",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

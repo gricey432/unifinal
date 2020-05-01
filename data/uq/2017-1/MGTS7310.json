@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Executive Summary Part A",
+			"weight": 10
+		},
+		{
+			"name": "Executive Summary Part B",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Pesentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual/group Academic Essay",
+			"weight": 40
+		}
+	]
+}

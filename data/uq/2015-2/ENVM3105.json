@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation/contribution while on tour",
+			"weight": 10
+		},
+		{
+			"name": "Group Case Study Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip Exam",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 10
+		},
+		{
+			"name": "Management issue case study",
+			"weight": 40
+		}
+	]
+}

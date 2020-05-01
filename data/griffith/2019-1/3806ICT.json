@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory reports",
+			"weight": 20
+		},
+		{
+			"name": "Assignment on robot navigation",
+			"weight": 15
+		},
+		{
+			"name": "Assignment on Software Agents",
+			"weight": 15
+		},
+		{
+			"name": "Assignment on reasoning",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

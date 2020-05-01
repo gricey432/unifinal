@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active participation in class activities",
+			"weight": 10
+		},
+		{
+			"name": "Short Methods Essay (800 words excl references)",
+			"weight": 20
+		},
+		{
+			"name": "Policy Brief (1200 words not including references)",
+			"weight": 20
+		},
+		{
+			"name": "Comparative Case Study (3,500 words)",
+			"weight": 50
+		}
+	]
+}

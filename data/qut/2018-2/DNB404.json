@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Manufacturing Tech Report",
+			"weight": 40
+		},
+		{
+			"name": "Design for Manufacture",
+			"weight": 60
+		}
+	]
+}

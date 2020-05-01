@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "THEORY MID-SEMESTER EXAM",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz on Musculoskeletal Anatomy",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz on Nervous and Visceral Systems",
+			"weight": 10
+		},
+		{
+			"name": "End of SemestPractical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam (EOS)",
+			"weight": 30
+		}
+	]
+}

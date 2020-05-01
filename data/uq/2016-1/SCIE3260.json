@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in lectures and workshops",
+			"weight": 10
+		},
+		{
+			"name": "Poster",
+			"weight": 20
+		},
+		{
+			"name": "Research skills, performance & documentation",
+			"weight": 30
+		},
+		{
+			"name": "Research report",
+			"weight": 40
+		}
+	]
+}

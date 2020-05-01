@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Autoethnographic reflection",
+			"weight": 20
+		},
+		{
+			"name": "Critical review of research reports",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal",
+			"weight": 50
+		}
+	]
+}

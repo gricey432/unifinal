@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes in tutorials (best 8 of 10) - 5% each",
+			"weight": 40
+		},
+		{
+			"name": "Report 1 - site \"consultancy\" report",
+			"weight": 30
+		},
+		{
+			"name": "Report 2 - site \"consultancy\" report",
+			"weight": 30
+		}
+	]
+}

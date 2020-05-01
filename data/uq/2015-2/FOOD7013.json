@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "7 Prac Sessions; 3 Reports; Laboratory Notebook",
+			"weight": 32
+		},
+		{
+			"name": "Assignment - 5,000 words",
+			"weight": 28
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 40
+		}
+	]
+}

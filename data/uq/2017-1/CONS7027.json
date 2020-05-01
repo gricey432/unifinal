@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Social Media Facebook Post/article",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: 5 minute talk",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Group Presentations - Government",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4: Writing a winning conservation grant",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 5: EIA written exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Assessment - Formative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Assessment - Summative",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Timesheet",
+			"weight": "NGP"
+		},
+		{
+			"name": "OSCA Simulation ",
+			"weight": "NGP"
+		}
+	]
+}

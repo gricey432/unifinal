@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Biosignals and Sleep Medicine",
+			"weight": 15
+		},
+		{
+			"name": "Application and function of a medical device",
+			"weight": 10
+		},
+		{
+			"name": "Detailed description of a medical device",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

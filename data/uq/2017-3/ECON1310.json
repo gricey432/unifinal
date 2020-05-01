@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Descriptive Statistics",
+			"weight": 5
+		},
+		{
+			"name": "Probability",
+			"weight": 5
+		},
+		{
+			"name": "Normal and Sampling Distributions",
+			"weight": 5
+		},
+		{
+			"name": "Confidence Intervals",
+			"weight": 5
+		},
+		{
+			"name": "Hypothesis Testing",
+			"weight": 5
+		},
+		{
+			"name": "Simple Linear Regression",
+			"weight": 5
+		},
+		{
+			"name": "Final exam. TBA.",
+			"weight": 70
+		}
+	]
+}

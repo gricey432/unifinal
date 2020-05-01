@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Submission",
+			"weight": 10
+		},
+		{
+			"name": "In-class examination",
+			"weight": 30
+		},
+		{
+			"name": "Power system planning project",
+			"weight": 10
+		},
+		{
+			"name": "Paper Presentation in Planning Area",
+			"weight": 10
+		},
+		{
+			"name": "Final exam during exam period",
+			"weight": 40
+		}
+	]
+}

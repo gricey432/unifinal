@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Participation",
+			"weight": 15
+		},
+		{
+			"name": "Essay (2500 words)",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam (2 hours)",
+			"weight": 40
+		}
+	]
+}

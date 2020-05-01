@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case study analysis",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Concept testing of a new product/service concept",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 20
+		}
+	]
+}

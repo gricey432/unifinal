@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection on Information Systems ",
+			"weight": 20
+		},
+		{
+			"name": "Inclass Exam",
+			"weight": 40
+		},
+		{
+			"name": "Microsoft Office Assignment -- EXCEL",
+			"weight": 40
+		}
+	]
+}

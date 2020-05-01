@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Hypothetical Development Assessment(short report)",
+			"weight": 20
+		},
+		{
+			"name": "Team DCF & Cap Report and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final",
+			"weight": 40
+		}
+	]
+}

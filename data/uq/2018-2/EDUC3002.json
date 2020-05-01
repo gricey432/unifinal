@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, participation and peer assessment",
+			"weight": 10
+		},
+		{
+			"name": "Music education in theory and practice",
+			"weight": 40
+		},
+		{
+			"name": "Music Learning Workshop",
+			"weight": 50
+		}
+	]
+}

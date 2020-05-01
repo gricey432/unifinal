@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Theory Examination",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination ",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory OH&S",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Formal Laboratory Demonstration 1",
+			"weight": 7
+		},
+		{
+			"name": "Formal Laboratory Demonstration 2",
+			"weight": 7
+		},
+		{
+			"name": "End of Semester Project Demonstration (Individual)",
+			"weight": 12
+		},
+		{
+			"name": "Electronics Design Project Report (Individual)",
+			"weight": 12
+		}
+	]
+}

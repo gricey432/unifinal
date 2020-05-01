@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Private International law essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

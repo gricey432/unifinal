@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Agency Visit and Report",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Social Issue Essay",
+			"weight": 30
+		},
+		{
+			"name": "Critical Literature Review",
+			"weight": 40
+		}
+	]
+}

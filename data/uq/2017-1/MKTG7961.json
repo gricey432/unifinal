@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal of Learning and Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Marketing products manufactured from pulses",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

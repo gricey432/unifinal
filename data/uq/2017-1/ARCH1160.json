@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Architectural Communication",
+			"weight": 40
+		},
+		{
+			"name": "Digital Communication",
+			"weight": 60
+		}
+	]
+}

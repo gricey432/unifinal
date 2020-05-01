@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflection on Gender (500 words)",
+			"weight": 15
+		},
+		{
+			"name": "Preparatory work for final essay (2100)",
+			"weight": 35
+		},
+		{
+			"name": "Major Research Essay (3500 words)",
+			"weight": 50
+		}
+	]
+}

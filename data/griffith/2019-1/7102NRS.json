@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Poster - Transitional complex care",
+			"weight": 20
+		},
+		{
+			"name": "Management of a complex client",
+			"weight": 30
+		},
+		{
+			"name": "Coroner's case review",
+			"weight": 50
+		}
+	]
+}

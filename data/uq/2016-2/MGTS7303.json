@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case preparation",
+			"weight": 20
+		},
+		{
+			"name": "Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Assignment: Harvard Business School Simulation",
+			"weight": 50
+		}
+	]
+}

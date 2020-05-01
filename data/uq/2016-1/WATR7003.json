@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assess 2: Reflection on readings",
+			"weight": 20
+		},
+		{
+			"name": "Oral summary of important water governance issue",
+			"weight": 10
+		},
+		{
+			"name": "Assess 3: The Great Water Challenge",
+			"weight": 20
+		},
+		{
+			"name": "PBL 2: Individual Design a Project",
+			"weight": 50
+		}
+	]
+}

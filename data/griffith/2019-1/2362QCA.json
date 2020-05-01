@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Visual Diary",
+			"weight": 20
+		},
+		{
+			"name": "Folio presentation",
+			"weight": 40
+		}
+	]
+}

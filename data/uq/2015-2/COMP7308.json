@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly On-line Quizzes ",
+			"weight": 5
+		},
+		{
+			"name": "Programming Assignment One",
+			"weight": 10
+		},
+		{
+			"name": "Programming Assignment Two",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review",
+			"weight": 5
+		},
+		{
+			"name": "Programming Assignment Three",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (Open Book)",
+			"weight": 30
+		}
+	]
+}

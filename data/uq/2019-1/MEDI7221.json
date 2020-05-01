@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Simulated Patient Recording and Review Session",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Women's & Men's Health Assessment",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Cases Assignment 1: Formative",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment: Formative",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment: Summative",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Cases Assignment 2: Formative",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Venepuncture OLA",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Mini-Clinical Evaluation Exercises (mini-CEXs)",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

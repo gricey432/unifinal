@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 3
+		},
+		{
+			"name": "Tutorial Workbook  ",
+			"weight": 10
+		},
+		{
+			"name": "Health & Safety Induction Module",
+			"weight": 0
+		},
+		{
+			"name": "Mid Trimester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Competency Based Lab Exam",
+			"weight": 10
+		},
+		{
+			"name": "Research Encounter",
+			"weight": 10
+		},
+		{
+			"name": "End Trimester Exam ",
+			"weight": 42
+		}
+	]
+}

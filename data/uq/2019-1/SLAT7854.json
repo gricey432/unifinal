@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Peer assessment of Presentation ",
+			"weight": 5
+		},
+		{
+			"name": "Critical Reading - 1",
+			"weight": 15
+		},
+		{
+			"name": "Critical Reading - 2",
+			"weight": 25
+		},
+		{
+			"name": "Research proposal",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A Framework for Assessing Metro Plan Quality",
+			"weight": 20
+		},
+		{
+			"name": "Metropolitan Plan Evaluation",
+			"weight": 35
+		},
+		{
+			"name": "Semester examination",
+			"weight": 45
+		}
+	]
+}

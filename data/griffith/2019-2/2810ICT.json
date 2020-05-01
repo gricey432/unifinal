@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessed Labs",
+			"weight": 20
+		},
+		{
+			"name": "Python programming, version control and testing",
+			"weight": 20
+		},
+		{
+			"name": "In trimester exam",
+			"weight": 30
+		},
+		{
+			"name": "Statistical data analysis and presentation",
+			"weight": 30
+		}
+	]
+}

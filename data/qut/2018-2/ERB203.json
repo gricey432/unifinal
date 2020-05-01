@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory/Practical",
+			"weight": 25
+		},
+		{
+			"name": "Project (applied)",
+			"weight": 50
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": 36
+		},
+		{
+			"name": "Orthopaedics Assessment of Clinical Competency",
+			"weight": 24
+		},
+		{
+			"name": "Ophthalmology Assessment of Clinical Competency",
+			"weight": 8
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": 32
+		},
+		{
+			"name": "Clinical Participation Assessment - Orthopaedics",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Orthopaedics Block Score",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Ophthalmology Block Score",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		}
+	]
+}

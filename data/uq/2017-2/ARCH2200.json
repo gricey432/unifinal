@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exercises in Form using Precedents",
+			"weight": 20
+		},
+		{
+			"name": "Design Concept",
+			"weight": 50
+		},
+		{
+			"name": "Animated Design",
+			"weight": 30
+		}
+	]
+}

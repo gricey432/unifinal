@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes on lectures",
+			"weight": 20
+		},
+		{
+			"name": "Foundation in programming and use of geodata",
+			"weight": 15
+		},
+		{
+			"name": "Geoprocessing and web cartography",
+			"weight": 15
+		},
+		{
+			"name": "Geospatial project",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 25
+		}
+	]
+}

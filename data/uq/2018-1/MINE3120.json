@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Quiz I",
+			"weight": 7
+		},
+		{
+			"name": "Group Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Quiz II",
+			"weight": 6
+		},
+		{
+			"name": "Quiz III",
+			"weight": 7
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

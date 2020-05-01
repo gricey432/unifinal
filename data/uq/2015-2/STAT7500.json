@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment reports",
+			"weight": 56
+		},
+		{
+			"name": "Field trip plan",
+			"weight": 2
+		},
+		{
+			"name": "Field Trip Consultancy",
+			"weight": 4
+		},
+		{
+			"name": "Consulting Essay",
+			"weight": 10
+		},
+		{
+			"name": "Project seminar",
+			"weight": 4
+		},
+		{
+			"name": "Project report",
+			"weight": 24
+		}
+	]
+}

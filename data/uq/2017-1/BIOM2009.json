@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Appendix",
+			"weight": 10
+		},
+		{
+			"name": "Online summary quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Laboratory Oral Presentation & Questions",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 65
+		}
+	]
+}

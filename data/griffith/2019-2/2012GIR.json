@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Guided Discussion with Peers",
+			"weight": 20
+		},
+		{
+			"name": "Essay ",
+			"weight": 40
+		},
+		{
+			"name": "End of Trimester Exam",
+			"weight": 40
+		}
+	]
+}

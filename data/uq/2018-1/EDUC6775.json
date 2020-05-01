@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Unit overview, lesson plan and resource folio",
+			"weight": 15
+		},
+		{
+			"name": "Excursion Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Unit Plan",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mentor review sessions",
+			"weight": "Factor applied to group mark "
+		},
+		{
+			"name": "Project 1",
+			"weight": 20
+		},
+		{
+			"name": "Peer review on project 1 ",
+			"weight": "Factor applied to group mark "
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Mentor review sessions",
+			"weight": "Factor applied to group mark "
+		},
+		{
+			"name": "Aspen simulation exam",
+			"weight": "Pass or Fail"
+		},
+		{
+			"name": "Project 2",
+			"weight": 40
+		},
+		{
+			"name": "Peer review on project 2",
+			"weight": "Factor applied to group mark "
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

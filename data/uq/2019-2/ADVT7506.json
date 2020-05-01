@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Industry Project (Report/Presentation)",
+			"weight": 50
+		},
+		{
+			"name": "Ad pitch",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Critique",
+			"weight": 20
+		}
+	]
+}

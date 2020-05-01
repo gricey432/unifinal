@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester Exam",
+			"weight": 45
+		},
+		{
+			"name": "Country analysis",
+			"weight": 30
+		},
+		{
+			"name": "Case analysis",
+			"weight": 25
+		}
+	]
+}

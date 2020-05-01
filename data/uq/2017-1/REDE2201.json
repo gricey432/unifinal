@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial readings and tests",
+			"weight": 20
+		},
+		{
+			"name": "Assignment: AREIT performance analysis",
+			"weight": 30
+		},
+		{
+			"name": "Exam ",
+			"weight": 50
+		}
+	]
+}

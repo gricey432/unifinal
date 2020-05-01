@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "4 quizzes on Black Board",
+			"weight": 20
+		},
+		{
+			"name": "Individual Vision, Issues and Design Report",
+			"weight": 30
+		},
+		{
+			"name": "Precinct Plan Presentation and Report",
+			"weight": 50
+		}
+	]
+}

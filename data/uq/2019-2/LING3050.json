@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly group exercises",
+			"weight": 20
+		},
+		{
+			"name": "Case study 1: Where & why.",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of weekly readings",
+			"weight": 20
+		},
+		{
+			"name": "Cast study 2: Phonology and semantics.",
+			"weight": 20
+		},
+		{
+			"name": "Case study 3: Morphosyntax.",
+			"weight": 20
+		}
+	]
+}

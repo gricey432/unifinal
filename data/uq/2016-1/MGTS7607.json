@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Studies, Critical Reviews and Debate",
+			"weight": 35
+		},
+		{
+			"name": "Media Analysis and Report",
+			"weight": 5
+		},
+		{
+			"name": "Case Study Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Analytical Essay",
+			"weight": 45
+		}
+	]
+}

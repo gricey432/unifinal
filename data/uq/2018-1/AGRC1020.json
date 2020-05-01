@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Compulsory online Laboratory Safety Training",
+			"weight": 80
+		},
+		{
+			"name": "Learning Portfolio ",
+			"weight": 40
+		},
+		{
+			"name": "Laboratory Practical Sessions ",
+			"weight": 5
+		},
+		{
+			"name": "Necropsy",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - End of semester",
+			"weight": 40
+		}
+	]
+}

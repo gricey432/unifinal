@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 35
+		},
+		{
+			"name": "Close Reading ",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Reflective Journals",
+			"weight": 10
+		},
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 50
+		},
+		{
+			"name": "Oral Presentations",
+			"weight": 25
+		}
+	]
+}

@@ -1,10 +1,11 @@
-name: Upload Websites
+name: Client
 
 on:
   push:
     branches:
       - master
-
+    paths:
+      - 'client/**'
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -13,23 +14,17 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - name: Build Client
+      - name: Build
         run: |
           pushd client
           yarn install
           yarn build:production
           popd
-      - name: Upload
+      - name: Deploy
         run: |
-          # UQ
           aws s3 sync ./client/dist/uq s3://unifinal-uq
-          aws s3 sync ./data/uq s3://unifinal-uq/data
-          # QUT
           aws s3 sync ./client/dist/qut s3://unifinal-qut
-          aws s3 sync ./data/qut s3://unifinal-qut/data
-          # Griffith
           aws s3 sync ./client/dist/griffith s3://unifinal-griffith
-          aws s3 sync ./data/griffith s3://unifinal-griffith/data
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

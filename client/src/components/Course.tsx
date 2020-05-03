@@ -153,7 +153,11 @@ export const Course: React.FunctionComponent<Props> = (props) => {
                     <>
                         <div className="resultsSentence">
                             To get a <select title="Target Grade" value={selectedTargetGrade} onChange={(e) => setSelectedTargetGrade(e.target.value)}>{
-                                requiredGrades.keySeq().map((k) => <option key={k} value={k}>{k}</option>).toArray()
+                                requiredGrades.keySeq().map((k) => {
+                                    // Grades are 1 indexed
+                                    const grade = k + 1;
+                                    return <option key={grade} value={grade}>{grade}</option>;
+                                }).toArray()
                             }</select>, you need {requiredGrades.get(Number(selectedTargetGrade))}%
                         </div>
                         <div className="fake-link text-center" onClick={clickShowMoreDetail}>more details&hellip;</div>

@@ -1,4 +1,4 @@
-name: Deploy
+name: Data
 
 on:
   push:

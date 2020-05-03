@@ -1,4 +1,5 @@
-import React, {useState} from "react";
+import * as React from "react";
+import {useState} from "react";
 import {HashRouter, Route, Redirect} from "react-router-dom";
 import * as Cookie from "js-cookie";
 import * as tinyColor from "tinycolor2";

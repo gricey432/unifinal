@@ -2,6 +2,8 @@
 
 To make it easy for people to contribute and fix courses, all the course data is stored in the repository as json files.
 
+These are usually generated using the scrapers found in `scrapers`, and then can be hand tweaked to fix small errors.
+
 ## Directory Structure
 
 ```

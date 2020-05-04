@@ -1,15 +1,11 @@
 {
   "name": "@unifinal/client",
   "version": "1.0.0",
-  "description": "",
   "private": true,
   "scripts": {
     "build": "webpack",
     "build:production": "webpack --env.production"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/classnames": "^2.2.9",
     "@types/is-number": "^7.0.0",

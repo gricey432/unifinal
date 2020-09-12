@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly vocabulary tests",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 70
+		}
+	]
+}

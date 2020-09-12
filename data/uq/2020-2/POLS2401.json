@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial hand-in",
+			"weight": 10
+		},
+		{
+			"name": "Minor essay (1500 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major essay (2500 words",
+			"weight": 45
+		},
+		{
+			"name": "Take-Home Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lithics quiz",
+			"weight": 25
+		},
+		{
+			"name": "Lithics quiz",
+			"weight": 25
+		},
+		{
+			"name": "Lithic Analysis Report",
+			"weight": "50%                                        2000 words"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Sociological analysis of an environmental problem",
+			"weight": 50
+		},
+		{
+			"name": "Research essay",
+			"weight": 50
+		}
+	]
+}

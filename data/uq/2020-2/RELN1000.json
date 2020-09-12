@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation (zoom)",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Diary Entries",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal (in preparation for major essay)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay: Places of Worship",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Paper Discussions",
+			"weight": 10
+		},
+		{
+			"name": "Practical series and homework",
+			"weight": 40
+		},
+		{
+			"name": "In Class Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Volcano assignment",
+			"weight": 15
+		},
+		{
+			"name": "Practical exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Portfolio of practice sequences",
+			"weight": 50
+		},
+		{
+			"name": "Presentation",
+			"weight": "hurdle requirement"
+		},
+		{
+			"name": "Reflection on teaching and learning",
+			"weight": 50
+		}
+	]
+}

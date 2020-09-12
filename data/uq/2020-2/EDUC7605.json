@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Supervised professional experience placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical reflection essay",
+			"weight": "Pass/Fail 1500 words"
+		},
+		{
+			"name": "Building a portfolio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

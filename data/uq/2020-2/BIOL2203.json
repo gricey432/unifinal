@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Seed plant biodiversity & biogeography",
+			"weight": 7.5
+		},
+		{
+			"name": "Plant hormone experiment report",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Big Thorny Questions",
+			"weight": 15
+		},
+		{
+			"name": "QuestaGame - find, upload, identify plants",
+			"weight": 7.5
+		},
+		{
+			"name": "Plant disease herbarium sheet",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": "30%                                        Hurdle 50% required to pass course"
+		}
+	]
+}

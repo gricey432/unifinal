@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "01_ANALYSING THE TOWER",
+			"weight": 25
+		},
+		{
+			"name": "02_TIMBER TOWER DESIGN CONCEPT",
+			"weight": "40%                                        IVAH"
+		},
+		{
+			"name": "03_DOING THINGS BETTER (Groupwork)",
+			"weight": 35
+		}
+	]
+}

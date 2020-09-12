@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Attendance and Participation in Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Classifying variables, deriving predictions",
+			"weight": 15
+		},
+		{
+			"name": "Identifying confounds, evaluating research",
+			"weight": 15
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Qualitative Results Paper",
+			"weight": 40
+		},
+		{
+			"name": "Quantitative Results Paper",
+			"weight": 40
+		},
+		{
+			"name": "Turning your thesis into a publishable paper",
+			"weight": 20
+		}
+	]
+}

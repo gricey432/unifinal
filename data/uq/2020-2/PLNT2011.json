@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Class Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Abstract",
+			"weight": 20
+		},
+		{
+			"name": "Conference Poster",
+			"weight": 20
+		},
+		{
+			"name": "Presentation of Poster",
+			"weight": 20
+		},
+		{
+			"name": "Disease identification",
+			"weight": 20
+		}
+	]
+}

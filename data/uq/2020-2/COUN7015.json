@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Real Experiences of Illness",
+			"weight": 35
+		},
+		{
+			"name": "Letters to the People",
+			"weight": 15
+		},
+		{
+			"name": "Development of Group Session Plan",
+			"weight": 50
+		}
+	]
+}

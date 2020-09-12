@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam-Online via BlackBoard",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2- Individual Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3- Individual Assignment",
+			"weight": 35
+		}
+	]
+}

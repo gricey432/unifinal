@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Fractals with Tensorflow",
+			"weight": 15
+		},
+		{
+			"name": "Git Introduction Short Course",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Pattern Recognition Problem",
+			"weight": 20
+		},
+		{
+			"name": "Git Advanced Short Course",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "PatternFlow Algorithm",
+			"weight": 35
+		},
+		{
+			"name": "Final",
+			"weight": 20
+		}
+	]
+}

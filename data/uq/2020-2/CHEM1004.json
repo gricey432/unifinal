@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Assignments",
+			"weight": 26
+		},
+		{
+			"name": "eQuizzes (Best 7 eQuizzes)",
+			"weight": 14
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

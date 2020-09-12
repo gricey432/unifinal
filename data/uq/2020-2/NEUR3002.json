@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Club Participation and Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Practical Lab Participation",
+			"weight": 5
+		},
+		{
+			"name": "Practical Lab Report",
+			"weight": 10
+		}
+	]
+}

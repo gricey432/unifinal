@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Teacher's Report",
+			"weight": 30
+		},
+		{
+			"name": "Self-directed practice project",
+			"weight": 20
+		},
+		{
+			"name": "Language and Diction Test for Voice Students",
+			"weight": "0%                                        Formative assessment"
+		},
+		{
+			"name": "Technical Exam",
+			"weight": 50
+		}
+	]
+}

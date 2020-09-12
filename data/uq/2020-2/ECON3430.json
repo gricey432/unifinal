@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": 15
+		},
+		{
+			"name": "First draft",
+			"weight": "30%                                        (0% if not the highest marked draft)"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 15
+		},
+		{
+			"name": "Second draft",
+			"weight": "30%                                        (0% if not the highest marked draft)"
+		},
+		{
+			"name": "Wikipedia article",
+			"weight": 20
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 20
+		},
+		{
+			"name": "Final draft",
+			"weight": "30%                                        (0% if not the highest marked draft)"
+		}
+	]
+}

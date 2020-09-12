@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Report",
+			"weight": "60%                                        Individual; 4000 words"
+		},
+		{
+			"name": "Simulation Reflective Review",
+			"weight": "40%                                        Individual; 2000 words"
+		}
+	]
+}

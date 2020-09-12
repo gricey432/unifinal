@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of Research Thesis",
+			"weight": 0
+		},
+		{
+			"name": "Meetings with Supervisors",
+			"weight": 0
+		},
+		{
+			"name": "Ethical Clearance",
+			"weight": 0
+		},
+		{
+			"name": "Abstract",
+			"weight": 0
+		},
+		{
+			"name": "Research Thesis",
+			"weight": 100
+		}
+	]
+}

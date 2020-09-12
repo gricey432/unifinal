@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Corrosion Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Corrosion Laboratory",
+			"weight": 5
+		},
+		{
+			"name": "Electrochemistry Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Electrochemistry Laboratory",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

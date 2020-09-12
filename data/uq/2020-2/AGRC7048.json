@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Concept quiz",
+			"weight": 0
+		},
+		{
+			"name": "Quiz  genetics of plant development",
+			"weight": 2.5
+		},
+		{
+			"name": "Post practical activities",
+			"weight": 25
+		},
+		{
+			"name": "Quiz  photosynthesis and respiration",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  water",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  nutrients",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  signalling",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  seed to seed",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  reproductive development",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz  abiotic stress",
+			"weight": 2.5
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

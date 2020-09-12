@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning Thesis",
+			"weight": 90
+		},
+		{
+			"name": "Thesis",
+			"weight": 10
+		}
+	]
+}

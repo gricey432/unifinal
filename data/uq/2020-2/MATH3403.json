@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 12
+		},
+		{
+			"name": "Extended take home examination (assignment)",
+			"weight": 40
+		}
+	]
+}

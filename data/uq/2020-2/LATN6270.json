@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation 1",
+			"weight": 5
+		},
+		{
+			"name": "Coursework Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester On-line Test",
+			"weight": 30
+		},
+		{
+			"name": "Coursework Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation 2",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

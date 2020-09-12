@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Primer Design",
+			"weight": 10
+		},
+		{
+			"name": "Experimental Plan and Lab Manual",
+			"weight": 20
+		},
+		{
+			"name": "Mini-Review of the Target Genes",
+			"weight": 10
+		},
+		{
+			"name": "Practical Participation and Competency",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory notebook",
+			"weight": 10
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": 40
+		}
+	]
+}

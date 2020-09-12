@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "ArtTherapy presubmission presentation of findings",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Art Exhibition",
+			"weight": "Hurdle"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises",
+			"weight": "32%                                        (best 8 out of 10 tutorials )"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 33
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

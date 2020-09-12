@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in online discussion",
+			"weight": 10
+		},
+		{
+			"name": "Report 1: Hydrology, water quality and Mining",
+			"weight": 25
+		},
+		{
+			"name": "Report 2: Methods of monitoring",
+			"weight": 25
+		},
+		{
+			"name": "Report 3: Final report",
+			"weight": 40
+		}
+	]
+}

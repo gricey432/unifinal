@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-course (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation in Class",
+			"weight": 8
+		},
+		{
+			"name": "Leadership Reflection video",
+			"weight": 2
+		},
+		{
+			"name": "Short role-play presentations",
+			"weight": "Included in Group Assignment mark"
+		},
+		{
+			"name": "Critical Discussion Paper",
+			"weight": "40%                                        Hurdle"
+		},
+		{
+			"name": "Oral Examination (Online)",
+			"weight": 10
+		},
+		{
+			"name": "Group Project",
+			"weight": 35
+		},
+		{
+			"name": "for Group Project",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

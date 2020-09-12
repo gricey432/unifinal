@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "All hours (clinical, supervision, general)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Portfolio of work completed on extended placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Interview with site supervisor at mid term and end",
+			"weight": "Pass/Fail"
+		}
+	]
+}

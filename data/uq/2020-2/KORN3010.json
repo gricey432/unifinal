@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Speaking activity script writing",
+			"weight": "12%                                        3 X 4%"
+		},
+		{
+			"name": "Interview I",
+			"weight": 38
+		},
+		{
+			"name": "Interview II",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project reports and models",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		},
+		{
+			"name": "Computer based practical exam",
+			"weight": 20
+		}
+	]
+}

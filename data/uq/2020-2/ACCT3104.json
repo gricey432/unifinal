@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Final Exam",
+			"weight": "50%                                        Individual"
+		},
+		{
+			"name": "Online Non-invigilated Mid-Semester Exam",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Case Study",
+			"weight": "20%                                        Individual"
+		}
+	]
+}

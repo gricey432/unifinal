@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "To Think Like an Economist",
+			"weight": 10
+		},
+		{
+			"name": "CLEAR-JE No.1",
+			"weight": "10%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "Supply and Demand",
+			"weight": 10
+		},
+		{
+			"name": "CLEAR-JE No.2",
+			"weight": "10%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "Elasticity and Perfectly Competitive Supply",
+			"weight": 10
+		},
+		{
+			"name": "CLEAR-JE No.3",
+			"weight": "10%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "The Quest for Profit, Imperfect Comp & Monopoly",
+			"weight": 10
+		},
+		{
+			"name": "CLEAR-JE No.4",
+			"weight": "10%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "Imperfect Comp (cont.), Externalities, Prop Rights",
+			"weight": 10
+		},
+		{
+			"name": "CLEAR-JE No.5",
+			"weight": "10%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "CLEAR-JE No.6",
+			"weight": "10%                                        (Best 5 of 6)"
+		}
+	]
+}

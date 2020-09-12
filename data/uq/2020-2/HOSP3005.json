@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Social Media Post & Reflection",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "25%                                        Individual; 60 minutes"
+		},
+		{
+			"name": "Final Online Exam",
+			"weight": "50%                                        Individual; 120 mins"
+		}
+	]
+}

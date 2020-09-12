@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 Gothic",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 2 Renaissance",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 3 Baroque",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Activities",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": "50%                                        IVAH"
+		}
+	]
+}

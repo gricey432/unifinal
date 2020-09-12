@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial engagement",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz Section 1",
+			"weight": 10
+		},
+		{
+			"name": "Video presentation",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz Section 2",
+			"weight": 10
+		},
+		{
+			"name": "Report on a Health Issue",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz Section 3",
+			"weight": 10
+		}
+	]
+}

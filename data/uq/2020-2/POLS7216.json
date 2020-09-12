@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of articles for Research Essay (1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (3500 words)",
+			"weight": 50
+		},
+		{
+			"name": "Course reflection video & journal (1000 words)",
+			"weight": 30
+		}
+	]
+}

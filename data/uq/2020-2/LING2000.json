@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Series of online worksheets",
+			"weight": "48%                                        8% per worksheet"
+		},
+		{
+			"name": "Take home exam",
+			"weight": 26
+		},
+		{
+			"name": "Online exam",
+			"weight": 26
+		}
+	]
+}

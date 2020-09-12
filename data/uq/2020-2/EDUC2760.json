@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task A: Online Activities w/Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task B: Weekly Polls",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assessment Task C: Mapping and Presenting 1",
+			"weight": 35
+		},
+		{
+			"name": "Assessment Task D: Mapping and Presenting 2",
+			"weight": 35
+		}
+	]
+}

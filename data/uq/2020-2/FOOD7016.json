@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Participation & Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Individual Report",
+			"weight": 40
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 20
+		}
+	]
+}

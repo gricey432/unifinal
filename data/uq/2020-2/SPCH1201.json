@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity & Occupational Violence Modules",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Tutorial Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Communication and Ageing Report",
+			"weight": 40
+		},
+		{
+			"name": "Observation Workbook",
+			"weight": 5
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 40
+		}
+	]
+}

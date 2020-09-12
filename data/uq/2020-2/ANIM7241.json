@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bioinformatics",
+			"weight": 20
+		},
+		{
+			"name": "You will select one from several possible titles",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

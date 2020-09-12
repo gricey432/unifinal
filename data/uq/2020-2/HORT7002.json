@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Horticulture industry challenge",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation via Zoom",
+			"weight": 15
+		},
+		{
+			"name": "Innovative waste management",
+			"weight": 20
+		},
+		{
+			"name": "Short answer exam",
+			"weight": 40
+		}
+	]
+}

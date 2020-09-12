@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "3 Online Revision Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Pair-Interview (VIDEO)",
+			"weight": 10
+		},
+		{
+			"name": "Course Engagement PADLET",
+			"weight": 10
+		},
+		{
+			"name": "Final Individual Oral Interview",
+			"weight": 25
+		},
+		{
+			"name": "Written Test (ONLINE)",
+			"weight": 25
+		}
+	]
+}

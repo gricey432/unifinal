@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials and Quizzes",
+			"weight": 35
+		},
+		{
+			"name": "Log of Simulation - Everest",
+			"weight": 15
+		},
+		{
+			"name": "Case Analysis Report",
+			"weight": 50
+		}
+	]
+}

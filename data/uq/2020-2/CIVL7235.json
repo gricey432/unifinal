@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Planning and route selection",
+			"weight": 15
+		},
+		{
+			"name": "Project 3 - Assigned topics based on ATS Guide",
+			"weight": 45
+		},
+		{
+			"name": "Project 2 - Excavation methodology and support",
+			"weight": 25
+		},
+		{
+			"name": "Presentation of Project 3 Topics",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of lab assignments",
+			"weight": "63%                                        Total"
+		},
+		{
+			"name": "Folding, faulting & Strain",
+			"weight": 16
+		},
+		{
+			"name": "Problem-solving exercises",
+			"weight": 21
+		}
+	]
+}

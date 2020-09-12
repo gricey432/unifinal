@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project report literature review",
+			"weight": "25%                                        (MUST PASS)"
+		},
+		{
+			"name": "LINKS Fieldwork Portfolio Assignment",
+			"weight": "50%                                        (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "25%                                        (MUST PASS)"
+		}
+	]
+}

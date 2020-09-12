@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1 (Book Review)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 4",
+			"weight": 40
+		},
+		{
+			"name": "Four online quizzes",
+			"weight": 40
+		}
+	]
+}

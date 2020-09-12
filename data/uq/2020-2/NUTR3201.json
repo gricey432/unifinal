@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly exam practice quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Practical reports, worksheets and assignment",
+			"weight": 37
+		},
+		{
+			"name": "Final Exam",
+			"weight": 48
+		}
+	]
+}

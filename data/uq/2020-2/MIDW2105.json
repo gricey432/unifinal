@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Critical Illness in the mother and neonate",
+			"weight": 40
+		},
+		{
+			"name": "MIDW2105 Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Content Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Extended Challenge Activity Report",
+			"weight": 40
+		},
+		{
+			"name": "Training Assignments",
+			"weight": 20
+		}
+	]
+}

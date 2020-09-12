@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 minute video on 'What is Health Economics?'",
+			"weight": 10
+		},
+		{
+			"name": "3000 words report on topics from Lectures 2-6",
+			"weight": 50
+		},
+		{
+			"name": "3000 words review",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Reading Reports",
+			"weight": 10
+		},
+		{
+			"name": "Seminar Contributions",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Analysis (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Textual Analysis (2000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay (3000 Words)",
+			"weight": 40
+		}
+	]
+}

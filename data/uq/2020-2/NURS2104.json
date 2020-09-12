@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Health Promotion Strategy",
+			"weight": 40
+		},
+		{
+			"name": "Care Plan Case Study  Hospitalised Child",
+			"weight": 40
+		},
+		{
+			"name": "Participation in Online Workshop Discussion Forums",
+			"weight": 20
+		}
+	]
+}

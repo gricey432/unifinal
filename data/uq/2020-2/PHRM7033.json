@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual contribution to Green Discussion Boards",
+			"weight": "9%                                        3% per module/tutorial"
+		},
+		{
+			"name": "Peer review of VIVA",
+			"weight": 2
+		},
+		{
+			"name": "Modules 1-3",
+			"weight": "9%                                        3% per module"
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": "12%                                        4% per module"
+		},
+		{
+			"name": "Portfolio reflection",
+			"weight": 13
+		},
+		{
+			"name": "Oral VIVA",
+			"weight": 55
+		}
+	]
+}

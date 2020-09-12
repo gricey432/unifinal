@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Development of a product design brief",
+			"weight": 10
+		},
+		{
+			"name": "Labelling assignment",
+			"weight": 5
+		},
+		{
+			"name": "Group Work Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Product Development Project Final Report",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

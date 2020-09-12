@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment #1 Demographic Profile",
+			"weight": 30
+		},
+		{
+			"name": "Assignment #2 Demographic Projections",
+			"weight": 40
+		},
+		{
+			"name": "Applied Demography Exercise",
+			"weight": 30
+		}
+	]
+}

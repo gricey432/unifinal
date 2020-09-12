@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay I",
+			"weight": 45
+		},
+		{
+			"name": "Essay II",
+			"weight": 45
+		},
+		{
+			"name": "Readings Summary_Participation",
+			"weight": 10
+		}
+	]
+}

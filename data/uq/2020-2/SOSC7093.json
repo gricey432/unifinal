@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro method in practice",
+			"weight": "35%                                        2000 words (excluding transcript & references)"
+		},
+		{
+			"name": "Mezzo method in practice",
+			"weight": "35%                                        2000 words (excluding transcript & references)"
+		},
+		{
+			"name": "Exploration of macro and meta method",
+			"weight": 30
+		}
+	]
+}

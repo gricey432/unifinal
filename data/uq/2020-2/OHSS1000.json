@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Legislation Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Take Home EOS Exam",
+			"weight": 30
+		}
+	]
+}

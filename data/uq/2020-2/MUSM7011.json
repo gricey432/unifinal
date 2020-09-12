@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Essentials quiz",
+			"weight": 5
+		},
+		{
+			"name": "Photogrammetry Blog Entry",
+			"weight": 45
+		},
+		{
+			"name": "Podcast & Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Social media content curation",
+			"weight": 10
+		}
+	]
+}

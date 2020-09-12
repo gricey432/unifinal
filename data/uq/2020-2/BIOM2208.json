@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Practical Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Practical Assignment 3",
+			"weight": 15
+		}
+	]
+}

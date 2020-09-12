@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on industry workshop",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Outline of research project",
+			"weight": 5
+		},
+		{
+			"name": "Week 3 Checkpoint meeting",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Week 6 Checkpoint meeting",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Maintain witnessed laboratory book",
+			"weight": 10
+		},
+		{
+			"name": "Report on research project",
+			"weight": 85
+		}
+	]
+}

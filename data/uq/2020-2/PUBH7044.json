@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Goal-setting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Interim Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Multimedia Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Timesheets",
+			"weight": "Pass/Fail"
+		}
+	]
+}

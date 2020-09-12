@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Independent Research Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Seminar",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

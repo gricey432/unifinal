@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading summary",
+			"weight": 10
+		},
+		{
+			"name": "How to make a video and audio presentation",
+			"weight": 5
+		},
+		{
+			"name": "3-5 minutes long",
+			"weight": 15
+		},
+		{
+			"name": "2000 words",
+			"weight": 40
+		},
+		{
+			"name": "1500 words",
+			"weight": 30
+		}
+	]
+}

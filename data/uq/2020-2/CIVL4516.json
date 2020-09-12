@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Phase 1 Methodology & Scoping Study",
+			"weight": 20
+		},
+		{
+			"name": "Phase 1 Methodology & Scoping Study",
+			"weight": "PAF affects individual mark"
+		}
+	]
+}

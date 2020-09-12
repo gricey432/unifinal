@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "XRD characterisation and data analysis",
+			"weight": 8
+		},
+		{
+			"name": "Literature review of thermoelectric nanostructures",
+			"weight": 12
+		},
+		{
+			"name": "1. Development of thermoelectric nanostructures",
+			"weight": 20
+		},
+		{
+			"name": "2. Fabricate/characterise magnetic nanocomposites",
+			"weight": 15
+		},
+		{
+			"name": "Literature review of magnetic nanocomposites",
+			"weight": 5
+		},
+		{
+			"name": "3. Nanoporous: Fabrication/characterisation/design",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

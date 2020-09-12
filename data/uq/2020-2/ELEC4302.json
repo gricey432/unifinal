@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "online submission Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Individual assignment-Report based on simulation",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

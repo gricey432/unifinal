@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pronunciation Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Blackboard Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Oral 1",
+			"weight": 15
+		},
+		{
+			"name": "Devoir écrit",
+			"weight": 20
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		}
+	]
+}

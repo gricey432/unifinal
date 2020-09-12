@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Development of a Learning Contract",
+			"weight": "40%                                        2,000 words"
+		},
+		{
+			"name": "Learning Contract Evaluation Report",
+			"weight": "60%                                        3,000 words"
+		}
+	]
+}

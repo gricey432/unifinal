@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Writing Assignments",
+			"weight": "10%                                        10 x 100 words"
+		},
+		{
+			"name": "First Short Essay",
+			"weight": "20%                                        750 Words"
+		},
+		{
+			"name": "Second Short Essay",
+			"weight": "30%                                        1000 Words"
+		},
+		{
+			"name": "Long Essay",
+			"weight": "40%                                        2000 words"
+		}
+	]
+}

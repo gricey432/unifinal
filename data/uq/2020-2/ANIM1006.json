@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Online tutorial classes",
+			"weight": 10
+		},
+		{
+			"name": "Equine Farm Strategy Plan",
+			"weight": 20
+		},
+		{
+			"name": "Facility Management Report",
+			"weight": 10
+		},
+		{
+			"name": "Weekly learning quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 25
+		}
+	]
+}

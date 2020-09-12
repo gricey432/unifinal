@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Project Execution 1",
+			"weight": 7.5
+		},
+		{
+			"name": "Project Execution 2",
+			"weight": 7.5
+		},
+		{
+			"name": "OHS",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Abstract",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Abstract",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 60
+		},
+		{
+			"name": "Seminar 1",
+			"weight": 5
+		},
+		{
+			"name": "Seminar 2",
+			"weight": 10
+		}
+	]
+}

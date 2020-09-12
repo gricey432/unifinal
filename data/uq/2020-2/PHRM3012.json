@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals",
+			"weight": "Participation"
+		},
+		{
+			"name": "Online quizzes",
+			"weight": "10%                                        Non-compulsory"
+		},
+		{
+			"name": "Hospital Modules",
+			"weight": "0%                                        Compulsory Participation"
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": "10%                                        Compulsory Participation"
+		},
+		{
+			"name": "Written exam",
+			"weight": "60%                                        Hurdle"
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": "20%                                        Hurdle"
+		}
+	]
+}

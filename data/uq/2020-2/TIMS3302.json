@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz | 3 sets",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Business Models*, Assumptions*, Growth Pathways*",
+			"weight": "30%                                        Team: PAF required*"
+		},
+		{
+			"name": "Respond to 3 questions",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

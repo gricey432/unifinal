@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Discipline Paper Critique",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Field Report (field trip participants)",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

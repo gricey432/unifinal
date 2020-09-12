@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Decision Making Report",
+			"weight": 30
+		},
+		{
+			"name": "Ethics Collaborative Video Discussion",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

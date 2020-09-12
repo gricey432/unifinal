@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Seminar Preparation",
+			"weight": 16
+		},
+		{
+			"name": "Take Home Exams",
+			"weight": 24
+		},
+		{
+			"name": "Essays",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Section A Assignments (2)",
+			"weight": 10
+		},
+		{
+			"name": "Section B Assignments (2)",
+			"weight": 10
+		},
+		{
+			"name": "Formal Reports(2) & Logbook entries(4)",
+			"weight": 20
+		}
+	]
+}

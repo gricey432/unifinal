@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Epidemiology and management of COVID-19",
+			"weight": 15
+		},
+		{
+			"name": "Epidemiology and management of Infectious Diseases",
+			"weight": 15
+		}
+	]
+}

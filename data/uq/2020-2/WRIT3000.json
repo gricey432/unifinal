@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "5 Multiple Choice Quizzes on Set Texts",
+			"weight": 25
+		},
+		{
+			"name": "Project Plan and Writing Sample",
+			"weight": "15%                                        800 words"
+		},
+		{
+			"name": "Advanced Writing Project",
+			"weight": "50%                                        3,000 words total (or equivalent)"
+		}
+	]
+}

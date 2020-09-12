@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Renewable Power Knowledge",
+			"weight": 0
+		},
+		{
+			"name": "Assignment #1 - Renewable Power Today",
+			"weight": 20
+		},
+		{
+			"name": "Demonstrated understanding of new R&D topics",
+			"weight": 0
+		},
+		{
+			"name": "Assignment #2 - Renewable Power Tomorrow",
+			"weight": 40
+		},
+		{
+			"name": "Review Asseessment",
+			"weight": 40
+		}
+	]
+}

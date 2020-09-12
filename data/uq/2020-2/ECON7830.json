@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar paper",
+			"weight": 20
+		},
+		{
+			"name": "Policy proposal",
+			"weight": 30
+		},
+		{
+			"name": "Policy perspectives",
+			"weight": 50
+		}
+	]
+}

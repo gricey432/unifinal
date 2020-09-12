@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Entries",
+			"weight": "20%                                        200 words/week"
+		},
+		{
+			"name": "Conference Paper Presentation",
+			"weight": "30%                                        10 minute presentation"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

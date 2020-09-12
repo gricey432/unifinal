@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Complete Mid-point Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practice Reflection and Process Record",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practice Reflection and Process Record",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Learning Curriculum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Complete Final Placement Evaluation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Pre-placement Workshop Participation & Attendance",
+			"weight": "Pass/Fail"
+		}
+	]
+}

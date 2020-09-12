@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Case Studies",
+			"weight": "35%                                        1500 words"
+		},
+		{
+			"name": "Intercultural Report",
+			"weight": "45%                                        2000 words"
+		}
+	]
+}

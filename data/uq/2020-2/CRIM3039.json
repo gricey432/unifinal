@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project",
+			"weight": 50
+		},
+		{
+			"name": "Gun Control Reflection Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Theory Application Paper",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final report on the selected topic",
+			"weight": 40
+		},
+		{
+			"name": "Report on emerging biological contaminants",
+			"weight": 25
+		},
+		{
+			"name": "Report on emerging chemical contaminants",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation about emerging contamination",
+			"weight": 10
+		}
+	]
+}

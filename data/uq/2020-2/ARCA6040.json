@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Writing The Front Half of an Article",
+			"weight": 25
+		},
+		{
+			"name": "Curriculum Vitae, Job Application, Interview",
+			"weight": 20
+		},
+		{
+			"name": "Poster of Thesis Project & Findings",
+			"weight": 20
+		},
+		{
+			"name": "Media Package",
+			"weight": 20
+		},
+		{
+			"name": "Media Package",
+			"weight": 20
+		},
+		{
+			"name": "Working Papers Seminar Presentation",
+			"weight": 15
+		}
+	]
+}

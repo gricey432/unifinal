@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz",
+			"weight": 30
+		},
+		{
+			"name": "Community-led regeneration Plan",
+			"weight": "70%                                        5% of the 70% is for the in-class presentation. Peer assessment applies to the Report."
+		}
+	]
+}

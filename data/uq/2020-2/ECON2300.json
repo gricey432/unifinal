@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Periodic Assessments",
+			"weight": "60%                                        6 quizzes"
+		},
+		{
+			"name": "Final Exam- online exam (CML on Blackboard)",
+			"weight": 40
+		}
+	]
+}

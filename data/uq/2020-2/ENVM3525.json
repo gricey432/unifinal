@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Sustainable Business Practice Advisory Brief 1",
+			"weight": 50
+		},
+		{
+			"name": "Sustainable Business Practice Advisory Brief 2",
+			"weight": 50
+		}
+	]
+}

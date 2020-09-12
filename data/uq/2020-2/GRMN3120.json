@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Online Discussion",
+			"weight": 20
+		}
+	]
+}

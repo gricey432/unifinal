@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Computer-Based Quizzes",
+			"weight": "25%                                        (Best 10 of 11)"
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 12.5
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 12.5
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 12.5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 37.5
+		}
+	]
+}

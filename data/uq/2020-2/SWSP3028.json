@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Child Protection Case Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Student led online seminar on Public Inquiries",
+			"weight": 30
+		},
+		{
+			"name": "Social Work Practice Workbook",
+			"weight": 35
+		}
+	]
+}

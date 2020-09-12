@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "APSIM assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "APSIM assessment 2",
+			"weight": 10
+		},
+		{
+			"name": "Review Test",
+			"weight": 30
+		},
+		{
+			"name": "Harvest Weed Seed Control",
+			"weight": 10
+		},
+		{
+			"name": "Herbicide Resistance",
+			"weight": 10
+		},
+		{
+			"name": "Genotype x Environment Field Trial Report",
+			"weight": 30
+		}
+	]
+}

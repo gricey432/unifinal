@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meetings with Supervisor",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review Workshops",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Literature review",
+			"weight": 80
+		}
+	]
+}

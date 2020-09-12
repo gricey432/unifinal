@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business writing mini-portfolio",
+			"weight": 30
+		},
+		{
+			"name": "SPSE Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Research Translation (Compulsory)",
+			"weight": "30%                                        with hurdle."
+		}
+	]
+}

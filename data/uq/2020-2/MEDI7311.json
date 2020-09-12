@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle:  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Clinical Case Presentation (CCP)",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Zoom Tutorial Series with RiPPLE reflection task",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Surgery Assessment - Short Answer (SAQ) Exam",
+			"weight": "Performance Hurdle combined with MCQ component"
+		},
+		{
+			"name": "Surgery Assessment - Multiple Choice (MCQ) Exam",
+			"weight": "Performance Hurdle combined with SAQ component"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Business Project Report",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Scoping Proposal (if necessary)",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "essential element"
+		},
+		{
+			"name": "Mid point review",
+			"weight": "essential element"
+		},
+		{
+			"name": "Final point review",
+			"weight": "essential element"
+		}
+	]
+}

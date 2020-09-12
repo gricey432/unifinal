@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Worksheet",
+			"weight": 30
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 30
+		},
+		{
+			"name": "The intersection of law, policy & practice",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "SLAT7853 student seminar presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Dissertation",
+			"weight": 100
+		}
+	]
+}

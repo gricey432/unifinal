@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "class participation / engagement",
+			"weight": 20
+		},
+		{
+			"name": "guided archive research tasks",
+			"weight": 10
+		},
+		{
+			"name": "Archive research essay",
+			"weight": "35%                                        1500-2000 words"
+		},
+		{
+			"name": "essay OR video essay",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

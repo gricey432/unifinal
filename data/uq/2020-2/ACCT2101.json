@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online accounting exercises (individual)",
+			"weight": "35%                                        Topics 1 to 7"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "65%                                        All topics"
+		}
+	]
+}

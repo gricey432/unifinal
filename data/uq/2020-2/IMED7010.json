@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Theory Topics & Discussion",
+			"weight": "37%                                        200 marks (out of 540)"
+		},
+		{
+			"name": "Clinical Skills Videos",
+			"weight": "16.7%                                        90 marks (out of 540)"
+		},
+		{
+			"name": "Skills Video Commenting",
+			"weight": "18.5%                                        100 marks (out of 540)"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": "27.8%                                        150 marks (out of 540)"
+		}
+	]
+}

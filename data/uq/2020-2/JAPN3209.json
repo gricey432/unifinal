@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Topic Sheet",
+			"weight": 5
+		},
+		{
+			"name": "First draft",
+			"weight": 10
+		},
+		{
+			"name": "Final Draft",
+			"weight": 25
+		}
+	]
+}

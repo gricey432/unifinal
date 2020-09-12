@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Beef cattle, sheep, or goats",
+			"weight": 35
+		},
+		{
+			"name": "Practical Exercises",
+			"weight": 20
+		},
+		{
+			"name": "END SEMESTER EXAM",
+			"weight": 35
+		}
+	]
+}

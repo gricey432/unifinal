@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Normal Regression: Analysis and Interpretation",
+			"weight": 33
+		},
+		{
+			"name": "Logistic Regression: Analysis and Interpretation",
+			"weight": 33
+		},
+		{
+			"name": "Assessment 3",
+			"weight": 34
+		}
+	]
+}

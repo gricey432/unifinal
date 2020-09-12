@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection - start of semester",
+			"weight": 5
+		},
+		{
+			"name": "Progressive assessment",
+			"weight": 15
+		},
+		{
+			"name": "Personal analysis",
+			"weight": 15
+		},
+		{
+			"name": "Group analysis - Applying theory in practice",
+			"weight": 20
+		},
+		{
+			"name": "Conduct and report a group process",
+			"weight": 10
+		},
+		{
+			"name": "Reflection - end of semester",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam Online",
+			"weight": 30
+		}
+	]
+}

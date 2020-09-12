@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Background and Critical Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Poster Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory or Field Work Performance",
+			"weight": 10
+		},
+		{
+			"name": "Record Keeping",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 60
+		}
+	]
+}

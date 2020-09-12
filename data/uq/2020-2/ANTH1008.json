@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article summaries",
+			"weight": 30
+		},
+		{
+			"name": "Writing Anthropology",
+			"weight": 30
+		},
+		{
+			"name": "Doing Anthropology",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Refugee testimonies about the lived experience",
+			"weight": 30
+		},
+		{
+			"name": "Immigration and Refugee Law Rights and Realities",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizes",
+			"weight": "Pass/fail (hurdle)"
+		},
+		{
+			"name": "Project proposal",
+			"weight": "Pass/fail/resubmit (hurdle)"
+		},
+		{
+			"name": "Report plan",
+			"weight": 10
+		},
+		{
+			"name": "Mathematical derivation",
+			"weight": 5
+		},
+		{
+			"name": "Critique of a research paper",
+			"weight": 20
+		},
+		{
+			"name": "Presentation plan",
+			"weight": 10
+		},
+		{
+			"name": "Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Peer review of Project Report",
+			"weight": "+ or - 1 grade on project report"
+		},
+		{
+			"name": "Project presentation",
+			"weight": 15
+		},
+		{
+			"name": "Response to referee(s)",
+			"weight": "+ or - 1 grade on project report"
+		}
+	]
+}

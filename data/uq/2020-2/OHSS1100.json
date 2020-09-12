@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-fieldtrip Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Tool Box Talk",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 45
+		},
+		{
+			"name": "Industry Research",
+			"weight": 20
+		}
+	]
+}

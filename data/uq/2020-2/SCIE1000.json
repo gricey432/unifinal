@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Academic Integrity Module",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "MyPyTutor Quest",
+			"weight": "5% or 0%"
+		},
+		{
+			"name": "Analysis and Communication Portfolio Quest",
+			"weight": "5% or 0%"
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Python and Communication Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": "60% or 55% or 50%"
+		}
+	]
+}

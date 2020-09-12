@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report and Diary",
+			"weight": 20
+		},
+		{
+			"name": "Scientific paper critique",
+			"weight": 20
+		},
+		{
+			"name": "Team oral presentation or podcast",
+			"weight": 20
+		},
+		{
+			"name": "Discipline Final Report",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "APSIM practical - 5 quizzes 5% each",
+			"weight": 25
+		},
+		{
+			"name": "Part 1 Leaf area and light interception",
+			"weight": 10
+		},
+		{
+			"name": "Mid Sem Exam in prac class - online quiz and essay",
+			"weight": 15
+		},
+		{
+			"name": "Part 2 - Estimating RUE and TE",
+			"weight": 15
+		},
+		{
+			"name": "Nitrogen Measurement and Effects practical",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination - Online",
+			"weight": 30
+		}
+	]
+}

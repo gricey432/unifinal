@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Interview",
+			"weight": 30
+		},
+		{
+			"name": "Weekly homework exercises and quizzes",
+			"weight": 46
+		},
+		{
+			"name": "Non-invigilated Online Final Written Exam",
+			"weight": 24
+		}
+	]
+}

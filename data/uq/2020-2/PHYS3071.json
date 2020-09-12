@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - C",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 2 - more on C",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 3 - Numerical integration",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 4 - ODEs - 1st order ODEs, Euler method",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 5 - ODEs(II) - Higher order integrators",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 6 - Root finding",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 7 - Boundary value problems",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 8 - Partial differential equations (I)",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 9 - Schroedinger equation",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Assignment 10 - PDEs(II) - Finite differences",
+			"weight": "6.6%                                        ie. 1/9 of 60%"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

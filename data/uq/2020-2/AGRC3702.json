@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final assessment",
+			"weight": 30
+		},
+		{
+			"name": "Data analsyis",
+			"weight": 30
+		},
+		{
+			"name": "Revision quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid-term assesment",
+			"weight": 30
+		}
+	]
+}

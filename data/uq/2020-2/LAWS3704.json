@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Non-Invigilated Final Exam",
+			"weight": 70
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		}
+	]
+}

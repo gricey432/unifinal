@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Information slides for parents/carers",
+			"weight": 30
+		},
+		{
+			"name": "Significant Mental Health Issue",
+			"weight": 30
+		},
+		{
+			"name": "The recovery model and social work",
+			"weight": 40
+		}
+	]
+}

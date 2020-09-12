@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 Problem Sets",
+			"weight": "60%                                        Individual"
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 25
+		}
+	]
+}

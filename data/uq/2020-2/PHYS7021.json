@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory written report (x 2)",
+			"weight": "20%                                        (2 x 10%)"
+		},
+		{
+			"name": "Weekly reading quizzes (away from class)",
+			"weight": "10 points (formative)"
+		},
+		{
+			"name": "Problem solving",
+			"weight": 15
+		},
+		{
+			"name": "Extended Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Final exam: two-hour, open-book exam",
+			"weight": 40
+		}
+	]
+}

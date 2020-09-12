@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CCC online modules, cases and quizzes",
+			"weight": "Compliance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Critical Care End of Semester MCQ Exam",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		}
+	]
+}

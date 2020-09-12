@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Cabin based on Precedents",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Multipurpose Clubhouse",
+			"weight": 50
+		},
+		{
+			"name": "Assessment 3: Final Presentation (Hurdle)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay responses",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Individual Organisational Problem Analysis",
+			"weight": "50%                                        (10% for the report proposal; 40% for the full report)"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 6
+		},
+		{
+			"name": "Ethics Review",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

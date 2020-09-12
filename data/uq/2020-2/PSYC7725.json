@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Class Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Population - Individual Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Skill/method - Individual Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Psychological Skills Program Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Skill/method Presentation in Pairs",
+			"weight": 10
+		},
+		{
+			"name": "Sport/Activity Specific Handout in Pairs",
+			"weight": 10
+		},
+		{
+			"name": "Intervention Resource File",
+			"weight": 10
+		},
+		{
+			"name": "ABL Reflections and Application",
+			"weight": 10
+		}
+	]
+}

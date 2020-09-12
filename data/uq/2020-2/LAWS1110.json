@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Justice, Human Rights, and Criminal Process",
+			"weight": "40%                                        1500 words"
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": "40%                                        Approx 1500 words"
+		}
+	]
+}

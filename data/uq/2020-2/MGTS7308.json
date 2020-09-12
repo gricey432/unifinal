@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Statement",
+			"weight": 35
+		},
+		{
+			"name": "Discovery-Driven Plan",
+			"weight": 45
+		},
+		{
+			"name": "Developing the Social Entrepreneur: Mindsight",
+			"weight": 20
+		}
+	]
+}

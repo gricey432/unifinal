@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 12
+		},
+		{
+			"name": "Summaries",
+			"weight": 8
+		},
+		{
+			"name": "Minor Essay (1100 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (1800 words)",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Exam (2000 words)",
+			"weight": 30
+		}
+	]
+}

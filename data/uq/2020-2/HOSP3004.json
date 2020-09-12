@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes x 2",
+			"weight": "40%                                        Individual; 2 x 40 mins"
+		},
+		{
+			"name": "Online Case Study",
+			"weight": "20%                                        Individual; 1 hour"
+		},
+		{
+			"name": "Social Media Audit",
+			"weight": "40%                                        Individual; 2,000 words"
+		}
+	]
+}

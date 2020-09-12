@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Module (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Writing assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Online meeting (for industrial placements)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Writing assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Proposal",
+			"weight": 60
+		},
+		{
+			"name": "The Seminar",
+			"weight": 30
+		}
+	]
+}

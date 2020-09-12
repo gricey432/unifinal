@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation; contribution to class discussions",
+			"weight": "10%                                        700 words"
+		},
+		{
+			"name": "Assessment piece 1",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Assessment piece 2",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Assessment piece 3",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

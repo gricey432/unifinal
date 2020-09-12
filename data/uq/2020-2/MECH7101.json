@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Experiments",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 1 Dimensional analysis and scaling",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 Measurement and Uncertainty",
+			"weight": 5
+		},
+		{
+			"name": "Experiment Design Plan",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 Numerical Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Experiment Final Report",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

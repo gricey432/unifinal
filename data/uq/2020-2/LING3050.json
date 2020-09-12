@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar Grabs",
+			"weight": 50
+		},
+		{
+			"name": "Presentation of weekly readings",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay",
+			"weight": 40
+		}
+	]
+}

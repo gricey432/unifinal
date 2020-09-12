@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Individual Report  Contemporary Issue Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 40
+		}
+	]
+}

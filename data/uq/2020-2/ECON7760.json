@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mathematical problem",
+			"weight": 40
+		},
+		{
+			"name": "Essay (1500 words)",
+			"weight": 60
+		}
+	]
+}

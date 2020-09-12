@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Antimicrobial Drugs and Resistance Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Respiratory Pharmacology Disease Case Study",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

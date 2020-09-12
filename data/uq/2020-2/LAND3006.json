@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Organisation of excursion, lab work contribution",
+			"weight": 20
+		},
+		{
+			"name": "Consulting report",
+			"weight": 25
+		},
+		{
+			"name": "Presentation of case studies",
+			"weight": 25
+		},
+		{
+			"name": "In-lieu field and laboratory practical",
+			"weight": "0%                                        Pass - Fail"
+		},
+		{
+			"name": "Final Exam - End of semester",
+			"weight": 30
+		}
+	]
+}

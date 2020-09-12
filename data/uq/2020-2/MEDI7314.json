@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Standardised Clinical Scenario",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "MCQ Examination",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment - Medicine",
+			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Long Case Log Book",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Long Case Examination",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "NPS Online Modules",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		}
+	]
+}

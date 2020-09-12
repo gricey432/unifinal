@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Non-invigilated Final Exam",
+			"weight": 70
+		},
+		{
+			"name": "Court Visit and Report",
+			"weight": 30
+		}
+	]
+}

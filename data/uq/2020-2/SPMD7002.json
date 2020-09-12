@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Online MCQ Exam 2 (School Based Exam)",
+			"weight": 25
+		},
+		{
+			"name": "Online MCQ Exam 3 (School Based Exam)",
+			"weight": 30
+		},
+		{
+			"name": "Case Study (Upload 2 Videos)",
+			"weight": 30
+		}
+	]
+}

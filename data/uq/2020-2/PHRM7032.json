@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Patient medication resource/counselling tool",
+			"weight": 17
+		},
+		{
+			"name": "Individual contribution to Green Discussion Boards",
+			"weight": "6%                                        2% per module"
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": "6%                                        2% per module/tutorial"
+		},
+		{
+			"name": "Module 1-3",
+			"weight": "6%                                        2% per module"
+		},
+		{
+			"name": "Peer Feedback on Group Work",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Peer contribution for Clinical Bite Presentations",
+			"weight": 3
+		},
+		{
+			"name": "Clinical Bite Case PowerPoint Slides /Presentation",
+			"weight": 17
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Design Report",
+			"weight": "60%                                        Individual IVAH assignment"
+		},
+		{
+			"name": "Assignment 2 - Contract Report",
+			"weight": "40%                                        Collaborative assignment"
+		}
+	]
+}

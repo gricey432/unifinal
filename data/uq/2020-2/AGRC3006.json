@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 2",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 1",
+			"weight": "45%                                        Each theme question is worth 15%"
+		},
+		{
+			"name": "Final Examination - Online",
+			"weight": 30
+		}
+	]
+}

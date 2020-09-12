@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz covering renal and GIT lecture content",
+			"weight": 5
+		},
+		{
+			"name": "Quiz covering CV, Respiratory, and Pharmacology",
+			"weight": 5
+		},
+		{
+			"name": "Quiz covering Immunology, Inflammation, and Pain",
+			"weight": 5
+		}
+	]
+}

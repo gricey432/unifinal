@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Activities",
+			"weight": 10
+		},
+		{
+			"name": "Group research and presentation",
+			"weight": 20
+		},
+		{
+			"name": "Open Pit Blast Design Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Underground Blast Design Assignment",
+			"weight": 35
+		}
+	]
+}

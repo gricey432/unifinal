@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Read APS Ethics Guidelines",
+			"weight": "Assessed in Competency Assessment"
+		},
+		{
+			"name": "Modules 1-3 of Indigenous  Cultural Competency",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Competency Assessment - Ethical Dilemmas",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Student Research Presentations(2 HALF DAY SEMINAR)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Research Proposal",
+			"weight": "Pass/Fail"
+		}
+	]
+}

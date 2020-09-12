@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design Exploration",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Major Project Part A: Design Proposal",
+			"weight": "15%                                        Team"
+		},
+		{
+			"name": "Major Project Part B: Progress Demo",
+			"weight": "10%                                        Team"
+		},
+		{
+			"name": "Major Project Part C: Final Delivery & Report",
+			"weight": "30%                                        Team"
+		}
+	]
+}

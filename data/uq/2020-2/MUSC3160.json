@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Conducting - Basic Skills",
+			"weight": 25
+		},
+		{
+			"name": "Rehearsal video evaluation and review",
+			"weight": 20
+		},
+		{
+			"name": "Repertoire Study",
+			"weight": 30
+		},
+		{
+			"name": "Conducting - Final Task",
+			"weight": 25
+		}
+	]
+}

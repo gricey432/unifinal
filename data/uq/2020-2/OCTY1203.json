@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Indigenous Health Module and Quiz",
+			"weight": "Pass/Fail(MUST PASS)"
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": "55%                                        (MUST PASS)"
+		},
+		{
+			"name": "Occupational Performance Report",
+			"weight": "30%                                        (MUST PASS)"
+		},
+		{
+			"name": "Developmental Assessment Simulation Case",
+			"weight": "15%                                        (MUST PASS)"
+		}
+	]
+}

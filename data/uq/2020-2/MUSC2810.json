@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation via Zoom",
+			"weight": "Required to pass course"
+		},
+		{
+			"name": "Research proposal",
+			"weight": 20
+		},
+		{
+			"name": "Digital Story",
+			"weight": 35
+		},
+		{
+			"name": "Final write-up",
+			"weight": 45
+		}
+	]
+}

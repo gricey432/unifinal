@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1 - Applying Descriptive Statistics",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2 - Applying Inferential Statistics",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly compositions",
+			"weight": 10
+		},
+		{
+			"name": "Creative Writing 1",
+			"weight": 15
+		},
+		{
+			"name": "Writing for specific purposes 1",
+			"weight": 20
+		},
+		{
+			"name": "Creative Writing 2",
+			"weight": 15
+		},
+		{
+			"name": "Reading comprehension quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Writing for specific purposes 2",
+			"weight": 20
+		}
+	]
+}

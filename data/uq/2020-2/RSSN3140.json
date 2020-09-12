@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester and Final Oral Interviews",
+			"weight": 20
+		},
+		{
+			"name": "Interview Project",
+			"weight": 20
+		},
+		{
+			"name": "Homework and quizzes",
+			"weight": 36
+		},
+		{
+			"name": "Non-invigilated Online Final Written Exam",
+			"weight": 24
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Materials Tutorial Exercises (dual-mode)",
+			"weight": 5
+		},
+		{
+			"name": "Structures Tutorial Exercises (dual-mode)",
+			"weight": 5
+		},
+		{
+			"name": "Materials Online Quiz I",
+			"weight": 2.5
+		},
+		{
+			"name": "Assign 1 (Structures) Shear flow thin-walled tubes",
+			"weight": 5
+		},
+		{
+			"name": "Assign 2 (Structures) - Box beam design",
+			"weight": 15
+		},
+		{
+			"name": "Materials Online Quiz II",
+			"weight": 2.5
+		},
+		{
+			"name": "Assign 4 (Materials) - Manufacture Process Design",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Structures(25%)/ Materials (25%)"
+		}
+	]
+}

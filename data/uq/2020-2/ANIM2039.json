@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Online practical exam",
+			"weight": 15
+		},
+		{
+			"name": "Breeding records and evaluation",
+			"weight": 30
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

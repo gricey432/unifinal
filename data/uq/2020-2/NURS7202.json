@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis of a Health Policy",
+			"weight": 40
+		},
+		{
+			"name": "Video & Scenario Analysis",
+			"weight": 60
+		}
+	]
+}

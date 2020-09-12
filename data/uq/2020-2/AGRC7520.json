@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of an Agricultural Development Issue",
+			"weight": 15
+		},
+		{
+			"name": "Analysis of an Agricultural Development Issue",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quiz",
+			"weight": "15%                                        3 Quizzes each carrying 5% worth"
+		},
+		{
+			"name": "Strategy - Simulation",
+			"weight": 30
+		},
+		{
+			"name": "Strategic plan presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

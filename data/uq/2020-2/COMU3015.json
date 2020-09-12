@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "COVID-19 and public interest communication",
+			"weight": 30
+		},
+		{
+			"name": "Seminar session: 'Public arenas of debate'",
+			"weight": 30
+		},
+		{
+			"name": "Podcast",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Role-play Reflection Summary I",
+			"weight": 5
+		},
+		{
+			"name": "Quiz I",
+			"weight": 19
+		},
+		{
+			"name": "Self-practice Self-reflection Self-care Portfolio1",
+			"weight": 9
+		},
+		{
+			"name": "Role-play Reflection Summary II",
+			"weight": 5
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 36
+		},
+		{
+			"name": "Quiz II",
+			"weight": 19
+		},
+		{
+			"name": "Self-practice Self-reflection Self-care Portfolio2",
+			"weight": 7
+		}
+	]
+}

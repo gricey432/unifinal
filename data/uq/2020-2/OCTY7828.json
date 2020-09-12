@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Clinical Decision Making Assignment",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Fieldwork experience",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "25%                                        (MUST PASS)"
+		}
+	]
+}

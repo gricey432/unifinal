@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review & Search Strategy Planner",
+			"weight": "35%                                        Marked out of 100"
+		},
+		{
+			"name": "Research Proposal & Survey Design",
+			"weight": "45%                                        Marked out of 100"
+		}
+	]
+}

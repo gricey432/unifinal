@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Test",
+			"weight": 40
+		},
+		{
+			"name": "Insights and Reflections on Case Study",
+			"weight": "20%                                        Individual; 1000 words"
+		},
+		{
+			"name": "Business Analytics Case Study",
+			"weight": "40%                                        Team; 2000 words"
+		}
+	]
+}

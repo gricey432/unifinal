@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Question Authoring and Answering via RiPPLE",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective learning journal and online quiz",
+			"weight": 40
+		},
+		{
+			"name": "Visual Representation + Story",
+			"weight": "30%                                        1,500 words"
+		},
+		{
+			"name": "Embedding: A mini-lesson",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Confirmation of successful completion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2000 words",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "4000 words",
+			"weight": "Pass/Fail"
+		}
+	]
+}

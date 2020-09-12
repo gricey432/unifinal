@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam - during exam period (Central)",
+			"weight": "60%                                        Individual; 150 mins"
+		},
+		{
+			"name": "System Dynamic Modelling Assignment",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

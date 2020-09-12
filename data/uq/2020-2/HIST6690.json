@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "First Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Second Research Essay",
+			"weight": 50
+		}
+	]
+}

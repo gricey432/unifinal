@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Answer Submission",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Take-home",
+			"weight": 35
+		},
+		{
+			"name": "Final Take-home",
+			"weight": 55
+		}
+	]
+}

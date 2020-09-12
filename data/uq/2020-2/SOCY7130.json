@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Research Plan",
+			"weight": 25
+		},
+		{
+			"name": "Guest presentations reflection",
+			"weight": 25
+		},
+		{
+			"name": "A topic chosen by the group",
+			"weight": 50
+		}
+	]
+}

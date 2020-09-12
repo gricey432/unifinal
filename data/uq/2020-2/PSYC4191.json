@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "8 in-class quizzes (online during workshops)",
+			"weight": 25
+		},
+		{
+			"name": "Workshop participation points",
+			"weight": 10
+		},
+		{
+			"name": "First submission of assignment",
+			"weight": 35
+		},
+		{
+			"name": "Video assignment",
+			"weight": 10
+		},
+		{
+			"name": "Second submission of assignment with cover letter",
+			"weight": 20
+		}
+	]
+}

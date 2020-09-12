@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Milestone 1: Project Proposal",
+			"weight": "5%                                        Hurdle"
+		},
+		{
+			"name": "Milestone 2: Interim Report & Progress Meeting",
+			"weight": "15%                                        Hurdle"
+		},
+		{
+			"name": "Milestone 3: Oral Presentation",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Milestone 4: Final Report",
+			"weight": "70%                                        Hurdle"
+		}
+	]
+}

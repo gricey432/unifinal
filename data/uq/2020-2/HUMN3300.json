@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation of Draft Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Draft Research Proposal",
+			"weight": "25%                                        1000 words"
+		},
+		{
+			"name": "Final Research Proposal",
+			"weight": "45%                                        3000 words"
+		}
+	]
+}

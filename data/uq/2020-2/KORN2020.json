@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "FlipGrid weekly assessment",
+			"weight": 10
+		},
+		{
+			"name": "Speaking exam",
+			"weight": 30
+		},
+		{
+			"name": "Final oral interview",
+			"weight": 60
+		}
+	]
+}

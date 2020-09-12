@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice weekly quiz",
+			"weight": 20
+		},
+		{
+			"name": "Practical",
+			"weight": "40%                                        Course Hurdle"
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

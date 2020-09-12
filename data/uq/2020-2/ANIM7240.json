@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Online Exam",
+			"weight": 20
+		},
+		{
+			"name": "Nutritional Study Design",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - Online",
+			"weight": 40
+		}
+	]
+}

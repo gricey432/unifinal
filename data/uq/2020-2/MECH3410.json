@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Online Quiz",
+			"weight": "max 20% (min 0%)"
+		},
+		{
+			"name": "Final Summative Assignment (in exam period)",
+			"weight": "min 40% (max 60%)"
+		}
+	]
+}

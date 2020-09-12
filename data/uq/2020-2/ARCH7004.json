@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "01. 3 x 3",
+			"weight": 20
+		},
+		{
+			"name": "02. Rituals and Narratives",
+			"weight": 25
+		},
+		{
+			"name": "03. Rituals, Narratives and Provocations (Hurdle)",
+			"weight": 55
+		}
+	]
+}

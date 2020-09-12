@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Daily quizzes",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Assignment 1: Coal Seam Gas Petrophysics",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2: Geomechanics",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester in class quiz",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3: Conventional Well Log Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

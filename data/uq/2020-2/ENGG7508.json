@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Project strategy document",
+			"weight": 7.5
+		},
+		{
+			"name": "Presentation 1",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Interim report DG1",
+			"weight": "12.5%                                        Minimum"
+		},
+		{
+			"name": "Group Presentation 2",
+			"weight": "0%                                        Formative, Key Presenter A Roles"
+		},
+		{
+			"name": "Group Presentation 3",
+			"weight": "0%                                        Formative, Key Presenters B,C & D Roles"
+		},
+		{
+			"name": "Interim Report DG2",
+			"weight": "15%                                        Minimum"
+		},
+		{
+			"name": "Final Report Field Development (DG3) Plan",
+			"weight": "50%                                        Minimum, 50% Hurdle"
+		},
+		{
+			"name": "Final presentation",
+			"weight": "15%                                        Compulsory all Team Members"
+		}
+	]
+}

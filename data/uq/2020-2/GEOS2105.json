@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Quizzes",
+			"weight": 35
+		},
+		{
+			"name": "The impact of COVID-19 on Australia",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

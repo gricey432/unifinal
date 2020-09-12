@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Research Report Plan",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Review and summarize articles",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Market Research Report",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

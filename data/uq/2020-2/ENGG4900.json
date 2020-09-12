@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Team Charter",
+			"weight": 5
+		},
+		{
+			"name": "Concept Paper",
+			"weight": 5
+		},
+		{
+			"name": "Exercises",
+			"weight": "45%                                        3 x 15%"
+		},
+		{
+			"name": "Pitch Report",
+			"weight": 40
+		}
+	]
+}

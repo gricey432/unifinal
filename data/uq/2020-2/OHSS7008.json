@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Research Project Plan",
+			"weight": 5
+		},
+		{
+			"name": "Industry Research Project Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on Industry Research Project",
+			"weight": 10
+		},
+		{
+			"name": "Industry Research Project Report",
+			"weight": 60
+		}
+	]
+}

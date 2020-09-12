@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Formative Quizzes",
+			"weight": "Formative"
+		},
+		{
+			"name": "Mid-semester examination (MCQ)",
+			"weight": 50
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

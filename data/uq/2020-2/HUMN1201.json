@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Workshops, Tutorials & Symposium",
+			"weight": 15
+		},
+		{
+			"name": "Module 1 Individual Presentation",
+			"weight": "10%                                        250 words"
+		},
+		{
+			"name": "Module 2 Group Presentation",
+			"weight": "10%                                        250 words"
+		},
+		{
+			"name": "Symposium Proposal - Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay Proposal",
+			"weight": "15%                                        250 words"
+		},
+		{
+			"name": "Module 3 Group Presentation",
+			"weight": "10%                                        250 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "30%                                        2000 words"
+		}
+	]
+}

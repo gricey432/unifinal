@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pathogen epidemiology assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Disease frequency tutorial worksheet",
+			"weight": 5
+		},
+		{
+			"name": "End-of Semester Exam",
+			"weight": 55
+		}
+	]
+}

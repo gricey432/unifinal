@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Quizzes x 5",
+			"weight": 20
+		},
+		{
+			"name": "Short Essay from Module 1",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay from Module 2",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay from Module 3",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay from Module 4",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay Assessment Piece",
+			"weight": 40
+		}
+	]
+}

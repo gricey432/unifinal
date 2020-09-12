@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly On-line Quizzes (2.5% each)",
+			"weight": "20%                                        Best 8 of the 10 quizzes count"
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

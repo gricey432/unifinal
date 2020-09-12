@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Open-book Online at home Quiz #1 - via Blackboard",
+			"weight": 8
+		},
+		{
+			"name": "Open-book Online at home Quiz #2 - via Blackboard",
+			"weight": 12
+		}
+	]
+}

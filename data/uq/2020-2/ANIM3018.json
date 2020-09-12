@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Critical Reading 1",
+			"weight": 5
+		},
+		{
+			"name": "Field Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Compulsory risk assessment for field work",
+			"weight": "Pre-requisite for attending any field class"
+		},
+		{
+			"name": "Critical Reading 2",
+			"weight": 5
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 35
+		}
+	]
+}

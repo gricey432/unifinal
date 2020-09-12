@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Reports",
+			"weight": 18
+		},
+		{
+			"name": "Academic Integrity Module",
+			"weight": 0
+		},
+		{
+			"name": "Article/Chapter Review (1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (2000 words)",
+			"weight": 32
+		},
+		{
+			"name": "Final exam Take home",
+			"weight": 30
+		}
+	]
+}

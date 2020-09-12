@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Site Supervisors report",
+			"weight": 5
+		},
+		{
+			"name": "Clinical Note-taking",
+			"weight": 10
+		},
+		{
+			"name": "Student Self-Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Student Professional Conduct",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": 10
+		},
+		{
+			"name": "Reflective practice diary",
+			"weight": 15
+		},
+		{
+			"name": "Critical Evaluation of Current practice",
+			"weight": 25
+		},
+		{
+			"name": "PBL Assignment",
+			"weight": 30
+		}
+	]
+}

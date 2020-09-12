@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "online quiz - mid semester topics",
+			"weight": 30
+		},
+		{
+			"name": "gross pathology",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 40
+		}
+	]
+}

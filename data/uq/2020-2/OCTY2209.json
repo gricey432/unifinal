@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communicating with family",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "Group protocol (Fieldwork series 2)",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Simulation reflection (Fieldwork series 1)",
+			"weight": "15%                                        (MUST PASS)"
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": "30%                                        (MUST PASS)"
+		}
+	]
+}

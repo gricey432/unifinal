@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Introductory Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Practical Milestones",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Project Report",
+			"weight": 15
+		},
+		{
+			"name": "Online Invigilated Exam",
+			"weight": 45
+		}
+	]
+}

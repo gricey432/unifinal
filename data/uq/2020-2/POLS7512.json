@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Seminar Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Presentation or Briefing Paper (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Presentation Responses (2 x 500 words)",
+			"weight": "10%                                        Each reflection is worth 5%"
+		},
+		{
+			"name": "Proposal for Research Essay (500 words)",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay (3000 Words)",
+			"weight": 45
+		}
+	]
+}

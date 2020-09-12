@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - International Security Standards",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2 - Short Answers in a 30 minute limit",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 - Short Paper",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4 - Full Paper",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 5 - Short Answers in a 90 minute limit",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 6 - Final Assessment",
+			"weight": 40
+		}
+	]
+}

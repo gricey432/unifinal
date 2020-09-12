@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Energy efficiency presentation",
+			"weight": 10
+		},
+		{
+			"name": "Leadership Reflection video",
+			"weight": 2
+		},
+		{
+			"name": "Personal energy audit",
+			"weight": "38%                                        Hurdle"
+		},
+		{
+			"name": "Oral Exam",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Identifying a preferred transport option",
+			"weight": 35
+		},
+		{
+			"name": "for Group Project",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

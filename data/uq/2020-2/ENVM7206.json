@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review of an EIA Process & Report",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Report on North Stradbroke Field Study",
+			"weight": 20
+		},
+		{
+			"name": "Proposed EIA Design Based on Case Study",
+			"weight": 20
+		}
+	]
+}

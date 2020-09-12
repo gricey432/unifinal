@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercise 1",
+			"weight": 7.5
+		},
+		{
+			"name": "3 x Quiz (15% each)",
+			"weight": 45
+		},
+		{
+			"name": "Self monitoring project",
+			"weight": "40%                                        Submission compulsory to pass course"
+		},
+		{
+			"name": "Tutorial exercise 2",
+			"weight": 7.5
+		}
+	]
+}

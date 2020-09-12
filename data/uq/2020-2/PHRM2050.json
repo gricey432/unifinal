@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 14
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 12
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 12
+		},
+		{
+			"name": "Online Quiz 4",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 5",
+			"weight": 12
+		},
+		{
+			"name": "Written Examination",
+			"weight": 40
+		}
+	]
+}

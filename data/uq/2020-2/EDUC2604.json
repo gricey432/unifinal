@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & procedures for professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "1: Professional development \"byte\"",
+			"weight": 50
+		},
+		{
+			"name": "Field Experience Placement Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2: Evaluating a teaching program",
+			"weight": 50
+		}
+	]
+}

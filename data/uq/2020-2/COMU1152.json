@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of MRs and partaking in Peer Review",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of PR Tools for Organisation - Part 1",
+			"weight": "30%                                        Maximum 3,500 words"
+		},
+		{
+			"name": "Portfolio of PR Tools for Organisation - Part 2",
+			"weight": "40%                                        Maximum 3,500 words"
+		}
+	]
+}

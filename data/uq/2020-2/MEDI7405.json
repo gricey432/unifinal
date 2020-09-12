@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Orthopaedics Assessment of Clinical Competency",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical MRI Project",
+			"weight": 70
+		},
+		{
+			"name": "Compulsory Milestone Presentation",
+			"weight": 0
+		},
+		{
+			"name": "PowerPoint Presentation Slides",
+			"weight": 15
+		},
+		{
+			"name": "Project Definition",
+			"weight": 15
+		}
+	]
+}

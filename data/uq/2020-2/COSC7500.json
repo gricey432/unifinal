@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Module 2 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Module 3 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Module 4 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "C programming exercise",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Module 5 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Module 6 assignment",
+			"weight": "10%                                        4 marks"
+		},
+		{
+			"name": "Project",
+			"weight": "30%                                        20 marks"
+		}
+	]
+}

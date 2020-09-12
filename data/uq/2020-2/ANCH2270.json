@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Object Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Take-Home End-of-Semester Exam",
+			"weight": 25
+		}
+	]
+}

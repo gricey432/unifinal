@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Essay Exam",
+			"weight": 25
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

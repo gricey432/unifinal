@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Multiple Choice Questions (MCQ - Online)",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Advertising Campaign and Analysis (Team)",
+			"weight": "45%                                        Team"
+		}
+	]
+}

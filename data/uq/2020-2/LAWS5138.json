@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Non-Invigilated Final Exam",
+			"weight": 70
+		},
+		{
+			"name": "Take Home Exam and Participation in Tutorial 4",
+			"weight": 30
+		}
+	]
+}

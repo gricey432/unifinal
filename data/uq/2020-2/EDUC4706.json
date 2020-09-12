@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis",
+			"weight": "100%                                        8000 words"
+		},
+		{
+			"name": "Oral presentation",
+			"weight": "Pass or fail"
+		}
+	]
+}

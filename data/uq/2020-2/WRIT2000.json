@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Exercises (10 x 3 marks)",
+			"weight": 30
+		},
+		{
+			"name": "Report to a manager (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "A rewrite and a flyer",
+			"weight": 40
+		}
+	]
+}

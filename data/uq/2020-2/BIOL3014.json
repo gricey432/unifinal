@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial and practical exercises 1",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial and practical exercises 2",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial and practical exercises 3",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial and practical exercises 4",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam (Oral)",
+			"weight": 30
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "Independent Project",
+			"weight": 20
+		},
+		{
+			"name": "Project based learning",
+			"weight": 30
+		}
+	]
+}

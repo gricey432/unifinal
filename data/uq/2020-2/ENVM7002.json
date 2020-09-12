@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Four Online Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Stressor evaluation",
+			"weight": 30
+		},
+		{
+			"name": "Protection strategy memo",
+			"weight": 30
+		}
+	]
+}

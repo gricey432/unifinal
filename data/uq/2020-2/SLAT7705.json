@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion",
+			"weight": 5
+		},
+		{
+			"name": "Weekly online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester problem set",
+			"weight": 30
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 15
+		},
+		{
+			"name": "Final problem set",
+			"weight": 30
+		}
+	]
+}

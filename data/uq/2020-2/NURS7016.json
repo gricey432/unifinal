@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of 5 clinical vignettes",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Assessment against MHN Standards",
+			"weight": "NGP"
+		},
+		{
+			"name": "Certification of 200 hours clinical practice",
+			"weight": "NGP"
+		}
+	]
+}

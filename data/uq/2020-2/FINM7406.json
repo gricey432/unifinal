@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Real-world application of Intl financial decisions",
+			"weight": 20
+		},
+		{
+			"name": "Take home exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of an article/book chapter",
+			"weight": 30
+		},
+		{
+			"name": "Critical summaries",
+			"weight": 60
+		},
+		{
+			"name": "List of reading",
+			"weight": 10
+		}
+	]
+}

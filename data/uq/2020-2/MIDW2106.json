@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Midwifery Practice Experience",
+			"weight": "NGP"
+		},
+		{
+			"name": "Medication Calculation Competency",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 1 - AMSAT",
+			"weight": "NGP"
+		},
+		{
+			"name": "Portfolio 2 - AMSAT",
+			"weight": "NGP"
+		},
+		{
+			"name": "Midwifery OSCE",
+			"weight": "NGP"
+		}
+	]
+}

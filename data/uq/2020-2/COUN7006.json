@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflections on Tutorial Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Indigenous Module 4: Critical Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "30%                                        30 MCQ items"
+		},
+		{
+			"name": "Addresing a Process Issue in Therapy",
+			"weight": 50
+		}
+	]
+}

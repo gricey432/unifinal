@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on learning materials & pojok",
+			"weight": 40
+		},
+		{
+			"name": "Interview - speaking, listening, & writing skills",
+			"weight": 30
+		},
+		{
+			"name": "Transcript and profile -listening & writing skills",
+			"weight": 30
+		}
+	]
+}

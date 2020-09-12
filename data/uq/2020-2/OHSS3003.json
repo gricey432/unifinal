@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report",
+			"weight": 30
+		},
+		{
+			"name": "Hygiene Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Exploring an Occupational Hygiene Issue",
+			"weight": 20
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 40
+		}
+	]
+}

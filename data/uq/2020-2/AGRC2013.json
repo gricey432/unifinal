@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam during week 7",
+			"weight": 35
+		},
+		{
+			"name": "Practical exercises",
+			"weight": 30
+		},
+		{
+			"name": "Final theory examination",
+			"weight": 35
+		}
+	]
+}

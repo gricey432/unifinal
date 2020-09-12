@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Major Assignment 1",
+			"weight": 40
+		},
+		{
+			"name": "Major Assignment 2",
+			"weight": 40
+		},
+		{
+			"name": "Practical Exercises 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exercises 2",
+			"weight": 10
+		}
+	]
+}

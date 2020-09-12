@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Drafting Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam (Mid-semester)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam (Final)",
+			"weight": 50
+		}
+	]
+}

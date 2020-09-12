@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing task 1: Seminar responses",
+			"weight": 20
+		},
+		{
+			"name": "Writing task 2: Article review",
+			"weight": 20
+		},
+		{
+			"name": "Writing task 3: Audio scripts",
+			"weight": 20
+		}
+	]
+}

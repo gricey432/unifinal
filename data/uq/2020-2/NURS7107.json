@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion & short CI Blackboard submission",
+			"weight": 10
+		},
+		{
+			"name": "Extended critical issue",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

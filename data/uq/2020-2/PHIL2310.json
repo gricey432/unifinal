@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly (Optional) Tutorial Participation",
+			"weight": 0
+		},
+		{
+			"name": "10 x Weekly JOURNAL Entries",
+			"weight": 10
+		},
+		{
+			"name": "ESSAY One",
+			"weight": 35
+		},
+		{
+			"name": "ESSAY Two",
+			"weight": 55
+		}
+	]
+}

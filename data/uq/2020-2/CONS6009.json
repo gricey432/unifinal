@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Conservation Project Poster",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 2 - Conservation genetics report",
+			"weight": 35
+		},
+		{
+			"name": "Open book online exam",
+			"weight": 30
+		}
+	]
+}

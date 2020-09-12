@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "OHS Management",
+			"weight": 30
+		},
+		{
+			"name": "OHSMS Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 40
+		}
+	]
+}

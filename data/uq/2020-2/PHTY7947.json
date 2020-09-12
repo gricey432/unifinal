@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional participation and contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual submission of background",
+			"weight": 30
+		},
+		{
+			"name": "Conference abstract and presentation",
+			"weight": 30
+		},
+		{
+			"name": "Journal manuscript",
+			"weight": 40
+		}
+	]
+}

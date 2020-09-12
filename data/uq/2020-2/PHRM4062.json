@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Attendance and Student Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2 Lifelong Learning Tasks + 1 Employability task",
+			"weight": 30
+		},
+		{
+			"name": "7 NCS & QUM Tasks",
+			"weight": 70
+		}
+	]
+}

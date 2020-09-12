@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Lab report 1",
+			"weight": "50%                                        2000 words"
+		},
+		{
+			"name": "Lab report 2",
+			"weight": "50%                                        2000 words"
+		}
+	]
+}

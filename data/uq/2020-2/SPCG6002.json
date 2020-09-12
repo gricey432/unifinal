@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "4 online quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Elective Essay",
+			"weight": 40
+		},
+		{
+			"name": "Relevance of theory to practice",
+			"weight": 10
+		}
+	]
+}

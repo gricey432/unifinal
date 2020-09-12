@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Community Profile Report",
+			"weight": 50
+		},
+		{
+			"name": "Multiple Choice and Short Answer Exam (online)",
+			"weight": 50
+		}
+	]
+}

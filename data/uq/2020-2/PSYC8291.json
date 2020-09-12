@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Public Health Message Abstract",
+			"weight": 10
+		},
+		{
+			"name": "Conceptualising Older Adults: A Case Study",
+			"weight": 60
+		},
+		{
+			"name": "Public Health Message Video",
+			"weight": 30
+		}
+	]
+}

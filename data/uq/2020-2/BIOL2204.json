@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": 30
+		},
+		{
+			"name": "Post-lab questions",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

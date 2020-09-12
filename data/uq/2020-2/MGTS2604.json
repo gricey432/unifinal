@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Units & exercises",
+			"weight": "30%                                        Individual/group"
+		},
+		{
+			"name": "Research essay",
+			"weight": "30%                                        Individual; 2000-2250 words"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Individual; 2 hours"
+		}
+	]
+}

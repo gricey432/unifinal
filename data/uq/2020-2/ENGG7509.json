@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project execution mark (supervisor assessed)",
+			"weight": 10
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Interim project report",
+			"weight": 10
+		},
+		{
+			"name": "Final project thesis",
+			"weight": 65
+		}
+	]
+}

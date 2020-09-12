@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Module assessment item",
+			"weight": 4
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 4
+		},
+		{
+			"name": "Microscopic Musculoskeletal Anatomy Assessment",
+			"weight": 12
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 4
+		},
+		{
+			"name": "Muscle-tendon Assignment: Results Analysis",
+			"weight": 16
+		},
+		{
+			"name": "Gross & Microscopic Nervous system  Assessment",
+			"weight": 12
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 4
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 4
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

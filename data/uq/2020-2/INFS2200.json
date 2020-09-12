@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Database Management",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

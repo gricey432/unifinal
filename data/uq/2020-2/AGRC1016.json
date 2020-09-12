@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "E-Tech Case Study Infograph",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz in Week 12",
+			"weight": 30
+		},
+		{
+			"name": "Innovative EAg Project using CIRRUS",
+			"weight": 50
+		}
+	]
+}

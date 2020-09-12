@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Institute of Health Improvement online modules",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Mid-Year Portfolio Review",
+			"weight": "Compliance Hurdle: Students must complete regardless of other outcomes"
+		},
+		{
+			"name": "Summative Portfolio Review",
+			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		}
+	]
+}

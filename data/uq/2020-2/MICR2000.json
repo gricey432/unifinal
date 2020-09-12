@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online lab quizzes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Science Communication Assignment - audio podcast",
+			"weight": 15
+		},
+		{
+			"name": "Project Report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

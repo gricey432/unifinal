@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "5 Tutorial Exercises",
+			"weight": "10%                                        2% each"
+		},
+		{
+			"name": "Online Laboratory OH&S training",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "2 Laboratory Reports",
+			"weight": "20%                                        10% each"
+		},
+		{
+			"name": "Plant Design Oral Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Plant Design Written Report",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": "53%                                        With Hurdle"
+		}
+	]
+}

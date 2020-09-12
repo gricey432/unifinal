@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Thesis Re-Proposal Structure & Essay",
+			"weight": 20
+		},
+		{
+			"name": "Formative Assessment - In Progress Draft",
+			"weight": 0
+		},
+		{
+			"name": "Formative Assessment - Presentation of Draft Paper",
+			"weight": 0
+		},
+		{
+			"name": "Final Thesis",
+			"weight": "70%                                        Hurdle"
+		},
+		{
+			"name": "Thesis Corrections and Upload",
+			"weight": "10%                                        of final thesis grade"
+		}
+	]
+}

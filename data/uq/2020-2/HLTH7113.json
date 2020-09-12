@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Discussion Forum and Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "PowerPoint Presentation/Slides",
+			"weight": 20
+		},
+		{
+			"name": "Webinar/short answer",
+			"weight": 5
+		},
+		{
+			"name": "Final Report",
+			"weight": 35
+		}
+	]
+}

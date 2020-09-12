@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Breaking Bad News Assessment",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Clinical History and Examination Assessment",
+			"weight": "Performance hurdle"
+		}
+	]
+}

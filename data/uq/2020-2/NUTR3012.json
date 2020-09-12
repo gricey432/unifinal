@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Food Practices Report",
+			"weight": 25
+		},
+		{
+			"name": "Online exam",
+			"weight": 35
+		},
+		{
+			"name": "Design an intervention proposal",
+			"weight": 40
+		}
+	]
+}

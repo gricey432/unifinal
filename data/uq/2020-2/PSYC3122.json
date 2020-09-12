@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Bonus Marks",
+			"weight": 2
+		},
+		{
+			"name": "Weekly Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 5
+		},
+		{
+			"name": "Week 5 Online Quiz (cumulative)",
+			"weight": 15
+		},
+		{
+			"name": "Research Report: Part I",
+			"weight": "25%                                        Must be submitted to pass the course"
+		},
+		{
+			"name": "Research Report: Part II",
+			"weight": 20
+		},
+		{
+			"name": "Week 12 Online Quiz (cumulative)",
+			"weight": 25
+		}
+	]
+}

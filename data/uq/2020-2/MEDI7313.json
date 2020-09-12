@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment - GP",
+			"weight": "Performance Hurdle. Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Multiple Choice Question (MCQ) Exam",
+			"weight": 60
+		},
+		{
+			"name": "In-Tutorial Assessment - Clinical Cases",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

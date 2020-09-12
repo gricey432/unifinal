@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contact Participation (Hurdle requirement)",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Exam 1",
+			"weight": 25
+		},
+		{
+			"name": "Mid-semester Exam 2",
+			"weight": 25
+		},
+		{
+			"name": "Data Collection Task",
+			"weight": 10
+		},
+		{
+			"name": "Video Analysis Assignment",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 Multivariate analysis and clustering",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 3 Classification",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 4 High-dimensional analysis",
+			"weight": 25
+		}
+	]
+}

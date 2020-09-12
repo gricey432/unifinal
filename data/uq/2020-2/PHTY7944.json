@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Participation and Contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 30
+		},
+		{
+			"name": "Sports analysis (accompanies written assignment)",
+			"weight": 20
+		},
+		{
+			"name": "Sports analysis (accompanies podium presentation)",
+			"weight": 15
+		}
+	]
+}

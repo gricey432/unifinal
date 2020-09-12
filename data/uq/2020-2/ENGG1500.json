@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework & Tutorial Exercises -each week from wk2",
+			"weight": 20
+		},
+		{
+			"name": "Checkpoint Quiz 1 week 4",
+			"weight": 7.5
+		},
+		{
+			"name": "Checkpoint Quiz 2 - week 8",
+			"weight": 12.5
+		},
+		{
+			"name": "Sustainability measures for energy systems-week 12",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

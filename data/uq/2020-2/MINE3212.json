@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Week 1. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 2. Reaction Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 3. Reaction /Phase Equilibria",
+			"weight": 2
+		},
+		{
+			"name": "Week 4. Heat and Mass Balance",
+			"weight": 6
+		},
+		{
+			"name": "Week 5. FactSage exercise",
+			"weight": 2
+		},
+		{
+			"name": "Week 7. Minor elements,gas/condensed phases",
+			"weight": 2
+		},
+		{
+			"name": "Week 8. Physicochemical properties, kinetics",
+			"weight": 2
+		},
+		{
+			"name": "FactSage Cu smelting process design report",
+			"weight": 10
+		},
+		{
+			"name": "Week 9. Iron & steelmaking",
+			"weight": 2
+		},
+		{
+			"name": "Week 10. Pb/Zn smelting",
+			"weight": 2
+		},
+		{
+			"name": "Week 11. Lining in pyrometallurgical reactors",
+			"weight": 2
+		},
+		{
+			"name": "Review of Pyrometallurgy of Metal/Alloy Presentatn",
+			"weight": 2
+		},
+		{
+			"name": "Review of Pyrometallurgy of Metal/Alloy report",
+			"weight": 4
+		},
+		{
+			"name": "Final examination",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

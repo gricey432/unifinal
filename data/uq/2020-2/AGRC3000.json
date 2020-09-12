@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group project plan",
+			"weight": 20
+		},
+		{
+			"name": "Group final report",
+			"weight": 50
+		},
+		{
+			"name": "Individual assessment of learning",
+			"weight": 30
+		}
+	]
+}

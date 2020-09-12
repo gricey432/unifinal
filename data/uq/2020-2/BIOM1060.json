@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Osmosis",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 2: Intro to anatomy & Musculoskeletal anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 3: Cardiorespiratory anatomy & Spirometry",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 4: ECG & reproductive anatomy",
+			"weight": 4
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Value Proposition Canvas",
+			"weight": 50
+		},
+		{
+			"name": "Idea Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 25
+		}
+	]
+}

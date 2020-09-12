@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Based Online Mid-Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Bloomberg Market Concepts",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Blackboard Based Online Final Exam",
+			"weight": 50
+		}
+	]
+}

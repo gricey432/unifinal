@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A5-Tutorial tasks",
+			"weight": 10
+		},
+		{
+			"name": "A1 - Portfolio of set tasks",
+			"weight": 30
+		},
+		{
+			"name": "A2",
+			"weight": 15
+		},
+		{
+			"name": "Group oral presentations A4",
+			"weight": 15
+		},
+		{
+			"name": "A3",
+			"weight": 30
+		}
+	]
+}

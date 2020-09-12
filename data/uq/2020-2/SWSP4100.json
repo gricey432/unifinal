@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Commentary and Discussion on Blackboard",
+			"weight": 30
+		},
+		{
+			"name": "Final Commentary submitted via Turnitin",
+			"weight": 45
+		},
+		{
+			"name": "Professional resume and job application",
+			"weight": 25
+		}
+	]
+}

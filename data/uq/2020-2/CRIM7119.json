@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheet",
+			"weight": 30
+		},
+		{
+			"name": "Video Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

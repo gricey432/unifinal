@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Continuous assessment of professional performance",
+			"weight": 30
+		},
+		{
+			"name": "In-Class Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "In Class Quiz #2",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

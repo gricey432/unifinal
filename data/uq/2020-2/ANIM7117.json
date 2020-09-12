@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Powerpoint Presentation and Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Evaluation of Glucose and Insulin Dynamics",
+			"weight": 20
+		},
+		{
+			"name": "Pasture Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

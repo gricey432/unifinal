@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard posts (x3)",
+			"weight": 15
+		},
+		{
+			"name": "Character Sketch",
+			"weight": "20%                                        500 words; submit via Turnitin"
+		},
+		{
+			"name": "Story Outline",
+			"weight": "20%                                        500 words; submit via Turnitin"
+		},
+		{
+			"name": "A Case Re-imagined",
+			"weight": "45%                                        2500-3000 words; submit via Turnitin"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Mastery & Manuscript Critiques",
+			"weight": 45
+		},
+		{
+			"name": "Data Analysis Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 45
+		}
+	]
+}

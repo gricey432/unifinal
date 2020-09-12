@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Artefact Biography",
+			"weight": 30
+		},
+		{
+			"name": "Blackboard Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Experiment in Ancient Technology",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course participation",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Critique of Articles on Alcohol-Related Problems",
+			"weight": "30%                                        1,000 words (max)"
+		},
+		{
+			"name": "Essay on Alcohol Policy or Intervention",
+			"weight": "45%                                        2,500 words (max)"
+		}
+	]
+}

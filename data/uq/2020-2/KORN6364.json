@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": 70
+		},
+		{
+			"name": "Fortnightly drafts",
+			"weight": 30
+		}
+	]
+}

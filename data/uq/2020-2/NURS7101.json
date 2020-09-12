@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Peer education session",
+			"weight": 40
+		},
+		{
+			"name": "Critical Issues & Blackboard submission",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

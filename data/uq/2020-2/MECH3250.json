@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorials",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "In-class Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Experiment 1 - Field Report",
+			"weight": 10
+		},
+		{
+			"name": "In-class Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Project - Formal Report",
+			"weight": 15
+		},
+		{
+			"name": "Experiment 2 - Formal Report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

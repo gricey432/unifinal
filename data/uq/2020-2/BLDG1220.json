@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "\"Materials Notebook\" : Stage 1",
+			"weight": "25%                                        Digital submission + Exhibition"
+		},
+		{
+			"name": "Bush Chapel Roof",
+			"weight": 30
+		},
+		{
+			"name": "\"Materials Notebook\" : Stage 2",
+			"weight": "15%                                        Digital submission"
+		},
+		{
+			"name": "Take home exam",
+			"weight": "30%                                        IVAH"
+		}
+	]
+}

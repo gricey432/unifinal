@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "The Genetic Basis of Stuff and Things",
+			"weight": 30
+		},
+		{
+			"name": "Online practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Wet lab practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

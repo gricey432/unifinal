@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Sustainability of a Chosen Industry Sector",
+			"weight": 20
+		},
+		{
+			"name": "Review of LCA Products in Chosen Industry Sector",
+			"weight": 40
+		},
+		{
+			"name": "Life Cycle Modeling & Analysis of a Chosen Product",
+			"weight": 40
+		}
+	]
+}

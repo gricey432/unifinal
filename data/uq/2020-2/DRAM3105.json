@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Blackboard Entries",
+			"weight": 15
+		},
+		{
+			"name": "Directorial Brief",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Practical Directing Project",
+			"weight": 30
+		},
+		{
+			"name": "Directorial Reflection",
+			"weight": "10%                                        500 words"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Work",
+			"weight": 40
+		},
+		{
+			"name": "Critical Issue",
+			"weight": 60
+		}
+	]
+}

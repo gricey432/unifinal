@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "HSK T1 in Week 1 and HSK T2 in Week 12",
+			"weight": 5
+		},
+		{
+			"name": "Oral Vocab and Preview Study",
+			"weight": 15
+		},
+		{
+			"name": "Communication with NS",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

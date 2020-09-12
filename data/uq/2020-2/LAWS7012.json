@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Legal Hypothetical",
+			"weight": 55
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 15
+		}
+	]
+}

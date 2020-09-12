@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academy Integrity Online Tutorial",
+			"weight": 0
+		},
+		{
+			"name": "Minor essay (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major essay 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (12 hours)",
+			"weight": 35
+		}
+	]
+}

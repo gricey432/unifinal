@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard online Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Participation in practicals",
+			"weight": 10
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Journal Article",
+			"weight": 25
+		},
+		{
+			"name": "Possible Interventions/Strategies",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Part 2 - Assignment",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Case Study Part 1 - Oral Examination",
+			"weight": "30%                                        (MUST PASS)"
+		},
+		{
+			"name": "Infant Simulation Fieldwork",
+			"weight": "PASS/FAIL(MUST PASS)"
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": "35%                                        (MUST PASS)"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Computer Laboratory Sessions",
+			"weight": 10
+		},
+		{
+			"name": "Short Assignments (in 2 of the weeks)",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Open Book Exam",
+			"weight": 35
+		}
+	]
+}

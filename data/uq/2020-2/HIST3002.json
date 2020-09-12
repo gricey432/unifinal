@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Written Paper",
+			"weight": 55
+		}
+	]
+}

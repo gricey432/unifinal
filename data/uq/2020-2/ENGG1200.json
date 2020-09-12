@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving and Materials Exam (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Interim Report (Team-based)",
+			"weight": 20
+		},
+		{
+			"name": "Demonstration Day (Team-based)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team-based)",
+			"weight": 40
+		}
+	]
+}

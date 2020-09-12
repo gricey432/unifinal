@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Thinking Questions",
+			"weight": "10%                                        5% each"
+		},
+		{
+			"name": "Two Laboratory experiment reports",
+			"weight": "20%                                        10% each"
+		},
+		{
+			"name": "Two Laboratory experiment quizzes",
+			"weight": "10%                                        5% each"
+		},
+		{
+			"name": "Online mid semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

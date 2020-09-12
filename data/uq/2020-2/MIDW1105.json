@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Midwifery Practice Experiences submission",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion: Assessment 2",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Preparation: Assessment 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion: Assessment 3",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Skills Assessment",
+			"weight": "NGP"
+		}
+	]
+}

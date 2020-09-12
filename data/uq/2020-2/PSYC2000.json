@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Engagement",
+			"weight": 0
+		},
+		{
+			"name": "Critique of literature",
+			"weight": 25
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Reflective essay (Personal narrative)",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder and Issues Analysis",
+			"weight": "30%                                        1,500 words"
+		},
+		{
+			"name": "Media conference portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Crisis Analysis",
+			"weight": "10%                                        5 mins/video/vimeo"
+		},
+		{
+			"name": "Crisis Analysis/case study",
+			"weight": "40%                                        2,000 words"
+		}
+	]
+}

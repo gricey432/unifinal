@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Appraisal",
+			"weight": 50
+		},
+		{
+			"name": "Online quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 35
+		}
+	]
+}

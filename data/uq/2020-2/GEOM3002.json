@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Accessibility modelling (Project 1)",
+			"weight": 30
+		},
+		{
+			"name": "Spatial/temporal statistical analysis (Project 2)",
+			"weight": 30
+		},
+		{
+			"name": "StoryMaps Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

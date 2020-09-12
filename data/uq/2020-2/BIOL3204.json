@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Syntheses of two course themes",
+			"weight": 20
+		},
+		{
+			"name": "Peer Review",
+			"weight": 10
+		},
+		{
+			"name": "Action Learning Project",
+			"weight": 20
+		},
+		{
+			"name": "Action Learning Project",
+			"weight": 30
+		},
+		{
+			"name": "Mind map - project rationale & strategies",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice, true/false quiz",
+			"weight": 10
+		},
+		{
+			"name": "Wildlife Management Project Proposal",
+			"weight": "25%                                        1000 words, +/- 10%"
+		},
+		{
+			"name": "Multiple Choice, true/false quiz",
+			"weight": 10
+		},
+		{
+			"name": "Wildlife Management Research Report",
+			"weight": "45%                                        3000 words, +/- 10%"
+		},
+		{
+			"name": "Multiple Choice, true/false quiz",
+			"weight": 10
+		}
+	]
+}

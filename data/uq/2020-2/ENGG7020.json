@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review and critique",
+			"weight": 10
+		},
+		{
+			"name": "Group Assignment 1. Systems Safety Risk Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment 2. Risk control analysis",
+			"weight": 20
+		},
+		{
+			"name": "Group project presentation",
+			"weight": 10
+		},
+		{
+			"name": "Human factors and management analysis",
+			"weight": 20
+		},
+		{
+			"name": "Oral defence exam (interview)(20 Minutes)",
+			"weight": 20
+		}
+	]
+}

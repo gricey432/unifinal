@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "eSafety Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Professional learning for ICTs Part A:Website",
+			"weight": 40
+		},
+		{
+			"name": "Professional learning for ICTs Part B:Reflections",
+			"weight": 10
+		},
+		{
+			"name": "Integrating ICTs in HPE",
+			"weight": 40
+		}
+	]
+}

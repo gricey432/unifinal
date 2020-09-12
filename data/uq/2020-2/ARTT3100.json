@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets in class (or online for externals)",
+			"weight": 20
+		},
+		{
+			"name": "Essay (close reading)",
+			"weight": "30%                                        1500 Words"
+		},
+		{
+			"name": "Essay (research/book review)",
+			"weight": "50%                                        2500 Words"
+		}
+	]
+}

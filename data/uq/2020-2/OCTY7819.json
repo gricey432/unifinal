@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "leadership activity",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Student webinar presentation & participation",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Occupational Therapy Competency Standards",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Funding Request Assignment",
+			"weight": "25%                                        (MUST PASS)"
+		},
+		{
+			"name": "Viva Examination",
+			"weight": "40%                                        (MUST PASS)"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "CSG Well, Basis-of-Design",
+			"weight": 10
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Deviated Conventional Well Design",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

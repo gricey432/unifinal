@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Draft: Surgical Audit Report",
+			"weight": 10
+		},
+		{
+			"name": "Final: Surgical Audit Report",
+			"weight": 20
+		}
+	]
+}

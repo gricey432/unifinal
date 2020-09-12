@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "e-Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Environmental Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Online Final Exam - Online Quiz",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract and Evaluation - Part.1 & Part.2",
+			"weight": 40
+		},
+		{
+			"name": "Ethics questions and reflection",
+			"weight": 20
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		}
+	]
+}

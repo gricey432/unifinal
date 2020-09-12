@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Tests",
+			"weight": 20
+		},
+		{
+			"name": "Gearbox Design",
+			"weight": 30
+		},
+		{
+			"name": "Welded Structure Design",
+			"weight": 20
+		},
+		{
+			"name": "Review Assignment",
+			"weight": 30
+		}
+	]
+}

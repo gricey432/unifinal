@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Opinion Piece/ Viewpoint article",
+			"weight": "50%                                        Individual"
+		},
+		{
+			"name": "Short report",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Quiz (Multiple Choice)",
+			"weight": "20%                                        Individual"
+		}
+	]
+}

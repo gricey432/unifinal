@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Review",
+			"weight": 25
+		},
+		{
+			"name": "Research essay, 3000 words",
+			"weight": 50
+		},
+		{
+			"name": "Simulation Exercise Participation",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": "50%                                        Individual Assessment;     3000 words"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "50%                                        Individual assessment"
+		}
+	]
+}

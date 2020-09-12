@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination (online, Central)",
+			"weight": "60%                                        (MUST PASS)"
+		},
+		{
+			"name": "Clinical forms, records and checklists",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 15
+		},
+		{
+			"name": "Written report",
+			"weight": 25
+		}
+	]
+}

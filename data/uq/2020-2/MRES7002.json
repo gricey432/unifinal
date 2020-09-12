@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment (Part 2): Your topic",
+			"weight": 30
+		},
+		{
+			"name": "3x Tutorial Questions",
+			"weight": 18
+		},
+		{
+			"name": "Assignment (Part 1): Specify your topic choices",
+			"weight": 2
+		},
+		{
+			"name": "Online Final Examination",
+			"weight": 50
+		}
+	]
+}

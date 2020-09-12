@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Online self-study quizzes",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "PS1 - Fluid properties and phase behaviour",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "PS2 - Virtual core lab problems",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "PS3 - Single phase flow",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "PS4 - Material balance",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "PS5 - Water influx",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "PS6 - Water flooding and recovery methods",
+			"weight": "10%                                        formative"
+		},
+		{
+			"name": "Final exam",
+			"weight": "40%                                        summative"
+		}
+	]
+}

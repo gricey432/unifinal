@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Corporate Finance Replication Study",
+			"weight": 20
+		},
+		{
+			"name": "Context and Framing Study",
+			"weight": 20
+		},
+		{
+			"name": "Corporate Finance Replication Study",
+			"weight": 60
+		}
+	]
+}

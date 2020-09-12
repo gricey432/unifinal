@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes x 3",
+			"weight": "30%                                        Individual; 3 x 30 mins"
+		},
+		{
+			"name": "Individual Essay",
+			"weight": "40%                                        Individual; 1500 words"
+		},
+		{
+			"name": "Presentation",
+			"weight": "30%                                        Individual; 5-7 mins"
+		}
+	]
+}

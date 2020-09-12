@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Certificate from Digital Essentials Online",
+			"weight": "5%                                        Individual Assessment"
+		},
+		{
+			"name": "Team Charter Due",
+			"weight": "5%                                        Group Assessment"
+		},
+		{
+			"name": "Patient Education Video and Brochure",
+			"weight": 40
+		},
+		{
+			"name": "Group Project Report",
+			"weight": 50
+		}
+	]
+}

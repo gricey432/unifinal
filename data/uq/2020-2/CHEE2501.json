@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Concept questions",
+			"weight": 15
+		},
+		{
+			"name": "Engergy, water, carbon and nutrient interactions",
+			"weight": 15
+		},
+		{
+			"name": "North Stradbroke Island field trip report",
+			"weight": 5
+		},
+		{
+			"name": "Ecosystem Services",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Systems Thinking",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": "30%                                        Hurdle"
+		}
+	]
+}

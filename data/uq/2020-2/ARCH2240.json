@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 50
+		},
+		{
+			"name": "Architectural Debates",
+			"weight": "30%                                        IVAH Assessment"
+		}
+	]
+}

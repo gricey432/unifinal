@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 01: Infrastructural Proposition",
+			"weight": "40%                                        Summative"
+		},
+		{
+			"name": "Assessment Item 2: Architectural Proposition",
+			"weight": "60%                                        Summative (Hurdle)"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-course reading Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Class Participation & Presentations",
+			"weight": 8
+		},
+		{
+			"name": "Leadership Reflection video",
+			"weight": 2
+		},
+		{
+			"name": "Investment Evaluation",
+			"weight": "30%                                        Hurdle"
+		},
+		{
+			"name": "Oral Examination (Online)",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Business Case for an Energy Asset",
+			"weight": 45
+		},
+		{
+			"name": "for Group Project",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

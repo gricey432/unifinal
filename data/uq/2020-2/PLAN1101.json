@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Individual Report",
+			"weight": 60
+		}
+	]
+}

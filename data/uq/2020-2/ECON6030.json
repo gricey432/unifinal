@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        Individual"
+		},
+		{
+			"name": "Midsemester Exam",
+			"weight": "35%                                        Individual"
+		}
+	]
+}

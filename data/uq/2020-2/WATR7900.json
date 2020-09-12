@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design a collaborative or other engagement",
+			"weight": 30
+		},
+		{
+			"name": "Design of Collaboration process",
+			"weight": 20
+		},
+		{
+			"name": "Problem-Based Learning: Individual Task",
+			"weight": 50
+		}
+	]
+}

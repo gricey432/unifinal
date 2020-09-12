@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ Exam Part A - Obstetrics",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical reasoning MCQ Part A Obstetrics",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

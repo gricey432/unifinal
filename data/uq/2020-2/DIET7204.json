@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of competencies",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Project Reports",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Reflection - Competencies",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Participation and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

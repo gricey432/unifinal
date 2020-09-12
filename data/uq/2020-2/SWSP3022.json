@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Walking away?",
+			"weight": 30
+		},
+		{
+			"name": "On-Line Forum",
+			"weight": 40
+		},
+		{
+			"name": "Ethical Theory and Practice",
+			"weight": 30
+		}
+	]
+}

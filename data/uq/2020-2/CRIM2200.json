@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook 1",
+			"weight": 40
+		},
+		{
+			"name": "Online quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Workbook 2",
+			"weight": 40
+		},
+		{
+			"name": "Online quiz 2",
+			"weight": 10
+		}
+	]
+}

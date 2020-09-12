@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Frameworks of Analysis",
+			"weight": 20
+		},
+		{
+			"name": "UQ Strategic Plan: 2021-2025",
+			"weight": 40
+		},
+		{
+			"name": "The Politics of Organisational Structure",
+			"weight": 40
+		}
+	]
+}

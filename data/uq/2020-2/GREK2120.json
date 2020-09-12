@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Take-Home Exam",
+			"weight": 30
+		},
+		{
+			"name": "End-of-Semester Take-Home Exam",
+			"weight": 30
+		},
+		{
+			"name": "Vocab and Morphology Quiz",
+			"weight": 15
+		}
+	]
+}

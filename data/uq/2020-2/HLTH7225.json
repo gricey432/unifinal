@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership and Change",
+			"weight": 50
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

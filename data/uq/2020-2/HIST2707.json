@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Major Essay",
+			"weight": "40%                                        2300 words"
+		},
+		{
+			"name": "Research Proposal and Annotated Bibliography",
+			"weight": "10%                                        500 words plus bibliography"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Central Exam",
+			"weight": "30%                                        1200 words"
+		}
+	]
+}

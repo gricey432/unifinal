@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Jurisdiction",
+			"weight": 20
+		},
+		{
+			"name": "Reflections on the theory of conflict of laws",
+			"weight": 30
+		},
+		{
+			"name": "Final Take-Home-Exam",
+			"weight": 50
+		}
+	]
+}

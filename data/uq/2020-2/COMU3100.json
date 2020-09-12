@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Midterm Project",
+			"weight": 30
+		},
+		{
+			"name": "Online Responses",
+			"weight": 20
+		},
+		{
+			"name": "Final Project",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Geometric Design and Road Safety",
+			"weight": 12.5
+		},
+		{
+			"name": "Geometric Design and Road Safety",
+			"weight": 7.5
+		},
+		{
+			"name": "Travel Demand",
+			"weight": 15
+		},
+		{
+			"name": "Public and Active Transport",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

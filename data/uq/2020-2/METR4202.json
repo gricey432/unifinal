@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "10 x Mini-quizzes",
+			"weight": "20%                                        Students must achieve at least 40% of the marks for the mini quizzes in order to pass the course"
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 15
+		},
+		{
+			"name": "Peer Assessment for Team Project Activities",
+			"weight": "Scaling factor applied to Team Project activities (Proposal, Demonstration and Report)"
+		},
+		{
+			"name": "Team Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 15
+		},
+		{
+			"name": "Team Project Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "Team Project Report",
+			"weight": 15
+		}
+	]
+}

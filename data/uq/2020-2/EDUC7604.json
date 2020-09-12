@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly activities in Blackboard",
+			"weight": 10
+		},
+		{
+			"name": "Professional Development 'Byte'",
+			"weight": "20%                                        1000 words (annotated bibliography)"
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Evaluating a teaching program",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

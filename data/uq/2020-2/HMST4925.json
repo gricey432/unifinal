@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional standards mapping (Hurdle)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Research Proposal and Study Plan",
+			"weight": 15
+		},
+		{
+			"name": "Research Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Written research report",
+			"weight": 70
+		}
+	]
+}

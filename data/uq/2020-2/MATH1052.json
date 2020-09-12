@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments 1, 2, 3 & 4",
+			"weight": 20
+		},
+		{
+			"name": "MATLAB questions",
+			"weight": 15
+		},
+		{
+			"name": "Take-home quiz",
+			"weight": 5
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": 60
+		}
+	]
+}

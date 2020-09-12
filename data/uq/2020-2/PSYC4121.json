@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In Tutorials 5 and 10 - MCQ Quiz",
+			"weight": 40
+		},
+		{
+			"name": "In-lecture and after-lecture Quiz",
+			"weight": 5
+		},
+		{
+			"name": "PICO Essay",
+			"weight": 40
+		},
+		{
+			"name": "Competencies Reflective Exercises",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exploratory data analysis and QA/QC",
+			"weight": 15
+		},
+		{
+			"name": "Build  a 3D geological model in Micromine",
+			"weight": 35
+		},
+		{
+			"name": "ASX Market Release",
+			"weight": 50
+		}
+	]
+}

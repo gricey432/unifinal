@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Carbon & Energy Management Advisory Brief - Task 1",
+			"weight": 50
+		},
+		{
+			"name": "Carbon & Energy Management Advisory Brief - Task 2",
+			"weight": 50
+		}
+	]
+}

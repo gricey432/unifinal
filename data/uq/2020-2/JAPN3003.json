@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class writing",
+			"weight": 25
+		},
+		{
+			"name": "Speaking Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Written test",
+			"weight": 40
+		}
+	]
+}

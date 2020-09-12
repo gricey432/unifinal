@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing Peer Assessment",
+			"weight": "Alters execution plan mark, progress demonstration marks and final product mark."
+		},
+		{
+			"name": "Initial Plan",
+			"weight": 5
+		},
+		{
+			"name": "Progress Demonstration I (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Progress Demonstration II (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Product Mark (Team)",
+			"weight": 60
+		},
+		{
+			"name": "Final Report and Reflection (Individual)",
+			"weight": 5
+		}
+	]
+}

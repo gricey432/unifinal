@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1  Atmospheric Flight",
+			"weight": 7.5
+		},
+		{
+			"name": "Assignment 2  Astrodynamics",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3  Space Power Systems and Reliability",
+			"weight": 7.5
+		},
+		{
+			"name": "Thermal Analysis Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 4  Planetary Entry",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

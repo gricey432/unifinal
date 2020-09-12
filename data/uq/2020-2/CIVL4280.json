@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IT Computing - Numerical Modelling",
+			"weight": 30
+		},
+		{
+			"name": "Rock Testing Report",
+			"weight": 30
+		},
+		{
+			"name": "End-of-Semester Examination",
+			"weight": 40
+		}
+	]
+}

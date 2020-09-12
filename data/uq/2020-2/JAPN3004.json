@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Worksheets",
+			"weight": 40
+		},
+		{
+			"name": "Online Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Written Test",
+			"weight": 30
+		},
+		{
+			"name": "Speaking Test",
+			"weight": 20
+		}
+	]
+}

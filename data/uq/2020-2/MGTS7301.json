@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case analysis using Minto pyramid",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Simulation-based assessments",
+			"weight": "30%                                        Team and individual"
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

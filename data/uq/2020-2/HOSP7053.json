@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam",
+			"weight": "50%                                        Individual"
+		},
+		{
+			"name": "Leadership Analysis and Self-Evaluation",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

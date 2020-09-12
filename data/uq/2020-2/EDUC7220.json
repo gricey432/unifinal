@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The role of the Support Teacher",
+			"weight": "25%                                        2000 words"
+		},
+		{
+			"name": "Part I - Assessment and Analysis",
+			"weight": "35%                                        2500 words"
+		},
+		{
+			"name": "Part II - Intervention, Monitoring and Adaptation",
+			"weight": "40%                                        3000 words"
+		}
+	]
+}

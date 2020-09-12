@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Medical Emergency Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Practice Performance - Clinical Logbook",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Care Planning Case Presentation",
+			"weight": "25%                                        MUST PASS"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "30%                                        MUST PASS"
+		}
+	]
+}

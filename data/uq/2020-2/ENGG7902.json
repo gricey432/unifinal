@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "English Assistance Classes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Idea Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Business Plan",
+			"weight": 35
+		},
+		{
+			"name": "Final Pitch",
+			"weight": 30
+		}
+	]
+}

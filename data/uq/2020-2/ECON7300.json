@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-workshop Quizzes",
+			"weight": "14%                                        best 7 of 10"
+		},
+		{
+			"name": "Post-tutorial Quiz 1",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Post-tutorial Quiz 2",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Post-tutorial Quiz 3",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Post-tutorial Quiz 4",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Post-tutorial Quiz 5",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Statistical Analysis Research Project",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 46
+		}
+	]
+}

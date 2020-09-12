@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 10
+		},
+		{
+			"name": "Written examination (12-hour)",
+			"weight": 70
+		}
+	]
+}

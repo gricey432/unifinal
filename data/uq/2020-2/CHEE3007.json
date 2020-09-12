@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Paper-based exercises throughout semester",
+			"weight": 5
+		},
+		{
+			"name": "Computer-based exercises throughout semester",
+			"weight": 5
+		},
+		{
+			"name": "Online Matlab training at MathWorks",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Theory Quiz (online)",
+			"weight": 10
+		},
+		{
+			"name": "Part 1: Model Development and Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Part 2: Model solution, validation and application",
+			"weight": 15
+		},
+		{
+			"name": "Computer based practical exam",
+			"weight": "15%                                        Hurdle"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "35%                                        Hurdle"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Archaeology Essay",
+			"weight": 50
+		},
+		{
+			"name": "Key Questions in Archaeology",
+			"weight": 50
+		}
+	]
+}

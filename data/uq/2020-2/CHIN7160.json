@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay in the Australian component due in Week 4",
+			"weight": 40
+		},
+		{
+			"name": "Student presentation",
+			"weight": 20
+		},
+		{
+			"name": "Essay in the Chinese component",
+			"weight": 40
+		}
+	]
+}

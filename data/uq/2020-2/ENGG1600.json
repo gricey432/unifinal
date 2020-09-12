@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Entries",
+			"weight": 24
+		},
+		{
+			"name": "Research Centre Overview",
+			"weight": 6
+		},
+		{
+			"name": "Laboratory tour",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical Review and Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Data Collection",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Peer review of drafts",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Log",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Conference Paper",
+			"weight": 30
+		},
+		{
+			"name": "Conference presentation",
+			"weight": 20
+		}
+	]
+}

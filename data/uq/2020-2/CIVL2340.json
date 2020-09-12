@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Loads on Structures",
+			"weight": 5
+		},
+		{
+			"name": "Tension and Compression",
+			"weight": 5
+		},
+		{
+			"name": "Compression and Bending",
+			"weight": 5
+		},
+		{
+			"name": "Connections",
+			"weight": 5
+		},
+		{
+			"name": "Bending and Combined Actions",
+			"weight": 5
+		},
+		{
+			"name": "Combined Actions and Portal Frames",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

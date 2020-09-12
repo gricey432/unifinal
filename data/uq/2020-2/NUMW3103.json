@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual presentation to support new graduates",
+			"weight": 40
+		},
+		{
+			"name": "Written critical analysis",
+			"weight": 60
+		}
+	]
+}

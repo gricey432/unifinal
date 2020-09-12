@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SOP Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Progressive Discipline-based Online Quizzes",
+			"weight": "60%                                        (6 x 10%)"
+		},
+		{
+			"name": "Blood Film Evaluation Exercise",
+			"weight": 20
+		}
+	]
+}

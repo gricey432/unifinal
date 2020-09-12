@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Adsorption Equilibria",
+			"weight": 20
+		},
+		{
+			"name": "Adsorption Kinetics",
+			"weight": 20
+		},
+		{
+			"name": "Molecular Simulation of Adsorption in Porous Solid",
+			"weight": 60
+		}
+	]
+}

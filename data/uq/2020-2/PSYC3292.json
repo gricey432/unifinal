@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Discussion Board Activity",
+			"weight": 10
+		},
+		{
+			"name": "Journal Article for Young Minds",
+			"weight": 15
+		},
+		{
+			"name": "Flash-talk style presentation of an article",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Summative Quiz",
+			"weight": 30
+		}
+	]
+}

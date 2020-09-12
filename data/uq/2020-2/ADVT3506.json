@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertising Evaluation Protocol",
+			"weight": "30%                                        Individial"
+		},
+		{
+			"name": "Advertising campaign research project",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Online quiz",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

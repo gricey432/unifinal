@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Agribusiness Case Study Report - PART A",
+			"weight": 15
+		},
+		{
+			"name": "Agribusiness Case Study Report - PART B",
+			"weight": 20
+		},
+		{
+			"name": "Agribusiness Case Study - Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Case study presentation",
+			"weight": 20
+		}
+	]
+}

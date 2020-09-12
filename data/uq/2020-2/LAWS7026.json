@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Written Research Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 60
+		}
+	]
+}

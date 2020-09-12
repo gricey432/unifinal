@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "interpreting and translation practice in class",
+			"weight": 40
+		},
+		{
+			"name": "Practical translation project",
+			"weight": 20
+		},
+		{
+			"name": "2,000 word report and field practice diary",
+			"weight": 40
+		}
+	]
+}

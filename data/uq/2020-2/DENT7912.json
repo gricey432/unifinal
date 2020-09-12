@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Protocol Approval",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Participation and Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical Appraisal of Literature",
+			"weight": "Pass/Fail"
+		}
+	]
+}

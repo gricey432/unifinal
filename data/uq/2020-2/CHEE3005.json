@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 4
+		},
+		{
+			"name": "Prac 1",
+			"weight": 4
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester test",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 4
+		},
+		{
+			"name": "Prac 2",
+			"weight": 4
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

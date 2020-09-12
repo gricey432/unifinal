@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Water Economics",
+			"weight": 10
+		},
+		{
+			"name": "Technical Report: Strategic Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Cost Benefit Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Problem based learning - Individual Task",
+			"weight": 50
+		}
+	]
+}

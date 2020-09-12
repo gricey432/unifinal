@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "GIT Exercise",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "First Ticket",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Team Charter",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Sprint 1 Submission",
+			"weight": 15
+		},
+		{
+			"name": "Sprint 2 Submission",
+			"weight": 15
+		},
+		{
+			"name": "Sprint 3 Submission",
+			"weight": 15
+		},
+		{
+			"name": "Course Content Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Sprint 4 Submission",
+			"weight": 15
+		},
+		{
+			"name": "Individual Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 10
+		}
+	]
+}

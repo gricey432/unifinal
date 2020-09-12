@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HABS Occupational Violence Module",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Academic Integrity Module",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Communication across the lifespan",
+			"weight": 40
+		},
+		{
+			"name": "Simulated patient clinical assessment",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Clinic functioning and disorder",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

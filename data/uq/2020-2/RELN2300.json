@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-depth exploration of a topic",
+			"weight": 45
+		},
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Discussion Board Entries",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Zoom Tutorials",
+			"weight": 15
+		}
+	]
+}

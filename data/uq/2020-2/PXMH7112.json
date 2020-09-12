@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Report",
+			"weight": 30
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Self-Practice and Self-Reflection Journal",
+			"weight": 50
+		},
+		{
+			"name": "Practicum",
+			"weight": "Pass/Fail"
+		}
+	]
+}

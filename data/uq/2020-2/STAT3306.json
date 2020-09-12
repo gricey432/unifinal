@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Take-Home Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Take-Home Quiz #2",
+			"weight": 10
+		},
+		{
+			"name": "Genetic data analysis - Part 1",
+			"weight": 25
+		},
+		{
+			"name": "Genetic data analysis - Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

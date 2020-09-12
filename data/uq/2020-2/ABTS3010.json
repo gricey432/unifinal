@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement with course aims and objectives",
+			"weight": 20
+		},
+		{
+			"name": "The reconciliation movement in Higher Education",
+			"weight": 30
+		},
+		{
+			"name": "Agreed Work Placement Outcome",
+			"weight": 50
+		},
+		{
+			"name": "Personal project diary",
+			"weight": "Pass/fail"
+		}
+	]
+}

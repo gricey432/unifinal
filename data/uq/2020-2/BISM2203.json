@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Process Modelling",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Team Process Improvement Project",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "55%                                        Individual; 2 hours"
+		}
+	]
+}

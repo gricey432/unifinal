@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 on choice behaviour models",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 on injury severity models",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

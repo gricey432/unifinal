@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of dysarthria and apraxia of speech",
+			"weight": "20%                                        (Partial component MUST PASS)"
+		},
+		{
+			"name": "Treatment of dysarthria and apraxia in adults",
+			"weight": "30%                                        (Partial component MUST PASS)"
+		},
+		{
+			"name": "Paediatric Motor Speech Online Examination",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

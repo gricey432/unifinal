@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Consultation Exam (Symptom based request)",
+			"weight": 20
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Participation and completion required"
+		},
+		{
+			"name": "Online Feedback Quizzes 10×2%",
+			"weight": 20
+		},
+		{
+			"name": "Effective Communication Learning Activity",
+			"weight": 10
+		},
+		{
+			"name": "Online non-invigilated written examination",
+			"weight": 50
+		}
+	]
+}

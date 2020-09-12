@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester exam",
+			"weight": 35
+		},
+		{
+			"name": "Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		},
+		{
+			"name": "Research Poster presentation",
+			"weight": 30
+		}
+	]
+}

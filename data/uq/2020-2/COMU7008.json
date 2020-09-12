@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project plan(milestone task)",
+			"weight": "milestone1,200 words (minimum)"
+		},
+		{
+			"name": "Project Draft (milestone)",
+			"weight": "milestoneProject (exegesis-3000 words minimum; + package)"
+		},
+		{
+			"name": "Communication Full project and exegesis",
+			"weight": "100%                                        Project; exegesis 6000 words"
+		}
+	]
+}

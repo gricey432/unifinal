@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Chronic Kidney Disease Exercise Program",
+			"weight": 20
+		},
+		{
+			"name": "Client Education Webinar",
+			"weight": 20
+		},
+		{
+			"name": "Exercise Intervention and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Theory Review",
+			"weight": 10
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 30
+		}
+	]
+}

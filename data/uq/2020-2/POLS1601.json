@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Papers",
+			"weight": 9
+		},
+		{
+			"name": "TUTORIAL PARTICIPATION",
+			"weight": 9
+		},
+		{
+			"name": "Annotated Bibliography (1000w)",
+			"weight": 15
+		},
+		{
+			"name": "Essay (2000w)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam (1000w)",
+			"weight": 27
+		}
+	]
+}

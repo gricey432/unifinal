@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quiz Completion",
+			"weight": 10
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reflective Essay",
+			"weight": 50
+		}
+	]
+}

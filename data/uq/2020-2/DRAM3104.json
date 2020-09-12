@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Research Project Design",
+			"weight": "30%                                        1000 Words"
+		},
+		{
+			"name": "Individual Research Project Essay",
+			"weight": "70%                                        4000 Words"
+		}
+	]
+}

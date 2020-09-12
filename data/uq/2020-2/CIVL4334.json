@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group project report",
+			"weight": 40
+		},
+		{
+			"name": "Group presentation",
+			"weight": 5
+		},
+		{
+			"name": "Timber failures",
+			"weight": 5
+		}
+	]
+}

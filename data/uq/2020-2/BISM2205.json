@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take home final exam",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 1 (A1)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 (A2)",
+			"weight": 40
+		}
+	]
+}

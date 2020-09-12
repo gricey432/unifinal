@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection 1",
+			"weight": 15
+		},
+		{
+			"name": "Critical Reflection 2",
+			"weight": 15
+		},
+		{
+			"name": "Individual Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        1700 words"
+		},
+		{
+			"name": "Concept Plan",
+			"weight": "10%                                        1000 words max."
+		},
+		{
+			"name": "Portfolio  Digital Media Practice",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Online Weekly Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Critical Essay on Improving Personal Communication",
+			"weight": 30
+		},
+		{
+			"name": "Public Speaking Presentation",
+			"weight": 10
+		}
+	]
+}

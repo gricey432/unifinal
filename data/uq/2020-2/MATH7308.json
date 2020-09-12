@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 7
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 7
+		},
+		{
+			"name": "Optional Mid Semester Practice Exam",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 7
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 7
+		},
+		{
+			"name": "Additional Assessment",
+			"weight": 12
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

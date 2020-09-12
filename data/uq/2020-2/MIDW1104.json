@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IBL tutorial reflection",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW1104",
+			"weight": 40
+		}
+	]
+}

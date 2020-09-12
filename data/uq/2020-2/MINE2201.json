@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions (individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Active participation in tutorials (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Individual lab report and attendance (individual)",
+			"weight": 20
+		},
+		{
+			"name": "Commodity Assignment - (individual)",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": "55%                                        Hurdle 45%"
+		}
+	]
+}

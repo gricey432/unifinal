@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sight translation",
+			"weight": 10
+		},
+		{
+			"name": "Project 1: Audiovisual translation",
+			"weight": 40
+		},
+		{
+			"name": "Project 2: Machine translation",
+			"weight": 40
+		},
+		{
+			"name": "Sight translation",
+			"weight": 10
+		}
+	]
+}

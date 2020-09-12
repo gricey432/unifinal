@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quiz",
+			"weight": 50
+		},
+		{
+			"name": "Competency Assessment",
+			"weight": 50
+		}
+	]
+}

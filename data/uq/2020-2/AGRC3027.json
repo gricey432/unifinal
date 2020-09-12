@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Online quiz 1 (modules 1 to 3)",
+			"weight": 12.5
+		},
+		{
+			"name": "Online quiz 2 (module 4)",
+			"weight": 12.5
+		},
+		{
+			"name": "AGRC3027 Final Exam",
+			"weight": 50
+		}
+	]
+}

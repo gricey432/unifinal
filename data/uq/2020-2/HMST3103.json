@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Multiple Choice Quiz 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Multiple Choice Quiz 3",
+			"weight": 2.5
+		},
+		{
+			"name": "Multiple Choice Quiz 4",
+			"weight": 2.5
+		},
+		{
+			"name": "Placement Agreement & Interview Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Multiple Choice Quiz 5",
+			"weight": 2.5
+		},
+		{
+			"name": "Multiple Choice Quiz 6",
+			"weight": 2.5
+		},
+		{
+			"name": "Multiple Choice Quiz 7",
+			"weight": 2.5
+		},
+		{
+			"name": "Industry report (2,500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Multiple Choice Quiz 8",
+			"weight": 2.5
+		},
+		{
+			"name": "Critique Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Student Evaluation and Supervisors Report",
+			"weight": 20
+		}
+	]
+}

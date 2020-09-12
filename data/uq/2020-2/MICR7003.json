@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of a major food poisoning outbreak",
+			"weight": 25
+		},
+		{
+			"name": "Literature review of a major foodborne pathogen",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination - Online via Blackboard",
+			"weight": 35
+		}
+	]
+}

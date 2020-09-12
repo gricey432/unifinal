@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Current Global Health Controversies",
+			"weight": "25%                                        10% oral, 15% written"
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 15
+		},
+		{
+			"name": "Report on Global Health Policy Controversy",
+			"weight": 60
+		}
+	]
+}

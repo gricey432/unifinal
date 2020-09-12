@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Drug Analysis: Laboratory Reports (x 2)",
+			"weight": 30
+		},
+		{
+			"name": "Drug Analysis: Online Quizzes (x 2)",
+			"weight": 5
+		},
+		{
+			"name": "Drug Analysis: Sports Doping Analytical Report",
+			"weight": 30
+		},
+		{
+			"name": "Medicinal Chemistry: Online Exam",
+			"weight": 35
+		}
+	]
+}

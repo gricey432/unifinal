@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Promoting mental health",
+			"weight": 50
+		},
+		{
+			"name": "Editorial: Domestic Violence and pregnancy",
+			"weight": 50
+		}
+	]
+}

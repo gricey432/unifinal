@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Translation Test",
+			"weight": 35
+		},
+		{
+			"name": "Final translation pratice",
+			"weight": 50
+		}
+	]
+}

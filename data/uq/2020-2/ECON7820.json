@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Alternative economic viewpoints",
+			"weight": "40%                                        Individual; 2000 words"
+		},
+		{
+			"name": "Short essay questions",
+			"weight": "20%                                        Individual; 2000 words"
+		},
+		{
+			"name": "Final exam",
+			"weight": "40%                                        Individual; 2 hours"
+		}
+	]
+}

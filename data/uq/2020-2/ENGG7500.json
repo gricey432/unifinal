@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Core Description Report",
+			"weight": 15
+		},
+		{
+			"name": "Hydrocarbon Field Analysis Presentation",
+			"weight": "0%                                        formative for feedback"
+		},
+		{
+			"name": "Hydrocarbon Field Analysis Report",
+			"weight": 20
+		},
+		{
+			"name": "Application of Geostatistics",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Dark Emu - why the controversy about this book?",
+			"weight": 25
+		},
+		{
+			"name": "First critical examination of an emerging issue",
+			"weight": 40
+		},
+		{
+			"name": "Second critical examination of an emerging issue",
+			"weight": 35
+		}
+	]
+}

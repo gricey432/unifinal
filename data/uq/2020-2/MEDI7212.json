@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation Assessment-FORMATIVE",
+			"weight": "Provides formative feedback towards the summative CBL participation assessment"
+		},
+		{
+			"name": "CBL Participation Assessment-SUMMATIVE",
+			"weight": "Performance hurdle"
+		}
+	]
+}

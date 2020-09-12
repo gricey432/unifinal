@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Anatomy Exam",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "Histology Exam",
+			"weight": 10
+		},
+		{
+			"name": "Final Examinations on Head and Neck Anatomy",
+			"weight": "40%                                        MUST PASS"
+		}
+	]
+}

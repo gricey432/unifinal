@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive assessment in lectures and tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Media Analysis paper",
+			"weight": "30%                                         Attempt must be made to pass this course"
+		},
+		{
+			"name": "Assignment - Laboratory Report",
+			"weight": "35%                                        Attempt must be made to pass this course"
+		},
+		{
+			"name": "Final Reflection",
+			"weight": "25%                                        Attempt must be made to pass this course"
+		}
+	]
+}

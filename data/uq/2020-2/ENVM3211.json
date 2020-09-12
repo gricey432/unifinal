@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on lecture content weeks 1-4",
+			"weight": 10
+		},
+		{
+			"name": "Quiz on lecture content weeks 6-9",
+			"weight": 10
+		},
+		{
+			"name": "Self & Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Field and laboratory report",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

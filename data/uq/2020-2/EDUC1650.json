@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "School Placement Attendance Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Policies + procedures for professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3: Reflective journal, starts in Week 2 - 12",
+			"weight": "30%                                        1400 - 1750 words"
+		},
+		{
+			"name": "Task 1: Annotated Bibliography",
+			"weight": "30%                                        2000 words in total"
+		},
+		{
+			"name": "Task 2: Design for learning",
+			"weight": "40%                                        2000 - 3000 words"
+		}
+	]
+}

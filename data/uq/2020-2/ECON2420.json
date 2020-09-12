@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Using the right model well",
+			"weight": 50
+		},
+		{
+			"name": "Policy review and analysis",
+			"weight": 50
+		}
+	]
+}

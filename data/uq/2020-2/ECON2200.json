@@ -1,0 +1,76 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 8
+		},
+		{
+			"name": "Quiz 2",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 3",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 4",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 8
+		},
+		{
+			"name": "Quiz 5",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Group Presentations your topic of choice",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 6",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 7",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 8",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 8
+		},
+		{
+			"name": "Quiz 9",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 10",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 11",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Quiz 12",
+			"weight": "2.5%                                        (best 8 of 12 quizzes comprise 20%)"
+		},
+		{
+			"name": "Online Test 4",
+			"weight": 8
+		},
+		{
+			"name": "Group Presentations \"Boardroom Style\"",
+			"weight": 18
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation - summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "CBL Participation - formative",
+			"weight": "Formative"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion on reading materials",
+			"weight": 10
+		},
+		{
+			"name": "Project plan (Prospectus)",
+			"weight": 10
+		},
+		{
+			"name": "Attending workshops",
+			"weight": 10
+		},
+		{
+			"name": "Synthesis of reading materials",
+			"weight": 10
+		},
+		{
+			"name": "Ethics application",
+			"weight": 60
+		}
+	]
+}

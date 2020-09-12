@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Class Reading Quizzes",
+			"weight": "25%                                        (Best 10 of 12)"
+		},
+		{
+			"name": "Problem Set 2 out of 3",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 3 out of 3",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 1 out of 3",
+			"weight": 5
+		},
+		{
+			"name": "Participation via online discussion board",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentations, topic of your choice",
+			"weight": 35
+		},
+		{
+			"name": "Group Presentations \"Boardroom Style\"",
+			"weight": 20
+		}
+	]
+}

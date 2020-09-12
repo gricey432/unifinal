@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Podcasting",
+			"weight": 35
+		},
+		{
+			"name": "Participation in Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Chapter Proposal",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Responses/Engagement with Case Studies",
+			"weight": "20%                                        (4 x 5% tasks)"
+		},
+		{
+			"name": "Seminar Facilitation/Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Paper",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture participation points",
+			"weight": 10
+		},
+		{
+			"name": "10 online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Main assignment - test development proposal",
+			"weight": "40%                                        Reasonable attempt required to pass the course"
+		}
+	]
+}

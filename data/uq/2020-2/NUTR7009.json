@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Nutrition education session",
+			"weight": 10
+		},
+		{
+			"name": "Performance Nutrition Plan",
+			"weight": 40
+		}
+	]
+}

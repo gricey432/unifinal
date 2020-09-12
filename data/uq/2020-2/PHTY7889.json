@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1: Physiotherapy Service Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Module 1: Assessment of online lecture content",
+			"weight": 20
+		},
+		{
+			"name": "Module 2: Professional Ethics",
+			"weight": 10
+		},
+		{
+			"name": "Module 2: Case assignment",
+			"weight": 45
+		}
+	]
+}

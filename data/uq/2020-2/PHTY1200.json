@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "End of Semester Practical Assessment",
+			"weight": "30%                                        (MUST PASS)"
+		},
+		{
+			"name": "Practical Exam - Region 1 - Upper Limb",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "Theory Exam - all subject content",
+			"weight": "50%                                        (MUST PASS)"
+		}
+	]
+}

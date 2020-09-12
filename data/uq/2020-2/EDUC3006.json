@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Context and Planning Task",
+			"weight": 20
+		},
+		{
+			"name": "Teaching and Learning Task",
+			"weight": 30
+		},
+		{
+			"name": "Constraints-Led Approach to Teaching and Learning",
+			"weight": 15
+		},
+		{
+			"name": "Assessing, Reporting and Evaluating",
+			"weight": 35
+		}
+	]
+}

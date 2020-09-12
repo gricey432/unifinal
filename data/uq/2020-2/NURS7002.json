@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Physical Examination (PE) x 4",
+			"weight": "20%                                        4 x 5%"
+		},
+		{
+			"name": "X-ray interpretation (Chest Xray & Abdominal Xray)",
+			"weight": 30
+		},
+		{
+			"name": "Nurse Practitioner e-portfolio",
+			"weight": "Non Graded"
+		},
+		{
+			"name": "Viva voce- Full Episode of Care",
+			"weight": 50
+		}
+	]
+}

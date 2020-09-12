@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam (quiz)",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Individual Critique",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Analysis of service strategy of a selected firm",
+			"weight": "40%                                        Individual  3500 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Movie Analysis",
+			"weight": "30%                                        Members must contribute to all aspects 3000 words; 20 min max. presentation; Peer review (10%)"
+		},
+		{
+			"name": "Individual-In-Tutorial-Quizzes (20%)",
+			"weight": 20
+		},
+		{
+			"name": "Cross-Cultural Incident Analysis (40%)",
+			"weight": "40%                                        Individual Assignment: Approximately 2000 words."
+		}
+	]
+}

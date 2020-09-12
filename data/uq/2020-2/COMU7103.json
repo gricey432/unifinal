@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Concepts and developments in PR history",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Building relations today",
+			"weight": "40%                                        1700 words"
+		},
+		{
+			"name": "\"Newsworthy\" piece",
+			"weight": "30%                                        submitted via Blackboard"
+		}
+	]
+}

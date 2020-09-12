@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "OpenMinds Online Learning Module",
+			"weight": 10
+		},
+		{
+			"name": "Online Quizzes (Multiple)",
+			"weight": 50
+		},
+		{
+			"name": "Final Essay Paper",
+			"weight": 40
+		}
+	]
+}

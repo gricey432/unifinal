@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Non-disclosure agreement",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Meta-learning activities",
+			"weight": 4
+		},
+		{
+			"name": "Advising and Presentation Sessions",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Team charter",
+			"weight": 1
+		},
+		{
+			"name": "Design Package 1",
+			"weight": 15
+		},
+		{
+			"name": "DP1 Peer Assessment",
+			"weight": "compulsory"
+		},
+		{
+			"name": "Design Package 2",
+			"weight": 15
+		},
+		{
+			"name": "DP2 Peer Assessment",
+			"weight": "compulsory"
+		},
+		{
+			"name": "DP3 Peer Assessment",
+			"weight": "compulsory"
+		},
+		{
+			"name": "Design Package 3 (Final Design Report)",
+			"weight": 60
+		},
+		{
+			"name": "Final Presentation and Interview",
+			"weight": "5%                                        Also contributes to elements in DP3 Report of final design package"
+		}
+	]
+}

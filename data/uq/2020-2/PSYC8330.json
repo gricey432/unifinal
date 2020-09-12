@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "All hours (clinical, supervision, general)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid term and end of term review with supervisor",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical folio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Intellectual Property and Patent Law",
+			"weight": 15
+		},
+		{
+			"name": "Commercialisation Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Human Research Ethics Application",
+			"weight": 20
+		},
+		{
+			"name": "Mock HREC Meeting according to assigned roles",
+			"weight": 25
+		},
+		{
+			"name": "Project Management plan - gantt chart",
+			"weight": 20
+		}
+	]
+}

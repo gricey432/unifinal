@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Team Meeting Attendance and Contribution",
+			"weight": 5
+		},
+		{
+			"name": "Progress update presentation",
+			"weight": 20
+		},
+		{
+			"name": "Build Quality & Performance",
+			"weight": 55
+		},
+		{
+			"name": "Team Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Peer Assessment of team member contributions",
+			"weight": 0
+		},
+		{
+			"name": "System engineering principles and application",
+			"weight": 10
+		}
+	]
+}

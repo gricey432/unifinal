@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Sessions 1 to 9 Participation",
+			"weight": 10
+		},
+		{
+			"name": "Geological Hazards Project",
+			"weight": 10
+		},
+		{
+			"name": "Surveying activities",
+			"weight": 5
+		},
+		{
+			"name": "Method by Sections Project",
+			"weight": 10
+		},
+		{
+			"name": "Mine Surveying Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 45
+		}
+	]
+}

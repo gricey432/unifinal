@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weeks 2-12",
+			"weight": 10
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Algeria Project : Vidéo about Algerian War",
+			"weight": 10
+		},
+		{
+			"name": "Group Oral",
+			"weight": 20
+		},
+		{
+			"name": "Algeria Project : Essay and Dossier",
+			"weight": 20
+		},
+		{
+			"name": "Academic essay",
+			"weight": 20
+		},
+		{
+			"name": "Oral exam: 31, rue de la République",
+			"weight": 20
+		}
+	]
+}

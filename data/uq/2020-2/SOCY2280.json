@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "The 'Conversation' piece",
+			"weight": 30
+		},
+		{
+			"name": "Sociological Conference paper",
+			"weight": 40
+		}
+	]
+}

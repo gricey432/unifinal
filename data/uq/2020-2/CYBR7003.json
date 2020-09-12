@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Organisational cyber security at SkillPlat",
+			"weight": 30
+		},
+		{
+			"name": "Legal perspectives in cyber security",
+			"weight": 30
+		},
+		{
+			"name": "Application of cybersec org & legal principles",
+			"weight": 40
+		}
+	]
+}

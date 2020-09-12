@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Assignment - Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Multiple choice quiz - Topics 1-4",
+			"weight": 20
+		},
+		{
+			"name": "Weekly Case Study Responses",
+			"weight": 10
+		},
+		{
+			"name": "Insight piece on future practice",
+			"weight": 10
+		},
+		{
+			"name": "Final take home assignment",
+			"weight": 40
+		}
+	]
+}

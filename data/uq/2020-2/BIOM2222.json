@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "MB-Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Molecular Biology quiz",
+			"weight": 5
+		},
+		{
+			"name": "Molecular Biology Lab Book",
+			"weight": 3
+		},
+		{
+			"name": "MB-Advanced techniques - Oral examination",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Assessment of Group Work",
+			"weight": "0%                                        Compulsory - Online submission via Blackboard"
+		},
+		{
+			"name": "Design of a highway acoustic barrier",
+			"weight": 15
+		},
+		{
+			"name": "Design of a concrete cantilever retaining wall",
+			"weight": 20
+		},
+		{
+			"name": "Design of a steel portal framed building",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

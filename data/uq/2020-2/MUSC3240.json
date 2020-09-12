@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan (plus OHS documentation)",
+			"weight": 10
+		},
+		{
+			"name": "Practical & Project",
+			"weight": 70
+		},
+		{
+			"name": "Final submission",
+			"weight": 20
+		}
+	]
+}

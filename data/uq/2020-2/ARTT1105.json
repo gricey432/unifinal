@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard 'Discussion Board' Weekly Question",
+			"weight": "20%                                        Ongoing"
+		},
+		{
+			"name": "Mid-Semester Online Test",
+			"weight": "40%                                        120 minutes"
+		},
+		{
+			"name": "Take-Home Essay",
+			"weight": "40%                                        1800 words"
+		}
+	]
+}

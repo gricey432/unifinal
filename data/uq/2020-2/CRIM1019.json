@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Video Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research paper",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Biogeography/Geomorphology Essay",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Field Report",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

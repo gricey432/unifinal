@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integity Module Completion",
+			"weight": 0
+		},
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Policy Knowledge Review A",
+			"weight": 20
+		},
+		{
+			"name": "Policy Knowledge Review B",
+			"weight": 20
+		},
+		{
+			"name": "Policy Case Study Essay",
+			"weight": 50
+		}
+	]
+}

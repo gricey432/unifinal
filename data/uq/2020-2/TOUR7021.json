@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam",
+			"weight": "50%                                        Individual"
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

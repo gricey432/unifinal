@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Engagement",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Workbook",
+			"weight": 40
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar hand-ins",
+			"weight": 10
+		},
+		{
+			"name": "Short essay 1,500 words",
+			"weight": 25
+		},
+		{
+			"name": "Essay (3,000 words)",
+			"weight": 45
+		},
+		{
+			"name": "Exam",
+			"weight": 20
+		}
+	]
+}

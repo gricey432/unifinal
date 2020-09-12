@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online study exercises",
+			"weight": 10
+		},
+		{
+			"name": "Test on weeks 1-4",
+			"weight": 30
+		},
+		{
+			"name": "Test on weeks 5-8",
+			"weight": 30
+		},
+		{
+			"name": "Take home exam on weeks 9-12",
+			"weight": 30
+		}
+	]
+}

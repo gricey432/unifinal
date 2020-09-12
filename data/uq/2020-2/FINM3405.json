@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid semester exam",
+			"weight": "25%                                        Individual; 120 minutes"
+		},
+		{
+			"name": "Assignment",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Final exam",
+			"weight": "55%                                        Individual"
+		}
+	]
+}

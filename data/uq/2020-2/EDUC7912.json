@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "30%                                        500-1000 words"
+		},
+		{
+			"name": "Project",
+			"weight": "70%                                        10,000-12,000 words"
+		}
+	]
+}

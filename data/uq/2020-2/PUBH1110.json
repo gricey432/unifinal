@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Advocacy Letter",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Task 3: Oral presentations with slides",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 15
+		}
+	]
+}

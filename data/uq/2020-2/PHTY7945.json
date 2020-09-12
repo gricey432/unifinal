@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Participation and Contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "VIVA Voce",
+			"weight": "75%                                        (5 X 15% each)"
+		},
+		{
+			"name": "Podium Presentation",
+			"weight": 25
+		}
+	]
+}

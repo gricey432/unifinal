@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Year Portfolio review",
+			"weight": "Compliance Hurdle: Students must complete regardless of other outcomes"
+		},
+		{
+			"name": "Summative Portfolio review",
+			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		}
+	]
+}

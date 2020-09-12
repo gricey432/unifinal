@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review",
+			"weight": 30
+		},
+		{
+			"name": "Reading presentation plus submission report",
+			"weight": 30
+		},
+		{
+			"name": "Critical Research Essay",
+			"weight": 40
+		}
+	]
+}

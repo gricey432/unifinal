@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar Quizzes",
+			"weight": "30%                                        (10%x3)"
+		},
+		{
+			"name": "Final Oral Exam",
+			"weight": 35
+		},
+		{
+			"name": "Individual Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Essay Writing",
+			"weight": 20
+		}
+	]
+}

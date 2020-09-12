@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Active Participation in Tutorials",
+			"weight": 6
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 1: Individual Work",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Group Submission",
+			"weight": 24
+		},
+		{
+			"name": "Assignment 3: Research Paper (Individual)",
+			"weight": 25
+		}
+	]
+}

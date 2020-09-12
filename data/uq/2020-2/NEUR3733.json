@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory/Tutorial Participation  3 x 5%",
+			"weight": 15
+		},
+		{
+			"name": "Quiz covering Module 1 and 2",
+			"weight": 30
+		},
+		{
+			"name": "Quiz covering Module 3",
+			"weight": 20
+		},
+		{
+			"name": "Neuromechanics in Practice Project",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Midterm Assignment",
+			"weight": "40%                                        (Individual)"
+		},
+		{
+			"name": "Major Research Project",
+			"weight": "40% (Individual) + 20% (Group)"
+		}
+	]
+}

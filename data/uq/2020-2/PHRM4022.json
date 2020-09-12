@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Tablet QC Project: Team Charter",
+			"weight": 0
+		},
+		{
+			"name": "Tablet QC Project: Feedback quiz",
+			"weight": 5
+		},
+		{
+			"name": "QC Case Studies: A) API Identity/Purity",
+			"weight": 10
+		},
+		{
+			"name": "Tablet QC Project: Feedback quiz",
+			"weight": 5
+		},
+		{
+			"name": "QC Case Studies: B) Dosage Form Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Tablet QC Project: Feedback quiz",
+			"weight": 5
+		},
+		{
+			"name": "Tablet QC Project: Testing schedule",
+			"weight": 10
+		},
+		{
+			"name": "Tablet QC Project: Oral Presentation via Zoom",
+			"weight": 25
+		},
+		{
+			"name": "Tablet QC Project: Peer Assessment of Contribution",
+			"weight": 5
+		},
+		{
+			"name": "Tablet QC Project: Project Summary",
+			"weight": 25
+		}
+	]
+}

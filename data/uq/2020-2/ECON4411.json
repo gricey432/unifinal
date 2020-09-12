@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "10%                                        Group"
+		},
+		{
+			"name": "Presentation of Preliminary Findings",
+			"weight": "20%                                        Group; 30 minutes"
+		},
+		{
+			"name": "Presentation of Final Report Findings",
+			"weight": "20%                                        Group; 30 minutes"
+		},
+		{
+			"name": "Final Report",
+			"weight": 50
+		}
+	]
+}

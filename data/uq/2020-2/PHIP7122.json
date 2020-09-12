@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Poster Presentation of Preclinical Research",
+			"weight": 15
+		},
+		{
+			"name": "Animal Ethics Debate",
+			"weight": 15
+		},
+		{
+			"name": "Toxicology review assignment",
+			"weight": 15
+		},
+		{
+			"name": "Pharmaceutical Analysis Research Project Report",
+			"weight": 15
+		},
+		{
+			"name": "Quality Assurance Research Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Pharmacokinetic and Pharmacodynamic Online Quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Post to Discussion Thread on Blackboard",
+			"weight": 15
+		},
+		{
+			"name": "Student Video on one of 5 themes",
+			"weight": 30
+		},
+		{
+			"name": "Briefing Notes",
+			"weight": 55
+		}
+	]
+}

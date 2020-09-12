@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Active Engagement,development Logic Model;Readings",
+			"weight": 15
+		},
+		{
+			"name": "Resource handout and presentation",
+			"weight": 40
+		},
+		{
+			"name": "Group Intervention Formulation",
+			"weight": 45
+		}
+	]
+}

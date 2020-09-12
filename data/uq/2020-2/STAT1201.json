@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Statistical Review",
+			"weight": 5
+		},
+		{
+			"name": "Ethics Review",
+			"weight": 10
+		},
+		{
+			"name": "Research Project",
+			"weight": 15
+		},
+		{
+			"name": "Research Project",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

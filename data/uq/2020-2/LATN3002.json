@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Coursework Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester On-line Test",
+			"weight": 30
+		},
+		{
+			"name": "Coursework Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

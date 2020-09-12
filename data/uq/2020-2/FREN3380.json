@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Representation of a scene from \"Huis clos\"",
+			"weight": 10
+		},
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Analytical essay based on performance",
+			"weight": 15
+		},
+		{
+			"name": "Commentary: Sebbar",
+			"weight": 20
+		},
+		{
+			"name": "Take home exam : critical commentary. Maryse Condé",
+			"weight": 20
+		},
+		{
+			"name": "Interview : Condé, Paulcy and FREN3380 texts",
+			"weight": 25
+		}
+	]
+}

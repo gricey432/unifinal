@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper 1",
+			"weight": 35
+		},
+		{
+			"name": "Research Paper 2",
+			"weight": 35
+		}
+	]
+}

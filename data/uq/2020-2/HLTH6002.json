@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Final Thesis",
+			"weight": 80
+		},
+		{
+			"name": "Knowledge Translation",
+			"weight": 20
+		}
+	]
+}

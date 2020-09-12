@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": "60%                                        2500 Words"
+		},
+		{
+			"name": "Evaluative Criticism Paper",
+			"weight": "40%                                        1500 words"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 20
+		}
+	]
+}

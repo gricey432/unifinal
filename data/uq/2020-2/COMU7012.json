@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Media Reform = Social Change. Discuss",
+			"weight": "50%                                        3000 word limit"
+		},
+		{
+			"name": "The Power of Identity",
+			"weight": "40%                                        2500 word review"
+		},
+		{
+			"name": "Presentation of a Social Movement",
+			"weight": 10
+		}
+	]
+}

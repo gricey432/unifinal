@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Therapeutics Quiz One",
+			"weight": 2.5
+		},
+		{
+			"name": "'Pharmacist' summary of condition and treatment",
+			"weight": 10
+		},
+		{
+			"name": "Therapeutics Quiz Two",
+			"weight": 2.5
+		},
+		{
+			"name": "Ethics Quiz",
+			"weight": 2.5
+		},
+		{
+			"name": "Therapeutics Quiz Three",
+			"weight": 2.5
+		},
+		{
+			"name": "Patient Centred Integrated Case Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Patient Integrated Case mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Therapeutics Quiz Four",
+			"weight": 2.5
+		},
+		{
+			"name": "Therapeutics Quiz Five",
+			"weight": 2.5
+		},
+		{
+			"name": "PHRM4012 written exam",
+			"weight": 30
+		},
+		{
+			"name": "OSCE Oral Exam",
+			"weight": 20
+		}
+	]
+}

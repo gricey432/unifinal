@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "HSK T1 at W1 and HSK T2 at W12",
+			"weight": 5
+		},
+		{
+			"name": "Written Vocab and Preview Study",
+			"weight": 15
+		},
+		{
+			"name": "Writing tasks",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

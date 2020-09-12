@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small Group Presentations",
+			"weight": 30
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "40%                                        (10% for each quiz)"
+		},
+		{
+			"name": "Individual Infographic",
+			"weight": 30
+		}
+	]
+}

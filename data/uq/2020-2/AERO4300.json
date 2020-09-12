@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation: Characterisation Methods",
+			"weight": 20
+		},
+		{
+			"name": "Project Poster on Manufacturing of Composite Part",
+			"weight": 20
+		},
+		{
+			"name": "Report on Ultrasonic NDT Practical",
+			"weight": 10
+		},
+		{
+			"name": "Online quiz about lecture content",
+			"weight": 20
+		},
+		{
+			"name": "Composite Manufacturing and Design Project",
+			"weight": 30
+		}
+	]
+}

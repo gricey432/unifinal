@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Team Consulting Report",
+			"weight": "60%                                        Team"
+		},
+		{
+			"name": "Individual Consulting Report Presentation",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

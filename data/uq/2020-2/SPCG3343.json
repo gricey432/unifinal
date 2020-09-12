@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Hot Topics in Sport Science",
+			"weight": 35
+		},
+		{
+			"name": "Second online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Pre-season training plan",
+			"weight": 35
+		}
+	]
+}

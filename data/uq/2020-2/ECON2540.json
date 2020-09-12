@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Essay on Economically Disruptive Innovation",
+			"weight": 30
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": 40
+		}
+	]
+}

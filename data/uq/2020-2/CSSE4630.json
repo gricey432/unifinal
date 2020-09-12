@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Test 1: Mid-semester concept test",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Static Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Dynamic Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

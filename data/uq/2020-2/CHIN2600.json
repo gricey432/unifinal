@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Video Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Final report: Language analysis",
+			"weight": 60
+		}
+	]
+}

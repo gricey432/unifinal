@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project peer assessment",
+			"weight": "PA affect individual mark"
+		},
+		{
+			"name": "Hydrodynamics and water quality of an estuary",
+			"weight": "40%                                        Compulsory"
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 60
+		}
+	]
+}

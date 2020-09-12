@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Short Essay & Stimulus-Based Workbook",
+			"weight": 30
+		}
+	]
+}

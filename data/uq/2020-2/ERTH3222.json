@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Soil Geochemical Survey at Pinjarra Hills",
+			"weight": 25
+		},
+		{
+			"name": "SAMARCO tailling's dam burst",
+			"weight": 25
+		},
+		{
+			"name": "Mt Coot-tha Geochemical Survey",
+			"weight": 50
+		}
+	]
+}

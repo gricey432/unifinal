@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": "30%                                        and must be completed to pass the course."
+		},
+		{
+			"name": "ANOVA calculation and interpretation",
+			"weight": "20%                                        and must be completed to pass the course."
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        and must be completed to pass the course."
+		}
+	]
+}

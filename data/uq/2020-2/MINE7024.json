@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Blackboard Discussions",
+			"weight": 25
+		},
+		{
+			"name": "On-line Learning Journal",
+			"weight": 25
+		},
+		{
+			"name": "Community Practice Project Report",
+			"weight": 50
+		}
+	]
+}

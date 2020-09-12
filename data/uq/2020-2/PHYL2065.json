@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 Glucose homeostasis",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2 Motor Nervous System and EMG",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3 Vision",
+			"weight": 5
+		}
+	]
+}

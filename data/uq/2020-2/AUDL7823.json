@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Decoding Hearing Aid Features",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1",
+			"weight": "15%                                        (Individual)"
+		},
+		{
+			"name": "Essay 2",
+			"weight": "15%                                        (Individual)"
+		},
+		{
+			"name": "Essay 3",
+			"weight": "15%                                        (Individual)"
+		},
+		{
+			"name": "Group Project",
+			"weight": "40%                                        (Group)"
+		},
+		{
+			"name": "Online Activities",
+			"weight": "15%                                        (Individual)"
+		}
+	]
+}

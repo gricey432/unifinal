@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Blackboard Quizzes",
+			"weight": "20%                                        10 quizzes x 2 marks"
+		},
+		{
+			"name": "Scene Breakdown",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Formal Analysis Essay",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Revised and Supplemented Comparative Analysis",
+			"weight": "30%                                        1500 words"
+		}
+	]
+}

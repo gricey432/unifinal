@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pharmacogenetics",
+			"weight": 24
+		},
+		{
+			"name": "Peptides as drugs",
+			"weight": 24
+		},
+		{
+			"name": "Nanomedicines",
+			"weight": 10
+		},
+		{
+			"name": "Pre-laboratory Quiz",
+			"weight": "3 x 2% = total 6%"
+		},
+		{
+			"name": "Laboratory skills",
+			"weight": "3 x 2% = total 6%"
+		},
+		{
+			"name": "Invigilated End of Semester Theory Examination",
+			"weight": 30
+		}
+	]
+}

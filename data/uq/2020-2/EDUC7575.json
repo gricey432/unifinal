@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluating Resources",
+			"weight": "25%                                        1500 words"
+		},
+		{
+			"name": "Design an Investigation",
+			"weight": "25%                                        1500 words"
+		},
+		{
+			"name": "Teaching a Science Concept",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

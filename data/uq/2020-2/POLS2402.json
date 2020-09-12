@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quiz (via Blackboard)",
+			"weight": 20
+		},
+		{
+			"name": "Short Essay - 1,500 words",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay - 3,000 words",
+			"weight": 50
+		}
+	]
+}

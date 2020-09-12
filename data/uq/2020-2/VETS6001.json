@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Structured research question & literature review",
+			"weight": 25
+		},
+		{
+			"name": "Epi quiz 1: Causality, study design and bias",
+			"weight": 10
+		},
+		{
+			"name": "Epi quiz 2: Basic stats, power and sample size",
+			"weight": 10
+		},
+		{
+			"name": "Design a simple research proposal",
+			"weight": 30
+		},
+		{
+			"name": "Create a publication quality graphic with legend",
+			"weight": 25
+		}
+	]
+}

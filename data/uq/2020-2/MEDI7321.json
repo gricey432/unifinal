@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Back to Base Learning Reflection 1",
+			"weight": "3 out of 24 criteria"
+		},
+		{
+			"name": "Back to Base Learning Reflection 2",
+			"weight": "3 out of 24 criteria"
+		},
+		{
+			"name": "Back to Base Learning Reflection 3",
+			"weight": "3 out of 24 criteria"
+		},
+		{
+			"name": "Clinical Case Presentation and Discussion",
+			"weight": "9 of 24 assessment criteria"
+		}
+	]
+}

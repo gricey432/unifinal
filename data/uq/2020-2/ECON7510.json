@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on your chosen topic",
+			"weight": 15
+		},
+		{
+			"name": "1,000 word journal article review",
+			"weight": 25
+		},
+		{
+			"name": "Presentation on your chosen country",
+			"weight": 15
+		},
+		{
+			"name": "2,000 Word country paper",
+			"weight": 45
+		}
+	]
+}

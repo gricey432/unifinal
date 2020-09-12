@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Regeneration Plan",
+			"weight": 20
+		},
+		{
+			"name": "Individual assessment",
+			"weight": 20
+		},
+		{
+			"name": "Group Regeneration plan",
+			"weight": 60
+		}
+	]
+}

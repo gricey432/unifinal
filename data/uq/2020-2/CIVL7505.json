@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participating in Learning Activities",
+			"weight": 5
+		},
+		{
+			"name": "Identifying hypotheses and data in your research",
+			"weight": 15
+		},
+		{
+			"name": "Data analysis problem",
+			"weight": 15
+		},
+		{
+			"name": "Statistical Modelling in Field of Interest",
+			"weight": 35
+		},
+		{
+			"name": "Optimisation Problem",
+			"weight": 15
+		},
+		{
+			"name": "Research Project Presentation",
+			"weight": 15
+		}
+	]
+}

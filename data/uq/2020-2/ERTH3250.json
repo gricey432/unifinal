@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multi Choice Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Practical Exercises",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": 25
+		}
+	]
+}

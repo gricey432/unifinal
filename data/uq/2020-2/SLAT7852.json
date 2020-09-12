@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Classes",
+			"weight": 10
+		},
+		{
+			"name": "Individual presentation",
+			"weight": 10
+		},
+		{
+			"name": "Online Academic Integrity Tutorial",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Portfolio - Assessment A1",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio - Assessment A2",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio - Assessment A3",
+			"weight": 10
+		},
+		{
+			"name": "Synthesis Essay",
+			"weight": 50
+		}
+	]
+}

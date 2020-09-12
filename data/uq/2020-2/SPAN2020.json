@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "VLOG - Oral Video Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Compositions",
+			"weight": 5
+		},
+		{
+			"name": "Online Revision Quizzes",
+			"weight": 8
+		},
+		{
+			"name": "Online Writen Test 1 (Cap 12 & 13)",
+			"weight": 22
+		},
+		{
+			"name": "Entrevista oral",
+			"weight": 30
+		},
+		{
+			"name": "Online Written Test 2 (Cap 14 & 15)",
+			"weight": 25
+		}
+	]
+}

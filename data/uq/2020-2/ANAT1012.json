@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Shoulder preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Arm, elbow & forearm preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Wrist and hand preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Pelvic girdle and hip preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thigh and knee preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Leg, ankle and foot preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Cervical vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thoracolumbar vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Trunk preparation quiz",
+			"weight": 1
+		}
+	]
+}

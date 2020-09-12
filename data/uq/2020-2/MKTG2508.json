@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Case Analysis",
+			"weight": "45%                                        Individual"
+		},
+		{
+			"name": "BRAND EQUITY MEASUREMENT AND ASSESSMENT",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

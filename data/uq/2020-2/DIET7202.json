@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Completion of records",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Competency assessment",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

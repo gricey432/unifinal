@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Financial Analysis and Valuation of a Company",
+			"weight": "20%                                        Individual; 1500 words maximum"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": "30%                                        Individual; 90 minutes"
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

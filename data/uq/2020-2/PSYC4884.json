@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to class activities",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentation on selected topic",
+			"weight": 30
+		},
+		{
+			"name": "Abstract and key-points",
+			"weight": 15
+		},
+		{
+			"name": "Essay based on selected topic",
+			"weight": 40
+		}
+	]
+}

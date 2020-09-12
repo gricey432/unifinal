@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of health needs and health care",
+			"weight": 30
+		},
+		{
+			"name": "Psychosocial assessment",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

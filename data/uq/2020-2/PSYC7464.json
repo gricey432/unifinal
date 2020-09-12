@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Organisational Change Diagnosis and Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Personal Learning Statement",
+			"weight": 20
+		},
+		{
+			"name": "Change and Development Project Proposal",
+			"weight": 45
+		}
+	]
+}

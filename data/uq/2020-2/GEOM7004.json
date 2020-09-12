@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes on lectures to week 10",
+			"weight": 20
+		},
+		{
+			"name": "Geospatial Information",
+			"weight": 15
+		},
+		{
+			"name": "Geospatial processing",
+			"weight": 15
+		},
+		{
+			"name": "Geospatial web cartography and project",
+			"weight": 20
+		},
+		{
+			"name": "Online Exam with Blackboard",
+			"weight": 30
+		}
+	]
+}

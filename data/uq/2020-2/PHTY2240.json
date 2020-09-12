@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical observation workbook",
+			"weight": "5%                                        Pass/Fail; MUST PASS"
+		},
+		{
+			"name": "Digital health technologies assignment",
+			"weight": 25
+		},
+		{
+			"name": "PHTY2240 Theory exam (all modules)",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "Practical Exam: Electrotherapy module",
+			"weight": "30%                                        MUST PASS"
+		}
+	]
+}

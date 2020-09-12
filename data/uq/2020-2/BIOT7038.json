@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Padlet contribution",
+			"weight": "0%                                        Pass or Fail"
+		},
+		{
+			"name": "Online Quizzes about Lectures (weeks 2-10)",
+			"weight": 25
+		},
+		{
+			"name": "Peer feedback on review draft",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review",
+			"weight": 20
+		},
+		{
+			"name": "Present the critical review",
+			"weight": 40
+		}
+	]
+}

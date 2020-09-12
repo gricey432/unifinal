@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project: Milestone 1 (Serial)",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Major Project: Final Report",
+			"weight": 35
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 20
+		}
+	]
+}

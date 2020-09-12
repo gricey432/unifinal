@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critique of a research article",
+			"weight": 35
+		},
+		{
+			"name": "Reporting quantitative data",
+			"weight": 15
+		},
+		{
+			"name": "Research proposal",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Microstructural exercise",
+			"weight": 10
+		},
+		{
+			"name": "Cape Clairault exercise",
+			"weight": 50
+		},
+		{
+			"name": "Geometrical exercises",
+			"weight": 30
+		},
+		{
+			"name": "Strain exercise",
+			"weight": 10
+		}
+	]
+}

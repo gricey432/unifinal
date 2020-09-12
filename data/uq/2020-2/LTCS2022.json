@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension Quizzes",
+			"weight": "25%                                        5 x 5% = 25%"
+		},
+		{
+			"name": "ESSAY 1: MODULE 1 MEXICO",
+			"weight": "25%                                        min. 1600 max 1800 words"
+		},
+		{
+			"name": "ESSAY 2: MODULE 2 ARGENTINA",
+			"weight": "25%                                        min 1600 max 1800 words"
+		},
+		{
+			"name": "ESSAY 3: MODULE 3 \"CHE GUEVARA\"",
+			"weight": "25%                                        min 1600 max 1800 words"
+		}
+	]
+}

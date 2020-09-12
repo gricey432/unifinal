@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Collaboration and Report",
+			"weight": 45
+		},
+		{
+			"name": "Online weekly quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": 40
+		}
+	]
+}

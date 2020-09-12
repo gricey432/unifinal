@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "What is social work?",
+			"weight": 20
+		},
+		{
+			"name": "Ethics and values in social work",
+			"weight": 35
+		},
+		{
+			"name": "Video Analysis",
+			"weight": "35%                                        2,000 words"
+		},
+		{
+			"name": "Social Work Intervention Plan",
+			"weight": "10%                                        500 words"
+		}
+	]
+}

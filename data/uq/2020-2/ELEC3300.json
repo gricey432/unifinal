@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial assessment",
+			"weight": "10%                                        8 tutorials to be submitted of equal weight"
+		},
+		{
+			"name": "Practical assessment",
+			"weight": 20
+		},
+		{
+			"name": "In-Class-Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester class test",
+			"weight": 20
+		},
+		{
+			"name": "Computer Simulation of Energy Conversion System",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project report",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Plan + project proposal (if required)",
+			"weight": "essential element"
+		},
+		{
+			"name": "Mid point review",
+			"weight": "Essential element"
+		},
+		{
+			"name": "Final point review",
+			"weight": "essential element"
+		}
+	]
+}

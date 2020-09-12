@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Pitch",
+			"weight": "25%                                        Team: 10 minute presentation"
+		},
+		{
+			"name": "Event Manual",
+			"weight": "25%                                        Team: maximum 4,000 words"
+		},
+		{
+			"name": "Individual reflective essay",
+			"weight": "50%                                        Individual;  2,000 words"
+		}
+	]
+}

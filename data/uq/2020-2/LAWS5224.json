@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion board chats and group work tasks",
+			"weight": "30%                                        750 words each week"
+		},
+		{
+			"name": "Write an article for The Conversation",
+			"weight": "30%                                        900-1000 words"
+		},
+		{
+			"name": "Re-write a judgment from a child's perspective",
+			"weight": "40%                                        2500-3000 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Six Assignments (Programming Intensive)",
+			"weight": "60%                                        (Each assignment is worth 10%)"
+		},
+		{
+			"name": "Take Home Exam (Programming Intensive)",
+			"weight": 30
+		}
+	]
+}

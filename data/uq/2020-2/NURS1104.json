@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Written Case Study Assignment and Brochure",
+			"weight": 40
+		},
+		{
+			"name": "Exam for NURS1104. Online Exam",
+			"weight": 40
+		}
+	]
+}

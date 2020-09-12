@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning task 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Meta-learning task 3",
+			"weight": 2.5
+		}
+	]
+}

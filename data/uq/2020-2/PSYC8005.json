@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Report",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "DPsych",
+			"weight": 100
+		}
+	]
+}

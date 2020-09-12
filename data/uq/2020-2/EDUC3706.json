@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Designing a sequence of three lessons",
+			"weight": 40
+		},
+		{
+			"name": "Unit plan, assessment and rubric",
+			"weight": 60
+		}
+	]
+}

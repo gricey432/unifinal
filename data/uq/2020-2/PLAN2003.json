@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on urban design theory",
+			"weight": 30
+		},
+		{
+			"name": "Urban Design - Individual or teams of 3 max.",
+			"weight": 70
+		}
+	]
+}

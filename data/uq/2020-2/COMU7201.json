@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Powerpoint summary (of written paper)",
+			"weight": 50
+		},
+		{
+			"name": "Written paper (on topic allocated)",
+			"weight": 50
+		}
+	]
+}

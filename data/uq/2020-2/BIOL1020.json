@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online activity questions (Edx)",
+			"weight": "Grade restriction (see grade matrix in 5.2)"
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": "0%                                        Examinable"
+		},
+		{
+			"name": "Practical preparation and participation",
+			"weight": 3
+		},
+		{
+			"name": "Mini tests",
+			"weight": "47%                                        3 x 15.67%"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

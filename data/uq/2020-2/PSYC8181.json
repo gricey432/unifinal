@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Complex Case Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Rehabilitation Case Study Discussion",
+			"weight": 50
+		}
+	]
+}

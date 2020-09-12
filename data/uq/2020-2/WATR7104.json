@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment#1:Conceptual design of a sewer network",
+			"weight": 10
+		},
+		{
+			"name": "Assignment#2:Hydraulic modelling of sewer network",
+			"weight": 20
+		},
+		{
+			"name": "Quiz covering the materials covered until week 7",
+			"weight": 25
+		},
+		{
+			"name": "Assignment#3: Odour/corrosion related calculations",
+			"weight": 20
+		},
+		{
+			"name": "Assignment#4: Asset Management plan development",
+			"weight": "25%                                        Hurdle"
+		}
+	]
+}

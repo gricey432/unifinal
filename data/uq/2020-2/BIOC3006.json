@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Stream 2 and 3: Journal Club",
+			"weight": 20
+		},
+		{
+			"name": "Using, producing and Storing Energy Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Study vs Headline",
+			"weight": 5
+		},
+		{
+			"name": "Metabolic dysfunction and Microbiome Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

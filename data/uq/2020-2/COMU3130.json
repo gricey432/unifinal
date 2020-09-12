@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Campaign Tactics Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Stories on jacdigital & FB",
+			"weight": 35
+		},
+		{
+			"name": "Critical analysis of the PR Profession",
+			"weight": "35%                                        1500 words"
+		}
+	]
+}

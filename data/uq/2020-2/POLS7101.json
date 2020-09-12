@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "('attendance' either in person or via Zoom)",
+			"weight": 10
+		},
+		{
+			"name": "Exam 1 (ca. 1200 words) on week 1-5 topics",
+			"weight": 20
+		},
+		{
+			"name": "Exam 2 (ca. 1200 words) on week 6-11 topics",
+			"weight": 20
+		},
+		{
+			"name": "Collaborative Governance Case Study (3000 words)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Group Assignment",
+			"weight": "30%                                        Group (Plus peer assessment)"
+		},
+		{
+			"name": "Peer Assessment For Group Assignment",
+			"weight": "Adjust Group Assignment Score"
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

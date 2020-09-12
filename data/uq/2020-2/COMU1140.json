@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Analysis",
+			"weight": "25%                                        500-600 words"
+		},
+		{
+			"name": "Presentation - Mid Semester Team Pitch",
+			"weight": "30%                                        oral presentation with media output"
+		},
+		{
+			"name": "Presentation - Final Team Pitch",
+			"weight": "45%                                        oral presentation with media output"
+		}
+	]
+}

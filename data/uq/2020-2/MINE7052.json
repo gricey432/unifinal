@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes A, B, C, D",
+			"weight": 20
+		},
+		{
+			"name": "Scenario briefing",
+			"weight": 20
+		},
+		{
+			"name": "Short essay",
+			"weight": 25
+		},
+		{
+			"name": "Analysing social performance of a resource project",
+			"weight": 35
+		}
+	]
+}

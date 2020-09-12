@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "\"Stationen eines jungen Lebens\"",
+			"weight": 20
+		},
+		{
+			"name": "\"Good Bye Lenin!\"",
+			"weight": 40
+		},
+		{
+			"name": "Speaking Test",
+			"weight": 40
+		}
+	]
+}

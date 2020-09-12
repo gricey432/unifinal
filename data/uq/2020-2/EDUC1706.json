@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific Argument",
+			"weight": "30%                                        900-1100 words"
+		},
+		{
+			"name": "Product + Explanation",
+			"weight": "30%                                        400-700 words"
+		},
+		{
+			"name": "Science journal + reflection",
+			"weight": "40%                                        1000 words for Reflection"
+		}
+	]
+}

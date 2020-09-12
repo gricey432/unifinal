@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Cybercrime Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Organised Crime Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Terrorism Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Environmental/Geopolitical Threats Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

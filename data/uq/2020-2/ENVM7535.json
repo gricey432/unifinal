@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1a: Employability Reflection (PART 1)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 2: Placement Project Brief",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 3: Placement Supervisor's Appraisal 1",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 1b:Employability Reflection (PART 2)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 3: Placement Supervisor's Appraisal 2",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 4: Placement Project Poster",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 5: Placement Project Report",
+			"weight": 80
+		}
+	]
+}

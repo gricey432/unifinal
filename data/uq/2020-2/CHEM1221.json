@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Sapling Learning Online Computer quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Online Laboratory Class - 3 practicals",
+			"weight": "15%                                        3 practicals"
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 20
+		},
+		{
+			"name": "Contact session workbooks (Three)",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

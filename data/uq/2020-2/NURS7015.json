@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal on competence against Standards",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Assessment against MHN Standards",
+			"weight": "NGP"
+		},
+		{
+			"name": "Certification of 200 clinical hours",
+			"weight": "NGP"
+		}
+	]
+}

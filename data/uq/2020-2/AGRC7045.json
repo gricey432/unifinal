@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial reports",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": 35
+		},
+		{
+			"name": "Comprehensive final exam - Take Home",
+			"weight": 30
+		}
+	]
+}

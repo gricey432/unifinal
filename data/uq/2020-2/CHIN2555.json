@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Oral Interview",
+			"weight": 30
+		},
+		{
+			"name": "Set interpreting tasks and activities",
+			"weight": 10
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review & Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Music Perception Exhibit Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 25
+		}
+	]
+}

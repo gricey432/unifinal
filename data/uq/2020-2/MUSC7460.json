@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Portfolio - Part 1: Workbook weeks 4, 5, 6, 7",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio - Part 2: Workbook weeks 8, 9, 10, 11",
+			"weight": 30
+		},
+		{
+			"name": "Analysis",
+			"weight": 25
+		}
+	]
+}

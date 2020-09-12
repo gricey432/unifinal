@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "OUTLOOK PLACE - SKETCH DESIGN",
+			"weight": 15
+		},
+		{
+			"name": "OUTLOOK PLACE - SCHEME DESIGN",
+			"weight": 25
+		},
+		{
+			"name": "OUTLOOK PLACE PRECISION+DETAIL-FORMATIVE FEEDBACK",
+			"weight": 0
+		},
+		{
+			"name": "OUTLOOK PLACE-PRECISION+DETAIL FOLIO Presentation",
+			"weight": 60
+		}
+	]
+}

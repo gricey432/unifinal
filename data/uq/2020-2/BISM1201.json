@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz #1 and #2 BPMN, Excel and ISD",
+			"weight": "30%                                        Individual; 2 x 90 mins"
+		},
+		{
+			"name": "BPMN/ISD/EXCEL (Individual)",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": "40%                                        Individual; 2 hours"
+		}
+	]
+}

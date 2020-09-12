@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Powerpoint Presentation and Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Glucose Tolerance Tests and Minimal Model Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Pasture Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Préparation et Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Learning support",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Timed test on BB",
+			"weight": 20
+		},
+		{
+			"name": "Dossier et réflexion",
+			"weight": 35
+		},
+		{
+			"name": "Mini-présentation et entretien",
+			"weight": 25
+		}
+	]
+}

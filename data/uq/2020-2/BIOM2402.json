@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 10
+		},
+		{
+			"name": "Regulation of ileal smooth muscle activity",
+			"weight": 20
+		}
+	]
+}

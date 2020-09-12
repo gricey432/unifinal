@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 7.5
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 7.5
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 7.5
+		},
+		{
+			"name": "Online Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 4",
+			"weight": 7.5
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

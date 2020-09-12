@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Component (1) for Research Projects",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Assessment Component (2) for Research Projects",
+			"weight": "70%                                        3000 Words"
+		}
+	]
+}

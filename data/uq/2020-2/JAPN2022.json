@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-class Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Module Completion",
+			"weight": 10
+		},
+		{
+			"name": "Writing Tasks 1 to 5",
+			"weight": 30
+		},
+		{
+			"name": "Reading Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Reading Test 2",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Managing Environmental Impacts in Mining",
+			"weight": 30
+		},
+		{
+			"name": "Field report",
+			"weight": 30
+		},
+		{
+			"name": "Group impact assessment and management plan",
+			"weight": 40
+		}
+	]
+}

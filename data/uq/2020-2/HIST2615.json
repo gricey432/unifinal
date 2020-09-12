@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        2,500-3000 words (max.)"
+		},
+		{
+			"name": "Primary Source Analysis",
+			"weight": "30%                                        1,000 words (max.)"
+		}
+	]
+}

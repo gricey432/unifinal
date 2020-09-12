@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weakly reading quizzes (away from class)",
+			"weight": "formative"
+		},
+		{
+			"name": "Written assignments",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory: short written report for Exp 1",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Laboratory: full-length written report for Exp 2",
+			"weight": 15
+		},
+		{
+			"name": "Final exam: two-hour (online)",
+			"weight": 70
+		}
+	]
+}

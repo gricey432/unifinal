@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibliography",
+			"weight": 50
+		},
+		{
+			"name": "Major assessment piece",
+			"weight": 50
+		}
+	]
+}

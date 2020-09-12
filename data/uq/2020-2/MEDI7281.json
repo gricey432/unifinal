@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Synopsis",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Abstract or Reflection",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Progress Report",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": "Performance hurdle"
+		}
+	]
+}

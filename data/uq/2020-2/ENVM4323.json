@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental Science Thesis",
+			"weight": 90
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Journal/Visual Blog",
+			"weight": 25
+		},
+		{
+			"name": "Practicum",
+			"weight": "P/F"
+		},
+		{
+			"name": "Case Study Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Art Therapy and Professional Development Inquiry",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 40
+		},
+		{
+			"name": "Key Debates in Palaeoecology",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Fire Management Plan Review",
+			"weight": "30%                                        1250 words"
+		}
+	]
+}

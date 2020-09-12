@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "5 Experiment Reports",
+			"weight": 20
+		},
+		{
+			"name": "Forensic Science in Popular Culture",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

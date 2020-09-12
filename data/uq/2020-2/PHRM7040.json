@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Group Presentations- Blue DB",
+			"weight": "8%                                        4% per module 1& 3"
+		},
+		{
+			"name": "Peer Feedback on Group Contributions",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Food and Beverage Evaluation",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Food and Beverage Experience Design",
+			"weight": "60%                                        Individual"
+		}
+	]
+}

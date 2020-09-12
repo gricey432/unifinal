@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal including Experimental Protocol",
+			"weight": 0
+		},
+		{
+			"name": "Advisors Assessment of Research Performance",
+			"weight": 10
+		},
+		{
+			"name": "Seminar (face-to-face or online to be advised)",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Final Report",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes (tutorial prep)",
+			"weight": 4
+		},
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Introduction + References",
+			"weight": "19%                                        Submission is compulsory to pass the course"
+		},
+		{
+			"name": "Weekly online quizzes (lecture - formative)",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Weekly online quizzes (lecture - summative)",
+			"weight": "16%                                        Summative"
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 16
+		},
+		{
+			"name": "Group written assessment",
+			"weight": 20
+		},
+		{
+			"name": "Discussion + References",
+			"weight": "19%                                        Submission is compulsory to pass this course"
+		}
+	]
+}

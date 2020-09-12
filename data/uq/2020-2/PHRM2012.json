@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Dispensing End of Semester (EOS) Examination",
+			"weight": 10
+		},
+		{
+			"name": "Community Placement Attendance & Evaluation",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Online Hospital Placement Module",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Five (5) Reflective Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Consultation Exam",
+			"weight": 25
+		},
+		{
+			"name": "Written End-of-Semester (EOS) Examination",
+			"weight": 25
+		},
+		{
+			"name": "Written Mid-Semester (MS) Examination",
+			"weight": 20
+		}
+	]
+}

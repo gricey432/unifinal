@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Crystal structure",
+			"weight": 5
+		},
+		{
+			"name": "Diffraction",
+			"weight": 5
+		},
+		{
+			"name": "Index of electron diffraction patterns",
+			"weight": 5
+		},
+		{
+			"name": "Crystal Structure Modelling",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Experimental Design of Materials Characterisation",
+			"weight": 20
+		},
+		{
+			"name": "Materials characterisation",
+			"weight": 25
+		},
+		{
+			"name": "X-ray Photoelectron Spectroscopy/Fluorescence",
+			"weight": 5
+		},
+		{
+			"name": "Final exam",
+			"weight": 20
+		}
+	]
+}

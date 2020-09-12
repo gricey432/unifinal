@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Folio provides a sample of student's work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "All hours (clinical, supervision, general)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "At mid term and end of term",
+			"weight": "Pass/Fail"
+		}
+	]
+}

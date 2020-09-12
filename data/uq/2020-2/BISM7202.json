@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Technology Impacts on an Industry",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "MS Office Assignment - Office 365 Excel 2019",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Take Home Exam (Final)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Practice",
+			"weight": "10%                                        Pass/Fail"
+		},
+		{
+			"name": "Participation in group discussion",
+			"weight": "18%                                        6% per module"
+		},
+		{
+			"name": "Module Activities",
+			"weight": "12%                                        4% per Module"
+		},
+		{
+			"name": "Design a Clinical Tool for pharmacists",
+			"weight": 20
+		},
+		{
+			"name": "Analysis of Motivational Interviewing Video",
+			"weight": 20
+		},
+		{
+			"name": "Medication Incident Analysis",
+			"weight": 20
+		}
+	]
+}

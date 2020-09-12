@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment One",
+			"weight": 30
+		},
+		{
+			"name": "Journal Article Analysis",
+			"weight": 15
+		},
+		{
+			"name": "On line quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "On line quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 45
+		}
+	]
+}

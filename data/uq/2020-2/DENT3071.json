@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Endodontic preclinical e-portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Fixed prosthodontics preclinical competency FGC",
+			"weight": 30
+		},
+		{
+			"name": "Preclinical competency - Premolar Endodontics",
+			"weight": "30%                                        Must Pass"
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F"
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": 30
+		}
+	]
+}

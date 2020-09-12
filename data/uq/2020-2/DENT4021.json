@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "WEEKLY TUTORIAL ACTIVITIES",
+			"weight": 16
+		},
+		{
+			"name": "DEVELOPMENT OF AN ANALYSIS RESOURCE",
+			"weight": 4
+		},
+		{
+			"name": "RESEARCH PROPOSAL PRESENTATION",
+			"weight": 10
+		},
+		{
+			"name": "RESEARCH ANALYSIS ASSIGNMENT",
+			"weight": 30
+		},
+		{
+			"name": "END OF SEMESTER EXAM",
+			"weight": 40
+		}
+	]
+}

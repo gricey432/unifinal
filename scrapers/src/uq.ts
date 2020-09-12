@@ -6,7 +6,10 @@ import axios from "./axios";
 
 const scraper: Scraper = {
     async getCourseCodes(year: number, semester: number): Promise<Array<string>> {
-        return [];
+        const url = `https://my.uq.edu.au/programs-courses/search.html?searchType=course&keywords=&CourseParameters%5Bsemester%5D=${year}:${semester}`;
+        const pageResp = await axios.get(url);
+        const $page = cheerio.load(pageResp.data);
+        return $page(".listing a.code").toArray().map((a) => cheerio(a).text().trim());
     },
     async getOffering(year: number, semester: number, courseCode: string): Promise<Offering> {
         async function getCourseProfileUrl(): Promise<string> {

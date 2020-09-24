@@ -141,7 +141,7 @@ export const Course: React.FunctionComponent<Props> = (props) => {
                             {props.cutoffs.map((v, k) => (
                                 <DetailTableRow
                                     key={k}
-                                    grade={k.toString()}
+                                    grade={(k + 1).toString()}
                                     cutoff={v}
                                     totalScore={totalScore}
                                     unprovidedTotalWeight={unprovidedTotalWeight}
@@ -154,11 +154,11 @@ export const Course: React.FunctionComponent<Props> = (props) => {
                         <div className="resultsSentence">
                             To get a <select title="Target Grade" value={selectedTargetGrade} onChange={(e) => setSelectedTargetGrade(e.target.value)}>{
                                 requiredGrades.keySeq().map((k) => {
-                                    // Grades are 1 indexed
+                                    // Grades are 1 indexed, but all our arrays are 0 indexed
                                     const grade = k + 1;
                                     return <option key={grade} value={grade}>{grade}</option>;
                                 }).toArray()
-                            }</select>, you need {requiredGrades.get(Number(selectedTargetGrade))}%
+                            }</select>, you need {requiredGrades.get(Number(selectedTargetGrade) - 1)}%
                         </div>
                         <div className="fake-link text-center" onClick={clickShowMoreDetail}>more details&hellip;</div>
                     </>

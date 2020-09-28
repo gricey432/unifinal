@@ -18,7 +18,10 @@ jobs:
       - uses: actions/checkout@master
       - name: Upload
         run: |
-          aws s3 cp ./data/${{ matrix.institution }} s3://unifinal-${{ matrix.institution }}/data --recursive
+          pushd data/syncer
+          yarn install
+          yarn run sync ${{ matrix.institution }}
+          popd
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

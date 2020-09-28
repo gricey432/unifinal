@@ -7,6 +7,7 @@
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/scrapers" />
             <path value="file://$PROJECT_DIR$/client" />
+            <path value="file://$PROJECT_DIR$/data/syncer" />
           </resourceRoots>
         </entryData>
       </entry>

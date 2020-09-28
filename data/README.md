@@ -4,6 +4,8 @@ To make it easy for people to contribute and fix courses, all the course data is
 
 These are usually generated using the scrapers found in `scrapers`, and then can be hand tweaked to fix small errors.
 
+These files are uploaded using the `syncer`, which has its own readme.
+
 ## Directory Structure
 
 ```

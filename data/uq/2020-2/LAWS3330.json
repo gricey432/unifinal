@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Responses/Engagement with Case Studies",
-			"weight": "20%                                        (4 x 5% tasks)"
+			"weight": 20
 		},
 		{
 			"name": "Seminar Facilitation/Presentation",

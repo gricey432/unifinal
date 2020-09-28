@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Video recording and Powerpoint Presentation",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Clinic Practical Performance",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		}
 	]
 }

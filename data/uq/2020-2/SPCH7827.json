@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Ethics decision making report",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Planning, Providing, and Managing SP Services",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Providing Integrated Disability Services Exam",

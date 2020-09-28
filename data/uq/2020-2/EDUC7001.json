@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Meta-Learning and Professional Application Blog",
-			"weight": "35%                                        Max. 2500 words"
+			"weight": 35
 		},
 		{
 			"name": "Identification and Assessment - Problem-Based",
-			"weight": "35%                                        Max. 2500 words"
+			"weight": 35
 		},
 		{
 			"name": "Review of Risk - Information Brochure for Teachers",
-			"weight": "30%                                        Max. 1000 words"
+			"weight": 30
 		}
 	]
 }

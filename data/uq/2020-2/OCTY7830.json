@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Personal Reflexive Journal",
-			"weight": "45%                                        (MUST PASS)"
+			"weight": 45
 		},
 		{
 			"name": "PROJECT POSTER: Social Change Advocacy Project",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		},
 		{
 			"name": "Personal Reflexive Journal",
-			"weight": "45%                                        (MUST PASS)"
+			"weight": 45
 		},
 		{
 			"name": "PLAN: Social Change Advocacy Project",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "FIVE (5) ONLINE MULTIPLECHOICE QUIZZES",
-			"weight": "25%                                        5% X 5 = 20%"
+			"weight": 25
 		},
 		{
 			"name": "ESSAY 1 - MODULE 1",

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Wildlife Management Project Proposal",
-			"weight": "25%                                        1000 words, +/- 10%"
+			"weight": 25
 		},
 		{
 			"name": "Multiple Choice, true/false quiz",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Wildlife Management Research Report",
-			"weight": "45%                                        3000 words, +/- 10%"
+			"weight": 45
 		},
 		{
 			"name": "Multiple Choice, true/false quiz",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "10 x Mini-quizzes",
-			"weight": "20%                                        Students must achieve at least 40% of the marks for the mini quizzes in order to pass the course"
+			"weight": 20
 		},
 		{
 			"name": "Problem Set 1",

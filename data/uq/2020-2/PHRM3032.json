@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Indigenous Health + Cultural Safety modules",
-			"weight": "0%                                        must be attempted"
+			"weight": 0
 		},
 		{
 			"name": "Tutorial feedback quizzes",
-			"weight": "15%                                        (5% each)"
+			"weight": 15
 		},
 		{
 			"name": "Written Assignment",

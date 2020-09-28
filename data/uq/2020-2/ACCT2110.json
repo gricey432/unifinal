@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online Mid-semester examination",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Online non-invigilated Final Examination",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

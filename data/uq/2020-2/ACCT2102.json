@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Study 1",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Online Quiz",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Final Open-book Exam",
-			"weight": "55%                                        Individual"
+			"weight": 55
 		}
 	]
 }

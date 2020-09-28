@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Module 1 Individual Presentation",
-			"weight": "10%                                        250 words"
+			"weight": 10
 		},
 		{
 			"name": "Module 2 Group Presentation",
-			"weight": "10%                                        250 words"
+			"weight": 10
 		},
 		{
 			"name": "Symposium Proposal - Pitch",
@@ -18,15 +18,15 @@
 		},
 		{
 			"name": "Final Essay Proposal",
-			"weight": "15%                                        250 words"
+			"weight": 15
 		},
 		{
 			"name": "Module 3 Group Presentation",
-			"weight": "10%                                        250 words"
+			"weight": 10
 		},
 		{
 			"name": "Research Essay",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Conducting a qualitative management study",
-			"weight": "35%                                        Team; 4500-5000 words"
+			"weight": 35
 		},
 		{
 			"name": "Seminar on a qualitative research approach",
-			"weight": "10%                                        Team; 20 mins + 15 mins discussion"
+			"weight": 10
 		},
 		{
 			"name": "Using qualitative approaches in your own research",
-			"weight": "55%                                        Individual; 4500-5000 words"
+			"weight": 55
 		}
 	]
 }

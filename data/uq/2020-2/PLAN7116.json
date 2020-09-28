@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "One-Minute-Papers (OMP)",
-			"weight": "10%                                        1% each"
+			"weight": 10
 		},
 		{
 			"name": "Transport in the News",

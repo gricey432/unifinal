@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Discussion Forum",
-			"weight": "10%                                        (Five discussions within semester)"
+			"weight": 10
 		},
 		{
 			"name": "Short Answer quiz",

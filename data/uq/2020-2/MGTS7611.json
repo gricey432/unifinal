@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Case study analysis (TWO parts)",
-			"weight": "50%                                        Individual Assessment"
+			"weight": 50
 		},
 		{
 			"name": "ED & OD Topic",
-			"weight": "50%                                        Individual Assessment"
+			"weight": 50
 		}
 	]
 }

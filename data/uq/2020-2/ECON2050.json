@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Exercise (online)",
-			"weight": "15%                                        (Best 6 of 12)"
+			"weight": 15
 		},
 		{
 			"name": "Quiz 1 (online)",

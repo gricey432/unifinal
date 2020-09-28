@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research project",
-			"weight": "50%                                        20% for data collection; 30% for final report"
+			"weight": 50
 		}
 	]
 }

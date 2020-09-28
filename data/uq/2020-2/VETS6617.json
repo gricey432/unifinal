@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Student participation in research laboratory",
-			"weight": "10%                                        of course mark"
+			"weight": 10
 		},
 		{
 			"name": "Honours research thesis",
-			"weight": "70%                                        of course mark"
+			"weight": 70
 		},
 		{
 			"name": "Honours final seminar",
-			"weight": "20%                                        of course mark"
+			"weight": 20
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Service Encounter Paper (Individual)",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Service Blueprint (Individual)",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Case Study Analysis (Individual)",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		}
 	]
 }

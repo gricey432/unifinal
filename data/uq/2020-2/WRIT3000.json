@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Project Plan and Writing Sample",
-			"weight": "15%                                        800 words"
+			"weight": 15
 		},
 		{
 			"name": "Advanced Writing Project",
-			"weight": "50%                                        3,000 words total (or equivalent)"
+			"weight": 50
 		}
 	]
 }

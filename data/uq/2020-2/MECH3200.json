@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Tutorial Problems",
-			"weight": "10%                                        (full 10% upon 80% completion hurdle)"
+			"weight": 10
 		}
 	]
 }

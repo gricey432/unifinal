@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Essay 1",
-			"weight": "35%                                        1,500 words"
+			"weight": 35
 		},
 		{
 			"name": "Take Home Exam",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Essay 2",
-			"weight": "35%                                        1,500 words"
+			"weight": 35
 		}
 	]
 }

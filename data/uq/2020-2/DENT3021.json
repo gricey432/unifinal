@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "End of semester exam",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		}
 	]
 }

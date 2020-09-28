@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reading and analysis assignment",
-			"weight": "30%                                        1000 Words"
+			"weight": 30
 		},
 		{
 			"name": "Global Digital Cultures Online Presentation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Digital Cultures Essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Leveraging Benefits from Events",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Media Framing Paper",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

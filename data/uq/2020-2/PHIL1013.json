@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Critical Analysis",
-			"weight": "30%                                        1,000 words"
+			"weight": 30
 		},
 		{
 			"name": "Final Philosophical Essay",
-			"weight": "50%                                        1,500 words"
+			"weight": 50
 		}
 	]
 }

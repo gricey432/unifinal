@@ -2,35 +2,35 @@
 	"assessment": [
 		{
 			"name": "Biomaterials Innovation (2000-2020) Report",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Biomaterials Innovation (2000-2020) Video",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Biocompatibility",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Mechanical Properties of Biomaterials",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		},
 		{
 			"name": "Report on mechanical properties of polymers",
-			"weight": "10%                                        Group"
+			"weight": 10
 		},
 		{
 			"name": "Major Literature Review",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Families of biomaterials",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "CHEE4305 Key Learnings",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		}
 	]
 }

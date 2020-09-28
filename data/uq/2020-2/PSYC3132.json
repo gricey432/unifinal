@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Online Quizzes",
-			"weight": "40%                                        (10% for each quiz)"
+			"weight": 40
 		},
 		{
 			"name": "Individual Infographic",

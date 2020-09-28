@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Lecture Quizzes",
-			"weight": "10%                                        10 Quizzes x 1%"
+			"weight": 10
 		},
 		{
 			"name": "Workshop Oral Quiz",
-			"weight": "10%                                        1 Quiz x 10%"
+			"weight": 10
 		},
 		{
 			"name": "Laboratory Discussion Questions",
-			"weight": "15%                                        3 Labs x 5%"
+			"weight": 15
 		},
 		{
 			"name": "Skill Acquisition Project Report",
-			"weight": "25%                                        1 x report (25%)"
+			"weight": 25
 		},
 		{
 			"name": "Final Examination",

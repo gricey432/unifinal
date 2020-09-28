@@ -2,31 +2,31 @@
 	"assessment": [
 		{
 			"name": "Module 1 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Module 2 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Module 3 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Module 4 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "C programming exercise",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Module 5 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Module 6 assignment",
-			"weight": "10%                                        4 marks"
+			"weight": 10
 		},
 		{
 			"name": "Project",
@@ -34,7 +34,7 @@
 		},
 		{
 			"name": "End-of-semester exam",
-			"weight": "30%                                        12 marks"
+			"weight": 30
 		}
 	]
 }

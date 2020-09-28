@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Writing assignment",
-			"weight": "12%                                        3 X 4%"
+			"weight": 12
 		},
 		{
 			"name": "Written exam I",

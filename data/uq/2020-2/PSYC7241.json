@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Quiz 1",
-			"weight": "10%                                        Pass/Fail"
+			"weight": "1Pass/Fail"
 		},
 		{
 			"name": "Quiz 2",
-			"weight": "10%                                        Pass/Fail"
+			"weight": "1Pass/Fail"
 		},
 		{
 			"name": "ACT Case Conceptualization/Formulation Report",
-			"weight": "35%                                        Pass/Fail"
+			"weight": 35
 		},
 		{
 			"name": "ACT Competencies Assessment",
-			"weight": "45%                                        Pass/Fail"
+			"weight": 45
 		}
 	]
 }

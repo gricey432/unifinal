@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Written Report",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Take Home Exam",

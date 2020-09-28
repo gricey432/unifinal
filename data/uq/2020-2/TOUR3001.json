@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Quiz",
-			"weight": "20%                                        Individual; 3 x 30 mins"
+			"weight": 20
 		},
 		{
 			"name": "Planning Case Analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Tourism Strategic Plan Review",
-			"weight": "50%                                        Individual; 4000 words max."
+			"weight": 50
 		}
 	]
 }

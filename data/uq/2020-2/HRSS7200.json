@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Set Presentation and Report",
-			"weight": "20%                                        Individual Mark - MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Exam Week 6",
-			"weight": "30%                                        Individual Mark - MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Conference Abstract",
-			"weight": "15%                                        Group Mark - MUST PASS"
+			"weight": 15
 		},
 		{
 			"name": "Project Outcome - Clinician Rating",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Conference Presentation",
-			"weight": "35%                                        Group Mark - MUST PASS"
+			"weight": 35
 		}
 	]
 }

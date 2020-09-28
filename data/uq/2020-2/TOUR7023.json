@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Case Study Report",
-			"weight": "50%                                        Individual; 3,000 words"
+			"weight": 50
 		},
 		{
 			"name": "Final Exam (Online)",
-			"weight": "50%                                        Individual; 2 hours"
+			"weight": 50
 		}
 	]
 }

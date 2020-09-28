@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Customer and Market Selection",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Final Pitch",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Final BMC Report",

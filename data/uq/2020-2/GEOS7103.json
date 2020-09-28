@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Discipline Paper Critique",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Field Report (field trip participants)",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

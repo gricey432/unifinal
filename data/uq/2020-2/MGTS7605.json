@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Analysis Executive Summaries",
-			"weight": "20%                                        Individual Assessment"
+			"weight": 20
 		},
 		{
 			"name": "Evaluation of a Performance Management System",
-			"weight": "35%                                        Individual Assessment"
+			"weight": 35
 		},
 		{
 			"name": "Case analysis report",
-			"weight": "45%                                        Individual Assessment"
+			"weight": 45
 		}
 	]
 }

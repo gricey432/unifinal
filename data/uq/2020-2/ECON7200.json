@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Take Home Exam (Final)",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Tutorial attendance and preparation",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Midsemester Exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Individual Project",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

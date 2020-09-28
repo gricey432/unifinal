@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical forms, records and checklists",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "End of Semester Clinical Viva Exam",

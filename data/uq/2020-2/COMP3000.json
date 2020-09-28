@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Essay 1",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		},
 		{
 			"name": "Essay 2",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		},
 		{
 			"name": "Essay 3",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		},
 		{
 			"name": "Group Project",
-			"weight": "40%                                        (Group)"
+			"weight": 40
 		},
 		{
 			"name": "Online Activities",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		}
 	]
 }

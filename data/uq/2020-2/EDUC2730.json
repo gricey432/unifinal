@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Part A: Digital portfolio of micro teaching",
-			"weight": "20%                                        Approx. 2000 words"
+			"weight": 20
 		},
 		{
 			"name": "Using student data to design a lesson",
-			"weight": "50%                                        Approx. 2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Part B: Digital portfolio of micro teaching",
-			"weight": "30%                                        Approx. 2500 words"
+			"weight": 30
 		}
 	]
 }

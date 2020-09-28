@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Peer teaching task",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		},
 		{
 			"name": "Neuroanatomy Exam",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "Regional and Surface Anatomy Quiz",
-			"weight": "10%                                        (MUST PASS)"
+			"weight": 10
 		},
 		{
 			"name": "ROM and MMT Demonstration",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		}
 	]
 }

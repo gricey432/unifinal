@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical Analysis",
-			"weight": "50%                                        10% per analysis"
+			"weight": 50
 		},
 		{
 			"name": "Interview project",
-			"weight": "50%                                        10% + 40%"
+			"weight": 50
 		}
 	]
 }

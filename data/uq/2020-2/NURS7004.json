@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Viva voce/ Full Episode of Care",
-			"weight": "50%                                        Hurdle Assessment"
+			"weight": 50
 		},
 		{
 			"name": "Nurse Practitioner e-portfolio",
-			"weight": "0%                                        Pass / Fail"
+			"weight": 0
 		},
 		{
 			"name": "Conceptual Framework",

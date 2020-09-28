@@ -2,27 +2,27 @@
 	"assessment": [
 		{
 			"name": "Critical Review of an HCI Method",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Project Progress Presentation",
-			"weight": "10%                                        Team"
+			"weight": 10
 		},
 		{
 			"name": "Review of a Seminal HCI Paper",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Innovative Design Concept",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "User Research Paper",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Design Envisionment Poster",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

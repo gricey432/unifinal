@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "\"Materials Notebook\" : Stage 1",
-			"weight": "25%                                        Digital submission + Exhibition"
+			"weight": 25
 		},
 		{
 			"name": "Bush Chapel Roof",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "\"Materials Notebook\" : Stage 2",
-			"weight": "15%                                        Digital submission"
+			"weight": 15
 		},
 		{
 			"name": "Take home exam",
-			"weight": "30%                                        IVAH"
+			"weight": 30
 		}
 	]
 }

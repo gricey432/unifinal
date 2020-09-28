@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Quiz",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Paper on a Special Interest Tourism Type",
-			"weight": "50%                                        Individual; 4000-4500 words"
+			"weight": 50
 		},
 		{
 			"name": "Special Interest Tour Design",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

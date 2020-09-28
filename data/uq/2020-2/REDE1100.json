@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Research Presentation",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Professional Residential Valuation Report",
-			"weight": "30%                                        3000 Words"
+			"weight": 30
 		},
 		{
 			"name": "Exam",
-			"weight": "50%                                        Individual; 1 hour"
+			"weight": 50
 		}
 	]
 }

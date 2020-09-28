@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reading Review",
-			"weight": "20%                                        Individual; 4 X 5 %"
+			"weight": 20
 		},
 		{
 			"name": "Active Discussion Participation",
-			"weight": "20%                                        Individual 4 x 5%"
+			"weight": 20
 		},
 		{
 			"name": "Life Plan or Research Project",

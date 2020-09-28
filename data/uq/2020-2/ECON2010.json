@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Exercises",
-			"weight": "32%                                        (best 8 out of 10 tutorials )"
+			"weight": 32
 		},
 		{
 			"name": "Mid-Semester Exam",

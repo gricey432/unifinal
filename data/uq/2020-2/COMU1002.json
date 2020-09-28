@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical journal",
-			"weight": "10%                                        2% each"
+			"weight": 10
 		},
 		{
 			"name": "Group project",
-			"weight": "30%                                        20% + 10%"
+			"weight": 30
 		},
 		{
 			"name": "Exam",

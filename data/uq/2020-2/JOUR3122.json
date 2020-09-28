@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Industry Proposal",
-			"weight": "30%                                        2000"
+			"weight": 30
 		}
 	]
 }

@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Publisher, Publication, Author brand study",
-			"weight": "25%                                        1000-1200 words"
+			"weight": 25
 		},
 		{
 			"name": "Practical editing assignment",
-			"weight": "25%                                        90 mins"
+			"weight": 25
 		},
 		{
 			"name": "Researched article",
-			"weight": "40%                                        2700-3300 words"
+			"weight": 40
 		}
 	]
 }

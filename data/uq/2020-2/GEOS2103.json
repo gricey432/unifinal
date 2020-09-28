@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Biogeography/Geomorphology Essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Field Report",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Completion of lab assignments",
-			"weight": "63%                                        Total"
+			"weight": 63
 		},
 		{
 			"name": "Folding, faulting & Strain",

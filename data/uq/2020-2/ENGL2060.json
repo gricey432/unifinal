@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "First Short Essay",
-			"weight": "20%                                        750 words"
+			"weight": 20
 		},
 		{
 			"name": "Second Short Essay",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Long Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Homework",
-			"weight": "60%                                        Each submission weighted equally"
+			"weight": 60
 		},
 		{
 			"name": "Final Examination",

@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Teachers' Notes",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Opening scenes of a Middle Grade or YA novel",
-			"weight": "50%                                        500 word synopsis; 2500 words creative"
+			"weight": 50
 		}
 	]
 }

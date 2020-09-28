@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "In-class Team Debate: IB Issues; See Assign. Guide",
-			"weight": "25%                                        Zoom debate; Peer review (5%)"
+			"weight": 25
 		},
 		{
 			"name": "Exam",
-			"weight": "30%                                        On-line timed examination"
+			"weight": 30
 		},
 		{
 			"name": "Open book exam",
-			"weight": "40%                                        On-line timed examination"
+			"weight": 40
 		}
 	]
 }

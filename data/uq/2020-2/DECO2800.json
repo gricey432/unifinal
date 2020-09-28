@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "GIT Exercise",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "First Ticket",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Team Charter",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Sprint 1 Submission",

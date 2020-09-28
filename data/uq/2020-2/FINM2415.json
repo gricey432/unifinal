@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Group Assignment",
-			"weight": "30%                                        Group (Plus peer assessment)"
+			"weight": 30
 		},
 		{
 			"name": "Peer Assessment For Group Assignment",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Final Exam (Online)",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

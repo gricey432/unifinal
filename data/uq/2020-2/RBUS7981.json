@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Research Project",
-			"weight": "100%                                        Individual"
+			"weight": 100
 		}
 	]
 }

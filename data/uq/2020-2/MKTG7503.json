@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Consumer behaviour Project",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Consumer behaviour project proposal",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Online Quiz",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		}
 	]
 }

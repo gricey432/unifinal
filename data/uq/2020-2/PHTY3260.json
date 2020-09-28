@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "End of Semester Practical Examination",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Computer based online quizzes",

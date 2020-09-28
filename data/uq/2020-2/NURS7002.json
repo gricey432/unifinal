@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Physical Examination (PE) x 4",
-			"weight": "20%                                        4 x 5%"
+			"weight": 20
 		},
 		{
 			"name": "X-ray interpretation (Chest Xray & Abdominal Xray)",

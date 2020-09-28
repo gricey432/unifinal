@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "5 Tutorial Exercises",
-			"weight": "10%                                        2% each"
+			"weight": 10
 		},
 		{
 			"name": "Online Laboratory OH&S training",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "2 Laboratory Reports",
-			"weight": "20%                                        10% each"
+			"weight": 20
 		},
 		{
 			"name": "Plant Design Oral Presentation",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "53%                                        With Hurdle"
+			"weight": 53
 		}
 	]
 }

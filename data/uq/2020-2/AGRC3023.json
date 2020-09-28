@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Blackboard Quiz",
-			"weight": "15%                                        3 Quizzes each carrying 5% worth"
+			"weight": 15
 		},
 		{
 			"name": "Strategy - Simulation",

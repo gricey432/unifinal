@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Visual Analysis",
-			"weight": "30%                                        800 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

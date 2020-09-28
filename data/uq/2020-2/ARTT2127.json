@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "800 word visual analysis",
-			"weight": "20%                                        800 word"
+			"weight": 20
 		},
 		{
 			"name": "2500 word research essay",
-			"weight": "40%                                        2500 word"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Essay",

@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research Translation (Compulsory)",
-			"weight": "30%                                        with hurdle."
+			"weight": 30
 		}
 	]
 }

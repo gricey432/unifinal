@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Critique of Articles on Alcohol-Related Problems",
-			"weight": "30%                                        1,000 words (max)"
+			"weight": 30
 		},
 		{
 			"name": "Essay on Alcohol Policy or Intervention",
-			"weight": "45%                                        2,500 words (max)"
+			"weight": 45
 		}
 	]
 }

@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "QUM Research Reports (Written & Oral presentation)",
-			"weight": "35% for the written report; 35% for the oral presentation"
+			"weight": 35
 		},
 		{
 			"name": "QUM Research Project Oral Presentation Attendance",

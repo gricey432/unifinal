@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Media Analysis paper",
-			"weight": "30%                                         Attempt must be made to pass this course"
+			"weight": 30
 		},
 		{
 			"name": "Assignment - Laboratory Report",
-			"weight": "35%                                        Attempt must be made to pass this course"
+			"weight": 35
 		},
 		{
 			"name": "Final Reflection",
-			"weight": "25%                                        Attempt must be made to pass this course"
+			"weight": 25
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Computer-Based Quizzes",
-			"weight": "25%                                        (Best 10 of 11)"
+			"weight": 25
 		},
 		{
 			"name": "Problem Set 1",

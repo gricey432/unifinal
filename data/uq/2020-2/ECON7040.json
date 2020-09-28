@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online quizzes",
-			"weight": "30%                                        (Each Quiz is worth 10%) - best out of 3"
+			"weight": 30
 		},
 		{
 			"name": "Research Assignment",

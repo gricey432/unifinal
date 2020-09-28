@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "End of Semester Practical Assessment",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Mid Semester Theory Exam",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "PeerMark of a peer's Portfolio Draft",
-			"weight": "5%                                        Pass/Fail"
+			"weight": 5
 		},
 		{
 			"name": "Portfolio - FINAL",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

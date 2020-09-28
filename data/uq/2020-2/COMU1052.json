@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Learning Reflection",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Case Study Analysis",
-			"weight": "50%                                        2000-2500 words"
+			"weight": 50
 		},
 		{
 			"name": "Campaign Pitch, Documents, Peer Group Evaluation",
-			"weight": "25%                                        15 min. pitch and 5 min. Q&A + 2000 words max. for supporting documents"
+			"weight": 25
 		}
 	]
 }

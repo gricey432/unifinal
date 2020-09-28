@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Family of Origin",
-			"weight": "25%                                        1200 words"
+			"weight": 25
 		},
 		{
 			"name": "Concepts and Theories of Human Development",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

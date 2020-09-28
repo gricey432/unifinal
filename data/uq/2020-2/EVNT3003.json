@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Review Quizzes",
-			"weight": "45%                                        Individual; 40 mins/quiz"
+			"weight": 45
 		},
 		{
 			"name": "Elevator Pitch",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Event Pitch",
-			"weight": "40%                                        Team; 8-10 mins; 10 pages max."
+			"weight": 40
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Case analysis",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Assignments: Harvard Business School Simulations",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

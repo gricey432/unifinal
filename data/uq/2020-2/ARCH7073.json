@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Midterm Submission",
-			"weight": "40%                                        (Individual)"
+			"weight": 40
 		},
 		{
 			"name": "Major Research Project",
-			"weight": "40% (Individual) + 20% (Group)"
+			"weight": 40
 		}
 	]
 }

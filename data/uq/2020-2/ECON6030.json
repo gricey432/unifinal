@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		},
 		{
 			"name": "Midsemester Exam",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		}
 	]
 }

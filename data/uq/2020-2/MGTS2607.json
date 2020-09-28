@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical Review Report",
-			"weight": "50%                                        Individual; 1 page + 1500 words"
+			"weight": 50
 		},
 		{
 			"name": "Critical Reflective Journal",
-			"weight": "50%                                        Individual; 2500 words maximum"
+			"weight": 50
 		}
 	]
 }

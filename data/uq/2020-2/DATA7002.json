@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Three Online Quizzes",
-			"weight": "15%                                        Each quiz 5% (total 15%)"
+			"weight": 15
 		},
 		{
 			"name": "Three Reflections on Knowledge",
-			"weight": "15%                                        Each 5% (total 15%)"
+			"weight": 15
 		},
 		{
 			"name": "On-line Group Presentation",

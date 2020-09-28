@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Project Outline",
-			"weight": "10%                                        250 words plus biblography (7-10) items"
+			"weight": 10
 		},
 		{
 			"name": "Project Proposal and Sources",
-			"weight": "20%                                        500 words plus bibliography (12-15 items)"
+			"weight": 20
 		},
 		{
 			"name": "Project",
-			"weight": "50%                                        3,500 words or equivalent"
+			"weight": 50
 		}
 	]
 }

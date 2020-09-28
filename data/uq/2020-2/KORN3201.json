@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Grammar Quizzes",
-			"weight": "30%                                        (10%x3)"
+			"weight": 30
 		},
 		{
 			"name": "Final Oral Exam",

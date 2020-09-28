@@ -2,39 +2,39 @@
 	"assessment": [
 		{
 			"name": "Weekly pre-class quizzes",
-			"weight": "4%                                        Individual"
+			"weight": 4
 		},
 		{
 			"name": "Computing tutorials",
-			"weight": "7%                                        Individual"
+			"weight": 7
 		},
 		{
 			"name": "Practical 1: Temperature measurement",
-			"weight": "8%                                        Group, Summative"
+			"weight": 8
 		},
 		{
 			"name": "Mid semester quiz",
-			"weight": "15%                                        Individual, Summative"
+			"weight": 15
 		},
 		{
 			"name": "Practical 2: Dissolved oxygen",
-			"weight": "8%                                        Group, Summative"
+			"weight": 8
 		},
 		{
 			"name": "Capstone design presentation",
-			"weight": "5%                                        Group, Summative"
+			"weight": 5
 		},
 		{
 			"name": "Capstone final report",
-			"weight": "15%                                        Group, Summative"
+			"weight": 15
 		},
 		{
 			"name": "Teamwork performance",
-			"weight": "3%                                        Individual"
+			"weight": 3
 		},
 		{
 			"name": "Final examination",
-			"weight": "35%                                        Individual, Summative, HURDLE"
+			"weight": 35
 		}
 	]
 }

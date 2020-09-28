@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Weekly Journal",
-			"weight": "30%                                        500 words per week (10 entries)"
+			"weight": 30
 		},
 		{
 			"name": "Video Presentation",
-			"weight": "25%                                        1000 words + video"
+			"weight": 25
 		},
 		{
 			"name": "Peer Review of Presentations",
-			"weight": "5%                                        200 words per review (5 reviews)"
+			"weight": 5
 		},
 		{
 			"name": "Reflective Research Essay",
-			"weight": "40%                                        2500 Words"
+			"weight": 40
 		}
 	]
 }

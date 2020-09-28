@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Paper proposal",
-			"weight": "15%                                        500 words"
+			"weight": 15
 		},
 		{
 			"name": "Research Essay",
-			"weight": "45%                                        2000 words"
+			"weight": 45
 		}
 	]
 }

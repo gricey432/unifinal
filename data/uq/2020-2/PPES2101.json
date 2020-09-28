@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Review A  Commentary on a policy problem",
-			"weight": "20%                                        800 Words"
+			"weight": 20
 		},
 		{
 			"name": "Review B - Commentary on a policy solution",
-			"weight": "20%                                        800 words"
+			"weight": 20
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        4000 words max"
+			"weight": 50
 		}
 	]
 }

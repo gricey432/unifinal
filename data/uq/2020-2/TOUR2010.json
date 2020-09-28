@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Test bank exercises",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Mid-semester test",
-			"weight": "40%                                        Individual; 2 hours"
+			"weight": 40
 		},
 		{
 			"name": "Tourism Industry Economic Project",
-			"weight": "40%                                        Team; research + 12 mins max."
+			"weight": 40
 		}
 	]
 }

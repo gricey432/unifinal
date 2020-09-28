@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Reflective Blog - Communication with Older People",
-			"weight": "5%                                        Pass / Fail"
+			"weight": 5
 		},
 		{
 			"name": "Mid Semester Theory Examination",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "End of Semester Theory Examination",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "End of Semester Practical Assessment",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		}
 	]
 }

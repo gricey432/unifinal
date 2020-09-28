@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Crown Preparation",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Paediatric Dentistry Group Assessment",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Module 1 exam",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		},
 		{
 			"name": "Module 2 exam",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Literature Review",
-			"weight": "100%                                        Individual"
+			"weight": 100
 		}
 	]
 }

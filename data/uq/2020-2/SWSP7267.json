@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mini-essays: Core Concepts of Family Therapy",
-			"weight": "25%                                        Maximum 1500 words"
+			"weight": 25
 		},
 		{
 			"name": "The Experience of Family",
-			"weight": "25%                                        Maximum 1500 words"
+			"weight": 25
 		},
 		{
 			"name": "Structured Case Analysis",
-			"weight": "50%                                        2000 words + process report"
+			"weight": 50
 		}
 	]
 }

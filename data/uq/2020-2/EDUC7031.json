@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Curriculum Design",
-			"weight": "40%                                        3,000 words"
+			"weight": 40
 		},
 		{
 			"name": "English language teaching and learning plan",
-			"weight": "40%                                        2,500 words"
+			"weight": 40
 		},
 		{
 			"name": "Critical reflection",
-			"weight": "20%                                        1000 to 1200 words"
+			"weight": 20
 		}
 	]
 }

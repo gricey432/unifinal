@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critique of visitor site",
-			"weight": "50%                                        Approx. 3,000 words"
+			"weight": 50
 		},
 		{
 			"name": "Facility Design Proposal",
-			"weight": "50%                                        Individual; 3,000 - 3,500 words"
+			"weight": 50
 		}
 	]
 }

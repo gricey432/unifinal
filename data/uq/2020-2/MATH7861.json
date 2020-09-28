@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Mid-semester exam",
-			"weight": "20% or 0%"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 3",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Final examination",
-			"weight": "50% or 70%"
+			"weight": 50
 		}
 	]
 }

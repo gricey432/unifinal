@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Weekly Quiz | 3 sets",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Business Models*, Assumptions*, Growth Pathways*",
-			"weight": "30%                                        Team: PAF required*"
+			"weight": 30
 		},
 		{
 			"name": "Respond to 3 questions",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

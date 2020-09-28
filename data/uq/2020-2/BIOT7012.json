@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reflection on industry workshop",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Outline of research report",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Week 3 Checkpoint meeting",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Week 6 Checkpoint meeting",
-			"weight": "0%                                        Pass/Fail"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Laboratory notebook preparation",

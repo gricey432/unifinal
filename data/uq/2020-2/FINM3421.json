@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "After Class Problem Sets",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "In-tutorial Team Presentation",
-			"weight": "15%                                        Group"
+			"weight": 15
 		},
 		{
 			"name": "Online Final Exam",
-			"weight": "55%                                        Individual; 2 hours"
+			"weight": 55
 		}
 	]
 }

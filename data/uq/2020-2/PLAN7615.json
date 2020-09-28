@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Response Essays",
-			"weight": "100%                                        (25% Each)"
+			"weight": 100
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Project management",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Asset management",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Procurement",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Costing and Pricing",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

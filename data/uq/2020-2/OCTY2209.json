@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Communicating with family",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		},
 		{
 			"name": "Group protocol (Fieldwork series 2)",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Simulation reflection (Fieldwork series 1)",
-			"weight": "15%                                        (MUST PASS)"
+			"weight": 15
 		},
 		{
 			"name": "End Semester Exam",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		}
 	]
 }

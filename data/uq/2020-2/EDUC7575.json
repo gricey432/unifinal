@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Evaluating Resources",
-			"weight": "25%                                        1500 words"
+			"weight": 25
 		},
 		{
 			"name": "Design an Investigation",
-			"weight": "25%                                        1500 words"
+			"weight": 25
 		},
 		{
 			"name": "Teaching a Science Concept",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

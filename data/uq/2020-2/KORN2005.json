@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Quiz",
-			"weight": "30%                                        2* 15%"
+			"weight": 30
 		},
 		{
 			"name": "Essay Assignment",

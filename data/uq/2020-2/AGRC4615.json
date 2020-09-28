@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Honours application and learning contract",
-			"weight": "0%                                        Compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Research Seminar",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Comprehensive review of relevant literature",
-			"weight": "0%                                        Compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Supervisor's report",

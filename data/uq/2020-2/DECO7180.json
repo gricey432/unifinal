@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Design Exploration",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Major Project Part A: Design Proposal",
-			"weight": "15%                                        Team"
+			"weight": 15
 		},
 		{
 			"name": "Major Project Part B: Progress Demo",
-			"weight": "10%                                        Team"
+			"weight": 10
 		},
 		{
 			"name": "Major Project Part C: Final Delivery & Report",
-			"weight": "30%                                        Team"
+			"weight": 30
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Industry Report",
-			"weight": "100%                                        individual"
+			"weight": 100
 		}
 	]
 }

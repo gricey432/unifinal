@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Portfolio of PR Tools for Organisation - Part 1",
-			"weight": "30%                                        Maximum 3,500 words"
+			"weight": 30
 		},
 		{
 			"name": "Portfolio of PR Tools for Organisation - Part 2",
-			"weight": "40%                                        Maximum 3,500 words"
+			"weight": 40
 		}
 	]
 }

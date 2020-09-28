@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Opinion Piece/ Viewpoint article",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Short report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Quiz (Multiple Choice)",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

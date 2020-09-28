@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflective Journal Entries Due 16 Aug & 6 Oct 2pm",
-			"weight": "20%                                        Fully referenced using Chicago 17 footnotes and bibliography"
+			"weight": 20
 		},
 		{
 			"name": "Document Analysis Due 7 September by 2pm",
-			"weight": "40%                                        1,000 words max & fully referenced using Chicago 17 footnotes and bibliography"
+			"weight": 40
 		},
 		{
 			"name": "Major Essay Due 19 October by 2pm",
-			"weight": "40%                                        1,500 words max & fully referenced using Chicago 17 footnotes and bibliography)"
+			"weight": 40
 		}
 	]
 }

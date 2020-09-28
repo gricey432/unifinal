@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Acquired Aphasia Exam - Take Home Exam",
-			"weight": "50%                                        must pass"
+			"weight": 50
 		}
 	]
 }

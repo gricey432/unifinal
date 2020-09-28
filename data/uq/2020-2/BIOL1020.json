@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Textbook readings and associated questions",
-			"weight": "0%                                        Examinable"
+			"weight": 0
 		},
 		{
 			"name": "Practical preparation and participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Mini tests",
-			"weight": "47%                                        3 x 15.67%"
+			"weight": 47
 		},
 		{
 			"name": "End of semester exam",

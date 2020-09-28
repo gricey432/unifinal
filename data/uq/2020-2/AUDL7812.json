@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Final examination (online, Central)",
-			"weight": "60%                                        (MUST PASS)"
+			"weight": 60
 		},
 		{
 			"name": "Clinical forms, records and checklists",

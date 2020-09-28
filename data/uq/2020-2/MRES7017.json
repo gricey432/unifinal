@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Assignment 1",
-			"weight": "20%                                        of total grade"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "20%                                        of total grade"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 3",
-			"weight": "20%                                        of total grade"
+			"weight": 20
 		},
 		{
 			"name": "Participation in Tutorial Discussion",
-			"weight": "10%                                        of total grade"
+			"weight": 10
 		},
 		{
 			"name": "Final Online examination",
-			"weight": "30%                                        of total grade"
+			"weight": 30
 		}
 	]
 }

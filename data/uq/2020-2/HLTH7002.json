@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Assessment Task 1: Online Discussion Forum",
-			"weight": "20%                                        (10 discussion during semester)"
+			"weight": 20
 		},
 		{
 			"name": "Assessment Task 2: MCQ (Online)",

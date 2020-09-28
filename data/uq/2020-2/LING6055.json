@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Research Portfolio",
-			"weight": "100%                                        No single item will be worth more than 70%"
+			"weight": 100
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "CLEAR-JE No.1",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		},
 		{
 			"name": "Supply and Demand",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "CLEAR-JE No.2",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		},
 		{
 			"name": "Elasticity and Perfectly Competitive Supply",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "CLEAR-JE No.3",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		},
 		{
 			"name": "The Quest for Profit, Imperfect Comp & Monopoly",
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "CLEAR-JE No.4",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		},
 		{
 			"name": "Imperfect Comp (cont.), Externalities, Prop Rights",
@@ -38,11 +38,11 @@
 		},
 		{
 			"name": "CLEAR-JE No.5",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		},
 		{
 			"name": "CLEAR-JE No.6",
-			"weight": "10%                                        (Best 5 of 6)"
+			"weight": 10
 		}
 	]
 }

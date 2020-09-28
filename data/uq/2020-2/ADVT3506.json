@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Advertising Evaluation Protocol",
-			"weight": "30%                                        Individial"
+			"weight": 30
 		},
 		{
 			"name": "Advertising campaign research project",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Online quiz",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Video Analysis",
-			"weight": "35%                                        2,000 words"
+			"weight": 35
 		},
 		{
 			"name": "Social Work Intervention Plan",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Task 1b - Group research proposal",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Task 2a - Group research report presentation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Task 2b - Group research report",
-			"weight": "60%                                        3500 words"
+			"weight": 60
 		}
 	]
 }

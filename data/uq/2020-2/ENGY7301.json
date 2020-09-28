@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Personal energy audit",
-			"weight": "38%                                        Hurdle"
+			"weight": 38
 		},
 		{
 			"name": "Oral Exam",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Identifying a preferred transport option",

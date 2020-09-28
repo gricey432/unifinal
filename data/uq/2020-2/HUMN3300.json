@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Draft Research Proposal",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Final Research Proposal",
-			"weight": "45%                                        3000 words"
+			"weight": 45
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical Review: Nurturing Workplace Culture",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Critical Analysis: leadership & workplace culture",
-			"weight": "60%                                        2500-3000 words"
+			"weight": 60
 		}
 	]
 }

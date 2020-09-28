@@ -54,7 +54,7 @@
 		},
 		{
 			"name": "Final examination",
-			"weight": "60%                                        Hurdle"
+			"weight": 60
 		}
 	]
 }

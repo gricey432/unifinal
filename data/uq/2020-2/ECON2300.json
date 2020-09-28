@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Periodic Assessments",
-			"weight": "60%                                        6 quizzes"
+			"weight": 60
 		},
 		{
 			"name": "Final Exam- online exam (CML on Blackboard)",

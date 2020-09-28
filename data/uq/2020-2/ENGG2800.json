@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Initial Group Plan",
-			"weight": "5%                                        Pass/fail"
+			"weight": 5
 		},
 		{
 			"name": "Preliminary Demo",

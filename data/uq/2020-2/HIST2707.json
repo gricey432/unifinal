@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Major Essay",
-			"weight": "40%                                        2300 words"
+			"weight": 40
 		},
 		{
 			"name": "Research Proposal and Annotated Bibliography",
-			"weight": "10%                                        500 words plus bibliography"
+			"weight": 10
 		},
 		{
 			"name": "Tutorial Participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Central Exam",
-			"weight": "30%                                        1200 words"
+			"weight": 30
 		}
 	]
 }

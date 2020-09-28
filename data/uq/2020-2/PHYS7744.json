@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Project Plan",
-			"weight": "0%                                         (100% penalty for fail / non-submission)"
+			"weight": 0
 		},
 		{
 			"name": "M.Sc. Progress Talk",
-			"weight": "0%                                        (10% penalty for fail / non-completion)"
+			"weight": 0
 		},
 		{
 			"name": "Progress Report with Literature Review",
-			"weight": "0%                                        (100% penalty for fail / non-submission)"
+			"weight": 0
 		},
 		{
 			"name": "Honours Final Talk",
-			"weight": "0%                                        (10% penalty for non-completion)(Helps examiners determine Thesis grade)"
+			"weight": 0
 		},
 		{
 			"name": "MSc Thesis",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Oral Examination",
-			"weight": "0%                                        (Helps examiners determine Thesis grade.)"
+			"weight": 0
 		}
 	]
 }

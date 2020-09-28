@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Honours application and learning contract",
-			"weight": "0%                                        Compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Comprehensive review of relevant literature",
-			"weight": "0%                                        Compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Project Report/Thesis",

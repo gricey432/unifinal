@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Problem Sets",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Group Project 1",
-			"weight": "10%                                        Group"
+			"weight": 10
 		},
 		{
 			"name": "Individual Project 1",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Group Project 2",
-			"weight": "10%                                        Group"
+			"weight": 10
 		},
 		{
 			"name": "Individual Project 2",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

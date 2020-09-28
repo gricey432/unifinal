@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2,500-3000 words (max.)"
+			"weight": 50
 		},
 		{
 			"name": "Primary Source Analysis",
-			"weight": "30%                                        1,000 words (max.)"
+			"weight": 30
 		}
 	]
 }

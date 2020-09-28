@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "30%                                        (3 quizzes worth 10% each)"
+			"weight": 30
 		},
 		{
 			"name": "ATARC Field Notes",

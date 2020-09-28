@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical Decision Making Assignment",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Simulation-based learning experience",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Quizzes (throughout semester)",
-			"weight": "25%                                        (MUST PASS)"
+			"weight": 25
 		},
 		{
 			"name": "End of Semester Theory Exam (online)",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		}
 	]
 }

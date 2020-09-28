@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "End of Semester Practical Assessment",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Presentation of clinical case",

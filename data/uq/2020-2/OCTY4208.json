@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Job Interview for Clinical Stream",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Clinical performance in fieldwork experience",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Client report",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		},
 		{
 			"name": "Job application assignment",
-			"weight": "15%                                        (MUST PASS)"
+			"weight": 15
 		}
 	]
 }

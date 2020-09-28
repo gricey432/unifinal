@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Outline of review article",
-			"weight": "0%                                        (100% penalty for fail / non-submission)"
+			"weight": 0
 		},
 		{
 			"name": "Review Article",
-			"weight": "100%                                        (0% if Review Article Plan was failed / not submitted)"
+			"weight": 100
 		},
 		{
 			"name": "Review Article Interview",
-			"weight": "0%                                        (Helps examiners determine Review Article grade.)"
+			"weight": 0
 		}
 	]
 }

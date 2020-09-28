@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Current Global Health Controversies",
-			"weight": "25%                                        [10% oral, 15% written]"
+			"weight": 25
 		},
 		{
 			"name": "Online Quiz",

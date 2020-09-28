@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "35%                                        Topics 1 to 4"
+			"weight": 35
 		},
 		{
 			"name": "Final exam",
-			"weight": "55%                                        All topics (focus on Topics 5 to 10)"
+			"weight": 55
 		}
 	]
 }

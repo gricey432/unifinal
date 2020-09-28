@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "3 Problem Sets",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		},
 		{
 			"name": "Online Quiz 1",

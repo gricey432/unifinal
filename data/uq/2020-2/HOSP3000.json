@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "The impact of COVID-19 on the Gaming Sector",
-			"weight": "50%                                        Individual; 3000 words max."
+			"weight": 50
 		},
 		{
 			"name": "Client Presentation - New Casino Development",
-			"weight": "50%                                        Individual; 15 mins max"
+			"weight": 50
 		}
 	]
 }

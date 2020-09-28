@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "weekly digital archive scavenger hunt",
-			"weight": "10%                                        5 x 2%"
+			"weight": 10
 		},
 		{
 			"name": "Participation and engagement with course",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Archive research essay",
-			"weight": "35%                                        1500-2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Found-footage video essay or standard essay",
-			"weight": "35%                                        2000 words or equiv"
+			"weight": 35
 		}
 	]
 }

@@ -6,23 +6,23 @@
 		},
 		{
 			"name": "Online quizzes",
-			"weight": "10%                                        Non-compulsory"
+			"weight": 10
 		},
 		{
 			"name": "Hospital Modules",
-			"weight": "0%                                        Compulsory Participation"
+			"weight": 0
 		},
 		{
 			"name": "Community Pharmacy Placement",
-			"weight": "10%                                        Compulsory Participation"
+			"weight": 10
 		},
 		{
 			"name": "Written exam",
-			"weight": "60%                                        Hurdle"
+			"weight": 60
 		},
 		{
 			"name": "Oral Consultation Exam",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		}
 	]
 }

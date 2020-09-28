@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Laboratory written report (x 2)",
-			"weight": "20%                                        (2 x 10%)"
+			"weight": 20
 		},
 		{
 			"name": "Weekly reading quizzes (away from class)",

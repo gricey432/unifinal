@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Module 1-3 Activities: Draft of project report",
-			"weight": "9%                                        3% per module"
+			"weight": 9
 		},
 		{
 			"name": "Peer feedback and engagement",
-			"weight": "12%                                        4% per module"
+			"weight": 12
 		},
 		{
 			"name": "Approval of project proposal",
-			"weight": "0%                                        PASS/FAIL"
+			"weight": "Pass/Fail"
 		},
 		{
 			"name": "Project report manuscript",

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Short Writing Assignments",
-			"weight": "10%                                        10 x 100 words"
+			"weight": 10
 		},
 		{
 			"name": "First Short Essay",
-			"weight": "20%                                        750 Words"
+			"weight": 20
 		},
 		{
 			"name": "Second Short Essay",
-			"weight": "30%                                        1000 Words"
+			"weight": 30
 		},
 		{
 			"name": "Long Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Essays (1200 words each)",
-			"weight": "90%                                        best 3 of 4 essays (30% each)"
+			"weight": 90
 		},
 		{
 			"name": "Reflection and tutorial participation",

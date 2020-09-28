@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-Semester Quiz",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Integrated Marketing Communications Plan",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

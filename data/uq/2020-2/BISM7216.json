@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Process Modelling",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Group Process Improvement Project (Team)",
-			"weight": "25%                                        Team"
+			"weight": 25
 		},
 		{
 			"name": "Final Exam",
-			"weight": "55%                                        Individual"
+			"weight": 55
 		}
 	]
 }

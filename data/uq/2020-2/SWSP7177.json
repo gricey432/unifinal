@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Respectful Intercultural communication",
-			"weight": "20%                                        (10 marks per answer)"
+			"weight": 20
 		},
 		{
 			"name": "Simulation, analysis of performance and case note",
-			"weight": "60%                                        (30%-simulation; 10%-casenote; 20% -short answers)"
+			"weight": 60
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Presentation 1",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Interim report DG1",
@@ -14,23 +14,23 @@
 		},
 		{
 			"name": "Group Presentation 2",
-			"weight": "0%                                        Formative, Key Presenter A Roles"
+			"weight": 0
 		},
 		{
 			"name": "Group Presentation 3",
-			"weight": "0%                                        Formative, Key Presenters B,C & D Roles"
+			"weight": 0
 		},
 		{
 			"name": "Interim Report DG2",
-			"weight": "15%                                        Minimum"
+			"weight": 15
 		},
 		{
 			"name": "Final Report Field Development (DG3) Plan",
-			"weight": "50%                                        Minimum, 50% Hurdle"
+			"weight": 50
 		},
 		{
 			"name": "Final presentation",
-			"weight": "15%                                        Compulsory all Team Members"
+			"weight": 15
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Project Plan",
-			"weight": "10%                                        Group"
+			"weight": 10
 		},
 		{
 			"name": "Presentation of Preliminary Findings",
-			"weight": "20%                                        Group; 30 minutes"
+			"weight": 20
 		},
 		{
 			"name": "Presentation of Final Report Findings",
-			"weight": "20%                                        Group; 30 minutes"
+			"weight": 20
 		},
 		{
 			"name": "Final Report",

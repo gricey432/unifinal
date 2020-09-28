@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Key Debates in Palaeoecology",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Fire Management Plan Review",
-			"weight": "30%                                        1250 words"
+			"weight": 30
 		}
 	]
 }

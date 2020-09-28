@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Translating Theory to Practice",
-			"weight": "30%                                        Individual and Group"
+			"weight": 30
 		},
 		{
 			"name": "Recruitment & Selection Strategy",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Entrepreneurial Growth",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

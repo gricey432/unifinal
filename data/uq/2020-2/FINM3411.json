@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Corporate valuation",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Case Study Peer Assessment",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Mid-term exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        Individual; 2 hours"
+			"weight": 50
 		}
 	]
 }

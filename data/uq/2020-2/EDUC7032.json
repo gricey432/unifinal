@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical Essay",
-			"weight": "40%                                        2700 words"
+			"weight": 40
 		},
 		{
 			"name": "Analysis of textbook or news or web materials",
-			"weight": "35%                                        2300 words"
+			"weight": 35
 		},
 		{
 			"name": "Critical Micro Teaching",

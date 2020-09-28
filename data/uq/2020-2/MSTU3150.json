@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Essay",
-			"weight": "60%                                        2500 Words"
+			"weight": 60
 		},
 		{
 			"name": "Evaluative Criticism Paper",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		}
 	]
 }

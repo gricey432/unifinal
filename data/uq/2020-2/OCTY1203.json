@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Weekly Quiz",
-			"weight": "55%                                        (MUST PASS)"
+			"weight": 55
 		},
 		{
 			"name": "Occupational Performance Report",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Developmental Assessment Simulation Case",
-			"weight": "15%                                        (MUST PASS)"
+			"weight": 15
 		}
 	]
 }

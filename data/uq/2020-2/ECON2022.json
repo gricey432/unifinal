@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Pre-Class Reading Quizzes",
-			"weight": "25%                                        (Best 10 of 12)"
+			"weight": 25
 		},
 		{
 			"name": "Problem Set 2 out of 3",

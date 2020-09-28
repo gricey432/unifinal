@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Character Sketch",
-			"weight": "20%                                        500 words; submit via Turnitin"
+			"weight": 20
 		},
 		{
 			"name": "Story Outline",
-			"weight": "20%                                        500 words; submit via Turnitin"
+			"weight": 20
 		},
 		{
 			"name": "A Case Re-imagined",
-			"weight": "45%                                        2500-3000 words; submit via Turnitin"
+			"weight": 45
 		}
 	]
 }

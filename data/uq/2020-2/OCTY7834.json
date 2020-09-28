@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Access Audit Assignment",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Case study of service user",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		}
 	]
 }

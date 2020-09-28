@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assessment 01: Pre-Design & Conceptual Design",
-			"weight": "30%                                        Individual Assignment"
+			"weight": 30
 		},
 		{
 			"name": "Assessment 02: Schematic and Detailed Design",
-			"weight": "70%                                        Individual Assignment"
+			"weight": 70
 		}
 	]
 }

@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "30%                                        1500 Words"
+			"weight": 30
 		},
 		{
 			"name": "Performance Project",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Review Essay",
-			"weight": "15%                                        750 words"
+			"weight": 15
 		}
 	]
 }

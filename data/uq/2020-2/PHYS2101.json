@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Special Relativity problem sheets",
-			"weight": "14%                                        2 x 7% each"
+			"weight": 14
 		},
 		{
 			"name": "Dynamical systems and chaos problem sheets",
-			"weight": "18%                                        3 x 6% each"
+			"weight": 18
 		},
 		{
 			"name": "Lagrangian and Hamiltonian dynamics problem sheets",
-			"weight": "18%                                        3 x 6% each"
+			"weight": 18
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        24% dynamics, 13% chaos, 13% special relativity"
+			"weight": 50
 		}
 	]
 }

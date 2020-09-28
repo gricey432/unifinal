@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Rural Health Project Report",
-			"weight": "30%                                        Weighted Assessment"
+			"weight": 30
 		},
 		{
 			"name": "RRM Case-Based Discussion",
-			"weight": "20%                                        Weighted Assessment"
+			"weight": 20
 		},
 		{
 			"name": "Online MCQ Exam paper - RRM",
-			"weight": "50%                                        Weighted Assessment"
+			"weight": 50
 		}
 	]
 }

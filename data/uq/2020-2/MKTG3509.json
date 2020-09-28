@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critique",
-			"weight": "40%                                        Individual; 2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Conceptual Paper",
-			"weight": "60%                                        Individual; 3000 words"
+			"weight": 60
 		}
 	]
 }

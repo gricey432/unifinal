@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Analyses in tutorial",
-			"weight": "10%                                        Ten analyses worth 1% each"
+			"weight": 10
 		},
 		{
 			"name": "End of Lecture Quizzes",
-			"weight": "60%                                        Best 10 of 11 quizzes worth 6% each"
+			"weight": 60
 		},
 		{
 			"name": "Data collection and submission",
-			"weight": "10%                                        Nine submissions worth 1% each + 1 point"
+			"weight": 10
 		},
 		{
 			"name": "Design & conduct your own research project",

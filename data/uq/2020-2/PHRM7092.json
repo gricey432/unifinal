@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflection on Practice",
-			"weight": "10%                                        Pass/Fail"
+			"weight": "1Pass/Fail"
 		},
 		{
 			"name": "Participation in group discussion",
-			"weight": "18%                                        6% per module"
+			"weight": 18
 		},
 		{
 			"name": "Module Activities",
-			"weight": "12%                                        4% per Module"
+			"weight": 12
 		},
 		{
 			"name": "Design a Clinical Tool for pharmacists",

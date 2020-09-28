@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Financial Modelling Analysis",
-			"weight": "30%                                        Team"
+			"weight": 30
 		},
 		{
 			"name": "Team Project",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Individual Quantitative Modelling",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

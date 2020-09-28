@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online quizzes x 3",
-			"weight": "30%                                        Individual; 3 x 30 mins"
+			"weight": 30
 		},
 		{
 			"name": "Individual Essay",
-			"weight": "40%                                        Individual; 1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Presentation",
-			"weight": "30%                                        Individual; 5-7 mins"
+			"weight": 30
 		}
 	]
 }

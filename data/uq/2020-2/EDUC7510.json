@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reflective learning journal",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Indigenous Education Professional Portfolio",
-			"weight": "70%                                        3000 words"
+			"weight": 70
 		}
 	]
 }

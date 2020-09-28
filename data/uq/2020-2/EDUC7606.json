@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Task 1 - Learning need in a discipline area",
-			"weight": "30%                                        Approx. 2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Task 2 - Adjusted learning activity development",
-			"weight": "30%                                        ~ 4 pages"
+			"weight": 30
 		},
 		{
 			"name": "Task 3 - Case study report: Response to scenario",
-			"weight": "40%                                        ~ 5 pages"
+			"weight": 40
 		}
 	]
 }

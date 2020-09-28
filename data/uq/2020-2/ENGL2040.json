@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Discussion board posts & responses",
-			"weight": "20%                                        1000-1500 words"
+			"weight": 20
 		},
 		{
 			"name": "Close reading exercise",
-			"weight": "30%                                        800 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2000-2500 words"
+			"weight": 50
 		}
 	]
 }

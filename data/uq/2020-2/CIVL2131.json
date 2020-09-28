@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Critical Thinking Questions",
-			"weight": "10%                                        5% each"
+			"weight": 10
 		},
 		{
 			"name": "Two Laboratory experiment reports",
-			"weight": "20%                                        10% each"
+			"weight": 20
 		},
 		{
 			"name": "Two Laboratory experiment quizzes",
-			"weight": "10%                                        5% each"
+			"weight": 10
 		},
 		{
 			"name": "Online mid semester exam",

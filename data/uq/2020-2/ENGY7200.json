@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "REFLECTIVE ESSAY ON SIMULATION",
-			"weight": "30%                                        Hurdle"
+			"weight": 30
 		},
 		{
 			"name": "ORAL EXAMINATION",
-			"weight": "15%                                        Hurdle"
+			"weight": 15
 		},
 		{
 			"name": "COMMERCIAL INNOVATION BUSINESS MODEL",

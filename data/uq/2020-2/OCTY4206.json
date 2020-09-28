@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Student webinar presentation & participation",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Occupational Therapy Competency Standards",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Funding request Assignment",
-			"weight": "25%                                        (MUST PASS)"
+			"weight": 25
 		},
 		{
 			"name": "Viva examination",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Theory Topics & Discussion",
-			"weight": "37%                                        200 marks (out of 540)"
+			"weight": 37
 		},
 		{
 			"name": "Clinical Skills Videos",

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Written assignment",
-			"weight": "50%                                        Individual Assessment;     3000 words"
+			"weight": 50
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "50%                                        Individual assessment"
+			"weight": 50
 		}
 	]
 }

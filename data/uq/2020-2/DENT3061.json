@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Care Planning Case Presentation",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam (quiz)",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Individual Critique",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Analysis of service strategy of a selected firm",
-			"weight": "40%                                        Individual  3500 words"
+			"weight": 40
 		}
 	]
 }

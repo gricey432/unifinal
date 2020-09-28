@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Assumed Knowledge Quiz",
-			"weight": "0%                                        Formative only"
+			"weight": 0
 		}
 	]
 }

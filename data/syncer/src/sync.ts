@@ -13,7 +13,9 @@ if (!institution) {
     throw "Run with one positional arg: institution";
 }
 
-const s3 = new S3Client({});
+const s3 = new S3Client({
+    region: "ap-southeast-2",
+});
 const s3Prefix = "data/";
 const s3Bucket = `unifinal-${institution}`;
 const filePrefix = `../${institution}/`;

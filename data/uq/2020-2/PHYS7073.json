@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - C",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 2 - more on C",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 3 - Numerical integration",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment A: Coupled ODEs",
@@ -18,19 +18,19 @@
 		},
 		{
 			"name": "Assignment 4 - ODEs - 1st order ODEs, Euler method",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 5 - ODEs(II) - Higher order integrators",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 6 - Root finding",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 7 - Boundary value problems",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment B",
@@ -38,15 +38,15 @@
 		},
 		{
 			"name": "Assignment 8 - Partial differential equations (I)",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 9 - Schroedinger equation",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Assignment 10 - PDEs(II) - Finite differences",
-			"weight": "4.4%                                        ie. 1/9 of 40%"
+			"weight": 4.4
 		},
 		{
 			"name": "Final Examination",

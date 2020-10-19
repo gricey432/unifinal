@@ -34,7 +34,6 @@ const scraper: Scraper = {
         const $courseProfilePage = cheerio.load(courseProfilePage.data);
         const assessmentItems: Array<AssessmentItem> = $courseProfilePage('h3:contains("5.1 Assessment Summary")')
             .siblings('table')
-            .first()
             .find('tbody > tr')
             .toArray()
             .map((tr) => {

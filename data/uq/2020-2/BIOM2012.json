@@ -27,6 +27,22 @@
 		{
 			"name": "Quiz 5",
 			"weight": 2
+		},
+		{
+			"name": "Experimental outline & bibliography",
+			"weight": 2.5
+		},
+		{
+			"name": "Hypothesis and Experimental Design",
+			"weight": 7.5
+		},
+		{
+			"name": "Lab Report",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated end of semester exam",
+			"weight": 55
 		}
 	]
 }

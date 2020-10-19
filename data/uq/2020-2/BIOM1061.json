@@ -11,6 +11,18 @@
 		{
 			"name": "Quiz covering Immunology, Inflammation, and Pain",
 			"weight": 5
+		},
+		{
+			"name": "Selected Pathology & Treatment Patient Report",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated End of Semester Exam",
+			"weight": 45
 		}
 	]
 }

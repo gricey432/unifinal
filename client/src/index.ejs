@@ -24,7 +24,7 @@
 	<meta name="application-name" content="<%= appName %>">
 	<meta name="theme-color" content="<%= themeColour %>">
 
-	<link rel="stylesheet" href="/app.css" type="text/css" />
+	<link rel="stylesheet" href="/app.css?_v=<%= cachebust %>" type="text/css" />
     <style>
         .header {
             height: <%= headerHeight %>;
@@ -48,7 +48,7 @@
 		<div><img src="/img/fb.png" class="fb" alt="Facebook" /><a href="https://www.facebook.com/uqfinal/" target="_blank" rel="noopener">Report issues on Facebook</a> | &copy; 2019 <a href="http://gricey.net" target="_blank" rel="noopener">Mitchell Grice</a></div>
 	</footer>
 
-	<script src="/app.js?_v=25"></script>
+	<script src="/app.js?_v=<%= cachebust %>"></script>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 </html>

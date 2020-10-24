@@ -66,7 +66,10 @@ function generateConfig(config: Config) {
 
         plugins: [
             new HtmlWebpackPlugin({
-                templateParameters: config,
+                templateParameters: {
+                    ...config,
+                    cachebust: Date.now(),
+                },
             }),
             new webpack.DefinePlugin(globalConsts),
             new MiniCssExtractPlugin({

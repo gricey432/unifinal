@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reflection on Practice",
-			"weight": "1Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "Participation in group discussion",

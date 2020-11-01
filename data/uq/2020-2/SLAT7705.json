@@ -1,6 +1,10 @@
 {
 	"assessment": [
 		{
+			"name": "Final problem set",
+			"weight": 30
+		},
+		{
 			"name": "Discussion",
 			"weight": 5
 		},
@@ -15,10 +19,6 @@
 		{
 			"name": "Reflective essay",
 			"weight": 15
-		},
-		{
-			"name": "Final problem set",
-			"weight": 30
 		}
 	]
 }

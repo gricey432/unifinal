@@ -11,6 +11,26 @@
 		{
 			"name": "Critical Care End of Semester MCQ Exam",
 			"weight": "Performance Hurdle: Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "ICU Workbook and Engagement Record",
+			"weight": "Performance Hurdle: Students who FAIL one or more workbooks will Fail the course overall"
+		},
+		{
+			"name": "Anaesthetics Workbook and Engagement Record",
+			"weight": "Performance Hurdle: Students who FAIL one or more workbooks will Fail the course overall"
+		},
+		{
+			"name": "Emergency Department Workbook & Engagement Record",
+			"weight": "Performance Hurdle: Students who FAIL one or more workbooks will Fail the course overall"
+		},
+		{
+			"name": "Clinical Participation Assessment - ED",
+			"weight": "Performance Hurdle: Students who FAIL the CPA will fail the course overall"
+		},
+		{
+			"name": "Written assignment",
+			"weight": "Performance Hurdle: Students who FAIL the assignment will Fail the course"
 		}
 	]
 }

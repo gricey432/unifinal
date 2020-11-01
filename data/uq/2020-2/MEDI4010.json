@@ -7,6 +7,46 @@
 		{
 			"name": "Clinical reasoning MCQ Part A Obstetrics",
 			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical reasoning MCQ Part B Gynaecology",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "MCQ Exam Part B - Gynaecology",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Completion of normal birth simulation video & quiz",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment - Obstetrics",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Workplace-based assessment (WBA) - Obstetrics",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks"
+		},
+		{
+			"name": "Case-based discussion (Obstetrics)",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Case-based discussion (Gynaecology)",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment - Gynaecology",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Workplace-based Assessment (WBA) - Gynaecology",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks"
 		}
 	]
 }

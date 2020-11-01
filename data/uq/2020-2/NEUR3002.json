@@ -11,6 +11,14 @@
 		{
 			"name": "Practical Lab Report",
 			"weight": 10
+		},
+		{
+			"name": "Invigilated Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated Theory Exam",
+			"weight": 50
 		}
 	]
 }

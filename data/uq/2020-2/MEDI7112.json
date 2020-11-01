@@ -7,6 +7,22 @@
 		{
 			"name": "CBL Participation Assessment - summative",
 			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Weekly online quizzes - formative",
+			"weight": 0
+		},
+		{
+			"name": "Mid-semester examination (MCQ)",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam  paper I (MCQ)",
+			"weight": 50
+		},
+		{
+			"name": "ESE paper II multidisciplinary image-based exam",
+			"weight": 25
 		}
 	]
 }

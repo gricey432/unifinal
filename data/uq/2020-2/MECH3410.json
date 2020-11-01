@@ -2,11 +2,31 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Online Quiz",
-			"weight": "max 20% (min 0%)"
+			"weight": "max 20%"
 		},
 		{
 			"name": "Final Summative Assignment (in exam period)",
-			"weight": "min 40% (max 60%)"
+			"weight": "min 40%"
+		},
+		{
+			"name": "Weekly Tutorial Questions",
+			"weight": 10
+		},
+		{
+			"name": "Exp 1 (Pipe Flow)",
+			"weight": 10
+		},
+		{
+			"name": "Exp 2 (Aerofoil)",
+			"weight": 10
+		},
+		{
+			"name": "Exp 3 (Shock Tube)",
+			"weight": 5
+		},
+		{
+			"name": "Exp 4 (Turbomachinery)",
+			"weight": 5
 		}
 	]
 }

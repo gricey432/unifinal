@@ -15,6 +15,10 @@
 		{
 			"name": "Assessing, Reporting and Evaluating",
 			"weight": 35
+		},
+		{
+			"name": "UniPE Secondary Teaching Performance",
+			"weight": "Pass/Fail"
 		}
 	]
 }

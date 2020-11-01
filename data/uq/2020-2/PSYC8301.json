@@ -31,6 +31,38 @@
 		{
 			"name": "T1 Form",
 			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Log",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Video",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Mid-Semester Checklist",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Mid-Semester and End Semester Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "MSAT",
+			"weight": "Contact the Course Coordinator directly."
+		},
+		{
+			"name": "T1 Checklest",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

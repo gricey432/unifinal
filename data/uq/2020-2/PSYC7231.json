@@ -19,6 +19,22 @@
 		{
 			"name": "Written Research Proposal",
 			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator directly."
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Clinical Examination (Role Play)",
+			"weight": "Contact the Course Coordinator directly."
 		}
 	]
 }

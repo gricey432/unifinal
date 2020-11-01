@@ -3,6 +3,30 @@
 		{
 			"name": "Interview with simulated patient",
 			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Clinical Coaching Video Examination (CCVE)",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Formative Clinical Coaching Examinations (CCE)",
+			"weight": "Formative"
+		},
+		{
+			"name": "Care of the Deteriorating Patient OLA A and OLA B",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Formative CPA",
+			"weight": "Formative"
+		},
+		{
+			"name": "Summative CPA",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Nutrition masterclass OLA",
+			"weight": "Performance hurdle"
 		}
 	]
 }

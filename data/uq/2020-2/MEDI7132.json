@@ -7,6 +7,14 @@
 		{
 			"name": "CBL Participation - formative",
 			"weight": "Formative"
+		},
+		{
+			"name": "Pandemic Ethics Group Assignment",
+			"weight": 40
+		},
+		{
+			"name": "End-Of-Semester Exam",
+			"weight": 60
 		}
 	]
 }

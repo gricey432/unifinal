@@ -3,6 +3,30 @@
 		{
 			"name": "End-of-semester exam",
 			"weight": 52
+		},
+		{
+			"name": "One",
+			"weight": 6
+		},
+		{
+			"name": "Two",
+			"weight": 9
+		},
+		{
+			"name": "Three",
+			"weight": 9
+		},
+		{
+			"name": "Four",
+			"weight": 8
+		},
+		{
+			"name": "Five",
+			"weight": 8
+		},
+		{
+			"name": "Six",
+			"weight": 8
 		}
 	]
 }

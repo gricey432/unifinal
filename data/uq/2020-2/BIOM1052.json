@@ -15,6 +15,18 @@
 		{
 			"name": "Meta-learning task 4",
 			"weight": 3
+		},
+		{
+			"name": "System Integration Essay",
+			"weight": 18
+		},
+		{
+			"name": "Invigilated Mid-Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 50
 		}
 	]
 }

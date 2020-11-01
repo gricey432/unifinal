@@ -7,6 +7,18 @@
 		{
 			"name": "Assessment Component (2) for Research Projects",
 			"weight": 70
+		},
+		{
+			"name": "Internship Component 2",
+			"weight": 30
+		},
+		{
+			"name": "Internship Component 1",
+			"weight": 30
+		},
+		{
+			"name": "Internship Component 3",
+			"weight": 40
 		}
 	]
 }

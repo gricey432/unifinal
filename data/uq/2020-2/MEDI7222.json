@@ -7,6 +7,18 @@
 		{
 			"name": "Clinical History and Examination Assessment",
 			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Peripheral Intravenous Cannulation OLA",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment: Summative",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment: Formative",
+			"weight": "Compliance Hurdle"
 		}
 	]
 }

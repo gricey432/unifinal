@@ -7,6 +7,34 @@
 		{
 			"name": "Orthopaedics MCQ Exam",
 			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Ophthalmology Assessment of Clinical Competency",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Orthopaedics Tutorial Series",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Ophthalmology Tutorial Session",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance Hurdle"
 		}
 	]
 }

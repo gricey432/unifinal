@@ -15,6 +15,10 @@
 		{
 			"name": "Individual Project Implementation",
 			"weight": 35
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
 		}
 	]
 }

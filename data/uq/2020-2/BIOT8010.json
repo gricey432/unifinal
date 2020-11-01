@@ -3,6 +3,34 @@
 		{
 			"name": "Reflection on industry workshop",
 			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Portfolio option A part 1",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio option A part 2",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio option B part 1",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio option B part 2",
+			"weight": 30
+		},
+		{
+			"name": "Poster preparation",
+			"weight": 10
+		},
+		{
+			"name": "Oral presentation of poster",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio part 3 (Observational Log)",
+			"weight": 20
 		}
 	]
 }

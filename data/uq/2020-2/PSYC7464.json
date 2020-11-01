@@ -11,6 +11,22 @@
 		{
 			"name": "Change and Development Project Proposal",
 			"weight": 45
+		},
+		{
+			"name": "Type of Assignment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Reflection",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Project",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

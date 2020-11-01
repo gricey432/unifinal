@@ -1,6 +1,10 @@
 {
 	"assessment": [
 		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		},
+		{
 			"name": "MasteringPhysics Online Exercises",
 			"weight": 10
 		},
@@ -15,10 +19,6 @@
 		{
 			"name": "Laboratory Assignment",
 			"weight": 15
-		},
-		{
-			"name": "Online Laboratory Participation",
-			"weight": "Hurdle"
 		},
 		{
 			"name": "Final examination",

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1. Reflective Workplace Journals",
+			"weight": 40
+		},
+		{
+			"name": "A2 Review and Reflection of Supervisors Response",
+			"weight": 20
+		},
+		{
+			"name": "A3. Professional Poster Presentation",
+			"weight": 40
+		}
+	]
+}

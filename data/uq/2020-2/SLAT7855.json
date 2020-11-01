@@ -1,6 +1,10 @@
 {
 	"assessment": [
 		{
+			"name": "Final Assignment",
+			"weight": 25
+		},
+		{
 			"name": "Basic concept quiz (1)",
 			"weight": 25
 		},
@@ -14,10 +18,6 @@
 		},
 		{
 			"name": "Basic concept quiz(2)",
-			"weight": 25
-		},
-		{
-			"name": "Data analysis and write up",
 			"weight": 25
 		}
 	]

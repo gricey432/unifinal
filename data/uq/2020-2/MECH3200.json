@@ -3,6 +3,26 @@
 		{
 			"name": "Online Tutorial Problems",
 			"weight": 10
+		},
+		{
+			"name": "Formal Report (1) & Logbook entries (3)",
+			"weight": 10
+		},
+		{
+			"name": "Group Consulting Project",
+			"weight": 20
+		},
+		{
+			"name": "Quiz on Part A",
+			"weight": "max 7.5%"
+		},
+		{
+			"name": "Quiz on Part B",
+			"weight": "max 7.5%"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "min 45%"
 		}
 	]
 }

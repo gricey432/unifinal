@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Quiz 1",
-			"weight": "1Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "Quiz 2",
-			"weight": "1Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "ACT Case Conceptualization/Formulation Report",
@@ -15,6 +15,22 @@
 		{
 			"name": "ACT Competencies Assessment",
 			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Clinical Examination",
+			"weight": "Contact the Course Coordinator directly."
 		}
 	]
 }

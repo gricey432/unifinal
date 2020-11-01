@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Clinical Skills Videos",
-			"weight": "16.7%                                        90 marks (out of 540)"
+			"weight": 16.7
 		},
 		{
 			"name": "Skills Video Commenting",
-			"weight": "18.5%                                        100 marks (out of 540)"
+			"weight": 18.5
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "27.8%                                        150 marks (out of 540)"
+			"weight": 27.8
 		}
 	]
 }

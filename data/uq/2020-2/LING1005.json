@@ -1,6 +1,10 @@
 {
 	"assessment": [
 		{
+			"name": "Take home exam due examination period",
+			"weight": 30
+		},
+		{
 			"name": "Online study exercises",
 			"weight": 10
 		},
@@ -10,10 +14,6 @@
 		},
 		{
 			"name": "Test on weeks 5-8",
-			"weight": 30
-		},
-		{
-			"name": "Take home exam on weeks 9-12",
 			"weight": 30
 		}
 	]

@@ -7,6 +7,10 @@
 		{
 			"name": "Art Exhibition",
 			"weight": "Hurdle"
+		},
+		{
+			"name": "Thesis",
+			"weight": 100
 		}
 	]
 }

@@ -11,6 +11,18 @@
 		{
 			"name": "Summative Portfolio Review",
 			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Contributes to Mid-year and Summative Portfolio Review"
+		},
+		{
+			"name": "Mini-Clinical Evaluation Exercise (Mini-CEX)",
+			"weight": "Submit prescribed number for the year to avoid showing insufficient progress in WLP"
+		},
+		{
+			"name": "Direct Observation of Procedural Skills (DOPS)",
+			"weight": "Submit prescribed number for the year to avoid showing insufficient progress in WLP"
 		}
 	]
 }

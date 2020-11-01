@@ -7,6 +7,34 @@
 		{
 			"name": "Peer Feedback on Group Contributions",
 			"weight": 0
+		},
+		{
+			"name": "What does it mean to be a great pharmacist?",
+			"weight": 10
+		},
+		{
+			"name": "Interprof. Communication:  (Video Analysis)",
+			"weight": 11
+		},
+		{
+			"name": "Response to Article",
+			"weight": 25
+		},
+		{
+			"name": "Reflecting on experience of educational visit",
+			"weight": 25
+		},
+		{
+			"name": "Individual contributions green discussion boards",
+			"weight": 9
+		},
+		{
+			"name": "Modules 1-3 orange blogs",
+			"weight": 12
+		},
+		{
+			"name": "Interprof. Communication: Online workshop",
+			"weight": 0
 		}
 	]
 }

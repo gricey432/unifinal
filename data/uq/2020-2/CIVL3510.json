@@ -3,6 +3,14 @@
 		{
 			"name": "Workshop Problem Sets",
 			"weight": 10
+		},
+		{
+			"name": "Communication technologies with BIM",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 70
 		}
 	]
 }

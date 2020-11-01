@@ -11,6 +11,18 @@
 		{
 			"name": "Critical review of AOD resources",
 			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay and Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

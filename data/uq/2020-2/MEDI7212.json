@@ -7,6 +7,26 @@
 		{
 			"name": "CBL Participation Assessment-SUMMATIVE",
 			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Weekly online quizzes-formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "End of Semester Exam (ESE) Paper I",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam (ESE) Paper II - Integrated",
+			"weight": 45
+		},
+		{
+			"name": "Systematic Review - Synthesis and Discussion",
+			"weight": 25
+		},
+		{
+			"name": "Translational Task Oral Presentation",
+			"weight": 5
 		}
 	]
 }

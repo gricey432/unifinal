@@ -11,6 +11,26 @@
 		{
 			"name": "Online Quiz 3 Vision",
 			"weight": 5
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 2",
+			"weight": 3
+		},
+		{
+			"name": "Meta-Learning 3",
+			"weight": 3
+		},
+		{
+			"name": "Online Blackboard Mid-semester theory exam",
+			"weight": 17
+		},
+		{
+			"name": "Invigilated Online Theory exam",
+			"weight": 59
 		}
 	]
 }

@@ -7,6 +7,22 @@
 		{
 			"name": "Open-book Online at home Quiz #2 - via Blackboard",
 			"weight": 12
+		},
+		{
+			"name": "Data Analysis #1",
+			"weight": 15
+		},
+		{
+			"name": "Data Analysis #2",
+			"weight": 15
+		},
+		{
+			"name": "Closed-book Online Invigilated",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory exam - Online Invigilated",
+			"weight": 30
 		}
 	]
 }

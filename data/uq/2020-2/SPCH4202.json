@@ -3,6 +3,14 @@
 		{
 			"name": "Community Education Project - 3 stages",
 			"weight": 50
+		},
+		{
+			"name": "Blackboard Discussion Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Transition to Prof Practice Video Assignment",
+			"weight": 30
 		}
 	]
 }

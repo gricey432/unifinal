@@ -31,6 +31,26 @@
 		{
 			"name": "Online Quiz 4 (on Weeks 10-12 content)",
 			"weight": 6
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lecture Participation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Assessment",
+			"weight": "Contact Course Coordinator"
 		}
 	]
 }

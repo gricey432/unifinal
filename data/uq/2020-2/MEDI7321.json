@@ -15,6 +15,42 @@
 		{
 			"name": "Clinical Case Presentation and Discussion",
 			"weight": "9 of 24 assessment criteria"
+		},
+		{
+			"name": "Understanding the Person Discussion",
+			"weight": "6 of 24 criteria"
+		},
+		{
+			"name": "MiS Weekly Quiz",
+			"weight": "Compliance Hurdle:Students must meet the requirements to pass the course"
+		},
+		{
+			"name": "Medicine in Society Tutorials",
+			"weight": "Performance Hurdle: Satisfactory participation is required to pass"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance Hurdle:Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Weekly online interactive clinical case completion",
+			"weight": "Compliance Hurdle:Students must meet the requirements to pass the course"
+		},
+		{
+			"name": "Conduct & Professionalism in Learning Environments",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Response to clinical scenario and discussion",
+			"weight": "3 out of 24 criteria"
+		},
+		{
+			"name": "Clinical Topic Presentation Discussion",
+			"weight": "6 out of 24 criteria"
+		},
+		{
+			"name": "Mini-Clinical Conferences",
+			"weight": "Performance Hurdle: Satisfactory participation is required to pass"
 		}
 	]
 }

@@ -7,6 +7,14 @@
 		{
 			"name": "Research Paper",
 			"weight": 20
+		},
+		{
+			"name": "Design Report",
+			"weight": 30
+		},
+		{
+			"name": "Website Implementation",
+			"weight": 40
 		}
 	]
 }

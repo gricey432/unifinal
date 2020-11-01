@@ -3,6 +3,22 @@
 		{
 			"name": "In-class Participation",
 			"weight": 10
+		},
+		{
+			"name": "Writing Exercises Weeks 1, 2, 4, 6, 9, 10",
+			"weight": 25
+		},
+		{
+			"name": "In-class presentation",
+			"weight": 15
+		},
+		{
+			"name": "Essay Outline",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay",
+			"weight": 45
 		}
 	]
 }

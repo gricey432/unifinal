@@ -15,6 +15,22 @@
 		{
 			"name": "Final exam",
 			"weight": 45
+		},
+		{
+			"name": "In-Class Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Motor Active peformance",
+			"weight": 25
+		},
+		{
+			"name": "In Class Quiz #2",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
 		}
 	]
 }

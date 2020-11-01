@@ -15,6 +15,26 @@
 		{
 			"name": "Research Results and Discussion",
 			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Ripple Study Questions",
+			"weight": "NA"
+		},
+		{
+			"name": "Video Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Scientific Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

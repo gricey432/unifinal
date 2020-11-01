@@ -11,6 +11,14 @@
 		{
 			"name": "Selection Process",
 			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Literature review, Report and Essay",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
 		}
 	]
 }

@@ -15,6 +15,18 @@
 		{
 			"name": "Individual Problem Set - 2",
 			"weight": 20
+		},
+		{
+			"name": "Potential Flow and Panel Methods",
+			"weight": 10
+		},
+		{
+			"name": "Design, Analyse, Build and Test: Aerofoil",
+			"weight": 35
+		},
+		{
+			"name": "Simulate Supersonic Flow",
+			"weight": 20
 		}
 	]
 }

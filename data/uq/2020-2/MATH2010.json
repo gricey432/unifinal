@@ -3,6 +3,18 @@
 		{
 			"name": "End-of-semester exam",
 			"weight": 52
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 18
 		}
 	]
 }

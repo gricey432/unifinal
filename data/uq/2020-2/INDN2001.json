@@ -3,6 +3,10 @@
 		{
 			"name": "Research presentation",
 			"weight": 60
+		},
+		{
+			"name": "Reflection on Warung Sinema, textbook and pojok",
+			"weight": 40
 		}
 	]
 }

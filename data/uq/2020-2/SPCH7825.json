@@ -3,6 +3,18 @@
 		{
 			"name": "Acquired aphasia exam",
 			"weight": 50
+		},
+		{
+			"name": "Cognitive-Communication Disorders Exam",
+			"weight": 50
+		},
+		{
+			"name": "Fluency Simulation Clinic",
+			"weight": "Pass/Fail (must pass)"
+		},
+		{
+			"name": "Clinical practice evaluation",
+			"weight": "Pass/Fail (must pass)"
 		}
 	]
 }

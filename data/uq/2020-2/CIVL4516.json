@@ -7,6 +7,30 @@
 		{
 			"name": "Phase 1 Methodology & Scoping Study",
 			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Phase 2 Hydraulics and Civil Design",
+			"weight": 40
+		},
+		{
+			"name": "Pitch to private investors and govt agencies",
+			"weight": 10
+		},
+		{
+			"name": "Phase 2 Hydraulics and Civil Design",
+			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Phase 3 Environmental Design",
+			"weight": 30
+		},
+		{
+			"name": "Phase 3 Environmental Design",
+			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Electronic logbook",
+			"weight": 0
 		}
 	]
 }

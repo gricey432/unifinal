@@ -7,6 +7,14 @@
 		{
 			"name": "Regulation of ileal smooth muscle activity",
 			"weight": 20
+		},
+		{
+			"name": "Invigilated Mid-Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated End of Semester Theory Examination",
+			"weight": 50
 		}
 	]
 }

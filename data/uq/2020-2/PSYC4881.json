@@ -11,6 +11,18 @@
 		{
 			"name": "Chapter Proposal",
 			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coodinator"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

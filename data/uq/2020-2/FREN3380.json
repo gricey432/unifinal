@@ -1,6 +1,10 @@
 {
 	"assessment": [
 		{
+			"name": "Take home exam : critical commentary. Maryse Condé",
+			"weight": 20
+		},
+		{
 			"name": "Online Reading Quizzes",
 			"weight": 10
 		},
@@ -18,10 +22,6 @@
 		},
 		{
 			"name": "Commentary: Sebbar",
-			"weight": 20
-		},
-		{
-			"name": "Take home exam : critical commentary. Maryse Condé",
 			"weight": 20
 		},
 		{

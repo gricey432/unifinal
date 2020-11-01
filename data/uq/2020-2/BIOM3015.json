@@ -7,6 +7,30 @@
 		{
 			"name": "Participation",
 			"weight": 2
+		},
+		{
+			"name": "Patient diagnosis - Metabolism",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Cancer",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Cardiovascular",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Renal",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Neurology",
+			"weight": 5
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 50
 		}
 	]
 }

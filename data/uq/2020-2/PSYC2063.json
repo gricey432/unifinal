@@ -15,6 +15,26 @@
 		{
 			"name": "Design & conduct your own research project",
 			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lab Data Collection and Submission",
+			"weight": "See blackboard page for tutor contact details"
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": "See blackboard page for tutor contact details."
+		},
+		{
+			"name": "Project Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

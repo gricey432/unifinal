@@ -27,6 +27,10 @@
 		{
 			"name": "NPS Online Modules",
 			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Standardised Clinical Examination Revised COVID19",
+			"weight": "Performance Hurdle"
 		}
 	]
 }

@@ -3,6 +3,26 @@
 		{
 			"name": "Tutorial Preparation and Participation",
 			"weight": 10
+		},
+		{
+			"name": "Close-Reading Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Take-home writing exercise",
+			"weight": 15
+		},
+		{
+			"name": "Creative Writing Response",
+			"weight": 15
+		},
+		{
+			"name": "Research essay",
+			"weight": 30
+		},
+		{
+			"name": "Research essay plan",
+			"weight": 5
 		}
 	]
 }

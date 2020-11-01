@@ -19,6 +19,22 @@
 		{
 			"name": "Paper on a grief, trauma or resilience topic",
 			"weight": 35
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation and Session Chair",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Peer Assessments",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

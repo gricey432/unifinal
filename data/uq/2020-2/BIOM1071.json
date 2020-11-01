@@ -15,6 +15,14 @@
 		{
 			"name": "Quiz 4 - Modules 4 & 5",
 			"weight": 6
+		},
+		{
+			"name": "Invigilated Online Mid-Semester Theory Exam",
+			"weight": 26
+		},
+		{
+			"name": "Invigilated Online EOS Theory Exam",
+			"weight": 50
 		}
 	]
 }

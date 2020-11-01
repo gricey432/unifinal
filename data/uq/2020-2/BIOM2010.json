@@ -19,6 +19,14 @@
 		{
 			"name": "Meta-learning 5 / Guided revision 5",
 			"weight": 3
+		},
+		{
+			"name": "Invigilated Mid Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Invigilated End of Semester Theory exam",
+			"weight": 50
 		}
 	]
 }

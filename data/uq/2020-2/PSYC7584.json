@@ -3,6 +3,14 @@
 		{
 			"name": "Literature Review",
 			"weight": 100
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Literature Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

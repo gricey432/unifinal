@@ -7,6 +7,10 @@
 		{
 			"name": "Online non-invigilated Final Examination",
 			"weight": 50
+		},
+		{
+			"name": "Revenue Recognition",
+			"weight": 20
 		}
 	]
 }

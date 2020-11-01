@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Assignment One",
-			"weight": "33.3% of overall assignment mark"
+			"weight": 33.3
 		},
 		{
 			"name": "Quiz 2 (Weeks 1-8)",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Assignment Two",
-			"weight": "33.3% of overall assignment mark"
+			"weight": 33.3
 		},
 		{
 			"name": "Assignment Three",
-			"weight": "33.3% of overall assignment mark"
+			"weight": 33.3
 		},
 		{
 			"name": "Final exam",

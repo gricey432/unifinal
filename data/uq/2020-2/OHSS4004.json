@@ -11,6 +11,18 @@
 		{
 			"name": "Poster Presentation",
 			"weight": 15
+		},
+		{
+			"name": "OHS Initiative - Part C [Presentation]",
+			"weight": 20
+		},
+		{
+			"name": "OHS Initiative - Part B [Project Plan]",
+			"weight": 30
+		},
+		{
+			"name": "OHS Initiative - Part A [Business Case]",
+			"weight": 10
 		}
 	]
 }

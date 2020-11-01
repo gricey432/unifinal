@@ -11,6 +11,22 @@
 		{
 			"name": "Final Exam",
 			"weight": 50
+		},
+		{
+			"name": "Prac quiz 1: Deposits and fossils",
+			"weight": 5
+		},
+		{
+			"name": "Practical quiz 2: Invertebrates",
+			"weight": 5
+		},
+		{
+			"name": "Dinmore fossil site reconstruction",
+			"weight": 5
+		},
+		{
+			"name": "Megafauna practical",
+			"weight": 5
 		}
 	]
 }

@@ -11,6 +11,10 @@
 		{
 			"name": "Dynamical systems and chaos problem sheets",
 			"weight": 18
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
 		}
 	]
 }

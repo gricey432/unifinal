@@ -11,6 +11,22 @@
 		{
 			"name": "Online Quiz",
 			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Participation",
+			"weight": "See blackboard page for tutor or course coordinator contact details"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

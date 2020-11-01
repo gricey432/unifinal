@@ -19,6 +19,22 @@
 		{
 			"name": "Mid-Point and Final Review",
 			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Professional Development Log Books",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Work-based assessment",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Field Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

@@ -3,6 +3,18 @@
 		{
 			"name": "Clinical Participation Assessment",
 			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Urban LInCC Learning Journal",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Patient experience Assignment",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "History taking Mini-CEX",
+			"weight": "Compliance Hurdle"
 		}
 	]
 }

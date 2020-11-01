@@ -3,6 +3,14 @@
 		{
 			"name": "Neuroimaging Task",
 			"weight": 20
+		},
+		{
+			"name": "Online Invigilated Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Online Invigilated End-of-Semester Theory Exam",
+			"weight": 50
 		}
 	]
 }

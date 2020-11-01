@@ -15,6 +15,26 @@
 		{
 			"name": "Change the World Final Video",
 			"weight": 13
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Discussion",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Video",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

@@ -23,6 +23,26 @@
 		{
 			"name": "Summative Quiz",
 			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
 		}
 	]
 }

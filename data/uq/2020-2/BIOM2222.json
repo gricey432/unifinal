@@ -15,6 +15,38 @@
 		{
 			"name": "MB-Advanced techniques - Oral examination",
 			"weight": 20
+		},
+		{
+			"name": "CB- Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Cell Biology quiz",
+			"weight": 5
+		},
+		{
+			"name": "Cell Biology Lab Book",
+			"weight": 4
+		},
+		{
+			"name": "CB- Advanced techniques - Lab report",
+			"weight": 20
+		},
+		{
+			"name": "Biochem- Advanced techniques - practical skills",
+			"weight": 5
+		},
+		{
+			"name": "Biochemistry quiz",
+			"weight": 5
+		},
+		{
+			"name": "Biochemistry Lab Book",
+			"weight": 3
+		},
+		{
+			"name": "Biochem- Advanced techniques - Lab report",
+			"weight": 20
 		}
 	]
 }

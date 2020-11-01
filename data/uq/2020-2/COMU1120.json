@@ -3,6 +3,18 @@
 		{
 			"name": "Understanding key concepts",
 			"weight": 20
+		},
+		{
+			"name": "Media research journal",
+			"weight": 10
+		},
+		{
+			"name": "Audio script",
+			"weight": 30
+		},
+		{
+			"name": "Representation & power",
+			"weight": 40
 		}
 	]
 }

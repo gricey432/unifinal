@@ -31,6 +31,22 @@
 		{
 			"name": "ABL Reflections and Application",
 			"weight": 10
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentations",
+			"weight": "Contact the Course Coordinator directly."
+		},
+		{
+			"name": "Program Proposal, Reflection and Resource File",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact the Course Coordinator directly."
 		}
 	]
 }

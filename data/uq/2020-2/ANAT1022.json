@@ -7,6 +7,22 @@
 		{
 			"name": "Quiz 2",
 			"weight": 7.5
+		},
+		{
+			"name": "Online Mid Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Invigilated Online End of Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Invigilated Online End of Semester Practical Exam",
+			"weight": 20
 		}
 	]
 }

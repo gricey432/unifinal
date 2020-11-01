@@ -9,8 +9,16 @@
 			"weight": 10
 		},
 		{
+			"name": "Written Test",
+			"weight": 30
+		},
+		{
 			"name": "Final Draft",
 			"weight": 25
+		},
+		{
+			"name": "Worksheets",
+			"weight": 30
 		}
 	]
 }

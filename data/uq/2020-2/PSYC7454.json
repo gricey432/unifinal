@@ -11,6 +11,22 @@
 		{
 			"name": "Report on Solution to an Applied Org Problem",
 			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Discussion Forum",
+			"weight": "Contact the Course Coordinator."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

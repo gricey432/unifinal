@@ -3,6 +3,22 @@
 		{
 			"name": "A1 : Active Participation",
 			"weight": "Pass/Fail for the course"
+		},
+		{
+			"name": "A2 : Domain Research",
+			"weight": 20
+		},
+		{
+			"name": "A3 : Concept Proposal",
+			"weight": 15
+		},
+		{
+			"name": "A4 : Design Prototype",
+			"weight": 40
+		},
+		{
+			"name": "A5 : Critical Reflection",
+			"weight": 25
 		}
 	]
 }

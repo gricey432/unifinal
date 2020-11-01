@@ -15,6 +15,18 @@
 		{
 			"name": "A2. Final Exhibit (Deliverables 6 & 7)",
 			"weight": "x3"
+		},
+		{
+			"name": "A1. Documentation & Reflection",
+			"weight": "x1"
+		},
+		{
+			"name": "A3. Portfolio",
+			"weight": "x1"
+		},
+		{
+			"name": "A4. Critical Reflection",
+			"weight": "x1"
 		}
 	]
 }

@@ -11,6 +11,22 @@
 		{
 			"name": "Essay",
 			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Participation",
+			"weight": "Extension applications are not applicable for this assessment item – please contact the Course Coordinator directly."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Extension applications are not applicable for this assessment item – please contact the Course Coordinator directly."
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

@@ -7,6 +7,18 @@
 		{
 			"name": "Individual Research Project Essay",
 			"weight": 70
+		},
+		{
+			"name": "Secondment Portfolio",
+			"weight": "Between 30%"
+		},
+		{
+			"name": "Secondment Log book",
+			"weight": "Between 30%"
+		},
+		{
+			"name": "Secondment Company Report",
+			"weight": 20
 		}
 	]
 }

@@ -11,6 +11,22 @@
 		{
 			"name": "Practical Assignment 3",
 			"weight": 15
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Invigilated Online End of Semester Theory Exam",
+			"weight": 40
 		}
 	]
 }

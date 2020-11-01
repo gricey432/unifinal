@@ -1,20 +1,20 @@
 {
 	"assessment": [
 		{
-			"name": "Creative Production Projects",
-			"weight": 30
+			"name": "Major Creative Project & Presentation",
+			"weight": 45
 		},
 		{
 			"name": "Online Quizzes",
 			"weight": 15
 		},
 		{
-			"name": "Major Project Draft",
-			"weight": 10
+			"name": "Creative Production Projects",
+			"weight": 30
 		},
 		{
-			"name": "Major Creative Project & Presentation",
-			"weight": 45
+			"name": "Major Project Draft",
+			"weight": 10
 		}
 	]
 }

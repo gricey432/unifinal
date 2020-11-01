@@ -15,6 +15,26 @@
 		{
 			"name": "Public Speaking Presentation",
 			"weight": 10
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Speech",
+			"weight": "See blackboard page for tutor or course coordinator contact details"
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": "NA"
 		}
 	]
 }

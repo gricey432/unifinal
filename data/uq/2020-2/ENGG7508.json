@@ -10,19 +10,19 @@
 		},
 		{
 			"name": "Interim report DG1",
-			"weight": "12.5%                                        Minimum"
+			"weight": 12.5
 		},
 		{
 			"name": "Group Presentation 2",
 			"weight": 0
 		},
 		{
-			"name": "Group Presentation 3",
-			"weight": 0
-		},
-		{
 			"name": "Interim Report DG2",
 			"weight": 15
+		},
+		{
+			"name": "Group Presentation 3",
+			"weight": 0
 		},
 		{
 			"name": "Final Report Field Development (DG3) Plan",
@@ -31,6 +31,14 @@
 		{
 			"name": "Final presentation",
 			"weight": 15
+		},
+		{
+			"name": "Capacity",
+			"weight": "3 – Good"
+		},
+		{
+			"name": "Manage your work and that of your team, through scoping, planning, communication, decision making and time management, within a large team project.",
+			"weight": "Attends all meetings with substantial participation. All team deadlines are met. Clear contributions are made to team and design decisions. Any problems are communicated clearly and promptly to team. If the majority of the team performs at this level, things go smoothly and they produce good work."
 		}
 	]
 }

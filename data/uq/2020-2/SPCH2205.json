@@ -3,6 +3,10 @@
 		{
 			"name": "Acquired Aphasia Exam - Take Home Exam",
 			"weight": 50
+		},
+		{
+			"name": "SPCH2205 Cognitive Communication Disorders Exam",
+			"weight": 50
 		}
 	]
 }

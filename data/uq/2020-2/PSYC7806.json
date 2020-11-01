@@ -15,6 +15,22 @@
 		{
 			"name": "Creative Piece of Work for Assessment/Intervention",
 			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Design",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reports",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

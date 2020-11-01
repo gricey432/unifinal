@@ -3,6 +3,42 @@
 		{
 			"name": "Participation in PASS classes",
 			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report 3",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Mastering A&P Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Invigilated Blackboard Mid-semester theory exam",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated Online End of Semester theory exam",
+			"weight": 40
 		}
 	]
 }

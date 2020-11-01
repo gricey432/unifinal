@@ -19,6 +19,18 @@
 		{
 			"name": "Aural Dictation Test",
 			"weight": 12.5
+		},
+		{
+			"name": "Written Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment 3",
+			"weight": 20
 		}
 	]
 }

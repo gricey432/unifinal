@@ -7,6 +7,14 @@
 		{
 			"name": "Performance Nutrition Plan",
 			"weight": 40
+		},
+		{
+			"name": "Athlete self-monitoring log",
+			"weight": 25
+		},
+		{
+			"name": "Competition Recovery Program",
+			"weight": 25
 		}
 	]
 }

@@ -19,6 +19,14 @@
 		{
 			"name": "Assignment 5",
 			"weight": 3
+		},
+		{
+			"name": "Online quiz",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
 		}
 	]
 }

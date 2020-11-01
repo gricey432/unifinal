@@ -11,6 +11,14 @@
 		{
 			"name": "Quiz 3",
 			"weight": 7.5
+		},
+		{
+			"name": "Invigilated Online Mid Semester Theory exam",
+			"weight": 35
+		},
+		{
+			"name": "Invigilated Online End of Semester Theory exam",
+			"weight": 50
 		}
 	]
 }

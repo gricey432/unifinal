@@ -7,6 +7,26 @@
 		{
 			"name": "Take Home EOS Exam",
 			"weight": 30
+		},
+		{
+			"name": "Part A",
+			"weight": 10
+		},
+		{
+			"name": "Part B",
+			"weight": 10
+		},
+		{
+			"name": "Part C",
+			"weight": 10
+		},
+		{
+			"name": "Part D",
+			"weight": 15
+		},
+		{
+			"name": "Part E",
+			"weight": 20
 		}
 	]
 }

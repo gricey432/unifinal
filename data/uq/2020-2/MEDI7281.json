@@ -15,6 +15,10 @@
 		{
 			"name": "Oral Presentation",
 			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Supervisor feedback report",
+			"weight": "Performance hurdle"
 		}
 	]
 }

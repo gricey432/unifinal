@@ -11,6 +11,14 @@
 		{
 			"name": "Major Project Part C: Final Delivery & Report",
 			"weight": 30
+		},
+		{
+			"name": "Reflection & Participation",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio",
+			"weight": 15
 		}
 	]
 }

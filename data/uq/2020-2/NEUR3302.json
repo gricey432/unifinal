@@ -15,6 +15,22 @@
 		{
 			"name": "Quiz 2",
 			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quiz 1",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Lab Report and Computer Exercise",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz Quiz 2",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

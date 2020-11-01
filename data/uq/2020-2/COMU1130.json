@@ -3,6 +3,22 @@
 		{
 			"name": "Decomposing online platforms",
 			"weight": 50
+		},
+		{
+			"name": "Reflection early/home computing",
+			"weight": 10
+		},
+		{
+			"name": "Reflection early internet",
+			"weight": 10
+		},
+		{
+			"name": "HTML Project",
+			"weight": 20
+		},
+		{
+			"name": "Reflection artificial intelligence",
+			"weight": 10
 		}
 	]
 }

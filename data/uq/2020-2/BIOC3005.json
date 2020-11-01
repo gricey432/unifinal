@@ -3,6 +3,30 @@
 		{
 			"name": "Current topics in Genomics - discussion session",
 			"weight": 8
+		},
+		{
+			"name": "Practical attendance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Proteomics practical - lab notebooks, presentation",
+			"weight": 10
+		},
+		{
+			"name": "Proteomics Practical: practical report",
+			"weight": 20
+		},
+		{
+			"name": "Metabolomics practical & report",
+			"weight": 10
+		},
+		{
+			"name": "Employability Skill development",
+			"weight": 2
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
 		}
 	]
 }

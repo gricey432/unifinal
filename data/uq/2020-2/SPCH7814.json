@@ -3,6 +3,14 @@
 		{
 			"name": "Community Education QI Project - 3 stages",
 			"weight": 50
+		},
+		{
+			"name": "Blackboard discussion tasks",
+			"weight": 20
+		},
+		{
+			"name": "Transition to Prof Practice video assignment",
+			"weight": 30
 		}
 	]
 }

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The social model of disability",
+			"weight": 40
+		},
+		{
+			"name": "Practice response",
+			"weight": 40
+		},
+		{
+			"name": "Reflection of Learning",
+			"weight": 20
+		}
+	]
+}

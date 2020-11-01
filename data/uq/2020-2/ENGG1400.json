@@ -3,6 +3,22 @@
 		{
 			"name": "Practical Classes (Statics and Dynamics)",
 			"weight": 5
+		},
+		{
+			"name": "Mid-Semester (Statics)",
+			"weight": 30
+		},
+		{
+			"name": "Weekly assignment",
+			"weight": 12
+		},
+		{
+			"name": "Weekly assignment",
+			"weight": 8
+		},
+		{
+			"name": "End of Semester Exam (Statics and Dynamics)",
+			"weight": 45
 		}
 	]
 }

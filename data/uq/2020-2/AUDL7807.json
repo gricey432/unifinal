@@ -3,6 +3,38 @@
 		{
 			"name": "Oral presentation on Tinnitus",
 			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Hearing Conservation",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Advanced Counselling Skills",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation on Indigenous Ear Health",
+			"weight": 25
+		},
+		{
+			"name": "Indigenous Health Modules",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Short Essay on Indigenous health(Groups 1,2 and 3)",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Hearing Cons. (Groups 1,3 and 4)",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Tinnitus (Groups 2,3 and 4)",
+			"weight": 25
+		},
+		{
+			"name": "Short Essay on Adv Counselling (Groups 1,2 and 4)",
+			"weight": 25
 		}
 	]
 }

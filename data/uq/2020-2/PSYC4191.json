@@ -19,6 +19,22 @@
 		{
 			"name": "Second submission of assignment with cover letter",
 			"weight": 20
+		},
+		{
+			"name": "Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "In Class Quiz",
+			"weight": "See Blackboard for instructions for and links to the make up quizzes."
+		},
+		{
+			"name": "Two submissions of the written assignment",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Video Assignment",
+			"weight": "Email Mark Horswill (m.horswill@psy.uq.edu.au)"
 		}
 	]
 }

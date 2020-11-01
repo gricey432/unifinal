@@ -11,6 +11,22 @@
 		{
 			"name": "Development of Group Session Plan",
 			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Design",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reports",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

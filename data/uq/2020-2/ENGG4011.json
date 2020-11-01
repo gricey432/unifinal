@@ -11,6 +11,18 @@
 		{
 			"name": "Reflection on professional development",
 			"weight": 0
+		},
+		{
+			"name": "Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Final Report",
+			"weight": 75
 		}
 	]
 }

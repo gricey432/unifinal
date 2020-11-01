@@ -35,6 +35,30 @@
 		{
 			"name": "Trunk preparation quiz",
 			"weight": 1
+		},
+		{
+			"name": "Neuroanatomy online Quiz 1",
+			"weight": 3
+		},
+		{
+			"name": "Neuroanatomy online Quiz 2",
+			"weight": 3
+		},
+		{
+			"name": "Neuroanatomy online Quiz 3",
+			"weight": 3
+		},
+		{
+			"name": "Online Blackboard Mid Semester exam",
+			"weight": 12
+		},
+		{
+			"name": "Invigilated Online Final Practical Exam",
+			"weight": 35
+		},
+		{
+			"name": "Invigilated Final Theory Exam",
+			"weight": 35
 		}
 	]
 }

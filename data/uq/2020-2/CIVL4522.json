@@ -7,6 +7,10 @@
 		{
 			"name": "Design and Analysis Asgmt 2",
 			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
 		}
 	]
 }

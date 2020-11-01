@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Research Tender Proposal",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		}
+	]
+}

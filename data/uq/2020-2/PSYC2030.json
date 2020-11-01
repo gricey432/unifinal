@@ -19,6 +19,26 @@
 		{
 			"name": "Quiz #2",
 			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Midsemester Examination - online",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": "Contact tutor"
 		}
 	]
 }

@@ -15,6 +15,14 @@
 		{
 			"name": "Final Report",
 			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Reports and Peer Assessments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
 		}
 	]
 }

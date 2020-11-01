@@ -3,6 +3,66 @@
 		{
 			"name": "OT ROM-MMT Demonstration",
 			"weight": 10
+		},
+		{
+			"name": "Shoulder preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Arm, elbow & forearm preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Wrist and hand preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Pelvic girdle and hip preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thigh and knee preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Leg, ankle and foot preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Cervical vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Thoracolumbar vertebral column preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Trunk preparation quiz",
+			"weight": 1
+		},
+		{
+			"name": "Neuroanatomy online Quiz 1",
+			"weight": 3
+		},
+		{
+			"name": "Neuroanatomy online Quiz 2",
+			"weight": 3
+		},
+		{
+			"name": "Neuroanatomy online Quiz 3",
+			"weight": 3
+		},
+		{
+			"name": "Online Blackboard Mid Semester exam",
+			"weight": 12
+		},
+		{
+			"name": "Invigilated Online Final Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated Final Theory Exam",
+			"weight": 35
 		}
 	]
 }

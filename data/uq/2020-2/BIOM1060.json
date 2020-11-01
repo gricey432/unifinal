@@ -15,6 +15,26 @@
 		{
 			"name": "Quiz 4: ECG & reproductive anatomy",
 			"weight": 4
+		},
+		{
+			"name": "Task 1",
+			"weight": 3
+		},
+		{
+			"name": "Task 2",
+			"weight": 3
+		},
+		{
+			"name": "Task 3",
+			"weight": 3
+		},
+		{
+			"name": "Invigilated Online Mid Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 40
 		}
 	]
 }

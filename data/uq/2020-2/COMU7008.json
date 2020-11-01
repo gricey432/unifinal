@@ -11,6 +11,18 @@
 		{
 			"name": "Communication Full project and exegesis",
 			"weight": 100
+		},
+		{
+			"name": "Project plan",
+			"weight": "milestone1,200 words (minimum)"
+		},
+		{
+			"name": "Thesis Draft (milestone)",
+			"weight": "milestoneThesis (5,000 words minimum)"
+		},
+		{
+			"name": "Communication research thesis",
+			"weight": 100
 		}
 	]
 }

@@ -7,6 +7,10 @@
 		{
 			"name": "Short Essay & Stimulus-Based Workbook",
 			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 30
 		}
 	]
 }

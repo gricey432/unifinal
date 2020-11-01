@@ -19,6 +19,14 @@
 		{
 			"name": "Field Trial Assignment",
 			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Exercise 2",
+			"weight": 10
 		}
 	]
 }

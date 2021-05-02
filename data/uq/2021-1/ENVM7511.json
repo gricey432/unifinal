@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes in Blackboard",
+			"weight": 20
+		},
+		{
+			"name": "Zoom oral presentation: Evaluate NRM intervention",
+			"weight": 10
+		},
+		{
+			"name": "Evaluate NRM intervention",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (online non-invigilated exam)",
+			"weight": 40
+		}
+	]
+}

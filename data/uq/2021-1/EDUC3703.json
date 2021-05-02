@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Create and share a design brief",
+			"weight": 15
+		},
+		{
+			"name": "Integrated Learning Sequence",
+			"weight": 35
+		},
+		{
+			"name": "Finding your 'Arts Allies'",
+			"weight": 50
+		}
+	]
+}

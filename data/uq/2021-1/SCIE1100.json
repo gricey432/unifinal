@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop exercises",
+			"weight": 10
+		},
+		{
+			"name": "SCIE1100 communication assignments (6 in total)",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester",
+			"weight": "0% or 10%"
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 10
+		},
+		{
+			"name": "Python & communication assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final",
+			"weight": "60% or 50%"
+		}
+	]
+}

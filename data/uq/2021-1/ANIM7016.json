@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Welfare Evaluations and Discussions",
+			"weight": 15
+		},
+		{
+			"name": "Keeper Talk",
+			"weight": 10
+		},
+		{
+			"name": "Design brief of enclosure",
+			"weight": 20
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 40
+		},
+		{
+			"name": "The use of egg harvesting for crocodile farms",
+			"weight": 15
+		}
+	]
+}

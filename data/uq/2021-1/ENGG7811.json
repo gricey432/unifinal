@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Active participation in tutorial activities",
+			"weight": 30
+		},
+		{
+			"name": "Weekly deliverables",
+			"weight": 70
+		}
+	]
+}

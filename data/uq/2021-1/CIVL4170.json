@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical review of an incident",
+			"weight": 20
+		},
+		{
+			"name": "Risk Assessment for a Proposed Development",
+			"weight": 30
+		},
+		{
+			"name": "1 hour on-line quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

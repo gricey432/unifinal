@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Projects",
+			"weight": 45
+		},
+		{
+			"name": "Live Music Technology Fundamentals Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Major Performance",
+			"weight": 45
+		}
+	]
+}

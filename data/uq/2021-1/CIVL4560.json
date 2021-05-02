@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Planning, Progress, and Completion",
+			"weight": 30
+		},
+		{
+			"name": "Course Project Agreement",
+			"weight": 0
+		},
+		{
+			"name": "Project Report",
+			"weight": 70
+		}
+	]
+}

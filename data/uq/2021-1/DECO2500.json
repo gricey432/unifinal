@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Studios",
+			"weight": "Pass/Fail (Individual)"
+		},
+		{
+			"name": "Mind Map & Presentation",
+			"weight": "15%                                        (Individual)"
+		},
+		{
+			"name": "Group Project",
+			"weight": "45%                                        (Group)"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "40%                                        (Individual)"
+		}
+	]
+}

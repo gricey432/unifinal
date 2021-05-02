@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Linear Regression Exercise",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "First lab experiment",
+			"weight": "Pass/Fail and resubmit"
+		},
+		{
+			"name": "Second lab experiment (online)",
+			"weight": 15
+		},
+		{
+			"name": "Problem sets",
+			"weight": 30
+		},
+		{
+			"name": "Pre-reading quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

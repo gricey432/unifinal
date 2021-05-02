@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Course Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Ministerial briefing: reducing carbon emissions",
+			"weight": 10
+		},
+		{
+			"name": "Leadership Reflection",
+			"weight": 2
+		},
+		{
+			"name": "Critical Discussion Paper",
+			"weight": "30%                                        Hurdle"
+		},
+		{
+			"name": "Report to Victorian Energy Minister",
+			"weight": 40
+		},
+		{
+			"name": "PAF for Group Project",
+			"weight": "X PAF by group mark to get individual mark"
+		},
+		{
+			"name": "Oral Examination (online)",
+			"weight": "10%                                        Hurdle"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Group Evaluation for Thoracic Dissection",
+			"weight": 7
+		},
+		{
+			"name": "Group Evaluation for Abdominal Dissection",
+			"weight": 8
+		},
+		{
+			"name": "Invigilated Mid-Semester Practical Spotter Exam",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "Invigilated End of Semester Practical Spotter Exam",
+			"weight": 30
+		}
+	]
+}

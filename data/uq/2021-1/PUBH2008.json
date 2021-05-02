@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Commentary for The Conversation",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Epidemiology and Prevention of a NCD",
+			"weight": 50
+		}
+	]
+}

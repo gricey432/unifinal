@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "CRISP Summaries",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Sport or Exercise Psychology Treatment Plan",
+			"weight": 30
+		},
+		{
+			"name": "Sport or Exercise Psychology Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Intake Interview",
+			"weight": 35
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Case Study, Handout, Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Interview, Log",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

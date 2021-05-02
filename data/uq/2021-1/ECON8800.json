@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Students' presentation/discuss research",
+			"weight": 30
+		},
+		{
+			"name": "Take-home problem sets",
+			"weight": 20
+		},
+		{
+			"name": "Writing a referee report",
+			"weight": 20
+		},
+		{
+			"name": "Writing research papers",
+			"weight": 30
+		}
+	]
+}

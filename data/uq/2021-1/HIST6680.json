@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The History Manifesto",
+			"weight": "20%                                        1,500 words max (footnotes included)"
+		},
+		{
+			"name": "Critical Evaluation of Major Historical Work",
+			"weight": "30%                                        3,000 words max (footnotes included)"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        5,000 words max (footnotes included)"
+		}
+	]
+}

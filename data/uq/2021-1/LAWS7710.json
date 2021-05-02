@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Film or Book Review",
+			"weight": 30
+		},
+		{
+			"name": "General paper on Principles of International Law",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Market Structure and Price Dynamics",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2- Investment Analysis & Recommendation",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam (1 part only)",
+			"weight": 40
+		}
+	]
+}

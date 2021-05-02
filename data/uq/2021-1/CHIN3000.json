@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Final Oral exam",
+			"weight": 40
+		},
+		{
+			"name": "Proficiency Tests",
+			"weight": 5
+		},
+		{
+			"name": "Oral Vocabulary Study",
+			"weight": 15
+		},
+		{
+			"name": "Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Test 2",
+			"weight": 15
+		}
+	]
+}

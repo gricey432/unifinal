@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": "20%                                        1500-2000 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "60%                                         4000-5000 words"
+		}
+	]
+}

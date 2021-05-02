@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PRAC Weekly quizzes",
+			"weight": 10
+		},
+		{
+			"name": "PBL Mini-exam 1",
+			"weight": 15
+		},
+		{
+			"name": "PBL Mini-exam 2",
+			"weight": 15
+		},
+		{
+			"name": "PBL Mini-exam 3",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

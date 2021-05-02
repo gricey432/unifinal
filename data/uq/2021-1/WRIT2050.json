@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-assessed Participation",
+			"weight": "10%                                        300 words"
+		},
+		{
+			"name": "Analysis of Writing Craft",
+			"weight": "30%                                        700-900 words"
+		},
+		{
+			"name": "Written Synopsis",
+			"weight": "10%                                        400-450 words"
+		},
+		{
+			"name": "Opening Scenes of a Novel",
+			"weight": "50%                                        2700-3000 words"
+		}
+	]
+}

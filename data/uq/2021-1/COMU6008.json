@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Collective Reading Notes",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 35
+		},
+		{
+			"name": "Major Research Paper",
+			"weight": "45%                                        2500-3000 Words"
+		}
+	]
+}

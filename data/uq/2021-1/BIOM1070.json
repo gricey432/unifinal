@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirement at PASS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 4
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 4
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 1 - Module 1",
+			"weight": 4.5
+		},
+		{
+			"name": "Quiz 2 - Modules 2 & 3",
+			"weight": 4.5
+		},
+		{
+			"name": "Quiz 3 - Module 4",
+			"weight": 4.5
+		},
+		{
+			"name": "Quiz 4 - Module 5",
+			"weight": 4.5
+		},
+		{
+			"name": "Invigilated Online Mid-Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated Online End of Semester Theory Exam",
+			"weight": 45
+		}
+	]
+}

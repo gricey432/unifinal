@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In gross online tutorials and recordings",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Case based and gross lesion presentations I",
+			"weight": 25
+		},
+		{
+			"name": "Case based and gross lesion presentations II",
+			"weight": 25
+		},
+		{
+			"name": "End of semester written exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "P2 Gene cloning and CRISPR design computer prac",
+			"weight": 10
+		},
+		{
+			"name": "P3 Transgenes and GFP laboratory report",
+			"weight": 10
+		},
+		{
+			"name": "P4 Gene discovery and genomics report",
+			"weight": 10
+		},
+		{
+			"name": "P1 Gene Transfer and Analysis of Transgenic Plants",
+			"weight": 10
+		},
+		{
+			"name": "Final",
+			"weight": 45
+		}
+	]
+}

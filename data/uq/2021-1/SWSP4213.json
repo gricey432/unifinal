@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation (Online)",
+			"weight": 25
+		},
+		{
+			"name": "Community Development Practice",
+			"weight": 35
+		},
+		{
+			"name": "Community Development Portfolio",
+			"weight": 40
+		}
+	]
+}

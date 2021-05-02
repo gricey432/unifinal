@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice questions: Value, BPMN, ISD, Excel",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "BPMN/ISD/EXCEL (Individual)",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": "40%                                        Individual; 2 hours"
+		}
+	]
+}

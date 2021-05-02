@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Involvement",
+			"weight": 5
+		},
+		{
+			"name": "Hypotheticals - Law Reform and Legal Problem",
+			"weight": "55%                                        2200 words maximum"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        2200 words maximum"
+		}
+	]
+}

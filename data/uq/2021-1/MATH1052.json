@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Matlab Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Assignment One",
+			"weight": 5
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Assignment Three",
+			"weight": 5
+		},
+		{
+			"name": "Assignment Four",
+			"weight": 5
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": "50%                                        See below for minimal marks required to obtain a 3, 4 or 7."
+		}
+	]
+}

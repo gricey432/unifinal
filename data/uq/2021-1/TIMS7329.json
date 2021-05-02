@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test the Problem & Solution Review",
+			"weight": 20
+		},
+		{
+			"name": "Test the Solution",
+			"weight": 20
+		},
+		{
+			"name": "Individual & Peer Impact Statement",
+			"weight": 60
+		}
+	]
+}

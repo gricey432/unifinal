@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Information Sheet with Reflection",
+			"weight": "35%                                        Marked out of 100"
+		},
+		{
+			"name": "Response to Case Study with Court Report",
+			"weight": "40%                                        Marked out of 100"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Employability reflection",
+			"weight": 1
+		},
+		{
+			"name": "INDIVIDUAL RESEARCH PAPER (OPTION 1B)",
+			"weight": 40
+		},
+		{
+			"name": "EPBC REFERRAL (OPTION 1A)",
+			"weight": 40
+		},
+		{
+			"name": "EXAM",
+			"weight": 59
+		}
+	]
+}

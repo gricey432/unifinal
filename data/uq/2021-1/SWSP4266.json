@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-placement Workshop Participation & Attendance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Learning Curriculum",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Process Records,Reflection Sheets and/or Analysis",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Statement of Learning",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Complete Mid point and Final Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Process Records,Reflection Sheets and/or Analysis",
+			"weight": "Pass/Fail"
+		}
+	]
+}

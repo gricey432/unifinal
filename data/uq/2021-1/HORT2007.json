@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review on chosen topic",
+			"weight": 30
+		},
+		{
+			"name": "Practical report on class experiment",
+			"weight": 30
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 40
+		}
+	]
+}

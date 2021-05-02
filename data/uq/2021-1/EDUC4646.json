@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Managing Classroom Activities",
+			"weight": "30%                                        Oral & 3200 words"
+		},
+		{
+			"name": "Planning a Learning Sequence and Assessment",
+			"weight": "40%                                        4000 words"
+		},
+		{
+			"name": "Professional Engagement and Communication",
+			"weight": "30%                                        Oral & 3200 words"
+		}
+	]
+}

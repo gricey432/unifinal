@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation (5%) and Participation (10%)",
+			"weight": 15
+		},
+		{
+			"name": "Peer assessment of presentations",
+			"weight": 5
+		},
+		{
+			"name": "Presentation (35%) and peer review (5%)",
+			"weight": 40
+		},
+		{
+			"name": "Essay (40%)",
+			"weight": 40
+		},
+		{
+			"name": "Type of assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-extension"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Please contact your course coordinator directly."
+		},
+		{
+			"name": "Preparation and Participation",
+			"weight": "Please contact your course coordinator directly."
+		}
+	]
+}

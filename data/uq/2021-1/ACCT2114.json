@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual assignment report Balanced scorecard",
+			"weight": 35
+		},
+		{
+			"name": "Team project report on Financial projections",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 25
+		}
+	]
+}

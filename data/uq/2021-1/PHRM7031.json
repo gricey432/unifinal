@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Written Case Review",
+			"weight": 12
+		},
+		{
+			"name": "Wikipedia page review and update",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Group Presentations",
+			"weight": "6%                                        2% per module/tutorial"
+		},
+		{
+			"name": "Individual contribution to Green Discussion Boards",
+			"weight": "6%                                        2% per module"
+		},
+		{
+			"name": "Peer Feedback on Group Work",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Module 1-3",
+			"weight": "6%                                        2% per module"
+		},
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Laboratory Reports",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Term Exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical Mid-term",
+			"weight": 15
+		},
+		{
+			"name": "Prospect Evaluation Report (Group Work)",
+			"weight": 25
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

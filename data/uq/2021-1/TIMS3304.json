@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory of Change - Internal Operating System",
+			"weight": 25
+		},
+		{
+			"name": "Opportunity Identification",
+			"weight": 35
+		},
+		{
+			"name": "Business Implementation",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 01: setting and ideal form",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 02.a: Charette",
+			"weight": 0
+		},
+		{
+			"name": "Assessment 02.a: a strategic response",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 02.b Artists' Retreat: Part & Whole",
+			"weight": 50
+		}
+	]
+}

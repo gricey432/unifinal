@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take home assignment",
+			"weight": "40%                                        Individual task; 2000 words"
+		},
+		{
+			"name": "Research proposal for your report",
+			"weight": "20%                                        Individual task; 700 words"
+		},
+		{
+			"name": "Report",
+			"weight": "40%                                        Individual task; 2000 words"
+		}
+	]
+}

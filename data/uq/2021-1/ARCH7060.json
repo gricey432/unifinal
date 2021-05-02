@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Thesis Proposal, struct & Essay",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1: Presentation of Thesis Proposals",
+			"weight": 0
+		},
+		{
+			"name": "Formative Assessment - In Progress Draft",
+			"weight": 0
+		},
+		{
+			"name": "Formative Assessment - Presentation of Draft Paper",
+			"weight": 0
+		},
+		{
+			"name": "Final thesis",
+			"weight": "70%                                        Hurdle"
+		},
+		{
+			"name": "Thesis Correction and Upload",
+			"weight": "10% of Final Thesis Grade"
+		}
+	]
+}

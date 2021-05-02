@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Video Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Examination",
+			"weight": 35
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 50
+		}
+	]
+}

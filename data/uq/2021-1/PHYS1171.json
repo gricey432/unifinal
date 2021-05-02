@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture preparation",
+			"weight": 6
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial assignments",
+			"weight": 15
+		},
+		{
+			"name": "Short reports",
+			"weight": 3
+		},
+		{
+			"name": "Major report",
+			"weight": 16
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 50
+		}
+	]
+}

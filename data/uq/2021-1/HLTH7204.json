@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Education Teaching/Preceptor Plan & Paper",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reflective Analysis",
+			"weight": 60
+		}
+	]
+}

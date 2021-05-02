@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hominin Anatomy Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard exam",
+			"weight": 40
+		},
+		{
+			"name": "Essay on human evolution topic",
+			"weight": 40
+		}
+	]
+}

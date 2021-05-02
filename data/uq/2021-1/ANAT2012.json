@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Improving assessment performance task",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 6
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 6
+		},
+		{
+			"name": "Invigilated Mid Semester Theory Exam",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

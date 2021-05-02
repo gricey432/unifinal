@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignment No. 1",
+			"weight": 5
+		},
+		{
+			"name": "Homework Assignment No. 2",
+			"weight": 5
+		},
+		{
+			"name": "Theme 1 Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Homework Assignment No. 3",
+			"weight": 5
+		},
+		{
+			"name": "Theme 2 Essay",
+			"weight": 20
+		},
+		{
+			"name": "Homework Assignment No. 4",
+			"weight": 5
+		},
+		{
+			"name": "Theme 3 Interview Report",
+			"weight": 40
+		}
+	]
+}

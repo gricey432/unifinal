@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion",
+			"weight": "32%                                        Due on various dates"
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 18
+		},
+		{
+			"name": "Course Review",
+			"weight": 50
+		}
+	]
+}

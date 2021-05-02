@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 6
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Ripple lecture exercises",
+			"weight": 10
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 33
+		},
+		{
+			"name": "Final Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": "NA"
+		},
+		{
+			"name": "Lecture Ripple Exercise",
+			"weight": "NA"
+		},
+		{
+			"name": "Module Quizzes 1-5",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Quiz",
+			"weight": "https://my.uq.edu.au/node/189/3#3\n\n\t\t\t \n\t\t\tChoose “End-of-Semester Exam” for “Deferred Examination Type”"
+		}
+	]
+}

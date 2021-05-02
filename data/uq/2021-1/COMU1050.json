@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Problem-Based Assessment Task --1",
+			"weight": 50
+		},
+		{
+			"name": "Problem-Based Assessment Task -- 2",
+			"weight": 50
+		}
+	]
+}

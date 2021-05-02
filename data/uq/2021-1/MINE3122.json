@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Quiz I - Surface Mining Systems",
+			"weight": 20
+		},
+		{
+			"name": "Quiz II - Underground Mining Systems",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Hurdle Rate: 40/100"
+		}
+	]
+}

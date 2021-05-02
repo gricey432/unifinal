@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asset safeguarding and control essay",
+			"weight": "20%                                        Grading rubrics for the assignment are available in the BISM2206 Blackboard site."
+		},
+		{
+			"name": "MYOB report assessment and BPMN assignment",
+			"weight": "20%                                        Grading rubrics for the assignment are available in the BISM2206 Blackboard site."
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

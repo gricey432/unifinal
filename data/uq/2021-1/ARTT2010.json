@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Patricipation in Weeekly Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Take-home Timed Assignment #1",
+			"weight": 25
+		},
+		{
+			"name": "Take-home Timed Assignment #2",
+			"weight": 25
+		},
+		{
+			"name": "Research Esssay",
+			"weight": 40
+		}
+	]
+}

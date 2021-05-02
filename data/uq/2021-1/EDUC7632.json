@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mirco teaching",
+			"weight": "20%                                        20mins"
+		},
+		{
+			"name": "Learning and teaching sequence and assessment task",
+			"weight": "50%                                        3000 words"
+		},
+		{
+			"name": "Professional engagement and communication",
+			"weight": "30%                                        10mins + 1500 words"
+		}
+	]
+}

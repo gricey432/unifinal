@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial and Discussion Board Participation",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz weeks 5, 8 and 12",
+			"weight": "15%                                         quiz 1 (5%), 2 (5%), 3 (5%)"
+		},
+		{
+			"name": "Group Presentations(on-line)",
+			"weight": 25
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		}
+	]
+}

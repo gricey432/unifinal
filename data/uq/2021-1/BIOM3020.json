@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomy of Endocrine Organs",
+			"weight": 5
+		},
+		{
+			"name": "Metabolic health, lifestyle and body composition",
+			"weight": 15
+		},
+		{
+			"name": "Reflection on VTS activity in histology",
+			"weight": 3
+		},
+		{
+			"name": "Histological assessment of an endocrine organ",
+			"weight": 12
+		},
+		{
+			"name": "Hot topic 1",
+			"weight": 5
+		},
+		{
+			"name": "Hot topic 2",
+			"weight": 5
+		},
+		{
+			"name": "Hot topic 3",
+			"weight": 5
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 50
+		}
+	]
+}

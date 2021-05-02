@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design workbook",
+			"weight": 10
+		},
+		{
+			"name": "Design brief",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Journalism Design Portfolio",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Infographic",
+			"weight": 20
+		},
+		{
+			"name": "Problem analysis of an organizational topic",
+			"weight": 30
+		},
+		{
+			"name": "Class participation",
+			"weight": 10
+		},
+		{
+			"name": "Leadership in the world today",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation (Quiz)",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Infographic",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

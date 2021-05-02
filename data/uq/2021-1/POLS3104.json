@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation (online)",
+			"weight": 8
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 22
+		},
+		{
+			"name": "Minor Essay",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay",
+			"weight": 50
+		}
+	]
+}

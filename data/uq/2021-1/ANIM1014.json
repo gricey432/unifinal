@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Animal Handling Modules and Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Animal Behaviour Report",
+			"weight": 29
+		},
+		{
+			"name": "Mid Semester Quiz (online)",
+			"weight": 20
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

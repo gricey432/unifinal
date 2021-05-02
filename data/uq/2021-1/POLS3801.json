@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "(4 seminars in total)",
+			"weight": 10
+		},
+		{
+			"name": "(downloadable form)",
+			"weight": 5
+		},
+		{
+			"name": "(1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "(5-6 minute snapshot)",
+			"weight": 10
+		},
+		{
+			"name": "Logbook",
+			"weight": 10
+		},
+		{
+			"name": "(4000 words)",
+			"weight": 45
+		}
+	]
+}

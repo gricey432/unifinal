@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Primary Text Reading Report",
+			"weight": 9
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 9
+		},
+		{
+			"name": "Academic Integrity Modules",
+			"weight": 0
+		},
+		{
+			"name": "Article/Chapter Review (1000 words)",
+			"weight": 12
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take-Home Exam",
+			"weight": 30
+		}
+	]
+}

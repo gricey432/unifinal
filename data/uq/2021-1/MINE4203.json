@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Flotation Surface Chemistry",
+			"weight": 5
+		},
+		{
+			"name": "Prac - Eh-pH Measurement and Interpretation",
+			"weight": 10
+		},
+		{
+			"name": "Prac - Sulfide Flotation",
+			"weight": 15
+		},
+		{
+			"name": "Prac - Coal Flotation Using Jameson Cell",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 - Flotation Kinetics and Equipment",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination (Closed Book)",
+			"weight": "45%                                        Hurdle"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "1. Descriptive Statistics",
+			"weight": 8
+		},
+		{
+			"name": "2. Probability",
+			"weight": 8
+		},
+		{
+			"name": "3. Normal and Sampling Distributions",
+			"weight": 8
+		},
+		{
+			"name": "LBRT #1",
+			"weight": 20
+		},
+		{
+			"name": "4. Confidence Intervals",
+			"weight": 8
+		},
+		{
+			"name": "5. Hypothesis Testing",
+			"weight": 8
+		},
+		{
+			"name": "LBRT #2",
+			"weight": 20
+		},
+		{
+			"name": "6. Simpler Linear Regression",
+			"weight": "8%                                        (Best 5 of 6 CML quizzes. See Section 5.4)"
+		},
+		{
+			"name": "LBRT #3",
+			"weight": 20
+		}
+	]
+}

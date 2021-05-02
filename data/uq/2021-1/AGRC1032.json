@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Six quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Ecological site assessment - desktop study",
+			"weight": 15
+		},
+		{
+			"name": "Employability reflection",
+			"weight": 1
+		},
+		{
+			"name": "Report on Field ecological assessment",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 44
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Circuit on PCB & pdf of schematic",
+			"weight": "2.5%                                        Pass/Fail"
+		},
+		{
+			"name": "Risk Assessments to be read and consented to",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Group Plan",
+			"weight": "5%                                        Pass/fail"
+		},
+		{
+			"name": "Preliminary Demo 1",
+			"weight": 7.5
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Intermediate Demo 2",
+			"weight": 10
+		},
+		{
+			"name": "Product Submission",
+			"weight": 60
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": 5
+		}
+	]
+}

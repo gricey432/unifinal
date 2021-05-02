@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1 Goal-Setting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 2 Interim Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3 MM Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 4 Final Report",
+			"weight": "Pass/Fail"
+		}
+	]
+}

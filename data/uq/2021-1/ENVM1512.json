@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Economic Analysis of an Environmental Issue",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (online non-invigilated exam)",
+			"weight": 50
+		}
+	]
+}

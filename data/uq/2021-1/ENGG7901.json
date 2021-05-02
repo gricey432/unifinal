@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "PROFESSIONALISM-shown in and outside team meetings",
+			"weight": 5
+		},
+		{
+			"name": "Team Chartercomplete DRAFT (version 1.0)",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Report",
+			"weight": 30
+		}
+	]
+}

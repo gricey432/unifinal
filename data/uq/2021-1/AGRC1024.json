@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Plant Production in Australia",
+			"weight": 20
+		},
+		{
+			"name": "Weeds, Insect Pests and Pathogens",
+			"weight": 15
+		},
+		{
+			"name": "Field Trial Report",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise",
+			"weight": 15
+		},
+		{
+			"name": "Review Test",
+			"weight": 30
+		}
+	]
+}

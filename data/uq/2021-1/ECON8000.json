@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Problems",
+			"weight": 20
+		},
+		{
+			"name": "Take Home Assessment #1",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Assessment #2",
+			"weight": 50
+		}
+	]
+}

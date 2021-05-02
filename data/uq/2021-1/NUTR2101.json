@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 33
+		},
+		{
+			"name": "long-answer exam questions practice",
+			"weight": "7%                                        Pass or fail"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

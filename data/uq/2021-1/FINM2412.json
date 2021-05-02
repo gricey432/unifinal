@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Based Online Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Team case study",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard Based Online Final exam",
+			"weight": 50
+		}
+	]
+}

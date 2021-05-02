@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Everest Simulation Logbook",
+			"weight": 30
+		},
+		{
+			"name": "Team-based Tutorial Assessment",
+			"weight": 30
+		},
+		{
+			"name": "COVID-19 Management Issue",
+			"weight": 40
+		}
+	]
+}

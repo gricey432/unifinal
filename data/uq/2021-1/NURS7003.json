@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Scenario  Individual Reply",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Case Scenario  Group work Reply",
+			"weight": 20
+		},
+		{
+			"name": "NP ePortfolio 2.3 & 3.1",
+			"weight": "0%                                        Pass/ Fail"
+		},
+		{
+			"name": "In depth analysis of pharmacological therapy.",
+			"weight": 40
+		}
+	]
+}

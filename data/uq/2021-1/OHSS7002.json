@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "take home assignment",
+			"weight": 40
+		},
+		{
+			"name": "Problem solution",
+			"weight": 25
+		},
+		{
+			"name": "Practical Report",
+			"weight": 25
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 10
+		}
+	]
+}

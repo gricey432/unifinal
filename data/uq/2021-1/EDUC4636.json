@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Journal Entry",
+			"weight": 10
+		},
+		{
+			"name": "Unit overview, lesson plan, model response, microt",
+			"weight": "30%                                        2500 - 3000 words"
+		},
+		{
+			"name": "Learning and teaching sequence and assessment task",
+			"weight": "35%                                        3000 words"
+		},
+		{
+			"name": "Professional development module",
+			"weight": "25%                                        Video: 4-5 mins; Study guide: 800-1000 words"
+		}
+	]
+}

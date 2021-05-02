@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Analysis and Teacher Report",
+			"weight": 16
+		},
+		{
+			"name": "Case Based Management Assignment",
+			"weight": 34
+		},
+		{
+			"name": "Final examination",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

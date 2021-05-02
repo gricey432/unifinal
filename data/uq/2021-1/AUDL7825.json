@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Communication development in children",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 65
+		}
+	]
+}

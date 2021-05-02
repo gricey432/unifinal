@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Insight into an aspect of Islam: faith,law,culture",
+			"weight": 20
+		},
+		{
+			"name": "Country Report",
+			"weight": 25
+		},
+		{
+			"name": "Onine Examination on course content",
+			"weight": 55
+		}
+	]
+}

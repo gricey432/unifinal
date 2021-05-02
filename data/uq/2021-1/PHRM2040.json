@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 50
+		},
+		{
+			"name": "EOS Online Open-Book Blackboard (non-invigilated)",
+			"weight": 50
+		}
+	]
+}

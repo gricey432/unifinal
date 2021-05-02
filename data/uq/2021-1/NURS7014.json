@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reflections on Weekly modules",
+			"weight": 20
+		},
+		{
+			"name": "Case study presentation",
+			"weight": "40%                                        20 minutes"
+		},
+		{
+			"name": "Essay - Case study",
+			"weight": "40%                                        2000 Words"
+		}
+	]
+}

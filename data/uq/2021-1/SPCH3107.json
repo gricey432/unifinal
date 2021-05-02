@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "SPCH3107 Clinical Practice (Module 2)",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "SPCH3107 Fluency Disorders (Module 1)",
+			"weight": "50%                                        MUST PASS"
+		},
+		{
+			"name": "Stuttering Simulation Clinical Practice (Module 1)",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Stuttering Simulation Workbook Activity",
+			"weight": 10
+		},
+		{
+			"name": "SPCH3107 Fluency Disorders (Module 1)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 10
+		},
+		{
+			"name": "Online summary quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Organ Bath Practical Report",
+			"weight": 20
+		},
+		{
+			"name": "Online summary quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

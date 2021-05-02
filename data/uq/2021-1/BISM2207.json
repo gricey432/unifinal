@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Quizzes",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": "55%                                        Individual"
+		},
+		{
+			"name": "System Development",
+			"weight": "25%                                        (20% submission + 5% Peer Assessment Mark)"
+		}
+	]
+}

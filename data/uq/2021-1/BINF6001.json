@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam (Online)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1(BINF6001 only): Amino acids",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2(BINF6001 only): Proteins",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 3 (BINF6001 only): Bioinformatics",
+			"weight": 12
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Assignment 4(BINF6001 only): Favourite protein",
+			"weight": 15
+		},
+		{
+			"name": "Final exam (Online)",
+			"weight": 30
+		}
+	]
+}

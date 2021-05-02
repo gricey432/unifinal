@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 1: Python single-phase flow",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Reservoir Simulation",
+			"weight": 30
+		},
+		{
+			"name": "Final Oral Exam",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

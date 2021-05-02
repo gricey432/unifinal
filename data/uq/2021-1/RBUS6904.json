@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review Essay",
+			"weight": 30
+		},
+		{
+			"name": "Workshop presentation & facilitation",
+			"weight": 30
+		},
+		{
+			"name": "Research paper (including a literature review)",
+			"weight": 40
+		}
+	]
+}

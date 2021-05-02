@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "MasteringPhysics Exercises",
+			"weight": "0-10%"
+		},
+		{
+			"name": "Learning contribution",
+			"weight": 5
+		},
+		{
+			"name": "Problem Solving Assignments",
+			"weight": "15%-25%"
+		},
+		{
+			"name": "Laboratory Assignment (Laboratory report)",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": "50%                                        Note also the hurdle requirement given in §5.2"
+		}
+	]
+}

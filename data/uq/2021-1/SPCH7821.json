@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Language Sample Analysis Task",
+			"weight": 10
+		},
+		{
+			"name": "Paediatric language assessment - AV recording",
+			"weight": 14
+		},
+		{
+			"name": "Online Examination (modules 1-2)",
+			"weight": "30%                                        must pass"
+		},
+		{
+			"name": "Indigenous Health Online Module",
+			"weight": 6
+		},
+		{
+			"name": "Online Examination (modules 3-4 & integration)",
+			"weight": "40%                                        must pass"
+		}
+	]
+}

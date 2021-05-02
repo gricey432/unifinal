@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic Pathology Performance",
+			"weight": 35
+		},
+		{
+			"name": "Necropsy Case Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Skills list",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Pathology Case Log",
+			"weight": 5
+		},
+		{
+			"name": "Veterinary Regulatory Medicine Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Abattoir EMS Performance Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Abattoir EMS Journal or Report",
+			"weight": 20
+		},
+		{
+			"name": "Capstone Examination A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone Examination B",
+			"weight": 10
+		}
+	]
+}

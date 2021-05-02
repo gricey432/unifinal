@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Student Seminar",
+			"weight": 40
+		},
+		{
+			"name": "Class Participation",
+			"weight": 20
+		},
+		{
+			"name": "Student Essay",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assignment",
+			"weight": "Link"
+		},
+		{
+			"name": "Seminar",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module Completion",
+			"weight": 10
+		},
+		{
+			"name": "Pre-class assessment",
+			"weight": 20
+		},
+		{
+			"name": "Oral Test 1",
+			"weight": 35
+		},
+		{
+			"name": "Oral Test 2",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Indigenous health online learning module",
+			"weight": 2
+		},
+		{
+			"name": "Occupational Violence Module",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Typical Communication Development Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflection Report",
+			"weight": 8
+		},
+		{
+			"name": "Oral Presentation - Clinic Observations",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 30
+		}
+	]
+}

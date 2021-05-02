@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Ethics and practice in Australian archaeology",
+			"weight": 30
+		},
+		{
+			"name": "Re-excavating a significant site",
+			"weight": 30
+		}
+	]
+}

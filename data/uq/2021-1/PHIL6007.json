@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Philosophical Essay 1",
+			"weight": 50
+		},
+		{
+			"name": "Philosophical Essay 2",
+			"weight": 50
+		},
+		{
+			"name": "Seminar Attendance and Participation",
+			"weight": 0
+		},
+		{
+			"name": "Presentation",
+			"weight": 0
+		},
+		{
+			"name": "For information on assessment remarks see: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/querying-result",
+			"weight": ""
+		}
+	]
+}

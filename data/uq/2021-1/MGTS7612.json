@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Recruitment OR Selection Strategy",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Recruitment & Selection Strategy",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Entrepreneurial Growth",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

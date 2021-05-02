@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Health Artefact Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Artefact Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Conversation-Style Article",
+			"weight": 45
+		}
+	]
+}

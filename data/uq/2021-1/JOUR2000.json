@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Longform Audio Package",
+			"weight": "50%                                        10 Minutes"
+		},
+		{
+			"name": "Digital Video Story",
+			"weight": "50%                                        90 Seconds"
+		}
+	]
+}

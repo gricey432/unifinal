@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "EOS Consultation Exam",
+			"weight": "20%                                        Pass/Fail"
+		},
+		{
+			"name": "Blackboard Quizzes (x5)",
+			"weight": 10
+		},
+		{
+			"name": "Digital Essentials Modules (x5)",
+			"weight": "10%                                        Pass/Fail"
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": "10%                                        Pass/Fail"
+		},
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": "50%                                        Pass/Fail"
+		}
+	]
+}

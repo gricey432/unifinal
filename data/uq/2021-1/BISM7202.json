@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple-Choice Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "MS Office Assignment - Office 365 Excel 2019",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Final Assessment",
+			"weight": 45
+		}
+	]
+}

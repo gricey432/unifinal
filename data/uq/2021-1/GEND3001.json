@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflecting on your feminist/gender research",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Gender futures: Research in action",
+			"weight": 50
+		},
+		{
+			"name": "Introducing my feminist/gender research project",
+			"weight": 30
+		}
+	]
+}

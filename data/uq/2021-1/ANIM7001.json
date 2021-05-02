@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Study in Animal Production Science 1",
+			"weight": 35
+		},
+		{
+			"name": "Advanced Study in Animal Production Science 2",
+			"weight": 35
+		},
+		{
+			"name": "Power Point Presentation",
+			"weight": 30
+		}
+	]
+}

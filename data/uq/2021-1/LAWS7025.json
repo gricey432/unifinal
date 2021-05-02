@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Solving Your Own Legal Problem",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam - scheduled during class hours",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 1: Answering a Legal Problem",
+			"weight": 15
+		},
+		{
+			"name": "Analysis Exercise of Problem Set 1 Question",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Problem Set 2: Answering a Legal Problem",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": 50
+		}
+	]
+}

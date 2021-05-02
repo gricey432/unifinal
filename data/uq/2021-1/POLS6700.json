@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Honours Conference (SOI)",
+			"weight": 0
+		},
+		{
+			"name": "Honours Conference - Work in Progress (1500 words)",
+			"weight": 0
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 100
+		}
+	]
+}

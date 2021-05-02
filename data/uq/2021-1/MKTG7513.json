@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Segmenting & Target Market Report",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Social Marketing Strategy Pitch",
+			"weight": "40%                                        Group"
+		},
+		{
+			"name": "Managerial Social Marketing Report",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

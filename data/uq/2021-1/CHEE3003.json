@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly pre-class quizzes",
+			"weight": "10%                                        Formative"
+		},
+		{
+			"name": "Matlab Exercise",
+			"weight": "2%                                        Formative"
+		},
+		{
+			"name": "Problem Sets",
+			"weight": "26%                                        Formative"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": "10%                                        Formative"
+		},
+		{
+			"name": "Virtual Practical - Ternary Phase Diagram",
+			"weight": "2%                                        Formative"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Summative (hurdle)"
+		}
+	]
+}

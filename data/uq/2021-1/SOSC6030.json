@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical review of assigned topic",
+			"weight": 35
+		},
+		{
+			"name": "Oral Presentation on Assigned Reading",
+			"weight": 20
+		},
+		{
+			"name": "Methodological Approach Essay",
+			"weight": 35
+		}
+	]
+}

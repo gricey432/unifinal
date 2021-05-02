@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly problem set",
+			"weight": 20
+		},
+		{
+			"name": "Undergraduate Laboratory Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Prac 1 - Oxygen Uptake Rate",
+			"weight": 5
+		},
+		{
+			"name": "Prac 2 - Pilot-Scale Fermentation",
+			"weight": 5
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

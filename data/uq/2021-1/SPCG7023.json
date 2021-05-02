@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Essay",
+			"weight": 40
+		},
+		{
+			"name": "Contribution to online discussions",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of Seminar Summaries",
+			"weight": "40%                                        5 summaries @ 8% each"
+		}
+	]
+}

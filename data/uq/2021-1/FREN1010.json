@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "course placement questionnaire",
+			"weight": 0
+		},
+		{
+			"name": "in-class writing activity",
+			"weight": 10
+		},
+		{
+			"name": "Oral 1",
+			"weight": 20
+		},
+		{
+			"name": "in-class grammar activity",
+			"weight": 10
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Written and Listening",
+			"weight": 30
+		}
+	]
+}

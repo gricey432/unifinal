@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practice - Business, Idea, or Service",
+			"weight": 30
+		},
+		{
+			"name": "Snapshot of practice",
+			"weight": "30%                                        Team submission"
+		},
+		{
+			"name": "Portfolio sample and cover letter",
+			"weight": 20
+		},
+		{
+			"name": "Snapshot of Practice - Final Cut",
+			"weight": 20
+		}
+	]
+}

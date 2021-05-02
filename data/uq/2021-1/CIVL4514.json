@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Tutor Mentor Meetings",
+			"weight": 0
+		},
+		{
+			"name": "Group Charter",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Week 3 Formative Feedback (Online Peer Assessment)",
+			"weight": "0%                                        Formative"
+		},
+		{
+			"name": "Carpark Review",
+			"weight": 5
+		},
+		{
+			"name": "Phase 1 (Group Presentation)",
+			"weight": 5
+		},
+		{
+			"name": "Phase 1 (Online Peer Assessment)",
+			"weight": "PAF moderates individual Report #1 mark"
+		},
+		{
+			"name": "Phase 1 (Group Report)",
+			"weight": 25
+		},
+		{
+			"name": "Phase 1 (Sustainability Assessment)",
+			"weight": 5
+		},
+		{
+			"name": "Phase 2 (Group Presentation)",
+			"weight": 5
+		},
+		{
+			"name": "Phase 2 (Online Peer Assessment)",
+			"weight": "PAF moderates individual Report #2 mark"
+		},
+		{
+			"name": "Phase 2 (Group Report)",
+			"weight": 30
+		},
+		{
+			"name": "Workbook",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 15
+		},
+		{
+			"name": "Ethics Workshop",
+			"weight": "0%                                        P/F Hurdle"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Critical reflection",
+			"weight": "20%                                        1200 words + Ref List"
+		},
+		{
+			"name": "Assessment 2: Essay and parent information sheet",
+			"weight": "40%                                        1500-2000 words + Ref List"
+		},
+		{
+			"name": "Applied Analytical Essay",
+			"weight": "40%                                        2000 words + Ref List"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulated Patient Recording and Review Session",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle"
+		}
+	]
+}

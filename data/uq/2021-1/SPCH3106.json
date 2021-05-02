@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": "45%                                        Must-pass Part A"
+		},
+		{
+			"name": "Case-based assignment",
+			"weight": 45
+		},
+		{
+			"name": "Sentence processing quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report",
+			"weight": 65
+		},
+		{
+			"name": "Record keeping and performance",
+			"weight": 15
+		},
+		{
+			"name": "Room 257 Goddard Bldg or via Zoom",
+			"weight": 20
+		}
+	]
+}

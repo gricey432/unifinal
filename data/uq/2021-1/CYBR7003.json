@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Legal perspectives in cyber security",
+			"weight": 30
+		},
+		{
+			"name": "Organisational cyber security at SkillPlat",
+			"weight": 30
+		},
+		{
+			"name": "Application of cybersec org & legal principles",
+			"weight": 40
+		},
+		{
+			"name": "Grade",
+			"weight": ""
+		},
+		{
+			"name": "1 (Serious Fail)",
+			"weight": ""
+		},
+		{
+			"name": "2 (Fail)",
+			"weight": ""
+		},
+		{
+			"name": "3 (Fail)",
+			"weight": ""
+		},
+		{
+			"name": "4 (Pass)",
+			"weight": ""
+		},
+		{
+			"name": "5 (Credit)",
+			"weight": ""
+		},
+		{
+			"name": "6 (Distinction)",
+			"weight": ""
+		},
+		{
+			"name": "7 (High Distinction)",
+			"weight": ""
+		}
+	]
+}

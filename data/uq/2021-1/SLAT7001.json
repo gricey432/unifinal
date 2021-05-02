@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Report on analysis of learner language",
+			"weight": 25
+		},
+		{
+			"name": "Class reflections",
+			"weight": 5
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 35
+		},
+		{
+			"name": "Pre-class quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Project - Developing a SLA website",
+			"weight": 30
+		}
+	]
+}

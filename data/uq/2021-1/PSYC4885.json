@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Class Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Presentation Peer Review",
+			"weight": 5
+		},
+		{
+			"name": "Reflective exercise 1 (5%) & 2 (5%)",
+			"weight": 10
+		},
+		{
+			"name": "Preparation and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Critical review (2,000 - 2,500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Reflection",
+			"weight": "Contact the Course Coordinator"
+		}
+	]
+}

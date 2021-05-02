@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online non-invigilated QUIZ",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination - online non-invigilated exam",
+			"weight": 60
+		}
+	]
+}

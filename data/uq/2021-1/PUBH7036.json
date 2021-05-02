@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review and critical appraisal",
+			"weight": 30
+		},
+		{
+			"name": "Evaluation Plan",
+			"weight": 50
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		}
+	]
+}

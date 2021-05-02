@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Small Animal Clinical Rotation Performance",
+			"weight": 54
+		},
+		{
+			"name": "Shelter Medicine Rotation RSPCA",
+			"weight": 16
+		},
+		{
+			"name": "Grand Rounds Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Small Animal Core Technical Skills",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

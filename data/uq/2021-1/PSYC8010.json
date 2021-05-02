@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Confirmation Milestone (completed Yr2,Sem 2)",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "DPsych Dissertation",
+			"weight": 100
+		},
+		{
+			"name": "Mid-Dissertation Milestone (completed Yr3,Sem 2)",
+			"weight": "Mandatory"
+		}
+	]
+}

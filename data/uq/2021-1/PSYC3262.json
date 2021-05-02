@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in tutorials",
+			"weight": 5
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Human Cognitive Autapomorphy",
+			"weight": 10
+		},
+		{
+			"name": "Guided essay on presentation topic",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact your tutor"
+		},
+		{
+			"name": "Class Participation",
+			"weight": "Contact your tutor"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

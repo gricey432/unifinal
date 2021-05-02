@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Oral interviews",
+			"weight": 50
+		},
+		{
+			"name": "Weekly online exercises on Bb",
+			"weight": 10
+		},
+		{
+			"name": "Written test",
+			"weight": 30
+		}
+	]
+}

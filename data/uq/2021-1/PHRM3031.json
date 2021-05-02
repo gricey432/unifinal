@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback quizzes (3)",
+			"weight": "30%                                        (10% each)"
+		},
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 70
+		}
+	]
+}

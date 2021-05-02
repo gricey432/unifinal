@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice questions",
+			"weight": 10
+		},
+		{
+			"name": "poster presentation - group assignment",
+			"weight": 15
+		},
+		{
+			"name": "Group assignment: Case study Ethics in engineering",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester online quiz",
+			"weight": 25
+		},
+		{
+			"name": "Examination",
+			"weight": 35
+		}
+	]
+}

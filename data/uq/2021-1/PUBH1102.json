@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1a-e: 5 short in-class written tasks",
+			"weight": 25
+		},
+		{
+			"name": "Task 2: Suburb comparison",
+			"weight": 45
+		},
+		{
+			"name": "Task 3: Guide to health determinants",
+			"weight": 30
+		}
+	]
+}

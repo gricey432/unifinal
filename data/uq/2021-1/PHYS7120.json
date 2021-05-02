@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework assignment",
+			"weight": 25
+		},
+		{
+			"name": "Laboratory written reports",
+			"weight": 15
+		},
+		{
+			"name": "Computational Project",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		},
+		{
+			"name": "Linear Regression Exercise",
+			"weight": "Hurdle"
+		}
+	]
+}

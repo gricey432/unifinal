@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on learning",
+			"weight": 20
+		},
+		{
+			"name": "Two-weekly quiz",
+			"weight": 20
+		},
+		{
+			"name": "Development of a clinical trial protocol",
+			"weight": 35
+		},
+		{
+			"name": "Group oral presentation",
+			"weight": 25
+		}
+	]
+}

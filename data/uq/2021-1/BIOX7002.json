@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Week 3 Checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 6 Checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Notebook and assessment of research performance",
+			"weight": 20
+		},
+		{
+			"name": "Report assessment",
+			"weight": 80
+		}
+	]
+}

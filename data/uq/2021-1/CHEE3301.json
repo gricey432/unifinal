@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Polymer Wiki",
+			"weight": "6%                                        Individual"
+		},
+		{
+			"name": "Lab reports",
+			"weight": "24%                                        4 at 6% each; Group"
+		},
+		{
+			"name": "Polymer materials selection",
+			"weight": "18%                                        Individual"
+		},
+		{
+			"name": "Mid-semester quiz",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Team performance evaluation",
+			"weight": "2%                                        Individual"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": "40%                                        Individual, Hurdle"
+		}
+	]
+}

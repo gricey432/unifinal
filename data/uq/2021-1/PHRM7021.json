@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Module activity (Green Discussion Board)",
+			"weight": "7.5%                                        2.5% per module"
+		},
+		{
+			"name": "Blogs and on-line quizzes",
+			"weight": "7.5%                                        2.5% per module"
+		},
+		{
+			"name": "Tutorial Activity (Blue Discussion Board)",
+			"weight": "15%                                        5% per module"
+		},
+		{
+			"name": "Peer evaluation of tutorial prep and participation",
+			"weight": 2
+		},
+		{
+			"name": "Project Outline",
+			"weight": 20
+		},
+		{
+			"name": "Analysis Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Project proposal",
+			"weight": 28
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Scoping document",
+			"weight": 10
+		},
+		{
+			"name": "Project Progress Report",
+			"weight": 30
+		},
+		{
+			"name": "Project Final Report",
+			"weight": 60
+		}
+	]
+}

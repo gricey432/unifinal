@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Testing Spark Tank",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Therapair - A make or break decision",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Developing a business opportunity Pitch & Report",
+			"weight": "40%                                        Team"
+		}
+	]
+}

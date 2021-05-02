@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Discussion Forum",
+			"weight": "35%                                        Discussion Contributions - 30% / Webinar - 5%"
+		},
+		{
+			"name": "Assessment Two: MCQs",
+			"weight": 10
+		},
+		{
+			"name": "Assessment Three: Infographic",
+			"weight": 25
+		},
+		{
+			"name": "Assessment Four: Major Essay",
+			"weight": "30%                                        2500 words max"
+		}
+	]
+}

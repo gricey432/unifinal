@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formative - Tutorial Tasks",
+			"weight": 0
+		},
+		{
+			"name": "Portfolio",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Formative Peer Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Investment Valuation Project and Presentation",
+			"weight": "50%                                        Team/Individual"
+		}
+	]
+}

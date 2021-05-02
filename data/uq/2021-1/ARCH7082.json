@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Research Plan for Pilot Audit",
+			"weight": "0%                                        For formative feedback"
+		},
+		{
+			"name": "Group project: audit of NTAQ Heritage Register",
+			"weight": 30
+		},
+		{
+			"name": "Major Research Project",
+			"weight": 70
+		}
+	]
+}

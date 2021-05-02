@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1: Soil chemical characteristics",
+			"weight": 8
+		},
+		{
+			"name": "Practical 2: Characterising soil profiles",
+			"weight": 8
+		},
+		{
+			"name": "Online Study Quiz 1",
+			"weight": 8
+		},
+		{
+			"name": "Practical 3: Soil respiration",
+			"weight": 8
+		},
+		{
+			"name": "Practical 4: Soil physical properties",
+			"weight": 8
+		},
+		{
+			"name": "Practical 5: QGlobe",
+			"weight": 8
+		},
+		{
+			"name": "Online Study Quiz 2",
+			"weight": 8
+		},
+		{
+			"name": "Final examination",
+			"weight": 44
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Breeding & Genetics Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Animal Breeding - genetic disorders",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

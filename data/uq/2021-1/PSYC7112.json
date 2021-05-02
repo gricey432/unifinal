@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "WAIS-IV/WISC-V Test Administration Competency",
+			"weight": 30
+		},
+		{
+			"name": "WISC-V/WAIS-IV Report and Video Feedback Session",
+			"weight": 70
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Exam - Competency",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

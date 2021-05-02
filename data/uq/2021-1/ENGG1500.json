@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Homework & Tutorial Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Checkpoint Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Checkpoint Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Sustainability Measures for Energy Systems",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": "55%                                        Hurdle"
+		}
+	]
+}

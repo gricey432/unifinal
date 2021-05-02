@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Employability reflection",
+			"weight": 1
+		},
+		{
+			"name": "EPBC REFERRAL",
+			"weight": 40
+		},
+		{
+			"name": "Final EXAM",
+			"weight": 59
+		}
+	]
+}

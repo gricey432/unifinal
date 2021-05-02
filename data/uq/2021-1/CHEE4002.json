@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1a - Risk Register",
+			"weight": 12
+		},
+		{
+			"name": "Mid-semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Project 1b - Tech Memo and Bow Tie",
+			"weight": 18
+		},
+		{
+			"name": "Oral Exam 1 (15 Minutes)",
+			"weight": 15
+		},
+		{
+			"name": "Project 2 - Incident Investigation",
+			"weight": 30
+		},
+		{
+			"name": "Oral Exam 2 (15 Minutes)",
+			"weight": 15
+		}
+	]
+}

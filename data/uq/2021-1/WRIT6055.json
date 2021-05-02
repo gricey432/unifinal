@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshopping",
+			"weight": 10
+		},
+		{
+			"name": "Flash memoir",
+			"weight": "10%                                        800 words"
+		},
+		{
+			"name": "Personal Essay/Biographical Profile",
+			"weight": "25%                                        1200"
+		},
+		{
+			"name": "Major CNF Project",
+			"weight": "55%                                        2500 words"
+		}
+	]
+}

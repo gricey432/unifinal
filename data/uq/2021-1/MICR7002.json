@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Immunology",
+			"weight": 20
+		},
+		{
+			"name": "Module 2 Bacterial Pathogenesis",
+			"weight": 20
+		},
+		{
+			"name": "Module 3 - Parasitic Immunity",
+			"weight": 20
+		},
+		{
+			"name": "Module 4 Viral Diseases Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Module 5 poster presentation",
+			"weight": 20
+		}
+	]
+}

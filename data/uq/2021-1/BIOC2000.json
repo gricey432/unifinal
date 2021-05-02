@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam (Online)",
+			"weight": 20
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final exam (Online)",
+			"weight": 30
+		},
+		{
+			"name": "Laboratory attendance and participation (LEAPS)",
+			"weight": 15
+		},
+		{
+			"name": "Data Analysis Reports (LEAPS)",
+			"weight": "14%                                        NOTE: multiple submissions required, each with their own due date."
+		},
+		{
+			"name": "Practical report (LEAPS)",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory attendance and participation (ALURE)",
+			"weight": 15
+		},
+		{
+			"name": "Data Analysis Plan (ALURE)",
+			"weight": "14%                                        NOTE: multiple submissions required, each with their own due date."
+		},
+		{
+			"name": "Practical report (ALURE)",
+			"weight": 20
+		}
+	]
+}

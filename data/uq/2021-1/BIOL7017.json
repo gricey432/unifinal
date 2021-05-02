@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester short answer theory test",
+			"weight": 10
+		},
+		{
+			"name": "Online",
+			"weight": 5
+		},
+		{
+			"name": "Weekly",
+			"weight": 15
+		},
+		{
+			"name": "Disease Collection",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination - online non-invigilated exam",
+			"weight": 40
+		}
+	]
+}

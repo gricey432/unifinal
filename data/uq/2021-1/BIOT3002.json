@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Pharmaco debates",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Pharmaco Debate",
+			"weight": 20
+		},
+		{
+			"name": "Pharmaco Debate - Peer Assessment",
+			"weight": 5
+		},
+		{
+			"name": "Licensing Negotiation",
+			"weight": 15
+		},
+		{
+			"name": "Theory",
+			"weight": 60
+		}
+	]
+}

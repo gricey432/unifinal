@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1: Assessment",
+			"weight": "30%                                        (1500-1700 words)"
+		},
+		{
+			"name": "Assessment Task 2: Planning and Instruction",
+			"weight": "30%                                        (1500 - 1800 words)"
+		},
+		{
+			"name": "Assessment Task 3: Matthew",
+			"weight": "40%                                        (2500-3000 words)"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly worksheets on L'Analphabète",
+			"weight": 10
+		},
+		{
+			"name": "Class discussion: LAnalphabète",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Oral 1",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Quiz 3",
+			"weight": 10
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		}
+	]
+}

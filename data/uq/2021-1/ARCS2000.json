@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 20
+		},
+		{
+			"name": "Scientific Analysis in Archaeology",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 20
+		}
+	]
+}

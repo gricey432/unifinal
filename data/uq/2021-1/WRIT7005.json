@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Heuristic and Literature Review",
+			"weight": "40%                                        2750 words"
+		},
+		{
+			"name": "Assessment 2: Three Minute Thesis",
+			"weight": "20%                                        3 minutes"
+		},
+		{
+			"name": "Assessment 3: Critical response",
+			"weight": "40%                                        2000 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Developing as a change agent",
+			"weight": 25
+		},
+		{
+			"name": "Change case workshop",
+			"weight": 40
+		},
+		{
+			"name": "Organisational Design Consulting Proposal",
+			"weight": 35
+		}
+	]
+}

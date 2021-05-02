@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Reading Quiz",
+			"weight": 3
+		},
+		{
+			"name": "Leadership Reflection",
+			"weight": 2
+		},
+		{
+			"name": "Report based on class interviews",
+			"weight": 25
+		},
+		{
+			"name": "Critique of contemporary literature",
+			"weight": 25
+		},
+		{
+			"name": "System Evaluation",
+			"weight": 30
+		},
+		{
+			"name": "Individual Student Interview",
+			"weight": 15
+		}
+	]
+}

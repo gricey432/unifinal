@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ARCS2080 Weeks 1-6 Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Plants and Archaeology essay",
+			"weight": 40
+		},
+		{
+			"name": "ARCS2080 Weeks 7-13 assignment",
+			"weight": 30
+		}
+	]
+}

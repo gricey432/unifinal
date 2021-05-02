@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Modules",
+			"weight": 0
+		},
+		{
+			"name": "Quality of Tutorial Participation",
+			"weight": 22.5
+		},
+		{
+			"name": "Major Essay (1500 words)",
+			"weight": 37.5
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review",
+			"weight": 25
+		},
+		{
+			"name": "Proposal and approval Sheet",
+			"weight": 15
+		},
+		{
+			"name": "Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Report",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Induction to Maker Space",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Requirements Documentation",
+			"weight": 10
+		},
+		{
+			"name": "Preliminary Design Report",
+			"weight": 15
+		},
+		{
+			"name": "Preliminary Design Review",
+			"weight": "5%                                        Pass/Fail"
+		},
+		{
+			"name": "Prototype validation test/demonstration",
+			"weight": 15
+		},
+		{
+			"name": "Presentation Evening",
+			"weight": 5
+		},
+		{
+			"name": "Design Documentation",
+			"weight": 30
+		},
+		{
+			"name": "Oral Assessment of Design",
+			"weight": 20
+		},
+		{
+			"name": "Makerspace or Laboratory Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "User Guide or Standard Process (optional)",
+			"weight": "5%                                        (optional bonus)"
+		},
+		{
+			"name": "WebPA Team Peer Review",
+			"weight": "P/F - Impacts Group Work"
+		}
+	]
+}

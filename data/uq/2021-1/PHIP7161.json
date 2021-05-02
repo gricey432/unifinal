@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Digital poster and pitch of a drug/medical device",
+			"weight": 30
+		},
+		{
+			"name": "Vaxxas virtual tour open book test",
+			"weight": 20
+		},
+		{
+			"name": "Multiple choice question quiz",
+			"weight": 50
+		}
+	]
+}

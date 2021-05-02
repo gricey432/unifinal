@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Background quiz",
+			"weight": 1
+		},
+		{
+			"name": "Computer Practicals (Course Assessment Hurdle)",
+			"weight": "Pass or Fail (see 5.4)"
+		},
+		{
+			"name": "Online practical assessment 1",
+			"weight": 16
+		},
+		{
+			"name": "Online practical assessment 2",
+			"weight": 16
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Online practical assessment 3",
+			"weight": 16
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

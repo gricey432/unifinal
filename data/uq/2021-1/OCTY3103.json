@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Decision Making Assignment",
+			"weight": "30%                                        (Must Pass)"
+		},
+		{
+			"name": "People Handling Competency",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Sessional Placement (Adult Physical)",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": "30%                                        (Must Pass)"
+		},
+		{
+			"name": "Viva Examination",
+			"weight": "40%                                        (Must Pass)"
+		}
+	]
+}

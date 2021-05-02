@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Google Ads Certification",
+			"weight": "50%                                        online modules + 1000 word reflection"
+		},
+		{
+			"name": "Digital Advertising Campaign",
+			"weight": "40%                                        3500 words"
+		}
+	]
+}

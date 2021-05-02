@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership Impact",
+			"weight": "25%                                        1000-Word Reflective Essay (Individual Work)"
+		},
+		{
+			"name": "Leadership in the 21st Century",
+			"weight": "35%                                        1500-Word Leader Case Study (Individual Work)"
+		},
+		{
+			"name": "Leadership Development Plan",
+			"weight": "40%                                        1500-Word Report (Individual Work)"
+		}
+	]
+}

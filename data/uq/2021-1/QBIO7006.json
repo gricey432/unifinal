@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Shiny App or Infographic",
+			"weight": 2
+		},
+		{
+			"name": "Tidy data package",
+			"weight": 30
+		},
+		{
+			"name": "Professional report",
+			"weight": 40
+		},
+		{
+			"name": "Tweet with image",
+			"weight": 2
+		},
+		{
+			"name": "Cover letter, CV, live interview",
+			"weight": 25
+		}
+	]
+}

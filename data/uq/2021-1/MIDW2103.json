@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Practice Preparation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Practice Completion",
+			"weight": "NGP"
+		}
+	]
+}

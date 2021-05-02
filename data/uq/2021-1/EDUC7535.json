@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Teaching Practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional practice log & critical reflection",
+			"weight": "Pass/Fail (2000 words)"
+		},
+		{
+			"name": "PDP and critical reflection essay",
+			"weight": "Pass/Fail (1500 words)"
+		}
+	]
+}

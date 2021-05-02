@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1: Neuroanatomy",
+			"weight": 3
+		},
+		{
+			"name": "Online Quiz 2: Pregnancy OGTT",
+			"weight": 3
+		},
+		{
+			"name": "Online Quiz 3 Pain management",
+			"weight": 3
+		},
+		{
+			"name": "Online Quiz 4: Hypovolaemia / model circulation",
+			"weight": 3
+		},
+		{
+			"name": "Online Quiz 5: Integration workshop",
+			"weight": 3
+		},
+		{
+			"name": "Fact Sheet on one maternal disorder",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 55
+		}
+	]
+}

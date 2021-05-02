@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 3 online group discussion",
+			"weight": "20%                                        (4 discussion periods, 5% each)"
+		},
+		{
+			"name": "Assessment 1A&B MCPR background & foreground",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 2 Making Connections Video diary",
+			"weight": 35
+		}
+	]
+}

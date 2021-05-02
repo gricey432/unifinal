@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Quiz",
+			"weight": 50
+		},
+		{
+			"name": "In-class Test",
+			"weight": 25
+		},
+		{
+			"name": "Zooarchaeological Report",
+			"weight": 25
+		}
+	]
+}

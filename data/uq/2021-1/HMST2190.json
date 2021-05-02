@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Sociocultural issues in Practice",
+			"weight": 60
+		}
+	]
+}

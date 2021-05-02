@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Stimulus Based Short Essay Workbook",
+			"weight": 30
+		},
+		{
+			"name": "Research Based Essay",
+			"weight": 45
+		},
+		{
+			"name": "Content and Stimulus Based Quiz",
+			"weight": 25
+		}
+	]
+}

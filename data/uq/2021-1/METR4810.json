@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Problem Analysis (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Progress Review 1 (individual)",
+			"weight": 0
+		},
+		{
+			"name": "Progress Seminar (team)",
+			"weight": 10
+		},
+		{
+			"name": "Progress Review 2 (individual)",
+			"weight": 0
+		},
+		{
+			"name": "Preliminary Report (individual)",
+			"weight": 0
+		},
+		{
+			"name": "Product Mark (team)",
+			"weight": 60
+		},
+		{
+			"name": "Final Report (individual)",
+			"weight": 20
+		}
+	]
+}

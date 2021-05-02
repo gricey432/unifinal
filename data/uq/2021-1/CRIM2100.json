@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Industry Problem Research Paper (1,500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Blog Participation",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assignment(1,500 words)",
+			"weight": 45
+		}
+	]
+}

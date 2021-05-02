@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: The Skeletal System",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2: Muscular System",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3: Nervous & Endocrine Systems",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 4: Visceral Systems",
+			"weight": 5
+		},
+		{
+			"name": "Meta-Learning 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Meta-Learning Task 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Mid-semester Exam (Online Invigilated)",
+			"weight": 30
+		},
+		{
+			"name": "End-of-Semester Exam (Online Invigilated)",
+			"weight": 45
+		}
+	]
+}

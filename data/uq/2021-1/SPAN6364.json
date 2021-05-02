@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Article/Chapter Review 1",
+			"weight": 20
+		},
+		{
+			"name": "Article/Chapter review 2",
+			"weight": 20
+		},
+		{
+			"name": "Article/Chapter review 3",
+			"weight": 20
+		},
+		{
+			"name": "Essay draft and presentation",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		}
+	]
+}

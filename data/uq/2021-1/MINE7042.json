@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Participation",
+			"weight": 10
+		},
+		{
+			"name": "A2: Application of Analysis & Investigation Models",
+			"weight": 20
+		},
+		{
+			"name": "A1: Incident Investigation Maturity Exercise",
+			"weight": 15
+		},
+		{
+			"name": "A3: Case Study 2 Report",
+			"weight": 25
+		},
+		{
+			"name": "A4: Case Study 1 Investigation Report",
+			"weight": 30
+		}
+	]
+}

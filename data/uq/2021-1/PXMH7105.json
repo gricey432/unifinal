@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online discussion board",
+			"weight": "40%                                        10 posts/300 words"
+		},
+		{
+			"name": "Challenges of practicing advanced skills",
+			"weight": "20%                                        1200 words"
+		},
+		{
+			"name": "Therapeutic models for complex clinical problems",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

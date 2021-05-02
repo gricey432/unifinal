@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation at internship and at class meetings",
+			"weight": "20%                                        On-going"
+		},
+		{
+			"name": "Reflective essay",
+			"weight": "20%                                        2000 Words"
+		},
+		{
+			"name": "Annotated Bibliography for Research Essay",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        2250 words"
+		}
+	]
+}

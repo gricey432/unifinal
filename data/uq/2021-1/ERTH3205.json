@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "6 Practical Assignments",
+			"weight": 45
+		},
+		{
+			"name": "Easter Quiz",
+			"weight": 5
+		},
+		{
+			"name": "5 min presentation",
+			"weight": 10
+		},
+		{
+			"name": "Theory Examination",
+			"weight": 40
+		}
+	]
+}

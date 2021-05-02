@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "#1 Linking field and image data to map and measure",
+			"weight": 35
+		},
+		{
+			"name": "#2 Image Processing and Analysis",
+			"weight": 64
+		}
+	]
+}

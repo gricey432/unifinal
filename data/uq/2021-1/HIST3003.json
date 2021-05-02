@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reading response",
+			"weight": 35
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 50
+		},
+		{
+			"name": "Critical peer review",
+			"weight": 15
+		}
+	]
+}

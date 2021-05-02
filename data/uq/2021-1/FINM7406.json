@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid Semester Exam (Taken on Blackboard)",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Take Home Final Assessment",
+			"weight": 45
+		},
+		{
+			"name": "Individual Assignment",
+			"weight": 30
+		}
+	]
+}

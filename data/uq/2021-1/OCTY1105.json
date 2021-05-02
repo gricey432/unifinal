@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Library tutorial",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "Indigenous Health On-Line Module",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "Activity and occupational analysis",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "Fieldwork Report: Model Application",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "End of semester Exam",
+			"weight": "40%                                        MUST PASS"
+		}
+	]
+}

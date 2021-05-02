@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Learning Plan",
+			"weight": "10%                                        500 words"
+		},
+		{
+			"name": "Critical Review",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Participation in professional communities",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Aust Professional Standards for Teachers",
+			"weight": "Ass 2"
+		},
+		{
+			"name": "Standard 1 Know students and how they learn",
+			"weight": ""
+		},
+		{
+			"name": "2.1, 2.5, 2.6",
+			"weight": "X"
+		},
+		{
+			"name": "3.4",
+			"weight": "x"
+		},
+		{
+			"name": "4.5",
+			"weight": ""
+		},
+		{
+			"name": "Standard 5 Assess, provide feedback and report on student learning",
+			"weight": ""
+		},
+		{
+			"name": "6.1, 6.2, 6.3, 6.4",
+			"weight": ""
+		},
+		{
+			"name": "7.4",
+			"weight": ""
+		}
+	]
+}

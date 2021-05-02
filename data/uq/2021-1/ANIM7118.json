@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Rehabilitation Work and Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation in the equine industry",
+			"weight": 15
+		},
+		{
+			"name": "Industry lecture",
+			"weight": 15
+		},
+		{
+			"name": "Online Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 25
+		}
+	]
+}

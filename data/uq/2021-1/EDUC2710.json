@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Arts and Creativity Content Knowledge",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Portfolio  Content knowledge & Resources",
+			"weight": "40%                                        2000 words"
+		},
+		{
+			"name": "Assessment 2 - Leading with Drama",
+			"weight": "40%                                        3 Minute Presentation"
+		}
+	]
+}

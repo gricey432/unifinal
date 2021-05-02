@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Accident Investigation Report",
+			"weight": 30
+		},
+		{
+			"name": "Problem set/s",
+			"weight": 40
+		}
+	]
+}

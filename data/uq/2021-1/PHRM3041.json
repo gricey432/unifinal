@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 35
+		},
+		{
+			"name": "Literature Review Assignment on PCSK9 Inhibitors",
+			"weight": 30
+		},
+		{
+			"name": "EOS Online Open-Book Blackboard (non-invigilated)",
+			"weight": 35
+		}
+	]
+}

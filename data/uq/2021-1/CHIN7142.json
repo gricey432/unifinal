@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Home Translation",
+			"weight": 25
+		},
+		{
+			"name": "Translation Revision",
+			"weight": 10
+		},
+		{
+			"name": "Class Translation",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

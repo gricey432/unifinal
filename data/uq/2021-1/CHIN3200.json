@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Diagnostic writing test",
+			"weight": 1
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam",
+			"weight": 54
+		}
+	]
+}

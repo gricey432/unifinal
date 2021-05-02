@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical thinking questions based on practicals",
+			"weight": 25
+		},
+		{
+			"name": "Production of species web page",
+			"weight": 50
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 25
+		}
+	]
+}

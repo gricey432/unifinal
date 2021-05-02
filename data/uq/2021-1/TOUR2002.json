@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Assessment",
+			"weight": "50%                                        Individual"
+		},
+		{
+			"name": "Critical Issues Report",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

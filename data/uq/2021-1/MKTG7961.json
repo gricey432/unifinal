@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First draft of marketing plan",
+			"weight": 10
+		},
+		{
+			"name": "Progressive development of marketing plan",
+			"weight": 15
+		},
+		{
+			"name": "Finalisation of marketing plan",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

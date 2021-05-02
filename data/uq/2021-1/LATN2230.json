@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Declension, Conjugation, Principal Parts Quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Homework Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Test",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Exam set timed on Blackboard",
+			"weight": 40
+		}
+	]
+}

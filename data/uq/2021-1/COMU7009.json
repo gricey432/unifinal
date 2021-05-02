@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mandatory Milestone Task",
+			"weight": "Pass/Fail1,200 words (minimum)"
+		},
+		{
+			"name": "Mandatory Milestone task",
+			"weight": "Pass/Fail5,000 words (minimum)"
+		},
+		{
+			"name": "Full Submission: Communication Thesis Res Proj.",
+			"weight": "100%                                        Project-50%; exegesis 6000 words-50%"
+		},
+		{
+			"name": "Full Submission: Communication Research Thesis",
+			"weight": "100%                                        12,000 words (+/- 10%)"
+		}
+	]
+}

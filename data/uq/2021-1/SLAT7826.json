@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and Reading Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Online Discussion 1",
+			"weight": 10
+		},
+		{
+			"name": "Online Discussion 2",
+			"weight": 10
+		},
+		{
+			"name": "Activity sheets in TBLT curriculum",
+			"weight": 35
+		},
+		{
+			"name": "English as an international language",
+			"weight": 35
+		}
+	]
+}

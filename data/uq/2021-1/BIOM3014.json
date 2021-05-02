@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report",
+			"weight": 25
+		},
+		{
+			"name": "Student Workshop 1  Journal Article Presentation",
+			"weight": 0
+		},
+		{
+			"name": "Student Workshop 2  Journal Article Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Exam (Online Invigilated)",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory Exam (Online Invigilated)",
+			"weight": 35
+		}
+	]
+}

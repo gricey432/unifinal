@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reading responses",
+			"weight": 10
+		},
+		{
+			"name": "Participation and facilitation",
+			"weight": 15
+		},
+		{
+			"name": "Academic integrity module",
+			"weight": 0
+		},
+		{
+			"name": "Annotated bibliography (1,100 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (2,500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Concept definition quiz",
+			"weight": 25
+		}
+	]
+}

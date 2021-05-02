@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Iron Boomerang (First Version)",
+			"weight": 25
+		},
+		{
+			"name": "Project Iron Boomerang (Revised Version)",
+			"weight": 30
+		},
+		{
+			"name": "Three 1200-Word Essays",
+			"weight": 45
+		}
+	]
+}

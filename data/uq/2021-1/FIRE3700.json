@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		},
+		{
+			"name": "Online quiz",
+			"weight": 30
+		},
+		{
+			"name": "Individual assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice, true/false quiz - 1",
+			"weight": 15
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 2",
+			"weight": 15
+		},
+		{
+			"name": "Redland City Council Landscape Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 3",
+			"weight": 15
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 4",
+			"weight": 15
+		}
+	]
+}

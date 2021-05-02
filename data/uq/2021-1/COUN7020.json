@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Counselling Competency Interview",
+			"weight": "Hurdle Requirement"
+		},
+		{
+			"name": "Student Declaration",
+			"weight": "Formative"
+		},
+		{
+			"name": "Supervision Contract",
+			"weight": "Formative"
+		},
+		{
+			"name": "Core Skills Competency",
+			"weight": "Formative"
+		},
+		{
+			"name": "Learning Journal",
+			"weight": "Personal Development"
+		},
+		{
+			"name": "Formative Supervisor Evaluation of Practice",
+			"weight": "Formative"
+		},
+		{
+			"name": "Practicum Report Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Project Plan",
+			"weight": "40%                                        1,750 - 2,000 words"
+		},
+		{
+			"name": "Research Report",
+			"weight": "60%                                        4,000 - 5,000 words"
+		}
+	]
+}

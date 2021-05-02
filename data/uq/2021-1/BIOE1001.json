@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz during tutorial time",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Component (Basic Bioeng Lab skills)",
+			"weight": 6
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Field trip report",
+			"weight": 2
+		},
+		{
+			"name": "Quiz during tutorial time",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Component (Bioprocess prac)",
+			"weight": 6
+		},
+		{
+			"name": "Laboratory Component (Biomed prac)",
+			"weight": 6
+		},
+		{
+			"name": "Quiz during tutorial time",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

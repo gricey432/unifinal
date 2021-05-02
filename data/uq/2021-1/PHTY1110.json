@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflexivity Assignment - Culture & Physiotherapy",
+			"weight": "15%                                        (Must Pass)"
+		},
+		{
+			"name": "Mid Semester Practical Examination",
+			"weight": "30%                                        (Must Pass)"
+		},
+		{
+			"name": "End of Semester Written Examination",
+			"weight": "55%                                        (Must Pass)"
+		}
+	]
+}

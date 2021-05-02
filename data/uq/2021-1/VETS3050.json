@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Toxic plant, fungi, cyanobacteria identification",
+			"weight": 5
+		},
+		{
+			"name": "Toxicology scenario group online presentation",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 theory examination",
+			"weight": 35
+		},
+		{
+			"name": "Integrative Clinical Case Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester 2 theory exam",
+			"weight": 30
+		}
+	]
+}

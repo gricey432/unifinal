@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interim Critique",
+			"weight": 30
+		},
+		{
+			"name": "Project review",
+			"weight": 0
+		},
+		{
+			"name": "Final Critique",
+			"weight": 70
+		}
+	]
+}

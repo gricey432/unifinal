@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Peer review and feedback",
+			"weight": 20
+		},
+		{
+			"name": "Oral seminar presentation",
+			"weight": 35
+		},
+		{
+			"name": "Contribution to class activities",
+			"weight": 10
+		},
+		{
+			"name": "Abstract and key-points",
+			"weight": 35
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation and Peer assessment",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

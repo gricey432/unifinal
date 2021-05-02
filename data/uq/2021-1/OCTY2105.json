@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Online Exam",
+			"weight": "50%                                        MUST PASS"
+		},
+		{
+			"name": "End Semester Online Exam",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

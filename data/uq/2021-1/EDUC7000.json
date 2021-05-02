@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Plan",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Position Paper - Positive Youth Development",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Adolescent Dilemma in Context",
+			"weight": "45%                                        3000 words"
+		}
+	]
+}

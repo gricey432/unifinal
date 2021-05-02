@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Stages Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Project Milestone",
+			"weight": 5
+		},
+		{
+			"name": "Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

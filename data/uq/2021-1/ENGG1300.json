@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly On-line Quizzes (2% each)",
+			"weight": "20%                                        Best 10 of the 11 quizzes count 2% each"
+		},
+		{
+			"name": "Midsemester Test",
+			"weight": 15
+		},
+		{
+			"name": "Audio filter design report",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Case Study Written Assignment - Mid Semester",
+			"weight": 20
+		},
+		{
+			"name": "Week 3 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Week 4 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Week 5 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Week 6 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Week 7 Quizzes",
+			"weight": 4
+		},
+		{
+			"name": "Case Study Written Assignment - End Semester",
+			"weight": 36
+		},
+		{
+			"name": "Case Study Video",
+			"weight": 20
+		}
+	]
+}

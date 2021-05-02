@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of the practicals",
+			"weight": 49
+		},
+		{
+			"name": "Self reflection on workplace skill development",
+			"weight": 1
+		},
+		{
+			"name": "Final Examination - online non-invigilated exam",
+			"weight": 50
+		}
+	]
+}

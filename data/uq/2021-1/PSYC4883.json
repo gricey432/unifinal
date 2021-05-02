@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Student Seminar",
+			"weight": "0%                                        pass / fail"
+		},
+		{
+			"name": "Class Participation",
+			"weight": "0%                                        pass / fail"
+		},
+		{
+			"name": "Research Proposal - Introduction",
+			"weight": 50
+		},
+		{
+			"name": "Research Proposal - Proposal",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Student seminar",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

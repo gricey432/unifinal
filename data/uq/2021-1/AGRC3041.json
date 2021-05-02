@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "5x quiz - dates to be advised",
+			"weight": 30
+		},
+		{
+			"name": "Pigeon Pea Breeding Trial",
+			"weight": 20
+		},
+		{
+			"name": "Analysis and interpretation of MET data",
+			"weight": 30
+		},
+		{
+			"name": "Report on field visits",
+			"weight": 20
+		}
+	]
+}

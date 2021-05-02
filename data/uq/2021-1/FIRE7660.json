@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Assignment #1 (10%)",
+			"weight": 10
+		},
+		{
+			"name": "Individual Assignment #2 (10%)",
+			"weight": 10
+		},
+		{
+			"name": "Individual Assignment #3 (30%)",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination (50%)",
+			"weight": 50
+		}
+	]
+}

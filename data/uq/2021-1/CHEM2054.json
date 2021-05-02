@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory component CHEM2054",
+			"weight": 60
+		},
+		{
+			"name": "Lab Notebook",
+			"weight": "0%                                        Pass/Fail - fail = downgrade of one grade level"
+		},
+		{
+			"name": "Mid-semester examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester examination",
+			"weight": 25
+		},
+		{
+			"name": "Number of reschedules",
+			"weight": ""
+		},
+		{
+			"name": "First reschedule",
+			"weight": ""
+		},
+		{
+			"name": "Second reschedule of same experiment",
+			"weight": ""
+		},
+		{
+			"name": "First reschedule plus a second reschedule (different experiments)",
+			"weight": ""
+		},
+		{
+			"name": "No third reschedule possible",
+			"weight": ""
+		}
+	]
+}

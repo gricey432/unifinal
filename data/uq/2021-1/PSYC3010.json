@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Factorial Design Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "ANOVA Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1: Factorial Designs",
+			"weight": "20%                                        And must be completed to pass the course."
+		},
+		{
+			"name": "Regression Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2: Multiple Regression",
+			"weight": "20%                                        And must be completed to pass the course."
+		},
+		{
+			"name": "Exam",
+			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reports",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

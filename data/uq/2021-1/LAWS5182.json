@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Seminar Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Law-Reform Submission",
+			"weight": 30
+		},
+		{
+			"name": "Major Research Essay",
+			"weight": 60
+		}
+	]
+}

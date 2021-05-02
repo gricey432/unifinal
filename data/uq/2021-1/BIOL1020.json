@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "\"Scientific Summary\"",
+			"weight": 7
+		},
+		{
+			"name": "Online Learning (EdX) questions",
+			"weight": "0%                                        Grade Restriction (see grade matrix)"
+		},
+		{
+			"name": "Tutorials",
+			"weight": "0%                                        Compulsory Hurdle"
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": "0%                                        Examinable"
+		},
+		{
+			"name": "Practical class preparation & participation",
+			"weight": 3
+		},
+		{
+			"name": "Mini-tests",
+			"weight": "40%                                        3x13.3%"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

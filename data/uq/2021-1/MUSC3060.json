@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Music Techniques Worksheets",
+			"weight": 30
+		},
+		{
+			"name": "Pastiche Composition Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Dictations and Listening Test",
+			"weight": 20
+		},
+		{
+			"name": "Individual Performance",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Professional participation and contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Feedback Action Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Consultation",
+			"weight": 15
+		},
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Follow Up Consultation",
+			"weight": "40%                                        2 x 20% ea"
+		}
+	]
+}

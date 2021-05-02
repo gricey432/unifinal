@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Self-directed learning exercises",
+			"weight": 10
+		},
+		{
+			"name": "Problem-based Learning Exercise 1",
+			"weight": 5
+		},
+		{
+			"name": "Problem-based Learning Exercise 2",
+			"weight": 5
+		},
+		{
+			"name": "Problem-based Learning Exercise 3",
+			"weight": 5
+		},
+		{
+			"name": "A written report covering the entire practical",
+			"weight": 12.5
+		},
+		{
+			"name": "Quiz prior prac session in week 9",
+			"weight": 2.5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

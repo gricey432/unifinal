@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Anaesthesia/Analgesia Performance Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Diagnostic Imaging Clinical Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Emergency and Critical Care Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Skills List",
+			"weight": "P/F"
+		},
+		{
+			"name": "Capstone Examination A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone Examination B",
+			"weight": 10
+		}
+	]
+}

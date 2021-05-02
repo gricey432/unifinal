@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Opening Discussions on Vignette",
+			"weight": 10
+		},
+		{
+			"name": "Selection of tutorial exercises",
+			"weight": "30%                                        (2 selected tasks)"
+		},
+		{
+			"name": "Design a High Performance Review: Task One",
+			"weight": "30%                                        Report and Presentation"
+		},
+		{
+			"name": "Conduct a High Performance Review: Task Two",
+			"weight": 30
+		}
+	]
+}

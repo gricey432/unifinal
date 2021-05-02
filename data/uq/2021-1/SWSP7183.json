@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Recovery Model",
+			"weight": 20
+		},
+		{
+			"name": "Mental Status Examination Report",
+			"weight": 40
+		},
+		{
+			"name": "Suicide Risk Assessment",
+			"weight": 40
+		}
+	]
+}

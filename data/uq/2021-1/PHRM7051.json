@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module Participation and Completion",
+			"weight": "12%                                        4% per module"
+		},
+		{
+			"name": "Tutorial Presentations & Participation",
+			"weight": "12%                                        4% per tutorial"
+		},
+		{
+			"name": "Logic model or service blue print",
+			"weight": "6%                                        Pass / Fail"
+		},
+		{
+			"name": "Peer Evaluation of Group Contributions",
+			"weight": "2%                                        Pass/Fail"
+		},
+		{
+			"name": "Analysis of journal article",
+			"weight": 12
+		},
+		{
+			"name": "Interview with manager",
+			"weight": 10
+		},
+		{
+			"name": "Review of logic model or service blue print",
+			"weight": 12
+		},
+		{
+			"name": "Business or service development proposal",
+			"weight": 34
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "News writing task",
+			"weight": "20%                                        Twitter introduction task"
+		},
+		{
+			"name": "Story idea and pitch",
+			"weight": "30%                                        350 words"
+		},
+		{
+			"name": "Final news story: story and images",
+			"weight": "50%                                        400-500 words and 2 images"
+		}
+	]
+}

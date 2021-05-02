@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch your proposal",
+			"weight": 15
+		},
+		{
+			"name": "Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal for shiptime",
+			"weight": 35
+		},
+		{
+			"name": "Field Trip Report",
+			"weight": 20
+		}
+	]
+}

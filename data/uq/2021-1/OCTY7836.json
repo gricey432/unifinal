@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Practice Evaluation Form-Revised SecondEd",
+			"weight": "Non graded Pass/Fail"
+		},
+		{
+			"name": "Submission of placement documentation",
+			"weight": "Non graded compulsory component"
+		},
+		{
+			"name": "Online Placement Support Reflection Questions",
+			"weight": "Non graded compulsory component"
+		},
+		{
+			"name": "Lecture and Workshop series",
+			"weight": "Non graded compulsory component"
+		}
+	]
+}

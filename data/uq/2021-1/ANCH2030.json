@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials 1-10",
+			"weight": 15
+		},
+		{
+			"name": "Map Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Essay",
+			"weight": 30
+		},
+		{
+			"name": "Midterm Exam",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Final Exam",
+			"weight": 35
+		}
+	]
+}

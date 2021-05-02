@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Modules",
+			"weight": 0
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Exam #1",
+			"weight": 25
+		},
+		{
+			"name": "Take Home Exam #2",
+			"weight": 25
+		},
+		{
+			"name": "Policy Research Essay (3000 Words)",
+			"weight": 40
+		}
+	]
+}

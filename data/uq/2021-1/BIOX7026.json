@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "First semester week 3 Checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "First semester week 8 Checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Second semester week 6 checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Third semester week 6 checkpoint meeting",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research seminar presentation",
+			"weight": 10
+		},
+		{
+			"name": "Notebook and assessment of research performance",
+			"weight": 20
+		},
+		{
+			"name": "Report assessment",
+			"weight": 70
+		}
+	]
+}

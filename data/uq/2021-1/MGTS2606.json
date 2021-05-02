@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online QUiz",
+			"weight": 20
+		},
+		{
+			"name": "Group Workshop:Management Consultant Communication",
+			"weight": 40
+		},
+		{
+			"name": "Case Review Analysis",
+			"weight": 40
+		}
+	]
+}

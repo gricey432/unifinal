@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PEARL Package 1",
+			"weight": 30
+		},
+		{
+			"name": "Quiz- Multiple Choice",
+			"weight": 10
+		},
+		{
+			"name": "PEARL Package 2",
+			"weight": 30
+		},
+		{
+			"name": "Digital story",
+			"weight": 30
+		}
+	]
+}

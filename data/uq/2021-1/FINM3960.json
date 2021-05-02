@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "computer-based assessment",
+			"weight": 25
+		},
+		{
+			"name": "case study report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (online non-invigilated exam)",
+			"weight": 45
+		}
+	]
+}

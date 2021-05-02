@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Planning Unit Meetings (Groupwork)",
+			"weight": 30
+		},
+		{
+			"name": "Making Strategic Decisions (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Politics of Organisational Structure (Individual)",
+			"weight": 40
+		}
+	]
+}

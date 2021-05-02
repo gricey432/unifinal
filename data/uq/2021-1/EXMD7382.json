@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "Skill Competency Check List",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Theory Quizzes",
+			"weight": 28
+		},
+		{
+			"name": "Skill Video",
+			"weight": 20
+		},
+		{
+			"name": "Personal Data in Excel",
+			"weight": 2
+		},
+		{
+			"name": "Reflection task",
+			"weight": 5
+		},
+		{
+			"name": "Final Practical Exam",
+			"weight": "45%                                        (MUST PASS)"
+		}
+	]
+}

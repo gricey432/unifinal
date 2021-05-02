@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks",
+			"weight": "25%                                        250 or 500 words per task (5 tasks)"
+		},
+		{
+			"name": "Research to practice:Teaching & learning fractions",
+			"weight": "40%                                        + or - 10% of 3000 words"
+		},
+		{
+			"name": "Developing a lesson sequence.",
+			"weight": "35%                                        + or - 10% of 2500 words"
+		}
+	]
+}

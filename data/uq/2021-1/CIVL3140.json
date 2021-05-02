@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Assessment Feedback Sessions (CAFS)",
+			"weight": 6
+		},
+		{
+			"name": "Four practical class group reports",
+			"weight": "16%                                        Compulsory attendance and participation to each experiment"
+		},
+		{
+			"name": "Field work assignment",
+			"weight": 13
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 65
+		}
+	]
+}

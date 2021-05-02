@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Senior learning and teaching sequence",
+			"weight": "30%                                        5,000 words approx."
+		},
+		{
+			"name": "Middle school learning and teaching sequence",
+			"weight": "30%                                        5,000 words approx."
+		},
+		{
+			"name": "Assessment design",
+			"weight": "20%                                        2,000 words approx."
+		},
+		{
+			"name": "Professional engagement and communication",
+			"weight": "20%                                        2,000 words approx."
+		}
+	]
+}

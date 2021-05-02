@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Problems 1: Pressure Transient Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Homework Problems 2: Type curve analysis",
+			"weight": 10
+		},
+		{
+			"name": "Homework Problems 3: Gas well test",
+			"weight": 10
+		},
+		{
+			"name": "Homework Problems 4: DST, injection/falloff test",
+			"weight": 10
+		},
+		{
+			"name": "Homework Problems 5: DFIT Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

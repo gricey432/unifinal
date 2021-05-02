@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "End Semester Examination",
+			"weight": 50
+		},
+		{
+			"name": "ASSESSMENT 1 Strategic Futures Presentation",
+			"weight": 20
+		},
+		{
+			"name": "ASSESSMENT 2  Strategic Futures Assessment Report",
+			"weight": 30
+		}
+	]
+}

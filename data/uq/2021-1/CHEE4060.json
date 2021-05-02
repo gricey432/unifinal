@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Problem sets",
+			"weight": 9
+		},
+		{
+			"name": "Interim Report for Project deliverable 1",
+			"weight": "0%                                        Optional"
+		},
+		{
+			"name": "Practical session attendance",
+			"weight": 2
+		},
+		{
+			"name": "Practice hand-in sheets",
+			"weight": 6
+		},
+		{
+			"name": "Project deliverable 1: Process analysis/control",
+			"weight": "26%                                        Hurdle"
+		},
+		{
+			"name": "PA for Project deliverable 1 report",
+			"weight": "Applied to Project deliverable 1 mark"
+		},
+		{
+			"name": "PA for Project deliverable 2 report",
+			"weight": "Applied to Project deliverable 2 mark"
+		},
+		{
+			"name": "Project deliverable 2: Controller design",
+			"weight": "20%                                        Hurdle"
+		},
+		{
+			"name": "Final exam",
+			"weight": "37%                                        Hurdle"
+		}
+	]
+}

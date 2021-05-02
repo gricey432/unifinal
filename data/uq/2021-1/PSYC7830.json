@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Supervision Agreement Form",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Point Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End-Point Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Client/Supervision(inc. Records)/Other Activities",
+			"weight": "Pass/Fail"
+		}
+	]
+}

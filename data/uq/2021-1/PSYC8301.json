@@ -1,0 +1,76 @@
+{
+	"assessment": [
+		{
+			"name": "Intake interview and self-reflection",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Suicide risk assessment",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Observation of clinical interaction - minimum of 3",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Clinical, supervision and other related hours",
+			"weight": "This is required throughout all placements"
+		},
+		{
+			"name": "Case presentation",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Mid-Semester Checklist",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Mid-Semester Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Multi Station Assessment Task (MSAT)",
+			"weight": "Pass/Recycle/Fail"
+		},
+		{
+			"name": "End Semester Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "T1 Form",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Log",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Video",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact course coordinator"
+		},
+		{
+			"name": "Mid-Semester Checklist",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Mid-Semester and End Semester Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "MSAT",
+			"weight": "Contact the Course Coordinator directly."
+		},
+		{
+			"name": "T1 Checklist",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

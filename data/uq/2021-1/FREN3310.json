@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online and in-class discussion",
+			"weight": 10
+		},
+		{
+			"name": "Translations",
+			"weight": "20%                                        (Translation 2 10%, Translation 3 10%)"
+		},
+		{
+			"name": "Team Translation",
+			"weight": 10
+		},
+		{
+			"name": "Final Translation Project",
+			"weight": "20%                                        (10% translation, 10% commentary)"
+		},
+		{
+			"name": "Reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam - Translation and Commentary",
+			"weight": 30
+		}
+	]
+}

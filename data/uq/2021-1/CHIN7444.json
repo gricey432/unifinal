@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Interpreting/Translation",
+			"weight": 25
+		},
+		{
+			"name": "Weekly Interpreting/Translation Assignments",
+			"weight": 25
+		},
+		{
+			"name": "Final Interpreting Test",
+			"weight": 50
+		}
+	]
+}

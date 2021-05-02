@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement Preparation",
+			"weight": "NGP"
+		},
+		{
+			"name": "IPE Simulation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		}
+	]
+}

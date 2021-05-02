@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Significance assessment",
+			"weight": 40
+		},
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Cultural Heritage Management Plan",
+			"weight": 50
+		}
+	]
+}

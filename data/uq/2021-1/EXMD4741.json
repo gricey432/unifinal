@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Exercise Intervention and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Practical/Viva Exam",
+			"weight": 30
+		},
+		{
+			"name": "Program Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

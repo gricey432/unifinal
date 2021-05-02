@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Assignment",
+			"weight": "50%                                        MUST PASS"
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "Environment Presentation & Facilitated Discussion",
+			"weight": "20%                                        MUST PASS"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": "15%                                        5% X 3 = 15%"
+		},
+		{
+			"name": "Reading and Writing Test",
+			"weight": 25
+		},
+		{
+			"name": "Quiz (grammar & expressions)",
+			"weight": 30
+		},
+		{
+			"name": "Final written exam",
+			"weight": 30
+		}
+	]
+}

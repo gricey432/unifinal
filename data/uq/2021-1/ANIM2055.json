@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design brief of enclosure",
+			"weight": 10
+		},
+		{
+			"name": "Online Mid-semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on practice against ACMHN Standards",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Assessment against ACMHN Standards",
+			"weight": 30
+		},
+		{
+			"name": "Reflection on practice against ACMHN Standards",
+			"weight": 50
+		}
+	]
+}

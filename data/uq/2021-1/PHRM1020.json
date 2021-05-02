@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pharm. calculations: BlackBoard Quizzes (4 x 2.5%)",
+			"weight": 10
+		},
+		{
+			"name": "Pharmaceutical calculations:Online Tests (4x10%)",
+			"weight": 40
+		},
+		{
+			"name": "Data analysis workshops(8x1%)",
+			"weight": 8
+		},
+		{
+			"name": "Data analysis online non-invigilated examination",
+			"weight": 42
+		}
+	]
+}

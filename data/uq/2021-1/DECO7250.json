@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Studios",
+			"weight": "Pass/Fail (Individual)"
+		},
+		{
+			"name": "Mind Map & Presentation",
+			"weight": "15%                                        (Individual)"
+		},
+		{
+			"name": "HCI/UX Overview to a Method or Concept Essay",
+			"weight": "20%                                        (Individual)"
+		},
+		{
+			"name": "Group Project",
+			"weight": "30%                                        (Group)"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "35%                                        (Individual)"
+		}
+	]
+}

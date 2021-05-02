@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Individual exercise 1",
+			"weight": 10
+		},
+		{
+			"name": "Project A report",
+			"weight": 15
+		},
+		{
+			"name": "Project A presentation",
+			"weight": 5
+		},
+		{
+			"name": "Individual exercise 2",
+			"weight": 12.5
+		},
+		{
+			"name": "Project B report",
+			"weight": 30
+		},
+		{
+			"name": "Project B presentation",
+			"weight": 7.5
+		},
+		{
+			"name": "Oral defence examination - 20 min/person(School)",
+			"weight": 20
+		}
+	]
+}

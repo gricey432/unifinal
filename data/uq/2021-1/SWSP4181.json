@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Framework for practice in health and ageing",
+			"weight": 40
+		},
+		{
+			"name": "Demonstration of skills",
+			"weight": 30
+		},
+		{
+			"name": "Part One: Case note from the demonstration",
+			"weight": 10
+		},
+		{
+			"name": "Part Two: Reflection on the demonstration",
+			"weight": 20
+		}
+	]
+}

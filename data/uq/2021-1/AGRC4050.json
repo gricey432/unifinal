@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar on proposed major research assignment",
+			"weight": 10
+		},
+		{
+			"name": "Review of an agricultural development book/movie",
+			"weight": 10
+		},
+		{
+			"name": "Major research assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

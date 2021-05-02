@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Threshold concept quiz",
+			"weight": 20
+		},
+		{
+			"name": "Tools-based analysis of a corporate",
+			"weight": "40%                                        Team"
+		},
+		{
+			"name": "Take home assessment",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

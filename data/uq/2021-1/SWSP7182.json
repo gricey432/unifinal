@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulated exercise on communication",
+			"weight": 5
+		},
+		{
+			"name": "Social Work: Children, Young People and Families",
+			"weight": "55%                                        Three written exercises related to classroom activities"
+		},
+		{
+			"name": "Family Group Meeting Simulation and Review",
+			"weight": "40%                                        (simulation of family meeting & structured reflection)"
+		}
+	]
+}

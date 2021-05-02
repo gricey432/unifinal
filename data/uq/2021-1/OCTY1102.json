@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection Report",
+			"weight": "25%                                        MUST PASS"
+		},
+		{
+			"name": "Assessment Interview",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "Therapeutic Communication Exam",
+			"weight": "45%                                        MUST PASS"
+		},
+		{
+			"name": "Practice Interview and Peer Review",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

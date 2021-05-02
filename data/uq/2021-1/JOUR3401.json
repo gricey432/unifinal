@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Story pitch",
+			"weight": "Milestone"
+		},
+		{
+			"name": "News story",
+			"weight": 40
+		},
+		{
+			"name": "Journalism Project",
+			"weight": 60
+		}
+	]
+}

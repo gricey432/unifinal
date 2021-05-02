@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment (individual)",
+			"weight": 40
+		},
+		{
+			"name": "Cultural Safety learning module and attached quiz",
+			"weight": "0%                                        must be attempted"
+		},
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 60
+		}
+	]
+}

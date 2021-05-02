@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Modules",
+			"weight": 0
+		},
+		{
+			"name": "Participation in Class Seminar and Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Journal 1",
+			"weight": "10%                                        600 words"
+		},
+		{
+			"name": "Textual Analysis",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Reflective Journal 2",
+			"weight": "10%                                        600 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

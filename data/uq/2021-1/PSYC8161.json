@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Neuroanatomy assignments (Diamond et al.)",
+			"weight": 20
+		},
+		{
+			"name": "Class presentation (neuropsychological case)",
+			"weight": 60
+		},
+		{
+			"name": "Case study report",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Practical",
+			"weight": "Contact Course Coordinator in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

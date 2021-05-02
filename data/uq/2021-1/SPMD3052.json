@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SPMD3052 Online Quiz (Pre-census)",
+			"weight": 10
+		},
+		{
+			"name": "SPMD3052 Mid-Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "SPMD3052 Final Exam",
+			"weight": 55
+		}
+	]
+}

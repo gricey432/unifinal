@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Experimental PCR exam",
+			"weight": 20
+		},
+		{
+			"name": "Report for Supervisor",
+			"weight": 5
+		},
+		{
+			"name": "Technical research report",
+			"weight": 20
+		},
+		{
+			"name": "Formal research paper",
+			"weight": 20
+		},
+		{
+			"name": "EOS exam",
+			"weight": 35
+		}
+	]
+}

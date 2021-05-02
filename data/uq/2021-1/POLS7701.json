@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Draft research question and literature review",
+			"weight": "20%                                        1500 words"
+		},
+		{
+			"name": "Full Research Proposal",
+			"weight": "50%                                        3000 words"
+		}
+	]
+}

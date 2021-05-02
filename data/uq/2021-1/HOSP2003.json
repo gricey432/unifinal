@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Feasibility Analysis",
+			"weight": "40%                                        Maximum 4000 words"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

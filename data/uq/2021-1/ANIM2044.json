@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes - Poultry module",
+			"weight": 15
+		},
+		{
+			"name": "Weekly online quizzes - Pig module",
+			"weight": 15
+		},
+		{
+			"name": "Online invigilated exam - Poultry module",
+			"weight": 20
+		},
+		{
+			"name": "Poultry farm visit - Report 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment in-lieu of farm visits",
+			"weight": 30
+		},
+		{
+			"name": "Piggery farm visit - Report 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Online Invigilated Exam - Pig Module",
+			"weight": 20
+		}
+	]
+}

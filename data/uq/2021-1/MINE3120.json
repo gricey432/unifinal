@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz I",
+			"weight": 10
+		},
+		{
+			"name": "Group Assignment - Coal",
+			"weight": 25
+		},
+		{
+			"name": "Group Assignment - Metalliferous",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Hurdle Rate: 40/100"
+		}
+	]
+}

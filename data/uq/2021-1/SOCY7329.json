@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "External Quiz 1",
+			"weight": 4
+		},
+		{
+			"name": "External Quiz 2",
+			"weight": 2
+		},
+		{
+			"name": "Thematic Analysis Report - Individual Assignment",
+			"weight": 30
+		},
+		{
+			"name": "CDA Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "External Quiz 3",
+			"weight": 4
+		},
+		{
+			"name": "CDA Project Report",
+			"weight": 35
+		}
+	]
+}

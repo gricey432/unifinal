@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Goal-setting blog",
+			"weight": 10
+		},
+		{
+			"name": "Reflective blogs",
+			"weight": 20
+		},
+		{
+			"name": "Written assignment plan",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment",
+			"weight": 50
+		},
+		{
+			"name": "Percentage range",
+			"weight": ""
+		},
+		{
+			"name": "85-100%",
+			"weight": ""
+		},
+		{
+			"name": "75-84%",
+			"weight": ""
+		},
+		{
+			"name": "65-74%",
+			"weight": ""
+		},
+		{
+			"name": "50-64%",
+			"weight": ""
+		},
+		{
+			"name": "45-49%",
+			"weight": ""
+		},
+		{
+			"name": "25-44%",
+			"weight": ""
+		},
+		{
+			"name": "0-24%",
+			"weight": ""
+		},
+		{
+			"name": "No assessable work submitted",
+			"weight": ""
+		}
+	]
+}

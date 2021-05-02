@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Online quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 2: Parenting Strategies Essay",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 5: Presentation Feedback",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 3: Policy Analysis Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 4: Website Analysis Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 6: Observational coding",
+			"weight": 10
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Essay and Practical",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact your tutor."
+		}
+	]
+}

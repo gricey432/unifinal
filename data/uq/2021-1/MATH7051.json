@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "2 Assignments",
+			"weight": 15
+		},
+		{
+			"name": "Matlab online modules",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

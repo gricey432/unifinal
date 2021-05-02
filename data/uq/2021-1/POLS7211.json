@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Attendance and Participation",
+			"weight": 22
+		},
+		{
+			"name": "Research Essay (1) 3000 words",
+			"weight": 39
+		},
+		{
+			"name": "Research Essay (2) 3000 words",
+			"weight": 39
+		}
+	]
+}

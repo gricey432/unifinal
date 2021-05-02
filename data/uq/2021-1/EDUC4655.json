@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Microteaching Demonstration",
+			"weight": "20%                                        20 minute presentation"
+		},
+		{
+			"name": "Task 2: Learning &vTeaching Sequence & Assessment",
+			"weight": "50%                                        3000 words"
+		},
+		{
+			"name": "Task 3: Professional Engagement and Communication",
+			"weight": "30%                                        1500 word report & seminar"
+		}
+	]
+}

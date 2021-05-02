@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study report",
+			"weight": 40
+		},
+		{
+			"name": "Clinical educator feedback (simulation clinics)",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

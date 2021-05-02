@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz (open-book)",
+			"weight": 15
+		},
+		{
+			"name": "Taming a wicked problem",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

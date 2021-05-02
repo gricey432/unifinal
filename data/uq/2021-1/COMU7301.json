@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection about PR Theory & Practice",
+			"weight": "40%                                        1500 words"
+		},
+		{
+			"name": "Situation Analysis & Research Proposal (group)",
+			"weight": "10%                                        800 words"
+		},
+		{
+			"name": "Research Findings Report (group)",
+			"weight": "20%                                        1000 word report"
+		},
+		{
+			"name": "Campaign Plan Presentation/Report (group)",
+			"weight": "30%                                        1500 word report"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 Neuroanatomy and Neurophysiology",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2 OGTT and GIT Anatomy",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3 CVS Anatomy and Physiology",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 4 Spirometry interpretation",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 5 Somatosensory Phys & Pharmacology",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 6 Dialysis",
+			"weight": 5
+		},
+		{
+			"name": "Oral group presentation",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated Online Theory Exam",
+			"weight": 45
+		}
+	]
+}

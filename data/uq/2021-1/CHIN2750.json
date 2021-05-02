@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly pre-class Blackboard quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Final exam - Translation",
+			"weight": 55
+		}
+	]
+}

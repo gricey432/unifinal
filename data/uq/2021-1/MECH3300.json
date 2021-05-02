@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Short quizzes on lectures & tutes",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac A submissions & test",
+			"weight": 5
+		},
+		{
+			"name": "FEA Tutorial Short Report",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac B submissions & test",
+			"weight": 7
+		},
+		{
+			"name": "Energy method Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Fracture Prac C submissions & test",
+			"weight": 5
+		},
+		{
+			"name": "FEA Project Report Submission",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 58
+		}
+	]
+}

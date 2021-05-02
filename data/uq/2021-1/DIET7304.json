@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Goals, Plan and Learning Outcomes",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Learning contract and professional development",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Attendance and professional conduct",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

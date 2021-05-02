@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical EMS Performance",
+			"weight": 40
+		},
+		{
+			"name": "EMS Reflection",
+			"weight": "P/F"
+		},
+		{
+			"name": "EMS Driving licence",
+			"weight": "P/F"
+		},
+		{
+			"name": "Conference Report",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

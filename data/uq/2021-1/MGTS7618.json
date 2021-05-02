@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Extended Challenge Activity Report",
+			"weight": 50
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "In-class Exam",
+			"weight": 25
+		}
+	]
+}

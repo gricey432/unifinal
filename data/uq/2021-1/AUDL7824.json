@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Managing Occupational Violence and Aggression",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Peer critique of case studies",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Student iQIPP",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical placement records",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final viva examination",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Individual and collective thinking",
+			"weight": 15
+		},
+		{
+			"name": "Tools of Logic",
+			"weight": 15
+		},
+		{
+			"name": "Media analysis and argument mapping",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative essay",
+			"weight": 40
+		},
+		{
+			"name": "The School policy for late essays does not apply to Take-home Exams. If a student is unable to submit their Take-home Exam on the due date they are required to submit an Application for Extension, including supporting documentation, no later than 1 day after the due date. A grade of zero will be applied if an extension request is not received or not approved (at the discretion of the Course Coordinator).",
+			"weight": ""
+		},
+		{
+			"name": "The School policy for late essays does not apply to Take-home Exams. If a student is unable to submit their Take-home Exam on the due date they are required to submit an Application for Extension, including supporting documentation, no later than 1 day after the due date. A grade of zero will be applied if an extension request is not received or not approved (at the discretion of the Course Coordinator).",
+			"weight": ""
+		}
+	]
+}

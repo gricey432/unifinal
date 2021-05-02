@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation & individual written reflection",
+			"weight": 25
+		},
+		{
+			"name": "Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 35
+		}
+	]
+}

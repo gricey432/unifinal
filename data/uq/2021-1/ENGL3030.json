@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation in Tutorial",
+			"weight": 20
+		},
+		{
+			"name": "Critical Analysis",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        100-200 word abstract & 2000 word essay"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Town Planning Is...",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3: Project presentations",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4: Planning Report",
+			"weight": 40
+		}
+	]
+}

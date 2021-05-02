@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critique of a Health History Interview",
+			"weight": 40
+		},
+		{
+			"name": "Comprehensive Patient Assessment",
+			"weight": 60
+		}
+	]
+}

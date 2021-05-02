@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Best Practice Guidelines",
+			"weight": "30%                                        Students write guidelines for 2 topics each at 15%"
+		},
+		{
+			"name": "Homicide Investigation Activities",
+			"weight": "10%                                        Two Activities each at 5%"
+		},
+		{
+			"name": "Homicide Investigation Report",
+			"weight": 40
+		},
+		{
+			"name": "Professional Plan (in 90 seconds)",
+			"weight": 20
+		}
+	]
+}

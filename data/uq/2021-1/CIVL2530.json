@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Final",
+			"weight": "40%                                        40% hurdle requirement"
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 6
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 6
+		},
+		{
+			"name": "Online Peer Assessment",
+			"weight": "0%                                        PA affects individual mark"
+		},
+		{
+			"name": "Group Scientific Data Analysis",
+			"weight": 30
+		}
+	]
+}

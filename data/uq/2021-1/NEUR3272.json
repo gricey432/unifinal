@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "11 Weekly Quizzes",
+			"weight": 33
+		},
+		{
+			"name": "11 Workshop Problem Sets",
+			"weight": 33
+		},
+		{
+			"name": "Reflective Essay - Testosterone Rex",
+			"weight": 34
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Soil fertility experimental preparation/design",
+			"weight": 10
+		},
+		{
+			"name": "Calculations in Soil Science",
+			"weight": 10
+		},
+		{
+			"name": "Review of selected topic",
+			"weight": 15
+		},
+		{
+			"name": "'Assessment of Fertility of Soil' report",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

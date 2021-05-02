@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Climate Change Risk Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Climate Change",
+			"weight": 35
+		},
+		{
+			"name": "Science Employability Framework Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final course examination",
+			"weight": 19
+		}
+	]
+}

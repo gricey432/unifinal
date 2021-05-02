@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Essay",
+			"weight": "30%                                        Pass Mark 60%"
+		},
+		{
+			"name": "Clinical Case Management Presentations",
+			"weight": "30%                                        Pass Mark 60%"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "40%                                        Pass Mark 60%"
+		}
+	]
+}

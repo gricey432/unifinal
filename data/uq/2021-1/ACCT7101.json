@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take-Home Final Assessment",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Journal Entries, Posting, and Financial Statements",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Financial Report Analysis and Decision Making",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

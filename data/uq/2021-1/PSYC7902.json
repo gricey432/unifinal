@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Ripple exercise",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 12
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 33
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": "NA"
+		},
+		{
+			"name": "Ripple Study Questions",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fortnight reading task",
+			"weight": 10
+		},
+		{
+			"name": "Multiple choice questions",
+			"weight": 25
+		},
+		{
+			"name": "Project evaluation",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

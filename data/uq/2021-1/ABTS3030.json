@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflections",
+			"weight": "10% Each"
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 15
+		}
+	]
+}

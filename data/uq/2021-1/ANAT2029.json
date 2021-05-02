@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2: Regional Anatomy Prep: Shoulder region",
+			"weight": 1
+		},
+		{
+			"name": "Week 3: Meta-Learning Online Task",
+			"weight": 2
+		},
+		{
+			"name": "Week 4: Regional Anatomy Prep: Arm & Elbow region",
+			"weight": 1
+		},
+		{
+			"name": "Week 5: Regional Anatomy Prep: Wrist and Hand",
+			"weight": 1
+		},
+		{
+			"name": "Week 6: BIOMECHANICS/TISSUES PART 1",
+			"weight": 12
+		},
+		{
+			"name": "Week 7: Regional Anatomy Prep: Pelvis and Hip",
+			"weight": 1
+		},
+		{
+			"name": "Week 7: REGIONAL ANATOMY PART 1: UPPER LIMB",
+			"weight": 10
+		},
+		{
+			"name": "Week 8: Regional Anatomy Prep: Thigh and Knee",
+			"weight": 1
+		},
+		{
+			"name": "Week 9: Regional Anatomy Prep: Foot and Ankle",
+			"weight": 1
+		},
+		{
+			"name": "Week 11: Regional Anatomy Prep: Trunk/vertebra",
+			"weight": 1
+		},
+		{
+			"name": "Week 12: Regional Anatomy Prep: Abdominal/pelvic",
+			"weight": 1
+		},
+		{
+			"name": "Week 12: BIOMECHANICS/TISSUES PART 2",
+			"weight": 8
+		},
+		{
+			"name": "Week 13: REGIONAL ANATOMY PART 2: LOWER LIMB/TRUNK",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

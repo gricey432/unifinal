@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 35
+		},
+		{
+			"name": "Take home exam",
+			"weight": 25
+		},
+		{
+			"name": "Critical writing task",
+			"weight": 40
+		}
+	]
+}

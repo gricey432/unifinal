@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics Scenarios",
+			"weight": 30
+		},
+		{
+			"name": "Applied Annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Proposal Poster Presentation and Extended Abstract",
+			"weight": 40
+		}
+	]
+}

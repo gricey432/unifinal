@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Hazard Analysis Critical Control Point Activity",
+			"weight": 10
+		},
+		{
+			"name": "Predictive Microbiology Simulation and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Food Safety Issues",
+			"weight": 20
+		},
+		{
+			"name": "Food Quality Statistics: Assurance & Consistency",
+			"weight": 9
+		},
+		{
+			"name": "Faculty of Science Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final Exam (online non-invigilated exam)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Major assessment #1",
+			"weight": 40
+		},
+		{
+			"name": "Major assessment #2",
+			"weight": 40
+		},
+		{
+			"name": "Online quiz #1",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz #2",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz #3",
+			"weight": 5
+		},
+		{
+			"name": "Online quiz #4",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Design Project 1",
+			"weight": 15
+		},
+		{
+			"name": "Design Project 2",
+			"weight": 15
+		},
+		{
+			"name": "Design Project 3",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        Hurdle"
+		}
+	]
+}

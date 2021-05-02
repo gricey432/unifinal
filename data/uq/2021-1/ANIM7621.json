@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Semen sexing technology",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Online Exam",
+			"weight": 25
+		},
+		{
+			"name": "Student delivered lecture",
+			"weight": 15
+		},
+		{
+			"name": "Breeding Technology Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Online final examination",
+			"weight": 30
+		}
+	]
+}

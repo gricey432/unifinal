@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Module questions",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Poster presentation and discussion",
+			"weight": 25
+		},
+		{
+			"name": "Peer assessment of effort put into project",
+			"weight": 5
+		},
+		{
+			"name": "PBL quizzes",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

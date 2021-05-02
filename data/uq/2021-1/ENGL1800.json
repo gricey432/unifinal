@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Preparation -- Annotation Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Close Reading Essay",
+			"weight": "20%                                        600 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Fixed-Time Short Essays",
+			"weight": "30%                                        1200 words"
+		}
+	]
+}

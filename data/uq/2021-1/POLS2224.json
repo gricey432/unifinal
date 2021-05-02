@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Minor comparative essay",
+			"weight": "25%                                        1000 words"
+		},
+		{
+			"name": "Major Essay",
+			"weight": "40%                                        2500 words"
+		},
+		{
+			"name": "Online quiz on required readings",
+			"weight": 25
+		}
+	]
+}

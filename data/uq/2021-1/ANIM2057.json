@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "3x Mini-assessments",
+			"weight": 21
+		},
+		{
+			"name": "12x Weekly online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "9x Online pre-recorded Practical",
+			"weight": 18
+		},
+		{
+			"name": "Science Employability Framework Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

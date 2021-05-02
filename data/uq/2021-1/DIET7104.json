@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 - Menu planning assignment",
+			"weight": 20
+		},
+		{
+			"name": "Module 1 - Online quiz",
+			"weight": 5
+		},
+		{
+			"name": "Module 2 - Application by resource development",
+			"weight": 25
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

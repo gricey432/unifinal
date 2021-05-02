@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Theory test",
+			"weight": 60
+		},
+		{
+			"name": "Weekly online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Application worksheet",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz (to be submitted before the workshop)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Theory Test (to be submitted before the workshop)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Application Worksheets (to be completed in the workshop)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

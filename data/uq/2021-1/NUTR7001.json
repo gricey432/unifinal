@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical appraisal of a nutrition topic",
+			"weight": 25
+		},
+		{
+			"name": "Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Critical review: Nutrition issue",
+			"weight": 50
+		}
+	]
+}

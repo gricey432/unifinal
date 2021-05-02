@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review and Project Plan",
+			"weight": 40
+		},
+		{
+			"name": "Conference Poster submission",
+			"weight": 60
+		},
+		{
+			"name": "Literature Review and Project Plan",
+			"weight": 40
+		},
+		{
+			"name": "Literature Review and Project Plan",
+			"weight": 40
+		},
+		{
+			"name": "Conference Poster submission",
+			"weight": 60
+		},
+		{
+			"name": "Conference Poster submission",
+			"weight": 60
+		}
+	]
+}

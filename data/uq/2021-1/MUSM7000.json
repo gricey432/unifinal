@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1:participation on discussion board",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 alternative discussion modes",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3:short essay",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 4: Research Essay",
+			"weight": 40
+		}
+	]
+}

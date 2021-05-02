@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Recording One for Review",
+			"weight": "NGP"
+		},
+		{
+			"name": "Submission of Second Recording and Commentary",
+			"weight": 50
+		},
+		{
+			"name": "Personal Exploration Journal",
+			"weight": 20
+		},
+		{
+			"name": "Competency Interview",
+			"weight": "30%                                        Pass/Fail Hurdle"
+		}
+	]
+}

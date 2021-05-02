@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": "25%                                        30 minutes of class time"
+		},
+		{
+			"name": "Major Critical Essay",
+			"weight": "45%                                        5000 words"
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Entries",
+			"weight": "20%                                        2400 words total"
+		}
+	]
+}

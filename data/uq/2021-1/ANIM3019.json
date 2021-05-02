@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid-semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Animal Reproductive Biology",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

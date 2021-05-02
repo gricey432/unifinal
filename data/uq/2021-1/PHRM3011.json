@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Community Pharmacy Placements (weeks 5-10)",
+			"weight": 12
+		},
+		{
+			"name": "Dispensing Accuracy Test (week 5)",
+			"weight": 8
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online Open-Book Inspera Exam (non-invigilated)",
+			"weight": 50
+		},
+		{
+			"name": "1) Dispensing & Smoking Cessation (starts week 1)",
+			"weight": 2
+		},
+		{
+			"name": "2) Arrhythmias (starts week 3)",
+			"weight": 2
+		},
+		{
+			"name": "3) Hypertension (starts week 6)",
+			"weight": 2
+		},
+		{
+			"name": "4) Coronary Heart Disease (starts week 8)",
+			"weight": 2
+		},
+		{
+			"name": "5) Heart failure (starts week 10)",
+			"weight": 2
+		}
+	]
+}

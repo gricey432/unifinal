@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly critical reflection on readings",
+			"weight": "20%                                        2,500 words"
+		},
+		{
+			"name": "Reading Task Analysis and Design",
+			"weight": "20%                                        1,800 words"
+		},
+		{
+			"name": "Microteaching",
+			"weight": "20%                                        800 words plus presentation"
+		},
+		{
+			"name": "Unit Design",
+			"weight": "40%                                        2,000 words"
+		}
+	]
+}

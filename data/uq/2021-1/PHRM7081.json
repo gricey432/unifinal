@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Portfolio 4-Medicines Information Enquiry",
+			"weight": 15
+		},
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": "15%                                        Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Seminar one",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Team Discussion Peer Assessment",
+			"weight": 9
+		},
+		{
+			"name": "Team Discussion 1 Report",
+			"weight": "Participation"
+		},
+		{
+			"name": "Team Discussion 2 Report",
+			"weight": 12
+		},
+		{
+			"name": "Seminar two",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Team Discussion 3 Report",
+			"weight": 12
+		},
+		{
+			"name": "Mid-Semester online quiz",
+			"weight": 25
+		},
+		{
+			"name": "Team Discussion 4 Report",
+			"weight": 12
+		}
+	]
+}

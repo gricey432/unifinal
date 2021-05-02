@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Anatomy Code of Conduct Training",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Online Blackboard MCQ Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Online Spotter Exam",
+			"weight": 20
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Practical Exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature mapping and critique",
+			"weight": 40
+		},
+		{
+			"name": "3-minute research pitch",
+			"weight": 10
+		},
+		{
+			"name": "Research proposal",
+			"weight": 50
+		}
+	]
+}

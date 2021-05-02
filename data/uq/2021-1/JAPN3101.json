@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Kanji Application",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Diary",
+			"weight": 28
+		},
+		{
+			"name": "Final Written Test",
+			"weight": 32
+		},
+		{
+			"name": "Undergraduate/Postgraduate/Honours",
+			"weight": ""
+		},
+		{
+			"name": "1:   24 -   0%",
+			"weight": ""
+		}
+	]
+}

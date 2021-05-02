@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "2 quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Project/Team Management Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Contributions to Team",
+			"weight": "Embedded"
+		},
+		{
+			"name": "Context Study",
+			"weight": 20
+		},
+		{
+			"name": "Requirements Engineering and Project Plan",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

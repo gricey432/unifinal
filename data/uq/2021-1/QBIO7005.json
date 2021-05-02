@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "in-class assignments",
+			"weight": "50%                                        (5 quizzes x 10% for each quiz"
+		},
+		{
+			"name": "Linear modeling Project",
+			"weight": 25
+		},
+		{
+			"name": "Mixed-model Project",
+			"weight": 25
+		}
+	]
+}

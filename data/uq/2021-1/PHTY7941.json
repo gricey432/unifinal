@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professional participation and contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 10
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 30
+		},
+		{
+			"name": "Podium Presentation",
+			"weight": 35
+		}
+	]
+}

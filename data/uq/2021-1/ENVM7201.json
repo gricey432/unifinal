@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical answers",
+			"weight": 20
+		},
+		{
+			"name": "Brisbane field visit report",
+			"weight": 25
+		},
+		{
+			"name": "Great Barrier Reef catchment management",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

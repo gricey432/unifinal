@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic Integrity Modules",
+			"weight": "Zero Mark (Hurdle)"
+		},
+		{
+			"name": "Informed Contribution to Class Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Minor Essay (1100 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam (1500 words)",
+			"weight": 30
+		}
+	]
+}

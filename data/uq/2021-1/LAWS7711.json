@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Preparation",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 70
+		}
+	]
+}

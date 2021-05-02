@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Determination of Pregnancy Status of Cattle",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Assisted reproductive technologies",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam Semester 1",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam Semester 2",
+			"weight": "40%                                        Compulsory to pass"
+		},
+		{
+			"name": "It is the student’s responsibility to attend relevant practical classes and tutorials. The practical classes are not compulsory with the exception of Pregnancy Diagnosis by rectal palpation PD3, and PD4 (if required). It is strongly advised that the student have read the associated notes prior to attendance of a practical or tutorial, and engage actively in the hub through the year. If appropriate PPE is not worn to a practical, as specified in the introduction to the course, the tutors reserves the right to turn the student away.",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Project Meetings",
+			"weight": "used to moderate project mark and verify individual contributions"
+		},
+		{
+			"name": "Tutorials",
+			"weight": 20
+		},
+		{
+			"name": "Electricity Generation using Fossil Fuels",
+			"weight": 20
+		},
+		{
+			"name": "Electricity Generation using Wind",
+			"weight": 20
+		},
+		{
+			"name": "Electricity Generation using Solar",
+			"weight": 20
+		},
+		{
+			"name": "Group Project - System Integration",
+			"weight": 20
+		},
+		{
+			"name": "Group Project Peer Assessment",
+			"weight": "multiplier for group project"
+		}
+	]
+}

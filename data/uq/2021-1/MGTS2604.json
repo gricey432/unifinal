@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly learning portfolios",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Research essay",
+			"weight": "35%                                        Individual; 2000-2250 words"
+		},
+		{
+			"name": "Case Study Practical",
+			"weight": "45%                                        Individual; 48 hours"
+		}
+	]
+}

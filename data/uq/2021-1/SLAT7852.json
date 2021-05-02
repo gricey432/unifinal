@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Academic Portfolio A1",
+			"weight": 10
+		},
+		{
+			"name": "Academic Portfolio A2",
+			"weight": 15
+		},
+		{
+			"name": "Academic Portfolio A3 Biblio",
+			"weight": 15
+		},
+		{
+			"name": "Synthesis Essay",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment - GP",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "In-Tutorial Assessment - Clinical Cases",
+			"weight": 20
+		},
+		{
+			"name": "Clinical case exam",
+			"weight": 20
+		},
+		{
+			"name": "MCQ exam",
+			"weight": 60
+		}
+	]
+}

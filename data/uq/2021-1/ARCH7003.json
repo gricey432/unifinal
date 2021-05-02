@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Master plan submission",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Design development submission",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3: Detailed design submission",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

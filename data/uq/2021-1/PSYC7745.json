@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Folio",
+			"weight": "Must be completed to pass"
+		},
+		{
+			"name": "Mid Point and End Point Reviews",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Case Presentations",
+			"weight": "Must be completed to Pass"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Work-based assessment",
+			"weight": "Not applicable"
+		},
+		{
+			"name": "Case Study Presentations",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

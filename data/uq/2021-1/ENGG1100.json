@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Team Charter (Team)",
+			"weight": "0%                                        Submission"
+		},
+		{
+			"name": "Concept Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Milestone Oral Presentation (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Digital Engagement Portfolio(Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Demo Day (FD-Team) or Project Video (Ext-Team)",
+			"weight": 20
+		},
+		{
+			"name": "Final Report (Team)",
+			"weight": 40
+		}
+	]
+}

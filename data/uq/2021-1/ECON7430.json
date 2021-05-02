@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Essay",
+			"weight": 35
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 25
+		}
+	]
+}

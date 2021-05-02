@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Individual reports on building design project",
+			"weight": 50
+		},
+		{
+			"name": "Group presentations of building design project",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		},
+		{
+			"name": "Group presentations of building design project",
+			"weight": 20
+		},
+		{
+			"name": "Individual report on the design of fire protection",
+			"weight": 15
+		},
+		{
+			"name": "Individual reports on building design project",
+			"weight": 50
+		},
+		{
+			"name": "Final Examination",
+			"weight": 15
+		}
+	]
+}

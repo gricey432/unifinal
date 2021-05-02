@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Horse handling reflection",
+			"weight": 20
+		},
+		{
+			"name": "Learning quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Equine Unit Duties",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Handling skills assessment",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

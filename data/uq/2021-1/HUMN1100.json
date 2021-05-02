@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 15
+		},
+		{
+			"name": "Communicating the Humanities",
+			"weight": "10%                                        pass/fail"
+		},
+		{
+			"name": "Analytical response essay",
+			"weight": "25%                                        750 words"
+		},
+		{
+			"name": "Research essay proposal",
+			"weight": "5%                                        pass/fail"
+		},
+		{
+			"name": "Group Presentation",
+			"weight": "15%                                        Outline not more than 1000 words total"
+		},
+		{
+			"name": "Research essay",
+			"weight": "30%                                        2000 words"
+		}
+	]
+}

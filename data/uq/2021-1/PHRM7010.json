@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Individual contributions green discussion boards",
+			"weight": "12%                                        4% per Module"
+		},
+		{
+			"name": "Modules 1-3 activities (Blogs)",
+			"weight": "12%                                        4% per module"
+		},
+		{
+			"name": "Completion of Integrity Tutorial",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Tutorial Presentation & Participation",
+			"weight": "9%                                        3% per module"
+		},
+		{
+			"name": "Critical Appraisal - Journal Club",
+			"weight": "5%                                        Pass/Fail"
+		},
+		{
+			"name": "Reflection on Professional Practice",
+			"weight": "5%                                        Pass/Fail"
+		},
+		{
+			"name": "Analysis of MI video",
+			"weight": "5%                                        Pass / Fail"
+		},
+		{
+			"name": "Critical Appraisal - slide presentation",
+			"weight": 20
+		},
+		{
+			"name": "Drug Information - Evaluation & Response",
+			"weight": 32
+		}
+	]
+}

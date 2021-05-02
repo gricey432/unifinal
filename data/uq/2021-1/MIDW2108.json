@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Care of  a woman with a complex health condition",
+			"weight": 50
+		},
+		{
+			"name": "Objective Simulated Clinical Assessment (OSCA)",
+			"weight": "NGP"
+		},
+		{
+			"name": "Health Complexity in Pregnancy",
+			"weight": 50
+		}
+	]
+}

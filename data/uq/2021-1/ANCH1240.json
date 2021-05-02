@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Library Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Coursework Essay",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam Essays",
+			"weight": 40
+		}
+	]
+}

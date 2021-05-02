@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Care of  a woman with a complex health condition",
+			"weight": 50
+		},
+		{
+			"name": "Health Complexity in Pregnancy",
+			"weight": 50
+		}
+	]
+}

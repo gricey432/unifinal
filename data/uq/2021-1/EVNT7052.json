@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Event sponsorship plan evaluation",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Sponsorship proposal pitch",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

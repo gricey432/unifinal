@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and Contribution",
+			"weight": 40
+		},
+		{
+			"name": "Performances",
+			"weight": 60
+		}
+	]
+}

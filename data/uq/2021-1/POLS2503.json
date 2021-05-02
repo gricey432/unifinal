@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Peer-Assessed Vlogs",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Exam - 1500 words",
+			"weight": 25
+		},
+		{
+			"name": "Annotated Bibliography - 1000 words",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay - 2500 words",
+			"weight": 40
+		}
+	]
+}

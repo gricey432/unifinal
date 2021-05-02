@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study report",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Blog article",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Reflective essay",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

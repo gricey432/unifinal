@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Total Starch Quiz for recorded experiment",
+			"weight": 10
+		},
+		{
+			"name": "Total Starch Practical Report for recorded prac",
+			"weight": 10
+		},
+		{
+			"name": "Antioxidants Practical Report for recorded prac",
+			"weight": 10
+		},
+		{
+			"name": "Antioxidants Quiz after recorded experiment",
+			"weight": 10
+		},
+		{
+			"name": "Dairy Crossword Puzzle",
+			"weight": 9
+		},
+		{
+			"name": "Use of Carbon Monoxide in Meat Packaging",
+			"weight": 20
+		},
+		{
+			"name": "Faculty of Science Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

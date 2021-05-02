@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tests: 1, 2, 3, 4 (Best 3 out of 4)",
+			"weight": "60%                                        Each test is 20% (Best 3 of 4)"
+		},
+		{
+			"name": "Online Non-Invigilated Examination",
+			"weight": 40
+		}
+	]
+}

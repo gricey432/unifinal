@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Business Concept",
+			"weight": "20%                                        Collaborative assignment"
+		},
+		{
+			"name": "Assignment 2 - Business Plan",
+			"weight": "40%                                        Individual IVAH assignment"
+		},
+		{
+			"name": "Assignment 3 - Consultancy Report",
+			"weight": "40%                                        Collaborative assignment"
+		}
+	]
+}

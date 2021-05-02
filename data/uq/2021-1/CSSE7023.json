@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "On-line problems (MyJavaTutor)",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 22
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

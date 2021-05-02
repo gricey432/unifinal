@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Draft research proposal & annotated bibliography",
+			"weight": "30%                                        1,500 words"
+		},
+		{
+			"name": "Project proposal - '3 minute thesis' presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final proposal & literature Review",
+			"weight": "60%                                        3,500 - 4,000 words"
+		}
+	]
+}

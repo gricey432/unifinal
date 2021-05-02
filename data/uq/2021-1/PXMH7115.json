@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paradigms",
+			"weight": 40
+		},
+		{
+			"name": "Artwork for Exhibition in Semester 2 (PXMH 7116)",
+			"weight": "0%                                        This is a hurdle assessment"
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "In-class presentation and discussion",
+			"weight": 30
+		},
+		{
+			"name": "Report of in-class presentation and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

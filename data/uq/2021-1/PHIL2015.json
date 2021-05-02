@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly tutorial exercises",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "First Essay",
+			"weight": 30
+		},
+		{
+			"name": "Second quiz",
+			"weight": 10
+		},
+		{
+			"name": "Second Essay",
+			"weight": 30
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		}
+	]
+}

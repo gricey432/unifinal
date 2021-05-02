@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement and participation",
+			"weight": 10
+		},
+		{
+			"name": "Detailed description of a medical device",
+			"weight": 25
+		},
+		{
+			"name": "Team Project Plan",
+			"weight": 15
+		},
+		{
+			"name": "Team Project Final Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Team Project Report and Documentation",
+			"weight": 30
+		}
+	]
+}

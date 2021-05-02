@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Case Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Work Placement",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Caselog",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Clinical Principles Questions",
+			"weight": 40
+		},
+		{
+			"name": "Mastery of Advanced Skills",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Clinical Case Report",
+			"weight": 35
+		}
+	]
+}

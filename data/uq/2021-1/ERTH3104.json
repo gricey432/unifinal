@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final field mapping results and field report",
+			"weight": 15
+		},
+		{
+			"name": "Participation in weekly discussion meetings",
+			"weight": 15
+		},
+		{
+			"name": "In-semester assignments",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

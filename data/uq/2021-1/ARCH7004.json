@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 : Two Workshops + Designs",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2: Hofje redux",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

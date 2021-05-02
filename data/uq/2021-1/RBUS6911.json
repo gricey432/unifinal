@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal (Assignment 1)",
+			"weight": 10
+		},
+		{
+			"name": "Commercialisation Feasibility Study (Assignment 2)",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

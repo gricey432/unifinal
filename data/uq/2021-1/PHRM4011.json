@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 3
+		},
+		{
+			"name": "Dispensing and Checking",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 4",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 5",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Quiz 6",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 7",
+			"weight": 3
+		},
+		{
+			"name": "Online Open-Book Inspera Exam (non-invigilated)",
+			"weight": 54
+		}
+	]
+}

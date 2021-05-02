@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Participation",
+			"weight": 10
+		},
+		{
+			"name": "Group Intervention Formulation",
+			"weight": 50
+		},
+		{
+			"name": "MSAT Competency: Oral and Written",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Discussion",
+			"weight": "Contact the Course Coordinator in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Competency",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

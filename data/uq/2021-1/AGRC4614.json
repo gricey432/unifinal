@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Supervisor's report",
+			"weight": 15
+		},
+		{
+			"name": "Project Report/Thesis",
+			"weight": 70
+		},
+		{
+			"name": "Honours application and learning contract",
+			"weight": "0%                                        Compulsory"
+		},
+		{
+			"name": "Literature Review",
+			"weight": "0%                                        compulsory"
+		}
+	]
+}

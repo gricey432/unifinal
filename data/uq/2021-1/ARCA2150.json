@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Museum Artefact Due Diligence Report",
+			"weight": 40
+		},
+		{
+			"name": "Chronological Assignments",
+			"weight": 20
+		},
+		{
+			"name": "An essay on ancient civlisations",
+			"weight": 40
+		}
+	]
+}

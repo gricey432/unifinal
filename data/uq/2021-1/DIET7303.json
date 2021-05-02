@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Do Food Safely",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Professionalism",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Executive Summary",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Project Presentation",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

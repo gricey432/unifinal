@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Development Task",
+			"weight": 5
+		},
+		{
+			"name": "Peer Teaching Videos (Group Assignment)",
+			"weight": 10
+		},
+		{
+			"name": "Academic English Screening Test (Online)",
+			"weight": "Completion Required"
+		},
+		{
+			"name": "Practical Learning Summary",
+			"weight": "10%                                        Attendance and Submission Required"
+		},
+		{
+			"name": "Weekly Feedback Quizzes (Outside Class Time)",
+			"weight": 10
+		},
+		{
+			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
+			"weight": 45
+		},
+		{
+			"name": "Oral Consultation Exam (OTC Product Request)",
+			"weight": 20
+		}
+	]
+}

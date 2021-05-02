@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation & Reading Questions",
+			"weight": 9
+		},
+		{
+			"name": "Questions for the Tutor",
+			"weight": 6
+		},
+		{
+			"name": "Opinion Piece (800 words)",
+			"weight": 15
+		},
+		{
+			"name": "Essay Proposal (700 words)",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam (1000 words)",
+			"weight": 20
+		}
+	]
+}

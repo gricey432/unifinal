@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Assignment",
+			"weight": "15%                                        Topics 1 and 2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "35%                                        Topics 3-6"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Topics 7-11"
+		}
+	]
+}

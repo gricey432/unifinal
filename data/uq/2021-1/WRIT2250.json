@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and engagement reflection",
+			"weight": 10
+		},
+		{
+			"name": "7 x online weekly quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Grammatical analysis of student-selected texts",
+			"weight": 30
+		},
+		{
+			"name": "Grammatical analysis of student-selected texts",
+			"weight": 30
+		}
+	]
+}

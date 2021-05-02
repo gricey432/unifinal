@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Short Essay",
+			"weight": 10
+		},
+		{
+			"name": "Honours Language Lecture 1",
+			"weight": 10
+		},
+		{
+			"name": "Held During Class (50 mins.)",
+			"weight": 20
+		},
+		{
+			"name": "Honours Language Lecture 2",
+			"weight": 10
+		},
+		{
+			"name": "Translation Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

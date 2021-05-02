@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sets 1, 2, 3",
+			"weight": 7.5
+		},
+		{
+			"name": "Technical Writing Assignment",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Project 1 Group Report",
+			"weight": "15%                                        Hurdle assessment"
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Project 2 Group Report and Presentation",
+			"weight": "20%                                        Hurdle assessment"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        Hurdle assessment"
+		}
+	]
+}

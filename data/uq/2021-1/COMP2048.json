@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Codebreaking Laboratory",
+			"weight": 20
+		},
+		{
+			"name": "Busy Beaver Laboratory",
+			"weight": 20
+		},
+		{
+			"name": "Game of Life Laboratory",
+			"weight": 20
+		},
+		{
+			"name": "Lambda Calculus/Quantum",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

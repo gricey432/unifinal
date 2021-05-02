@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Article Review",
+			"weight": "30%                                        1,200 words"
+		},
+		{
+			"name": "Research Agenda",
+			"weight": "35%                                        1,000 words total"
+		},
+		{
+			"name": "Call for Research Tender",
+			"weight": "35%                                        800 words"
+		}
+	]
+}

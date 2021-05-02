@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "CircuiLab Simulation and Viva",
+			"weight": 18
+		},
+		{
+			"name": "Tutorials",
+			"weight": 15
+		},
+		{
+			"name": "PV online Quiz",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam - in Week 7",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam - Invigilated closed book",
+			"weight": 50
+		}
+	]
+}

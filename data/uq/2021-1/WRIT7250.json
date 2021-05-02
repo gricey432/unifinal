@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "7x online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Blackboard discussion",
+			"weight": 10
+		},
+		{
+			"name": "Structural and stylistic analysis",
+			"weight": 25
+		},
+		{
+			"name": "Editing assignment",
+			"weight": 35
+		}
+	]
+}

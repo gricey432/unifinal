@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Quiz 2",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Quiz 3",
+			"weight": 15
+		},
+		{
+			"name": "Sapling Learning Computer Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

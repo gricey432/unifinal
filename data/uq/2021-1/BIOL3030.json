@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Podcast on Urban Ecology Topic",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Exam (in-person)",
+			"weight": 25
+		},
+		{
+			"name": "Final report",
+			"weight": 50
+		}
+	]
+}

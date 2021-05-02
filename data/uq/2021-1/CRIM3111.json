@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Restorative Justice Conference Plan (2000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Cybercrime and Security Report (2000 Words)",
+			"weight": 25
+		},
+		{
+			"name": "Financial Crime Investigation Activities",
+			"weight": "25%                                        (5% Investigation Plan; 10% Interview Plan; 10% Court Summation"
+		},
+		{
+			"name": "Financial Crime Investigation Group Report",
+			"weight": "30%                                        Peer Assessment Factor considered for individual grade"
+		}
+	]
+}

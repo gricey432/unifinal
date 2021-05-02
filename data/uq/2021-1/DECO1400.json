@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities",
+			"weight": 20
+		},
+		{
+			"name": "Design Report",
+			"weight": 35
+		},
+		{
+			"name": "Website Implementation",
+			"weight": 45
+		}
+	]
+}

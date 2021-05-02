@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflection Journal",
+			"weight": "20%                                        2000 words"
+		},
+		{
+			"name": "Short Essay",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Media Watch Presentation",
+			"weight": 50
+		}
+	]
+}

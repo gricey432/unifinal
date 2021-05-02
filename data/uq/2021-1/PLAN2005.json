@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "One-Minute-Paper (OMP)",
+			"weight": "5%                                        1% each"
+		},
+		{
+			"name": "Paper and presentation",
+			"weight": "50%                                        30% (paper), 18% (presentation), 2% (serving in peer panel)"
+		},
+		{
+			"name": "Take home quiz",
+			"weight": 45
+		}
+	]
+}

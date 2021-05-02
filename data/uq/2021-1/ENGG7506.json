@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": "5%                                        Avg of 5 quizzes"
+		},
+		{
+			"name": "CSG Well Basis of Design",
+			"weight": "10%                                        (50% Hurdle on Overall Assignment Scores)"
+		},
+		{
+			"name": "Online Mid Semester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Deviated Conventional Well Design",
+			"weight": "20%                                        (50% Hurdle on Overall Assignment Scores)"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

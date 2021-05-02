@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Voice Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Perceptual analysis of disordered voice",
+			"weight": "10%                                        MUST PASS"
+		},
+		{
+			"name": "Fluency Disorders Mid-Semester Examination",
+			"weight": "25%                                        MUST PASS"
+		},
+		{
+			"name": "Hearing Screening Practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online Stuttering Simulation Clinic",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Stuttering Simulation Workbook Activity",
+			"weight": 5
+		},
+		{
+			"name": "SPCH7803/1 Voice Disorders",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "SPCH7803/2 Fluency Disorders",
+			"weight": 20
+		}
+	]
+}

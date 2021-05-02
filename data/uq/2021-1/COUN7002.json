@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple Choice Quiz",
+			"weight": "20%                                        Completion of four online learning modules through associated quizzes"
+		},
+		{
+			"name": "Comparing and contrasting theoretical approaches",
+			"weight": "50%                                        3000 Words"
+		},
+		{
+			"name": "Oral Exam: Case Conceptualisation Competency",
+			"weight": "30%                                        25 minute oral exam"
+		}
+	]
+}

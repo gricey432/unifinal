@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Grand Rounds",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Rotation",
+			"weight": 70
+		},
+		{
+			"name": "Reflections",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Skills List",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Capstone Examination B",
+			"weight": 10
+		},
+		{
+			"name": "Capstone Examination A",
+			"weight": 10
+		}
+	]
+}

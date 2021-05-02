@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar preparation, participation and worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Short essay Australia Day Analysis",
+			"weight": "30%                                        800-1000 words"
+		},
+		{
+			"name": "Contemporary Australia: an exhibition",
+			"weight": "50%                                        1500-2000 words"
+		}
+	]
+}

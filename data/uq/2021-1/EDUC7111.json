@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "Critical Review & Situated Perspective",
+			"weight": "40%                                        750 words"
+		},
+		{
+			"name": "Analysis of Key Educational Issue(s)",
+			"weight": "50%                                        2500 words (excl. references)"
+		}
+	]
+}

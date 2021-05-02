@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Film review presentation",
+			"weight": 15
+		},
+		{
+			"name": "Written film reviews",
+			"weight": 15
+		},
+		{
+			"name": "Provincial profile in class presentation",
+			"weight": 20
+		},
+		{
+			"name": "Interview report",
+			"weight": 40
+		},
+		{
+			"name": "Pojok Indonesia reflections (5)",
+			"weight": 10
+		}
+	]
+}

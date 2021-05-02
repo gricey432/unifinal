@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Data Analysis Plan (Quantitative Projects)",
+			"weight": 10
+		},
+		{
+			"name": "Transcripts (Qualitative Projects)",
+			"weight": 10
+		},
+		{
+			"name": "Oral Research Presentation of Project",
+			"weight": "for Research Conference"
+		},
+		{
+			"name": "Oral Research Presentation of Project",
+			"weight": 10
+		},
+		{
+			"name": "Research Project Report",
+			"weight": 60
+		}
+	]
+}

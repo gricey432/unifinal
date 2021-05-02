@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Immersive Learning",
+			"weight": 25
+		},
+		{
+			"name": "Computer Based Activities",
+			"weight": 15
+		},
+		{
+			"name": "Veterinary Terminology Exam (50min)",
+			"weight": 20
+		},
+		{
+			"name": "Final Written Examination",
+			"weight": 40
+		}
+	]
+}

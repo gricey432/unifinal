@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Language Sample Analysis Task",
+			"weight": 10
+		},
+		{
+			"name": "Online Examination (modules 1-2)",
+			"weight": "40%                                        must pass"
+		},
+		{
+			"name": "Indigenous Health Online Modules",
+			"weight": 5
+		},
+		{
+			"name": "Online Examination (modules 3-4 & integration)",
+			"weight": "45%                                        must pass"
+		}
+	]
+}

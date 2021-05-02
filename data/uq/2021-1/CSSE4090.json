@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Checkpoints",
+			"weight": 10
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Point Progress Demonstration",
+			"weight": 10
+		},
+		{
+			"name": "Final Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Individual Project Report",
+			"weight": 10
+		},
+		{
+			"name": "Project Deliverables",
+			"weight": 35
+		}
+	]
+}

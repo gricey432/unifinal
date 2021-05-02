@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Group Work (Online or in class)",
+			"weight": 15
+		},
+		{
+			"name": "Online Debate",
+			"weight": 15
+		},
+		{
+			"name": "Platform Business Analysis",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Essay on Platformisation and Governance",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

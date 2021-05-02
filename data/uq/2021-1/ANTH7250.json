@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lead seminar discussion",
+			"weight": 10
+		},
+		{
+			"name": "Health Artefact Analysis",
+			"weight": 35
+		},
+		{
+			"name": "Artefact Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

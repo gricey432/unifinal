@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Participation in Seminars",
+			"weight": 5
+		},
+		{
+			"name": "Community Engagement Plan (group assignment)",
+			"weight": 35
+		},
+		{
+			"name": "Essay (individual)",
+			"weight": 40
+		}
+	]
+}

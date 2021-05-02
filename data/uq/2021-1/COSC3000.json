@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal - Scientific Visualisation",
+			"weight": "Pass required for project grade above 1"
+		},
+		{
+			"name": "Project Proposal - Computer Graphics",
+			"weight": "Pass required for project grade above 1"
+		},
+		{
+			"name": "Project Report - Scientific Visualisation",
+			"weight": 35
+		},
+		{
+			"name": "Presentation - Scientific Visualisation",
+			"weight": "15%                                        Alternative to final exam"
+		},
+		{
+			"name": "Presentation - Computer Graphics",
+			"weight": "15%                                        Alternative to final exam"
+		},
+		{
+			"name": "Project Report - Computer Graphics",
+			"weight": 35
+		},
+		{
+			"name": "Exam",
+			"weight": "30%                                        Alternative to oral presentation"
+		}
+	]
+}

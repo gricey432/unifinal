@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz (Assessment 1)",
+			"weight": 15
+		},
+		{
+			"name": "Workshop 0 (Course Assessment Hurdle)",
+			"weight": "Pass or Fail (see 5.4)"
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Workshop 1 (Assessment 2)",
+			"weight": 15
+		},
+		{
+			"name": "Workshop 2 (Assessment 3)",
+			"weight": 19
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

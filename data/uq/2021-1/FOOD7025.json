@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Individual Task",
+			"weight": 9
+		},
+		{
+			"name": "Self reflection on workplace skill development",
+			"weight": 1
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Graphical Abstract (GA)",
+			"weight": 30
+		}
+	]
+}

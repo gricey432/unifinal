@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory report 1 (in person)",
+			"weight": 10
+		},
+		{
+			"name": "Reading Quizes",
+			"weight": 10
+		},
+		{
+			"name": "Problem set 1",
+			"weight": 10
+		},
+		{
+			"name": "Problem set 2",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory report 2 (online)",
+			"weight": 10
+		},
+		{
+			"name": "Problem set 3",
+			"weight": 10
+		},
+		{
+			"name": "Problem set 4",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

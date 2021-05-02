@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Report",
+			"weight": 20
+		},
+		{
+			"name": "Digital Field Report",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 40
+		}
+	]
+}

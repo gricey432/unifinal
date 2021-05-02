@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "On-line Assessment",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Service Experience Transcript",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

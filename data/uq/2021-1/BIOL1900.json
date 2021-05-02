@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quizzes",
+			"weight": "10%                                        10 quizzes x 1%"
+		},
+		{
+			"name": "Major Laboratory Report",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research aptitude",
+			"weight": 10
+		},
+		{
+			"name": "Background, review outline & search plan",
+			"weight": 20
+		},
+		{
+			"name": "Advanced Veterinary Topic Literature Review",
+			"weight": 70
+		}
+	]
+}

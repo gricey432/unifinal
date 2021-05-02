@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Short Answers in a 30 minute limit",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Short Paper",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 - Full Paper",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 4 - Short Answers in a 90 minute limit",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 5 - Final Assessment",
+			"weight": 40
+		}
+	]
+}

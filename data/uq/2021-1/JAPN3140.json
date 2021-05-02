@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading and writing exercises",
+			"weight": 20
+		},
+		{
+			"name": "Argumentative essays",
+			"weight": 30
+		},
+		{
+			"name": "Memoir",
+			"weight": 30
+		},
+		{
+			"name": "Online reading and writing assessment",
+			"weight": 20
+		}
+	]
+}

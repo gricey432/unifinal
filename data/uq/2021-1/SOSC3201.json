@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Work in Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Group Ethics Application",
+			"weight": "30%                                        plus PAF*"
+		},
+		{
+			"name": "Group Research Proposal",
+			"weight": "35%                                        plus PAF*"
+		}
+	]
+}

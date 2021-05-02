@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Li-ion & next generation Li-ion battery",
+			"weight": 2
+		},
+		{
+			"name": "Li-ion & next generation Li-ion battery",
+			"weight": 20
+		},
+		{
+			"name": "Hydrogen fuel cells",
+			"weight": 2
+		},
+		{
+			"name": "Hydrogen fuel cells & storage",
+			"weight": 5
+		},
+		{
+			"name": "Hydrogen storage",
+			"weight": 2
+		},
+		{
+			"name": "Hydrogen fuel cells & storage",
+			"weight": 15
+		},
+		{
+			"name": "Superconducting magnetic energy storage (SMES)",
+			"weight": 2
+		},
+		{
+			"name": "Solar Cells",
+			"weight": 2
+		},
+		{
+			"name": "Solar Cells",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

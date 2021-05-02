@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical EMS",
+			"weight": "P/F"
+		},
+		{
+			"name": "Clinical Case Medical Records",
+			"weight": 5
+		},
+		{
+			"name": "The Art of Veterinary Practice",
+			"weight": 25
+		},
+		{
+			"name": "Preclinical Extramural Placements",
+			"weight": "P/F"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		},
+		{
+			"name": "Integrative Clinical Case Examination",
+			"weight": 10
+		}
+	]
+}

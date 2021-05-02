@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Topic evaluation",
+			"weight": "25%                                        Individual; formative"
+		},
+		{
+			"name": "Workshop presentation",
+			"weight": "35%                                        Group"
+		},
+		{
+			"name": "Case study Practical, due in Week 10",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Couple Case Write up Assigment",
+			"weight": 50
+		},
+		{
+			"name": "Demonstration of couple therapy competency",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "Contact the Course Coordinator in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Exam",
+			"weight": "Contact the Course Coordinator in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

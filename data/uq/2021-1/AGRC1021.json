@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Invasive or poisonous species poster",
+			"weight": 25
+		},
+		{
+			"name": "Employability Reflecton",
+			"weight": 1
+		},
+		{
+			"name": "Dynamic Study Modules",
+			"weight": 13
+		},
+		{
+			"name": "Final Examination",
+			"weight": 36
+		},
+		{
+			"name": "Looking at life",
+			"weight": 5
+		},
+		{
+			"name": "Responses to light",
+			"weight": 5
+		},
+		{
+			"name": "Genetics",
+			"weight": 5
+		},
+		{
+			"name": "Invertebrates",
+			"weight": 5
+		},
+		{
+			"name": "What makes a plant?",
+			"weight": 5
+		}
+	]
+}

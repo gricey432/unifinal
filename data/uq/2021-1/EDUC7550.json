@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection",
+			"weight": "25%                                        1500 words"
+		},
+		{
+			"name": "Assessing and Teaching Children's Writing",
+			"weight": "25%                                        1500 words equivalent"
+		},
+		{
+			"name": "Quality Literature - Book Trailer & Rationale",
+			"weight": "25%                                        1500 words equivalent"
+		},
+		{
+			"name": "Teaching Reading",
+			"weight": "25%                                        1500 words equivalent"
+		}
+	]
+}

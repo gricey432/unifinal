@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "ML task 1",
+			"weight": 3
+		},
+		{
+			"name": "ML task 2",
+			"weight": 3
+		},
+		{
+			"name": "ML task 3",
+			"weight": 3
+		},
+		{
+			"name": "ML task 4",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 28
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

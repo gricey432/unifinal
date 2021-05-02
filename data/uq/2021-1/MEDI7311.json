@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentations (CCP 1 and CCP 2)",
+			"weight": "30%                                        Performance Hurdle: Students must achieve the passing score to pass the course"
+		},
+		{
+			"name": "Short Answer(SAQ)and Multiple Choice (MCQ)exams",
+			"weight": "70%                                        Performance Hurdle: Students must achieve the passing score to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

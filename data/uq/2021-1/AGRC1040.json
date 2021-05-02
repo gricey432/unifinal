@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam (Online)",
+			"weight": 30
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (online non-invigilated exam)",
+			"weight": 40
+		}
+	]
+}

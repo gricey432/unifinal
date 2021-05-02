@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Blackboard Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Service Delivery Project Plan",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "Short Essay Examination",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

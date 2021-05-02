@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Depositional Environment Report",
+			"weight": 20
+		},
+		{
+			"name": "Measured Section Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

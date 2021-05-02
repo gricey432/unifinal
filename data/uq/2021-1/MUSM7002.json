@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion board",
+			"weight": 15
+		},
+		{
+			"name": "Essay 1 Contemporary conservation",
+			"weight": 40
+		},
+		{
+			"name": "Essay 2 Collect or deaccession",
+			"weight": 45
+		}
+	]
+}

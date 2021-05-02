@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Short answer and Video",
+			"weight": 5
+		},
+		{
+			"name": "Debate and Context Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Elevator Pitch: Leadership in energy transitions",
+			"weight": 5
+		},
+		{
+			"name": "National Case Study - Energy Trilemma",
+			"weight": "35%                                        Hurdle"
+		},
+		{
+			"name": "Community Energy Proposal (EWB Challenge)",
+			"weight": 35
+		},
+		{
+			"name": "Oral Examination (online)",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Group Assignment Community Energy Proposal",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

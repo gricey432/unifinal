@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: PICO Research Question",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Literature Critique",
+			"weight": 60
+		},
+		{
+			"name": "Assessment 3: Reviewer Response",
+			"weight": 20
+		}
+	]
+}

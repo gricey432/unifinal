@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Article Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Practical Clinical Examination and Viva",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Article Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Semester 1 Written Examination",
+			"weight": 35
+		},
+		{
+			"name": "Semester 2 Written Exam",
+			"weight": 55
+		}
+	]
+}

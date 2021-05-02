@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Assignment",
+			"weight": "16%                                        2% per assignment -                                                    (Best 8 of 10)"
+		},
+		{
+			"name": "(problem solving)",
+			"weight": 28
+		},
+		{
+			"name": "(problem solving)",
+			"weight": 28
+		},
+		{
+			"name": "(problem solving)",
+			"weight": 28
+		}
+	]
+}

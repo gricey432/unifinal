@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Stage 1 - Concept and Sketch Design",
+			"weight": 30
+		},
+		{
+			"name": "Stage 2 - Developed Design",
+			"weight": "70%                                        Group / Individual (Hurdle)"
+		}
+	]
+}

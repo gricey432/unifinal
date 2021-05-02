@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 15
+		},
+		{
+			"name": "Process analysis",
+			"weight": 15
+		},
+		{
+			"name": "Comminution practical exercises",
+			"weight": 20
+		},
+		{
+			"name": "Comminution circuit data analysis",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

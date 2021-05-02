@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teacher's Report",
+			"weight": 20
+		},
+		{
+			"name": "Technical Exam",
+			"weight": 50
+		},
+		{
+			"name": "Ensemble Director Report or Video/Reflection",
+			"weight": 30
+		}
+	]
+}

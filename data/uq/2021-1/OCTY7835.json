@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Aged Care Fieldwork Report Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Student tutorial presentation",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Online Exam",
+			"weight": 35
+		}
+	]
+}

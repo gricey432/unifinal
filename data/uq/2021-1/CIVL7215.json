@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Q1: Geomaterials and compaction methods",
+			"weight": 15
+		},
+		{
+			"name": "Q2: Conventional compaction and deep replacement",
+			"weight": 15
+		},
+		{
+			"name": "Q3: Micropiles, anchors, nails, and preloading",
+			"weight": 15
+		},
+		{
+			"name": "Q4: Mixing, grouting, and geosynthetics",
+			"weight": 15
+		},
+		{
+			"name": "Online Exam",
+			"weight": 40
+		}
+	]
+}

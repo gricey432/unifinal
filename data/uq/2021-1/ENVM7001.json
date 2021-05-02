@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz - 1",
+			"weight": 20
+		},
+		{
+			"name": "Quiz - 2",
+			"weight": 20
+		},
+		{
+			"name": "Research Report",
+			"weight": "40%                                        3000 words, +/- 10% (excluding references, appendices, endnotes, footnotes and tables)"
+		},
+		{
+			"name": "Quiz - 3",
+			"weight": 20
+		}
+	]
+}

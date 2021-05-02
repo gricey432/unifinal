@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial topics pt.1",
+			"weight": 10
+		},
+		{
+			"name": "Healthcare system brief",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial topics pt.2",
+			"weight": 10
+		},
+		{
+			"name": "Policy proposal",
+			"weight": 45
+		}
+	]
+}

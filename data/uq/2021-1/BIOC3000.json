@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pipetting exercise",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Synthetic Biology Prac report",
+			"weight": 20
+		},
+		{
+			"name": "Press Release",
+			"weight": 10
+		},
+		{
+			"name": "Structural biology prac report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

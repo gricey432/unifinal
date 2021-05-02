@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Final oral (end of semester)",
+			"weight": 15
+		},
+		{
+			"name": "Homework Assignments (6)",
+			"weight": 15
+		},
+		{
+			"name": "Listening Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Vocabulary Quizzes (5)",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Written exam",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Listening Test",
+			"weight": 10
+		},
+		{
+			"name": "Reflections (5) on Pojok Indonesia",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Homeworks",
+			"weight": 60
+		},
+		{
+			"name": "Project Proposal Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Project Demonstration and Report",
+			"weight": 30
+		}
+	]
+}

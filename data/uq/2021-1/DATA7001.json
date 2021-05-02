@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group project",
+			"weight": 40
+		},
+		{
+			"name": "Adaptive Learning Task",
+			"weight": 5
+		},
+		{
+			"name": "Practical",
+			"weight": 15
+		},
+		{
+			"name": "Forms of data task",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		}
+	]
+}

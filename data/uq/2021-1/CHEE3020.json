@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Mentor review sessions",
+			"weight": "Factor applied to Project 1 Marks (Report and Poster)"
+		},
+		{
+			"name": "Project 1 Poster",
+			"weight": 10
+		},
+		{
+			"name": "Project 1 Report",
+			"weight": 20
+		},
+		{
+			"name": "Peer review on project 1",
+			"weight": "Factor applied to Project 1 Marks (Report and Poster)"
+		},
+		{
+			"name": "Mentor review sessions",
+			"weight": "Factor applied to Project 2 Mark (Report)"
+		},
+		{
+			"name": "Aspen Simulation Exam",
+			"weight": "Pass/Fail Hurdle"
+		},
+		{
+			"name": "Project 2 Report",
+			"weight": 40
+		},
+		{
+			"name": "Peer review on project 2",
+			"weight": "Factor applied to Project 2 Mark (Report)"
+		},
+		{
+			"name": "Final exam",
+			"weight": "30%                                        Hurdle"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Individual Literature Review",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation #1",
+			"weight": 5
+		},
+		{
+			"name": "Group Work Reflection (Individual Submission)",
+			"weight": 2
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Final Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Group Report",
+			"weight": 16
+		},
+		{
+			"name": "Peer Assessment for Group Work",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": "35%                                        Hurdle"
+		}
+	]
+}

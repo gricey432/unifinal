@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and written report",
+			"weight": "20%                                        600 words"
+		},
+		{
+			"name": "Unpacking a political speech",
+			"weight": "20%                                        600 words"
+		},
+		{
+			"name": "Analysing a lobby campaign",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Political Campaign",
+			"weight": "40%                                        1600-word portfolio"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Income tax case study",
+			"weight": 20
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": 50
+		}
+	]
+}

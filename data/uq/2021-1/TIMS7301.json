@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Reaching Crunch Time Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Developing a business opportunity Pitch & Report",
+			"weight": "40%                                        Team"
+		}
+	]
+}

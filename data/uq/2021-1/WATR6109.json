@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1 (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip 1: Water Treatment",
+			"weight": 5
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical 2 SOP/Plan (individual)",
+			"weight": 5
+		},
+		{
+			"name": "Practical 2 report(individual)",
+			"weight": 10
+		},
+		{
+			"name": "Field Trip 2: Advanced Water Treatment",
+			"weight": 5
+		},
+		{
+			"name": "Feasibility Study",
+			"weight": 15
+		},
+		{
+			"name": "Feasibility Study - role play",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

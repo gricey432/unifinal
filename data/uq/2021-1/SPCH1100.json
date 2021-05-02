@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Client Observation and Report",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester examination",
+			"weight": 50
+		}
+	]
+}

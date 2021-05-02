@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Performance and record keeping",
+			"weight": 15
+		},
+		{
+			"name": "Research report",
+			"weight": 65
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 20
+		}
+	]
+}

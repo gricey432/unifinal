@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Chemical Engineering Lab Safety Induction",
+			"weight": "Compulsory prior to prac attendance"
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 6
+		},
+		{
+			"name": "Lab 1 - at home analysis of lab data",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 8
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 15
+		},
+		{
+			"name": "Lab 2 - at home activity with data supplied",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 8
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 8
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        hurdle"
+		}
+	]
+}

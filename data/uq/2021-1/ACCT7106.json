@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Financial analysis and valuation project",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination (online)",
+			"weight": 60
+		}
+	]
+}

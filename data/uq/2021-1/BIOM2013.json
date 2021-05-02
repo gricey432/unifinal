@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-Learning Task 1",
+			"weight": 3
+		},
+		{
+			"name": "Nernst Potential",
+			"weight": 5
+		},
+		{
+			"name": "Report 1 (Partial report)",
+			"weight": 12
+		},
+		{
+			"name": "Report 2 (Final full report)",
+			"weight": 17
+		},
+		{
+			"name": "Meta-Learning Task 2",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 1 - Muscle Cells",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2 - Endocrinology",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 3 - Epithelial",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 4 - Neuro",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 5 - Sensory",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 6 - Immunology",
+			"weight": 2
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

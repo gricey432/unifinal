@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Osmosis and musculoskeletal anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 2: Cardiorespiratory anatomy & ECG",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 3: Spirometry & reproductive anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Task 1",
+			"weight": 3
+		},
+		{
+			"name": "Task 2",
+			"weight": 3
+		},
+		{
+			"name": "Task 3",
+			"weight": 3
+		},
+		{
+			"name": "Invigilated online mid-semester exam",
+			"weight": 39
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

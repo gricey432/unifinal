@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning #1",
+			"weight": 1.5
+		},
+		{
+			"name": "Meta-learning #2",
+			"weight": 1.5
+		},
+		{
+			"name": "Meta-Learning #3",
+			"weight": 2
+		},
+		{
+			"name": "Identification of Unknowns Report",
+			"weight": 15
+		},
+		{
+			"name": "Aspirin Absorption",
+			"weight": 10
+		},
+		{
+			"name": "Pharmacokinetics of Alcohol",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Theory Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 40
+		}
+	]
+}

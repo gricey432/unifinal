@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Online Non-Invigilated Exam",
+			"weight": 50
+		}
+	]
+}

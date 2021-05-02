@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project 01 - Framing Space",
+			"weight": 40
+		},
+		{
+			"name": "Project 02 - Five Points Mediatheque",
+			"weight": 60
+		}
+	]
+}

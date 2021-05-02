@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lab quiz handed in at each of the five labs",
+			"weight": 10
+		},
+		{
+			"name": "Written report",
+			"weight": 40
+		},
+		{
+			"name": "Mid semester online quiz",
+			"weight": 25
+		},
+		{
+			"name": "End of semester online quiz",
+			"weight": 25
+		}
+	]
+}

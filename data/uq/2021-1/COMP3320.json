@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Lab Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Problem Solving Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Integrated practical exercise",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

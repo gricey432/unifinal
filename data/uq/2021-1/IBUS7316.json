@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Semester Paper",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Time-bound Assessment",
+			"weight": "60%                                        Individual"
+		}
+	]
+}

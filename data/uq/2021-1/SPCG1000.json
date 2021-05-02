@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Reflective Essay (1500 words)",
+			"weight": 50
+		}
+	]
+}

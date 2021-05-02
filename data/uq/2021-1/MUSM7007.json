@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project Brief 1500 words",
+			"weight": 40
+		},
+		{
+			"name": "Museum Project Report 3500 words",
+			"weight": 60
+		}
+	]
+}

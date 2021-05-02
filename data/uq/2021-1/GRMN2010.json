@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "First Essay",
+			"weight": 20
+		},
+		{
+			"name": "Second Essay",
+			"weight": 40
+		},
+		{
+			"name": "Individual Interview",
+			"weight": 40
+		}
+	]
+}

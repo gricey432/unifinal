@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": "40%                                        Report marked from 50"
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

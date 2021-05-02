@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Debt and Investment products",
+			"weight": 25
+		},
+		{
+			"name": "Understanding derivatives",
+			"weight": 25
+		},
+		{
+			"name": "The 'game'",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "scoping, project management, evaluation",
+			"weight": "15%                                        3 case studies 5% each"
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Case Study report",
+			"weight": 55
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Plan",
+			"weight": "NA"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

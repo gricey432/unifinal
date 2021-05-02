@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation",
+			"weight": 20
+		},
+		{
+			"name": "Respectful Intercultural Communication",
+			"weight": 20
+		},
+		{
+			"name": "Simulation, analysis of performance and case note",
+			"weight": "60%                                        (30%-simulation; 30% written components)"
+		}
+	]
+}

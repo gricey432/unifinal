@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Exercises and assessments",
+			"weight": 20
+		},
+		{
+			"name": "Pre-Recorded Project Research Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Contributions to research project and presentation",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 40
+		}
+	]
+}

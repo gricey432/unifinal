@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Non-Disclosure Agreement",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Meta-learning activity 1",
+			"weight": 1
+		},
+		{
+			"name": "Meta-learning activities",
+			"weight": 4
+		},
+		{
+			"name": "Individual exercise",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Project A presentation",
+			"weight": "5%                                        Group"
+		},
+		{
+			"name": "Project A report",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Individual exercise",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Project B presentation",
+			"weight": "5%                                        Group"
+		},
+		{
+			"name": "Project B report",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Individual oral defence",
+			"weight": "25%                                        Hurdle"
+		}
+	]
+}

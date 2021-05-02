@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural competency course",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Executive Summary",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Student Professionalism",
+			"weight": "Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Project presentation",
+			"weight": "Satisfactory/Unsatisfactory"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Annotated bibliography and Critical appraisal",
+			"weight": 20
+		},
+		{
+			"name": "Concept and problem-based learning assessment",
+			"weight": 40
+		},
+		{
+			"name": "Situation analysis",
+			"weight": 30
+		}
+	]
+}

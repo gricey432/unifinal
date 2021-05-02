@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "ANOVA calculation and interpretation",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz - Mid Semester",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz - Final",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

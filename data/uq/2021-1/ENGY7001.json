@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Reflection on scenarios",
+			"weight": 3
+		},
+		{
+			"name": "Policy Consequences (Small Groups)",
+			"weight": 10
+		},
+		{
+			"name": "Leadership Reflection",
+			"weight": 2
+		},
+		{
+			"name": "The effectiveness of climate/energy policy",
+			"weight": 30
+		},
+		{
+			"name": "Oral Examination (online)",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Scenario Planning for Net Zero Emissions (Group)",
+			"weight": 40
+		},
+		{
+			"name": "Scenario Development Group Work",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

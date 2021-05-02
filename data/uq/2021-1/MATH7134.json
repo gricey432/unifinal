@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Final assignment",
+			"weight": 30
+		},
+		{
+			"name": "Number 1",
+			"weight": 6
+		},
+		{
+			"name": "Essay 1",
+			"weight": 11
+		},
+		{
+			"name": "Number 2",
+			"weight": 6
+		},
+		{
+			"name": "Number 3",
+			"weight": 6
+		},
+		{
+			"name": "Number 4",
+			"weight": 6
+		},
+		{
+			"name": "Number 5",
+			"weight": 6
+		},
+		{
+			"name": "Essay 2",
+			"weight": 11
+		},
+		{
+			"name": "Number 6",
+			"weight": 6
+		},
+		{
+			"name": "Number 7",
+			"weight": 6
+		},
+		{
+			"name": "Number 8",
+			"weight": 5
+		}
+	]
+}

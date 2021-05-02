@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Sem Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		},
+		{
+			"name": "Individual online Demonstration",
+			"weight": 5
+		},
+		{
+			"name": "Individual Lab-book Submission",
+			"weight": 10
+		},
+		{
+			"name": "Design Project Online Demonstration",
+			"weight": 5
+		},
+		{
+			"name": "Design Project Report",
+			"weight": 10
+		}
+	]
+}

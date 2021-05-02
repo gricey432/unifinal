@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of problems",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Customer Discovery Project Video",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "Customer Discovery Project Report",
+			"weight": "40%                                        Group"
+		}
+	]
+}

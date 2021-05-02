@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "5 x Tutorial Exercises via Blackboard Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Individual Report",
+			"weight": 25
+		},
+		{
+			"name": "Online Examination",
+			"weight": 50
+		}
+	]
+}

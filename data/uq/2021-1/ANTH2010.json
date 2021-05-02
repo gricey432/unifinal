@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation & Leading discussion",
+			"weight": 20
+		},
+		{
+			"name": "QUIZ kinship and basics",
+			"weight": 20
+		},
+		{
+			"name": "Short 500 word essay",
+			"weight": 20
+		},
+		{
+			"name": "2000 word review essay",
+			"weight": 40
+		}
+	]
+}

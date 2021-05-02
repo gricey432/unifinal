@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "3 Quizzes in Weeks 5, 9 and 12",
+			"weight": 15
+		},
+		{
+			"name": "Practical Lab notebook",
+			"weight": 20
+		},
+		{
+			"name": "Online via Blackboard test tool",
+			"weight": 45
+		}
+	]
+}

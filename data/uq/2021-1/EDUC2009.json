@@ -1,0 +1,80 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Task 2",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 3",
+			"weight": 40
+		},
+		{
+			"name": "Learning Objective",
+			"weight": ""
+		},
+		{
+			"name": "1",
+			"weight": ""
+		},
+		{
+			"name": "2",
+			"weight": ""
+		},
+		{
+			"name": "3",
+			"weight": ""
+		},
+		{
+			"name": "4",
+			"weight": ""
+		},
+		{
+			"name": "5",
+			"weight": ""
+		},
+		{
+			"name": "6",
+			"weight": ""
+		},
+		{
+			"name": "7",
+			"weight": ""
+		},
+		{
+			"name": "8",
+			"weight": ""
+		},
+		{
+			"name": "9",
+			"weight": ""
+		},
+		{
+			"name": "10",
+			"weight": ""
+		},
+		{
+			"name": "11",
+			"weight": ""
+		},
+		{
+			"name": "12",
+			"weight": ""
+		},
+		{
+			"name": "13",
+			"weight": ""
+		},
+		{
+			"name": "14",
+			"weight": ""
+		},
+		{
+			"name": "15",
+			"weight": ""
+		}
+	]
+}

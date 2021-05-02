@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to online discussions",
+			"weight": 10
+		},
+		{
+			"name": "Seminar 1 submission",
+			"weight": 20
+		},
+		{
+			"name": "Seminar 2 submission",
+			"weight": 20
+		},
+		{
+			"name": "Seminar 3 submission",
+			"weight": 25
+		},
+		{
+			"name": "Seminar 4 submission",
+			"weight": 25
+		}
+	]
+}

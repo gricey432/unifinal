@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Vocabulary and Grammar Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Test",
+			"weight": 25
+		},
+		{
+			"name": "Movie Review",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

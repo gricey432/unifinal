@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Environmental scan",
+			"weight": 40
+		},
+		{
+			"name": "Database Search",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Vlogs",
+			"weight": 30
+		}
+	]
+}

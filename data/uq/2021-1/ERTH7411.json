@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical write ups",
+			"weight": 60
+		},
+		{
+			"name": "Handbook of Sedimentary Structures",
+			"weight": 5
+		},
+		{
+			"name": "Presentation of field trip group project",
+			"weight": 5
+		},
+		{
+			"name": "Modern and Ancient Fluvial and Coastal Successions",
+			"weight": 30
+		}
+	]
+}

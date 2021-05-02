@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple Choice Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation and Online Tasks",
+			"weight": "20%                                        (Stimulus material and presentation 10%; Weekly tutorial task 10%)"
+		},
+		{
+			"name": "Critical Review",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Philosophy Essay",
+			"weight": "40%                                        2000 words"
+		}
+	]
+}

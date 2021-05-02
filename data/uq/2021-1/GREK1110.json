@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Assignments",
+			"weight": "15%                                        WEEKS 3-12"
+		},
+		{
+			"name": "Progress Tests: Blackboard",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Assignment",
+			"weight": "30%                                        WEEK 7"
+		},
+		{
+			"name": "Take Home Exam Set-Timed on Blackboard",
+			"weight": 40
+		}
+	]
+}

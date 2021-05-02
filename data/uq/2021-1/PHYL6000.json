@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "THE BASICS - QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "LITERATURE REVIEW",
+			"weight": 35
+		},
+		{
+			"name": "FUNDAMENTALS OF TRAINING - Quiz",
+			"weight": 10
+		},
+		{
+			"name": "DATA ANALYSIS with REPORT",
+			"weight": 35
+		},
+		{
+			"name": "OPTIMISING PERFORMANCE Quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Practical Exercises (from practicals 1-7)",
+			"weight": 24
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "GIS Project Report",
+			"weight": 25
+		},
+		{
+			"name": "EXAM",
+			"weight": 30
+		}
+	]
+}

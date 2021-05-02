@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Role-play Client Descriptions & Formulations",
+			"weight": "Pass/Fail (10%)"
+		},
+		{
+			"name": "Written Case Study Report",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Competencies Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Role Play and Exams",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Plan and Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Research Paper (12,000 Words)",
+			"weight": 80
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. Urban Data Analysis and Visualization",
+			"weight": "30%                                        Collaborative"
+		},
+		{
+			"name": "2a. Urban Engagement Strategies Research",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "2b. Schematic and System Design - Hurdle",
+			"weight": "60%                                        Individual"
+		}
+	]
+}

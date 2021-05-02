@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment One",
+			"weight": 10
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 10
+		},
+		{
+			"name": "Midsemester quiz (Weeks 1-6)",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Three",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Four",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

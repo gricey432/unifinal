@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical: quizzes and reports",
+			"weight": "22%                                        total"
+		},
+		{
+			"name": "Pre-prac online questions",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Problem-based workshops",
+			"weight": 9
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "ID plants, animals & processes & answer questions",
+			"weight": 8
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

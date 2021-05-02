@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial group participation",
+			"weight": 10
+		},
+		{
+			"name": "Ethics Application (Including research proposal)",
+			"weight": 30
+		},
+		{
+			"name": "Group Research Project Written Scientific Report",
+			"weight": 60
+		},
+		{
+			"name": "Group Research Project Peer Assessment",
+			"weight": "Pass/Fail - Affects individual mark for Group Research Project Report"
+		}
+	]
+}

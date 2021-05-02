@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Active studio participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Problem finding and idea generation",
+			"weight": "Pass/fail Individual"
+		},
+		{
+			"name": "Problem identification",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Interim project critique",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Project Proposal Report",
+			"weight": "30%                                        Team"
+		},
+		{
+			"name": "Reflective Research Report",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

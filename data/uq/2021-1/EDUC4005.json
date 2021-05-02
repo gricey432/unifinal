@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professionalism",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Graduate Teacher Performance Assessment (GTPA)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Teaching reports",
+			"weight": "Pass / Fail"
+		}
+	]
+}

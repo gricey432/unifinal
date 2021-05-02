@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 (A1)",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 (A2)",
+			"weight": 20
+		},
+		{
+			"name": "Business Analytics Project (A3)",
+			"weight": 50
+		}
+	]
+}

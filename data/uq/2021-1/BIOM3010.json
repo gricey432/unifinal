@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Online (Blackboard) Invigilated Theory Exam",
+			"weight": 60
+		},
+		{
+			"name": "ECG",
+			"weight": 5
+		},
+		{
+			"name": "Heart Sounds and Blood Pressure",
+			"weight": 5
+		},
+		{
+			"name": "Diuretics",
+			"weight": 5
+		}
+	]
+}

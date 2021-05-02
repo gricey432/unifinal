@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 (Cultural Cross-Roads)",
+			"weight": 30
+		},
+		{
+			"name": "Project 2 IVAH Assessment (Asian Architecture)",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Audit Report",
+			"weight": 15
+		},
+		{
+			"name": "GLP Study Plan Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

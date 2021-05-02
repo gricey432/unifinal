@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective journal #1",
+			"weight": 7.5
+		},
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Reflective journal #2",
+			"weight": 7.5
+		},
+		{
+			"name": "Reflective journal #3",
+			"weight": 7.5
+		},
+		{
+			"name": "Major assessment",
+			"weight": 50
+		},
+		{
+			"name": "Reflective journal #4",
+			"weight": 7.5
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Sem2 Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Sem1 Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Population Medicine Stakeholder Report",
+			"weight": 25
+		},
+		{
+			"name": "Sem1 End of Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Sem2 End of Semester Examination",
+			"weight": 15
+		}
+	]
+}

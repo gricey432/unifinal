@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Worksheets",
+			"weight": "0%                                        formative only"
+		},
+		{
+			"name": "Assignment 1 - Ordinary Differential Equations",
+			"weight": 16
+		},
+		{
+			"name": "Assignment 2 - Finite Element Method",
+			"weight": 16
+		},
+		{
+			"name": "Assignment 3 - Hydrogen Atom",
+			"weight": 16
+		},
+		{
+			"name": "Assignment 4 - Monte Carlo Methods",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 5 - Modelling multi-electron atoms",
+			"weight": 16
+		},
+		{
+			"name": "Assignment 6 - Exact diagonalization",
+			"weight": 16
+		}
+	]
+}

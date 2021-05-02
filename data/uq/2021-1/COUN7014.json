@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A Study of Grief - Theory and Reflection",
+			"weight": 40
+		},
+		{
+			"name": "Professional Manual",
+			"weight": 45
+		},
+		{
+			"name": "Personal Exploration Journal",
+			"weight": 15
+		}
+	]
+}

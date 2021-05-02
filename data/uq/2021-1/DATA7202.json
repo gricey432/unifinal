@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 25
+		},
+		{
+			"name": "In response to the effects of COVID-19, we have cancelled the exam component of this course. It will be replaced by larger assignments.",
+			"weight": ""
+		}
+	]
+}

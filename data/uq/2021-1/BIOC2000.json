@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Data Analysis Reports (LEAPS)",
-			"weight": "14%                                        NOTE: multiple submissions required, each with their own due date."
+			"weight": 14
 		},
 		{
 			"name": "Practical report (LEAPS)",
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "Data Analysis Plan (ALURE)",
-			"weight": "14%                                        NOTE: multiple submissions required, each with their own due date."
+			"weight": 14
 		},
 		{
 			"name": "Practical report (ALURE)",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "AT1: Critical Reflection Essay [APST: 2.1; 6.2]",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "AT2: Online Quiz  [APST: 2.1]",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "AT3: Learning Experience [APST 2.1-2.3;3.2-3.4]",
-			"weight": "40%                                        1500-2000 words"
+			"weight": 40
 		}
 	]
 }

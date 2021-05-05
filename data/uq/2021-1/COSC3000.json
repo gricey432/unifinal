@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Presentation - Scientific Visualisation",
-			"weight": "15%                                        Alternative to final exam"
+			"weight": 15
 		},
 		{
 			"name": "Presentation - Computer Graphics",
-			"weight": "15%                                        Alternative to final exam"
+			"weight": 15
 		},
 		{
 			"name": "Project Report - Computer Graphics",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Exam",
-			"weight": "30%                                        Alternative to oral presentation"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflexivity Assignment - Culture & Physiotherapy",
-			"weight": "15%                                        (Must Pass)"
+			"weight": 15
 		},
 		{
 			"name": "Mid Semester Practical Examination",
-			"weight": "30%                                        (Must Pass)"
+			"weight": 30
 		},
 		{
 			"name": "End of Semester Written Examination",
-			"weight": "55%                                        (Must Pass)"
+			"weight": 55
 		}
 	]
 }

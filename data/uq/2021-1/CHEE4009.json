@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Portfolio Assignment 1",
-			"weight": "10%                                        Formative"
+			"weight": 10
 		},
 		{
 			"name": "Portfolio Assignment 2",
-			"weight": "10%                                        Formative"
+			"weight": 10
 		},
 		{
 			"name": "Mid-semester Exam",
-			"weight": "20%                                        Summative"
+			"weight": 20
 		},
 		{
 			"name": "Portfolio Assignment 3",
-			"weight": "10%                                        Formative"
+			"weight": 10
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        Summative"
+			"weight": 50
 		}
 	]
 }

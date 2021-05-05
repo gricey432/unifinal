@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online quiz",
-			"weight": "25%                                        Individual; 60 minutes"
+			"weight": 25
 		},
 		{
 			"name": "Presentation - Destination Virtual Showcase",
-			"weight": "35%                                        Individual; 7 minutes"
+			"weight": 35
 		},
 		{
 			"name": "Individual Essay",
-			"weight": "40%                                        Individual; 1500 - 2000 words"
+			"weight": 40
 		}
 	]
 }

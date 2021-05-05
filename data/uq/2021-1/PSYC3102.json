@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Reflective Summaries",
-			"weight": "30%                                        each summary is worth 5%"
+			"weight": 30
 		}
 	]
 }

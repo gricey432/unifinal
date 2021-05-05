@@ -6,27 +6,27 @@
 		},
 		{
 			"name": "Polymer Wiki",
-			"weight": "6%                                        Individual"
+			"weight": 6
 		},
 		{
 			"name": "Lab reports",
-			"weight": "24%                                        4 at 6% each; Group"
+			"weight": 24
 		},
 		{
 			"name": "Polymer materials selection",
-			"weight": "18%                                        Individual"
+			"weight": 18
 		},
 		{
 			"name": "Mid-semester quiz",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Team performance evaluation",
-			"weight": "2%                                        Individual"
+			"weight": 2
 		},
 		{
 			"name": "End of semester exam",
-			"weight": "40%                                        Individual, Hurdle"
+			"weight": 40
 		}
 	]
 }

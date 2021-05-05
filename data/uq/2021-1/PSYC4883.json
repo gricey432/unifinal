@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Student Seminar",
-			"weight": "0%                                        pass / fail"
+			"weight": 0
 		},
 		{
 			"name": "Class Participation",
-			"weight": "0%                                        pass / fail"
+			"weight": 0
 		},
 		{
 			"name": "Research Proposal - Introduction",

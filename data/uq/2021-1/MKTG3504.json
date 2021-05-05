@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Market Research Proposal for Client",
-			"weight": "30%                                        Individual task (maximum 2000 words)"
+			"weight": 30
 		},
 		{
 			"name": "Market Research Report for Client",
-			"weight": "40%                                        Group task (Maximum 6000 words)"
+			"weight": 40
 		},
 		{
 			"name": "Ethics Position Paper",
-			"weight": "30%                                        Individual task (maximum 1500 words)"
+			"weight": 30
 		}
 	]
 }

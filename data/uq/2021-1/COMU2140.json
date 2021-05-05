@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Platform Business Analysis",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Essay on Platformisation and Governance",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Online Examination (modules 1-2)",
-			"weight": "40%                                        must pass"
+			"weight": 40
 		},
 		{
 			"name": "Indigenous Health Online Modules",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Online Examination (modules 3-4 & integration)",
-			"weight": "45%                                        must pass"
+			"weight": 45
 		}
 	]
 }

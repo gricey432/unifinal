@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Online Symposium Pitch",
-			"weight": "15%                                        7-10 minutes (ca 1,000-1,200 words)"
+			"weight": 15
 		},
 		{
 			"name": "Interview & Feature Story on Humanities Champion",
-			"weight": "25%                                        1,500 words"
+			"weight": 25
 		},
 		{
 			"name": "ONE Big Challenge in the Humanities",
-			"weight": "25%                                        15 minutes (ca 1,500-1,700 words)"
+			"weight": 25
 		},
 		{
 			"name": "Report and Critical Reflection on Symposium",
-			"weight": "20%                                        1,000 words"
+			"weight": 20
 		}
 	]
 }

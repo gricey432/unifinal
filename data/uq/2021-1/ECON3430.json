@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "First draft",
-			"weight": "30%                                        (0% if not the highest marked draft)"
+			"weight": 30
 		},
 		{
 			"name": "Wikipedia article",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Second draft",
-			"weight": "30%                                        (0% if not the highest marked draft)"
+			"weight": 30
 		},
 		{
 			"name": "Problem Set 3",
@@ -34,7 +34,7 @@
 		},
 		{
 			"name": "Final draft",
-			"weight": "30%                                        (0% if not the highest marked draft)"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment one",
-			"weight": "20%                                        700-900 words"
+			"weight": 20
 		},
 		{
 			"name": "Assignment two",
-			"weight": "30%                                        10 mins + 5 mins Q&A"
+			"weight": 30
 		},
 		{
 			"name": "Assignment three",
-			"weight": "50%                                        3000-3300 words"
+			"weight": 50
 		}
 	]
 }

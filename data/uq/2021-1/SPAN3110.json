@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tareas evaluadas/Worksheets",
-			"weight": "16%                                        (4% each task)"
+			"weight": 16
 		},
 		{
 			"name": "Written test 1",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Oral group presentation",
-			"weight": "22%                                        (includes 4% Wiki)"
+			"weight": 22
 		},
 		{
 			"name": "Written test 2",

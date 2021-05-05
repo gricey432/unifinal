@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Topic evaluation",
-			"weight": "25%                                        Individual; formative"
+			"weight": 25
 		},
 		{
 			"name": "Workshop presentation",
-			"weight": "35%                                        Group"
+			"weight": 35
 		},
 		{
 			"name": "Case study Practical, due in Week 10",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

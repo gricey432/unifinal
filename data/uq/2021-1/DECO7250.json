@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Mind Map & Presentation",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		},
 		{
 			"name": "HCI/UX Overview to a Method or Concept Essay",
-			"weight": "20%                                        (Individual)"
+			"weight": 20
 		},
 		{
 			"name": "Group Project",
-			"weight": "30%                                        (Group)"
+			"weight": 30
 		},
 		{
 			"name": "Final Examination",
-			"weight": "35%                                        (Individual)"
+			"weight": 35
 		}
 	]
 }

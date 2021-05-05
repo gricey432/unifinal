@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Flash Memoir",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		},
 		{
 			"name": "Personal Essay/Biographical Profile",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Major Creative Non-Fiction Project",
-			"weight": "55%                                        2500 words"
+			"weight": 55
 		}
 	]
 }

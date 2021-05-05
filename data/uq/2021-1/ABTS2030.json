@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Assessment.2 includes parts;(A)and(B):",
-			"weight": "25%                                        1200-words"
+			"weight": 25
 		},
 		{
 			"name": "Assessment 3. Reflection(Video/Podcast)",
-			"weight": "25%                                        8-10 minutes maximum"
+			"weight": 25
 		},
 		{
 			"name": "Assessment 4. Critical Essay",
-			"weight": "40%                                        1800-words"
+			"weight": 40
 		}
 	]
 }

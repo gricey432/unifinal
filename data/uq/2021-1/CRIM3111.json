@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Financial Crime Investigation Activities",
-			"weight": "25%                                        (5% Investigation Plan; 10% Interview Plan; 10% Court Summation"
+			"weight": 25
 		},
 		{
 			"name": "Financial Crime Investigation Group Report",
-			"weight": "30%                                        Peer Assessment Factor considered for individual grade"
+			"weight": 30
 		}
 	]
 }

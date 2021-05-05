@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Integrity Module Completion",
-			"weight": "0%                                        Pass/Fail/ Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Submission of One Interview (All Students)",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Competency Interview",
-			"weight": "30%                                        Pass/Fail/ Hurdle"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

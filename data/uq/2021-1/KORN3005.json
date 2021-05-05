@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Flipgrid recording (reading)",
-			"weight": "10%                                        2% X 5 = 10%"
+			"weight": 10
 		},
 		{
 			"name": "Script writing assignment",
-			"weight": "12%                                        4% X 3 = 12%"
+			"weight": 12
 		},
 		{
 			"name": "Interview I",

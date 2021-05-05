@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Preclinical competency - Endodontics",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Clinical Practice Performance",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Written End of Semester Examination",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

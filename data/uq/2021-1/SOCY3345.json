@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Summarising three primary sources",
-			"weight": "30%                                        (10% per summary)"
+			"weight": 30
 		},
 		{
 			"name": "Argumentative essay",

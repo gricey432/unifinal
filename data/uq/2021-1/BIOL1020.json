@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Online Learning (EdX) questions",
-			"weight": "0%                                        Grade Restriction (see grade matrix)"
+			"weight": 0
 		},
 		{
 			"name": "Tutorials",
-			"weight": "0%                                        Compulsory Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Textbook readings and associated questions",
-			"weight": "0%                                        Examinable"
+			"weight": 0
 		},
 		{
 			"name": "Practical class preparation & participation",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Mini-tests",
-			"weight": "40%                                        3x13.3%"
+			"weight": 40
 		},
 		{
 			"name": "End of semester exam",

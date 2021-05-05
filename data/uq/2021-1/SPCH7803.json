@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Perceptual analysis of disordered voice",
-			"weight": "10%                                        MUST PASS"
+			"weight": 10
 		},
 		{
 			"name": "Fluency Disorders Mid-Semester Examination",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		},
 		{
 			"name": "Hearing Screening Practical",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "SPCH7803/1 Voice Disorders",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "SPCH7803/2 Fluency Disorders",

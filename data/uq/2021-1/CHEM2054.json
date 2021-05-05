@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Lab Notebook",
-			"weight": "0%                                        Pass/Fail - fail = downgrade of one grade level"
+			"weight": 0
 		},
 		{
 			"name": "Mid-semester examination",

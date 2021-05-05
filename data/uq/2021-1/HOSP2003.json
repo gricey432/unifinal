@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Feasibility Analysis",
-			"weight": "40%                                        Maximum 4000 words"
+			"weight": 40
 		},
 		{
 			"name": "Final Exam",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

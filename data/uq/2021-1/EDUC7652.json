@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Active engagement in practices of the profession",
-			"weight": "30%                                        1400 words"
+			"weight": 30
 		},
 		{
 			"name": "Learning and teaching sequence and assessment",
-			"weight": "40%                                        3200 words"
+			"weight": 40
 		},
 		{
 			"name": "Professional engagement and presentation",
-			"weight": "30%                                        1400 words"
+			"weight": 30
 		}
 	]
 }

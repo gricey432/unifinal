@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Full Submission: Communication Thesis Res Proj.",
-			"weight": "100%                                        Project-50%; exegesis 6000 words-50%"
+			"weight": 100
 		},
 		{
 			"name": "Full Submission: Communication Research Thesis",
-			"weight": "100%                                        12,000 words (+/- 10%)"
+			"weight": 100
 		}
 	]
 }

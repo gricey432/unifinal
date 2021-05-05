@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Mind Map & Presentation",
-			"weight": "15%                                        (Individual)"
+			"weight": 15
 		},
 		{
 			"name": "Group Project",
-			"weight": "45%                                        (Group)"
+			"weight": 45
 		},
 		{
 			"name": "Final Examination",
-			"weight": "40%                                        (Individual)"
+			"weight": 40
 		}
 	]
 }

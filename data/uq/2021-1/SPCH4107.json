@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "SPCH4107 Case-based Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		}
 	]
 }

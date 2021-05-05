@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Project 1",
-			"weight": "40%                                        Digital submission. Work submitted digitally will be presented at reviews on the following day"
+			"weight": 40
 		},
 		{
 			"name": "Project 2 (Hurdle)",
-			"weight": "60%                                        Digital submission. Work submitted digitally will be presented at reviews on the following day"
+			"weight": 60
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "4 In-class Tests",
-			"weight": "50%                                        12.5% each"
+			"weight": 50
 		},
 		{
 			"name": "Unit Planning",

@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Project 1 Group Report",
-			"weight": "15%                                        Hurdle assessment"
+			"weight": 15
 		},
 		{
 			"name": "Quiz 2",
@@ -22,11 +22,11 @@
 		},
 		{
 			"name": "Project 2 Group Report and Presentation",
-			"weight": "20%                                        Hurdle assessment"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam",
-			"weight": "45%                                        Hurdle assessment"
+			"weight": 45
 		}
 	]
 }

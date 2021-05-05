@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Learning contribution",
-			"weight": "10%                                        (contributes towards)"
+			"weight": 10
 		},
 		{
 			"name": "Final exam",

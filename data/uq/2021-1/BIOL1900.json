@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Online Quizzes",
-			"weight": "10%                                        10 quizzes x 1%"
+			"weight": 10
 		},
 		{
 			"name": "Major Laboratory Report",

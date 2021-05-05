@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Online Mid-Semester Exam",
-			"weight": "15%                                         Attempt must be made to pass this course"
+			"weight": 15
 		},
 		{
 			"name": "Research Report",
-			"weight": "35%                                        Attempt must be made to pass this course"
+			"weight": 35
 		},
 		{
 			"name": "Media Diary",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Online Final Exam",
-			"weight": "30%                                        Attempt must be made to pass this course"
+			"weight": 30
 		}
 	]
 }

@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Essay 1",
-			"weight": "45%                                        2000 words"
+			"weight": 45
 		},
 		{
 			"name": "Research Essay",
-			"weight": "45%                                        2000-2500 words"
+			"weight": 45
 		}
 	]
 }

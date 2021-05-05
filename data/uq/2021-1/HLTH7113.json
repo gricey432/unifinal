@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Collaborative discussion/reflective journal",
-			"weight": "20%                                        Contribute to 5 online discussions and 5 reflective journals"
+			"weight": 20
 		},
 		{
 			"name": "Online Quiz",

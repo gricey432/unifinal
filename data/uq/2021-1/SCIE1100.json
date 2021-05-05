@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Mid-Semester",
-			"weight": "0% or 10%"
+			"weight": 0
 		},
 		{
 			"name": "Philosophy assignment",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Final",
-			"weight": "60% or 50%"
+			"weight": 60
 		}
 	]
 }

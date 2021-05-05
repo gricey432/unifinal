@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Seminar Leadership",
-			"weight": "15%                                        2 presentations, marks will be averaged"
+			"weight": 15
 		},
 		{
 			"name": "Seminar Papers",
-			"weight": "20%                                        for each paper"
+			"weight": 20
 		},
 		{
 			"name": "Final Research Paper",
-			"weight": "30%                                        Friday of Week 13"
+			"weight": 30
 		}
 	]
 }

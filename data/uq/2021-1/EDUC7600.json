@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Schools & Inclusion: Family-School Partnerships",
-			"weight": "40%                                        1800 words"
+			"weight": 40
 		},
 		{
 			"name": "Approaching Practice through an educational issue",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

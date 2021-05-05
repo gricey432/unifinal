@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reflective Essay",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Restaurant Online Review Project",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

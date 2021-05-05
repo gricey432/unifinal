@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "70%                                        Must obtain at least 40/100 on the exam to pass the course"
+			"weight": 70
 		}
 	]
 }

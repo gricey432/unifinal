@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Close Reading Essay",
-			"weight": "20%                                        600 words"
+			"weight": 20
 		},
 		{
 			"name": "Research Essay",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Fixed-Time Short Essays",
-			"weight": "30%                                        1200 words"
+			"weight": 30
 		}
 	]
 }

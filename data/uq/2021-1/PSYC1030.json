@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Introduction + References",
-			"weight": "38%                                        Submission is compulsory to pass the course"
+			"weight": 38
 		},
 		{
 			"name": "Cycle of Science: Individual study",
@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "Cycle of Science: Group study",
-			"weight": "14%                                        Submission is compulsory to pass the course"
+			"weight": 14
 		},
 		{
 			"name": "Group presentation",
-			"weight": "12%                                        Presentation is compulsory to pass the course"
+			"weight": 12
 		},
 		{
 			"name": "Type of Assessment",

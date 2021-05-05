@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Report (Part A) and Simulated Interview (Part B)",
-			"weight": "50%                                        2000 words/10 mins"
+			"weight": 50
 		},
 		{
 			"name": "Presentation (Part A) and Reflection (Part B)",
-			"weight": "50%                                        15 mins/1500 words"
+			"weight": 50
 		}
 	]
 }

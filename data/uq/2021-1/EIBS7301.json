@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Innovation Case Study",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Written Report",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Take home assessment",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

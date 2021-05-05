@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Portfolio of problems",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Customer Discovery Project Video",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Customer Discovery Project Report",
-			"weight": "40%                                        Group"
+			"weight": 40
 		}
 	]
 }

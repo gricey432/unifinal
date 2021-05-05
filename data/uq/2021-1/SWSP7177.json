@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Simulation, analysis of performance and case note",
-			"weight": "60%                                        (30%-simulation; 30% written components)"
+			"weight": 60
 		}
 	]
 }

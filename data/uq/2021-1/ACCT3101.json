@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-exam (Online)",
-			"weight": "35%                                        Individual; 90 minutes"
+			"weight": 35
 		},
 		{
 			"name": "Case study - Audit planning and testing",
-			"weight": "20%                                        Individual; Less than 1500 words"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam (Online)",
-			"weight": "45%                                        Individual; 120 minutes"
+			"weight": 45
 		}
 	]
 }

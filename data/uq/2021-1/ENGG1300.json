@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly On-line Quizzes (2% each)",
-			"weight": "20%                                        Best 10 of the 11 quizzes count 2% each"
+			"weight": 20
 		},
 		{
 			"name": "Midsemester Test",

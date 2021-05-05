@@ -2,31 +2,31 @@
 	"assessment": [
 		{
 			"name": "Individual contributions green discussion boards",
-			"weight": "12%                                        4% per Module"
+			"weight": 12
 		},
 		{
 			"name": "Modules 1-3 activities (Blogs)",
-			"weight": "12%                                        4% per module"
+			"weight": 12
 		},
 		{
 			"name": "Completion of Integrity Tutorial",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Tutorial Presentation & Participation",
-			"weight": "9%                                        3% per module"
+			"weight": 9
 		},
 		{
 			"name": "Critical Appraisal - Journal Club",
-			"weight": "5%                                        Pass/Fail"
+			"weight": 5
 		},
 		{
 			"name": "Reflection on Professional Practice",
-			"weight": "5%                                        Pass/Fail"
+			"weight": 5
 		},
 		{
 			"name": "Analysis of MI video",
-			"weight": "5%                                        Pass / Fail"
+			"weight": 5
 		},
 		{
 			"name": "Critical Appraisal - slide presentation",

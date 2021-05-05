@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-semester Online Exam",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "End Semester Online Exam",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Individual Research Project Design",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Individual Research Project Essay",
-			"weight": "70%                                        4000 words"
+			"weight": 70
 		},
 		{
 			"name": "Secondment Log Book",

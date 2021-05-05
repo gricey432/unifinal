@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "National Case Study - Energy Trilemma",
-			"weight": "35%                                        Hurdle"
+			"weight": 35
 		},
 		{
 			"name": "Community Energy Proposal (EWB Challenge)",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Oral Examination (online)",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Group Assignment Community Energy Proposal",

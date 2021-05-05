@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "0%                                        Pass/Fail (MUST PASS)"
+			"weight": 0
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "HOME: Case Assignment",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "WORK: Analysis of Occupation in Context",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		}
 	]
 }

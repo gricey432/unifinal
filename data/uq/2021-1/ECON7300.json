@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Pre-Workshop Quizzes",
-			"weight": "10%                                        (best 8 of 11)"
+			"weight": 10
 		},
 		{
 			"name": "Post-Tutorial Quiz 1",
-			"weight": "2.5%                                        (best 4 of 5)"
+			"weight": 2.5
 		},
 		{
 			"name": "Post-Tutorial Quiz 2",
-			"weight": "2.5%                                        (best 4 of 5)"
+			"weight": 2.5
 		},
 		{
 			"name": "Post-Tutorial Quiz 3",
-			"weight": "2.5%                                        (best 4 of 5)"
+			"weight": 2.5
 		},
 		{
 			"name": "Post-Tutorial Quiz 4",
-			"weight": "2.5%                                        (best 4 of 5)"
+			"weight": 2.5
 		},
 		{
 			"name": "Statistical Project",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Post-Tutorial Quiz 5",
-			"weight": "2.5%                                        (best 4 of 5)"
+			"weight": 2.5
 		},
 		{
 			"name": "End of Semester Online Examination",

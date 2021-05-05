@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "In-Class Engagement Activities",
-			"weight": "10%                                        20 minutes/125-250 words"
+			"weight": 10
 		},
 		{
 			"name": "Reading Review: Outsider Witnessing",
-			"weight": "35%                                        1000 words"
+			"weight": 35
 		},
 		{
 			"name": "Facilitation Reflection",
-			"weight": "55%                                        2250 words"
+			"weight": 55
 		}
 	]
 }

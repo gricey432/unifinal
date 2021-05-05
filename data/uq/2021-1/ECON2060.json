@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial activity/worksheets",
-			"weight": "30%                                        (3.75% per tutorial -    Best 8 of 10)"
+			"weight": 30
 		},
 		{
 			"name": "Midsemester exam",

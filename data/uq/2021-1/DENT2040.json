@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "End of Year Examination",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Type of Assessment",

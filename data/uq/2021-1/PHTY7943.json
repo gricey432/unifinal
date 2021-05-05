@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Follow Up Consultation",
-			"weight": "40%                                        2 x 20% ea"
+			"weight": 40
 		}
 	]
 }

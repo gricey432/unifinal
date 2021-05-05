@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Individual Learning Plan",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		},
 		{
 			"name": "Critical Review",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Participation in professional communities",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Portfolio",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Aust Professional Standards for Teachers",

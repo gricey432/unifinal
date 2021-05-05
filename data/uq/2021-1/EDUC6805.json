@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Senior learning and teaching sequence",
-			"weight": "60%                                        5,000 words approx."
+			"weight": 60
 		},
 		{
 			"name": "Assessment design",
-			"weight": "40%                                        2,000 words approx."
+			"weight": 40
 		}
 	]
 }

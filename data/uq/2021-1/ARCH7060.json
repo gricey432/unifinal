@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "Final thesis",
-			"weight": "70%                                        Hurdle"
+			"weight": 70
 		},
 		{
 			"name": "Thesis Correction and Upload",
-			"weight": "10% of Final Thesis Grade"
+			"weight": 10
 		}
 	]
 }

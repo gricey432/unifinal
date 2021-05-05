@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Middle School learning and teaching sequence",
-			"weight": "60%                                        5,000 words approx."
+			"weight": 60
 		},
 		{
 			"name": "Professional engagement and communication",
-			"weight": "40%                                        2,000 words approx."
+			"weight": 40
 		}
 	]
 }

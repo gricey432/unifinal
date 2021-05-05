@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Consumer Research Report",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Online Quizzes",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Consumer Research Project",
-			"weight": "40%                                        Team"
+			"weight": 40
 		}
 	]
 }

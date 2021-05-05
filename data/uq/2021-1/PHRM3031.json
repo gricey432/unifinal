@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Feedback quizzes (3)",
-			"weight": "30%                                        (10% each)"
+			"weight": 30
 		},
 		{
 			"name": "Online Open-Book Blackboard Exam (non-invigilated)",

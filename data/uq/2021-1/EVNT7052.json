@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Event sponsorship plan evaluation",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Sponsorship proposal pitch",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

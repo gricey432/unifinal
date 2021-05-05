@@ -10,31 +10,31 @@
 		},
 		{
 			"name": "Individual exercise 1",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Project A presentation",
-			"weight": "5%                                        Group"
+			"weight": 5
 		},
 		{
 			"name": "Project A report",
-			"weight": "20%                                        Group"
+			"weight": 20
 		},
 		{
 			"name": "Individual exercise",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Project B presentation",
-			"weight": "5%                                        Group"
+			"weight": 5
 		},
 		{
 			"name": "Project B report",
-			"weight": "20%                                        Group"
+			"weight": 20
 		},
 		{
 			"name": "Individual oral defence",
-			"weight": "25%                                        Hurdle"
+			"weight": 25
 		}
 	]
 }

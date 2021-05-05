@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Critical reflections on Weekly modules",
-			"weight": "20%                                        Approx 1200 words"
+			"weight": 20
 		},
 		{
 			"name": "Presentation analysis",
-			"weight": "40%                                        20 minutes"
+			"weight": 40
 		},
 		{
 			"name": "Reflective Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

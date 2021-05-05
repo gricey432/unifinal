@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Multiple choice questions: Value, BPMN, ISD, Excel",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "BPMN/ISD/EXCEL (Individual)",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Final Exam (online)",
-			"weight": "40%                                        Individual; 2 hours"
+			"weight": 40
 		}
 	]
 }

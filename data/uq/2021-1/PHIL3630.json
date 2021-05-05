@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Research Proposal and Annotated Bibliography",
-			"weight": "30%                                        1300 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

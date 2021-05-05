@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Topic 2",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Assessment Item 3:",
-			"weight": "35%                                        2500 words"
+			"weight": 35
 		}
 	]
 }

@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Activity and occupational analysis",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Fieldwork Report: Model Application",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "End of semester Exam",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		}
 	]
 }

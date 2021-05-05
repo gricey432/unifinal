@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Communicating Globalisation and Development",
-			"weight": "40%                                        1200 words"
+			"weight": 40
 		},
 		{
 			"name": "Concepts and theories of development",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Zoom online Discussion & weekly reflection journal",
-			"weight": "20%                                        zoom and written submission"
+			"weight": 20
 		}
 	]
 }

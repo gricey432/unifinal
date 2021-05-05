@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "in-class assignments",
-			"weight": "50%                                        (5 quizzes x 10% for each quiz"
+			"weight": 50
 		},
 		{
 			"name": "Linear modeling Project",

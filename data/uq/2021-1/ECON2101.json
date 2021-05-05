@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Computer Based Sessions",
-			"weight": "10%                                        (Best 8 of 10)"
+			"weight": 10
 		},
 		{
 			"name": "Online Quizzes",

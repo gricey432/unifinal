@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Participation and microteaching",
-			"weight": "15%                                        + non-graded hurdle tasks"
+			"weight": 15
 		},
 		{
 			"name": "Evaluating & teaching with digital resources",
-			"weight": "30%                                        2500 words equivalent"
+			"weight": 30
 		},
 		{
 			"name": "Learning & teaching sequence and assessment task",
-			"weight": "30%                                        2500 words equivalent"
+			"weight": 30
 		},
 		{
 			"name": "Professional engagement and communication task",
-			"weight": "25%                                        3000 words"
+			"weight": 25
 		}
 	]
 }

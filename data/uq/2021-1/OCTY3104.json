@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case-Based Assignment",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Mid Semester Examination",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Environment Presentation & Facilitated Discussion",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		}
 	]
 }

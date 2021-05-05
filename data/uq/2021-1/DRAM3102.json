@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Reflection - Blackboard Entries",
-			"weight": "10%                                        10 x 100 word critical responses"
+			"weight": 10
 		},
 		{
 			"name": "Script Dramaturgy Report",
-			"weight": "30%                                        3 page report"
+			"weight": 30
 		},
 		{
 			"name": "Short Play Script",
-			"weight": "40%                                        10 minutes duration"
+			"weight": 40
 		}
 	]
 }

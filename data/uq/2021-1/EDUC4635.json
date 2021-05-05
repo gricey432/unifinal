@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Microteaching Demonstration",
-			"weight": "30%                                        20 minute presentation"
+			"weight": 30
 		},
 		{
 			"name": "Learning and Teaching Sequence + Assessment task",
-			"weight": "40%                                        3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Professional Engagement and Communcation",
-			"weight": "30%                                        1500 word report"
+			"weight": 30
 		}
 	]
 }

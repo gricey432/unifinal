@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Take Home Final Assessment",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Online Non-invigilated Mid-Semester Exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Case Study",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

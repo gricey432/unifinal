@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Lesson Planning & Micro teaching presentation",
-			"weight": "20%                                        20 minutes + 1500 words approximately"
+			"weight": 20
 		},
 		{
 			"name": "Learning and teaching sequence and assessment task",
-			"weight": "50%                                        8000 - 10 000 words includes assessment item and sources/ reference list"
+			"weight": 50
 		},
 		{
 			"name": "Professional engagement and communication",
-			"weight": "30%                                        abstract 200-250words/ research paper 1500 words / reflection 300 words/ presentation 10 mins"
+			"weight": 30
 		}
 	]
 }

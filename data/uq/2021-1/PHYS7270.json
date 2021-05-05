@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Lab Worksheets",
-			"weight": "0%                                        formative only"
+			"weight": 0
 		},
 		{
 			"name": "Assignment 1 - Ordinary Differential Equations",

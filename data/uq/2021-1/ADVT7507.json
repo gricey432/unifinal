@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Google Ads Certification",
-			"weight": "50%                                        online modules + 1000 word reflection"
+			"weight": 50
 		},
 		{
 			"name": "Digital Advertising Plan",
-			"weight": "40%                                        3500 words"
+			"weight": 40
 		}
 	]
 }

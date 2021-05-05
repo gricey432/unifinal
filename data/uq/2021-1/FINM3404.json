@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Assignment (Individual)",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Take Home Final Assessment",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

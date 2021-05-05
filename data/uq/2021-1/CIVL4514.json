@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Group Charter",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Week 3 Formative Feedback (Online Peer Assessment)",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Carpark Review",
@@ -54,7 +54,7 @@
 		},
 		{
 			"name": "Ethics Workshop",
-			"weight": "0%                                        P/F Hurdle"
+			"weight": 0
 		}
 	]
 }

@@ -10,19 +10,19 @@
 		},
 		{
 			"name": "Problem identification",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Interim project critique",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Project Proposal Report",
-			"weight": "30%                                        Team"
+			"weight": 30
 		},
 		{
 			"name": "Reflective Research Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

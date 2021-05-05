@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Blackboard Quiz 1",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Blackboard Quiz 2",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Blackboard Quiz 3",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Blackboard Quiz 4",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Application of theory and concept",
@@ -22,11 +22,11 @@
 		},
 		{
 			"name": "Blackboard Quiz 5",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Blackboard Quiz 6",
-			"weight": "2.5%                                        (Best 4 of 6)"
+			"weight": 2.5
 		},
 		{
 			"name": "Online Final Exam",

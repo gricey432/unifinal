@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Initial Project Plan",
-			"weight": "0%                                        Hurdle Task"
+			"weight": 0
 		},
 		{
 			"name": "Evidence of Human Research Ethics Approval",
-			"weight": "0%                                        Hurdle - if applicable"
+			"weight": 0
 		},
 		{
 			"name": "Research Project Examiners Report",

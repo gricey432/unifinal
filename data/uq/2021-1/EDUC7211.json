@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflection on Readings",
-			"weight": "10%                                        Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "Data to Inform Practice",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		},
 		{
 			"name": "Practitioner research - analysis and proposal",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

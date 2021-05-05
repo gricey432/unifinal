@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "EOS Consultation Exam",
-			"weight": "20%                                        Pass/Fail"
+			"weight": 20
 		},
 		{
 			"name": "Blackboard Quizzes (x5)",
@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Digital Essentials Modules (x5)",
-			"weight": "10%                                        Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "Dispensing Exam",
-			"weight": "10%                                        Pass/Fail"
+			"weight": 10
 		},
 		{
 			"name": "Online Open-Book Blackboard Exam (non-invigilated)",
-			"weight": "50%                                        Pass/Fail"
+			"weight": 50
 		}
 	]
 }

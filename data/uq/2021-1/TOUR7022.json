@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Literature Review",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Opinion Piece/ Viewpoint article",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

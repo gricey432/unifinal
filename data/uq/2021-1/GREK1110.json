@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Homework Assignments",
-			"weight": "15%                                        WEEKS 3-12"
+			"weight": 15
 		},
 		{
 			"name": "Progress Tests: Blackboard",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Mid-Semester Assignment",
-			"weight": "30%                                        WEEK 7"
+			"weight": 30
 		},
 		{
 			"name": "Take Home Exam Set-Timed on Blackboard",

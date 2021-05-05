@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Ad Critique",
-			"weight": "50%                                        Individual; 6 pages"
+			"weight": 50
 		},
 		{
 			"name": "Creative Brief",
-			"weight": "30%                                        Individual; 4 pages"
+			"weight": 30
 		},
 		{
 			"name": "Pitch Presentation",
-			"weight": "20%                                        Individual; 5 slides, 5 minutes"
+			"weight": 20
 		}
 	]
 }

@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Honours application and learning contract",
-			"weight": "0%                                        Compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Literature Review",
-			"weight": "0%                                        compulsory"
+			"weight": 0
 		}
 	]
 }

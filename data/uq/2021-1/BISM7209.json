@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Asset safeguarding and control essay",
-			"weight": "20%                                        The grading rubrics for the project are available in the BISM7209 Blackboard site."
+			"weight": 20
 		},
 		{
 			"name": "Individual MYOB and flowchart project",
-			"weight": "30%                                        The grading rubrics for the project are available in the BISM7209 Blackboard site."
+			"weight": 30
 		},
 		{
 			"name": "Final Examination",

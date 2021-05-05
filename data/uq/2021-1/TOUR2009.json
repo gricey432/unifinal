@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Destination market analysis",
-			"weight": "50%                                        3,500 words"
+			"weight": 50
 		},
 		{
 			"name": "Final examination",
-			"weight": "50%                                        3 hours"
+			"weight": 50
 		}
 	]
 }

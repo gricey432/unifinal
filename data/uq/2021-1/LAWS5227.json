@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Hypotheticals - Law Reform and Legal Problem",
-			"weight": "55%                                        2200 words maximum"
+			"weight": 55
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2200 words maximum"
+			"weight": 40
 		}
 	]
 }

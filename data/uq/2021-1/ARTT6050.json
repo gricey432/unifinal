@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Oral presentations of three set readings",
-			"weight": "15%                                        In-Class Oral Presentations"
+			"weight": 15
 		},
 		{
 			"name": "Summaries of set readings",
-			"weight": "30%                                        3 x 800 Words"
+			"weight": 30
 		},
 		{
 			"name": "In-Class Essay Workshop",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "45%                                        5000 Words"
+			"weight": 45
 		}
 	]
 }

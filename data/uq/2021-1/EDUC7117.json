@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflective activity based on readings",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		},
 		{
 			"name": "Abstract, annotated bibliography, timeline",
-			"weight": "20%                                        1000 words"
+			"weight": 20
 		},
 		{
 			"name": "Individual Report",
-			"weight": "70%                                        4000 words"
+			"weight": 70
 		}
 	]
 }

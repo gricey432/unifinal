@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment Task 1 - Micro teaching presentation",
-			"weight": "20%                                        Micro teaching presentation"
+			"weight": 20
 		},
 		{
 			"name": "Assessment Task 2 - Learning and teaching sequence",
-			"weight": "50%                                        Learning and teaching sequence and assessment task 3000 words"
+			"weight": 50
 		},
 		{
 			"name": "Assessment Task 3 - Professional Engagement and Co",
-			"weight": "30%                                        Professional Engagement and Communication"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Quiz",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Research Tender Proposal",
-			"weight": "50%                                        Individual, 4000 words"
+			"weight": 50
 		},
 		{
 			"name": "Take Home Assignment",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		}
 	]
 }

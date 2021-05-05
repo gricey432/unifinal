@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Tools-based analysis of a corporate",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Take home assessment",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

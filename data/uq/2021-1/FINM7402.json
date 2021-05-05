@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-semester examination",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Individual Assignment",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

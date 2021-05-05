@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Minor comparative essay",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Major Essay",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		},
 		{
 			"name": "Online quiz on required readings",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial reading summaries",
-			"weight": "0%                                        HURDLE"
+			"weight": 0
 		},
 		{
 			"name": "Seminar Paper (Individual)",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Essay Plan",
-			"weight": "0%                                        IVAH"
+			"weight": 0
 		},
 		{
 			"name": "Essay",
-			"weight": "60%                                        IVAH"
+			"weight": 60
 		}
 	]
 }

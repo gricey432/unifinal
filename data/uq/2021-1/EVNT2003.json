@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Event Proposal",
-			"weight": "50%                                        Individual; 5 minutes"
+			"weight": 50
 		},
 		{
 			"name": "Event consultancy report",
-			"weight": "50%                                        Individual; 3,000 words"
+			"weight": 50
 		}
 	]
 }

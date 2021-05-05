@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case study analysis (Part A & Part B)",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Reflection report I",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Reflection report II",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		}
 	]
 }

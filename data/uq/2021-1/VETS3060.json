@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Skills list",
-			"weight": "0%                                        pass/ fail"
+			"weight": 0
 		},
 		{
 			"name": "Mid-semester 1 exam",

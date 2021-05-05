@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Discussion",
-			"weight": "32%                                        Due on various dates"
+			"weight": 32
 		},
 		{
 			"name": "Written Assignment",

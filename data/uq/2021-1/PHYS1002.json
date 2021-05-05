@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Problem Solving Assignments",
-			"weight": "15%-25%"
+			"weight": 15
 		},
 		{
 			"name": "Laboratory Assignment (Laboratory report)",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Final examination",
-			"weight": "50%                                        Note also the hurdle requirement given in §5.2"
+			"weight": 50
 		}
 	]
 }

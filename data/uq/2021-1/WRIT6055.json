@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Flash memoir",
-			"weight": "10%                                        800 words"
+			"weight": 10
 		},
 		{
 			"name": "Personal Essay/Biographical Profile",
-			"weight": "25%                                        1200"
+			"weight": 25
 		},
 		{
 			"name": "Major CNF Project",
-			"weight": "55%                                        2500 words"
+			"weight": 55
 		}
 	]
 }

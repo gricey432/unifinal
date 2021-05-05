@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1:Reflective Workplace Journals",
-			"weight": "40%                                        Individual; 2300 words maximum"
+			"weight": 40
 		},
 		{
 			"name": "Assignment 2: Employability Presentation",
-			"weight": "20%                                        Individual; Poster"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 3: Development plan",
-			"weight": "40%                                        Individual; 2000 words maximum"
+			"weight": 40
 		}
 	]
 }

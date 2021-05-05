@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Landscape analysis and concept design",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Design project + Landscape CONTEXTUALISATION",
-			"weight": "60%                                        Individual + Hurdle"
+			"weight": 60
 		}
 	]
 }

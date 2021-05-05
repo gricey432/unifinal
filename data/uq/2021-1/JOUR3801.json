@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Industry Placement Plan",
-			"weight": "25%                                        900 words"
+			"weight": 25
 		},
 		{
 			"name": "Critical reflection of practice",
-			"weight": "30%                                        1200 words"
+			"weight": 30
 		},
 		{
 			"name": "Workplace Portfolio",

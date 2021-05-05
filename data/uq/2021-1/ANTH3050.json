@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Leading Workshop Discussion and Written Reflection",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Major essay",
-			"weight": "40%                                        3000 words"
+			"weight": 40
 		}
 	]
 }

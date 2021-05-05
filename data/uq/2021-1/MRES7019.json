@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "PowerPoint Presentation",
-			"weight": "0%                                        compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Project Definition",

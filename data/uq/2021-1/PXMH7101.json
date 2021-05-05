@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mental health and mental illness",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Examining evidence-based practice",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Using diagnosis in mental health",

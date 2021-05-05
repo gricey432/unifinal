@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Close-Reading Essay",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research essay",
-			"weight": "45%                                        2500 words"
+			"weight": 45
 		}
 	]
 }

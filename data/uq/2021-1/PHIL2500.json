@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical Review and Reflection",
-			"weight": "10%                                        2 x 250 - 300 word reflection on a reading"
+			"weight": 10
 		},
 		{
 			"name": "Final Essay",
-			"weight": "45%                                        A 2000 word essay"
+			"weight": 45
 		},
 		{
 			"name": "Weekly Tutorial Participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "First Essay",
-			"weight": "35%                                        A 1500 word essay"
+			"weight": 35
 		}
 	]
 }

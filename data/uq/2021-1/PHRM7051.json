@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Module Participation and Completion",
-			"weight": "12%                                        4% per module"
+			"weight": 12
 		},
 		{
 			"name": "Tutorial Presentations & Participation",
-			"weight": "12%                                        4% per tutorial"
+			"weight": 12
 		},
 		{
 			"name": "Logic model or service blue print",
-			"weight": "6%                                        Pass / Fail"
+			"weight": 6
 		},
 		{
 			"name": "Peer Evaluation of Group Contributions",
-			"weight": "2%                                        Pass/Fail"
+			"weight": 2
 		},
 		{
 			"name": "Analysis of journal article",

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "A1. Reflective Workplace Journals",
-			"weight": "40%                                        Individual; 2600 words maximum"
+			"weight": 40
 		},
 		{
 			"name": "A2. Professional Poster Presentation",
-			"weight": "20%                                        Individual; Poster"
+			"weight": 20
 		},
 		{
 			"name": "A3. Development Plan",
-			"weight": "40%                                        Individual; 2000 words maximum"
+			"weight": 40
 		}
 	]
 }

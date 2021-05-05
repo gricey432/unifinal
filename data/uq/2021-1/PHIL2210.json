@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Participation and Online Tasks",
-			"weight": "20%                                        (Stimulus material and presentation 10%; Weekly tutorial task 10%)"
+			"weight": 20
 		},
 		{
 			"name": "Critical Review",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Philosophy Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

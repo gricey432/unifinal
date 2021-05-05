@@ -6,23 +6,23 @@
 		},
 		{
 			"name": "Communicating the Humanities",
-			"weight": "10%                                        pass/fail"
+			"weight": 10
 		},
 		{
 			"name": "Analytical response essay",
-			"weight": "25%                                        750 words"
+			"weight": 25
 		},
 		{
 			"name": "Research essay proposal",
-			"weight": "5%                                        pass/fail"
+			"weight": 5
 		},
 		{
 			"name": "Group Presentation",
-			"weight": "15%                                        Outline not more than 1000 words total"
+			"weight": 15
 		},
 		{
 			"name": "Research essay",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		}
 	]
 }

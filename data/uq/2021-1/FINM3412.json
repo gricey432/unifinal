@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Online Quiz",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Formative Peer Assessment",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Investment Valuation Project and Presentation",
-			"weight": "50%                                        Team/Individual"
+			"weight": 50
 		}
 	]
 }

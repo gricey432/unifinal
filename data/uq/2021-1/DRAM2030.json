@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Weekly Blackboard Entries",
-			"weight": "20%                                        1100 words in total"
+			"weight": 20
 		},
 		{
 			"name": "Group Performance Research Project - Part A",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Individual Critical Reflection - Part B",
-			"weight": "10%                                        700 words"
+			"weight": 10
 		}
 	]
 }

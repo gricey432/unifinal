@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Discussion participation",
-			"weight": "20%                                        (Best 10 of 12)"
+			"weight": 20
 		},
 		{
 			"name": "Weekly Critical Reflection",
-			"weight": "20%                                        (Best 10 of 12)"
+			"weight": 20
 		},
 		{
 			"name": "Research Proposal Presentation",

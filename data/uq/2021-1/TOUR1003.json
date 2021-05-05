@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Annotated Bibliography & Stakeholder Script",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Impact report",
-			"weight": "50%                                        Individual; 3,000-3,500 words"
+			"weight": 50
 		}
 	]
 }

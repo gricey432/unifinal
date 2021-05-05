@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "One-Minute-Papers (OMP)",
-			"weight": "10%                                        (1% each)"
+			"weight": 10
 		},
 		{
 			"name": "Transport Analysis Report",
-			"weight": "50%                                        (30% group; 20% individual)"
+			"weight": 50
 		},
 		{
 			"name": "Online Quiz",

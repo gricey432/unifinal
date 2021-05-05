@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Literature Analysis Ongoing Assessment",
-			"weight": "30%                                        30 marks"
+			"weight": 30
 		},
 		{
 			"name": "Acquisition Proposal",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research and Professional Writing Essay",
-			"weight": "40%                                        1800 words"
+			"weight": 40
 		}
 	]
 }

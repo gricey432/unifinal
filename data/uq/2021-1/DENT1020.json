@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Type of Assessment",

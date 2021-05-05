@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Service Delivery Project Plan",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Short Essay Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		}
 	]
 }

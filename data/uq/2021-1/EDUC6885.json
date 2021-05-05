@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Peer Teaching Experience",
-			"weight": "50%                                        1000 - 2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Student Tutorial",
-			"weight": "50%                                        800-1000 words approx."
+			"weight": 50
 		}
 	]
 }

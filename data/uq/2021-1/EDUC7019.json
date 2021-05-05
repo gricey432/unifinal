@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment Task 1",
-			"weight": "30%                                        3600 words in total"
+			"weight": 30
 		},
 		{
 			"name": "Assessment Task 2",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Assessment Task 3",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

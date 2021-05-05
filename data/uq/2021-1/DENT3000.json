@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Oral Health Promotion Activity",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Indigenous Health Module 4 Case Based Assessment",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "Type of Assessment",

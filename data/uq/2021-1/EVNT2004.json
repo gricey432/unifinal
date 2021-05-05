@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Event marketing plan",
-			"weight": "50%                                        Individual; 2,800-3,000 words"
+			"weight": 50
 		}
 	]
 }

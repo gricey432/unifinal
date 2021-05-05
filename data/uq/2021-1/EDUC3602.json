@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Professional Experience Declaration",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Task 1 Critical Review of the Literature",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		},
 		{
 			"name": "Task 2 Design and Presentation of a Numeracy Task",
-			"weight": "50%                                        3000 equivalent"
+			"weight": 50
 		},
 		{
 			"name": "Professional Experience Evaluation Report",
-			"weight": "0%                                        Hurdle: Pass/Fail 1000 words"
+			"weight": 0
 		}
 	]
 }

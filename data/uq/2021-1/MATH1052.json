@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "End of semester Examination",
-			"weight": "50%                                        See below for minimal marks required to obtain a 3, 4 or 7."
+			"weight": 50
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Semester Paper",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Time-bound Assessment",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		}
 	]
 }

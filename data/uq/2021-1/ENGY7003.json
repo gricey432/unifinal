@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Critical Discussion Paper",
-			"weight": "30%                                        Hurdle"
+			"weight": 30
 		},
 		{
 			"name": "Report to Victorian Energy Minister",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Oral Examination (online)",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam",
-			"weight": "45%                                        Must-pass Part A"
+			"weight": 45
 		},
 		{
 			"name": "Case-based assignment",

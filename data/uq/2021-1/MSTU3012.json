@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment Component for Research Projects",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Assessment Component for Research Projects",
-			"weight": "70%                                        3000 Words"
+			"weight": 70
 		},
 		{
 			"name": "Internship Component 3",
-			"weight": "30%                                        1500 Words"
+			"weight": 30
 		},
 		{
 			"name": "Internship Component 2",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Internship Component 1",
-			"weight": "40%                                        40 Hours Internship + 500 Words"
+			"weight": 40
 		}
 	]
 }

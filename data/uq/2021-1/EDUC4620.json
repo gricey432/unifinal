@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - Research Proposal",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Active Participation in Tutorials",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Assignment 2 - Project Report",
-			"weight": "50%                                        3250 words"
+			"weight": 50
 		}
 	]
 }

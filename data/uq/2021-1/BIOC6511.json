@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Research Proposal",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		},
 		{
 			"name": "Research Proposal Seminar and Discussion",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Journal Club presentation & participation",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		},
 		{
 			"name": "Progress Report",
@@ -26,11 +26,11 @@
 		},
 		{
 			"name": "Research Report & Research Performance",
-			"weight": "62.5%                                        10 unit equivalent"
+			"weight": 62.5
 		},
 		{
 			"name": "Final Research Seminar",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Problem Solving Exercises",
-			"weight": "35%                                        5 quizzes"
+			"weight": 35
 		},
 		{
 			"name": "Analysis of Data and Short Report",
-			"weight": "35%                                        5 exercises"
+			"weight": 35
 		},
 		{
 			"name": "Project I: Assignment and Brief Research Report",

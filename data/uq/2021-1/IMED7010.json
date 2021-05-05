@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Case Study",
-			"weight": "3.3%                                        10 marks"
+			"weight": 3.3
 		},
 		{
 			"name": "Clinical Skills Videos",
-			"weight": "30%                                        90 marks"
+			"weight": 30
 		},
 		{
 			"name": "Skills Video & Case Study Commenting",
-			"weight": "16.7%                                        50 marks"
+			"weight": 16.7
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "50%                                        150 marks"
+			"weight": 50
 		}
 	]
 }

@@ -10,19 +10,19 @@
 		},
 		{
 			"name": "Tutorial Group Presentations",
-			"weight": "6%                                        2% per module/tutorial"
+			"weight": 6
 		},
 		{
 			"name": "Individual contribution to Green Discussion Boards",
-			"weight": "6%                                        2% per module"
+			"weight": 6
 		},
 		{
 			"name": "Peer Feedback on Group Work",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Module 1-3",
-			"weight": "6%                                        2% per module"
+			"weight": 6
 		},
 		{
 			"name": "Online Open-Book Blackboard Exam (non-invigilated)",

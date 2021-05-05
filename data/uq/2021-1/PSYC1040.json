@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Quizzes following each lecture",
-			"weight": "10%                                        1% per quiz. Best 10 quizzes count towards the final grade."
+			"weight": 10
 		},
 		{
 			"name": "Online Quiz",

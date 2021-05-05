@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Demonstration of ICLTs",
-			"weight": "10%                                        200-300 word handout"
+			"weight": 10
 		},
 		{
 			"name": "Response to Stimulus",
-			"weight": "20%                                        300-500 word responses"
+			"weight": 20
 		},
 		{
 			"name": "Unit Design",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		},
 		{
 			"name": "Annotated Bibliography",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		}
 	]
 }

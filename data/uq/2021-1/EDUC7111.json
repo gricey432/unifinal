@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Critical Review & Situated Perspective",
-			"weight": "40%                                        750 words"
+			"weight": 40
 		},
 		{
 			"name": "Analysis of Key Educational Issue(s)",
-			"weight": "50%                                        2500 words (excl. references)"
+			"weight": 50
 		}
 	]
 }

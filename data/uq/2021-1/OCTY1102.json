@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reflection Report",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		},
 		{
 			"name": "Assessment Interview",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Therapeutic Communication Exam",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "Practice Interview and Peer Review",

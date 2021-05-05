@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Research Proposal",
-			"weight": "0%                                        Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Evidence of Human Research Ethics Approval",
-			"weight": "0%                                        Hurdle - if applicable"
+			"weight": 0
 		},
 		{
 			"name": "Viva Voce",
-			"weight": "0%                                        Hurdle requirement"
+			"weight": 0
 		},
 		{
 			"name": "Conference-style Presentation",
-			"weight": "0%                                        Formative Assessment"
+			"weight": 0
 		},
 		{
 			"name": "Thesis OR Creative Work + Exegesis",

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assessment Task 1",
-			"weight": "40%                                        2000 words (10% leeway) + Ref. List"
+			"weight": 40
 		},
 		{
 			"name": "Assessment Task 2",
-			"weight": "60%                                        3500 words (10% leeway) + Ref. List"
+			"weight": 60
 		}
 	]
 }

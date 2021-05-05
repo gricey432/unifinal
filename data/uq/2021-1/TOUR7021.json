@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online Assessment",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Service Experience Report",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

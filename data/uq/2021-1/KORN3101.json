@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Grammar quizzes",
-			"weight": "30%                                        (10% x 3 quizzes)"
+			"weight": 30
 		},
 		{
 			"name": "Essay writing",

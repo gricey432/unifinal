@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Oral presentation - methodology",
-			"weight": "35%                                        15 minute presentation"
+			"weight": 35
 		},
 		{
 			"name": "Thesis research proposal",
-			"weight": "45%                                        2500 words"
+			"weight": 45
 		},
 		{
 			"name": "Reflective writing piece",
-			"weight": "20%                                        1500 words"
+			"weight": 20
 		}
 	]
 }

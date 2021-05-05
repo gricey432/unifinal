@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Workshop Activities",
-			"weight": "10%                                        Each workshop quiz is worth 2.5% of the overall course mark."
+			"weight": 10
 		},
 		{
 			"name": "Online quizzes",
-			"weight": "15%                                        Each online quiz is worth 2.5% of the overall course mark."
+			"weight": 15
 		},
 		{
 			"name": "Chemistry of Everything Vlog (video blog)",

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Preclinical competency- Molar Endodontics",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Preclinical competency- Paediatric dentistry",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Preclinical competency- Fixed Prosthodontics",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Endodontic Case Portfolio",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "End of Semester exam",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		},
 		{
 			"name": "Type of Assessment",

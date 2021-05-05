@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Group Ethics Application",
-			"weight": "30%                                        plus PAF*"
+			"weight": 30
 		},
 		{
 			"name": "Group Research Proposal",
-			"weight": "35%                                        plus PAF*"
+			"weight": 35
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Annotated bibliography",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Independent study project report",
-			"weight": "70%                                        3500 words"
+			"weight": 70
 		}
 	]
 }

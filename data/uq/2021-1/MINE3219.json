@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "End of semester exam",
-			"weight": "40%                                        Hurdle"
+			"weight": 40
 		}
 	]
 }

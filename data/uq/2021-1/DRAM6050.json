@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Oral Presentation",
-			"weight": "25%                                        30 minutes of class time"
+			"weight": 25
 		},
 		{
 			"name": "Major Critical Essay",
-			"weight": "45%                                        5000 words"
+			"weight": 45
 		},
 		{
 			"name": "Participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Blackboard Entries",
-			"weight": "20%                                        2400 words total"
+			"weight": 20
 		}
 	]
 }

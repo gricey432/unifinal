@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online quizzes",
-			"weight": "5%                                        Avg of quizzes"
+			"weight": 5
 		},
 		{
 			"name": "Nodal Analysis/Artificial Lift Study",
-			"weight": "15%                                        (50% Hurdle on Overall Assignment Scores)"
+			"weight": 15
 		},
 		{
 			"name": "Online Mid-Semester Quiz on Lecture Materials",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Hydraulic Fracturing Design & Optimisation Study",
-			"weight": "15%                                        (50% Hurdle on Overall Assignment Scores)"
+			"weight": 15
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Hurdle"
+			"weight": 50
 		}
 	]
 }

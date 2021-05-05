@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Blackboard Discussion Forums and Webinar",
-			"weight": "35%                                        Discussion Contributions -30% / Webinar - 5%"
+			"weight": 35
 		},
 		{
 			"name": "Assessment Two: MCQs",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Assessment Four: Major Essay",
-			"weight": "30%                                        3000 words max"
+			"weight": 30
 		}
 	]
 }

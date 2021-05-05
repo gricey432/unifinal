@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "On-line Assessment",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Critical Issues Report",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

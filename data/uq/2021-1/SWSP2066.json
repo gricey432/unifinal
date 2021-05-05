@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Court Observation & Reflection",
-			"weight": "25%                                        Marked out of 100"
+			"weight": 25
 		},
 		{
 			"name": "Information Sheet with Reflection",
-			"weight": "35%                                        Marked out of 100"
+			"weight": 35
 		},
 		{
 			"name": "Response to Case Study with Court Report",
-			"weight": "40%                                        Marked out of 100"
+			"weight": 40
 		}
 	]
 }

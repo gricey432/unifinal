@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical Decision Making Assignment",
-			"weight": "30%                                        (Must Pass)"
+			"weight": 30
 		},
 		{
 			"name": "People Handling Competency",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Case Study Assignment",
-			"weight": "30%                                        (Must Pass)"
+			"weight": 30
 		},
 		{
 			"name": "Viva Examination",
-			"weight": "40%                                        (Must Pass)"
+			"weight": 40
 		}
 	]
 }

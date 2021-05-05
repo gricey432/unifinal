@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Take home assignment",
-			"weight": "40%                                        Individual task; 2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Research proposal for your report",
-			"weight": "20%                                        Individual task; 700 words"
+			"weight": 20
 		},
 		{
 			"name": "Report",
-			"weight": "40%                                        Individual task; 2000 words"
+			"weight": 40
 		}
 	]
 }

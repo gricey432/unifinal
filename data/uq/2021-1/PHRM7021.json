@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Module activity (Green Discussion Board)",
-			"weight": "7.5%                                        2.5% per module"
+			"weight": 7.5
 		},
 		{
 			"name": "Blogs and on-line quizzes",
-			"weight": "7.5%                                        2.5% per module"
+			"weight": 7.5
 		},
 		{
 			"name": "Tutorial Activity (Blue Discussion Board)",
-			"weight": "15%                                        5% per module"
+			"weight": 15
 		},
 		{
 			"name": "Peer evaluation of tutorial prep and participation",

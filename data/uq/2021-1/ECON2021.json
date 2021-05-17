@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes (best 10 out of 12)",
-			"weight": 2.5
+			"weight": 25
 		},
 		{
 			"name": "Problem Set 1",

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizes",
+			"weight": "Pass/fail (hurdle)"
+		},
+		{
+			"name": "Project proposal",
+			"weight": "Pass/fail/resubmit (hurdle)"
+		},
+		{
+			"name": "Project proposal resubmission",
+			"weight": "Pass/fail (hurdle if required)"
+		},
+		{
+			"name": "Peer review of Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Project presentation",
+			"weight": 40
+		},
+		{
+			"name": "Project Report",
+			"weight": 40
+		}
+	]
+}

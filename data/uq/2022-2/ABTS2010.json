@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography & Exegesis Plan",
+			"weight": 25
+		},
+		{
+			"name": "(3)XPOP QUIZ weeks.4,8,10",
+			"weight": 30
+		},
+		{
+			"name": "Creative Work + Exegesis",
+			"weight": 35
+		},
+		{
+			"name": "ABTS-Compulsory Multiple Choice Quiz",
+			"weight": 10
+		}
+	]
+}

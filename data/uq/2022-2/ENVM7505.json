@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy summary",
+			"weight": 20
+		},
+		{
+			"name": "Evaluation of a CBD goal",
+			"weight": 45
+		},
+		{
+			"name": "Policy briefing",
+			"weight": 35
+		}
+	]
+}

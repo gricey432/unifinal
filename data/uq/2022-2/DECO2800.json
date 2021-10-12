@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "GIT Exercise",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "First Ticket",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Team Charter",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Sprint Submissions",
+			"weight": 60
+		},
+		{
+			"name": "Course Content Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Individual Portfolio",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Intensive Studio Recording Practical",
+			"weight": 16
+		},
+		{
+			"name": "Major Creative Production Project",
+			"weight": 60
+		},
+		{
+			"name": "Creative Production Projects",
+			"weight": 24
+		}
+	]
+}

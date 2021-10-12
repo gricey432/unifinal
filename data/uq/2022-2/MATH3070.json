@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: 1D Models",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 2: 1D Models Continued",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 3: Multi-dimensional models",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 4: Multi-dimensional models",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 5: Size-spectrum Models",
+			"weight": 12
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 40
+		}
+	]
+}

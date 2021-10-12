@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis",
+			"weight": "50%                                        10% per analysis"
+		},
+		{
+			"name": "(Inter)action project",
+			"weight": "50%                                        10% + 40%"
+		}
+	]
+}

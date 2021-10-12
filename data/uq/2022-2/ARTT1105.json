@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard 'Discussion Board' Weekly Question",
+			"weight": "20%                                        Ongoing"
+		},
+		{
+			"name": "Take-home Timed Assignment #1",
+			"weight": "25%                                        1200 Words"
+		},
+		{
+			"name": "Take-home Timed Assignment #2",
+			"weight": "25%                                        1200 Words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "30%                                        1800 words"
+		}
+	]
+}

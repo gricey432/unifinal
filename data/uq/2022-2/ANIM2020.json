@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fear free Veterinary Certification Program",
+			"weight": 10
+		},
+		{
+			"name": "Practical Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Critical Literature report",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

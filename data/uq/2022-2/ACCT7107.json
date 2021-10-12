@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Two-part Case Assignment",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

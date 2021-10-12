@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Final Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 35
+		},
+		{
+			"name": "Ripple lecture exercises",
+			"weight": 10
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Lecture Ripple Exercise",
+			"weight": "NA"
+		},
+		{
+			"name": "Online Quiz - Module Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Quiz",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

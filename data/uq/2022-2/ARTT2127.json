@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": "20%                                        10 worksheets to be completed in class"
+		},
+		{
+			"name": "800 word visual analysis",
+			"weight": "35%                                        800 word"
+		},
+		{
+			"name": "2500 word research essay",
+			"weight": "45%                                        2500 word"
+		}
+	]
+}

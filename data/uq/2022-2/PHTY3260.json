@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End of Semester Practical Examination",
+			"weight": "30%                                        (MUST PASS)"
+		},
+		{
+			"name": "Computer based online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

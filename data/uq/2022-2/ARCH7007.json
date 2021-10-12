@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-design Conceptual Design Hand-in (HURDLE)",
+			"weight": 30
+		},
+		{
+			"name": "Schematic Design and Detailed Design Development",
+			"weight": 70
+		}
+	]
+}

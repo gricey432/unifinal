@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contemporary social work practice in health care",
+			"weight": 30
+		},
+		{
+			"name": "Psychosocial assessment",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

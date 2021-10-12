@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Individual assessment",
+			"weight": 20
+		},
+		{
+			"name": "Regeneration plan (Group work)",
+			"weight": 40
+		},
+		{
+			"name": "1-24.4%",
+			"weight": ""
+		}
+	]
+}

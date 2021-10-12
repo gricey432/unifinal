@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation slides",
+			"weight": "0%                                        Required for oral assessment"
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 23
+		},
+		{
+			"name": "Participation",
+			"weight": 2
+		},
+		{
+			"name": "Patient diagnosis - Cardiovascular",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Cancer",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Renal",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Metabolism",
+			"weight": 5
+		},
+		{
+			"name": "Patient diagnosis - Dementia",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing audit and situational analysis",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Marketing Strategy Presentation",
+			"weight": "40%                                        Group"
+		},
+		{
+			"name": "Critical learning reflection",
+			"weight": "25%                                        Individual"
+		}
+	]
+}

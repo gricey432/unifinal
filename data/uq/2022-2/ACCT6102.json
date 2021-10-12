@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research paper discussion",
+			"weight": 30
+		},
+		{
+			"name": "Valuation Project",
+			"weight": 40
+		},
+		{
+			"name": "Review of a research paper",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design an Investigation",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Evaluating an Inquiry unit of work",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Teaching a Science Concept",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

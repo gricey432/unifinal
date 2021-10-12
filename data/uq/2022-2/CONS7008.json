@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical essay",
+			"weight": 30
+		},
+		{
+			"name": "Draft RMarkdown report of statistical analysis",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal: Experimental Design Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Final RMarkdown report of statistical analysis",
+			"weight": 20
+		},
+		{
+			"name": "Statistical analysis using R",
+			"weight": 10
+		}
+	]
+}

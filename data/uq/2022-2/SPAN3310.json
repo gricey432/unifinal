@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly translation exercises & class participation",
+			"weight": 5
+		},
+		{
+			"name": "Assessed Task 1 (W4)",
+			"weight": "20%                                        10% each"
+		},
+		{
+			"name": "Assessed Task 2 (W 8)",
+			"weight": "20%                                        (10% each)"
+		},
+		{
+			"name": "Assessed Task 3 (W 10)",
+			"weight": 5
+		},
+		{
+			"name": "Debate (W12 &13)",
+			"weight": 20
+		},
+		{
+			"name": "Translation and critical essay",
+			"weight": 30
+		}
+	]
+}

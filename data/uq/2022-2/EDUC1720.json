@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Role of mathematics and numeracy",
+			"weight": "25%                                        1500 words (+ or - 10%)"
+		},
+		{
+			"name": "Numeracy video/powerpoint: Real life mathematics",
+			"weight": "25%                                        1000 words Research Brief"
+		},
+		{
+			"name": "Mathematical problem-solving tasks",
+			"weight": 50
+		}
+	]
+}

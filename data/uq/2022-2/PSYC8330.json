@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "All hours (clinical, supervision, general)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid term and end of term review with supervisor",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Log",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Reviews",
+			"weight": "Contact Externships Manager"
+		}
+	]
+}

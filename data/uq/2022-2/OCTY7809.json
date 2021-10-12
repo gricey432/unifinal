@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Activity Analysis",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Turning Point Questions",
+			"weight": 30
+		},
+		{
+			"name": "Standardised Patient Interviews",
+			"weight": 30
+		},
+		{
+			"name": "Intervention Planning Assignment",
+			"weight": 40
+		}
+	]
+}

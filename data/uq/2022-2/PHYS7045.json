@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment - Final",
+			"weight": 50
+		},
+		{
+			"name": "EQUS Hackathon Report",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 40
+		}
+	]
+}

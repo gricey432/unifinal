@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Consultation Exam (Patient Counselling)",
+			"weight": 25
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 5
+		},
+		{
+			"name": "Practical worksheets",
+			"weight": "Completion expected"
+		},
+		{
+			"name": "Online Feedback Quizzes 10×2%",
+			"weight": 20
+		},
+		{
+			"name": "Online non-invigilated written examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation & Worksheet",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Research Assignment: Offender Treatment Plan",
+			"weight": 45
+		}
+	]
+}

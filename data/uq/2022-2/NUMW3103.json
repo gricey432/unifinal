@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written Critical analysis",
+			"weight": 60
+		},
+		{
+			"name": "Supporting Transition to Practice",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1 (ca. 1200 words) on week 1-6 topics",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2 (ca. 1200 words) on week 7-12 topics",
+			"weight": 20
+		},
+		{
+			"name": "Collaborative Governance Case Study (3000 words)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Preparation Task",
+			"weight": 10
+		},
+		{
+			"name": "Dialogue",
+			"weight": 35
+		},
+		{
+			"name": "Essay",
+			"weight": 35
+		}
+	]
+}

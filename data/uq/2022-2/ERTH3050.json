@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lake Moondarra Exercise",
+			"weight": 40
+		},
+		{
+			"name": "Field Techniques",
+			"weight": 10
+		},
+		{
+			"name": "Mica Creek outcrop map",
+			"weight": 10
+		},
+		{
+			"name": "Mica Creek group mapping project",
+			"weight": 30
+		},
+		{
+			"name": "Individual Mapping Exercise",
+			"weight": 10
+		}
+	]
+}

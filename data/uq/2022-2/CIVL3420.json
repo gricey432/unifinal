@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Travel Demand Quiz",
+			"weight": 8
+		},
+		{
+			"name": "Transport Planning Project",
+			"weight": 13
+		},
+		{
+			"name": "Geometric Design and Road Safety",
+			"weight": 8
+		},
+		{
+			"name": "Geometric Design Project",
+			"weight": 13
+		},
+		{
+			"name": "Public and Active Transport",
+			"weight": 8
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

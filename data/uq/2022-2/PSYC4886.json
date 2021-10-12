@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student seminar",
+			"weight": 40
+		},
+		{
+			"name": "Critical review",
+			"weight": 45
+		},
+		{
+			"name": "Class participation",
+			"weight": 15
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact your Course Coordinator"
+		},
+		{
+			"name": "Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Seminar",
+			"weight": "Contact your Course Coordinator"
+		}
+	]
+}

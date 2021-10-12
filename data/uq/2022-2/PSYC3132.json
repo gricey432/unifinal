@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Knowledge Quizzes (N=4)",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentations",
+			"weight": 25
+		},
+		{
+			"name": "Individual Infographic",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Group Presentation",
+			"weight": "Contact the Course Coordinator and Tutor"
+		},
+		{
+			"name": "Individual Infographic",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

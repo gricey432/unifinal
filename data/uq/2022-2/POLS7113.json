@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "('attendance' either in person or via Zoom)",
+			"weight": 10
+		},
+		{
+			"name": "Short Methods Essay (800 words excl. references)",
+			"weight": 20
+		},
+		{
+			"name": "Policy Briefing (1200 words excl. references)",
+			"weight": 20
+		},
+		{
+			"name": "Comparative Case Study (3,500 words)",
+			"weight": 50
+		}
+	]
+}

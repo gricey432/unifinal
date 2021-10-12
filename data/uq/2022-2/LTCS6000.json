@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Academic Integrity Quiz",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Library research project",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal and presentation",
+			"weight": 50
+		}
+	]
+}

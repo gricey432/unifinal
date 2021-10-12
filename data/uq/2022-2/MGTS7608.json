@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentations",
+			"weight": "25%                                        Group Assessment"
+		},
+		{
+			"name": "In class exam",
+			"weight": "25%                                        Individual assessment"
+		},
+		{
+			"name": "Written assignment",
+			"weight": "50%                                        Individual assessment 2,000 words"
+		}
+	]
+}

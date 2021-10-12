@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Points on Readings",
+			"weight": "20%                                        (4 x 5 marks for each workshop)"
+		},
+		{
+			"name": "Case Study - Individual Analysis #1",
+			"weight": 20
+		},
+		{
+			"name": "Case Study - Group Analysis & Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Peer Assessment on Group Proposal Case Study",
+			"weight": 10
+		},
+		{
+			"name": "Case Study - Individual Analysis #2",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Case Studies",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Group Assessment & Discussion Points",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

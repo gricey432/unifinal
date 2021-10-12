@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Technology & Leadership",
+			"weight": "30%                                        Group work"
+		},
+		{
+			"name": "The Dark Side of Leadership",
+			"weight": 30
+		},
+		{
+			"name": "Leadership Development Plan",
+			"weight": 40
+		}
+	]
+}

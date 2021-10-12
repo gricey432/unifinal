@@ -1,0 +1,76 @@
+{
+	"assessment": [
+		{
+			"name": "Applying ethics processes to a research project",
+			"weight": 2
+		},
+		{
+			"name": "Describing types of data and univariate summary",
+			"weight": 2
+		},
+		{
+			"name": "Statistical programs, cleaning and re-categorising",
+			"weight": 2
+		},
+		{
+			"name": "Development of an analysis resource",
+			"weight": 4
+		},
+		{
+			"name": "Categorical data: Summarising data",
+			"weight": 2
+		},
+		{
+			"name": "RESEARCH PROPOSAL PRESENTATION",
+			"weight": 10
+		},
+		{
+			"name": "Categorical data: χ2 test of independence",
+			"weight": 2
+		},
+		{
+			"name": "RESEARCH ANALYSIS ASSIGNMENT",
+			"weight": 20
+		},
+		{
+			"name": "Continuous data: Comparing two means",
+			"weight": 2
+		},
+		{
+			"name": "Continuous data: Multiple comparisons",
+			"weight": 2
+		},
+		{
+			"name": "Continuous data: Linear regression",
+			"weight": 2
+		},
+		{
+			"name": "END OF SEMESTER EXAM",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

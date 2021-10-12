@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review 5 journal articles",
+			"weight": 25
+		},
+		{
+			"name": "Tutorial Exercise",
+			"weight": 60
+		},
+		{
+			"name": "Research Proposal Report",
+			"weight": 15
+		}
+	]
+}

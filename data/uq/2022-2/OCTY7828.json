@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Sessional Placement/Simulation Experience",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "25%                                        (MUST PASS)"
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": "35%                                        (MUST PASS)"
+		}
+	]
+}

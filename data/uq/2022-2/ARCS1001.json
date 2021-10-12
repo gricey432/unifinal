@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Participation",
+			"weight": 20
+		},
+		{
+			"name": "Padlet Digital Reflection",
+			"weight": 80
+		}
+	]
+}

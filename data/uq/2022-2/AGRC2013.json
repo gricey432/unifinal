@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Completion of online lab activities",
+			"weight": 40
+		},
+		{
+			"name": "Final theory exam invigilated through ProctorU",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture & Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Two Online Slide Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Essay",
+			"weight": 30
+		},
+		{
+			"name": "Artefact Source Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

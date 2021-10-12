@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CML Quizzes",
+			"weight": "30%                                        (Best 8 of 10)"
+		},
+		{
+			"name": "Country Report",
+			"weight": 20
+		},
+		{
+			"name": "Impact Report",
+			"weight": 30
+		},
+		{
+			"name": "Balance-of-Payment Report",
+			"weight": 20
+		}
+	]
+}

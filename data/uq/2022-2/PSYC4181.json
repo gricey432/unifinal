@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection and participation",
+			"weight": 20
+		},
+		{
+			"name": "Video presentation (self-change)",
+			"weight": 20
+		},
+		{
+			"name": "Advocacy for Change",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Reflections",
+			"weight": "No extensions considered."
+		},
+		{
+			"name": "We strongly encourage students experiencing significant interruptions or chronic illnesses of greater than two weeks to contact UQ Student Services to seek information and/or assistance: http://www.uq.edu.au/student-services/",
+			"weight": ""
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

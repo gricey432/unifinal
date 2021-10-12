@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Engagement",
+			"weight": 5
+		},
+		{
+			"name": "Personal Reflection on Gender(1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Group Assignment: Issue Brief: 3500 words",
+			"weight": 20
+		},
+		{
+			"name": "Group Assignment: Presentation on issue brief",
+			"weight": 10
+		},
+		{
+			"name": "Major Research Essay (3500-4000 words)",
+			"weight": 50
+		}
+	]
+}

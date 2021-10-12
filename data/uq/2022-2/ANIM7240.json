@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Nutritional Study Design",
+			"weight": 20
+		},
+		{
+			"name": "Science Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final Exam",
+			"weight": 34
+		}
+	]
+}

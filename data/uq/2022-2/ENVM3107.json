@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journals",
+			"weight": 10
+		},
+		{
+			"name": "Course engagement",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Course engagement",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Journals",
+			"weight": 10
+		},
+		{
+			"name": "Group presentation",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

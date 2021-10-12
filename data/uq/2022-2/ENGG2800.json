@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Working circuit module on PCB & pdf of schematic",
+			"weight": "5%                                        Pass/Fail"
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Intermediate Demo",
+			"weight": 20
+		},
+		{
+			"name": "Product Submission",
+			"weight": 60
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": "5%                                        See Sec. 5.2 Course Grading"
+		}
+	]
+}

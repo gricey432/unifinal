@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "RiPPLE Question Authoring and Answering",
+			"weight": 10
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": "20%                                        Hurdle"
+		},
+		{
+			"name": "EOS Online Open-Book Inspera (non-invigilated)",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

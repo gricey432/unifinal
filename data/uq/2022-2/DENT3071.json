@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Endodontic preclinical e-portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Fixed Prosthodontics Preclinical Competency FGC",
+			"weight": "25%                                        Must Pass"
+		},
+		{
+			"name": "Preclinical Competency - Molar Endodontics",
+			"weight": "25%                                        Must Pass"
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F (Must Pass)"
+		},
+		{
+			"name": "End of semester Examination",
+			"weight": "30%                                        Must Pass"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

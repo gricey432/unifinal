@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": "40%                                        4 worksheets: 10% each"
+		},
+		{
+			"name": "Revision bibliografica 1",
+			"weight": "25%                                        1000 words"
+		},
+		{
+			"name": "Revision bibliografica 2",
+			"weight": "35%                                        1500 palabras"
+		}
+	]
+}

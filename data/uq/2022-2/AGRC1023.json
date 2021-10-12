@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "edX(Edge) Problem sets",
+			"weight": 15
+		},
+		{
+			"name": "Weekly RiPPLE assessment (From Week 2)",
+			"weight": 30
+		},
+		{
+			"name": "Research Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 25
+		}
+	]
+}

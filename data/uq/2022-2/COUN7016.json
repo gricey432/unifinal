@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical Dilemmas",
+			"weight": "20%                                        30 minute group presentation"
+		},
+		{
+			"name": "Professional Practice Portfolio",
+			"weight": "50%                                        2000 words + resources"
+		},
+		{
+			"name": "Responses to Ethical Scenarios",
+			"weight": "30%                                        1500 words"
+		}
+	]
+}

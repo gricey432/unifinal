@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Activity Practicum - in teams",
+			"weight": "40%                                        Team; 35 minutes"
+		},
+		{
+			"name": "Infographic",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Tutorial Activity Critique",
+			"weight": "30%                                        Individual; 2000 words"
+		}
+	]
+}

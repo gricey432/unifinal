@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Speech & Consecutive interpreting",
+			"weight": 30
+		},
+		{
+			"name": "Face-to-face interpreting dialogues x 2",
+			"weight": 20
+		},
+		{
+			"name": "Translation Report x 2",
+			"weight": 30
+		},
+		{
+			"name": "Radio transcription assignment x 2",
+			"weight": 20
+		}
+	]
+}

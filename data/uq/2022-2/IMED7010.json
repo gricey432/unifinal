@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": "6.7%                                        20 marks (out of 300)"
+		},
+		{
+			"name": "Clinical Skills Videos",
+			"weight": "10%                                        30 marks (out of 300)"
+		},
+		{
+			"name": "Skills Video Commenting",
+			"weight": "33.3%                                        100 marks (out of 300)"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": "50%                                        150 marks (out of 300)"
+		}
+	]
+}

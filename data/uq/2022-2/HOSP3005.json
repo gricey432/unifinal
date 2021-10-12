@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "What does hospitality mean to you?",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Podcast",
+			"weight": "30%                                        Pair"
+		},
+		{
+			"name": "Online Assignment",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

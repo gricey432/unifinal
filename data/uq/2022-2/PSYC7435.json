@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project Report",
+			"weight": "essential requirement"
+		},
+		{
+			"name": "Business Project Report",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Scoping Proposal (if necessary)",
+			"weight": "essential element"
+		},
+		{
+			"name": "Final point review",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "essential element"
+		},
+		{
+			"name": "Mid point review",
+			"weight": "essential element"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Work based assessment",
+			"weight": "Not applicable"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Project",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Plan",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Practical",
+			"weight": "Not applicable"
+		}
+	]
+}

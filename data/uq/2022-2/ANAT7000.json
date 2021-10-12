@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 7.5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 7.5
+		},
+		{
+			"name": "Mid Semester Theory Exam (Online Invigilated)",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Practical Exam (Invigilated Online)",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Take home exam/assignment",
+			"weight": 30
+		},
+		{
+			"name": "Agronomy conference paper",
+			"weight": 25
+		},
+		{
+			"name": "Agronomists report on impact of climate change",
+			"weight": 25
+		},
+		{
+			"name": "Journal of field/meeting notes",
+			"weight": 20
+		}
+	]
+}

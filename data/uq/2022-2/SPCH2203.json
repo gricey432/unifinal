@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Assessment",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

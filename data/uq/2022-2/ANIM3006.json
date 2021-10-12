@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Test",
+			"weight": 40
+		},
+		{
+			"name": "Herd Health Disease Prevention Program",
+			"weight": 20
+		},
+		{
+			"name": "Practical exam",
+			"weight": 10
+		},
+		{
+			"name": "FINAL EXAM",
+			"weight": 30
+		}
+	]
+}

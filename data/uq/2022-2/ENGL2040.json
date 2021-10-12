@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion board posts & responses",
+			"weight": "15%                                        1000-1500 words"
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 15
+		},
+		{
+			"name": "Close reading exercise",
+			"weight": "25%                                        800 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "45%                                        2000-2500 words"
+		}
+	]
+}

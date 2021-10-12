@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz during tutorial",
+			"weight": 10
+		},
+		{
+			"name": "Report on emerging biological contaminants",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz during tutorial",
+			"weight": 10
+		},
+		{
+			"name": "Report on emerging chemical contaminants",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz during tutorial",
+			"weight": 10
+		}
+	]
+}

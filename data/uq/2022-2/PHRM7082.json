@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": "15%                                        Satisfactory/Unsatisfactory"
+		},
+		{
+			"name": "Medication Management Review",
+			"weight": 20
+		},
+		{
+			"name": "Team Discussion Peer Assessmnet",
+			"weight": 9
+		},
+		{
+			"name": "Lectures and Workshops online",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Team Discussion 5 Report",
+			"weight": 12
+		},
+		{
+			"name": "Team Discussion 6 Report",
+			"weight": 12
+		},
+		{
+			"name": "Team Discussion 7 Report",
+			"weight": 12
+		},
+		{
+			"name": "Lectures and Workshops online",
+			"weight": "Attendance and participation"
+		},
+		{
+			"name": "Patient Interaction",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Tutorial Quizzes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Science Communication Assessment - Draft",
+			"weight": "0%                                        Contributes to Science Communication Assessment"
+		},
+		{
+			"name": "Science Communication Assessment - Peer Review",
+			"weight": "5%                                        Contributes to Science Communication Assessment"
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Science Communication Assessment - Final Version",
+			"weight": "15%                                        Contributes to Science Communication Assessment"
+		},
+		{
+			"name": "Bioinformatics assignment",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 40
+		}
+	]
+}

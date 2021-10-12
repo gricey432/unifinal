@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to CBL - formative",
+			"weight": "Compliance Hurdle- provides formative feedback towards the summative CBL participation assessment"
+		},
+		{
+			"name": "Contribution to CBL - summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "ESE Paper II - multidisciplinary practical exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam (ESE) Paper 1 (MCQ)",
+			"weight": 50
+		}
+	]
+}

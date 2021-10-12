@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop 1: Conducting a telehealth consultation",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Short Case: Improving clinical decision making",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Infographic",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Workshop 2: Electronic medical records",
+			"weight": "Compliance hurdle"
+		}
+	]
+}

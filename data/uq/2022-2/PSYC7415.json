@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Project report",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Plan + project proposal (if required)",
+			"weight": "essential element"
+		},
+		{
+			"name": "Mid point review",
+			"weight": "Essential element"
+		},
+		{
+			"name": "Final point review",
+			"weight": "essential element"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Work based assessment",
+			"weight": "Not applicable"
+		},
+		{
+			"name": "Field Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Plan",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Practical",
+			"weight": "Not applicable"
+		}
+	]
+}

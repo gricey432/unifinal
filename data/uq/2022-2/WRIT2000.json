@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Exercises (10 x 3 marks)",
+			"weight": 30
+		},
+		{
+			"name": "A rewrite (10%) and a Background Paper (20%)",
+			"weight": 30
+		},
+		{
+			"name": "Report to a manager - 2000 words (40%)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tasks 1a-e: In-class quiz",
+			"weight": 25
+		},
+		{
+			"name": "Task 2: Advocacy Letter",
+			"weight": 35
+		},
+		{
+			"name": "Task 3: Oral presentations with slides",
+			"weight": 40
+		}
+	]
+}

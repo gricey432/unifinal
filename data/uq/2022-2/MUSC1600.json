@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tasks 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Tasks 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Dictation Test",
+			"weight": 15
+		},
+		{
+			"name": "Written Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Keyboard Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Keyboard Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment 2",
+			"weight": 20
+		}
+	]
+}

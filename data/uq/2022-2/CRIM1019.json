@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Check-in Activities (incl. RiPPLE Questions)",
+			"weight": 20
+		},
+		{
+			"name": "Criminal Justice Job Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Group Video Presentation (including reflection)",
+			"weight": 25
+		},
+		{
+			"name": "Research paper",
+			"weight": 40
+		}
+	]
+}

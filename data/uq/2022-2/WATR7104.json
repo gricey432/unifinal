@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Quizzes",
+			"weight": "20%                                        7 best scoring quizzes out of 10 will be considered."
+		},
+		{
+			"name": "Assignment#1:Hydraulic modelling of sewer network",
+			"weight": 25
+		},
+		{
+			"name": "Exam covering the materials covered until week 8",
+			"weight": 30
+		},
+		{
+			"name": "Assignment#2: Review of sewer management plan",
+			"weight": 25
+		}
+	]
+}

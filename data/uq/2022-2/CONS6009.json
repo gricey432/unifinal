@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1a: mini-Project, RiPPLE submission",
+			"weight": 34
+		},
+		{
+			"name": "Assessment 1b Peer review using RiPPLE for posters",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Assessment 2 - Conservation genetics report",
+			"weight": 35
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Open book online exam",
+			"weight": 30
+		}
+	]
+}

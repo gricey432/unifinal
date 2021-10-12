@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Sustainability Measures for Energy Systems",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

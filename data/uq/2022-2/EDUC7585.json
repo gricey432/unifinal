@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Thinking philosoophically about the arts",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Curriculum unit of work plan",
+			"weight": "40%                                        3000 words"
+		},
+		{
+			"name": "Practical presentation and critical reflection",
+			"weight": 30
+		}
+	]
+}

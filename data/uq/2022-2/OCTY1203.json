@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on content relevant to Paediatrics",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Prac (fieldwork simulation) and Peer Review",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Developmental Assessment",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "Online Indigenous Health Module and Quiz",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "40%                                        (MUST PASS)"
+		}
+	]
+}

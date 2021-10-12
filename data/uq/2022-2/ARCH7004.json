@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Manifesto and site strategy",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: Design Development and Detailing",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Final Project",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

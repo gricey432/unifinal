@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interview Project",
+			"weight": 26
+		},
+		{
+			"name": "Homework and discussion board",
+			"weight": 18
+		},
+		{
+			"name": "Mid-semester and Final Oral Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Online Written Assessment series",
+			"weight": 26
+		}
+	]
+}

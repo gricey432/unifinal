@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Translation Exercise",
+			"weight": 15
+		},
+		{
+			"name": "Performance: Translation and Commentary",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 30
+		}
+	]
+}

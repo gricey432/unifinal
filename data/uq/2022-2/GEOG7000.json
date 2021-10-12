@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ass#1 Demographic change in Greater Brisbane",
+			"weight": 30
+		},
+		{
+			"name": "Ass #2 Demographic Projections",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

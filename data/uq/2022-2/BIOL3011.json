@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "5 Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Lab Project - Report",
+			"weight": 25
+		},
+		{
+			"name": "Field Prac - Skills Journal",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam - invigilated by ProctorU",
+			"weight": 45
+		}
+	]
+}

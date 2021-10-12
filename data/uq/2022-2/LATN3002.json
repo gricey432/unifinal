@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Coursework Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Coursework Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Translation and Commentary",
+			"weight": 20
+		},
+		{
+			"name": "Coursework Assignment 3",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

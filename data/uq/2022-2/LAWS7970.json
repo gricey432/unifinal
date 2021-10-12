@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Discussion",
+			"weight": 15
+		},
+		{
+			"name": "In-class Oral Presentation & E-poster",
+			"weight": 25
+		},
+		{
+			"name": "Comparative analysis of a substantive law",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1,500-word review of journal article - JAR 1",
+			"weight": 20
+		},
+		{
+			"name": "1,500-word review of journal article - JAR 2",
+			"weight": 20
+		},
+		{
+			"name": "750-word research proposal topic",
+			"weight": 10
+		},
+		{
+			"name": "3,000-word research proposal",
+			"weight": 50
+		}
+	]
+}

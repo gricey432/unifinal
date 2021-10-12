@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "500 word position paper",
+			"weight": 20
+		},
+		{
+			"name": "3500 word essay",
+			"weight": 40
+		},
+		{
+			"name": "Workshop Results Paper",
+			"weight": 40
+		}
+	]
+}

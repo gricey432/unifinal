@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Emerging Technology: Theory and Analysis",
+			"weight": "35%                                        Individual/Team; 2 x 10 mins"
+		},
+		{
+			"name": "Online exam",
+			"weight": 20
+		},
+		{
+			"name": "Digital Transformation Hackathon",
+			"weight": "45%                                        Team; 10 + 5 mins; 1000 words"
+		}
+	]
+}

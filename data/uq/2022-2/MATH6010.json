@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Honours Thesis and related activities",
+			"weight": 90
+		},
+		{
+			"name": "Mid-Year Review",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three Blog Entries (1,500 words) and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Essay Proposal (1,500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Essay (3,000 words)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report of practical as a scientific paper",
+			"weight": 30
+		},
+		{
+			"name": "Maintenance of a laboratory notebook",
+			"weight": 15
+		},
+		{
+			"name": "Report of practical as a group poster",
+			"weight": 15
+		},
+		{
+			"name": "Assessment of the appropriate use of techniques",
+			"weight": 40
+		}
+	]
+}

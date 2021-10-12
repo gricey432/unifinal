@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "My Heart, My Life e-Learning",
+			"weight": 15
+		},
+		{
+			"name": "Practical Examination",
+			"weight": 20
+		},
+		{
+			"name": "Heart Failure module - e-Learning",
+			"weight": 15
+		},
+		{
+			"name": "Immersion Case Study Report",
+			"weight": 25
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 25
+		}
+	]
+}

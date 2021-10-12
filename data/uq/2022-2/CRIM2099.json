@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Briefing Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Briefing Paper",
+			"weight": 30
+		},
+		{
+			"name": "Argumentative Essay",
+			"weight": 40
+		}
+	]
+}

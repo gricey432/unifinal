@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Palaeoecology Essay",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Fire Management Plan Review Poster",
+			"weight": "35%                                        Poster"
+		}
+	]
+}

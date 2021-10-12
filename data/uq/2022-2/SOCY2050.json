@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading-informed Mini Essays #1",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Reading-informed Mini Essays #2",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Critical Media Analysis",
+			"weight": "40%                                        1000 words"
+		}
+	]
+}

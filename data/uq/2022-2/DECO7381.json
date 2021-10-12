@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Active Studio Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Statement of Work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid Project Presentation & MVP",
+			"weight": 20
+		},
+		{
+			"name": "Final Product Demonstration & Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Individual Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Team Research Paper",
+			"weight": 20
+		}
+	]
+}

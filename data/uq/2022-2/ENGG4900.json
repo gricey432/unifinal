@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1: Financial Analysis",
+			"weight": 18
+		},
+		{
+			"name": "Project 2: Sustainability and Stakeholder Analysis",
+			"weight": 18
+		},
+		{
+			"name": "Project 3: Pitch",
+			"weight": 6
+		},
+		{
+			"name": "Project 3: Pitch Report",
+			"weight": 18
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

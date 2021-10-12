@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Person centred care within the context of dementia",
+			"weight": 50
+		},
+		{
+			"name": "Oral presentation and e-poster",
+			"weight": 30
+		},
+		{
+			"name": "Online quiz - polypharmacy",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "In class quiz at tutorial time",
+			"weight": 12
+		},
+		{
+			"name": "Online quiz - Set I",
+			"weight": 2
+		},
+		{
+			"name": "Online quiz - Set II",
+			"weight": 2
+		},
+		{
+			"name": "Online quiz - Set III",
+			"weight": 2
+		},
+		{
+			"name": "Age hardening behaviours of AZ91 alloy",
+			"weight": 15
+		},
+		{
+			"name": "Online quiz - Set IV",
+			"weight": 2
+		},
+		{
+			"name": "Heat treatment of steels",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

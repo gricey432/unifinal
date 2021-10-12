@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Practical - Gas absorption",
+			"weight": "5%                                        Group"
+		},
+		{
+			"name": "Individual Assignment 1",
+			"weight": "4%                                        Individual"
+		},
+		{
+			"name": "Individual Assignment 2",
+			"weight": "4%                                        Individual"
+		},
+		{
+			"name": "Individual Assignment 3",
+			"weight": "4%                                        Individual"
+		},
+		{
+			"name": "Individual Assignment 4",
+			"weight": "4%                                        Individual"
+		},
+		{
+			"name": "Individual Assignment 5",
+			"weight": "4%                                        Individual"
+		},
+		{
+			"name": "Group Project - Design",
+			"weight": "35%                                        Group and Individual - Hurdle"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Individual - Hurdle"
+		}
+	]
+}

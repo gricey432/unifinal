@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving",
+			"weight": 20
+		},
+		{
+			"name": "Weekly reading quizzes (away from class)",
+			"weight": "2% bonus"
+		},
+		{
+			"name": "Laboratory written report (x 2)",
+			"weight": "20%                                        (2 x 10%)"
+		},
+		{
+			"name": "Computational Project and Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam: two-hour, closed-book exam",
+			"weight": 40
+		}
+	]
+}

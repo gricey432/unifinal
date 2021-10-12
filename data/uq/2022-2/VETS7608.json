@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Diagnostic Quiz - gross path images",
+			"weight": 15
+		},
+		{
+			"name": "Case-based presentation",
+			"weight": 15
+		},
+		{
+			"name": "ESE - written exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group project report",
+			"weight": 40
+		},
+		{
+			"name": "Durability assignment",
+			"weight": 5
+		},
+		{
+			"name": "Fire Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

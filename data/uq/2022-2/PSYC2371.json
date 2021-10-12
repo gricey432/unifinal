@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Reddit Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Change Your World Final Video",
+			"weight": 15
+		},
+		{
+			"name": "Change Your World Final Paper",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Discussion",
+			"weight": "NA - no extensions will be granted for this piece of assessment."
+		},
+		{
+			"name": "Video",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

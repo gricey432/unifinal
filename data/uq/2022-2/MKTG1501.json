@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing Plan Part 1",
+			"weight": 40
+		},
+		{
+			"name": "Marketing Plan Part 2",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

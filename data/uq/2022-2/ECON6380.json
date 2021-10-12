@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Blackboard Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 35
+		},
+		{
+			"name": "Blackboard Test 3",
+			"weight": 15
+		}
+	]
+}

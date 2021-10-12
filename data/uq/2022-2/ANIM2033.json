@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of human-wildlife conflict",
+			"weight": 20
+		},
+		{
+			"name": "Debate wildlife  human conflict",
+			"weight": 20
+		},
+		{
+			"name": "Conflict resolution/ management plan",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

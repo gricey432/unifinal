@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar quizzes",
+			"weight": "20%                                        (10%x2)"
+		},
+		{
+			"name": "In-class presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final individual interview",
+			"weight": 25
+		},
+		{
+			"name": "Fortnightly speaking and fortnightly writing",
+			"weight": 20
+		},
+		{
+			"name": "Essay writing",
+			"weight": 20
+		}
+	]
+}

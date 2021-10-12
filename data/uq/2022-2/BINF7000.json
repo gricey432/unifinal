@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Motif discovery (theme 1)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: DNA elements (theme 2)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3: Transcriptomics (theme 3)",
+			"weight": 20
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

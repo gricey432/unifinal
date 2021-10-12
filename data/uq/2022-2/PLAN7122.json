@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Urban Design - Individual or teams of 3 max.",
+			"weight": 40
+		},
+		{
+			"name": "Final exam on urban design theory and practice",
+			"weight": 60
+		}
+	]
+}

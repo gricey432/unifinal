@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online exam",
+			"weight": "25%                                        Individual; 60 minutes"
+		},
+		{
+			"name": "Presentation - Destination Virtual Showcase",
+			"weight": "35%                                        Individual; 7 minutes"
+		},
+		{
+			"name": "Individual Essay",
+			"weight": "40%                                        Individual; 1500 - 2000 words"
+		}
+	]
+}

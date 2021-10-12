@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short written project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Chapter Structure Plan",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Final Paper",
+			"weight": 40
+		}
+	]
+}

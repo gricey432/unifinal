@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment - Final",
+			"weight": 50
+		},
+		{
+			"name": "Assignments",
+			"weight": "45% or 50% (see details)"
+		},
+		{
+			"name": "EQUS Hackathon Report",
+			"weight": "0% or 5% (see details)"
+		}
+	]
+}

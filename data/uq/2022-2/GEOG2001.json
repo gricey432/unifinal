@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Exam during exam period",
+			"weight": 30
+		},
+		{
+			"name": "Practical Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Mobility Project",
+			"weight": 50
+		}
+	]
+}

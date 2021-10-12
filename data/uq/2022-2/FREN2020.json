@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement",
+			"weight": 0
+		},
+		{
+			"name": "Pronunciation Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Online Tests",
+			"weight": 30
+		},
+		{
+			"name": "Oral 1",
+			"weight": 15
+		},
+		{
+			"name": "Devoir écrit",
+			"weight": 20
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		}
+	]
+}

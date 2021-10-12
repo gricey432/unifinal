@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes on lectures",
+			"weight": 15
+		},
+		{
+			"name": "Foundations in geospatial processing",
+			"weight": 17.5
+		},
+		{
+			"name": "Workflows for geospatial processing",
+			"weight": 17.5
+		},
+		{
+			"name": "Geospatial project and web services",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

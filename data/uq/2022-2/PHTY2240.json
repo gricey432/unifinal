@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Digital health technologies assignment",
+			"weight": 25
+		},
+		{
+			"name": "Clinical observation workbook",
+			"weight": "5%                                        Pass/Fail; MUST PASS"
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "PASS/FAIL (MUST PASS)"
+		},
+		{
+			"name": "PHTY2240 Theory exam",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "Practical Exam: Electrotherapy module",
+			"weight": "30%                                        MUST PASS"
+		}
+	]
+}

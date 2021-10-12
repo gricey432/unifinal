@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Wet Maritime Law Take Home Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Dry Shipping Law Take Home Assignment",
+			"weight": 50
+		}
+	]
+}

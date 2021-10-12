@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz: Biological Mass Balances",
+			"weight": 15
+		},
+		{
+			"name": "Undergraduate Laboratory Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Prac Report & Data analysis",
+			"weight": 10
+		},
+		{
+			"name": "Strain design & Metabolic model - Project",
+			"weight": 45
+		},
+		{
+			"name": "Strain design & Metabolic model - Project",
+			"weight": "30%                                        Hurdle"
+		}
+	]
+}

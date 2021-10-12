@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "After Class Problem Sets",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Tutorial Paper",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

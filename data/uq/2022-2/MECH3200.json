@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorial Problems",
+			"weight": 10
+		},
+		{
+			"name": "Group Consulting Project",
+			"weight": 25
+		},
+		{
+			"name": "Formal Report (1) & Logbook entries (3)",
+			"weight": 15
+		},
+		{
+			"name": "Optional Quiz on Part A",
+			"weight": 0
+		},
+		{
+			"name": "Optional Quiz on Part B",
+			"weight": 0
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Education QI Project - 3 stages",
+			"weight": 50
+		},
+		{
+			"name": "Blackboard Discussion Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Transition to Professional Practice video",
+			"weight": 30
+		}
+	]
+}

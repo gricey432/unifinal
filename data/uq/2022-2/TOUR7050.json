@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Paper on a Special Interest Tourism Type",
+			"weight": "50%                                        Individual; 4000-4500 words"
+		},
+		{
+			"name": "Special Interest Tour Design",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

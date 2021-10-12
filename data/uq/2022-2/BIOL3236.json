@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Effects of climate change on species distributions",
+			"weight": 20
+		},
+		{
+			"name": "Climate change risks and solutions",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of marine biotic response to climate chan",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

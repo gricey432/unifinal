@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes-Week 3,5,7,9,11",
+			"weight": 15
+		},
+		{
+			"name": "Report & Poster Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

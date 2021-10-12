@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project",
+			"weight": 40
+		},
+		{
+			"name": "Work Integrated Learning Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Theory Application Paper",
+			"weight": 40
+		}
+	]
+}

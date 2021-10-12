@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Paper Critique",
+			"weight": 30
+		},
+		{
+			"name": "edX Activities",
+			"weight": 10
+		},
+		{
+			"name": "Translation Element",
+			"weight": 40
+		}
+	]
+}

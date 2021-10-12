@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Case Note",
+			"weight": 5
+		},
+		{
+			"name": "Research Proposal with references from UQ database",
+			"weight": 15
+		},
+		{
+			"name": "Workbook of Guided Library Research",
+			"weight": 10
+		},
+		{
+			"name": "In Class Questions",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 45
+		}
+	]
+}

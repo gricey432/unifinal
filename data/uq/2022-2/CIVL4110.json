@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving sessions",
+			"weight": "0%                                        (Formative assessment)"
+		},
+		{
+			"name": "Attendance and professional participation in field",
+			"weight": 10
+		},
+		{
+			"name": "Group report & Excel data file on fieldwork",
+			"weight": 25
+		},
+		{
+			"name": "Beach profiles and wave runup in the laboratory",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        (At least 45% in the final exam is required to pass the course)"
+		}
+	]
+}

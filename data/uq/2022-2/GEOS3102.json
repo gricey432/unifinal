@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation and Preparation",
+			"weight": 15
+		},
+		{
+			"name": "Global Change Essay",
+			"weight": "60%                                        3000 words (+/-10%)"
+		},
+		{
+			"name": "Reflection and Action Activity Report",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual executive summary",
+			"weight": "20%                                        Individual assessment"
+		},
+		{
+			"name": "Case Analysis Summaries",
+			"weight": "30%                                        Team and peer assessment"
+		},
+		{
+			"name": "Individual case analysis",
+			"weight": "50%                                        Individual assessment"
+		}
+	]
+}

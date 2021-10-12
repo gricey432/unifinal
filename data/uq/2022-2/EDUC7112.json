@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Professional Learning Network",
+			"weight": "15%                                        At least 3 Online Posts and Discussion"
+		},
+		{
+			"name": "Design a Presentation for Professional Colleagues",
+			"weight": "40%                                        2000 words"
+		},
+		{
+			"name": "Designing and Evaluating an Innovation",
+			"weight": "45%                                        2500 words"
+		}
+	]
+}

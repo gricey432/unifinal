@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Landscape Link - SKETCH DESIGN",
+			"weight": 15
+		},
+		{
+			"name": "UQ Landscape Link - SCHEME DESIGN",
+			"weight": 25
+		},
+		{
+			"name": "PRECISION & DETAIL - FORMATIVE FEEDBACK",
+			"weight": 0
+		},
+		{
+			"name": "UQ LANDSCAPE LINK-PRECISION+DETAIL FOLIO SUB",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

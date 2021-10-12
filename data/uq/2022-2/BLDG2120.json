@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Optimised [Group]Home Design",
+			"weight": "30%                                        Individual assessment"
+		},
+		{
+			"name": "Assignment 2: PH [Group]Home Performance",
+			"weight": "30%                                        Group assessment"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "10%                                        Individual assessment"
+		},
+		{
+			"name": "Assignment 3: PH [Individual]Home Performance",
+			"weight": "30%                                        IVAH - Individual assessment"
+		}
+	]
+}

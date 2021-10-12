@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Public Health Message Abstract",
+			"weight": 10
+		},
+		{
+			"name": "Conceptualising Older Adults: A Case Study",
+			"weight": 60
+		},
+		{
+			"name": "Public Health Message Video",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Video",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		}
+	]
+}

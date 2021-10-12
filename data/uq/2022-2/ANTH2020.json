@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Article Review",
+			"weight": 20
+		},
+		{
+			"name": "Biographical Note",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review",
+			"weight": 50
+		}
+	]
+}

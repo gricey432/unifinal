@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Analysing Elite Performance",
+			"weight": 20
+		},
+		{
+			"name": "Design Training Elements",
+			"weight": 30
+		},
+		{
+			"name": "Build the Planning Tool",
+			"weight": 40
+		},
+		{
+			"name": "Annual Training Plan",
+			"weight": 10
+		}
+	]
+}

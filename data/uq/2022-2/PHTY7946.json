@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Feedback Action Planning",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Professional Participation and Contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Consultation Viva",
+			"weight": 15
+		},
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Follow-up Consultation VIVAs",
+			"weight": "30%                                        (2 x 15% each)"
+		},
+		{
+			"name": "Sports Coverage",
+			"weight": 25
+		}
+	]
+}

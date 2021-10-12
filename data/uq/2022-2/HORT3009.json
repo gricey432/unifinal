@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Case study on Module 1 - Arboriculture",
+			"weight": 10
+		},
+		{
+			"name": "Video presentation and discussion",
+			"weight": 20
+		},
+		{
+			"name": "Case Study on Module 2 -Organic horticulture",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on Module 3 -Protected cropping",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on Module 4 - Urban food production",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

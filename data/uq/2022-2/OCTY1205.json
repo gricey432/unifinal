@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Turning Point Questions",
+			"weight": 30
+		},
+		{
+			"name": "Standardised Patient Interview",
+			"weight": 30
+		},
+		{
+			"name": "Intervention Planning Assignment",
+			"weight": 40
+		}
+	]
+}

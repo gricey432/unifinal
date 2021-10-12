@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Short report on seminars",
+			"weight": 20
+		},
+		{
+			"name": "Scientific writing and critique task",
+			"weight": 20
+		},
+		{
+			"name": "Team oral presentation on seminar",
+			"weight": 20
+		},
+		{
+			"name": "Interim report on Discipline Activity",
+			"weight": "0-10% (Depending on Discipline)"
+		},
+		{
+			"name": "Final report on Discipline Activity",
+			"weight": "30-40% (Depending on Discipline)"
+		}
+	]
+}

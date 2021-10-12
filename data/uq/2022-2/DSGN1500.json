@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1  Campus Wellbeing",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2  Campus Mobility",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3  Urban Farming",
+			"weight": "50%                                        IVAH"
+		}
+	]
+}

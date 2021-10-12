@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Information session for parents/carers",
+			"weight": 30
+		},
+		{
+			"name": "Group presentation on a diagnosable MH condition",
+			"weight": 30
+		},
+		{
+			"name": "The recovery model and social work",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly self-paced course tasks in EdX",
+			"weight": "22%                                        Best of 11 weeks"
+		},
+		{
+			"name": "Reflection and response in flipgrid",
+			"weight": "18%                                        3 x 6% per Vlog"
+		},
+		{
+			"name": "Quiz - Modules 1-3",
+			"weight": "30%                                         3 x 10% per module quiz"
+		},
+		{
+			"name": "Final exam",
+			"weight": 30
+		}
+	]
+}

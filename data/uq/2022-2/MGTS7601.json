@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Content evaluation exam",
+			"weight": 15
+		},
+		{
+			"name": "Group annotated bibliography",
+			"weight": 35
+		},
+		{
+			"name": "Individual Organisational Problem Analysis",
+			"weight": 50
+		}
+	]
+}

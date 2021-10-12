@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 15
+		},
+		{
+			"name": "Startup investor pitch",
+			"weight": 20
+		},
+		{
+			"name": "Company analysis",
+			"weight": 30
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 20
+		}
+	]
+}

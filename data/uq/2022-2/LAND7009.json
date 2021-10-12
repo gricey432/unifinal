@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "'Mastery' Quiz - Module 1 & 2",
+			"weight": 2.5
+		},
+		{
+			"name": "'Mastery' Quiz - Module 3",
+			"weight": 2.5
+		},
+		{
+			"name": "'Mastery' Quiz - Module 4",
+			"weight": 2.5
+		},
+		{
+			"name": "Water modelling exercise",
+			"weight": 30
+		},
+		{
+			"name": "'Mastery' Quiz - Module 5",
+			"weight": 2.5
+		},
+		{
+			"name": "Review of selected topic",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		}
+	]
+}

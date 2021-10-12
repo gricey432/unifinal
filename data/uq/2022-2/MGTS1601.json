@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teamwork Reports",
+			"weight": "60%                                        Individual"
+		},
+		{
+			"name": "Team Workshop",
+			"weight": "25%                                        Team Assessment"
+		},
+		{
+			"name": "Course Reflection",
+			"weight": "15%                                        Individual"
+		}
+	]
+}

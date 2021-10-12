@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sets",
+			"weight": 20
+		},
+		{
+			"name": "Project based learning",
+			"weight": 30
+		},
+		{
+			"name": "Independent Project",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

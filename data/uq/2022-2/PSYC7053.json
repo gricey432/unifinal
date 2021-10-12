@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Triple P Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Core competencies",
+			"weight": 60
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quiz",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Demonstration",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative Country Report Part I",
+			"weight": 10
+		},
+		{
+			"name": "Comparative Country Report Part II",
+			"weight": 15
+		},
+		{
+			"name": "Midterm",
+			"weight": 30
+		},
+		{
+			"name": "Job Keeper vs Job Seeker",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set",
+			"weight": 30
+		}
+	]
+}

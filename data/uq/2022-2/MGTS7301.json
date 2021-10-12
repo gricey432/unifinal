@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Management Team Meetings",
+			"weight": 45
+		},
+		{
+			"name": "Business Studio Design Tools For Making Decisions",
+			"weight": 55
+		}
+	]
+}

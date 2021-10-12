@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Viva",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 30
+		},
+		{
+			"name": "Comprehensive Audiological Rehabilitation",
+			"weight": 30
+		}
+	]
+}

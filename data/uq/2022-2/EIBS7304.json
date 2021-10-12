@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Integrative Review",
+			"weight": 25
+		},
+		{
+			"name": "Wellbeing Polarity Leadership",
+			"weight": 35
+		},
+		{
+			"name": "Personal Development",
+			"weight": 40
+		}
+	]
+}

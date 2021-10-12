@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1  Analysing assessment tasks",
+			"weight": "40%                                        1500 words"
+		},
+		{
+			"name": "Moderation Meeting - Hurdle Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practice-Based Research Report",
+			"weight": "60%                                        3000-3500 words"
+		}
+	]
+}

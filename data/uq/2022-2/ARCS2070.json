@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Bone Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Palaeopathology Report",
+			"weight": 50
+		}
+	]
+}

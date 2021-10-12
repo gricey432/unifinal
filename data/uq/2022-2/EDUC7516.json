@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Adjusted Learning Activity Development",
+			"weight": "30%                                        3500 words"
+		},
+		{
+			"name": "Case Study Report: Response to Scenario",
+			"weight": "40%                                        3000 words"
+		}
+	]
+}

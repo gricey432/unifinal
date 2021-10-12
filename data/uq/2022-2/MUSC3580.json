@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Small, regular homework tasks",
+			"weight": "0%                                        hurdle"
+		},
+		{
+			"name": "Small Forms",
+			"weight": 15
+		},
+		{
+			"name": "Sonata movement",
+			"weight": 30
+		},
+		{
+			"name": "Review of analysis",
+			"weight": 20
+		},
+		{
+			"name": "Critical Analytical Discussion of Set Work",
+			"weight": 35
+		}
+	]
+}

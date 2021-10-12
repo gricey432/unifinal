@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Video quiz - listening",
+			"weight": 50
+		},
+		{
+			"name": "Reflection on learning materials",
+			"weight": 20
+		},
+		{
+			"name": "Presentation on life history",
+			"weight": 30
+		}
+	]
+}

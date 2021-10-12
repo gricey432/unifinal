@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short answer assignment",
+			"weight": 30
+		},
+		{
+			"name": "Face-to-face risk communication demonstration",
+			"weight": 20
+		},
+		{
+			"name": "Risk communication case study analysis",
+			"weight": "50%                                        3000 words"
+		}
+	]
+}

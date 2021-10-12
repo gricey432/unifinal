@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": "50%                                        Note also the hurdle requirement given in §5.2"
+		},
+		{
+			"name": "MasteringPhysics Online Exercises",
+			"weight": "0-10%"
+		},
+		{
+			"name": "Active Learning",
+			"weight": 5
+		},
+		{
+			"name": "Problem Solving Assignments",
+			"weight": "15%-25%"
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Participation",
+			"weight": "Hurdle"
+		}
+	]
+}

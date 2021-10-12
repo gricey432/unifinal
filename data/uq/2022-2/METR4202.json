@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "10 x Problem Solutions (Individual work)",
+			"weight": 30
+		},
+		{
+			"name": "10 x Mini-quizzes",
+			"weight": "0%                                        Requirement for a Grade of 3"
+		},
+		{
+			"name": "Team Project Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment for Team Project Activities",
+			"weight": "Scaling factors applied to each Team Project components (Demo and Report)"
+		},
+		{
+			"name": "Team Project Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (Individual)",
+			"weight": 30
+		}
+	]
+}

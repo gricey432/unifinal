@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography on a Foundational Concept",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2: Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

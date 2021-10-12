@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "1. PHTY7934 Group Directed Tasks: Debate",
+			"weight": 10
+		},
+		{
+			"name": "2. PHTY7934 Group Directed Tasks: Discussion board",
+			"weight": 10
+		},
+		{
+			"name": "3. PHTY7934 Personal Directed Tasks",
+			"weight": 20
+		},
+		{
+			"name": "4. PHTY7934 Mid Semester Presentation",
+			"weight": 20
+		},
+		{
+			"name": "5. PHTY7934 End of Semester Assignment Part A",
+			"weight": 20
+		},
+		{
+			"name": "6. PHTY7934 End of Semester Assignment Part B",
+			"weight": 20
+		}
+	]
+}

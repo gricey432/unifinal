@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Communication and Ageing Report",
+			"weight": 40
+		},
+		{
+			"name": "Observation Workbook",
+			"weight": "Pass/Fail (Must pass)"
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes (best 4 of 5 with overall 50% pass)",
+			"weight": 60
+		},
+		{
+			"name": "Deliverables (contribute to all 5; 50% to pass)",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Tutorial deliverables",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

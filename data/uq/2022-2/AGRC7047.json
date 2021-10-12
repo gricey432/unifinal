@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective diary: personal objectives",
+			"weight": 4
+		},
+		{
+			"name": "Critical analysis",
+			"weight": 30
+		},
+		{
+			"name": "Leadership for Global Challenges",
+			"weight": 20
+		},
+		{
+			"name": "Global Challenges: Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Policy Critique Project: Written Report",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tareas evaluadas",
+			"weight": "16%                                        4% each worksheet"
+		},
+		{
+			"name": "Prueba 1",
+			"weight": 25
+		},
+		{
+			"name": "Composition -listening comprehension-",
+			"weight": 10
+		},
+		{
+			"name": "Patrimonios de la humanidad del mundo hispano",
+			"weight": "24%                                        (20% presentation, 4% Discussion forum)"
+		},
+		{
+			"name": "Written test 2 Prueba 2",
+			"weight": 25
+		}
+	]
+}

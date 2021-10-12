@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-term exam",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Corporate valuation",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Final exam",
+			"weight": "40%                                        Individual; 2 hours"
+		}
+	]
+}

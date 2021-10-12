@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple-choice O/L Lesson e-quizzes",
+			"weight": 10
+		},
+		{
+			"name": "ONLINE mid-sem. (School) exam - 50 minutes ONLY!",
+			"weight": 45
+		},
+		{
+			"name": "ONLINE Final exam",
+			"weight": 45
+		}
+	]
+}

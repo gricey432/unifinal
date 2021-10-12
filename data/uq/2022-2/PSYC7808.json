@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Development of Plan for Group Sessions",
+			"weight": 50
+		},
+		{
+			"name": "Oral and Written Assessment Activities",
+			"weight": 35
+		},
+		{
+			"name": "Letters to the People",
+			"weight": 15
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Design",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reports",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case scenario",
+			"weight": 40
+		},
+		{
+			"name": "Family theory or model in practice",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Profile Report",
+			"weight": 50
+		},
+		{
+			"name": "Telehealth Assignment and Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Attendance and Participation",
+			"weight": "Compliance hurdle: Students must meet this criterion regardless of the overall course marks"
+		}
+	]
+}

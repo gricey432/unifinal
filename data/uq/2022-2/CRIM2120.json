@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policing Domestic Violence Paper (750 words)",
+			"weight": 25
+		},
+		{
+			"name": "Policy Brief (600 words)",
+			"weight": 30
+		},
+		{
+			"name": "Queensland law and policy essay (2000 words)",
+			"weight": 45
+		}
+	]
+}

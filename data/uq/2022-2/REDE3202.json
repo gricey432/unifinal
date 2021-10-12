@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of ROI / EOI - Expression of Interest",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Active Tutorial/Seminar Collaboration",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Proposal Presentation",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Proposal Submission",
+			"weight": "40%                                        Group; 3000 words"
+		}
+	]
+}

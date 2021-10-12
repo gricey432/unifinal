@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement Preparation",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "Objective Structured Clinical Assessment (OSCA)",
+			"weight": "NGP"
+		}
+	]
+}

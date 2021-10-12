@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Field report",
+			"weight": 30
+		},
+		{
+			"name": "Poster - UN Ocean Decade",
+			"weight": 10
+		}
+	]
+}

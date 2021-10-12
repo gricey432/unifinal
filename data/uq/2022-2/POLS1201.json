@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academy Integrity Modules",
+			"weight": 0
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Minor essay (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major essay 2000 words",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 25
+		}
+	]
+}

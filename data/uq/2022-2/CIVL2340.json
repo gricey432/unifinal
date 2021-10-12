@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Loads on Structure (Dr Mason)",
+			"weight": 5
+		},
+		{
+			"name": "Tension and Compression (Prof Kitipornchai)",
+			"weight": 5
+		},
+		{
+			"name": "Connections (Dr Maluk)",
+			"weight": 5
+		},
+		{
+			"name": "Compression and Bending (Prof Kitipornchai)",
+			"weight": 5
+		},
+		{
+			"name": "Bending & Combined Actions (Prof Kitipornchai)",
+			"weight": 5
+		},
+		{
+			"name": "Combined Actions/Portal Frames (Prof Kitipornchai)",
+			"weight": 5
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Gobbets",
+			"weight": 20
+		},
+		{
+			"name": "Podcast/Video",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

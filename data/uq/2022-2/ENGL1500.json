@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Close reading response",
+			"weight": "20%                                        600 words"
+		},
+		{
+			"name": "Creative Writing Response",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Research essay plan",
+			"weight": 5
+		},
+		{
+			"name": "Research essay",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

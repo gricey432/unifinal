@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz I",
+			"weight": 6
+		},
+		{
+			"name": "Quiz II",
+			"weight": 6
+		},
+		{
+			"name": "Assignment I",
+			"weight": 21
+		},
+		{
+			"name": "Quiz III",
+			"weight": 6
+		},
+		{
+			"name": "Assignment II",
+			"weight": 21
+		},
+		{
+			"name": "Assignment III",
+			"weight": "40%                                        Hurdle (40/100)"
+		}
+	]
+}

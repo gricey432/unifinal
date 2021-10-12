@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Insight Report (Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Project Advertising Campaign Pitch",
+			"weight": "40%                                        Group Work"
+		},
+		{
+			"name": "Learning Reflection (Individual)",
+			"weight": 20
+		}
+	]
+}

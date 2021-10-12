@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching presentation",
+			"weight": 30
+		},
+		{
+			"name": "Curriculum Design",
+			"weight": "40%                                        3,000 words"
+		},
+		{
+			"name": "Critical reflection",
+			"weight": "30%                                        1500 to 1800 words"
+		}
+	]
+}

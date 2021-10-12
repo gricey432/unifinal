@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Topic submitted to tutor for approval",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Journal of learning",
+			"weight": 15
+		},
+		{
+			"name": "Intellectual Property Examination",
+			"weight": 25
+		},
+		{
+			"name": "Drug Design and Development",
+			"weight": 30
+		},
+		{
+			"name": "Mini-conference presentation",
+			"weight": 25
+		},
+		{
+			"name": "Peer Assessment of mini-conference presentations",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 Part A Abstract and Reference List",
+			"weight": "15%                                        500 words"
+		},
+		{
+			"name": "Assignment 1 Part B Literature Review",
+			"weight": "35%                                        2500-3000 words"
+		},
+		{
+			"name": "Assignment 2",
+			"weight": "50%                                        2500-3000 words"
+		}
+	]
+}

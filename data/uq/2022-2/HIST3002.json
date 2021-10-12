@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Written Paper",
+			"weight": 40
+		}
+	]
+}

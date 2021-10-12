@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Results Paper",
+			"weight": 45
+		},
+		{
+			"name": "Honours Research Showcase: Presentation & Brief",
+			"weight": 40
+		},
+		{
+			"name": "Professional Resume and Cover Letter",
+			"weight": 15
+		}
+	]
+}

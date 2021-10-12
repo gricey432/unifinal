@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Genotype x Environment Report",
+			"weight": 30
+		},
+		{
+			"name": "3MT presentations",
+			"weight": 15
+		},
+		{
+			"name": "APSIM assessment 1",
+			"weight": 10
+		},
+		{
+			"name": "APSIM assessment 2",
+			"weight": 10
+		},
+		{
+			"name": "Review Test",
+			"weight": 35
+		}
+	]
+}

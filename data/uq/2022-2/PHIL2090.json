@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard quiz 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard quiz 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard quiz 4",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard quiz 3",
+			"weight": 2.5
+		},
+		{
+			"name": "Proposed abstract for final essay",
+			"weight": "5%                                        250"
+		},
+		{
+			"name": "Final essay",
+			"weight": "55%                                        2500 words"
+		},
+		{
+			"name": "News article review",
+			"weight": "30%                                        1200 words"
+		}
+	]
+}

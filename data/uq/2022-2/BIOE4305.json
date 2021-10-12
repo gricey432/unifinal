@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Biomaterials Innovation (2000-2021) Report",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Biocompatibility",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Video prac on mechanical properties of polymers",
+			"weight": "0%                                        Individual"
+		},
+		{
+			"name": "Mechanical Properties of Biomaterials",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Major Group Literature Review",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "BIOE4305 Key Learnings - Video",
+			"weight": "5%                                        Individual"
+		},
+		{
+			"name": "Major Biomaterials families",
+			"weight": 15
+		}
+	]
+}

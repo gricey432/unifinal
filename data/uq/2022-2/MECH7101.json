@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Experiments",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 1 Dimensional analysis and scaling",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 Design of blade sets",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 3 Numerical Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Experiment Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workshop quiz",
+			"weight": 10
+		},
+		{
+			"name": "Project-based work with IUIH",
+			"weight": 10
+		},
+		{
+			"name": "Reflections on leadership",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on leadership in SfD",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on leadership in SfR",
+			"weight": 30
+		}
+	]
+}

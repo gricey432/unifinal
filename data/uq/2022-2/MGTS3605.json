@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Negotiation Personal Reflection",
+			"weight": "30%                                        Individual; 1600 words"
+		},
+		{
+			"name": "Content evaluation exam",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Group negotiation exercise",
+			"weight": "35%                                        Group"
+		}
+	]
+}

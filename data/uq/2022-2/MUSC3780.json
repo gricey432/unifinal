@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team-teaching using innovative repertoire",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": "40%                                        1750-2000 words"
+		},
+		{
+			"name": "Music Education Philosophy",
+			"weight": "30%                                        1750-2000 words"
+		}
+	]
+}

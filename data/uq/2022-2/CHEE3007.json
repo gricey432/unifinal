@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Paper-based exercises throughout semester",
+			"weight": 15
+		},
+		{
+			"name": "Computer-based exercises throughout semester",
+			"weight": 15
+		},
+		{
+			"name": "Online Laboratory OH&S Training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Real World Model Development and Implementation",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": "40%                                        Hurdle"
+		},
+		{
+			"name": "Computer based practical exam",
+			"weight": "15%                                        Hurdle"
+		}
+	]
+}

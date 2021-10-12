@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online at home Quiz #1 - via Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Online at home Quiz #2 - via Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Online at home Quiz #3 - via Blackboard",
+			"weight": 5
+		},
+		{
+			"name": "Data Analysis #1",
+			"weight": 15
+		},
+		{
+			"name": "Data Analysis #2",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": 55
+		}
+	]
+}

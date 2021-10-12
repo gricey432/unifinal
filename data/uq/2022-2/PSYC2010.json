@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": "25%                                        and must be completed to pass the course."
+		},
+		{
+			"name": "ANOVA Calculation & Interpretation",
+			"weight": "25%                                        and must be completed to pass the course."
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": "50%                                        and must be completed to pass the course."
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

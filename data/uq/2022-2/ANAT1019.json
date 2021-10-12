@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Theory exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": 50
+		},
+		{
+			"name": "ROM / MMT viva exam",
+			"weight": 10
+		}
+	]
+}

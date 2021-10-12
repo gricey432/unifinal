@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "PHOTO ESSAY & VIDEO REFLECTION (FOUNDATIONAL)",
+			"weight": 10
+		},
+		{
+			"name": "REFLECTIVE ESSAY ON SIMULATION",
+			"weight": "35%                                        Hurdle"
+		},
+		{
+			"name": "ORAL EXAMINATION",
+			"weight": "15%                                        Hurdle"
+		},
+		{
+			"name": "COMMERCIAL INNOVATION BUSINESS MODEL",
+			"weight": 40
+		},
+		{
+			"name": "for Group Project",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

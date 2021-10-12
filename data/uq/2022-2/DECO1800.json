@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "2A: Design Inspiration (Individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2B: Team Agreement (Team)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2C: Design Proposal Milestone (Team)",
+			"weight": "1"
+		},
+		{
+			"name": "2D: Work-in-Progress Milestone (Team)",
+			"weight": "2"
+		},
+		{
+			"name": "2E: Final Delivery (Team)",
+			"weight": "3"
+		},
+		{
+			"name": "1. Studio Journal",
+			"weight": "2"
+		},
+		{
+			"name": "3. Portfolio",
+			"weight": "2"
+		}
+	]
+}

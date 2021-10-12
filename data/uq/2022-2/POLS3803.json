@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance and participation",
+			"weight": 8
+		},
+		{
+			"name": "Reading comprehension & discussion questions",
+			"weight": 8
+		},
+		{
+			"name": "Q&A Submissions",
+			"weight": 10
+		},
+		{
+			"name": "Choose your own political thinker  (300 words)",
+			"weight": 10
+		},
+		{
+			"name": "Choose your own political thinker (2000 words)",
+			"weight": 34
+		},
+		{
+			"name": "Take Home Assignment(2000 words)",
+			"weight": 30
+		}
+	]
+}

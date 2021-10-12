@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Campaign Tactics Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Stories on jacdigital & FB",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Access Audit Assignment",
+			"weight": "50%                                        (MUST PASS)"
+		},
+		{
+			"name": "In Class Workshop Exercises",
+			"weight": "50%                                        (MUST PASS)"
+		}
+	]
+}

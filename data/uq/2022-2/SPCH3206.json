@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Theory Exam - In Week 9",
+			"weight": "50%                                        (MUST PASS)"
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 30
+		}
+	]
+}

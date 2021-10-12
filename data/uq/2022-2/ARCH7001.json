@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 (Final): Research & Proposition",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2 (Formative): Detailed Design",
+			"weight": 0
+		},
+		{
+			"name": "Assessment 2 (Final): Detailed Design",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

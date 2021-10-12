@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1: Microfabrication and Advanced Imaging",
+			"weight": 25
+		},
+		{
+			"name": "Module 2: Advanced Spectroscopy",
+			"weight": 25
+		},
+		{
+			"name": "Module 3: Computer Control and Electronics",
+			"weight": 25
+		},
+		{
+			"name": "Module 4: Quantum Technology",
+			"weight": 25
+		},
+		{
+			"name": "Supplementary Assessment",
+			"weight": ""
+		},
+		{
+			"name": "Additional lab sessions may be organised if requested and supported by a medical certificate. In all cases an approval from the course coordinator should be obtained.",
+			"weight": ""
+		}
+	]
+}

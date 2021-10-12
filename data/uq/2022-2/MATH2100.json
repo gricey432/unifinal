@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Applied Mathematical Analysis",
+			"weight": 52
+		},
+		{
+			"name": "One",
+			"weight": 6
+		},
+		{
+			"name": "Two",
+			"weight": 9
+		},
+		{
+			"name": "Three",
+			"weight": 9
+		},
+		{
+			"name": "Four",
+			"weight": 6
+		},
+		{
+			"name": "Five",
+			"weight": 9
+		},
+		{
+			"name": "Six",
+			"weight": 9
+		}
+	]
+}

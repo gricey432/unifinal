@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Species Counterpoint",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Species and florid counterpoint",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3 - Modal counterpoint up to 3 parts",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 4 - Renaissance canon and motet",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 5 - Exercises in Tonal Counterpoint",
+			"weight": 10
+		},
+		{
+			"name": "Project 1 - Two-part Invention",
+			"weight": 25
+		},
+		{
+			"name": "Project 2 - Three-part Fugue",
+			"weight": 25
+		}
+	]
+}

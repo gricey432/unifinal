@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Consulting Proposal Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Consultancy Project Presentation and Report",
+			"weight": 75
+		}
+	]
+}

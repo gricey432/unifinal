@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Approved book review or case note",
+			"weight": "pass or fail"
+		},
+		{
+			"name": "Fulfillment of editorial responsibilities",
+			"weight": "pass or fail"
+		}
+	]
+}

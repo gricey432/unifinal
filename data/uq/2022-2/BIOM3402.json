@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Peptides as drugs",
+			"weight": 18
+		},
+		{
+			"name": "The microbiome in Pharmacology",
+			"weight": 18
+		},
+		{
+			"name": "Glycotherapeutic receptors",
+			"weight": 13
+		},
+		{
+			"name": "Proteins as drugs",
+			"weight": 13
+		},
+		{
+			"name": "Pre-laboratory Quiz",
+			"weight": "4 x 2% = total 8%"
+		},
+		{
+			"name": "Invigilated End of Semester Theory Examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual presentation",
+			"weight": 30
+		},
+		{
+			"name": "Weekly critical summaries of readings",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": "40%                                        2500 Words"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Professional development presentation",
+			"weight": 40
+		},
+		{
+			"name": "Learning and teaching sequence and assessment task",
+			"weight": "60%                                        3000 words"
+		}
+	]
+}

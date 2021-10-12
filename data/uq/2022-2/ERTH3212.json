@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Sediment identification excercise",
+			"weight": 5
+		},
+		{
+			"name": "Pre-field trip assignment",
+			"weight": 10
+		},
+		{
+			"name": "Surveying techniques",
+			"weight": 5
+		},
+		{
+			"name": "Group's field zonation data and map",
+			"weight": 20
+		},
+		{
+			"name": "Field Report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

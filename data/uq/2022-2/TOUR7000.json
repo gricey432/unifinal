@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Research Tender Proposal",
+			"weight": "50%                                        Individual, 4000 words"
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": "35%                                        Individual"
+		}
+	]
+}

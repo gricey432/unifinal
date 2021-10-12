@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Online MCQ tests",
+			"weight": 35
+		},
+		{
+			"name": "Field Report (field trip or virtual field trip)",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Discipline Paper Critique",
+			"weight": "15%                                        2000 words"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "TE nanostructures and their potential applications",
+			"weight": 10
+		},
+		{
+			"name": "X-ray diffraction and Electronic Microscopy",
+			"weight": 2
+		},
+		{
+			"name": "Development and characterisation of TE nanostructu",
+			"weight": 20
+		},
+		{
+			"name": "Magnetic nanocomposite",
+			"weight": 2
+		},
+		{
+			"name": "Nanocellulose - industrial manufacturing",
+			"weight": 2
+		},
+		{
+			"name": "Nano-catalyst for waste water treatment",
+			"weight": 2
+		},
+		{
+			"name": "Nano-catalysts for waste water treatment",
+			"weight": 5
+		},
+		{
+			"name": "Porous nanostructure for biomedical applications",
+			"weight": 2
+		},
+		{
+			"name": "Critical analysis on selected published literature",
+			"weight": 15
+		},
+		{
+			"name": "Fabricate/characterise magnetic nanocomposites",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

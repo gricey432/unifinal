@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Attendance and Participation in Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Classifying variables, deriving predictions",
+			"weight": 15
+		},
+		{
+			"name": "Identifying confounds, evaluating research",
+			"weight": 15
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lecture quizzes and participation",
+			"weight": "Contact course coordinator"
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": "Contact Tutor"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Final Examination",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

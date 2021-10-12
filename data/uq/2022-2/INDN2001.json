@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly listening quiz",
+			"weight": 50
+		},
+		{
+			"name": "Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Presentation on Indonesian pluralisms",
+			"weight": 30
+		}
+	]
+}

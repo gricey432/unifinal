@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 - Manufacturing Process Design",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Box Beam Structural Design",
+			"weight": 20
+		},
+		{
+			"name": "Closed book exam",
+			"weight": "50%                                        Structures(25%)/ Materials (25%)"
+		}
+	]
+}

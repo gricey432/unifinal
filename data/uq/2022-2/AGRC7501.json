@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "edX(Edge) Problem sets",
+			"weight": 15
+		},
+		{
+			"name": "Review quiz",
+			"weight": 5
+		},
+		{
+			"name": "Poster",
+			"weight": 20
+		},
+		{
+			"name": "Report & Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final assessment",
+			"weight": 40
+		}
+	]
+}

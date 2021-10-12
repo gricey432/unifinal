@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Examination",
+			"weight": 30
+		},
+		{
+			"name": "Case-Based Written Examination",
+			"weight": 40
+		},
+		{
+			"name": "Completion of on-line case studies (ispring etc)",
+			"weight": 10
+		},
+		{
+			"name": "Preparation for and participation in CCRDs",
+			"weight": 20
+		},
+		{
+			"name": "History and Mental status examination assessment",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle:  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

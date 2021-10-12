@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Human Research Ethics Application",
+			"weight": 20
+		},
+		{
+			"name": "Commercialisation Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Project Management plan - gantt chart",
+			"weight": 20
+		},
+		{
+			"name": "Intellectual Property and Patent Law",
+			"weight": 15
+		},
+		{
+			"name": "End of semester MCQ",
+			"weight": 25
+		}
+	]
+}

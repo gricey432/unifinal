@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Workbook",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Equine Unit Duties",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Learning quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Equine Farm Strategy Plan",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

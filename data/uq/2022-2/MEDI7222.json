@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Women's Health Assessment",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation",
+			"weight": "Pass/Fail (attendance is compulsory to pass the course)"
+		},
+		{
+			"name": "Reflective journal",
+			"weight": "20%                                        four journal entires, each worth 5%"
+		},
+		{
+			"name": "Placement timesheet (minimum 60 hrs of placement)",
+			"weight": "Pass/Fail(must be signed by placement supervisor)"
+		},
+		{
+			"name": "Pre-placement portfolio",
+			"weight": 50
+		},
+		{
+			"name": "Mock Interview",
+			"weight": 20
+		},
+		{
+			"name": "Placement Summary Poster",
+			"weight": 10
+		},
+		{
+			"name": "Work placement evaluation",
+			"weight": "Pass/Fail (Verified by placement supervisor)"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": "Extension applications are not applicable for this assessment item – students must contact the Course Coordinator directly prior to a missed workshop."
+		},
+		{
+			"name": "Placement Timesheet",
+			"weight": "Extension applications are not applicable for this assessment item."
+		},
+		{
+			"name": "Reflection",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Pre-placement portfolio: Literature Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Video: Mock Interview",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Work placement Evaluation",
+			"weight": "Extension applications are not applicable to this assessment item."
+		}
+	]
+}

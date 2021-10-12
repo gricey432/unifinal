@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on lecture content weeks 1-4",
+			"weight": 10
+		},
+		{
+			"name": "Quiz on lecture content weeks 5-8",
+			"weight": 10
+		},
+		{
+			"name": "Exposure assessment report",
+			"weight": 25
+		},
+		{
+			"name": "Quiz on lecture content weeks 9-11",
+			"weight": 10
+		},
+		{
+			"name": "Presentation of risk assessment workshop outcomes",
+			"weight": 20
+		},
+		{
+			"name": "Risk assessment report",
+			"weight": 25
+		}
+	]
+}

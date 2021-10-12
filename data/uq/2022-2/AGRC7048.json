@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		},
+		{
+			"name": "Photosynthesis",
+			"weight": 8
+		},
+		{
+			"name": "Targeting water use efficiency",
+			"weight": 8
+		},
+		{
+			"name": "Nutrients and signalling",
+			"weight": 8
+		},
+		{
+			"name": "Germination",
+			"weight": 8
+		},
+		{
+			"name": "Post-harvest physiology",
+			"weight": 8
+		}
+	]
+}

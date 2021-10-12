@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Online MCQ tests",
+			"weight": 40
+		},
+		{
+			"name": "Field Report (field trip or virtual field trip)",
+			"weight": 30
+		}
+	]
+}

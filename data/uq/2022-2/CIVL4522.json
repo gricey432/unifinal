@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design and Analysis Asgmt 1",
+			"weight": 15
+		},
+		{
+			"name": "Design and Analysis Asgmt 2",
+			"weight": 45
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

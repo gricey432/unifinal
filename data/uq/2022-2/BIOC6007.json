@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Submission and Peer review",
+			"weight": "10%                                        This mark is for the peer review component"
+		},
+		{
+			"name": "Assignment 2 - Submission and Peer review",
+			"weight": "10%                                        This mark is for the peer review component"
+		},
+		{
+			"name": "Assignment 3 - Submission and Peer review",
+			"weight": "10%                                        This mark is for the peer review component"
+		},
+		{
+			"name": "Submission of two assignments (student choice)",
+			"weight": 40
+		},
+		{
+			"name": "Audiovisual file for the video presentation",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In class/online short questions and MCQs",
+			"weight": 20
+		},
+		{
+			"name": "3 minute video on 'What is Health Economics?'",
+			"weight": 10
+		},
+		{
+			"name": "3000 words report on topics from Lectures 2-6",
+			"weight": 50
+		},
+		{
+			"name": "1500 words review",
+			"weight": 20
+		}
+	]
+}

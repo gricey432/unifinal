@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation on selected/assigned topic",
+			"weight": 40
+		},
+		{
+			"name": "Engaged audience role",
+			"weight": 10
+		},
+		{
+			"name": "Essay based on selected topic",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Please contact your tutor/course coordinator directly."
+		},
+		{
+			"name": "Participation",
+			"weight": "Please contact your tutor/course coordinator directly."
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Proposed Assessment Below",
+			"weight": 0
+		},
+		{
+			"name": "Lecture and Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Reading Journal",
+			"weight": 2
+		},
+		{
+			"name": "First Philosophical Essay",
+			"weight": 26
+		},
+		{
+			"name": "Web Assignment",
+			"weight": 2
+		},
+		{
+			"name": "Final Philosophical Essay (Research)",
+			"weight": 60
+		}
+	]
+}

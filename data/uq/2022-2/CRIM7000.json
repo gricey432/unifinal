@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Short answer assessment #1",
+			"weight": 25
+		},
+		{
+			"name": "Short answer assessment#2",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis and Design UML assessment portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Core Knowledge Test",
+			"weight": 30
+		},
+		{
+			"name": "Application Design and Reflection",
+			"weight": 30
+		}
+	]
+}

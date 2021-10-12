@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1 Case study analysis",
+			"weight": "25%                                        Individual Assessment"
+		},
+		{
+			"name": "A2  ED & OD Topic",
+			"weight": "50%                                        Individual Assessment"
+		},
+		{
+			"name": "A3 Case Study Analysis",
+			"weight": "25%                                        Individual Assessment"
+		}
+	]
+}

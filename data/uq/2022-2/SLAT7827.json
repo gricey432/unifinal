@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ripple: Material creation and evaluation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Position on feedback in L2 writing",
+			"weight": 25
+		},
+		{
+			"name": "L2 textbook unit",
+			"weight": 50
+		},
+		{
+			"name": "Ripple: Reflection on own and other's materials",
+			"weight": 25
+		}
+	]
+}

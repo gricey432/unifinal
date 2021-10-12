@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Data analysis & interpretation - Whale dives",
+			"weight": 10
+		},
+		{
+			"name": "Data analysis and interpretation - Stress",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

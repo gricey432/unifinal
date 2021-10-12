@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Corporate Law Final Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Problem Questions",
+			"weight": 10
+		},
+		{
+			"name": "ILAC Submission",
+			"weight": 15
+		},
+		{
+			"name": "Business Law Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Corporate Law Multiple Choice Question Quiz",
+			"weight": 10
+		}
+	]
+}

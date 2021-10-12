@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Exercises",
+			"weight": "40%                                        (5 Quizzes@8%)"
+		},
+		{
+			"name": "R-Exercises",
+			"weight": 35
+		},
+		{
+			"name": "Project : Assignment and Brief Research Report",
+			"weight": 25
+		}
+	]
+}

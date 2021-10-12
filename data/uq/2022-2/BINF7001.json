@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "ASSESSMENT 1: Read mapping exercise",
+			"weight": "0%                                        PASS/FAIL HURDLE"
+		},
+		{
+			"name": "ASSESSMENT 2: De novo assembly and phylogenomics",
+			"weight": 30
+		},
+		{
+			"name": "ASSESSMENT 3: Human Genomics Analysis",
+			"weight": 35
+		},
+		{
+			"name": "ASSESSMENT 4: Metagenome Analysis",
+			"weight": 34
+		},
+		{
+			"name": "ASSESSMENT 5: Science Employability Reflection",
+			"weight": 1
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Create an Ensemble",
+			"weight": 30
+		},
+		{
+			"name": "Practical Projects",
+			"weight": 30
+		},
+		{
+			"name": "Folio of Works",
+			"weight": 40
+		}
+	]
+}

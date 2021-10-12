@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Competencies Reflective Exercises",
+			"weight": 10
+		},
+		{
+			"name": "PICO Essay",
+			"weight": 40
+		},
+		{
+			"name": "In Tutorial Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "In-class & after-class online learning activities",
+			"weight": 5
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Reflective Practice exercises",
+			"weight": "No extension applications are applicable for this assessment item. Contact your tutor or Course Coordinator directly."
+		},
+		{
+			"name": "In Tutorial Quizzes",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class & after-class activities",
+			"weight": "No extension applications are applicable for this assessment item."
+		}
+	]
+}

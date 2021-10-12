@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise",
+			"weight": "20%                                        (Best 10 out of 11)"
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 45
+		},
+		{
+			"name": "Midsemester Assignment",
+			"weight": 35
+		}
+	]
+}

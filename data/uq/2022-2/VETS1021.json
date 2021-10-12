@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "VETS1021 quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Practical exam: canine & equine locomotory anatomy",
+			"weight": 35
+		},
+		{
+			"name": "Locomotory anatomy (including hoof) theory exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Content",
+			"weight": 5
+		},
+		{
+			"name": "Discussion and Critique of Media",
+			"weight": 30
+		},
+		{
+			"name": "Human Rights Report",
+			"weight": 65
+		}
+	]
+}

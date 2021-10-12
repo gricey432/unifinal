@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Live Interpreting Japanese to English",
+			"weight": 50
+		},
+		{
+			"name": "Live Interpreting English to Japanese",
+			"weight": 50
+		}
+	]
+}

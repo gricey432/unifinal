@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Comparative healthcare systems",
+			"weight": 40
+		},
+		{
+			"name": "Economic perspectives on health policy",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Section A Assignments (2)",
+			"weight": 10
+		},
+		{
+			"name": "Section B Assignments (2)",
+			"weight": 10
+		},
+		{
+			"name": "Formal Report(1) & Logbook entries(4)",
+			"weight": 20
+		},
+		{
+			"name": "Internet Revision Quiz of 1st yr dynamics",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Optional Quizzes (1 each for sect. A, B1 & B2)",
+			"weight": 0
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

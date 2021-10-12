@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective analysis",
+			"weight": "30%                                        1800-2100 words (+/- 10%)"
+		},
+		{
+			"name": "Fact Sheet",
+			"weight": "25%                                        2 pages maximum"
+		},
+		{
+			"name": "Systematic Literature review",
+			"weight": "45%                                        2000 words (+/- 10%)"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Topic Reflection",
+			"weight": 30
+		},
+		{
+			"name": "EOS Take Home Problem Set",
+			"weight": 40
+		},
+		{
+			"name": "Worksheet #1",
+			"weight": 10
+		},
+		{
+			"name": "Worksheet #2",
+			"weight": 10
+		},
+		{
+			"name": "Worksheet #3",
+			"weight": 10
+		}
+	]
+}

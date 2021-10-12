@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1. Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "3. PowerPoint Slides",
+			"weight": 20
+		},
+		{
+			"name": "2. Dissertation",
+			"weight": 60
+		},
+		{
+			"name": "4. PowerPoint Presentation",
+			"weight": "0%                                        compulsory"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical reports",
+			"weight": 30
+		},
+		{
+			"name": "Effects of heat stress on mammalian reproduction",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

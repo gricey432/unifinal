@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Intent",
+			"weight": "1"
+		},
+		{
+			"name": "Case Study One",
+			"weight": "2"
+		},
+		{
+			"name": "Case Study Two",
+			"weight": "2"
+		},
+		{
+			"name": "Final Demonstration",
+			"weight": "3"
+		},
+		{
+			"name": "78-209 Workshop Induction",
+			"weight": "Pass/Fail"
+		}
+	]
+}

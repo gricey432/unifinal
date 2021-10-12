@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials 1-10",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Reading Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Conversation-style article and Twitter post",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

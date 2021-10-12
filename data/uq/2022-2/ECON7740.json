@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Computer Based Sessions",
+			"weight": "10%                                        (best 8 of 10)"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "30%                                        (2 x 15%)"
+		},
+		{
+			"name": "Short Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Group Case Study in Applied Cost-Benefit Analysis",
+			"weight": 40
+		}
+	]
+}

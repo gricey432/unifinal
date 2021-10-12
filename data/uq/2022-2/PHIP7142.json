@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Australian health care system",
+			"weight": 10
+		},
+		{
+			"name": "Poster presentation",
+			"weight": 20
+		},
+		{
+			"name": "Pharmacovigilance",
+			"weight": 30
+		},
+		{
+			"name": "Critical appraisal (Health Technology Assessment)",
+			"weight": 40
+		}
+	]
+}

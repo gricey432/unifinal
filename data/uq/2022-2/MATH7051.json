@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Exercise",
+			"weight": 10
+		},
+		{
+			"name": "4 Assignments",
+			"weight": "20%                                        (Each assignment is weighted 5%)"
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

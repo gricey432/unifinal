@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Question Responses Part 1",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Question Responses Part 2",
+			"weight": 30
+		},
+		{
+			"name": "Weekly Question Responses Part 3",
+			"weight": 40
+		}
+	]
+}

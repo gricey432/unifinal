@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "[AT] Presentation of Findings",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[AT] Art Exhibition",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[PSY & AT] Thesis",
+			"weight": 100
+		}
+	]
+}

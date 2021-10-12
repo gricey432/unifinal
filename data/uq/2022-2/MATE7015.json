@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CAD Essentials for Additive Manufacturing",
+			"weight": 10
+		},
+		{
+			"name": "Design Project Report",
+			"weight": 30
+		},
+		{
+			"name": "Video Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

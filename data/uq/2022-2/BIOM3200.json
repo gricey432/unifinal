@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning task 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Meta-learning task 3",
+			"weight": 2.5
+		},
+		{
+			"name": "Group Annotated Bibliography",
+			"weight": 7.5
+		},
+		{
+			"name": "Individual Bioethical Essay",
+			"weight": 20
+		},
+		{
+			"name": "Group Preliminary Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Individual Research Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Group Critical Appraisal",
+			"weight": 25
+		},
+		{
+			"name": "Individual Science Translation",
+			"weight": 40
+		}
+	]
+}

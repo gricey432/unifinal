@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical performance in fieldwork experience",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Client report",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "Job application assignment",
+			"weight": "15%                                        (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Oral Exam",
+			"weight": "30%                                        (MUST PASS)"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and active contribution",
+			"weight": 10
+		},
+		{
+			"name": "Review A  Commentary on a policy \"problem\"",
+			"weight": "20%                                        800 Words"
+		},
+		{
+			"name": "Review B - Commentary on a policy \"solution\"",
+			"weight": "20%                                        800 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        4000 words max"
+		}
+	]
+}

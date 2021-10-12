@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & procedures for professional experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Observation and analysis report",
+			"weight": "10%                                        1000 words"
+		},
+		{
+			"name": "Self-reflection Part A",
+			"weight": "5%                                        300 words"
+		},
+		{
+			"name": "Professional development \"byte\"",
+			"weight": 40
+		},
+		{
+			"name": "Field Experience Placement Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Self-reflection Part B",
+			"weight": "5%                                        300 words"
+		},
+		{
+			"name": "Evaluating a teaching program",
+			"weight": "40%                                        2500 words"
+		}
+	]
+}

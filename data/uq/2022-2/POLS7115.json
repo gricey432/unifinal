@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection-1 (800-1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Reflection-2 (800-1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Long Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

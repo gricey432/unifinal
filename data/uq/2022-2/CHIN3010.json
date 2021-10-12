@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HSK T1 in Week 1 and HSK T2 in Week 13 at lecture",
+			"weight": 5
+		},
+		{
+			"name": "Preview online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Test 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Test 2",
+			"weight": 15
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 35
+		}
+	]
+}

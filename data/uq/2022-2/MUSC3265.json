@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Recital",
+			"weight": 70
+		},
+		{
+			"name": "Video Performance and Reflective Writing",
+			"weight": 30
+		}
+	]
+}

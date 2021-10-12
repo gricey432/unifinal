@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policing DV Cyberviolence (750 words)",
+			"weight": 25
+		},
+		{
+			"name": "Policy Brief (600 words)",
+			"weight": 30
+		},
+		{
+			"name": "Intersection of law/policy & practice (3000 words)",
+			"weight": 45
+		}
+	]
+}

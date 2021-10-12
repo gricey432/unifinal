@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "OHS Initiative - Pitch",
+			"weight": 5
+		},
+		{
+			"name": "OHS Initiative - Business Case",
+			"weight": 30
+		},
+		{
+			"name": "OHS Initiative - Project Plan",
+			"weight": 15
+		},
+		{
+			"name": "OHS Initiative",
+			"weight": 10
+		},
+		{
+			"name": "Board Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Conference Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		}
+	]
+}

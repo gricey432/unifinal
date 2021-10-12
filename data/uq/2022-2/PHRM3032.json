@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Indigenous Health + Cultural Safety modules",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Written Exam",
+			"weight": 60
+		}
+	]
+}

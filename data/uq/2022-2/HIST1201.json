@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Outline and bibliography",
+			"weight": "20%                                        500 words plus bibliography"
+		},
+		{
+			"name": "Major Essay",
+			"weight": "50%                                        2000 words"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Take-Home Exam",
+			"weight": "20%                                        1000 words"
+		}
+	]
+}

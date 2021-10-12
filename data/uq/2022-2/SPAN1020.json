@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Engagement PADLET",
+			"weight": 10
+		},
+		{
+			"name": "Online Non-invigilated Revision Tasks",
+			"weight": "40%                                        4 x 10%"
+		},
+		{
+			"name": "Oral Video Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Individual Oral Interview (ONLINE)",
+			"weight": 35
+		}
+	]
+}

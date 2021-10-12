@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Engagement Activities",
+			"weight": 8
+		},
+		{
+			"name": "Online Quiz 1 (on Lecture topics 1, 2 & 3)",
+			"weight": 6
+		},
+		{
+			"name": "Draft of Applied Report",
+			"weight": "Formative"
+		},
+		{
+			"name": "Online Quiz 2 (on Lecture topics 4, 5, & 6)",
+			"weight": 6
+		},
+		{
+			"name": "Applied Report & Critical Essay",
+			"weight": 40
+		},
+		{
+			"name": "Online Quiz 3 (on Lecture topics 7, 8, & 9)",
+			"weight": 6
+		},
+		{
+			"name": "Group Presentations & Peer Assessment",
+			"weight": 28
+		},
+		{
+			"name": "Online Quiz 4 (on Lecture topics 10, 11, & 12)",
+			"weight": 6
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Assessment",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

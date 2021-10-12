@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Final Take Home Assessment",
+			"weight": 60
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Greek Grammar Exercises 17A-B",
+			"weight": 5
+		},
+		{
+			"name": "Reading Greek Grammar Exercises 17C-E",
+			"weight": 5
+		},
+		{
+			"name": "Herodotus Translation Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Scansion Exercises - Homer",
+			"weight": 5
+		},
+		{
+			"name": "Short Essay - Andokides",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

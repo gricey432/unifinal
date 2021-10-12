@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Journal Club participation and Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Practical Pre-Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Laboratory Practical Report",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Theory Exam (Online Invigilated)",
+			"weight": 22
+		},
+		{
+			"name": "End of Semester Theory Exam (Online Invigilated)",
+			"weight": 38
+		}
+	]
+}

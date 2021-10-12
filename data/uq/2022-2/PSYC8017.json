@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Active Engagement,development Logic Model;Readings",
+			"weight": 15
+		},
+		{
+			"name": "Report Closing the Gap: Submission to Qld Govt",
+			"weight": 45
+		},
+		{
+			"name": "Resource Handout & Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Handout and Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

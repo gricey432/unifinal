@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Managing a parent-related process issue",
+			"weight": 20
+		},
+		{
+			"name": "Transdiagnostic skills competency",
+			"weight": 30
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Reflection",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Clinical Examination",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

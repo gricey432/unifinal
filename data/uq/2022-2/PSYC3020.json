@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture participation points",
+			"weight": 10
+		},
+		{
+			"name": "10 online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Main assignment - test development proposal",
+			"weight": "40%                                        Reasonable attempt required to pass the course"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Written assignment",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online quizzes",
+			"weight": "Catch up quizzes can be completed via Blackboard."
+		},
+		{
+			"name": "Lecture Participation Points & Tutorial Worksheets",
+			"weight": "Alternative assessments can be completed via Blackboard."
+		}
+	]
+}

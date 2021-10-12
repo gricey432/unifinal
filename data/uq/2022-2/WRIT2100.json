@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PREPARATION AND PARTICIPATION",
+			"weight": 10
+		},
+		{
+			"name": "POETRY EXERCISES",
+			"weight": "20%                                        4 poems"
+		},
+		{
+			"name": "POEM EXPLICATION",
+			"weight": "25%                                        1000 words"
+		},
+		{
+			"name": "POETRY PORTFOLIO",
+			"weight": "45%                                        4 poems"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Standpoint/Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: Group Video Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Article for TheConversation.com",
+			"weight": 45
+		}
+	]
+}

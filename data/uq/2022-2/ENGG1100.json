@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Academic English Screening",
+			"weight": "compulsory"
+		},
+		{
+			"name": "Project Plan (Team)",
+			"weight": 5
+		},
+		{
+			"name": "Concept Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Milestone Oral Presentation (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Digital Engagement Portfolio(Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Demo Day (Internal) or Demo Video (External)",
+			"weight": 25
+		},
+		{
+			"name": "Final Report (Team)",
+			"weight": 30
+		}
+	]
+}

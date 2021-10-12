@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment#1: Reflective report",
+			"weight": 20
+		},
+		{
+			"name": "Concept-based assessment",
+			"weight": 40
+		},
+		{
+			"name": "Assessment#3: Design a nutrition program proposal",
+			"weight": 40
+		}
+	]
+}

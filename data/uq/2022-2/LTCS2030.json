@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Preparation and completion of weekly worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 30
+		}
+	]
+}

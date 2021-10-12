@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pandemic Response - Ethics Assignment",
+			"weight": 40
+		},
+		{
+			"name": "CBL Participation - Summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "CBL Participation - Formative",
+			"weight": "Provides formative feedback towards the summative CBL participation assessment"
+		},
+		{
+			"name": "End-Of-Semester Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Participation and Student Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "SEAL Reflections",
+			"weight": 100
+		}
+	]
+}

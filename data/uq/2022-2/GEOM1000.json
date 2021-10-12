@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 (Lectures and reading weeks 1-6)",
+			"weight": 15
+		},
+		{
+			"name": "Questions from Practicals 1-4",
+			"weight": 20
+		},
+		{
+			"name": "Questions from Practicals 5-8",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 2 (lectures and readings weeks 7-11)",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

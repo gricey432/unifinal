@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project 1",
+			"weight": 10
+		},
+		{
+			"name": "Group Project 2",
+			"weight": 15
+		},
+		{
+			"name": "Group Project 3",
+			"weight": 15
+		},
+		{
+			"name": "Group Project 4",
+			"weight": 15
+		},
+		{
+			"name": "Group Project 5",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

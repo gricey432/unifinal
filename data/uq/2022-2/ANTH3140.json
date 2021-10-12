@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical precis and class participation",
+			"weight": 40
+		},
+		{
+			"name": "Leading discussion and reflective write-up",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

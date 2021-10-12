@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Periodic Assessments",
+			"weight": "20%                                        (5% for each quiz)"
+		},
+		{
+			"name": "Research Project 1",
+			"weight": 15
+		},
+		{
+			"name": "Research Project 2",
+			"weight": 15
+		},
+		{
+			"name": "Research Project 3",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": 35
+		}
+	]
+}

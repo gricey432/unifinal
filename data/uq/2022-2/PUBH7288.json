@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Standpoint reflection",
+			"weight": "Pass/Not Pass  Hurdle"
+		},
+		{
+			"name": "Reflexivity Blog",
+			"weight": 10
+		},
+		{
+			"name": "Health Promotion and Planetary Health",
+			"weight": 40
+		},
+		{
+			"name": "Reflexivity in Research Blog",
+			"weight": 15
+		},
+		{
+			"name": "Advocacy Letter",
+			"weight": 35
+		}
+	]
+}

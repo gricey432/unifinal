@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes-to be completed before each lecture",
+			"weight": 5
+		},
+		{
+			"name": "Portfolio of blog reflections",
+			"weight": "30%                                        1500 words (excluding references)"
+		},
+		{
+			"name": "Group presentation (online)",
+			"weight": 15
+		},
+		{
+			"name": "Focused review of an applied linguistics text",
+			"weight": "20%                                        800 words (excluding references)"
+		},
+		{
+			"name": "Current issues in applied linguistics",
+			"weight": "30%                                        1200 words (excluding references)"
+		}
+	]
+}

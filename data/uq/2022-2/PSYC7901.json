@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Ripple Module Questions",
+			"weight": 10
+		},
+		{
+			"name": "Research Design Report",
+			"weight": 20
+		},
+		{
+			"name": "Research Project Report",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Ripple Study Questions",
+			"weight": "NA"
+		},
+		{
+			"name": "Research Design Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Project Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

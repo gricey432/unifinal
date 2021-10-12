@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Foundational material Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Investment Pitch (Group)",
+			"weight": 20
+		},
+		{
+			"name": "Investment Evaluation",
+			"weight": "55%                                        Hurdle"
+		},
+		{
+			"name": "Oral Examination",
+			"weight": "15%                                        Hurdle"
+		}
+	]
+}

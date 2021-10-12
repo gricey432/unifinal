@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz for weeks 1 to 7",
+			"weight": 15
+		},
+		{
+			"name": "Quality assurance and quality control quiz",
+			"weight": 10
+		},
+		{
+			"name": "Water quality sampling training",
+			"weight": 0
+		},
+		{
+			"name": "Online quiz for weeks 8 to 12",
+			"weight": 15
+		},
+		{
+			"name": "Field report",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

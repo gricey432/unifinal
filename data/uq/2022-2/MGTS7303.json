@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case analysis",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Simulation & Reflection Report I",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Simulation & Reflection Report II",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

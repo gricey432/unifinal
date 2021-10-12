@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "One Health critical review essay",
+			"weight": 30
+		},
+		{
+			"name": "Tutor assessment of case study achievement",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

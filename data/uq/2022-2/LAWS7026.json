@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment: Theory of corporate governance",
+			"weight": 50
+		},
+		{
+			"name": "Assignment: Corporate governance in practice",
+			"weight": 50
+		}
+	]
+}

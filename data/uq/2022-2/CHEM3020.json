@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 written assessments for 2 workshops",
+			"weight": 15
+		},
+		{
+			"name": "Poster preparation and presentation",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Reports",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

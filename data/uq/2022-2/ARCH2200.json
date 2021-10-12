@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Form-making Tasks",
+			"weight": 40
+		},
+		{
+			"name": "Final Presentation (Hurdle)",
+			"weight": 60
+		}
+	]
+}

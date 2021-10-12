@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Filmed Dialogue on Contemporary Ethi",
+			"weight": 25
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment 2: The ethics of Omelas",
+			"weight": 40
+		},
+		{
+			"name": "Online open-book exam",
+			"weight": 35
+		}
+	]
+}

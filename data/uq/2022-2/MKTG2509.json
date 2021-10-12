@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service Encounter Paper (Individual)",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Service Blueprint (Group)",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Analysis (Individual)",
+			"weight": "30%                                        1500 words"
+		}
+	]
+}

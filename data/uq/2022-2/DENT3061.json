@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Care Planning Case PowerPoint Presentation",
+			"weight": "15%                                        MUST PASS"
+		},
+		{
+			"name": "Medical Emergency Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Practice Performance - Clinical Logbook",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "50%                                        MUST PASS"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

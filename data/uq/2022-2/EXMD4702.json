@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Interim Supervisor's Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Final Supervisor's Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Self Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Self Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Case Study",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Minimum 180hrs Practicum in an approved setting",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

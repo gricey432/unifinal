@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial exercises",
+			"weight": "26%                                        Formative"
+		},
+		{
+			"name": "FactSage Cu smelting process design and lab. test",
+			"weight": "12%                                        Formative"
+		},
+		{
+			"name": "Pyrometallurgical metal/alloy process analysis",
+			"weight": "6%                                        Formative"
+		},
+		{
+			"name": "Final examination",
+			"weight": "56%                                        Summative, Hurdle"
+		}
+	]
+}

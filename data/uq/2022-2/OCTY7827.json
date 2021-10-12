@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "Group therapy protocol",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Sessional placement reflection",
+			"weight": "0%                                        Pass/Fail(MUST PASS)"
+		},
+		{
+			"name": "MSE quiz",
+			"weight": "10%                                        (MUST PASS)"
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": "35%                                        (MUST PASS)"
+		}
+	]
+}

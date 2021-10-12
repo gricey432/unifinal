@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review an Inquiry Unit of Work",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Investigate a Science Phenomenon",
+			"weight": "40%                                        3000 words"
+		},
+		{
+			"name": "Teaching a Science Concept",
+			"weight": "30%                                        1500 words"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "GAF dissection plan",
+			"weight": 5
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 5
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 5
+		},
+		{
+			"name": "GAF dissection final presentation",
+			"weight": 10
+		},
+		{
+			"name": "Histology exam: Musculoskeletal & Nervous systems",
+			"weight": 20
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 5
+		},
+		{
+			"name": "Module assessment item",
+			"weight": 5
+		},
+		{
+			"name": "Invigilated End of Semester Theory Exam",
+			"weight": 45
+		}
+	]
+}

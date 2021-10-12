@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "WHS Declaration",
+			"weight": "Course Pass/Fail"
+		},
+		{
+			"name": "Team Code of Ethics and Code of Conduct",
+			"weight": "Course Pass/Fail"
+		},
+		{
+			"name": "Team Progress Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Intermediate demo",
+			"weight": 20
+		},
+		{
+			"name": "Product Submission",
+			"weight": 65
+		},
+		{
+			"name": "Final Report",
+			"weight": 5
+		}
+	]
+}

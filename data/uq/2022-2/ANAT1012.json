@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Invigilated Theory exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": 50
+		}
+	]
+}

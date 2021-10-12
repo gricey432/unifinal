@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Formative in-class assessment",
+			"weight": 10
+		},
+		{
+			"name": "Session Rating Scales",
+			"weight": 20
+		},
+		{
+			"name": "Quality of Feedback Received",
+			"weight": 20
+		},
+		{
+			"name": "Take-home summative assessment",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Program Proposal, Reflection and Resource File",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		}
+	]
+}

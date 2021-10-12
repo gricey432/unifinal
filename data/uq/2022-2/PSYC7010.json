@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "DATA PREPERATION",
+			"weight": 15
+		},
+		{
+			"name": "DATA ANALYSIS",
+			"weight": 25
+		},
+		{
+			"name": "DATA REPORTING",
+			"weight": 35
+		},
+		{
+			"name": "CONSIDERATIONS OF WORKING WITH ORGANISATIONAL DATA",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "All assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

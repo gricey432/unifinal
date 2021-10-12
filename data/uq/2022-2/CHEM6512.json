@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": "12.5%                                        2 unit equivalent"
+		},
+		{
+			"name": "Advanced Coursework",
+			"weight": "12.5%                                        2 unit equivalent"
+		},
+		{
+			"name": "Draft Research Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Report & Research Performance",
+			"weight": "62.5%                                        10 unit equivalent"
+		},
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Seminar",
+			"weight": "12.5%                                        2 unit equivalent"
+		}
+	]
+}

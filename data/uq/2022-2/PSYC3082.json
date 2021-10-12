@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Role-play Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Self-practice Self-reflection Self-care Portfolio1",
+			"weight": 9
+		},
+		{
+			"name": "Quiz I",
+			"weight": 19
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 36
+		},
+		{
+			"name": "Quiz II",
+			"weight": 19
+		},
+		{
+			"name": "Self-practice Self-reflection Self-care Portfolio2",
+			"weight": 7
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Reflection",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Portfolios",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

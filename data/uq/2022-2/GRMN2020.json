@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Test",
+			"weight": 15
+		},
+		{
+			"name": "\"Good Bye Lenin!\"",
+			"weight": 25
+		},
+		{
+			"name": "Translation Test",
+			"weight": 30
+		},
+		{
+			"name": "Oral Interview",
+			"weight": 30
+		}
+	]
+}

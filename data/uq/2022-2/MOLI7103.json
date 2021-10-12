@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Emission tomography QUIZ",
+			"weight": 15
+		},
+		{
+			"name": "Magnetic Resonance QUIZ",
+			"weight": 10
+		},
+		{
+			"name": "Probes and multi-modality imaging",
+			"weight": 10
+		},
+		{
+			"name": "Case study presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

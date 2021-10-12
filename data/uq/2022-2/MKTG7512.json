@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case study",
+			"weight": 40
+		},
+		{
+			"name": "Online Blackboard exam",
+			"weight": 60
+		}
+	]
+}

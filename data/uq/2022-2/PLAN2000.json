@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay on the future of Salisbury(Individual)",
+			"weight": 40
+		},
+		{
+			"name": "Online quiz (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Regeneration Plan (Group work)",
+			"weight": 10
+		},
+		{
+			"name": "Regeneration Plan (Group work)",
+			"weight": 30
+		}
+	]
+}

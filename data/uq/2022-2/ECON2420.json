@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written answers to set of problems and exercises.",
+			"weight": 50
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

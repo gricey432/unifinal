@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study on dam failure",
+			"weight": 20
+		},
+		{
+			"name": "Assignment on seepage and stability of dams",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

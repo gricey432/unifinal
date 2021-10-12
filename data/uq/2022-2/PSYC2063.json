@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Analyses in tutorial",
+			"weight": "10%                                        Ten analyses worth 1% each"
+		},
+		{
+			"name": "End of Lecture Quizzes",
+			"weight": "60%                                        Best 10 of 11 quizzes worth 6% each"
+		},
+		{
+			"name": "Data collection and submission",
+			"weight": "10%                                        Nine submissions worth 1% each + 1%."
+		},
+		{
+			"name": "Design & conduct your own research project",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lab Data Collection and Submission",
+			"weight": "See blackboard page for tutor contact details"
+		},
+		{
+			"name": "In-Class Quiz",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": "See blackboard page for tutor contact details."
+		},
+		{
+			"name": "Project Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

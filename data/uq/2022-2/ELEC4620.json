@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 13.3
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 13.3
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 13.3
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

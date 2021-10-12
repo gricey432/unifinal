@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing task 1: Seminar responses",
+			"weight": 40
+		},
+		{
+			"name": "Writing task 2: Audio scripts",
+			"weight": 20
+		},
+		{
+			"name": "Participation and Presentation Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Podcast Audio",
+			"weight": 20
+		}
+	]
+}

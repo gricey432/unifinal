@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "'Wicked problem'",
+			"weight": 30
+		},
+		{
+			"name": "Seminar session: 'Public arenas'",
+			"weight": 40
+		},
+		{
+			"name": "Essay and reflection",
+			"weight": 30
+		}
+	]
+}

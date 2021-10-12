@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of Reflections",
+			"weight": "30%                                        600-700 words per entry X4"
+		},
+		{
+			"name": "Peer Review of Presentations",
+			"weight": 5
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Reflective Research Essay",
+			"weight": "40%                                        2500 Words"
+		}
+	]
+}

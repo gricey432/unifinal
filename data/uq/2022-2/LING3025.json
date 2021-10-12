@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Language, History and Kinship",
+			"weight": 10
+		},
+		{
+			"name": "Sounds and Lexicon",
+			"weight": 15
+		},
+		{
+			"name": "Nominals (incl pronouns)",
+			"weight": 15
+		},
+		{
+			"name": "Complex predicates",
+			"weight": 15
+		},
+		{
+			"name": "Syntax",
+			"weight": 15
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 30
+		}
+	]
+}

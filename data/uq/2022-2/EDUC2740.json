@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Hurdle requirement: Workshop prep & participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "1Policies & Procedures for Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "2 Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "3 Building a portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "4 Literacy and numeracy report",
+			"weight": "Pass/Fail"
+		}
+	]
+}

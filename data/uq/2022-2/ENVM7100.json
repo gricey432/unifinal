@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Conference Presentations",
+			"weight": 20
+		},
+		{
+			"name": "Participation in Practicals' Activities",
+			"weight": 9
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Sustainable Development Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Final Online Examination",
+			"weight": 40
+		}
+	]
+}

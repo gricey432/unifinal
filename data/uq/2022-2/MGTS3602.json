@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "In-tutorial activities - exercises & case studies",
+			"weight": 50
+		},
+		{
+			"name": "Case Analysis in Conflict & Conflict Management",
+			"weight": 50
+		}
+	]
+}

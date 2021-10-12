@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mapping Exercise",
+			"weight": 25
+		},
+		{
+			"name": "Question Authoring and Answering via RiPPLE",
+			"weight": 20
+		},
+		{
+			"name": "Field Data Report",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 25
+		}
+	]
+}

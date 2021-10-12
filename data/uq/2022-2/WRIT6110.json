@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Synopsis",
+			"weight": 10
+		},
+		{
+			"name": "Active engagement in online workshop",
+			"weight": 30
+		},
+		{
+			"name": "First chapter of your novel",
+			"weight": 60
+		}
+	]
+}

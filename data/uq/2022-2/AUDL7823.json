@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Decoding Hearing Aid Features",
+			"weight": 30
+		},
+		{
+			"name": "End of semester",
+			"weight": "70%                                        (MUST PASS)"
+		}
+	]
+}

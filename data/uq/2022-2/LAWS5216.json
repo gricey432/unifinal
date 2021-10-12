@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Take Home Assessment",
+			"weight": 70
+		},
+		{
+			"name": "Court Visit and Report",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "FlipGrid assessment 1",
+			"weight": 20
+		},
+		{
+			"name": "Flipgrid assessment 2",
+			"weight": 30
+		},
+		{
+			"name": "(School Based)Final Oral Interview",
+			"weight": 50
+		}
+	]
+}

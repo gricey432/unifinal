@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: online quiz",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 2: case study report",
+			"weight": 49
+		},
+		{
+			"name": "Assessment 3: case study presentation",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4: Employability Framework Reflection",
+			"weight": 1
+		}
+	]
+}

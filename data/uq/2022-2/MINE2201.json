@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Commodity Assignment - (individual)",
+			"weight": 15
+		},
+		{
+			"name": "Safety Inductions (individual)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual lab report and attendance (individual)",
+			"weight": 16
+		},
+		{
+			"name": "Commodity Assignment - team oral presentation",
+			"weight": 4
+		},
+		{
+			"name": "Final Examination",
+			"weight": "55%                                        Hurdle 45%"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project management",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Asset management",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Procurement in Practice",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Costing and Pricing",
+			"weight": "20%                                        Individual"
+		}
+	]
+}

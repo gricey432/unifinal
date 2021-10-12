@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Plant hormone experiment report",
+			"weight": 15
+		},
+		{
+			"name": "Plant-Environment Experiment",
+			"weight": 15
+		},
+		{
+			"name": "Plant Biogeography",
+			"weight": 7.5
+		},
+		{
+			"name": "QuestaGame - find, upload, identify plants",
+			"weight": 7.5
+		},
+		{
+			"name": "Mid Semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Plant disease herbarium sheet",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": "25%                                        Hurdle 50% required to pass course"
+		}
+	]
+}

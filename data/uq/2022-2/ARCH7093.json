@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 01",
+			"weight": 40
+		},
+		{
+			"name": "A02 - Diagram of Spatial Analysis",
+			"weight": 60
+		}
+	]
+}

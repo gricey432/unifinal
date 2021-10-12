@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Title will be supplied at the start of semester",
+			"weight": 25
+		},
+		{
+			"name": "Employability reflection",
+			"weight": 1
+		},
+		{
+			"name": "Questions relating to the practical classes",
+			"weight": 24
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

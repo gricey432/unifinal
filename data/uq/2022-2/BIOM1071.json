@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirement at PASS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Minimum participation requirement at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz 1 - Module 1",
+			"weight": 6
+		},
+		{
+			"name": "Quiz 2 - Module 2",
+			"weight": 6
+		},
+		{
+			"name": "Quiz 3 - Module 3",
+			"weight": 6
+		},
+		{
+			"name": "Quiz 4 - Modules 4 & 5",
+			"weight": 6
+		},
+		{
+			"name": "Mid-Semester Theory Exam (Online Invigilated)",
+			"weight": 26
+		},
+		{
+			"name": "End of Semester Theory Exam (Online Invigilated)",
+			"weight": 50
+		}
+	]
+}

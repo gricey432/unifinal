@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Summary",
+			"weight": 15
+		},
+		{
+			"name": "Beef cattle, sheep, or goats",
+			"weight": 50
+		},
+		{
+			"name": "Practical attendance and participation",
+			"weight": 35
+		}
+	]
+}

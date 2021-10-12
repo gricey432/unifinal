@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quiz Completion",
+			"weight": 10
+		},
+		{
+			"name": "In My Blood It Runs",
+			"weight": 40
+		},
+		{
+			"name": "Personal and Reflective Essay",
+			"weight": 50
+		}
+	]
+}

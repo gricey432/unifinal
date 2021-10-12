@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Debate Essay",
+			"weight": 30
+		},
+		{
+			"name": "Class Participation and Summary of Online Material",
+			"weight": 10
+		},
+		{
+			"name": "Final Essay",
+			"weight": 60
+		}
+	]
+}

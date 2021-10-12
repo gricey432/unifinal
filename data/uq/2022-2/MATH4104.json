@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 12
+		},
+		{
+			"name": "12-hour document upload non-invigilated assignment",
+			"weight": 40
+		},
+		{
+			"name": "Project 1",
+			"weight": 12
+		},
+		{
+			"name": "Project 2",
+			"weight": 12
+		}
+	]
+}

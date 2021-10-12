@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Weekly Quiz",
+			"weight": 50
+		},
+		{
+			"name": "Political speech",
+			"weight": 30
+		},
+		{
+			"name": "Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Grade cut-offs:",
+			"weight": ""
+		},
+		{
+			"name": "1: 0-24%",
+			"weight": ""
+		}
+	]
+}

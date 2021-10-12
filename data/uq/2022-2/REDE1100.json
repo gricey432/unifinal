@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Presentation",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Professional Residential Valuation Report",
+			"weight": "30%                                        3000 Words"
+		},
+		{
+			"name": "Exam",
+			"weight": "50%                                        Individual; 1 hour"
+		}
+	]
+}

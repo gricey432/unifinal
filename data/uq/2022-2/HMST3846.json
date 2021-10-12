@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Statistical Analysis Exam",
+			"weight": 20
+		},
+		{
+			"name": "Qualitative Research Assignment",
+			"weight": 30
+		},
+		{
+			"name": "MCQ Statistics Exam",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 40
+		}
+	]
+}

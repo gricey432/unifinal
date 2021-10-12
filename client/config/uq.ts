@@ -30,6 +30,7 @@ export const uq: Config = {
         {id: "2020-1", name: "Semester 1, 2020"},
         {id: "2020-2", name: "Semester 2, 2020"},
         {id: "2021-1", name: "Semester 1, 2021"},
+        {id: "2021-2", name: "Semester 2, 2021"},
     ],
     defaultCutoffs: [0, 30, 45, 50, 65, 75, 85],
 };

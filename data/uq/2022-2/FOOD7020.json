@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Process Reports (5)",
+			"weight": 60
+		},
+		{
+			"name": "Group Practical Reports (5)",
+			"weight": 40
+		}
+	]
+}

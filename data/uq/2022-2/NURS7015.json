@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal on competence against Standards",
+			"weight": 20
+		},
+		{
+			"name": "Clinical Assessment against ACMHN Standards",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 Reflective Journal",
+			"weight": 50
+		}
+	]
+}

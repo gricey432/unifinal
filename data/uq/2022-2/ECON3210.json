@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "CML #1",
+			"weight": 5
+		},
+		{
+			"name": "CML #2",
+			"weight": 5
+		},
+		{
+			"name": "Take home assignment #1",
+			"weight": 40
+		},
+		{
+			"name": "CML #3",
+			"weight": 5
+		},
+		{
+			"name": "CML #4",
+			"weight": 5
+		},
+		{
+			"name": "Take home assignment #2",
+			"weight": 40
+		}
+	]
+}

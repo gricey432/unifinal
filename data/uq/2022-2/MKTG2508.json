@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Brand Inventory Report",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Mid-semester exam (online)",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Brand Audit",
+			"weight": "45%                                        Team/Individual"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ASSIGNMENT 1.1: Literature review - Participation",
+			"weight": 20
+		},
+		{
+			"name": "ASSIGNMENT 2.1: Presentation and debate",
+			"weight": 20
+		},
+		{
+			"name": "ASSIGNMENT 1.2: Lit review - Social movements",
+			"weight": 20
+		},
+		{
+			"name": "ASSIGNMENT 2.2: Case study report",
+			"weight": 40
+		}
+	]
+}

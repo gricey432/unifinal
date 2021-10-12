@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Basic concept quiz (1)",
+			"weight": 25
+		},
+		{
+			"name": "Procedure video presentation",
+			"weight": 10
+		},
+		{
+			"name": "Procedure writeup and application report",
+			"weight": 15
+		},
+		{
+			"name": "Basic concept quiz(2)",
+			"weight": 25
+		}
+	]
+}

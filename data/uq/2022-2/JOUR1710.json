@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Observation task",
+			"weight": 20
+		},
+		{
+			"name": "Response to stimulus piece",
+			"weight": 30
+		},
+		{
+			"name": "Major news investigation",
+			"weight": 50
+		}
+	]
+}

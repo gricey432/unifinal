@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Critical Response",
+			"weight": "30%                                        1500 Words"
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": "30%                                        1500 Words"
+		},
+		{
+			"name": "Case Study",
+			"weight": "40%                                        2000 Words"
+		}
+	]
+}

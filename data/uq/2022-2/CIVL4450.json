@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participating in Learning Activities",
+			"weight": 5
+		},
+		{
+			"name": "Macroscopic modelling",
+			"weight": 20
+		},
+		{
+			"name": "Car following modelling",
+			"weight": 20
+		},
+		{
+			"name": "Problem solving",
+			"weight": 20
+		},
+		{
+			"name": "Modelling Connected and Automated Vehicles",
+			"weight": 20
+		},
+		{
+			"name": "Modelling Connected and Automated Vehicles",
+			"weight": 15
+		}
+	]
+}

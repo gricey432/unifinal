@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Part A",
+			"weight": 10
+		},
+		{
+			"name": "Assignment Composite Mechanics",
+			"weight": 15
+		},
+		{
+			"name": "Project Part B",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

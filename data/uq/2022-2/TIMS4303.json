@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Week 3 checkpoint",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research project outline",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Week 6 checkpoint",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Colloquium",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 70
+		},
+		{
+			"name": "Research Journal",
+			"weight": 20
+		}
+	]
+}

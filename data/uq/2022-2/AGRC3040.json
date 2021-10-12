@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "APSIM (W2 practical)",
+			"weight": 5
+		},
+		{
+			"name": "APSIM flowering (W3 practical)",
+			"weight": 5
+		},
+		{
+			"name": "Photosyn calc (W5 practical)",
+			"weight": 5
+		},
+		{
+			"name": "Leaf area, light interception and RUE",
+			"weight": 15
+		},
+		{
+			"name": "Course concepts",
+			"weight": 10
+		},
+		{
+			"name": "Crop growth rate, grain number and grain size",
+			"weight": 15
+		},
+		{
+			"name": "APSIM farm (W11 practical)",
+			"weight": 5
+		},
+		{
+			"name": "Final exam On Campus",
+			"weight": 40
+		}
+	]
+}

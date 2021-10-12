@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Work Placement",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "LinkedIn profile and Workplan",
+			"weight": 35
+		},
+		{
+			"name": "JOB APPLICATION CV AND SELECTION CRITERIA",
+			"weight": 35
+		},
+		{
+			"name": "Mentor Interview and reflection",
+			"weight": 30
+		}
+	]
+}

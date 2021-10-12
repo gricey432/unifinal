@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MEDIA ETHICS",
+			"weight": 30
+		},
+		{
+			"name": "SOCIAL MEDIA MIS-INFORMATION & DIS-INFORMATION",
+			"weight": 30
+		},
+		{
+			"name": "MEDIA LAW",
+			"weight": 40
+		}
+	]
+}

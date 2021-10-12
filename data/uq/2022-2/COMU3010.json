@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly in class quiz",
+			"weight": 25
+		},
+		{
+			"name": "Oral chapter summary",
+			"weight": 15
+		},
+		{
+			"name": "Oral review",
+			"weight": 15
+		},
+		{
+			"name": "Research report",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "HW1 (pairs)",
+			"weight": 15
+		},
+		{
+			"name": "HW2 (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Project 1 (individual)",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 (pairs)",
+			"weight": 20
+		},
+		{
+			"name": "Project 3 (individual)",
+			"weight": 20
+		}
+	]
+}

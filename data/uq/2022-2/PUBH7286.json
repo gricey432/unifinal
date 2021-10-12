@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Brief qualitative research proposal",
+			"weight": 35
+		},
+		{
+			"name": "In-depth interview and data analysis",
+			"weight": 50
+		},
+		{
+			"name": "Critical discussion qualitative research article",
+			"weight": 15
+		}
+	]
+}

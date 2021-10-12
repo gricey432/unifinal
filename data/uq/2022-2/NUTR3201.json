@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment in nutrition science",
+			"weight": 25
+		},
+		{
+			"name": "Report 1",
+			"weight": 5
+		},
+		{
+			"name": "Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Report 3",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Test Topics 1-3",
+			"weight": 20
+		},
+		{
+			"name": "Markets in Action",
+			"weight": 35
+		},
+		{
+			"name": "Final Examination - Online Exam",
+			"weight": 45
+		}
+	]
+}

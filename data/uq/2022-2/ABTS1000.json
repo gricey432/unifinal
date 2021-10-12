@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Article/Text Analysis 1",
+			"weight": 20
+		},
+		{
+			"name": "Article/Text Analysis 2",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 2-Short Answer Quiz (Online)",
+			"weight": 10
+		},
+		{
+			"name": "Major Critical Essay",
+			"weight": 40
+		}
+	]
+}

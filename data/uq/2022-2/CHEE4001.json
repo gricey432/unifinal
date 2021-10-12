@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Team work and contribution",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Team Charter",
+			"weight": "Compulsory, Counts to Team Work and Contribution Assessment"
+		},
+		{
+			"name": "Report 1 Conceptual Feasibility Study",
+			"weight": 15
+		},
+		{
+			"name": "Meta-learning and self-assessment",
+			"weight": "Compulsory, Counts to Team Work and Contribution Assessment"
+		},
+		{
+			"name": "Report 2 Process Development Report",
+			"weight": 40
+		},
+		{
+			"name": "Final presentation",
+			"weight": 5
+		},
+		{
+			"name": "Report 3 Detailed Design Report",
+			"weight": 40
+		},
+		{
+			"name": "HAZOP activity for plant design",
+			"weight": "Hurdle"
+		}
+	]
+}

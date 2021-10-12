@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-lecture quiz",
+			"weight": 10
+		},
+		{
+			"name": "Weekly tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Practical reports",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

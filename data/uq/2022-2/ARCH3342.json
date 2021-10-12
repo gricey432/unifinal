@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Snapshot of practice - stage 1",
+			"weight": "10%                                        group"
+		},
+		{
+			"name": "Preparation for practice - stage 1",
+			"weight": 30
+		},
+		{
+			"name": "Snapshot of practice - final",
+			"weight": "30%                                        group"
+		},
+		{
+			"name": "Preparation for practice - final",
+			"weight": "30%                                        Hurdle"
+		}
+	]
+}

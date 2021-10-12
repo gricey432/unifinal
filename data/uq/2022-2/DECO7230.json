@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Ideation of Prototypes (minimum 3)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Finalize Prototype I Idea",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Prototype Suite",
+			"weight": "See Prototypes I, II, III"
+		},
+		{
+			"name": "Interactive Prototype I",
+			"weight": 25
+		},
+		{
+			"name": "Interactive Prototype II",
+			"weight": 25
+		},
+		{
+			"name": "Interactive Prototype III",
+			"weight": 25
+		},
+		{
+			"name": "Learning Reflection",
+			"weight": 25
+		}
+	]
+}

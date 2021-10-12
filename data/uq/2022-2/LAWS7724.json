@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper Outline",
+			"weight": 25
+		},
+		{
+			"name": "Research Paper",
+			"weight": 65
+		}
+	]
+}

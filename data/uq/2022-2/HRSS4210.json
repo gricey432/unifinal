@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Set Presentation",
+			"weight": "15%                                        Individual Mark - MUST PASS"
+		},
+		{
+			"name": "Pass/Fail requirements",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Set report workbook",
+			"weight": "15%                                        Individual Mark"
+		},
+		{
+			"name": "Exam Week 6",
+			"weight": "30%                                        Individual Mark - MUST PASS"
+		},
+		{
+			"name": "Conference Abstract and Presentation",
+			"weight": "40%                                        Group Mark"
+		},
+		{
+			"name": "Project Outcome - Clinician Rating",
+			"weight": "Pass/Fail Group Mark - MUST PASS"
+		}
+	]
+}

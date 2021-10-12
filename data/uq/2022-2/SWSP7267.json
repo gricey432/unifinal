@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Core Concepts of Family Therapy",
+			"weight": "25%                                        1500 words (500 words per essay)"
+		},
+		{
+			"name": "The Experience of Family",
+			"weight": "25%                                        1500 words"
+		},
+		{
+			"name": "Structured Case Analysis",
+			"weight": "50%                                        2000 words + process report"
+		}
+	]
+}

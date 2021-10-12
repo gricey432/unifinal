@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Task A: Knowledge quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Assessment Task B: Weekly Participation Activities",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task C: Inquiry Sequence 1",
+			"weight": 35
+		},
+		{
+			"name": "Task D: Inquiry Sequence 2",
+			"weight": 40
+		}
+	]
+}

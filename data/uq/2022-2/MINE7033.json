@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and Learning Journal",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Risk Management Analysis Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Design a Risk Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Critical Risk Analysis",
+			"weight": 30
+		}
+	]
+}

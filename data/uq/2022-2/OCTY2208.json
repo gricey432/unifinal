@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Part 1 - Assignment",
+			"weight": "40%                                        (MUST PASS)"
+		},
+		{
+			"name": "Case Study Part 2 - Oral Examination",
+			"weight": "35%                                        (MUST PASS)"
+		},
+		{
+			"name": "Infant Simulation Fieldwork",
+			"weight": "25%                                        (MUST PASS)"
+		},
+		{
+			"name": "IPCP assessment",
+			"weight": "PASS/FAIL (MUST PASS)"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to online discussions",
+			"weight": 10
+		},
+		{
+			"name": "Introduction to Action Research",
+			"weight": 15
+		},
+		{
+			"name": "Development of Action Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Action Research Project",
+			"weight": 55
+		}
+	]
+}

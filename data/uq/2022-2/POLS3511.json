@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading summary",
+			"weight": 11
+		},
+		{
+			"name": "How to make a video and audio presentation",
+			"weight": 9
+		},
+		{
+			"name": "Audio or video case presentation(3-5 minutes long)",
+			"weight": 15
+		},
+		{
+			"name": "Conflict Analysis (2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Peacebuilding Policy Proposal (1500 words)",
+			"weight": 25
+		}
+	]
+}

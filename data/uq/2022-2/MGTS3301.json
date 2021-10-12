@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Management Team Meetings",
+			"weight": "30%                                        Groupwork"
+		},
+		{
+			"name": "Politics of Organisational Structure",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Myself as Strategist",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

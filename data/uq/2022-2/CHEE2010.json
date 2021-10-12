@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Online Lab OH&S training",
+			"weight": "Compulsory - hurdle"
+		},
+		{
+			"name": "Practical 1: Uncertainty measurement",
+			"weight": "10%                                        Group"
+		},
+		{
+			"name": "Mid-semester online quiz",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Practical 2: Dissolved oxygen",
+			"weight": "10%                                        Group"
+		},
+		{
+			"name": "Peer assessment for practical group reports",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Capstone experimental plan",
+			"weight": "5%                                        Group"
+		},
+		{
+			"name": "Capstone final report",
+			"weight": "15%                                        Group"
+		},
+		{
+			"name": "Peer assessment for capstone reports",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Final examination",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

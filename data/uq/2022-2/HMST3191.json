@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 40
+		},
+		{
+			"name": "Working with First Nations Communities",
+			"weight": 20
+		},
+		{
+			"name": "Essay: Working with First Nations People",
+			"weight": 40
+		}
+	]
+}

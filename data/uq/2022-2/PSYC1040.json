@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "11 Weekly Quizzes",
+			"weight": 67
+		},
+		{
+			"name": "11 Workshop Problem Sets",
+			"weight": 33
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial",
+			"weight": 10
+		},
+		{
+			"name": "Individual learning log",
+			"weight": 10
+		},
+		{
+			"name": "Short Essay",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Long Essay",
+			"weight": "50%                                        2000 words"
+		}
+	]
+}

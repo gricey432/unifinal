@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz covering renal lecture content",
+			"weight": 3
+		},
+		{
+			"name": "Quiz covering GIT lecture content",
+			"weight": 3
+		},
+		{
+			"name": "Quiz covering Pharmacology and QUM lecture content",
+			"weight": 3
+		},
+		{
+			"name": "Quiz covering Repro, CV and Respir lecture content",
+			"weight": 3
+		},
+		{
+			"name": "Quiz covering Immun/Inflamm/Opiod lecture content",
+			"weight": 3
+		},
+		{
+			"name": "Selected Pathology & Treatment Patient Poster",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Theory Exam (Online Invigilated)",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 45
+		}
+	]
+}

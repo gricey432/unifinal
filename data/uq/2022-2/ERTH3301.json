@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly computer-based exercises",
+			"weight": 30
+		},
+		{
+			"name": "Exploratory data analysis and QA/QC",
+			"weight": 15
+		},
+		{
+			"name": "Build  a 3D geological model in Micromine",
+			"weight": 15
+		},
+		{
+			"name": "ASX Market Release",
+			"weight": 40
+		}
+	]
+}

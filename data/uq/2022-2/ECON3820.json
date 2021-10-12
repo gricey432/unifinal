@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Alternative views on China",
+			"weight": 30
+		},
+		{
+			"name": "Workbook",
+			"weight": "30%                                        1800 words or equivalent"
+		},
+		{
+			"name": "Final exam",
+			"weight": "40%                                        2 hours"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis of NPD/NSD Case study",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Analysis of NPD/NSD as per research evidence",
+			"weight": 35
+		},
+		{
+			"name": "Final exam (on line) during exams period",
+			"weight": 45
+		}
+	]
+}

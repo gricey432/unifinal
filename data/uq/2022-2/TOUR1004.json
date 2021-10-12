@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism industry economic presentation",
+			"weight": "30%                                        Team"
+		},
+		{
+			"name": "Online exam",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Tourism economic project",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

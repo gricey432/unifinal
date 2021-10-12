@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard quizzes for learning modules 1 to 4",
+			"weight": 45
+		},
+		{
+			"name": "AGRC2030 Final exam",
+			"weight": 55
+		}
+	]
+}

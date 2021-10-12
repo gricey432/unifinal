@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Wastewater Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Wastewater Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Solid waste quiz",
+			"weight": 5
+		},
+		{
+			"name": "Solid waste assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final exam (open book)",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

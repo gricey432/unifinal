@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cybercrime and Organised Crime Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Terrorism and Enviro/Geopolitical Threats Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

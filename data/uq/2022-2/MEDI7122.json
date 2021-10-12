@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical coaching examination (CCE)",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Medical interview with simulated patient & review",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Care of the Deteriorating Patient (CDP) OLA",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Summative",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Nutrition Masterclass OLA",
+			"weight": "Performance hurdle"
+		}
+	]
+}

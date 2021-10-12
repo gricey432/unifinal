@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop participation points",
+			"weight": 10
+		},
+		{
+			"name": "Course workbook",
+			"weight": 20
+		},
+		{
+			"name": "First submission of assignment",
+			"weight": 35
+		},
+		{
+			"name": "Video assignment",
+			"weight": 10
+		},
+		{
+			"name": "Second submission of assignment with cover letter",
+			"weight": 25
+		},
+		{
+			"name": "Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Course Workbook",
+			"weight": "The link to submit a declaration regarding your reason for lateness can be found in the PSYC4191 Blackboard site (Assessment - Workbook)."
+		},
+		{
+			"name": "Two submissions of the written assignment",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Video Assignment",
+			"weight": "Email Mark Horswill (m.horswill@psy.uq.edu.au)"
+		}
+	]
+}

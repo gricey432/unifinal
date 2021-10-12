@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-depth exploration of a topic",
+			"weight": 50
+		},
+		{
+			"name": "Short Essay",
+			"weight": 30
+		},
+		{
+			"name": "Prep. for and participation in Zoom Tutorials",
+			"weight": 20
+		}
+	]
+}

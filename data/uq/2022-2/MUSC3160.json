@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Repertoire Folio",
+			"weight": 30
+		},
+		{
+			"name": "Stylistic Study",
+			"weight": 25
+		},
+		{
+			"name": "Conducting Task peer assessed",
+			"weight": 20
+		},
+		{
+			"name": "Final Conducting",
+			"weight": 25
+		}
+	]
+}

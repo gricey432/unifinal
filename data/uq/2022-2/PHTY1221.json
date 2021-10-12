@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection 1 & 2",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Practical Exam Cardiovascular System",
+			"weight": "20%                                        (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": "30%                                        (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": "30%                                        (MUST PASS)"
+		}
+	]
+}

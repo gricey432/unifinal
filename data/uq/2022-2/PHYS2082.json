@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Quizzes",
+			"weight": "Must complete 75 per cent (9/12) of quizzes to pass the course."
+		},
+		{
+			"name": "In-class Test 1",
+			"weight": 10
+		},
+		{
+			"name": "In-class Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Mystery Planet Part 1",
+			"weight": 15
+		},
+		{
+			"name": "In-class Test 3",
+			"weight": 10
+		},
+		{
+			"name": "Mystery Planet Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

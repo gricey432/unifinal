@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Enterprise Visits - INTERNAL STUDENTS ONLY",
+			"weight": 30
+		},
+		{
+			"name": "Sustainable Agriculture",
+			"weight": 25
+		},
+		{
+			"name": "Sustainable Agricultural Prodn - EXTERNAL ONLY",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Exam - RC",
+			"weight": "0%                                        Formative Feedback only"
+		},
+		{
+			"name": "Reinforced Concrete Design",
+			"weight": "60%                                        Summative"
+		},
+		{
+			"name": "Concrete Practical - Participation & Report",
+			"weight": "Pass/Fail Failure to complete the Laboratory will lead to a grade of 2"
+		},
+		{
+			"name": "Concrete Technology Quiz",
+			"weight": "5%                                        Formative & Summative"
+		},
+		{
+			"name": "Concrete Technology",
+			"weight": 25
+		},
+		{
+			"name": "Reinforced Concrete Design Assignment",
+			"weight": "10%                                        Summative"
+		}
+	]
+}

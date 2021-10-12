@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation Exam",
+			"weight": "25%                                        Pass/Fail"
+		},
+		{
+			"name": "Confidentiality Statement + Patient Rights",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Agreed Placement Attendance Sheet",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Hospital Placement Attendance (or Hospital Module)",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Community Placement Attendance & Evaluation",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Five (5) Reflective Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Dispensing Examination",
+			"weight": "10%                                        Pass/Fail"
+		},
+		{
+			"name": "Written EOS Examination",
+			"weight": "45%                                        Pass/Fail"
+		}
+	]
+}

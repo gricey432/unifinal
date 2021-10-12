@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Cumulative Research Project: Group Presentations",
+			"weight": 40
+		},
+		{
+			"name": "Major Research Project",
+			"weight": 60
+		}
+	]
+}

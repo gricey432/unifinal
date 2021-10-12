@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation material quiz and activities",
+			"weight": 10
+		},
+		{
+			"name": "Short role-play presentations",
+			"weight": 10
+		},
+		{
+			"name": "Critical Discussion Paper",
+			"weight": "40%                                        Hurdle"
+		},
+		{
+			"name": "Group Project",
+			"weight": 40
+		},
+		{
+			"name": "Group Project PAF",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

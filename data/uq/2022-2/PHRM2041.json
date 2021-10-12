@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Drug Analysis: Laboratory Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Drug Analysis: Online Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Drug Analysis: Online Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Drug Analysis: Laboratory Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Drug Analysis: Sports Doping Analytical Report",
+			"weight": "20%                                        Hurdle"
+		},
+		{
+			"name": "EOS Online Open-Book Exam (non-invigilated)",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

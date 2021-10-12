@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Based Learning: Identification",
+			"weight": "35%                                        Max. 3000 words"
+		},
+		{
+			"name": "Problem Based Learning: Assessment",
+			"weight": "35%                                        Max. 3000 words"
+		},
+		{
+			"name": "Problem Based Learning: Intervention",
+			"weight": "30%                                        Max. 3000 words"
+		}
+	]
+}

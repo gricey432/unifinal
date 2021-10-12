@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Industry Case",
+			"weight": 50
+		},
+		{
+			"name": "Professional Development",
+			"weight": 25
+		}
+	]
+}

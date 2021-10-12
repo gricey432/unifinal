@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 10
+		},
+		{
+			"name": "Pharmacology of ileum contractions",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Theory Exam (Online Invigilated)",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Presentations",
+			"weight": "Must be completed to Pass"
+		},
+		{
+			"name": "Mid Point and End Point Reviews",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Placement Folio",
+			"weight": "Must be completed to pass"
+		}
+	]
+}

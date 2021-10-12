@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review",
+			"weight": 30
+		},
+		{
+			"name": "Test administration",
+			"weight": 25
+		},
+		{
+			"name": "Psychological Report",
+			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Critical Review and Report",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		}
+	]
+}

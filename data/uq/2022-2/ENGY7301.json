@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Energy Workbook and Travel Diary",
+			"weight": 10
+		},
+		{
+			"name": "Energy Efficiency Presentation (online)",
+			"weight": 10
+		},
+		{
+			"name": "Personal Energy Audit",
+			"weight": 40
+		},
+		{
+			"name": "2035 Transport Strategy for Australia",
+			"weight": 40
+		}
+	]
+}

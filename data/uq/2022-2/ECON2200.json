@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation 1",
+			"weight": 20
+		},
+		{
+			"name": "Warm Up Reading Quiz",
+			"weight": "10%                                        (best 10 of 12 quizzes comprise 10*1%=10%)"
+		},
+		{
+			"name": "Team Presentation 2",
+			"weight": 38
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 8
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 8
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 8
+		},
+		{
+			"name": "Online Test 4",
+			"weight": 8
+		}
+	]
+}

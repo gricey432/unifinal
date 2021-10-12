@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 4
+		},
+		{
+			"name": "Meta-learning 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 4
+		},
+		{
+			"name": "Meta-learning 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 4
+		},
+		{
+			"name": "Hypothesis, outline & bibliography (group work)",
+			"weight": 4
+		},
+		{
+			"name": "Experimental Proposal (group work)",
+			"weight": 6
+		},
+		{
+			"name": "Experimental Proposal (group work)",
+			"weight": 3
+		},
+		{
+			"name": "Lab Report (individual)",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

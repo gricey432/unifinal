@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Phase 1 Literature & data review",
+			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Phase 1  Literature & data review",
+			"weight": 20
+		},
+		{
+			"name": "Pitch to private investors and govt agencies",
+			"weight": 10
+		},
+		{
+			"name": "Phase 2 Geotech & Enviro",
+			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Phase 2 Geotech & Enviro",
+			"weight": 50
+		},
+		{
+			"name": "Phase 3 Drainage Design Review",
+			"weight": 20
+		},
+		{
+			"name": "Phase 3 Drainage Design Review",
+			"weight": "PAF affects individual mark"
+		},
+		{
+			"name": "Electronic logbook (Week 12)",
+			"weight": 0
+		}
+	]
+}

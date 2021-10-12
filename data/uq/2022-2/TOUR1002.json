@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Experience Appraisal",
+			"weight": "20%                                        1,000 words; Individual"
+		},
+		{
+			"name": "Online mid-semester exam",
+			"weight": "40%                                        2 hours; Individual"
+		},
+		{
+			"name": "Visitor Experience Redesign Project",
+			"weight": "40%                                        3,000 words + 3D design; Individual"
+		}
+	]
+}

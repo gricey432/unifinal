@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Four Online Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Stressor description",
+			"weight": 25
+		},
+		{
+			"name": "Managing stressors on marine habitats policy memo",
+			"weight": 50
+		}
+	]
+}

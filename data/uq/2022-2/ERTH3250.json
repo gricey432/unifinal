@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Hydrogeological Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

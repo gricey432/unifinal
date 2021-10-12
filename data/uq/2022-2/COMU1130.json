@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Decomposing online platform",
+			"weight": 40
+		},
+		{
+			"name": "Reflection platform Society/Datafication",
+			"weight": 15
+		},
+		{
+			"name": "Reflection experiencing the Internet",
+			"weight": 15
+		},
+		{
+			"name": "Report data as key resource",
+			"weight": 15
+		},
+		{
+			"name": "Audit report and recommdendations",
+			"weight": 15
+		}
+	]
+}

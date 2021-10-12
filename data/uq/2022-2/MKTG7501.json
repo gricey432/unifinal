@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing quiz (Individual)",
+			"weight": 15
+		},
+		{
+			"name": "STP Analysis (group)",
+			"weight": 40
+		},
+		{
+			"name": "Marketing mix case evaluation (Individual)",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and online discussion",
+			"weight": 10
+		},
+		{
+			"name": "Work Integrated Learning assessment piece",
+			"weight": "30%                                        1300 words"
+		},
+		{
+			"name": "Short assignment 2",
+			"weight": "30%                                        1300 words"
+		},
+		{
+			"name": "Short assignment 3 (case analysis)",
+			"weight": "30%                                        1300 words"
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

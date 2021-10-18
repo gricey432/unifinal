@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment 1. Four frames group presentation",
-			"weight": "20%                                        Group Work"
+			"weight": 20
 		},
 		{
 			"name": "Assessment 2: Four frames individual report",
-			"weight": "40%                                        Individual 3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Assessment 3: Personal development plan",
-			"weight": "40%                                        Individual 3000 words"
+			"weight": 40
 		}
 	]
 }

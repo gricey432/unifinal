@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Anatomy Test",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Online Histology Test",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Final Examinations on Head and Neck Anatomy",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Type of Assessment",

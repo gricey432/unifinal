@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Discussion Points on Readings",
-			"weight": "20%                                        (4 x 5 marks for each workshop)"
+			"weight": 20
 		},
 		{
 			"name": "Case Study - Individual Analysis #1",

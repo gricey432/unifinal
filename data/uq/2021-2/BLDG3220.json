@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - Schematic Design",
-			"weight": "20%                                        Collaborative assignment"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 2 - Design Development",
-			"weight": "40%                                        Individual IVAH assignment"
+			"weight": 40
 		},
 		{
 			"name": "Assignment 3 - Construction Documentation",
-			"weight": "40%                                        Collaborative assignment"
+			"weight": 40
 		}
 	]
 }

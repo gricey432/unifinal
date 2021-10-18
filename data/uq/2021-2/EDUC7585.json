@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Thinking philosoophically about the arts",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Curriculum unit of work plan",
-			"weight": "40%                                        3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Practical presentation and critical reflection",

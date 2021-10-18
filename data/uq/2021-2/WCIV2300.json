@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Journal entries",
-			"weight": "20%                                        1500-2000 words"
+			"weight": 20
 		},
 		{
 			"name": "Staged reading",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Research essay",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

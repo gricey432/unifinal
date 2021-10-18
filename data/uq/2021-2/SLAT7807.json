@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Instruction and SLA",
-			"weight": "35%                                        2500 words"
+			"weight": 35
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "THE Systems Poster and Script",
-			"weight": "50%                                        Individual task; 2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Research proposal for your report",
-			"weight": "10%                                        Individual task; 400 words"
+			"weight": 10
 		},
 		{
 			"name": "Report",
-			"weight": "40%                                        Individual task; 2000 words"
+			"weight": 40
 		}
 	]
 }

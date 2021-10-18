@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Padlet contribution",
-			"weight": "0%                                        Pass or Fail"
+			"weight": 0
 		},
 		{
 			"name": "Online Quizzes about Lectures (weeks 2-10)",

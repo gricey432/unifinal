@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Git Introduction Short Course",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Online Quiz",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Git Advanced Short Course",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Pattern Analysis Algorithm",

@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Hypothetical Development Assessment(short report)",
-			"weight": "20%                                        Individual, 500 words"
+			"weight": 20
 		},
 		{
 			"name": "Team DCF & Cap Report and Presentation",
-			"weight": "30%                                        Group; 3000 words; 15 minutes"
+			"weight": 30
 		},
 		{
 			"name": "Final",
-			"weight": "40%                                        Individual; 2 hours"
+			"weight": 40
 		}
 	]
 }

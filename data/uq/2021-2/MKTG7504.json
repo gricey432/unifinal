@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Critical analysis of service strategy case study",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Analysis of service strategy of a selected firm",
-			"weight": "35%                                        Individual  3500 words"
+			"weight": 35
 		},
 		{
 			"name": "Final exam (online) during exam period",

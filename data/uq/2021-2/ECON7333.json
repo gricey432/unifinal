@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Quizzes",
-			"weight": "50%                                        (10% per quiz)"
+			"weight": 50
 		},
 		{
 			"name": "Practical Assignment 1",

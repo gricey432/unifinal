@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Professional Development Reflective Journal",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Career ePortfolio",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

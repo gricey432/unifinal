@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Short Quizzes",
-			"weight": "20%                                        7 best scoring quizzes out of 10 will be considered."
+			"weight": 20
 		},
 		{
 			"name": "Assignment#1:Hydraulic modelling of sewer network",

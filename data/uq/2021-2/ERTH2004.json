@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Completion of lab assignments",
-			"weight": "30%                                        Total"
+			"weight": 30
 		},
 		{
 			"name": "Shorncliffe map assignment",

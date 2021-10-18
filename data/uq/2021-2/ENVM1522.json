@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Week 9 Case Study on Carbon Management",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Week 13 Online Quiz",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "PERFORMANCE HURDLE: Students are required to achieve a mark of 50% or greater in the Online Quiz to pass the course.",

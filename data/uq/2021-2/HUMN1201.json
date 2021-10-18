@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Module 1 Video Presentation",
-			"weight": "20%                                        3-5 minutes + 250 words"
+			"weight": 20
 		},
 		{
 			"name": "Module 2 Seminar Zoom Presentation",
-			"weight": "20%                                        7-10 minutes + 250 words"
+			"weight": 20
 		},
 		{
 			"name": "Research Essay Proposal",
-			"weight": "15%                                        250 words"
+			"weight": 15
 		},
 		{
 			"name": "Final Research Essay",
-			"weight": "30%                                        1,500 - 2,000 words"
+			"weight": 30
 		}
 	]
 }

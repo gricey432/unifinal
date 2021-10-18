@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "A1. Professional Poster",
-			"weight": "20%                                        Individual; Poster"
+			"weight": 20
 		},
 		{
 			"name": "A2. Reflective Workplace Journals",
-			"weight": "35%                                        Individual; 2300 words maximum"
+			"weight": 35
 		},
 		{
 			"name": "A3 . Project Portfolio (Team) - Project Students",
-			"weight": "45%                                        Team Project"
+			"weight": 45
 		},
 		{
 			"name": "A3. Development Plan - Placement Students",
-			"weight": "45%                                        Individual; 2000 words maximum"
+			"weight": 45
 		}
 	]
 }

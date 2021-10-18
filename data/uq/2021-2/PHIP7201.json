@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Agreed Activities",
-			"weight": "0%                                        must be completed"
+			"weight": 0
 		},
 		{
 			"name": "Performance Evaluation",

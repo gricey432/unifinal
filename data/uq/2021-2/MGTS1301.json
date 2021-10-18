@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Analysis of Case Studies",
-			"weight": "20%                                        Team based work"
+			"weight": 20
 		},
 		{
 			"name": "Assignment",

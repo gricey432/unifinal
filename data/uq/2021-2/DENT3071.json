@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Fixed Prosthodontics Preclinical Competency FGC",
-			"weight": "25%                                        Must Pass"
+			"weight": 25
 		},
 		{
 			"name": "Preclinical Competency - Molar Endodontics",
-			"weight": "25%                                        Must Pass"
+			"weight": 25
 		},
 		{
 			"name": "Clinical Practice Performance",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "End of semester Examination",
-			"weight": "30%                                        Must Pass"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

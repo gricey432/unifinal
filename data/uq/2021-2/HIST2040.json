@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Primary Source Analysis",
-			"weight": "20%                                        1000 words"
+			"weight": 20
 		},
 		{
 			"name": "Essay, Podcast, or Documentary Movie",
-			"weight": "40%                                        2500 words / 10-12 mins"
+			"weight": 40
 		},
 		{
 			"name": "Take-Home Exam",

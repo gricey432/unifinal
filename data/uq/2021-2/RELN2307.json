@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Essays 1",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Essay 2",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Work integrated learning BONUS assessment",
-			"weight": "40%                                        *bonus, 1000 words, no extensions"
+			"weight": 40
 		},
 		{
 			"name": "UNDERGRADUATE",

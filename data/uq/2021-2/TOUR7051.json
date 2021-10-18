@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Destination Case Study Report",
-			"weight": "50%                                        4,000 words"
+			"weight": 50
 		},
 		{
 			"name": "Final examination",
-			"weight": "50%                                        120 minutes"
+			"weight": 50
 		}
 	]
 }

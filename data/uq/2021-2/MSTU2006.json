@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Archive research essay",
-			"weight": "35%                                        1500-2000 words"
+			"weight": 35
 		},
 		{
 			"name": "class participation / engagement",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "essay OR video essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Concept map and reflective essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Lesson Summaries and Synthesis",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Learning designs for technology integration",
-			"weight": "35%                                        2000-2500 words"
+			"weight": 35
 		}
 	]
 }

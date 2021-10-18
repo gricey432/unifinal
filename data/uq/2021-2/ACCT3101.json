@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-exam (online open-book exam)",
-			"weight": "35%                                        Individual online exam; 90 minutes"
+			"weight": 35
 		},
 		{
 			"name": "Individual Case study - Audit planning and testing",
-			"weight": "20%                                        Individual case study"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam (online open-book exam)",
-			"weight": "45%                                        Individual online exam"
+			"weight": 45
 		}
 	]
 }

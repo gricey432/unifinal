@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Review of selected readings",
-			"weight": "30%                                        1300 words excluding quotes and bibliography"
+			"weight": 30
 		},
 		{
 			"name": "Participation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Final essay",
-			"weight": "60%                                        2800 words excluding quotes and bibliography"
+			"weight": 60
 		},
 		{
 			"name": "If the course coordinator determines that there is no practical supplementary assessment that can be offered to allow you to improve your grade, then you will not be offered supplementary assessment and your grade will remain unchanged.",

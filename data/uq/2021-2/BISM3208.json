@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Emerging Technology: Theory and Analysis",
-			"weight": "35%                                        Individual/Team; 2 x 10 mins"
+			"weight": 35
 		},
 		{
 			"name": "Online exam",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Digital Transformation Hackathon",
-			"weight": "45%                                        Team; 10 + 5 mins; 1000 words"
+			"weight": 45
 		}
 	]
 }

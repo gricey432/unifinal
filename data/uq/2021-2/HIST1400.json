@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Primary Source Analysis",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Essay Proposal",
-			"weight": "25%                                        500 words"
+			"weight": 25
 		},
 		{
 			"name": "Essay",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		}
 	]
 }

@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Short Essay",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Long Essay",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

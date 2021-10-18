@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Cycle of Science: Group-designed study e-Poster",
-			"weight": "21%                                        Submission is compulsory to pass the course"
+			"weight": 21
 		},
 		{
 			"name": "Introduction + References",
-			"weight": "32%                                        Submission is compulsory to pass the course"
+			"weight": 32
 		},
 		{
 			"name": "Type of Assessment",

@@ -18,15 +18,15 @@
 		},
 		{
 			"name": "Proposed abstract for final essay",
-			"weight": "5%                                        250"
+			"weight": 5
 		},
 		{
 			"name": "Final essay",
-			"weight": "55%                                        2500 words"
+			"weight": 55
 		},
 		{
 			"name": "News article review",
-			"weight": "30%                                        1200 words"
+			"weight": 30
 		}
 	]
 }

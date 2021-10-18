@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Assignments",
-			"weight": "50%                                        (five assignments, 10% each)"
+			"weight": 50
 		},
 		{
 			"name": "Final take home Assignment",

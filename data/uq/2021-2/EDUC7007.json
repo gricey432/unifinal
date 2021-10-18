@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Review of a Test",
-			"weight": "30%                                        10 Minutes"
+			"weight": 30
 		},
 		{
 			"name": "Confidential Guidance Report",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

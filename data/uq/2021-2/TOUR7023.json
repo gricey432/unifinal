@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Infographic - Destination Resource Audit",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Online Exam",
-			"weight": "20%                                        Individual; 60 minutes"
+			"weight": 20
 		},
 		{
 			"name": "Case Study Report",
-			"weight": "50%                                        Individual; 2500 words"
+			"weight": 50
 		}
 	]
 }

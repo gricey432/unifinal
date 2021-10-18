@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Review an Inquiry Unit of Work",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Investigate a Science Phenomenon",
-			"weight": "40%                                        3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Teaching a Science Concept",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		}
 	]
 }

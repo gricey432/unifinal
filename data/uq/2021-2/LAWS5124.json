@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Weekly essay responses",
-			"weight": "40%                                        4000 words"
+			"weight": 40
 		},
 		{
 			"name": "Weekly responses to discussion questions",
-			"weight": "30%                                        3500-4000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research assignment",
-			"weight": "30%                                        2000-2500 words (excluding references)"
+			"weight": 30
 		}
 	]
 }

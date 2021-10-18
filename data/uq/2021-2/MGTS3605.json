@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Negotiation Personal Reflection",
-			"weight": "30%                                        Individual; 1600 words"
+			"weight": 30
 		},
 		{
 			"name": "Content evaluation exam",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Group negotiation exercise",
-			"weight": "35%                                        Group"
+			"weight": 35
 		}
 	]
 }

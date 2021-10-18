@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Assignment 1",
-			"weight": "10% or 0%"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "10% or 0%"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 3",
-			"weight": "10% or 0%"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 4",
-			"weight": "10% or 0%"
+			"weight": 10
 		},
 		{
 			"name": "Final Exam",
-			"weight": "60% or 100%"
+			"weight": 60
 		}
 	]
 }

@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "Drug Analysis: Sports Doping Analytical Report",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "EOS Online Open-Book Exam (non-invigilated)",
-			"weight": "40%                                        Hurdle"
+			"weight": 40
 		}
 	]
 }

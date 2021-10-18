@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "End of semester",
-			"weight": "70%                                        (MUST PASS)"
+			"weight": 70
 		}
 	]
 }

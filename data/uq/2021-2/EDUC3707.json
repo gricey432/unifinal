@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Group Unit Plan",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		},
 		{
 			"name": "Co-Teaching Demonstration",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Theory to Practice Essay",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		}
 	]
 }

@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "On Campus Exam",
-			"weight": "30%                                        Hurdle to pass the course"
+			"weight": 30
 		}
 	]
 }

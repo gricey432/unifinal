@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Individual Student Case Assignments",
-			"weight": "20%                                         Pass Mark 70%"
+			"weight": 20
 		},
 		{
 			"name": "Weekly Quiz",
-			"weight": "40%                                        Pass Mark 60%"
+			"weight": 40
 		},
 		{
 			"name": "Summative Examination",
-			"weight": "40%                                         Pass mark 70%"
+			"weight": 40
 		}
 	]
 }

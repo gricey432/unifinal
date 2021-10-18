@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Playconomics Videogame/Academia Questions",
-			"weight": "50%                                        max. 40% from either the videogame or the Academia questions"
+			"weight": 50
 		},
 		{
 			"name": "End of Semester Online Exam",

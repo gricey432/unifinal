@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Mid Semester Exam (online, during class time)",
-			"weight": "40%                                        2 hours"
+			"weight": 40
 		},
 		{
 			"name": "Final Exam (online)",
-			"weight": "50%                                        2 hours"
+			"weight": 50
 		}
 	]
 }

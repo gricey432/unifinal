@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Concepts and developments in PR history",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Building relations today",
-			"weight": "40%                                        1700 words"
+			"weight": 40
 		},
 		{
 			"name": "\"Newsworthy\" strategy and asset",
-			"weight": "30%                                        1600 words"
+			"weight": 30
 		}
 	]
 }

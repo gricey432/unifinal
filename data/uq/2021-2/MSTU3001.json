@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Assignment",
-			"weight": "30%                                        (3%x10)"
+			"weight": 30
 		},
 		{
 			"name": "Group presentation of in-depth film review",

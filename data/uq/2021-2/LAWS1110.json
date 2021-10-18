@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Justice, Human Rights, and Criminal Process",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Final Take Home Assessment",
-			"weight": "50%                                        (Approx 1500 words)"
+			"weight": 50
 		}
 	]
 }

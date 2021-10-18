@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Information systems theory and Excel (Individual)",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		},
 		{
 			"name": "Final Exam (online)",
-			"weight": "40%                                        Individual; 2 hours"
+			"weight": 40
 		}
 	]
 }

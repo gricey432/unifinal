@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Consumer behaviour project proposal",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Consumer behaviour Project",
-			"weight": "70%                                        Individual"
+			"weight": 70
 		}
 	]
 }

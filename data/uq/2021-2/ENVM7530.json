@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Palaeoecology Poster",
-			"weight": "30%                                        Poster"
+			"weight": 30
 		},
 		{
 			"name": "Fire Mitigation",
-			"weight": "40%                                        Up to 3000 words"
+			"weight": 40
 		}
 	]
 }

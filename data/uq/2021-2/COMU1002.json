@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "End-of-module assessment",
-			"weight": "45%                                        15% for each Module"
+			"weight": 45
 		},
 		{
 			"name": "Group project",
-			"weight": "30%                                        20% + 10%"
+			"weight": 30
 		}
 	]
 }

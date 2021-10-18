@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Directorial Brief",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Practical Directing Project",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Directorial Reflection",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		}
 	]
 }

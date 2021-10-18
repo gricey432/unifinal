@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "CML Quizzes",
-			"weight": "30%                                        (Best 8 of 10)"
+			"weight": 30
 		},
 		{
 			"name": "Country Report",

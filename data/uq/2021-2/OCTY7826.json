@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Study Part 1 - Assignment",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Fieldwork and Case Report",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		},
 		{
 			"name": "Case Study Part 2 - Oral Examination",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Infant Simulation",

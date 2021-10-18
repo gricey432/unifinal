@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Assignment 1: Optimised [Group]Home Design",
-			"weight": "30%                                        Individual assessment"
+			"weight": 30
 		},
 		{
 			"name": "Assignment 2: PH [Group]Home Performance",
-			"weight": "30%                                        Group assessment"
+			"weight": 30
 		},
 		{
 			"name": "Quizzes",
-			"weight": "10%                                        Individual assessment"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 3: PH [Individual]Home Performance",
-			"weight": "30%                                        IVAH - Individual assessment"
+			"weight": 30
 		}
 	]
 }

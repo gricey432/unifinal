@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Final Take Home Assessment",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Seminar attendance",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Mid-semester research paper/court report",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

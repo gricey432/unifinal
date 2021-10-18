@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Ad Critique - Behaviour and Communication",
-			"weight": "25%                                        Individual; 3 pages"
+			"weight": 25
 		},
 		{
 			"name": "Ad Critique - Strategy",
-			"weight": "25%                                        Individual; 3 pages"
+			"weight": 25
 		},
 		{
 			"name": "Creative Brief and Pitch Presentation",
-			"weight": "50%                                        Individual; 4 pages; 5 mins"
+			"weight": 50
 		}
 	]
 }

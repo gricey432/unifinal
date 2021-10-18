@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial assessment",
-			"weight": "10%                                        8 tutorials to be submitted of equal weight"
+			"weight": 10
 		},
 		{
 			"name": "Practical assessment",

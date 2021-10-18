@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Problem solving sessions",
-			"weight": "0%                                        (Formative assessment)"
+			"weight": 0
 		},
 		{
 			"name": "Attendance and professional participation in field",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        (At least 45% in the final exam is required to pass the course)"
+			"weight": 50
 		}
 	]
 }

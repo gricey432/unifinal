@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Team Movie Analysis (40%)",
-			"weight": "40%                                        Members must contribute to all aspects of 3500 words & 20 min (max) Zoom presentation"
+			"weight": 40
 		},
 		{
 			"name": "Cross-Cultural Work Adjustment Assignment (40%)",
-			"weight": "40%                                        Written 3000 words; Individual"
+			"weight": 40
 		},
 		{
 			"name": "Final Examination",
-			"weight": "20%                                        short essay, extended essay or case study (problem solving) questions"
+			"weight": 20
 		}
 	]
 }

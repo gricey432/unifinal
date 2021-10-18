@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Quizzes on content relevant to Paediatrics",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "Developmental Assessment Worksheet",
-			"weight": "5%                                        Pass/Fail (MUST PASS)"
+			"weight": 5
 		},
 		{
 			"name": "Developmental Assessment Viva",
-			"weight": "15%                                        (MUST PASS)"
+			"weight": 15
 		},
 		{
 			"name": "Online Indigenous Health Modules and Quizzes",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "End of Semester Exam",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		}
 	]
 }

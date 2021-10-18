@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Brand Inventory Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Mid-semester exam (online)",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Brand Audit",
-			"weight": "45%                                        Team/Individual"
+			"weight": 45
 		}
 	]
 }

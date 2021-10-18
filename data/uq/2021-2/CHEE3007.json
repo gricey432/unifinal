@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "Final Examination",
-			"weight": "40%                                        Hurdle"
+			"weight": 40
 		},
 		{
 			"name": "Computer based practical exam",
-			"weight": "15%                                        Hurdle"
+			"weight": 15
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical VIVA exam",
-			"weight": "60%                                        (MUST PASS)"
+			"weight": 60
 		},
 		{
 			"name": "Clinical forms, records and checklists",

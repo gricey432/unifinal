@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Blackboard anatomy quizzes",
-			"weight": "5%                                        Each quiz worth 1.25%"
+			"weight": 5
 		},
 		{
 			"name": "Mid-Semester Theory Exam",

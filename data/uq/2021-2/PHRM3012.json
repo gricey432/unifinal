@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Oral Consultation Exam",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "EOS Online Open-Book Inspera (non-invigilated)",
-			"weight": "60%                                        Hurdle"
+			"weight": 60
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Management of MSD: Case studies assignment",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "Interprofessional Education Simulation Clinic",
-			"weight": "5%                                        MUST PASS"
+			"weight": 5
 		},
 		{
 			"name": "MODULE 2: Paediatric Motor Speech Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		}
 	]
 }

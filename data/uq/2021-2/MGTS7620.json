@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Technology & Leadership",
-			"weight": "30%                                        Group work"
+			"weight": 30
 		},
 		{
 			"name": "The Dark Side of Leadership",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial exercise",
-			"weight": "10%                                        1% per week, max 10%"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 1: Individual Work",

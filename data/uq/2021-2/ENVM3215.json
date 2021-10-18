@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Palaeoecology Essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Fire Management Plan Review Poster",
-			"weight": "35%                                        Poster"
+			"weight": 35
 		}
 	]
 }

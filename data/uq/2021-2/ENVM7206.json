@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Quiz - 1: Lectures 1 to 4",
-			"weight": "20%                                        1% per correct answer"
+			"weight": 20
 		},
 		{
 			"name": "Quiz - 2: Lectures 5 to 8",
-			"weight": "20%                                        1% per correct answer"
+			"weight": 20
 		},
 		{
 			"name": "Quiz - 3: Lectures 9 to 11",
-			"weight": "20%                                        1% per correct answer"
+			"weight": 20
 		},
 		{
 			"name": "Environmental Impact Assessment Report",

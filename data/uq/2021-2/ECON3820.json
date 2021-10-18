@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Workbook",
-			"weight": "30%                                        1800 words or equivalent"
+			"weight": 30
 		},
 		{
 			"name": "Final exam",
-			"weight": "40%                                        2 hours"
+			"weight": 40
 		}
 	]
 }

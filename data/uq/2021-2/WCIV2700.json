@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Essay",
-			"weight": "40%                                        2,000 words"
+			"weight": 40
 		}
 	]
 }

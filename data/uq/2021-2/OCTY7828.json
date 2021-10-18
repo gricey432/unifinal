@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Objective Structured Clinical Examination (OSCE)",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "Sessional Placement/Simulation Experience",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Quizzes",
-			"weight": "25%                                        (MUST PASS)"
+			"weight": 25
 		},
 		{
 			"name": "Case Study Assignment",
-			"weight": "35%                                        (MUST PASS)"
+			"weight": 35
 		}
 	]
 }

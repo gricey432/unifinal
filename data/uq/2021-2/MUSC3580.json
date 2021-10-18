@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Small, regular homework tasks",
-			"weight": "0%                                        hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Small Forms",

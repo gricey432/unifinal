@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Honours Thesis",
-			"weight": "100%                                        Honours Thesis"
+			"weight": 100
 		}
 	]
 }

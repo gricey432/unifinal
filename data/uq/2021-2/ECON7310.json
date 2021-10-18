@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Periodic Assessments",
-			"weight": "20%                                        (5% for each quiz)"
+			"weight": 20
 		},
 		{
 			"name": "Research Project 1",

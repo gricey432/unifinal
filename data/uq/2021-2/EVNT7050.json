@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Leveraging Benefits from Events",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Video Presentation - International Event Portfolio",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Media Framing Paper",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

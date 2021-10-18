@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam",
-			"weight": "40%                                        or 50%"
+			"weight": 40
 		},
 		{
 			"name": "Seminar Diary",
-			"weight": "10%                                        or 0%"
+			"weight": 10
 		},
 		{
 			"name": "Research Proposal",

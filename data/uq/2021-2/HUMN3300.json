@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Draft Research Outline",
-			"weight": "20%                                        250 words"
+			"weight": 20
 		},
 		{
 			"name": "Interview about Mini-Internship",
-			"weight": "15%                                        10 minutes"
+			"weight": 15
 		},
 		{
 			"name": "UQ Discipline Specific Research Proposal",
-			"weight": "20%                                        500 words"
+			"weight": 20
 		},
 		{
 			"name": "Project Literature Review",
-			"weight": "30%                                        1,500 words"
+			"weight": 30
 		}
 	]
 }

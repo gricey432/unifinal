@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Group Presentations",
-			"weight": "25%                                        Group Assessment"
+			"weight": 25
 		},
 		{
 			"name": "In class exam",
-			"weight": "25%                                        Individual assessment"
+			"weight": 25
 		},
 		{
 			"name": "Written assignment",
-			"weight": "50%                                        Individual assessment 2,000 words"
+			"weight": 50
 		}
 	]
 }

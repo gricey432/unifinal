@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "A1 - Career Plan Report",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "A2 - Research essay",
-			"weight": "30%                                        Individual; 2000-2250 words"
+			"weight": 30
 		},
 		{
 			"name": "A3 - Report on Issues in HRM - Case study Report",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

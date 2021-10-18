@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Individual contribution to Green Discussion Boards",
-			"weight": "9%                                        3% per module"
+			"weight": 9
 		},
 		{
 			"name": "Module 1-3",
-			"weight": "9%                                        3% per module"
+			"weight": 9
 		},
 		{
 			"name": "Tutorial Group Presentations",
-			"weight": "9%                                        3% per module/tutorial"
+			"weight": 9
 		},
 		{
 			"name": "Peer Feedback on Group Work",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Clinical Bite Case PowerPoint Slides /Presentation",

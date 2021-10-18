@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Family Experiences and Therapeutic Practice",
-			"weight": "35%                                        1200 words"
+			"weight": 35
 		},
 		{
 			"name": "Concepts of Human Development and Mental Health",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

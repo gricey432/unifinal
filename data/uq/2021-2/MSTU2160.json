@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Participation and engagement with course",
-			"weight": "20%                                        2 x 10"
+			"weight": 20
 		},
 		{
 			"name": "Archive research essay",
-			"weight": "35%                                        1500-2000 words"
+			"weight": 35
 		},
 		{
 			"name": "Found-footage video essay or standard essay",
-			"weight": "45%                                        2000 words or equiv"
+			"weight": 45
 		}
 	]
 }

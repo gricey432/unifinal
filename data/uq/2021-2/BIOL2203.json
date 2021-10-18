@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "25%                                        Hurdle 50% required to pass course"
+			"weight": 25
 		}
 	]
 }

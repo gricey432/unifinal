@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Annotated Bibliography",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Adjusted Learning Activity Development",
-			"weight": "30%                                        2000 words (4 pages max.)"
+			"weight": 30
 		},
 		{
 			"name": "Case Study Report: Response to Scenario",
-			"weight": "40%                                        3000 words (6 pages max.)"
+			"weight": 40
 		}
 	]
 }

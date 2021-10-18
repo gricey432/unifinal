@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Curriculum Design",
-			"weight": "40%                                        3,000 words"
+			"weight": 40
 		},
 		{
 			"name": "Critical reflection",
-			"weight": "30%                                        1500 to 1800 words"
+			"weight": 30
 		}
 	]
 }

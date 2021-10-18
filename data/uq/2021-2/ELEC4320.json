@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "20%                                        (Report-15% Presentation-5%)"
+			"weight": 20
 		},
 		{
 			"name": "Final exam",
-			"weight": "60%                                        invigilated close book exam"
+			"weight": 60
 		}
 	]
 }

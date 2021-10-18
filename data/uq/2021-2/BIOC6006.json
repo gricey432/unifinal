@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Science Communication Assessment - Draft",
-			"weight": "0%                                        Contributes to Science Communication Assessment"
+			"weight": 0
 		},
 		{
 			"name": "Science Communication Assessment - Peer Review",
-			"weight": "5%                                        Contributes to Science Communication Assessment"
+			"weight": 5
 		},
 		{
 			"name": "Online Quiz 1",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Science Communication Assessment - Final Version",
-			"weight": "15%                                        Contributes to Science Communication Assessment"
+			"weight": 15
 		},
 		{
 			"name": "Bioinformatics assignment",

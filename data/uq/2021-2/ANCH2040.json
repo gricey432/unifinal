@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Assignments",
-			"weight": "50%                                        25% per paper"
+			"weight": 50
 		},
 		{
 			"name": "Tutorial participation",

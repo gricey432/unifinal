@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "PeerMark of a peer's Portfolio Draft",
-			"weight": "5%                                        Pass/Fail"
+			"weight": 5
 		},
 		{
 			"name": "Portfolio - FINAL",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "End of Semester Practical Examination",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Laboratory Safety Induction",
-			"weight": "0%                                        Laboratory access will be denied if induction is not completed"
+			"weight": 0
 		},
 		{
 			"name": "Final Exam",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Peer Assessment - Truss Project",
-			"weight": "0%                                        Affects individual score for Truss Project"
+			"weight": 0
 		}
 	]
 }

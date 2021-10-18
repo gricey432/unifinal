@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Group Pitch",
-			"weight": "15%                                        Team: 10 minute presentation"
+			"weight": 15
 		},
 		{
 			"name": "Event Manual",
-			"weight": "35%                                        Team: 4,000 words"
+			"weight": 35
 		},
 		{
 			"name": "Individual reflective essay",
-			"weight": "50%                                        Individual:  3000 words"
+			"weight": 50
 		}
 	]
 }

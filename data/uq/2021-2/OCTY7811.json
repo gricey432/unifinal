@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "ROM and MMT Practical Viva",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "Peer teaching task",
-			"weight": "20%                                        (MUST PASS)"
+			"weight": 20
 		},
 		{
 			"name": "Neuroanatomy Exam",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "Regional and Surface Anatomy Quiz",
-			"weight": "10%                                        (MUST PASS)"
+			"weight": 10
 		}
 	]
 }

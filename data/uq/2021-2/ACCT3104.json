@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Non-invigilated Mid-Semester Exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Case Study Available Mon 13 Sept; Due Mon 11 Oct.",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

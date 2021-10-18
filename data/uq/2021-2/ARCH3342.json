@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Snapshot of practice - stage 1",
-			"weight": "10%                                        group"
+			"weight": 10
 		},
 		{
 			"name": "Preparation for practice - stage 1",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Snapshot of practice - final",
-			"weight": "30%                                        group"
+			"weight": 30
 		},
 		{
 			"name": "Preparation for practice - final",
-			"weight": "30%                                        Hurdle"
+			"weight": 30
 		}
 	]
 }

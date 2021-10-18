@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Mid-semester exam",
-			"weight": "20% or 0%"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam",
-			"weight": "20% or 40%"
+			"weight": 20
 		}
 	]
 }

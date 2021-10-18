@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Professional ePortfolio and Tutorials",
-			"weight": "55%                                        (Development Activities 35%; Final Portfolio Showcase 20%)"
+			"weight": 55
 		},
 		{
 			"name": "Academic Writing Assignment",

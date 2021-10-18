@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Thesis",
-			"weight": "100%                                        8000 words"
+			"weight": 100
 		},
 		{
 			"name": "Oral presentation",

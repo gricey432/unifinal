@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Discussion board posts and oral presentations",
-			"weight": "0%                                        Individual: 400-500 words"
+			"weight": 0
 		},
 		{
 			"name": "Snowden Case Study",
-			"weight": "40%                                        Individual: 10min presentation, 5min Q&A"
+			"weight": 40
 		},
 		{
 			"name": "Individual Reflective Essay",
-			"weight": "60%                                        Individual: 2500 words"
+			"weight": 60
 		}
 	]
 }

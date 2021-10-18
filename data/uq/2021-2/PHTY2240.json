@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Clinical observation workbook",
-			"weight": "5%                                        Pass/Fail; MUST PASS"
+			"weight": 5
 		},
 		{
 			"name": "IPCP Curriculum Assessment",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "PHTY2240 Theory exam",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Practical Exam: Electrotherapy module",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

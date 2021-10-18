@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Exam",
-			"weight": "40%                                        2 hours"
+			"weight": 40
 		},
 		{
 			"name": "IB Consulting Project",
-			"weight": "60%                                        Team Assignment"
+			"weight": 60
 		}
 	]
 }

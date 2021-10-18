@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Learning Portfolio Exercises",
-			"weight": "15%                                        Satisfactory/Unsatisfactory"
+			"weight": 15
 		},
 		{
 			"name": "Medication Management Review",

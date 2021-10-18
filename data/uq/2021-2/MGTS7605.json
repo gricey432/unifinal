@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Individual executive summary",
-			"weight": "20%                                        Individual assessment"
+			"weight": 20
 		},
 		{
 			"name": "Case Analysis Summaries",
-			"weight": "30%                                        Team and peer assessment"
+			"weight": 30
 		},
 		{
 			"name": "Individual case analysis",
-			"weight": "50%                                        Individual assessment"
+			"weight": 50
 		}
 	]
 }

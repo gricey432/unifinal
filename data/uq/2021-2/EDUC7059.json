@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment 1 - Personal Learning Philosophy Blog",
-			"weight": "40%                                        1500-2000 equivalent"
+			"weight": 40
 		},
 		{
 			"name": "Assessment 2 - Written Argument",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Assessment 3 - Translation Presentation",
-			"weight": "30%                                        1500 words equivalent"
+			"weight": 30
 		}
 	]
 }

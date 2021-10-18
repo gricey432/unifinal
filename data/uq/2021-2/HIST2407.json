@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "First Essay",
-			"weight": "40%                                        2,500 words"
+			"weight": 40
 		},
 		{
 			"name": "Tutorial participation",

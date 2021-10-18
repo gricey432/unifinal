@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Distribution Strategy",
-			"weight": "40%                                        Individual; 2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Role play reflection",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Sales Dialogue",
-			"weight": "40%                                        Individual; 2000 words"
+			"weight": 40
 		}
 	]
 }

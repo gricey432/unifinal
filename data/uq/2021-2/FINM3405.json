@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid semester exam",
-			"weight": "25%                                        Individual; 90 minutes"
+			"weight": 25
 		},
 		{
 			"name": "Assignment",
-			"weight": "25%                                        Team"
+			"weight": 25
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        Individual; 2 hours"
+			"weight": 50
 		}
 	]
 }

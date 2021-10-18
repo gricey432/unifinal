@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Social Media Marketing Campaign Part A",
-			"weight": "25%                                        Individual; 3 pages"
+			"weight": 25
 		},
 		{
 			"name": "Social Media Marketing Campaign Part B",
-			"weight": "45%                                        Individual; 8 pages"
+			"weight": 45
 		},
 		{
 			"name": "Google Garage: Digital Marketing Accreditation",
-			"weight": "30%                                        Individual; 1000 words plus online modules"
+			"weight": 30
 		}
 	]
 }

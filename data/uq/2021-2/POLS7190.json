@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reading Reports/Templates (10x150-200 words each)",
-			"weight": "30%                                        3% each"
+			"weight": 30
 		},
 		{
 			"name": "Journal #1(700 words)",

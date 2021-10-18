@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Observation and analysis report",
-			"weight": "10%                                        1000 words"
+			"weight": 10
 		},
 		{
 			"name": "Self-reflection Part A",
-			"weight": "5%                                        300 words"
+			"weight": 5
 		},
 		{
 			"name": "Professional development \"byte\"",
@@ -22,11 +22,11 @@
 		},
 		{
 			"name": "Self-reflection Part B",
-			"weight": "5%                                        300 words"
+			"weight": 5
 		},
 		{
 			"name": "Evaluating a teaching program",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

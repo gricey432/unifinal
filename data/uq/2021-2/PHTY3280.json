@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "End of Semester Practical Exam - manual handling",
-			"weight": "30%                                        (MUST PASS)"
+			"weight": 30
 		},
 		{
 			"name": "End of Semester Theory Exam",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

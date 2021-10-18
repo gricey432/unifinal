@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Presentation slides",
-			"weight": "0%                                        Required for oral assessment"
+			"weight": 0
 		},
 		{
 			"name": "Oral Presentation",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Viva",
-			"weight": "40%                                        (MUST PASS)"
+			"weight": 40
 		},
 		{
 			"name": "Comprehensive Audiological Rehabilitation",

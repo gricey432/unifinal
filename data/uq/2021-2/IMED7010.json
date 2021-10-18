@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Clinical Skills Videos",
-			"weight": "10%                                        30 marks (out of 300)"
+			"weight": 10
 		},
 		{
 			"name": "Skills Video Commenting",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "50%                                        150 marks (out of 300)"
+			"weight": 50
 		}
 	]
 }

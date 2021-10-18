@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Practice Exam - RC",
-			"weight": "0%                                        Formative Feedback only"
+			"weight": 0
 		},
 		{
 			"name": "Reinforced Concrete Design",
-			"weight": "60%                                        Summative"
+			"weight": 60
 		},
 		{
 			"name": "Concrete Practical - Participation & Report",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Concrete Technology Quiz",
-			"weight": "5%                                        Formative & Summative"
+			"weight": 5
 		},
 		{
 			"name": "Concrete Technology",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Reinforced Concrete Design Assignment",
-			"weight": "10%                                        Summative"
+			"weight": 10
 		}
 	]
 }

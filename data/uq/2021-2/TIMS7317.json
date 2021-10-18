@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Creating Change for Sustainability",
-			"weight": "15%                                        (photo diary & 500 word)"
+			"weight": 15
 		},
 		{
 			"name": "Team Sustainability Analysis & Presentation",
-			"weight": "35%                                        Team"
+			"weight": 35
 		},
 		{
 			"name": "Major Project",
-			"weight": "50%                                        Individual; 3000 words"
+			"weight": 50
 		}
 	]
 }

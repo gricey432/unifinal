@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Final examination",
-			"weight": "50%                                        Note also the hurdle requirement given in §5.2"
+			"weight": 50
 		},
 		{
 			"name": "MasteringPhysics Online Exercises",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Problem Solving Assignments",
-			"weight": "15%-25%"
+			"weight": 15
 		},
 		{
 			"name": "Laboratory Reports",

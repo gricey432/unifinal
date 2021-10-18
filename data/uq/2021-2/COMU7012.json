@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "The Power of Identity",
-			"weight": "40%                                        2500 word review"
+			"weight": 40
 		},
 		{
 			"name": "Media Reform = Social Change. Discuss",
-			"weight": "50%                                        3000 word essay"
+			"weight": 50
 		}
 	]
 }

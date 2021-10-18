@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reflective Learning Journal",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Research Essay-Navigating through Indigenous Know",
-			"weight": "60%                                        2500-3000 words"
+			"weight": 60
 		}
 	]
 }

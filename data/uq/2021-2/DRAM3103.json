@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Blackboard Entries",
-			"weight": "20%                                        200 words/week"
+			"weight": 20
 		},
 		{
 			"name": "Conference Paper Presentation",
-			"weight": "30%                                        10 minute presentation"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

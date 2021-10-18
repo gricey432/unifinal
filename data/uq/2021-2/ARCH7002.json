@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Architectural Design Project: Phase a",
-			"weight": "25%                                        Digital submission to Blackboard on the Friday prior to Reviews the following Monday"
+			"weight": 25
 		},
 		{
 			"name": "Architectural Design Project: Phase b",
-			"weight": "20%                                        Digital submission to Blackboard on the Friday prior to Reviews the following Monday"
+			"weight": 20
 		},
 		{
 			"name": "Architectural Design Project: Phase c [Hurdle]",
-			"weight": "55%                                        Digital submission. Work submitted digitally will be presented at reviews on the following day"
+			"weight": 55
 		}
 	]
 }

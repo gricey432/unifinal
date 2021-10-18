@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Exercises",
-			"weight": "16%                                        (Individual: best 8 of 10)"
+			"weight": 16
 		},
 		{
 			"name": "Exercise I",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Essay: Analysis of Economic News",
-			"weight": "35%                                        Individual; 3000 words max."
+			"weight": 35
 		}
 	]
 }

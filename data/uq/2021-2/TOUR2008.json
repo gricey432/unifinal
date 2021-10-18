@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Scenario Proposal",
-			"weight": "50%                                        Individual task; 2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Futures Report",
-			"weight": "50%                                        Individual task: 2000 words"
+			"weight": 50
 		}
 	]
 }

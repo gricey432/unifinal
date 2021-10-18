@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Critical Responses - Blackboard Entries",
-			"weight": "20%                                        1000 words total"
+			"weight": 20
 		},
 		{
 			"name": "Participation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Group Performance Project",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Individual Critical Reflection",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		}
 	]
 }

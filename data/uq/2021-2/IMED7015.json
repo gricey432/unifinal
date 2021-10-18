@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Clinical Case Management Presentations",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		},
 		{
 			"name": "Case Study Essay",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		},
 		{
 			"name": "Final Examination",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		}
 	]
 }

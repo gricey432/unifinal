@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Short essay (three format options)",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

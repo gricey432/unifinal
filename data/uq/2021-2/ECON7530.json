@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Tutorial preparation",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Online Quiz #1",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 1",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Online Quiz #2",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

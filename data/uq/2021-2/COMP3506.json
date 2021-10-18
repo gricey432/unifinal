@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Weekly Quizzes",
-			"weight": "20%                                        10 Weekly quizzes of equal weight (2% each)."
+			"weight": 20
 		},
 		{
 			"name": "Project (Parts A & B)",
-			"weight": "30%                                        Each submission weighted equally at 15%."
+			"weight": 30
 		},
 		{
 			"name": "Final Exam",

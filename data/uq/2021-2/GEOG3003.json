@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Quizzes 1-5",
-			"weight": "100%                                        (Top 4 of 5 marks are counted for final grade)"
+			"weight": 100
 		}
 	]
 }

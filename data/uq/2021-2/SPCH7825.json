@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Acquired aphasia exam",
-			"weight": "55%                                        MUST PASS"
+			"weight": 55
 		},
 		{
 			"name": "Cognitive-Communication Disorders Exam",

@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Professional Development 'Byte'",
-			"weight": "20%                                        1000 words (annotated bibliography)"
+			"weight": 20
 		},
 		{
 			"name": "Critical Reflection",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Evaluating a teaching program",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

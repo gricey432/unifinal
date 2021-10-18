@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reflective Journal",
-			"weight": "50%                                        10 posts 300/400 words"
+			"weight": 50
 		},
 		{
 			"name": "Practicum",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Case Presentation",
-			"weight": "50%                                        20mins"
+			"weight": 50
 		}
 	]
 }

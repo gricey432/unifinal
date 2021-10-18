@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Close reading response",
-			"weight": "20%                                        600 words"
+			"weight": 20
 		},
 		{
 			"name": "Creative Writing Response",
-			"weight": "20%                                        500 words"
+			"weight": 20
 		},
 		{
 			"name": "Research essay plan",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Research essay",
-			"weight": "35%                                        2000 words"
+			"weight": 35
 		}
 	]
 }

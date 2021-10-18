@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Article Review&Graphic on Content Learning",
-			"weight": "30%                                        Hurdle"
+			"weight": 30
 		},
 		{
 			"name": "eZine Topic & Abstract",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Paired eZine Submission and Presentation",
-			"weight": "50%                                        IVAH"
+			"weight": 50
 		}
 	]
 }

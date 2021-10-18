@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "2 Laboratory Reports",
-			"weight": "20%                                        10% each"
+			"weight": 20
 		},
 		{
 			"name": "Plant Design Oral Presentation",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        With Hurdle"
+			"weight": 50
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Management Team Meetings",
-			"weight": "30%                                        Groupwork"
+			"weight": 30
 		},
 		{
 			"name": "Politics of Organisational Structure",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Myself as Strategist",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "First Nations' deadline news story",
-			"weight": "25%                                        300 words"
+			"weight": 25
 		},
 		{
 			"name": "Social Justice Video News story",
-			"weight": "40%                                        3-4 minutes"
+			"weight": 40
 		},
 		{
 			"name": "Deadline news story",
-			"weight": "35%                                        500 words"
+			"weight": 35
 		}
 	]
 }

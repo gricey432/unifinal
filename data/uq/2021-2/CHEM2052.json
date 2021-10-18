@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Sapling Weekly Quizzes",
-			"weight": "10%                                        Lowest two quizzes will be disregarded."
+			"weight": 10
 		},
 		{
 			"name": "Science communication Assignment",

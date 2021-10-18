@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Self and Peer Review Assignments",
-			"weight": "30%                                        (6 @ 5% each)"
+			"weight": 30
 		},
 		{
 			"name": "Assessed Discussion Board Cases",
-			"weight": "40%                                        (10 @ 4% each)"
+			"weight": 40
 		},
 		{
 			"name": "Final Summative Assessment",
-			"weight": "30%                                        (10 cases @ 3% each)"
+			"weight": 30
 		}
 	]
 }

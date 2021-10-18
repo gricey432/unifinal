@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Essay One: Analysing social policy",
-			"weight": "35%                                        Marked out of 100"
+			"weight": 35
 		},
 		{
 			"name": "Analysing the impact of social policy",
-			"weight": "40%                                        Marked out of 100"
+			"weight": 40
 		}
 	]
 }

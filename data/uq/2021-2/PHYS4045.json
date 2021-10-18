@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Assignments",
-			"weight": "45% or 50% (see details)"
+			"weight": 45
 		},
 		{
 			"name": "EQUS Hackathon Report",
-			"weight": "0% or 5% (see details)"
+			"weight": 0
 		}
 	]
 }

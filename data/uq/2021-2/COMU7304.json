@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        1700 words"
+			"weight": 40
 		},
 		{
 			"name": "Multimedia concept plan",
-			"weight": "10%                                        1000 words max."
+			"weight": 10
 		},
 		{
 			"name": "Multimedia Portfolio",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

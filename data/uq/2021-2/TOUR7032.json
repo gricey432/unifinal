@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Review of Market Segmentation Studies",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Situation,Positioning and Branding Analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Marketing Audit",
-			"weight": "40%                                        Team"
+			"weight": 40
 		}
 	]
 }

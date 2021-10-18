@@ -10,15 +10,15 @@
 		},
 		{
 			"name": "Task 3: Reflective journal, starts in Week 2 - 13",
-			"weight": "30%                                        1400 - 1750 words"
+			"weight": 30
 		},
 		{
 			"name": "Task 1: Annotated Bibliography",
-			"weight": "30%                                        2000 words in total"
+			"weight": 30
 		},
 		{
 			"name": "Task 2: Design for learning",
-			"weight": "40%                                        2000 - 3000 words"
+			"weight": 40
 		}
 	]
 }

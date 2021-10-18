@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Three Online Quizzes",
-			"weight": "30%                                        Each quiz 10% (total 30%)"
+			"weight": 30
 		},
 		{
 			"name": "On-line Group Presentation",

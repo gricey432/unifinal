@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Teamwork Reports",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		},
 		{
 			"name": "Team Workshop",
-			"weight": "25%                                        Team Assessment"
+			"weight": 25
 		},
 		{
 			"name": "Course Reflection",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		}
 	]
 }

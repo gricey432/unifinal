@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Midsemester  Exam",
-			"weight": "25%                                        Individual; 1.5 hours"
+			"weight": 25
 		},
 		{
 			"name": "Team Project",
-			"weight": "25%                                        Team"
+			"weight": 25
 		},
 		{
 			"name": "Final Online Exam",
-			"weight": "50%                                        Individual;"
+			"weight": 50
 		}
 	]
 }

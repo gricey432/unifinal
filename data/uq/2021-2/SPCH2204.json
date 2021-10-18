@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Management of MSD: Case studies assignment",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Module 2: Paediatric Motor Speech Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		}
 	]
 }

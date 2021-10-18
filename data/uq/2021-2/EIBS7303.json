@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reflective essay Journal",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		},
 		{
 			"name": "Building Innovation Capability*",
-			"weight": "40%                                        NB: PAF required*"
+			"weight": 40
 		}
 	]
 }

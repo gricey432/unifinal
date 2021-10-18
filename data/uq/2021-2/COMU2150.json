@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Media Analysis",
-			"weight": "25%                                        1500 words"
+			"weight": 25
 		},
 		{
 			"name": "Major Research Essay",
-			"weight": "45%                                        2300-2500 words"
+			"weight": 45
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Tourism industry economic presentation",
-			"weight": "30%                                        Team"
+			"weight": 30
 		},
 		{
 			"name": "Online exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Tourism economic project",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

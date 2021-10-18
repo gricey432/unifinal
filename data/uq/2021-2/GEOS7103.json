@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Field Report (field trip or virtual field trip)",
-			"weight": "30%                                        2000 words"
+			"weight": 30
 		},
 		{
 			"name": "Discipline Paper Critique",
-			"weight": "15%                                        2000 words"
+			"weight": 15
 		}
 	]
 }

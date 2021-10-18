@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "What does hospitality mean to you?",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Podcast",
-			"weight": "30%                                        Pair"
+			"weight": 30
 		},
 		{
 			"name": "Online Assignment",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

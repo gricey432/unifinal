@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Exercise",
-			"weight": "20%                                        (Best 10 out of 11)"
+			"weight": 20
 		},
 		{
 			"name": "Final Assignment",

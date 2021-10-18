@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "POETRY EXERCISES",
-			"weight": "20%                                        4 poems"
+			"weight": 20
 		},
 		{
 			"name": "POEM EXPLICATION",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "POETRY PORTFOLIO",
-			"weight": "45%                                        4 poems"
+			"weight": 45
 		}
 	]
 }

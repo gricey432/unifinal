@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Tutorial preparation",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Online quiz #1",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Individual Project",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Homework assignment",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Online quiz #2",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "All assignments must be submitted by the due date and time stated in the course profile. For this course, students are required to submit their project assignment electronically via Turnitin on the course Blackboard site.",

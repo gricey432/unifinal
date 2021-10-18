@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Community Informatics & Social Change",
-			"weight": "45%                                        Max 2500 Words"
+			"weight": 45
 		},
 		{
 			"name": "Open Data and Social Change",
-			"weight": "45%                                        Max 2500 Words"
+			"weight": 45
 		},
 		{
 			"name": "Community Informatics Project",

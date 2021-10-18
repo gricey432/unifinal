@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Minor essay",
-			"weight": "20%                                        1,200 words"
+			"weight": 20
 		},
 		{
 			"name": "Major essay",
-			"weight": "50%                                        2,500 words"
+			"weight": 50
 		},
 		{
 			"name": "Tutorial summaries",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "2 short answer essays",
-			"weight": "20%                                        1,200 words"
+			"weight": 20
 		}
 	]
 }

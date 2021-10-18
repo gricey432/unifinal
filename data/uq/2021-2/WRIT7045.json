@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Plan for proposed project",
-			"weight": "25%                                        500-700 words"
+			"weight": 25
 		},
 		{
 			"name": "4000 words of independent writing",
-			"weight": "75%                                        4000 words"
+			"weight": 75
 		}
 	]
 }

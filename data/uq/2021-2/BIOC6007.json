@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - Submission and Peer review",
-			"weight": "10%                                        This mark is for the peer review component"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 2 - Submission and Peer review",
-			"weight": "10%                                        This mark is for the peer review component"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 3 - Submission and Peer review",
-			"weight": "10%                                        This mark is for the peer review component"
+			"weight": 10
 		},
 		{
 			"name": "Submission of two assignments (student choice)",

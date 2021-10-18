@@ -24,8 +24,11 @@ jobs:
       - name: Deploy
         run: |
           aws s3 sync ./client/dist/uq s3://unifinal-uq
+          aws cloudfront create-invalidation --distribution-id E1YMGKJTK8XWNJ --paths "/*"
           aws s3 sync ./client/dist/qut s3://unifinal-qut
+          aws cloudfront create-invalidation --distribution-id E1NAKJ79MK9T3E --paths "/*"
           aws s3 sync ./client/dist/griffith s3://unifinal-griffith
+          aws cloudfront create-invalidation --distribution-id EXNDBN0PJKUQU --paths "/*"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

@@ -13,15 +13,22 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
+        include:
+          - institution: uq
+            distribution: E1YMGKJTK8XWNJ
+          - institution: qut
+            distribution: E1NAKJ79MK9T3E
+          - institution: griffith
+            distribution: EXNDBN0PJKUQU
         institution: ['uq', 'qut', 'griffith']
     steps:
       - uses: actions/checkout@master
       - name: Upload
         run: |
-          pushd data/syncer
+          cd data/syncer
           yarn install
           yarn run sync ${{ matrix.institution }}
-          popd
+          aws cloudfront create-invalidation --distribution-id ${{ matrix.distribution }} --paths "/data/*"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

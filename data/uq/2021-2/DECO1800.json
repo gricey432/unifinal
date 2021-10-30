@@ -10,23 +10,23 @@
 		},
 		{
 			"name": "2C: Design Proposal Milestone (Team)",
-			"weight": "1"
+			"weight": "10"
 		},
 		{
 			"name": "2D: Work-in-Progress Milestone (Team)",
-			"weight": "2"
+			"weight": "20"
 		},
 		{
 			"name": "2E: Final Delivery (Team)",
-			"weight": "3"
+			"weight": "30"
 		},
 		{
 			"name": "1. Studio Journal",
-			"weight": "2"
+			"weight": "20"
 		},
 		{
 			"name": "3. Portfolio",
-			"weight": "2"
+			"weight": "20"
 		}
 	]
 }

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1 - 'Significance of Country' in practice",
+			"weight": "10%                                        Individual assignment"
+		},
+		{
+			"name": "Essay 2 - ESD in Practice",
+			"weight": "10%                                        Individual assignment"
+		},
+		{
+			"name": "Assignment 1 - Business plan",
+			"weight": "40%                                        Individual IVAH assignment"
+		},
+		{
+			"name": "Assignment 2 - Consultancy report",
+			"weight": "40%                                        Collaborative assignment"
+		}
+	]
+}

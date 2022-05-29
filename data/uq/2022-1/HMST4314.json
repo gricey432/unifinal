@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practicum-Based Assessment Items",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Reflective Tasks",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Major Practicum Project",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

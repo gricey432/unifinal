@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Extended Written Response Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Ongoing Engagement Activities",
+			"weight": 25
+		},
+		{
+			"name": "Group Assignment",
+			"weight": 25
+		},
+		{
+			"name": "OSCE Oral Consultation Exam",
+			"weight": 10
+		},
+		{
+			"name": "OSCE Oral Consultation Reflection",
+			"weight": 10
+		}
+	]
+}

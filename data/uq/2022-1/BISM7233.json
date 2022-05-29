@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Business Analytics Case Study",
+			"weight": "60%                                        Individual; 2,000 - 2,500 words"
+		}
+	]
+}

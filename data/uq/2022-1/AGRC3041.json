@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "4x quiz - dates to be advised",
+			"weight": 30
+		},
+		{
+			"name": "Plant Breeding data analysis I",
+			"weight": 20
+		},
+		{
+			"name": "Plant Breeding data analysis II MET- Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Report on field visits",
+			"weight": 25
+		}
+	]
+}

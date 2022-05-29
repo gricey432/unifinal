@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PBL quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Poster presentation and group participation",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online task - to be completed before each lecture",
+			"weight": 5
+		},
+		{
+			"name": "Concept-based reflection report",
+			"weight": 15
+		},
+		{
+			"name": "Discourse analysis project",
+			"weight": 40
+		},
+		{
+			"name": "Workshop: SCT in the language classroom",
+			"weight": 20
+		},
+		{
+			"name": "Critical analysis of a research article",
+			"weight": 20
+		}
+	]
+}

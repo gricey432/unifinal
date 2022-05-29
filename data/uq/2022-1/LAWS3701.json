@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Principles of Government Accountability",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Assignment",
+			"weight": 60
+		}
+	]
+}

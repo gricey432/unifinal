@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Examination of practical skills and prescription",
+			"weight": 20
+		},
+		{
+			"name": "Competency in musculoskeletal assessment and rehab",
+			"weight": 40
+		},
+		{
+			"name": "Interprofessional Collaborative Practice",
+			"weight": "pass/fail (must pass)"
+		},
+		{
+			"name": "Theory end of semester exam",
+			"weight": 40
+		}
+	]
+}

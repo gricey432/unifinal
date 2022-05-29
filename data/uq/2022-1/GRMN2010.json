@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "\"Im Juli\"",
+			"weight": 40
+		},
+		{
+			"name": "Individual Oral Interview",
+			"weight": 40
+		}
+	]
+}

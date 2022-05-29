@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Active Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Assignment of varying format",
+			"weight": 35
+		},
+		{
+			"name": "Research Essay",
+			"weight": 55
+		}
+	]
+}

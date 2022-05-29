@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Nernst Potential",
+			"weight": 5
+		},
+		{
+			"name": "Cardiac 1",
+			"weight": 15
+		},
+		{
+			"name": "Cardiac Function (Toad Model)",
+			"weight": 20
+		},
+		{
+			"name": "Quiz 1 - Muscle",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2 - Endocrinology",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 2 - Epithelial",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 4 - Neuro",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 5 - Sensory",
+			"weight": 2
+		},
+		{
+			"name": "Quiz 6 - Immunology",
+			"weight": 2
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

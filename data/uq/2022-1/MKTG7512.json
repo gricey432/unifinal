@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study analysis (oral presentation)",
+			"weight": "20%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Critical Analysis of Marketing Strategy",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Online Blackboard exam",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

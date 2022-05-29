@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Folio and resources",
+			"weight": 20
+		},
+		{
+			"name": "Performance - Strings, Wind/Brass, Keyboard",
+			"weight": "40%                                        (20% per instrument)"
+		},
+		{
+			"name": "Instrumental Music Teaching Research Assignment",
+			"weight": "40%                                        Group peer assessment"
+		}
+	]
+}

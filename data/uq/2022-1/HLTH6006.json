@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research pitch oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Ethics Workshop",
+			"weight": "Formative"
+		},
+		{
+			"name": "Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Aims and methods",
+			"weight": "Formative"
+		},
+		{
+			"name": "Thesis",
+			"weight": 50
+		},
+		{
+			"name": "Knowledge Translation",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project - Part 1 [Plan]",
+			"weight": 0
+		},
+		{
+			"name": "Major Project - Part 2 [Risk Assessment]",
+			"weight": 25
+		},
+		{
+			"name": "Major Project - Part 3 [Controls]",
+			"weight": 25
+		},
+		{
+			"name": "Practical Worksheets",
+			"weight": 25
+		},
+		{
+			"name": "Practical Report",
+			"weight": 10
+		},
+		{
+			"name": "Assessment Technique Challenge",
+			"weight": 15
+		}
+	]
+}

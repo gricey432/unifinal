@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Participatory situation analysis",
+			"weight": 50
+		},
+		{
+			"name": "Participatory communication strategy",
+			"weight": 50
+		}
+	]
+}

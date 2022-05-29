@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Wicked problem taming activity",
+			"weight": 15
+		},
+		{
+			"name": "Video",
+			"weight": 20
+		},
+		{
+			"name": "Online quiz (open-book)",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 55
+		}
+	]
+}

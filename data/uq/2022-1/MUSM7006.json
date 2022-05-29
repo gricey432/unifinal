@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Public Program Planning",
+			"weight": 25
+		},
+		{
+			"name": "Exhibition Review - Press Article",
+			"weight": 35
+		},
+		{
+			"name": "Exhibition proposal",
+			"weight": 40
+		}
+	]
+}

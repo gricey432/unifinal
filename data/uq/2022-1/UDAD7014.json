@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Australian Urban Design Awards Jury Report",
+			"weight": "40%                                        IVAH"
+		},
+		{
+			"name": "Urban Design Scrap/Sketchbook",
+			"weight": 20
+		},
+		{
+			"name": "Urban Design: Precedents vs Principles",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SHRS NDIS & Private Practice Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Environment Presentation & Facilitated Discussion",
+			"weight": "20%                                        MUST PASS"
+		},
+		{
+			"name": "Case-Based Assignment",
+			"weight": "50%                                        MUST PASS"
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": "30%                                        MUST PASS"
+		}
+	]
+}

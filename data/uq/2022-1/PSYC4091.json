@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and involvement in team meetings",
+			"weight": "Program requirement"
+		},
+		{
+			"name": "Thesis sections submitted",
+			"weight": "Program requirement"
+		},
+		{
+			"name": "Team supervised thesis",
+			"weight": 100
+		}
+	]
+}

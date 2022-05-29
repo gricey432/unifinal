@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Engagement",
+			"weight": 20
+		},
+		{
+			"name": "Video Reflection: Presentation 1",
+			"weight": "10%                                        5-minute video"
+		},
+		{
+			"name": "Video Reflection: Presentation 2",
+			"weight": "10%                                        5-minute video"
+		},
+		{
+			"name": "Draft Conflict Analysis (2500 Words)",
+			"weight": 30
+		},
+		{
+			"name": "Draft Conflict Resolution Design (2500 words)",
+			"weight": 30
+		}
+	]
+}

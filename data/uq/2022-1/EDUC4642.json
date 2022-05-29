@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A/Task 1  Micro teaching demonstration",
+			"weight": "20%                                        Micro teaching presentation"
+		},
+		{
+			"name": "A/Task 2 - Learning/Teaching sequence & assessment",
+			"weight": "50%                                        Learning and teaching sequence and assessment task, 3000 words"
+		},
+		{
+			"name": "A/Task 3: Professional Engagement & Communication",
+			"weight": "30%                                        Professional Engagement and Communication 1500 word report"
+		}
+	]
+}

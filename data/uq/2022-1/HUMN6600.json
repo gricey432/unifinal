@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1",
+			"weight": 50
+		},
+		{
+			"name": "Essay 2",
+			"weight": 50
+		},
+		{
+			"name": "Two-Minute Thesis presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Research, translation, and presentation project",
+			"weight": 40
+		},
+		{
+			"name": "Two-Minute Thesis presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

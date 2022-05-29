@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Ensemble Participation & Engagement",
+			"weight": 10
+		},
+		{
+			"name": "Gesture fundamentals & Etudes #1",
+			"weight": 10
+		},
+		{
+			"name": "Score Preparation Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Conducting Etudes #2",
+			"weight": 15
+		},
+		{
+			"name": "Folio of Ensemble Pieces",
+			"weight": 15
+		},
+		{
+			"name": "Rehearsal Practicum",
+			"weight": 35
+		}
+	]
+}

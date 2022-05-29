@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Skills Assessment Vital Signs - OSCA 1",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Skills Assessment Abdominal Palp - OSCA 2",
+			"weight": "NGP"
+		}
+	]
+}

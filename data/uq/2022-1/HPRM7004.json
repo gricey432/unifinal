@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion in tutorials and forums",
+			"weight": 5
+		},
+		{
+			"name": "Critique of media commentary",
+			"weight": "25%                                        1,000 words"
+		},
+		{
+			"name": "Synopses and online policy debate",
+			"weight": 30
+		},
+		{
+			"name": "Review of a prevention program",
+			"weight": "40%                                        1,500 words"
+		}
+	]
+}

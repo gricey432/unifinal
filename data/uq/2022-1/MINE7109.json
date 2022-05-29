@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Interim Report",
+			"weight": 25
+		},
+		{
+			"name": "A2: Milestone Review",
+			"weight": 15
+		},
+		{
+			"name": "A3: Thesis",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tasks",
+			"weight": 18
+		},
+		{
+			"name": "Written Assessment 1",
+			"weight": 15
+		},
+		{
+			"name": "Written Assessment 2",
+			"weight": 32
+		},
+		{
+			"name": "Movie Review",
+			"weight": 35
+		}
+	]
+}

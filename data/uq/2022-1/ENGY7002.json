@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Modules Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "National Case Study - Energy Trilemma",
+			"weight": 35
+		},
+		{
+			"name": "Individual Check-in: Community Energy Proposal",
+			"weight": "5%                                        Hurdle"
+		},
+		{
+			"name": "Design Studio & Report: Community Energy Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Design Studio and Community Energy Proposal",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

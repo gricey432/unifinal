@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ageing and Participation Fieldwork Report",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Student tutorial presentation",
+			"weight": 5
+		},
+		{
+			"name": "End Semester Online Exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Hypothesis testing with molecular dating",
+			"weight": 10
+		},
+		{
+			"name": "Invasive species and species distribution models",
+			"weight": 20
+		},
+		{
+			"name": "Main Project",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Guide",
+			"weight": 40
+		},
+		{
+			"name": "Interview, Formulation and Reflection",
+			"weight": 60
+		}
+	]
+}

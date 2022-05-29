@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quiz (via Blackboard)",
+			"weight": 20
+		},
+		{
+			"name": "Video (10 minutes) - via Blackboard",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (3000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 20
+		}
+	]
+}

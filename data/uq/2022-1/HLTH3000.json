@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz weeks 4,6,10 and 13",
+			"weight": "15%                                         quiz 1, 2, 3 and 4 each 5% (total: 20%)"
+		},
+		{
+			"name": "Case study/essay plan",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Case Study",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

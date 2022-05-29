@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Response to Readings (6)",
+			"weight": "6%                                        (6 x 1%), 150-200 Words each"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Short Writing Exercises (3)",
+			"weight": "24%                                        (3 x 8%), 500 Words each"
+		},
+		{
+			"name": "Draft of your short story",
+			"weight": 10
+		},
+		{
+			"name": "Completed final short story",
+			"weight": 50
+		}
+	]
+}

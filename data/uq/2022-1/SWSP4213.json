@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Community Development Practice",
+			"weight": 40
+		},
+		{
+			"name": "Community Development Portfolio",
+			"weight": 60
+		}
+	]
+}

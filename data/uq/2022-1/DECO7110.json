@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Design Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Research project",
+			"weight": 20
+		},
+		{
+			"name": "Ideation Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Design project",
+			"weight": 45
+		},
+		{
+			"name": "Assessment & weight",
+			"weight": "Ideation Portfolio (15%)"
+		},
+		{
+			"name": "Example 1",
+			"weight": "High Distinction (7)"
+		},
+		{
+			"name": "Example 2",
+			"weight": "Credit +(5)"
+		},
+		{
+			"name": "Example 3",
+			"weight": "Pass (4)"
+		}
+	]
+}

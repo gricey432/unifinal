@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Leadership & Consultation Workshops",
+			"weight": 10
+		},
+		{
+			"name": "CEMS & Elective Placements + RCVS Tool",
+			"weight": 30
+		},
+		{
+			"name": "CEMS: External Placement",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Reflective Journal: CEMS External Placement",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 Examination",
+			"weight": 50
+		}
+	]
+}

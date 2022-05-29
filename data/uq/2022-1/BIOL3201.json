@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Disease Collection",
+			"weight": 20
+		},
+		{
+			"name": "Weekly Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Prac test 1",
+			"weight": 10
+		},
+		{
+			"name": "Prac Test 2",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam - On Campus Invigilated",
+			"weight": 40
+		}
+	]
+}

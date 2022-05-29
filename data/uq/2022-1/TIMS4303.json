@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Week 3 checkpoint",
+			"weight": "Formative"
+		},
+		{
+			"name": "Research project outline",
+			"weight": "Formative"
+		},
+		{
+			"name": "Week 6 checkpoint",
+			"weight": "Formative"
+		},
+		{
+			"name": "Research Colloquium",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 70
+		},
+		{
+			"name": "Research Journal",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Reading response",
+			"weight": "20%                                        10 x (2 points each)"
+		},
+		{
+			"name": "Essays",
+			"weight": "70%                                        best 2 of 3 essays (35% each)"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

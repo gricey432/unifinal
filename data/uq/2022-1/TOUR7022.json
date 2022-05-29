@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Discussion Papers",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Article Review",
+			"weight": "45%                                        Individual; 2,000 words"
+		}
+	]
+}

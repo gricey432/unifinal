@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirements at practicals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Group Evaluation for Thoracic Dissection & Anatomy",
+			"weight": 15
+		},
+		{
+			"name": "Group Evaluation for Abdominal Dissection",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Practical Spotter Exam",
+			"weight": 35
+		}
+	]
+}

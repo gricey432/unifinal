@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 0
+		},
+		{
+			"name": "Depositional Environment Report",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Stratigraphic Column Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-tutorial quizzes",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Mid-semester examination on modules 1 and 2.",
+			"weight": 50
+		},
+		{
+			"name": "End-of-Semester exam on modules 3 and 4.",
+			"weight": 50
+		}
+	]
+}

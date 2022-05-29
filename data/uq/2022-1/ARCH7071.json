@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Futuring",
+			"weight": 60
+		},
+		{
+			"name": "Narrative Essay or Speculative Fiction",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theme 1 in-class presentation",
+			"weight": 30
+		},
+		{
+			"name": "Theme 2 essay",
+			"weight": 30
+		},
+		{
+			"name": "Theme 3 Interview Report",
+			"weight": 40
+		}
+	]
+}

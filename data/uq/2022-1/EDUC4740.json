@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook Part A (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Facilitating a Physical Activity Session (Group)",
+			"weight": 50
+		},
+		{
+			"name": "Workbook Part B (Individual)",
+			"weight": 20
+		}
+	]
+}

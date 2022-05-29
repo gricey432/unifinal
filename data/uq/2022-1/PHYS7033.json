@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Course summary",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam (Zoom invigilation)",
+			"weight": 60
+		}
+	]
+}

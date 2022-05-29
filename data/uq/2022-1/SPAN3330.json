@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Two (2) TASKS on-line",
+			"weight": "10%                                         2 x 5% each"
+		},
+		{
+			"name": "Narración",
+			"weight": 15
+		},
+		{
+			"name": "Descripción",
+			"weight": 20
+		},
+		{
+			"name": "Exposición",
+			"weight": 25
+		},
+		{
+			"name": "Argumentación",
+			"weight": 30
+		}
+	]
+}

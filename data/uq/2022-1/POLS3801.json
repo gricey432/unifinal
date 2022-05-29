@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "(4 seminars in total)",
+			"weight": 10
+		},
+		{
+			"name": "(downloadable form to be signed by supervisor)",
+			"weight": 10
+		},
+		{
+			"name": "1500 words",
+			"weight": 20
+		},
+		{
+			"name": "(3 minute snapshot)",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

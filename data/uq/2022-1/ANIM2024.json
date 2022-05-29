@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Learning reflections",
+			"weight": 50
+		},
+		{
+			"name": "Equine Unit Duties",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Handling skills assessment",
+			"weight": 20
+		},
+		{
+			"name": "End-of-semester examination",
+			"weight": 30
+		}
+	]
+}

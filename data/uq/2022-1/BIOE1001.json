@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Component",
+			"weight": 20
+		},
+		{
+			"name": "Quiz during tutorial time",
+			"weight": 30
+		},
+		{
+			"name": "Library Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Key Questions in ancient civilisations weeks 1-6",
+			"weight": 25
+		},
+		{
+			"name": "Museum Artefact Due Diligence Report",
+			"weight": 50
+		},
+		{
+			"name": "Key Questions in ancient civilisations weeks 7-13",
+			"weight": 25
+		}
+	]
+}

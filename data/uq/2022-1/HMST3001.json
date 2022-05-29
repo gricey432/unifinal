@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Reflection",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim & Final Supervisors Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "140 hours Apparently Healthy practicum",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Student Presentations and Discussion",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Log book & Reference Form",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

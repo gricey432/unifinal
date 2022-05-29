@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Exam (Online)",
+			"weight": 20
+		},
+		{
+			"name": "Data Analysis Reports",
+			"weight": "20%                                        NOTE: multiple submissions required, each with their own due date."
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Practical report",
+			"weight": 24
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

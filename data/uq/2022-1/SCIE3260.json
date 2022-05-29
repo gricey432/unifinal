@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster",
+			"weight": 20
+		},
+		{
+			"name": "Research Report",
+			"weight": 55
+		},
+		{
+			"name": "Research skills, performance & documentation",
+			"weight": 25
+		}
+	]
+}

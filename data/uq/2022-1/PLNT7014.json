@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pest Resistance and Food Security",
+			"weight": 35
+		},
+		{
+			"name": "Critical evaluation of a free IPM tool or APP",
+			"weight": 25
+		},
+		{
+			"name": "Development of an IPM program",
+			"weight": 40
+		}
+	]
+}

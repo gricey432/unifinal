@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "First Writing Exam",
+			"weight": 30
+		},
+		{
+			"name": "Mini-Essay",
+			"weight": 10
+		},
+		{
+			"name": "Second Writing Exam",
+			"weight": 30
+		},
+		{
+			"name": "Individual Interview",
+			"weight": 30
+		}
+	]
+}

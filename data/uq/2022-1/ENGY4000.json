@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Solar Problem Set",
+			"weight": 20
+		},
+		{
+			"name": "Wind Farm Infographic",
+			"weight": 15
+		},
+		{
+			"name": "Electricity Generation using Fossil Fuels",
+			"weight": 25
+		},
+		{
+			"name": "Mentor Meetings",
+			"weight": "used to moderate project mark and verify individual contributions"
+		},
+		{
+			"name": "Group Project - Net Zero Energy System",
+			"weight": 40
+		}
+	]
+}

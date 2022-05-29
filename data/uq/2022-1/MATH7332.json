@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Cryptography Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Cryptography Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Coding in-class problem set",
+			"weight": 5
+		},
+		{
+			"name": "Cryptography Report and Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Coding assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

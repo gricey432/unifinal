@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 01 : Amassing the Commons",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 02: Commons Tower (Hurdle)",
+			"weight": 70
+		}
+	]
+}

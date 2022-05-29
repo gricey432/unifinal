@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PBL Mini-exam",
+			"weight": 30
+		},
+		{
+			"name": "Experimental Design and Hypothesis Testing",
+			"weight": 10
+		},
+		{
+			"name": "Data Analysis and Presentation",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 45
+		}
+	]
+}

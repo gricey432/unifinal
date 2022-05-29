@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical IT Decision-Making and IT Governance",
+			"weight": 20
+		},
+		{
+			"name": "Business Consulting Report (IS Recommendations)",
+			"weight": 50
+		},
+		{
+			"name": "Audit Working Paper (IS Audit Work Package)",
+			"weight": 30
+		}
+	]
+}

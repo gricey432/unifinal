@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "6 x 30 minute quizzes",
+			"weight": "10%                                        each"
+		},
+		{
+			"name": "Communications Prac Exam",
+			"weight": 40
+		}
+	]
+}

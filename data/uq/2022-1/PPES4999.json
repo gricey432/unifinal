@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1:Reflective Workplace Journals",
+			"weight": "40%                                        Individual; 2300 words maximum"
+		},
+		{
+			"name": "Assignment 2 (Part I): Poster Submission",
+			"weight": "5%                                        Individual; Poster"
+		},
+		{
+			"name": "Assignment 2 (Part 2): Employability Presentation",
+			"weight": "15%                                        Individual; Poster"
+		},
+		{
+			"name": "Assignment 3: Development plan",
+			"weight": "40%                                        Individual; 2000 words"
+		}
+	]
+}

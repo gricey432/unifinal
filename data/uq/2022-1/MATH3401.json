@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": "20% or 40%"
+		},
+		{
+			"name": "mid-semester exam",
+			"weight": "0% (Formative)"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "80% or 60%"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asset safeguarding and control essay",
+			"weight": 20
+		},
+		{
+			"name": "MYOB report assessment and BPMN assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

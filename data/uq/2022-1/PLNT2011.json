@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "3MT of Poster",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Class Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Scientific Communication",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - invigilated through ProctorU",
+			"weight": 40
+		}
+	]
+}

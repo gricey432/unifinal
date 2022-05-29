@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment - Final",
+			"weight": 20
+		},
+		{
+			"name": "Problem set 1",
+			"weight": 20
+		},
+		{
+			"name": "Problem set 2",
+			"weight": 20
+		},
+		{
+			"name": "Problem set 3",
+			"weight": 20
+		},
+		{
+			"name": "Project",
+			"weight": 20
+		}
+	]
+}

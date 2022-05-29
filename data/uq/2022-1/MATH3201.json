@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Final Assignment (Extended Take-Home Assessment)",
+			"weight": 60
+		}
+	]
+}

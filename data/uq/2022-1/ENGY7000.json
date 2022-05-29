@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Solar and Wind Problem Set",
+			"weight": 35
+		},
+		{
+			"name": "Group Report - Net Zero Electricity System",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Only University approved and labelled calculators can be used in all quizzes or exams for this course. Please consult https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators  for information about approved calculators and obtaining a label for non-approved calculators.",
+			"weight": ""
+		}
+	]
+}

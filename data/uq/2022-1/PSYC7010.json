@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "DATA PREPARATION",
+			"weight": 15
+		},
+		{
+			"name": "DATA ANALYSIS",
+			"weight": 25
+		},
+		{
+			"name": "REPORT TO ORGANISATION",
+			"weight": 35
+		},
+		{
+			"name": "CONSIDERATIONS WITH ORGANISATIONAL DATA",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Problem Sets",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

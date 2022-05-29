@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Tasks",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Practicum-Based Assessment Items",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Case Study",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

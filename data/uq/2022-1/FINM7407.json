@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Derived Financial Market Analysis",
+			"weight": "35%                                        Individual; 1,500 words"
+		},
+		{
+			"name": "24-hour final assessment",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

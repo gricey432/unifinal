@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "course placement questionnaire",
+			"weight": 0
+		},
+		{
+			"name": "Writing activity 1",
+			"weight": 20
+		},
+		{
+			"name": "Oral 1",
+			"weight": 15
+		},
+		{
+			"name": "Writing Activity 2",
+			"weight": 20
+		},
+		{
+			"name": "Listening Activity",
+			"weight": 15
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		}
+	]
+}

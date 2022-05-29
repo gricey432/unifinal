@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding key concepts",
+			"weight": 20
+		},
+		{
+			"name": "Media research journal",
+			"weight": 10
+		},
+		{
+			"name": "Audio script",
+			"weight": "30%                                        1000 words"
+		},
+		{
+			"name": "Essay on representation and power",
+			"weight": "40%                                        1500 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "[PSY & AT Students] Research Paradigms",
+			"weight": 40
+		},
+		{
+			"name": "[AT Students] 2 Artworks for Exhibition in Sem. 2",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "[PSY & AT Students] Research Proposal",
+			"weight": 60
+		}
+	]
+}

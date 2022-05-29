@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": "12%                                        Cumulative score"
+		},
+		{
+			"name": "1500 words report on topic from Lectures 2-6",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 48
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 Problem Sets",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Quizzes to provide formative feedback",
+			"weight": 0
+		},
+		{
+			"name": "Final exam",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

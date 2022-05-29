@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Culture-independent analysis of food bacteria",
+			"weight": 25
+		},
+		{
+			"name": "Fermented food",
+			"weight": 35
+		},
+		{
+			"name": "Final Examination - Online Invigilated (ProctorU)",
+			"weight": 40
+		}
+	]
+}

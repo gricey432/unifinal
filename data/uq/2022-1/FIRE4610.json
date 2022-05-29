@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1 - Egress and alarm",
+			"weight": 25
+		},
+		{
+			"name": "Report 2 - active fire protection systems",
+			"weight": 25
+		},
+		{
+			"name": "Group presentations of building design project",
+			"weight": 25
+		},
+		{
+			"name": "Report 3 - structural fire safety",
+			"weight": 25
+		}
+	]
+}

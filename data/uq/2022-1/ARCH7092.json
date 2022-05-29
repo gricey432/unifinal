@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal & Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Completed Paper based on Project 1 (Hurdle)",
+			"weight": "70%                                        Hurdle"
+		}
+	]
+}

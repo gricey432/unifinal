@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Addition of Assistant Supervisor Form",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Point and Final Review",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Practicum Activity Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum Supervision Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Core Capability and Attribute Logs",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Professional Development Log Books",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Work-based assessment",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Field Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

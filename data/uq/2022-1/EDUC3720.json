@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Designing a sequence of three lessons",
+			"weight": 40
+		},
+		{
+			"name": "Hurdle task - presentation of draft unit plan",
+			"weight": 5
+		},
+		{
+			"name": "Unit plan, assessment and rubric",
+			"weight": 55
+		}
+	]
+}

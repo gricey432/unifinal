@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Strategy Analysis",
+			"weight": "30%                                        Individual; 1,500 Words"
+		},
+		{
+			"name": "Creative Strategy Portfolio",
+			"weight": "40%                                        Individual; 2,500 Words"
+		},
+		{
+			"name": "Creative Strategy Campaign Development",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

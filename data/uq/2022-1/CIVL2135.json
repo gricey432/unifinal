@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group assignment: Case study Ethics in engineering",
+			"weight": 20
+		},
+		{
+			"name": "Group assignment",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

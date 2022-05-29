@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classification - Jupyter Notebook",
+			"weight": "50%                                        Individual; 1500 words"
+		},
+		{
+			"name": "Text Analytics - Jupyter Notebook",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

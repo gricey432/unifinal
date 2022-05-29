@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical write ups",
+			"weight": 60
+		},
+		{
+			"name": "Field notes from Bowen Basin trip",
+			"weight": 5
+		},
+		{
+			"name": "Field Report - Bowen and Surat Basin",
+			"weight": 35
+		}
+	]
+}

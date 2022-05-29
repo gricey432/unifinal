@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Critical Topic Review (10 reviews)",
+			"weight": "60%                                        (6% per review)"
+		},
+		{
+			"name": "Application of theory to actual events",
+			"weight": 40
+		}
+	]
+}

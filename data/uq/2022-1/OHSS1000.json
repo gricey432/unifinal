@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Weekly Workshops",
+			"weight": 10
+		},
+		{
+			"name": "Topic Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Worksheet Submission",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Take Home Problem Set",
+			"weight": 40
+		}
+	]
+}

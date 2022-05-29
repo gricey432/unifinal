@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Group Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Final semester exam- invigilated through ProctorU",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes (done online)",
+			"weight": 30
+		},
+		{
+			"name": "Online Submission",
+			"weight": 25
+		},
+		{
+			"name": "Final Report",
+			"weight": 45
+		}
+	]
+}

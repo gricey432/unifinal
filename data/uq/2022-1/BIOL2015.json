@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Field note book",
+			"weight": 15
+		},
+		{
+			"name": "Workshop attendance and assignments",
+			"weight": 15
+		},
+		{
+			"name": "Examination of the theory part of the course",
+			"weight": 20
+		},
+		{
+			"name": "Module written as a paper",
+			"weight": 50
+		}
+	]
+}

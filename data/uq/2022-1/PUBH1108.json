@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: EBM vs EBPH Explainer",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2: Annotated bibliography",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Research proposal",
+			"weight": 40
+		}
+	]
+}

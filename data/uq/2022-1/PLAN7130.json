@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Learning Contract",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2: Linkedin Profile",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 3: Placement Poster and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 4: Placement Portfolio Report",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 5: Reflective Journal",
+			"weight": 30
+		}
+	]
+}

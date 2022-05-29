@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Practical Exercises (from practicals 1-6)",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "GIS Project Report",
+			"weight": 25
+		},
+		{
+			"name": "Online Exam",
+			"weight": 30
+		}
+	]
+}

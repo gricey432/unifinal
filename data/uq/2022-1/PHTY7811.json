@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester written exam",
+			"weight": 25
+		},
+		{
+			"name": "End-semester practical exam",
+			"weight": 30
+		},
+		{
+			"name": "End-semester VIVA exam",
+			"weight": 30
+		}
+	]
+}

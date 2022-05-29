@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Complete ten tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Positive Psychology Intervention Journal",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Journal",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

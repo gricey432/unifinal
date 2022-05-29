@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case/Topic Analysis Assignment Guide",
+			"weight": "15%                                        Team Presentation"
+		},
+		{
+			"name": "Open Book Exam",
+			"weight": "35%                                        On-line timed examination"
+		},
+		{
+			"name": "Open book exam",
+			"weight": "50%                                        On-line timed examination"
+		}
+	]
+}

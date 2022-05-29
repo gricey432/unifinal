@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion Board",
+			"weight": "25%                                        2 posts/500 words each"
+		},
+		{
+			"name": "Oral Case Presentation",
+			"weight": "25%                                        15 minutes"
+		},
+		{
+			"name": "Analysing the Psychoanalytic Process",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

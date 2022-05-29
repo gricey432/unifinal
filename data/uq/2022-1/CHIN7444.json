@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Legal Interpreting/Translation Practical",
+			"weight": 25
+		},
+		{
+			"name": "Weekly Interpreting/Translation Assignments",
+			"weight": 25
+		},
+		{
+			"name": "Final Legal Interpreting and Translation Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop exercises",
+			"weight": 10
+		},
+		{
+			"name": "Mid semester",
+			"weight": "0% or 10%"
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Python & communication assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final",
+			"weight": "60% or 50%"
+		}
+	]
+}

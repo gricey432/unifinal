@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem analysis diagram",
+			"weight": 20
+		},
+		{
+			"name": "Stakeholder Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Influences and leverage points",
+			"weight": 15
+		},
+		{
+			"name": "Finding solutions to Enviro Problem",
+			"weight": 35
+		}
+	]
+}

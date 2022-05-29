@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project Report on Financial Projections",
+			"weight": "40%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Assessment of the Simulation Game",
+			"weight": "5%                                        Individual"
+		},
+		{
+			"name": "Balanced Scorecard",
+			"weight": "25%                                        Individual; 1,500 words"
+		},
+		{
+			"name": "Final Exam - open book",
+			"weight": 30
+		}
+	]
+}

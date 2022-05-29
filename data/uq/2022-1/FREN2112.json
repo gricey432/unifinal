@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement",
+			"weight": 0
+		},
+		{
+			"name": "Participation aux forums",
+			"weight": 10
+		},
+		{
+			"name": "Compréhension écrite + mél formel",
+			"weight": 20
+		},
+		{
+			"name": "Conseils pour réussir l'université",
+			"weight": 15
+		},
+		{
+			"name": "Plan de l'analyse interculturelle",
+			"weight": 15
+		},
+		{
+			"name": "Analyse interculturelle",
+			"weight": 20
+		},
+		{
+			"name": "Présentation + Discussion",
+			"weight": 20
+		}
+	]
+}

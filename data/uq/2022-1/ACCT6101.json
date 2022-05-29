@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises and Article Reviews",
+			"weight": 30
+		},
+		{
+			"name": "Preliminary Research Proposal",
+			"weight": "30%                                        Part A; Part B;"
+		},
+		{
+			"name": "Take home Assessment",
+			"weight": "40%                                        Individual;"
+		}
+	]
+}

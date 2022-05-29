@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Therapeutic Presentation",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Rural practice self-reflection",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "On-line Case Management Scenarios",
+			"weight": 20
+		},
+		{
+			"name": "UQVETS Gatton Production Animal Service",
+			"weight": 40
+		},
+		{
+			"name": "Disease Investigation Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Herd Health Report",
+			"weight": 10
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

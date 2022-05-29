@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sheets",
+			"weight": 20
+		},
+		{
+			"name": "Reading Quizzes",
+			"weight": "Must answer 75% of all questions"
+		},
+		{
+			"name": "Distance Ladder Project",
+			"weight": 20
+		},
+		{
+			"name": "Cosmological parameter Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination - during Exam Period",
+			"weight": 40
+		}
+	]
+}

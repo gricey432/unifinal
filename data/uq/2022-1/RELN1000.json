@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading response",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal (in preparation for major essay)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": "50%                                        2000 words"
+		}
+	]
+}

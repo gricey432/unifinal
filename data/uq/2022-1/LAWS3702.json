@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Opinion",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination - Invigilated",
+			"weight": 60
+		}
+	]
+}

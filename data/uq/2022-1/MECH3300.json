@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "FEA Tutorial and Energy Method Short Report",
+			"weight": 10
+		},
+		{
+			"name": "Fracture Prac assignment & test",
+			"weight": 15
+		},
+		{
+			"name": "FEA Project Report Submission",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

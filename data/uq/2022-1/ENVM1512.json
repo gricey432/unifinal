@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Short quizzes online via Blackboard",
+			"weight": 25
+		},
+		{
+			"name": "Economic Analysis of an Environmental Issue",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam - Zoom invigilated",
+			"weight": 50
+		}
+	]
+}

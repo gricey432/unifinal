@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Work in Progress Presentation",
+			"weight": "15%                                        + PAF*"
+		},
+		{
+			"name": "Group Ethics Application",
+			"weight": "30%                                        + PAF*"
+		},
+		{
+			"name": "Group Research Proposal",
+			"weight": "35%                                        + PAF*"
+		},
+		{
+			"name": "Please note that late submissions in your final semester of study could delay your graduation by up to one semester.",
+			"weight": ""
+		}
+	]
+}

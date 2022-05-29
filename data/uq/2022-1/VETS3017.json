@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A Case-Based Approach to Therapeutics for the VT",
+			"weight": "15%                                        Antimicrobials"
+		},
+		{
+			"name": "A Case-Based Approach to Therapeutics for the VT",
+			"weight": "15%                                        Opioids & NSAIDS"
+		},
+		{
+			"name": "Drug & calculation quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

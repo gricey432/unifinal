@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion of plan",
+			"weight": 10
+		},
+		{
+			"name": "The beginnings of your essay",
+			"weight": 15
+		},
+		{
+			"name": "Final essay",
+			"weight": 30
+		},
+		{
+			"name": "SOSC2190 Online quiz",
+			"weight": 35
+		},
+		{
+			"name": "Online participation",
+			"weight": 10
+		}
+	]
+}

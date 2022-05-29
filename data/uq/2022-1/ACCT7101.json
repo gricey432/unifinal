@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": "30%                                        Topics 1 to 4"
+		},
+		{
+			"name": "Annual Report Problem Set - Assignment",
+			"weight": "15%                                        Individual; Topics 1 to 6"
+		},
+		{
+			"name": "Final exam",
+			"weight": "55%                                        All topics (focus on Topics 5 to 10)"
+		}
+	]
+}

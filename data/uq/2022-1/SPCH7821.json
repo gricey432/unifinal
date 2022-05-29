@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Language Sample Analysis Task",
+			"weight": 15
+		},
+		{
+			"name": "Paediatric language assessment - AV recording",
+			"weight": 15
+		},
+		{
+			"name": "Examination (modules 1-2)",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "40%                                        MUST PASS"
+		}
+	]
+}

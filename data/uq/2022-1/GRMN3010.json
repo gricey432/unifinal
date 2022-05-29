@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension and Written Expression",
+			"weight": 25
+		},
+		{
+			"name": "Grammar",
+			"weight": 25
+		},
+		{
+			"name": "Written Expression",
+			"weight": 25
+		},
+		{
+			"name": "Individual Interview",
+			"weight": 25
+		}
+	]
+}

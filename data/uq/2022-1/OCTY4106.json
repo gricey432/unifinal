@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 3 Community of Practice",
+			"weight": "20%                                        (4 discussion periods, 5% each)"
+		},
+		{
+			"name": "Assessment 2 Making Connections Video Diary",
+			"weight": 35
+		},
+		{
+			"name": "Assessment1 A&B MCPR Background & Foreground",
+			"weight": 45
+		}
+	]
+}

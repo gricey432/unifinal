@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual and collective thinking",
+			"weight": 10
+		},
+		{
+			"name": "Tools of Logic",
+			"weight": 10
+		},
+		{
+			"name": "Media analysis and argument mapping",
+			"weight": 40
+		},
+		{
+			"name": "Argumentative essay",
+			"weight": 40
+		}
+	]
+}

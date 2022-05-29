@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Planning, Teaching, Reflecting",
+			"weight": 50
+		},
+		{
+			"name": "Motor Active",
+			"weight": 50
+		}
+	]
+}

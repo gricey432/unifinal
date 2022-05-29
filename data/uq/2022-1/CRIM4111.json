@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Reflections",
+			"weight": 5
+		},
+		{
+			"name": "Ethics Scenarios",
+			"weight": 25
+		},
+		{
+			"name": "Applied Annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Proposal Poster Presentation and Extended Abstract",
+			"weight": 40
+		}
+	]
+}

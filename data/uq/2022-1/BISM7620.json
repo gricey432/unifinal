@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Recorded video-presentation",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of assigned material",
+			"weight": "20%                                        1,500 words"
+		},
+		{
+			"name": "Reflective essay on cybersecurity risk management",
+			"weight": "40%                                        2,500 words"
+		}
+	]
+}

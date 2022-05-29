@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ad Critique- Part A",
+			"weight": "25%                                        Individual; 3 pages"
+		},
+		{
+			"name": "Ad Critique- Part B",
+			"weight": "25%                                        Individual; 3 pages"
+		},
+		{
+			"name": "Pitch Presentation",
+			"weight": "20%                                        Individual; 5 slides, 5 minutes"
+		},
+		{
+			"name": "Creative Brief",
+			"weight": "30%                                        Individual; 4 pages"
+		}
+	]
+}

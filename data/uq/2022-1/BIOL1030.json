@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "A series of assessment tasks",
+			"weight": 30
+		},
+		{
+			"name": "Pre-prac online questions",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 14
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Communication task",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

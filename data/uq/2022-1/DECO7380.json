@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Ongoing development and submission of Portfolio",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Problem identification",
+			"weight": "10%                                        Team"
+		},
+		{
+			"name": "Interim project critique",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Project exhibit and documentation",
+			"weight": "30%                                        Team"
+		},
+		{
+			"name": "Assessment & weight",
+			"weight": "Problem Identification (10%)"
+		},
+		{
+			"name": "Example 1",
+			"weight": "High Distinction (7)"
+		},
+		{
+			"name": "Example 2",
+			"weight": "High Distinction (7)"
+		},
+		{
+			"name": "Example 3",
+			"weight": "Fail (2)"
+		}
+	]
+}

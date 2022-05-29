@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Metabolic health, lifestyle and body composition",
+			"weight": 17
+		},
+		{
+			"name": "Histology of reproductive organs",
+			"weight": 13
+		},
+		{
+			"name": "Reflection on VTS activity in histology",
+			"weight": 5
+		},
+		{
+			"name": "Hot topic 1",
+			"weight": 5
+		},
+		{
+			"name": "Hot topic 2",
+			"weight": 5
+		},
+		{
+			"name": "Hot topic 3",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		},
+		{
+			"name": "Anatomy of endocrine organs",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Metabolism, microbiome and circadian control",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reproduction and pregnancy",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Renal function and RAS",
+			"weight": "Pass/Fail"
+		}
+	]
+}

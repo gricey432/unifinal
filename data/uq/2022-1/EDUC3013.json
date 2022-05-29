@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Your Learning Data",
+			"weight": 35
+		},
+		{
+			"name": "eSafety Quiz",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "School Data Critique",
+			"weight": 35
+		},
+		{
+			"name": "Students' Learning Data",
+			"weight": 30
+		}
+	]
+}

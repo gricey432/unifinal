@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Pregnancy pathology",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2: Pregnancy OGTT",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 3: Postpartum haemorrhage",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 4 Pain management",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 5: Integration workshop",
+			"weight": 3
+		},
+		{
+			"name": "Fact Sheet on one maternal disorder",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

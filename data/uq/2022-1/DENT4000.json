@@ -1,0 +1,80 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ 1: What is bioethics?",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 2: Governance: AHPRA and DBA",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 3: Negligence, deception and COI",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 4: Autonomy, consent and confidentiality",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 5: Ethical issues in practice",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 6: Quality control",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 7: Ensuring practitioner health",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 8: Dentistry as a business",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 9: Expanding scope of practice",
+			"weight": 1
+		},
+		{
+			"name": "MCQ 10: Panel Discussion",
+			"weight": 1
+		},
+		{
+			"name": "Professional Experience Reflection (VLOG)",
+			"weight": 15
+		},
+		{
+			"name": "CYOA: Reflection",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

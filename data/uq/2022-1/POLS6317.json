@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Employability interview",
+			"weight": 5
+		},
+		{
+			"name": "Statement of Intent paper (1250w)",
+			"weight": 25
+		},
+		{
+			"name": "Seminar hosting and preparation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated thesis bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Methods Comparison Outline",
+			"weight": 10
+		},
+		{
+			"name": "Methods comparison essay",
+			"weight": 25
+		}
+	]
+}

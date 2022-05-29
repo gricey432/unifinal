@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Virology Exam",
+			"weight": 15
+		},
+		{
+			"name": "Mid semester Bacteriology exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical Skills Examination (PSE)",
+			"weight": 10
+		},
+		{
+			"name": "Parasitology Semester One Exam",
+			"weight": 25
+		},
+		{
+			"name": "Integrative Clinical Case Examination",
+			"weight": 20
+		},
+		{
+			"name": "Bacteriology & Public Health Exam(Semester 2)",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "2 quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Concept Design",
+			"weight": 25
+		},
+		{
+			"name": "Design to Cost Project Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

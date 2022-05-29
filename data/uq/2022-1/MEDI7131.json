@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CBL Participation Assessment - Formative",
+			"weight": "Provides formative feedback towards the summative CBL participation assessment"
+		},
+		{
+			"name": "CBL Participation Assessment - Summative",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Values-Based Practice",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

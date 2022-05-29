@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Models",
+			"weight": 15
+		},
+		{
+			"name": "Practical Assessment Sequence",
+			"weight": 24
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

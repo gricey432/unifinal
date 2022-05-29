@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Plan",
+			"weight": 15
+		},
+		{
+			"name": "Essay on a Leadership Topic",
+			"weight": 35
+		},
+		{
+			"name": "Collation of Personal Learning",
+			"weight": 10
+		},
+		{
+			"name": "Learning Project Report",
+			"weight": "40%                                        You must pass the Learning Project Report to pass the course."
+		}
+	]
+}

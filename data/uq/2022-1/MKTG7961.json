@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "The marketing plan design",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Marketing plan presentation",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Final marketing plan",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Final examination - invigilated through ProctorU",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

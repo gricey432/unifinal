@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 45
+		},
+		{
+			"name": "Large Computational Project",
+			"weight": 25
+		},
+		{
+			"name": "Homework assignment",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory written report",
+			"weight": 10
+		},
+		{
+			"name": "Reading Assignments",
+			"weight": "Hurdle requirement: 70% participation"
+		}
+	]
+}

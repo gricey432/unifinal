@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Calculation and interpretation report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": 50
+		},
+		{
+			"name": "Type of assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Examination (Online Quiz)",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and tasks",
+			"weight": 10
+		},
+		{
+			"name": "Online Multiple Choice Quizzes",
+			"weight": "20%                                        quiz 1, 2, 3 and 4 each 5% (total: 20%)"
+		},
+		{
+			"name": "Essay proposal",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Essay",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

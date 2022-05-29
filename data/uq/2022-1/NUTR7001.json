@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Current nutrition topic",
+			"weight": 25
+		},
+		{
+			"name": "Online assessment",
+			"weight": 25
+		},
+		{
+			"name": "Nutrition and health in a chosen location",
+			"weight": 50
+		}
+	]
+}

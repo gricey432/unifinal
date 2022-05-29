@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Crystal Structure Determination",
+			"weight": 20
+		},
+		{
+			"name": "Crystallography Exam",
+			"weight": 30
+		},
+		{
+			"name": "Spectroscopy Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Spectroscopy Exam",
+			"weight": 30
+		}
+	]
+}

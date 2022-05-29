@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Telepractice Video Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Service Plan",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

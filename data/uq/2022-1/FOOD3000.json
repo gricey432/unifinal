@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Summary & Graphical Abstract",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination - Online Invigilated (ProctorU)",
+			"weight": 45
+		}
+	]
+}

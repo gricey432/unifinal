@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing exam",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "STP Analysis",
+			"weight": "40%                                        Group"
+		},
+		{
+			"name": "Marketing mix case evaluation",
+			"weight": "45%                                        Individual"
+		}
+	]
+}

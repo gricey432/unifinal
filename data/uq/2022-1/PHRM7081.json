@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Self-directed learning modules",
+			"weight": "Must be completed"
+		},
+		{
+			"name": "Learning Portfolio Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Conflict resolution management",
+			"weight": 10
+		},
+		{
+			"name": "Dispensing Error Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Team Discussion Reports",
+			"weight": 60
+		},
+		{
+			"name": "Primary Healthcare Intensive",
+			"weight": "Attendance and participation"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Application of Linear Regression",
+			"weight": 20
+		},
+		{
+			"name": "Application of Spatial Analysis and GIS",
+			"weight": 20
+		},
+		{
+			"name": "Application of Data Mining and Spatial Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

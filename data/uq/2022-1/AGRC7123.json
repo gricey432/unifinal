@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CapsimCore (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Presentation (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Individual Case Study (Invigilated Written Report)",
+			"weight": 50
+		}
+	]
+}

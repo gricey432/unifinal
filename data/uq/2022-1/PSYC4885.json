@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Student Oral Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Preparation and Participation and Chairing",
+			"weight": 20
+		},
+		{
+			"name": "Essay (2000 - 2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Reflection",
+			"weight": "Contact the Course Coordinator"
+		}
+	]
+}

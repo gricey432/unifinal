@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Experimental Reporting Skills",
+			"weight": 5
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 16
+		},
+		{
+			"name": "Synthesis and mechanism in Organic Chemistry",
+			"weight": 31
+		},
+		{
+			"name": "Synthesis and mechanism in Organic Chemistry",
+			"weight": 48
+		}
+	]
+}

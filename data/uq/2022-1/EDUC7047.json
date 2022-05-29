@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Language policy and planning essay",
+			"weight": "40%                                        2700 words"
+		},
+		{
+			"name": "Micro Language Policy",
+			"weight": "35%                                        2300 words"
+		},
+		{
+			"name": "Polity presentation",
+			"weight": 25
+		}
+	]
+}

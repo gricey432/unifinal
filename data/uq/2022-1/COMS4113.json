@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports",
+			"weight": 24
+		},
+		{
+			"name": "Mid Semester Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Simulation Assignment",
+			"weight": 16
+		},
+		{
+			"name": "Assignment - during Exam Period Final Assignment",
+			"weight": 45
+		}
+	]
+}

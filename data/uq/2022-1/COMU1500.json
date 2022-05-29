@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online quizzes",
+			"weight": 20
+		},
+		{
+			"name": "In-class presentation and written summary",
+			"weight": "20%                                        10-minute presentation + 250 word summary"
+		},
+		{
+			"name": "3 Keyword Summaries",
+			"weight": "25%                                        3 keywords; 1000 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "35%                                        1200-1500 words"
+		}
+	]
+}

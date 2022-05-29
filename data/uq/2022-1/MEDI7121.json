@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Hand Hygiene Australia module",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Peer Interview Recording & Review",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Coaching Examination (CCE)",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)- Formative",
+			"weight": "Formative"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)- Summative",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

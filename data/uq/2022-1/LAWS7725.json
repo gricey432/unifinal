@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Quiz in Class",
+			"weight": 10
+		},
+		{
+			"name": "Essay Research Paper - Internet Law",
+			"weight": 40
+		},
+		{
+			"name": "Essay Research Paper - IT Law",
+			"weight": 50
+		}
+	]
+}

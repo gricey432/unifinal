@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Warm-Up",
+			"weight": "10%                                        20 minutes/125-250 words"
+		},
+		{
+			"name": "Reading Review: Outsider Witnessing",
+			"weight": "40%                                        1250 words"
+		},
+		{
+			"name": "Facilitation Reflection",
+			"weight": "50%                                        2250 words"
+		}
+	]
+}

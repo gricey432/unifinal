@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "On-line problems",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Other",
+			"weight": ""
+		},
+		{
+			"name": "Complaints and criticisms should be directed in the first instance to the course coordinator. If you are not satisfied with the outcome, you may bring the matter to the attention of the Deputy head of School (Teaching & Learning).",
+			"weight": ""
+		}
+	]
+}

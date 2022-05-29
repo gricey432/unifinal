@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Centrally Administered Online Exam",
+			"weight": "40%                                        Individual; 1 hr 40 mins (incl 10 mins Planning)"
+		},
+		{
+			"name": "Weekly Quiz | Best 10 of 12 Quizzes submitted |",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Final examination Online Centrally Administered",
+			"weight": "40%                                        Individual; 2 hours (plus 10 minutes planning)"
+		}
+	]
+}

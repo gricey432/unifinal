@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of a review of a journal article",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation Work and Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Online Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 25
+		}
+	]
+}

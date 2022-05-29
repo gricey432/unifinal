@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weed identification",
+			"weight": 10
+		},
+		{
+			"name": "Spray equipment calibration",
+			"weight": 10
+		},
+		{
+			"name": "Burial depth effect on emergence",
+			"weight": 20
+		},
+		{
+			"name": "Quiz from tutorial sessions",
+			"weight": 20
+		},
+		{
+			"name": "Biology and management of a weed species",
+			"weight": 40
+		}
+	]
+}

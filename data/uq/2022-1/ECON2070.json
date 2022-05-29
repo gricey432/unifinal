@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Interactive Questions (in Pre-recorded Lectures)",
+			"weight": 12
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 22
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 22
+		},
+		{
+			"name": "Online Test 4",
+			"weight": 24
+		},
+		{
+			"name": "Interactive Questions: Late submission is not allowed and a penalty of 100% for non-submissions",
+			"weight": ""
+		}
+	]
+}

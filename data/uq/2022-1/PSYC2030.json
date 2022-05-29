@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "3 x Quiz (15% each)",
+			"weight": 45
+		},
+		{
+			"name": "The Effects of Violent Video Games",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": "NA - There is no form of extension for this piece of assessment."
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Worksheets",
+			"weight": "NA - There is no form of extension for this piece of assessment."
+		}
+	]
+}

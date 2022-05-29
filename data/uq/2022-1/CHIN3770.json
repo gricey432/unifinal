@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple-choice e-quizzes on Bb",
+			"weight": 10
+		},
+		{
+			"name": "ONLINE Exam 1 - 50 minutes ONLY!",
+			"weight": 30
+		},
+		{
+			"name": "ONLINE Exam 2 - 50 minutes ONLY!",
+			"weight": 30
+		},
+		{
+			"name": "ONLINE Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Note this course does not use percentages -- we use criteria-referenced marks (1-7).",
+			"weight": ""
+		}
+	]
+}

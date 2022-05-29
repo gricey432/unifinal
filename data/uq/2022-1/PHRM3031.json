@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Resource creation and moderation",
+			"weight": 20
+		},
+		{
+			"name": "Critical Appraisal Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final examination",
+			"weight": 40
+		}
+	]
+}

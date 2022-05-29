@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design a High Performance Plan",
+			"weight": 30
+		},
+		{
+			"name": "Design a High Performance Review",
+			"weight": 50
+		},
+		{
+			"name": "Conduct a High Performance Review: Task Two",
+			"weight": 20
+		}
+	]
+}

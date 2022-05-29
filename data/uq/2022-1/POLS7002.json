@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Academic integrity module",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Participation & Facilitation",
+			"weight": 15
+		},
+		{
+			"name": "Reading responses & peer assessment",
+			"weight": 20
+		},
+		{
+			"name": "Essay Proposal (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay (2,500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Concept definition quiz",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review and summarize articles",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Problem solving",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Market research presentation",
+			"weight": "35%                                        Team"
+		}
+	]
+}

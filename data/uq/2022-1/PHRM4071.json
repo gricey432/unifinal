@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics and Project Approval Application",
+			"weight": 20
+		},
+		{
+			"name": "QUM Research Placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Diary Submissions",
+			"weight": 10
+		},
+		{
+			"name": "Preceptor Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final QUM Research Project Written Report",
+			"weight": 35
+		},
+		{
+			"name": "QUM Research Project Digital Poster Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Peer Review of Written QUM Project Report",
+			"weight": 10
+		}
+	]
+}

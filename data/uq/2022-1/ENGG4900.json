@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 2: Prof Eng & the Business Environment",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3: DCF Analysis of Projects",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 4: Sustainability and business",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Start-up Pitch Report (Team)",
+			"weight": 22.5
+		},
+		{
+			"name": "Assignment 1: Start-up Pitch Exec Summary (Indiv)",
+			"weight": 7.5
+		},
+		{
+			"name": "Assignment 1: Start-up Pitch Presentation (Team)",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Reading Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Presentation : analysis of an academic article",
+			"weight": 20
+		},
+		{
+			"name": "Debate on Flipgrid and reflective essay",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Take Home Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Oral discussion",
+			"weight": 30
+		}
+	]
+}

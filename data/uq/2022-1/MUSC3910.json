@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Release Plan",
+			"weight": 30
+		},
+		{
+			"name": "Work Journal",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Number 1",
+			"weight": 6
+		},
+		{
+			"name": "Number 2",
+			"weight": 6
+		},
+		{
+			"name": "How tensor calculus is utilized in science",
+			"weight": 10
+		},
+		{
+			"name": "Number 3",
+			"weight": 7
+		},
+		{
+			"name": "Number 4",
+			"weight": 7
+		},
+		{
+			"name": "Final examination",
+			"weight": 64
+		}
+	]
+}

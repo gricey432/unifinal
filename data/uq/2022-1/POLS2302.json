@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Questions",
+			"weight": 3
+		},
+		{
+			"name": "Tutorial Participation & Reading Questions",
+			"weight": 16
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Summary & Comparison of Selected Texts: 1500 words",
+			"weight": 31
+		}
+	]
+}

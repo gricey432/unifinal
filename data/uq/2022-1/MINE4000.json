@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of a Failed Tailings Dam",
+			"weight": 20
+		},
+		{
+			"name": "Tailings Storage Design, Operation and Closure",
+			"weight": 20
+		},
+		{
+			"name": "Final Examinations (MCQ and PSQ)",
+			"weight": 60
+		}
+	]
+}

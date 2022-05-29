@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Technical drawings: initial review",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "QDC, NCC and construction knowledge",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Analysis of an existing building",
+			"weight": "20%                                        Group work"
+		},
+		{
+			"name": "Technical drawings: construction set",
+			"weight": "40%                                        Individual IVAH"
+		}
+	]
+}

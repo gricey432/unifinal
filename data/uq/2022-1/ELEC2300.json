@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Labs and circuit simulation",
+			"weight": 20
+		},
+		{
+			"name": "Tutorials",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam - in Week 8",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam - Invigilated closed book",
+			"weight": 50
+		}
+	]
+}

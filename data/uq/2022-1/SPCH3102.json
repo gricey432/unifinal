@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Analysis and Teacher Report",
+			"weight": 20
+		},
+		{
+			"name": "Cased Based Management assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": "50%                                        MUST PASS"
+		}
+	]
+}

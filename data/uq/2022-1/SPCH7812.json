@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester quiz",
+			"weight": 10
+		},
+		{
+			"name": "Analysis, interpretation and management",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": "50%                                        Must Pass (Part A)"
+		}
+	]
+}

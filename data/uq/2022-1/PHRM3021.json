@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory-based practicals",
+			"weight": 30
+		},
+		{
+			"name": "Online non-invigilated examination",
+			"weight": 70
+		}
+	]
+}

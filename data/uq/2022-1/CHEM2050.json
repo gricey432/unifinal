@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Quiz 2",
+			"weight": 20
+		},
+		{
+			"name": "Achieve Learning Computer Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

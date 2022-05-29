@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "9 x Critical Journal Reflections",
+			"weight": "60%                                        7.5 per reflection for top scoring n-1 reflections. n = completed reflections (9 max)"
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

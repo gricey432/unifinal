@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching",
+			"weight": "20%                                        20 mins"
+		},
+		{
+			"name": "Learning and teaching sequence and assessment",
+			"weight": "50%                                        3000 words"
+		},
+		{
+			"name": "Professional engagement and communication",
+			"weight": "30%                                        10 mins + 250 words + 1500 words"
+		}
+	]
+}

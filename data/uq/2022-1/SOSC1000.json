@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short quiz: thinking like a social scientist",
+			"weight": 5
+		},
+		{
+			"name": "Power, values and social problems exercise",
+			"weight": 20
+		},
+		{
+			"name": "Rewrite (and reframe) the headlines",
+			"weight": 35
+		},
+		{
+			"name": "Major essay",
+			"weight": 40
+		}
+	]
+}

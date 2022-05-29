@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Narrative Report",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Data analysis and results report",
+			"weight": "MUST PASS"
+		}
+	]
+}

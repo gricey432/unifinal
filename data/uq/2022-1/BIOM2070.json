@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Oral Glucose Tolerance Test",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2: Neuroanatomy Test",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 3: Movement disorder Test",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 4: Blood pH Test",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 5: Cancer Chemotherapy Test",
+			"weight": 3
+		},
+		{
+			"name": "Fact Sheet on One disruption of Homeostasis",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "End Of Semester Exam",
+			"weight": 55
+		}
+	]
+}

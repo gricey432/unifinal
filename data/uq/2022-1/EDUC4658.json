@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1 - Learning and Teaching Folio",
+			"weight": "40%                                        4000 words"
+		},
+		{
+			"name": "Assessment Task 2 - Rehearsal Demonstration",
+			"weight": "25%                                        15-20 min. conducting"
+		},
+		{
+			"name": "4. Engagement and Participation",
+			"weight": 10
+		},
+		{
+			"name": "3. Teaching Music through Performing in Ensemble",
+			"weight": "25%                                        1500 word report"
+		}
+	]
+}

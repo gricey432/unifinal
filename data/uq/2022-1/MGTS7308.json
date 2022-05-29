@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and engagement throughout the course",
+			"weight": 10
+		},
+		{
+			"name": "Concept Statement",
+			"weight": 35
+		},
+		{
+			"name": "Discovery-Driven Plan",
+			"weight": 40
+		},
+		{
+			"name": "Developing the Social Entrepreneur Mindset",
+			"weight": "15%                                        Individual; 1,000 words"
+		}
+	]
+}

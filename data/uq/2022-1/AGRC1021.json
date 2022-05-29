@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Scientific Poster",
+			"weight": 25
+		},
+		{
+			"name": "Dynamic Study Modules",
+			"weight": 13
+		},
+		{
+			"name": "Final examination - invigilated through ProctorU",
+			"weight": 42
+		},
+		{
+			"name": "Looking at life",
+			"weight": 5
+		},
+		{
+			"name": "Responses to light",
+			"weight": 5
+		},
+		{
+			"name": "Invertebrates",
+			"weight": 5
+		},
+		{
+			"name": "What makes a plant?",
+			"weight": 5
+		}
+	]
+}

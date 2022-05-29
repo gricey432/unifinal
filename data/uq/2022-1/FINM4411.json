@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "20%                                        Part A; 2,000 words; Part B; Presentaion"
+		},
+		{
+			"name": "The Final Report",
+			"weight": "55%                                        Group"
+		},
+		{
+			"name": "Individual Report",
+			"weight": "25%                                        Individual"
+		}
+	]
+}

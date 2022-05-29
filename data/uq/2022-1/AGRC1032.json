@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Six quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Practical reports (3 reports)",
+			"weight": 45
+		},
+		{
+			"name": "Employability reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final examination - invigilated through ProctorU",
+			"weight": 39
+		}
+	]
+}

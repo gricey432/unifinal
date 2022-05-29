@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module completion and critical reflection",
+			"weight": 10
+		},
+		{
+			"name": "Developing your project",
+			"weight": 30
+		},
+		{
+			"name": "3MT presentation and workshop",
+			"weight": 20
+		},
+		{
+			"name": "Literature review",
+			"weight": 40
+		}
+	]
+}

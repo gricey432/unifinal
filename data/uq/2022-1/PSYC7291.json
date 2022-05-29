@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Indigenous Mental Health modules",
+			"weight": 5
+		},
+		{
+			"name": "Critical review of an e-therapy tool",
+			"weight": 5
+		},
+		{
+			"name": "Case study assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "Therapy skills competency test",
+			"weight": 30
+		},
+		{
+			"name": "Complex case study assignment",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Demonstration",
+			"weight": "Contact the Course Coordinator in the first instance"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator in the first instance"
+		},
+		{
+			"name": "Paper",
+			"weight": "Contact the Course Coordinator in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

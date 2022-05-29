@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Poster Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Formulation Prework and Plan (Group assessment)",
+			"weight": 15
+		},
+		{
+			"name": "Advanced Drug/Vaccine Delivery Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Good Laboratory Practice (Individual assessment)",
+			"weight": 10
+		},
+		{
+			"name": "Integrating Theory (Individual assessment)",
+			"weight": 40
+		}
+	]
+}

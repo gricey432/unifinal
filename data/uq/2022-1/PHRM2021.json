@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Practical Exam",
+			"weight": 35
+		},
+		{
+			"name": "Open-Book invigilated Exam",
+			"weight": 65
+		}
+	]
+}

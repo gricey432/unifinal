@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment - Final",
+			"weight": 20
+		},
+		{
+			"name": "Problem set 1",
+			"weight": 20
+		},
+		{
+			"name": "Problem set 2",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory report 1 (online)",
+			"weight": 10
+		},
+		{
+			"name": "Problem set 3",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory report 2 (online)",
+			"weight": 10
+		}
+	]
+}

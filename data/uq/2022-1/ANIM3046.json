@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Animal Breeding & Genetics Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Designing a Breeding Program",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Exam (ProctorU)",
+			"weight": 50
+		}
+	]
+}

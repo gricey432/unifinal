@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Blackboard Entries",
+			"weight": "10%                                        4 posts of 125 words each"
+		},
+		{
+			"name": "Live Performance Review",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "30%                                        1500 words"
+		},
+		{
+			"name": "Group Performance Project",
+			"weight": 20
+		},
+		{
+			"name": "Performance Reflection",
+			"weight": "10%                                        500 words"
+		}
+	]
+}

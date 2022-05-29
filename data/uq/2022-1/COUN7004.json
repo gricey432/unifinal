@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Comparison of Two Approaches",
+			"weight": 50
+		},
+		{
+			"name": "Treatment Manual",
+			"weight": 50
+		}
+	]
+}

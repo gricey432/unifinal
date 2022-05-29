@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submitted tutorial solutions",
+			"weight": 15
+		},
+		{
+			"name": "Practical class group report",
+			"weight": 15
+		},
+		{
+			"name": "Field work assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 60
+		}
+	]
+}

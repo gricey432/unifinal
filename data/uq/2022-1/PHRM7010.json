@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Completion of Integrity Tutorial",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Tutorial Presentations & BLUE Discussion Boards",
+			"weight": "15%                                        5% per module"
+		},
+		{
+			"name": "Individual contributions GREEN discussion boards",
+			"weight": "15%                                        5% per Module"
+		},
+		{
+			"name": "Reflection on Professional Practice",
+			"weight": "5%                                        Pass/Fail"
+		},
+		{
+			"name": "Analysis of MI video",
+			"weight": "5%                                        Pass / Fail"
+		},
+		{
+			"name": "Critical Appraisal of a journal article",
+			"weight": 30
+		},
+		{
+			"name": "Drug Information - Evaluation & Response",
+			"weight": 30
+		}
+	]
+}

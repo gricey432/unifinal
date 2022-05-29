@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Manufacturing of Microfluidic Nano-biosensors",
+			"weight": 10
+		},
+		{
+			"name": "Manufacturing of Microfluidic Nano-biosensors",
+			"weight": 15
+		},
+		{
+			"name": "Superconductor device manufacturing",
+			"weight": 10
+		},
+		{
+			"name": "Superconductor device manufacturing",
+			"weight": 15
+		},
+		{
+			"name": "Electronic Manufacturing",
+			"weight": 10
+		},
+		{
+			"name": "Electronic Manufacturing",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

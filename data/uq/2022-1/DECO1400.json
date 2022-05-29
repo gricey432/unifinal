@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "PeerWise",
+			"weight": 10
+		},
+		{
+			"name": "Website Design",
+			"weight": 20
+		},
+		{
+			"name": "Website Implementation",
+			"weight": 50
+		}
+	]
+}

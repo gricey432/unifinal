@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Evaluated exercise 1a",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 1b",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 2",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 3",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 4",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 5a",
+			"weight": 7
+		},
+		{
+			"name": "Evaluated exercise Module 5b",
+			"weight": 7
+		},
+		{
+			"name": "Project: report + codebase",
+			"weight": 51
+		}
+	]
+}

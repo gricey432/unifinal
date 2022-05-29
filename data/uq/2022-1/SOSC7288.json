@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participatory Practice Proposal",
+			"weight": "35%                                        2100 words"
+		},
+		{
+			"name": "Participatory Practice Output",
+			"weight": "30%                                        1800 words/15 mins"
+		},
+		{
+			"name": "Participatory Practice Reflection",
+			"weight": "35%                                        2100 words"
+		}
+	]
+}

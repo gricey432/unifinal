@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study analysis + annotated bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Red Refuge Concept Design",
+			"weight": 70
+		}
+	]
+}

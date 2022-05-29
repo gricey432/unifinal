@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Applying theory to clients' communication needs",
+			"weight": "40%                                        1200 words"
+		},
+		{
+			"name": "Situation Analysis & Research Proposal",
+			"weight": "10%                                        1000 words"
+		},
+		{
+			"name": "Research Findings Report (individual/group)",
+			"weight": "20%                                        1100 word report"
+		},
+		{
+			"name": "Campaign Plan (individual/group)",
+			"weight": "30%                                        1500 word presentation"
+		}
+	]
+}

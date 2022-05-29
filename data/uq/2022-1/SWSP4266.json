@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Reflection and Process Record 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-point Evaluation",
+			"weight": "Formative"
+		},
+		{
+			"name": "Practice Reflection and Process Record 2",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Placement Evaluation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

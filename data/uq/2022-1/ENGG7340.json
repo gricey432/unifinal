@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Project Execution",
+			"weight": 10
+		},
+		{
+			"name": "Thesis Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Interim Report",
+			"weight": 10
+		},
+		{
+			"name": "Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 60
+		}
+	]
+}

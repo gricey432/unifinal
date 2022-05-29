@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Five quizzes via Blackboard",
+			"weight": 20
+		},
+		{
+			"name": "Evaluate NRM intervention - online via Zoom",
+			"weight": 10
+		},
+		{
+			"name": "Evaluate NRM intervention",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Zoom invigilated",
+			"weight": 40
+		}
+	]
+}

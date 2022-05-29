@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Yoghurt Practical - All Groups",
+			"weight": 12
+		},
+		{
+			"name": "Plant-based Vs meat-based mince: a comparison",
+			"weight": 10
+		},
+		{
+			"name": "Total Starch Practical - All Groups",
+			"weight": 12
+		},
+		{
+			"name": "Faculty of Science Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Vitamin C Practical Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam - Online Invigilated (ProctorU)",
+			"weight": 60
+		}
+	]
+}

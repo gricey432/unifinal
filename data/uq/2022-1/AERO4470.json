@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 10
+		},
+		{
+			"name": "Shock tunnel laboratory experiment",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 1 Flow Deflection and viscous processe",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 2.5
+		},
+		{
+			"name": "Assignment 2: high temperature gas dynamics",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory experiment in rarefied gases",
+			"weight": 2.5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

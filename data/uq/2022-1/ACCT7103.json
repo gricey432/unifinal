@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-exam (online invigilated exam)",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Case Study: Audit Planning and testing",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Final Exam (online invigilated exam)",
+			"weight": "45%                                        Individual"
+		}
+	]
+}

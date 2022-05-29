@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1. Poster presentation",
+			"weight": "20%                                        Individual; poster"
+		},
+		{
+			"name": "A2. Reflective Workplace Journals",
+			"weight": "35%                                        Individual; Part 1; 600 words; Part 2; 600 Words;  Part 3; 200 words"
+		},
+		{
+			"name": "A3. Personal Development Plan",
+			"weight": "45%                                        Individual; 2,000 words"
+		}
+	]
+}

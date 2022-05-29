@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Four pop quizzes (5% each) at unspecified times",
+			"weight": 20
+		},
+		{
+			"name": "Field Work at Ban Ban Springs",
+			"weight": 5
+		},
+		{
+			"name": "Mystery Mineral Project",
+			"weight": 20
+		},
+		{
+			"name": "2-Hour Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (Theory)",
+			"weight": 35
+		}
+	]
+}

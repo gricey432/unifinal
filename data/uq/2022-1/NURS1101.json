@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online MCQ quiz",
+			"weight": 20
+		},
+		{
+			"name": "Small Group Oral Presentation",
+			"weight": 40
+		},
+		{
+			"name": "End of semester examination (online exam)",
+			"weight": 40
+		}
+	]
+}

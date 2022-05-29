@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three x reflective journals",
+			"weight": 30
+		},
+		{
+			"name": "Mid-term Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Major assessment",
+			"weight": 45
+		}
+	]
+}

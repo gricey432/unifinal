@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-class preparation",
+			"weight": 10
+		},
+		{
+			"name": "Assignments",
+			"weight": 25
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 25
+		},
+		{
+			"name": "Quantum Physics",
+			"weight": 40
+		}
+	]
+}

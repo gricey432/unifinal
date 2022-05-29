@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 50
+		},
+		{
+			"name": "Slake durability+ Rockbolt Pull Out Test",
+			"weight": 20
+		},
+		{
+			"name": "Uncertainty Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Scanning radar",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Health and Physical Education Unit Plan",
+			"weight": 15
+		},
+		{
+			"name": "Health and Physical Education Lesson Plan",
+			"weight": 25
+		},
+		{
+			"name": "Teachers as Health Workers Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Modified and Justified Unit and Lesson Plan",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "History and Mental status examination assessment",
+			"weight": "Performance Hurdle: Students must pass this regardless of overall course marks"
+		},
+		{
+			"name": "Completion of on-line case studies",
+			"weight": 10
+		},
+		{
+			"name": "Participation in Clinical Case Review Discussions",
+			"weight": 20
+		},
+		{
+			"name": "Multiple Choice Examination",
+			"weight": 30
+		},
+		{
+			"name": "Case-based Written Examination",
+			"weight": 40
+		}
+	]
+}

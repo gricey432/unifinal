@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Essay",
+			"weight": 45
+		},
+		{
+			"name": "2nd Essay",
+			"weight": 45
+		},
+		{
+			"name": "",
+			"weight": "Distinction\n\t\t\t(6)"
+		},
+		{
+			"name": "(stem word)",
+			"weight": "Demonstrated evidence of advanced achievement of course learning outcomes."
+		},
+		{
+			"name": "SAMPLE CRITERIA",
+			"weight": "Mastery of content"
+		},
+		{
+			"name": "Critical analysis and problem solving",
+			"weight": "Critical evaluation of data, cases, problems and their solutions, and implications"
+		},
+		{
+			"name": "Quality of argument",
+			"weight": "Perceptive insights in identifying, generating and synthesising competing arguments or perspectives"
+		},
+		{
+			"name": "Application of knowledge and skills",
+			"weight": "Extensive application of knowledge and skills"
+		},
+		{
+			"name": "Communication",
+			"weight": "Uses the conventions of the discipline to communicate at a professional level"
+		}
+	]
+}

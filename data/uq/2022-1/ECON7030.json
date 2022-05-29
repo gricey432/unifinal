@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises",
+			"weight": "20%                                        (Individual: best 8 of 10)"
+		},
+		{
+			"name": "Problem Set I",
+			"weight": 25
+		},
+		{
+			"name": "Problem Set II",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

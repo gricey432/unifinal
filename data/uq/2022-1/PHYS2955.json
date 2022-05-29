@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory written reports",
+			"weight": 20
+		},
+		{
+			"name": "Problem sets",
+			"weight": 25
+		},
+		{
+			"name": "Linear Regression Exercise",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Pre-reading Quizzes",
+			"weight": 5
+		}
+	]
+}

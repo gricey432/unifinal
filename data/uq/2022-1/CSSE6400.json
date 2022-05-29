@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Documentation Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 5
+		},
+		{
+			"name": "Case Study Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Cloud Infrastructure Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Delivering Quality Attributes",
+			"weight": 35
+		}
+	]
+}

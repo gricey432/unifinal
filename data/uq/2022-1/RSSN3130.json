@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interview Project",
+			"weight": 20
+		},
+		{
+			"name": "Weekly homework",
+			"weight": 18
+		},
+		{
+			"name": "Online Assessment series",
+			"weight": 32
+		},
+		{
+			"name": "The Mid-semester and Final Oral interview",
+			"weight": 30
+		}
+	]
+}

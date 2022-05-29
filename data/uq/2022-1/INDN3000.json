@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Theme 1 in class presentation",
+			"weight": 25
+		},
+		{
+			"name": "Theme 2 reading and writing exam",
+			"weight": 35
+		},
+		{
+			"name": "Cerpen in-class presentation",
+			"weight": 5
+		},
+		{
+			"name": "Short story (Cerpen)",
+			"weight": 35
+		}
+	]
+}

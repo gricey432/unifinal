@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Oral  (individual)",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Ministerial briefing note",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 3: Online quiz",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 4: Ministerial submission",
+			"weight": 40
+		}
+	]
+}

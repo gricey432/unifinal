@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Practical 1 Worksheet",
+			"weight": 2
+		},
+		{
+			"name": "Assignment Aligned to Practical 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical 2 Worksheet",
+			"weight": 2
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Assignment Aligned to Practical 3",
+			"weight": 5
+		},
+		{
+			"name": "Practical 3 Worksheet",
+			"weight": 2
+		},
+		{
+			"name": "Assignment Aligned to Practical 4",
+			"weight": 5
+		},
+		{
+			"name": "Practical 4 Worksheet",
+			"weight": 2
+		},
+		{
+			"name": "Assignment Aligned to Practical 5",
+			"weight": 10
+		},
+		{
+			"name": "Practical 5 Worksheet",
+			"weight": 2
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

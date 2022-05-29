@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Journalism Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Story (50%) and Data Visualisation (15%)",
+			"weight": 65
+		},
+		{
+			"name": "Research Journal and Sources List",
+			"weight": 15
+		}
+	]
+}

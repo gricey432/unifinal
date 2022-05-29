@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Production Technologies",
+			"weight": 10
+		},
+		{
+			"name": "Productivity Change",
+			"weight": 10
+		},
+		{
+			"name": "Behaviour and Efficiency",
+			"weight": 10
+		},
+		{
+			"name": "Piecewise Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Deterministic Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Stochastic Frontier Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

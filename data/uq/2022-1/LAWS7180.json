@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Research project",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Attendance at all clinical and induction sessions",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Client interviews",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Group projects",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Legal letter writing",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Student Learning Plan",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Initial Reflective Journal",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Final Reflection",
+			"weight": "Mandatory"
+		}
+	]
+}

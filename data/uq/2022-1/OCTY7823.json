@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "Case-Based Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Analysis of Occupation in Context",
+			"weight": 20
+		}
+	]
+}

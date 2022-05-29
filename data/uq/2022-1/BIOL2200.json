@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay for Online Practical 1",
+			"weight": 10
+		},
+		{
+			"name": "Report on Online practical 2",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam: Modules 1 and 2 (Online)",
+			"weight": 20
+		},
+		{
+			"name": "End of semester online invigilated exam",
+			"weight": 60
+		}
+	]
+}

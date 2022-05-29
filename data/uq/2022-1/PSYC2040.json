@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Application Questions",
+			"weight": 10
+		},
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": "15%                                        Attempt must be made to pass this course"
+		},
+		{
+			"name": "Research Report",
+			"weight": "35%                                        Attempt must be made to pass this course"
+		},
+		{
+			"name": "Media Diary",
+			"weight": 10
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": "30%                                        Attempt must be made to pass this course"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing and Reading",
+			"weight": 33
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 32
+		},
+		{
+			"name": "Listening and writing",
+			"weight": 25
+		},
+		{
+			"name": "Independent Task",
+			"weight": 10
+		}
+	]
+}

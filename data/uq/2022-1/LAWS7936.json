@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Court Scenario and Court Notes",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		}
+	]
+}

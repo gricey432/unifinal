@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Written Report",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Article Review (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Annotated bibliography (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay - 2500 words",
+			"weight": 40
+		}
+	]
+}

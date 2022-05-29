@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Practice & Individual Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Set interpreting tasks and activities",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Oral Interview",
+			"weight": 30
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 50
+		}
+	]
+}

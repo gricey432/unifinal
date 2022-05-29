@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethical aspects of acute care nursing",
+			"weight": 30
+		},
+		{
+			"name": "Presentation of a patient case study",
+			"weight": 30
+		},
+		{
+			"name": "Exam for NURS7123",
+			"weight": 40
+		}
+	]
+}

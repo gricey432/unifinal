@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 - Part a Risk Register",
+			"weight": 10
+		},
+		{
+			"name": "Quiz held during class time",
+			"weight": 15
+		},
+		{
+			"name": "Project 1 - Part b Tech Memo and Bow Tie",
+			"weight": 20
+		},
+		{
+			"name": "Project 2 - Incident Investigation",
+			"weight": 30
+		},
+		{
+			"name": "Final Oral Exam (20 Minutes)",
+			"weight": 25
+		}
+	]
+}

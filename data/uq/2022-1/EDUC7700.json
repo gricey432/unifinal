@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1",
+			"weight": 30
+		},
+		{
+			"name": "Task 2",
+			"weight": 70
+		},
+		{
+			"name": "In the case where the final grade is a half grade (i.e. 5.5) or close to a half grade (5.65), the grade will be rounded up or down to the nearest whole number taking into account the University of Queensland grade descriptors outlined in section 5.2. If the student has demonstrated evidence across the course that best aligns with the grade 5 or grade 6 descriptor, that grade will be allocated.",
+			"weight": ""
+		}
+	]
+}

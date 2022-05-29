@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Osteology Exam",
+			"weight": 25
+		},
+		{
+			"name": "Short Paper- Expert Witnesses and Expert Evidence",
+			"weight": 35
+		},
+		{
+			"name": "Crime Scene Assemblage Analysis",
+			"weight": 40
+		}
+	]
+}

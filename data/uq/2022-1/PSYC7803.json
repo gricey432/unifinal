@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Self-practice/Self-reflection",
+			"weight": 10
+		},
+		{
+			"name": "Competency: Risk assessment",
+			"weight": 20
+		},
+		{
+			"name": "Competency: CBT",
+			"weight": 20
+		},
+		{
+			"name": "Case Study 1",
+			"weight": 25
+		},
+		{
+			"name": "Case Study 2",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reflection",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Competency",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

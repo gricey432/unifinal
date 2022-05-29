@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Reflective Vlogs",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2 Pt 1: Environmental Scan Lit Review",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 Pt 2: Environmental Scan",
+			"weight": 40
+		}
+	]
+}

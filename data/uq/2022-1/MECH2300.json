@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reports on Bending of Beams Practical and Studios",
+			"weight": "10%                                        Bending of Beams Practical 5%, Studios 2 x 2.5% = 5%"
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Risk Assessment Report for Integrated Assignment",
+			"weight": 4
+		},
+		{
+			"name": "Integrated Assignment - Report",
+			"weight": 16
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Materials Part 35%, Structures Part 15%"
+		}
+	]
+}

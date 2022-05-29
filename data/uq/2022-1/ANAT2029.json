@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Week 1-12: 8 Regional Anatomy Prep Quizzes",
+			"weight": 8
+		},
+		{
+			"name": "Week 6: REGIONAL ANATOMY PART 1: UPPER LIMB",
+			"weight": 15
+		},
+		{
+			"name": "Week 1-12: 2 BIOMECHANICS/TISSUES Quizzes",
+			"weight": 2
+		},
+		{
+			"name": "Week 10: REGIONAL ANATOMY PART 2: LOWER LIMB",
+			"weight": 15
+		},
+		{
+			"name": "Week 13: REGIONAL ANATOMY PART 3: TRUNK",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

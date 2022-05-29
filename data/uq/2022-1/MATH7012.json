@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Progress Report",
+			"weight": 15
+		},
+		{
+			"name": "Project Thesis",
+			"weight": 70
+		},
+		{
+			"name": "Thesis Defense",
+			"weight": 5
+		}
+	]
+}

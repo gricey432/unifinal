@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Turning Point Questions",
+			"weight": "20%                                        3 submissions at 5-10% each"
+		},
+		{
+			"name": "Transactional Perspective on Occupation",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

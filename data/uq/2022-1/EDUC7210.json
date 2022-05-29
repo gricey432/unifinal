@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1 - lesson plan improvement",
+			"weight": 30
+		},
+		{
+			"name": "Task 2 Literature Review",
+			"weight": 30
+		},
+		{
+			"name": "Task 3 Plan for improving inclusive practice",
+			"weight": 40
+		}
+	]
+}

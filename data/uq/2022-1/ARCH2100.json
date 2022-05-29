@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1. Preliminary Design: Boundary Edge",
+			"weight": 30
+		},
+		{
+			"name": "2. Detailed Design: Edge + Pavilion (Hurdle)",
+			"weight": 70
+		}
+	]
+}

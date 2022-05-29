@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Researcher Questions #4",
+			"weight": 10
+		},
+		{
+			"name": "Student Seminar",
+			"weight": "0%                                        pass / fail"
+		},
+		{
+			"name": "Researcher Questions #1",
+			"weight": 10
+		},
+		{
+			"name": "Researcher Questions #2",
+			"weight": 10
+		},
+		{
+			"name": "Researcher Questions #3",
+			"weight": 10
+		},
+		{
+			"name": "Class Participation",
+			"weight": "0%                                        pass / fail"
+		},
+		{
+			"name": "Research Proposal - Introduction",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal - Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Student seminar",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

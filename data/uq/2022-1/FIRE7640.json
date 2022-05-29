@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theoretical background and experimental setup",
+			"weight": 30
+		},
+		{
+			"name": "Risk assessment before each laboratory",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual report of laboratory work",
+			"weight": 70
+		}
+	]
+}

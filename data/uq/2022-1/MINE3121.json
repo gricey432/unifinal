@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Rock Testing Practicals Lab Book",
+			"weight": 30
+		},
+		{
+			"name": "Computer Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Rock Mechanics",
+			"weight": 40
+		},
+		{
+			"name": "Criteria",
+			"weight": "Average"
+		},
+		{
+			"name": "Mark (%)",
+			"weight": "70 - 40"
+		},
+		{
+			"name": "Synthesis",
+			"weight": "Able to demonstrate enough understanding with some unnecessary date"
+		},
+		{
+			"name": "Methodology",
+			"weight": "Appropriate but lacking detail"
+		},
+		{
+			"name": "Sketches",
+			"weight": "Barely usable"
+		},
+		{
+			"name": "Equations",
+			"weight": "Appropriate equation wrong data"
+		},
+		{
+			"name": "Precision",
+			"weight": "Too much precision"
+		},
+		{
+			"name": "Units/Prefix",
+			"weight": "Correct units/wrong prefix"
+		},
+		{
+			"name": "Justification/Correctness",
+			"weight": "Wrong interpretation"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Scenario  Individual Reply",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Evaluation Exercise (CEX)",
+			"weight": 30
+		},
+		{
+			"name": "In depth analysis of pharmacological therapy.",
+			"weight": 40
+		},
+		{
+			"name": "NP ePortfolio 2.3 & 3.1",
+			"weight": "0%                                        Pass/ Fail"
+		}
+	]
+}

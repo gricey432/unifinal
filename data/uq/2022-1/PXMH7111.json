@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinician role in building working alliance",
+			"weight": 20
+		},
+		{
+			"name": "Case Report: standard mental health approach",
+			"weight": 40
+		},
+		{
+			"name": "Case Report: psychotherapy",
+			"weight": 40
+		}
+	]
+}

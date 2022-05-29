@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Tests x 3 (5% each)",
+			"weight": 15
+		},
+		{
+			"name": "Homework Assignments x 5",
+			"weight": "20%                                        WEEKS 4-13"
+		},
+		{
+			"name": "Mid-Semester Assignment",
+			"weight": "30%                                        WEEK 7"
+		},
+		{
+			"name": "Set-Timed via Blackboard",
+			"weight": 35
+		}
+	]
+}

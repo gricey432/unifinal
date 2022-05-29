@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Activities",
+			"weight": "10%                                        Each summative workshop quiz is worth 2% of the overall course mark."
+		},
+		{
+			"name": "Online quizzes",
+			"weight": "15%                                        Each online quiz is worth 2.5% of the overall course mark."
+		},
+		{
+			"name": "Chemistry of Everything Vlog (video blog)",
+			"weight": 15
+		},
+		{
+			"name": "Practical Experience",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

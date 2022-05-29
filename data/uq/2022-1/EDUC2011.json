@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classroom Physical Activity Integration",
+			"weight": 60
+		},
+		{
+			"name": "Physical Activity Leadership in Primary Schools",
+			"weight": 40
+		}
+	]
+}

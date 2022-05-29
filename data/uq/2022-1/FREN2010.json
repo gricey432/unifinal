@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement",
+			"weight": 0
+		},
+		{
+			"name": "Class discussion: LAnalphabète",
+			"weight": 10
+		},
+		{
+			"name": "Weekly worksheets on L'Analphabète",
+			"weight": 10
+		},
+		{
+			"name": "Online Exam 1",
+			"weight": 10
+		},
+		{
+			"name": "Oral 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Exam 2",
+			"weight": 10
+		},
+		{
+			"name": "Online Exam 3",
+			"weight": 10
+		},
+		{
+			"name": "Oral 2",
+			"weight": 30
+		}
+	]
+}

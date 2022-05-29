@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Sheets",
+			"weight": 10
+		},
+		{
+			"name": "Reading Quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Distance Ladder Project",
+			"weight": 15
+		},
+		{
+			"name": "Cosmological parameter Project",
+			"weight": 15
+		},
+		{
+			"name": "Scientific Essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination - during Exam Period",
+			"weight": 40
+		}
+	]
+}

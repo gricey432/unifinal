@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Teacher's Report",
+			"weight": 40
+		},
+		{
+			"name": "Diction Tutor Report or Portfolio of Achievement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Instrumental, Vocal or Composition Workshop",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Technical Exam",
+			"weight": 60
+		}
+	]
+}

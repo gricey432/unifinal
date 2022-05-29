@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A Study of Grief - The Science and the Practice",
+			"weight": 40
+		},
+		{
+			"name": "Personal Exploration Journal",
+			"weight": 15
+		},
+		{
+			"name": "Professional Manual",
+			"weight": 45
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

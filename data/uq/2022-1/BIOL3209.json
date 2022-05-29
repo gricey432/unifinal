@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on weekly learning materials",
+			"weight": 50
+		},
+		{
+			"name": "Biodiversity of a group",
+			"weight": 10
+		},
+		{
+			"name": "Take-home assignment based on practicals",
+			"weight": 40
+		}
+	]
+}

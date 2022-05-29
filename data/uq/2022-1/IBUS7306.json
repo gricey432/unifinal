@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Taming a wicked problem",
+			"weight": 20
+		},
+		{
+			"name": "In-class debate",
+			"weight": 20
+		},
+		{
+			"name": "Short-answer reflection",
+			"weight": "10%                                        500 Words"
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Performance in journal club style discussions",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 2 & 3",
+			"weight": 20
+		},
+		{
+			"name": "Practical 2: Extended Abstract",
+			"weight": 15
+		},
+		{
+			"name": "Online open-book written examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises",
+			"weight": "16%                                        (Individual: best 8 of 10)"
+		},
+		{
+			"name": "Video: Analysis of Economic News (group work)",
+			"weight": "28%                                        Group; 5 minutes max ."
+		},
+		{
+			"name": "Exercise I",
+			"weight": 28
+		},
+		{
+			"name": "Exercise II",
+			"weight": 28
+		}
+	]
+}

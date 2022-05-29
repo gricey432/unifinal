@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Program",
+			"weight": 0
+		},
+		{
+			"name": "Essay I",
+			"weight": 25
+		},
+		{
+			"name": "Field Report",
+			"weight": 25
+		},
+		{
+			"name": "Assessment item 2 (Non-field trip participants)",
+			"weight": 25
+		},
+		{
+			"name": "examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project Exhibition and Oral Examination",
+			"weight": "see Team Project Final Presentation, Report and Documentation"
+		},
+		{
+			"name": "Individual engagement and participation",
+			"weight": 10
+		},
+		{
+			"name": "Research on a medical device and healthcare value",
+			"weight": 30
+		},
+		{
+			"name": "Team Project Plan",
+			"weight": 10
+		},
+		{
+			"name": "Team Project Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Team Project Report and Documentation",
+			"weight": 30
+		}
+	]
+}

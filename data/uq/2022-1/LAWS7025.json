@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam - scheduled during class hours",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 1 (2 Parts): Answering a Legal Problem",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 2: Answering a Legal Problem",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assessment & Case Study",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "DMFR presentation",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Compulsory Assignment",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Statistic & Radiology Assessment",
+			"weight": "Pass/Fail MUST PASS"
+		}
+	]
+}

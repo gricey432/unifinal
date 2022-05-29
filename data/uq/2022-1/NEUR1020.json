@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Ripple lecture exercises",
+			"weight": 10
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Lecture Ripple Exercise",
+			"weight": "NA"
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

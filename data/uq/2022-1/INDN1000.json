@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "End-of-semester oral interview",
+			"weight": 15
+		},
+		{
+			"name": "Homework Assignments",
+			"weight": 15
+		},
+		{
+			"name": "In-class vocab exercises",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Writing/Reading Comprehension exam",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Listening Exam",
+			"weight": 15
+		}
+	]
+}

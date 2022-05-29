@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Modules Multi-Choice Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Ministerial briefing: reducing carbon emissions",
+			"weight": 20
+		},
+		{
+			"name": "Report to Queensland Energy Minister",
+			"weight": "45%                                        Hurdle"
+		},
+		{
+			"name": "Debate on Australia's Nuclear Technology Future",
+			"weight": 20
+		},
+		{
+			"name": "PAF for Group Work and Presentation",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

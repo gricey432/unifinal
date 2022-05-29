@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online pre-recorded Practical Class",
+			"weight": 40
+		},
+		{
+			"name": "Faculty of Science Employability Reflection",
+			"weight": 2
+		},
+		{
+			"name": "Week 8 Mid-sem Exam (Zoom invigilated)",
+			"weight": 30
+		},
+		{
+			"name": "Woolly Mammoth 2.0",
+			"weight": 28
+		}
+	]
+}

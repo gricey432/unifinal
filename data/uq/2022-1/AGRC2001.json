@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical assessment 1. Data analysis",
+			"weight": 29
+		},
+		{
+			"name": "Self reflection on workplace skill development",
+			"weight": 1
+		},
+		{
+			"name": "Practical assessment 2. Silage & boinformatics",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography on Topic of Interest",
+			"weight": "30%                                        1500-2000 words"
+		},
+		{
+			"name": "Leading the Science of Learning in Practice",
+			"weight": "35%                                        1500-2000 words or equivalent"
+		},
+		{
+			"name": "Professional Reflection and Application",
+			"weight": "35%                                        1500-2000 words"
+		}
+	]
+}

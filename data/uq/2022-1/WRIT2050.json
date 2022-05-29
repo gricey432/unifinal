@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Writing Craft",
+			"weight": "30%                                        800-1000 words"
+		},
+		{
+			"name": "Three Minute Synopsis",
+			"weight": "10%                                        400-450 words"
+		},
+		{
+			"name": "Opening Scenes of a Novel",
+			"weight": "60%                                        3000-3200 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching Presentation and Report",
+			"weight": 30
+		},
+		{
+			"name": "Designing a Senior Physical Education Unit of Work",
+			"weight": 40
+		},
+		{
+			"name": "Professional Engagement and Communication",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Indigenous Health Modules 1, 2 and 3",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": "20%                                        20 MCQ items"
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": "20%                                        20 MCQ items"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Online Quiz (Indigenous Health Module)",
+			"weight": "NA"
+		},
+		{
+			"name": "Online Quiz 1 and 2",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Case Study",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Reflection",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

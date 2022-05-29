@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Solution to an Applied Org Problem",
+			"weight": 40
+		},
+		{
+			"name": "Class discussion and integrative reviews",
+			"weight": 20
+		},
+		{
+			"name": "Report on Solution to an Applied Org Problem",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Article reviews",
+			"weight": "Contact the Course Coordinator."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

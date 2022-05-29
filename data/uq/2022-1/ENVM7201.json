@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Catchment water balance analysis",
+			"weight": 30
+		},
+		{
+			"name": "Catchment field visit report",
+			"weight": 30
+		},
+		{
+			"name": "Role-play catchment management workshop",
+			"weight": 10
+		},
+		{
+			"name": "Catchment management essay",
+			"weight": 30
+		}
+	]
+}

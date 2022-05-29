@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Participation and Contribution",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Problem-Based Learning Viva Exam",
+			"weight": 30
+		},
+		{
+			"name": "Multi-disciplinary Management of Medical Condition",
+			"weight": 25
+		},
+		{
+			"name": "Problem-Based learning Viva Exam",
+			"weight": 30
+		},
+		{
+			"name": "Problem-Based Learning Viva Exam",
+			"weight": 15
+		}
+	]
+}

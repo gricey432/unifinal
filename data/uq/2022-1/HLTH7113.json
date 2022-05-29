@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussions",
+			"weight": "20%                                        10 Discussions - worth 2% each"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "PowerPoint Presentation/Slides",
+			"weight": 20
+		},
+		{
+			"name": "Webinar/short answer",
+			"weight": 5
+		},
+		{
+			"name": "Final report",
+			"weight": 35
+		}
+	]
+}

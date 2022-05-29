@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "Child development educational resource",
+			"weight": 20
+		},
+		{
+			"name": "Observation Report - Child Care Visits",
+			"weight": 40
+		}
+	]
+}

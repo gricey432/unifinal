@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence Based Medicine Critical Appraisal",
+			"weight": 15
+		},
+		{
+			"name": "Quality Use of Medicines Case",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 1 (focusing on Module 10)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2 (focusing on Module 11)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3 (focusing on Module 12)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 4 (focusing on Module 13)",
+			"weight": 5
+		},
+		{
+			"name": "Clinical Pharmacology Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 5 (focusing on Module 14)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 6 (focusing on Module 15)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 7 (focusing on Module 16)",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 8 (focusing on Module 17)",
+			"weight": 5
+		}
+	]
+}

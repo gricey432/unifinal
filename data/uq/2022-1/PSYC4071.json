@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Honours presentation",
+			"weight": "Program Requirement"
+		},
+		{
+			"name": "Individual Research Project",
+			"weight": 100
+		}
+	]
+}

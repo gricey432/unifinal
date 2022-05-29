@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Health Protection and Health Promotion Quiz Series",
+			"weight": 15
+		},
+		{
+			"name": "Research question and proposed methods",
+			"weight": 20
+		},
+		{
+			"name": "Small group database search",
+			"weight": 25
+		},
+		{
+			"name": "Systematic Review Report",
+			"weight": 40
+		}
+	]
+}

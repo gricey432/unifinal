@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Anaesthesia/Analgesia Performance Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Anaesthesia Rounds Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Diagnostic Imaging Clinical Rounds",
+			"weight": 10
+		},
+		{
+			"name": "DI Direct Observation of Procedural Skills",
+			"weight": 10
+		},
+		{
+			"name": "Radiology positioning and safety practical",
+			"weight": "P/F"
+		},
+		{
+			"name": "Emergency and Critical Care Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Capstone Examination B",
+			"weight": 10
+		},
+		{
+			"name": "Capstone Examination A",
+			"weight": 10
+		}
+	]
+}

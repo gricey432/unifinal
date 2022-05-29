@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Dissection report",
+			"weight": 20
+		},
+		{
+			"name": "Tissues and cells",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 60
+		}
+	]
+}

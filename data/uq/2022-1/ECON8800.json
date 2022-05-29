@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": 20
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Literature Review",
+			"weight": 25
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 5
+		},
+		{
+			"name": "Extension of a DSGE Model",
+			"weight": 25
+		}
+	]
+}

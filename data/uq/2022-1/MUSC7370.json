@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop or Demonstration Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Literature Review & Project Plan",
+			"weight": 35
+		},
+		{
+			"name": "Report & Reflection on Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - Online Quiz",
+			"weight": 30
+		}
+	]
+}

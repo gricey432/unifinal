@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Theory Application Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Theory Visualisation Infographic",
+			"weight": 20
+		}
+	]
+}

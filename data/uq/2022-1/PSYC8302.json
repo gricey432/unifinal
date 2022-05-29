@@ -1,0 +1,68 @@
+{
+	"assessment": [
+		{
+			"name": "Client, supervision and other-related hours",
+			"weight": "Required for Registration"
+		},
+		{
+			"name": "Observation of clinical interaction - minimum of 5",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Mid Placement Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid Placement Checklist",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End Placement Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End Placement Checklist",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Folio of clinical work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "https://my.uq.edu.au/node/218/2#2",
+			"weight": ""
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Log",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Video",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Mid-Semester Checklist",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Mid-Semester and End Semester Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "MSAT",
+			"weight": "Contact the Course Coordinator directly."
+		},
+		{
+			"name": "T1 Checklist",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "5 In-class Quizzes",
+			"weight": "50%                                        10% each"
+		},
+		{
+			"name": "Unit Planning",
+			"weight": 30
+		},
+		{
+			"name": "Planning Aboriginal and Torres Strait Islander Lea",
+			"weight": 20
+		}
+	]
+}

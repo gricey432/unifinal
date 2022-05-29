@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 Report Integrated Water, Sustainability,",
+			"weight": 25
+		},
+		{
+			"name": "Field and design challenge participate + reflect",
+			"weight": 10
+		},
+		{
+			"name": "Project 2 - Design concept options and analysis",
+			"weight": 30
+		},
+		{
+			"name": "Project 3 - Final report and presentation.",
+			"weight": 35
+		}
+	]
+}

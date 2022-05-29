@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation - methodology",
+			"weight": "35%                                        15 minute presentation"
+		},
+		{
+			"name": "Thesis research proposal",
+			"weight": "45%                                        2500 words"
+		},
+		{
+			"name": "Reflective writing piece",
+			"weight": "20%                                        1500 words"
+		}
+	]
+}

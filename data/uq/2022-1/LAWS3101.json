@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial work to demonstrate tutorial preparation",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam (online timed exam)",
+			"weight": 30
+		},
+		{
+			"name": "Online Invigilated Final Exam",
+			"weight": 55
+		}
+	]
+}

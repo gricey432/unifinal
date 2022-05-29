@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Small Animal Clinical Rotation Performance",
+			"weight": 45
+		},
+		{
+			"name": "Clinical Case Management Scenario",
+			"weight": 10
+		},
+		{
+			"name": "Shelter Medicine Rotation RSPCA",
+			"weight": 15
+		},
+		{
+			"name": "Grand Rounds Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

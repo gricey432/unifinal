@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Codebreaking Laboratory",
+			"weight": 15
+		},
+		{
+			"name": "Turing Completeness",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Topics in Computing",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

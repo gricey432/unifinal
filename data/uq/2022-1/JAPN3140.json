@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Worksheets",
+			"weight": 13
+		},
+		{
+			"name": "Argumentative essays",
+			"weight": 20
+		},
+		{
+			"name": "1st and 2nd drafts",
+			"weight": 30
+		},
+		{
+			"name": "Written Exam",
+			"weight": 37
+		}
+	]
+}

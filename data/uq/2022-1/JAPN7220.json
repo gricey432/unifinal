@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly vocabulary task semester 1",
+			"weight": 5
+		},
+		{
+			"name": "Sight translation exercise",
+			"weight": 15
+		},
+		{
+			"name": "1st Semester Interpreting Exam",
+			"weight": 30
+		},
+		{
+			"name": "2nd semester interpreting exam",
+			"weight": 50
+		}
+	]
+}

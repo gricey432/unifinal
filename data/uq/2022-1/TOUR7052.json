@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Quizzes",
+			"weight": "30%                                        Best 3 of 4"
+		},
+		{
+			"name": "Airline Simulation",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		}
+	]
+}

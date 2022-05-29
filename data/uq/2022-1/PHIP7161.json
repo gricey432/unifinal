@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Digital poster and pitch of a drug/medical device",
+			"weight": 30
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Vaxxas virtual tour open book test",
+			"weight": 20
+		},
+		{
+			"name": "End of semester Quiz",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ripple: Material creation and evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-term essay",
+			"weight": 35
+		},
+		{
+			"name": "Take home summary questions and reflection",
+			"weight": 35
+		},
+		{
+			"name": "Ripple: Reflection on own and other's materials",
+			"weight": 30
+		}
+	]
+}

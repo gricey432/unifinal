@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Prac - Eh-pH Measurement and Interpretation",
+			"weight": 10
+		},
+		{
+			"name": "Prac - Coal Flotation Using Jameson Cell",
+			"weight": 15
+		},
+		{
+			"name": "Prac - Sulphide Flotation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment - Flotation Kinetics and Equipment",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Examination (Closed Book)",
+			"weight": "45%                                        Hurdle"
+		}
+	]
+}

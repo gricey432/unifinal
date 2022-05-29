@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		},
+		{
+			"name": "Group Presentations & Written Task",
+			"weight": 40
+		},
+		{
+			"name": "Comparative Research Essay",
+			"weight": 60
+		},
+		{
+			"name": "Written response to 2 readings",
+			"weight": "30%                                        1,000 - 1,200 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		},
+		{
+			"name": "lead discussion and written reflection",
+			"weight": 30
+		},
+		{
+			"name": "Final research essay",
+			"weight": 70
+		}
+	]
+}

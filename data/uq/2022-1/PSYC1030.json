@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Weekly online lecture quizzes",
+			"weight": 27
+		},
+		{
+			"name": "Cycle of Science: Individual study e-Poster",
+			"weight": 19
+		},
+		{
+			"name": "Cycle of Science: Group-designed study e-Poster",
+			"weight": "19%                                        Submission is compulsory to pass the course"
+		},
+		{
+			"name": "Introduction + References",
+			"weight": "29%                                        Submission is compulsory to pass the course"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Lab Report Introduction",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Posters",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Written assessment in the course will be electronically screened for potential academic misconduct (e.g., plagiarism, collusion) using TurnitIn. Any assignments that are flagged by TurnitIn to have substantial overlap in content with other sources will then be manually examined by the course coordinator and the course tutor(s). If the nature of overlap is deemed to be of valid concern by course staff, then your assignment, along with the TurnitIn report and any other relevant documentation (e.g., overlapping sources) will be sent to the UQ School of Psychology's Academic Integrity Officer to be formally investigated for academic misconduct. You will not receive any marks for the criteria (based on the marking rubric) which contain work concluded as non-original. Further penalties may apply depending on the nature of the case. For the Lab Report Introduction, all students will be required to submit an originality statement along with their assignment--more information on this will be provided on Blackboard and in the tutorials.",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Paper (Individual)",
+			"weight": 25
+		},
+		{
+			"name": "Seminar Video (Group)",
+			"weight": 15
+		},
+		{
+			"name": "Essay Plan",
+			"weight": "0%                                        IVAH"
+		},
+		{
+			"name": "Essay",
+			"weight": "60%                                        IVAH"
+		}
+	]
+}

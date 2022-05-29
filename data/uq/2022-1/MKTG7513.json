@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Wicked Problem Analysis",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Behaviour Change Case Study",
+			"weight": "35%                                        Individual"
+		}
+	]
+}

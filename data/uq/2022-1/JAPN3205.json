@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "3MT presentation",
+			"weight": 15
+		},
+		{
+			"name": "Internship journal",
+			"weight": 30
+		},
+		{
+			"name": "Teaching demonstration",
+			"weight": 30
+		},
+		{
+			"name": "Final essay",
+			"weight": 25
+		},
+		{
+			"name": "Undergraduate/Postgraduate/Honours",
+			"weight": ""
+		},
+		{
+			"name": "1:   24 -   0%",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Module",
+			"weight": 0
+		},
+		{
+			"name": "Reading Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay Plan",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 30
+		}
+	]
+}

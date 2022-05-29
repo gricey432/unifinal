@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Self-assessed problem solving on tutorial concepts",
+			"weight": 0
+		},
+		{
+			"name": "CAFS (Concept Assessment and Feedback Sessions)",
+			"weight": 15
+		},
+		{
+			"name": "Two Laboratory experiment quizzes",
+			"weight": "10%                                        Completion of both quizzes"
+		},
+		{
+			"name": "Laboratory online experiment and report",
+			"weight": "15%                                        Completion of both online laboratory reports"
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

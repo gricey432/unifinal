@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written compositions",
+			"weight": 45
+		},
+		{
+			"name": "Paired oral presentations",
+			"weight": 45
+		},
+		{
+			"name": "Weekly worksheets",
+			"weight": 10
+		}
+	]
+}

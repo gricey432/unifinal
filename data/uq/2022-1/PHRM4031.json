@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assignment One",
+			"weight": 15
+		},
+		{
+			"name": "Assignment Two",
+			"weight": 25
+		},
+		{
+			"name": "Online non-invigilated exam",
+			"weight": 50
+		}
+	]
+}

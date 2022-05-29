@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "worksheets or CLASS engagement: 10 weeks x 2 marks",
+			"weight": 20
+		},
+		{
+			"name": "Short Essay",
+			"weight": "35%                                        1500 words"
+		},
+		{
+			"name": "Long Essay or Video Essay",
+			"weight": "45%                                        2000 Words"
+		}
+	]
+}

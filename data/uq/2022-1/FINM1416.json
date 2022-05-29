@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online weekly quizzes",
+			"weight": "15%                                        Best 9 of 12"
+		},
+		{
+			"name": "Assignments",
+			"weight": "45%                                        Best 3 of 4; Group; Individual"
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": "40%                                        Individual;"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project Report",
+			"weight": "40%                                        Group; Milestones;"
+		},
+		{
+			"name": "Ethics Position Paper",
+			"weight": 30
+		},
+		{
+			"name": "Market Research Decision Simulation",
+			"weight": 30
+		}
+	]
+}

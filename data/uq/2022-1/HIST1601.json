@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial work and quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Milestone Analysis",
+			"weight": "10%                                        400 words"
+		},
+		{
+			"name": "Primary Source Analysis",
+			"weight": "20%                                        600 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        2000 words"
+		}
+	]
+}

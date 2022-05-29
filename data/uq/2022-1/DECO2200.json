@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities",
+			"weight": 35
+		},
+		{
+			"name": "Just the Facts",
+			"weight": 20
+		},
+		{
+			"name": "Infographic",
+			"weight": 25
+		},
+		{
+			"name": "Portfolio",
+			"weight": 20
+		}
+	]
+}

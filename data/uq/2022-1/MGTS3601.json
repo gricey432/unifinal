@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Organisational Diagnosis",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Organisational Design Consulting Proposal",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Organisational Design Evaluation Plan Proposal",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation 2",
+			"weight": 40
+		},
+		{
+			"name": "Pre-class Reading Quizzes",
+			"weight": "10%                                        9*1.11% = 10% (best 9 out of 12)"
+		},
+		{
+			"name": "Presentation 1",
+			"weight": 20
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 10
+		}
+	]
+}

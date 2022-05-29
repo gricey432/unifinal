@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 5
+		},
+		{
+			"name": "Mastering Biology Quiz 1 - Modules 1 & 2",
+			"weight": 7.5
+		},
+		{
+			"name": "Mastering Biology Quiz 2 - Modules 3, 4 & 5",
+			"weight": 7.5
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 65
+		}
+	]
+}

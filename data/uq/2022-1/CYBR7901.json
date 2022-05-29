@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing assignment",
+			"weight": 10
+		},
+		{
+			"name": "Presentation assignment",
+			"weight": 10
+		},
+		{
+			"name": "Capstone Proposal Report",
+			"weight": 55
+		},
+		{
+			"name": "Capstone Project Proposal Seminar",
+			"weight": 25
+		}
+	]
+}

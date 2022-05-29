@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "2500 word essay",
+			"weight": 30
+		},
+		{
+			"name": "Documenting Indigenous Values After Native Title",
+			"weight": 40
+		},
+		{
+			"name": "750 word reflection on content/readings/workshops",
+			"weight": 30
+		}
+	]
+}

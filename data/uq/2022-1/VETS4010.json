@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Two Written Examination",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester One Written Examination",
+			"weight": 10
+		},
+		{
+			"name": "Surgery Practicals",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Core Technical Skills (Avian and Exotics)",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Pre-practical Online Blackboard Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Radiology Interpretation Exam",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester One Written Examination",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Two Written Examination",
+			"weight": 30
+		}
+	]
+}

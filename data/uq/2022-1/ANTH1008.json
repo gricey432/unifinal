@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article Summaries",
+			"weight": 15
+		},
+		{
+			"name": "Participating in the online workshops",
+			"weight": 10
+		},
+		{
+			"name": "Observation description",
+			"weight": 35
+		},
+		{
+			"name": "Doing Anthropology",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of One Interview",
+			"weight": "Not Weighted"
+		},
+		{
+			"name": "Submission of Second Video and Commentary",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial Sheets and Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Competency Interview",
+			"weight": "30%                                        Pass/Fail/ Hurdle"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Interview, Essay, Review",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Journal",
+			"weight": "Contact your Tutor"
+		},
+		{
+			"name": "Competency",
+			"weight": "Contact the Course Coordinator"
+		}
+	]
+}

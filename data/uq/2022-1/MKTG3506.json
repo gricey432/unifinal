@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Social Marketing Certification",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Digital Marketing Strategy",
+			"weight": "40%                                        Individual;"
+		}
+	]
+}

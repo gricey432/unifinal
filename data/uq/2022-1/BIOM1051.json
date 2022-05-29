@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Biochemistry",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 5
+		},
+		{
+			"name": "Practical Report - Integration",
+			"weight": 5
+		},
+		{
+			"name": "Personal Response",
+			"weight": 8
+		},
+		{
+			"name": "Professional PowerPoint Presentation",
+			"weight": 12
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 55
+		}
+	]
+}

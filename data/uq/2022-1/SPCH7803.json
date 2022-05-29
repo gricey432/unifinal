@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fluency and Voice Mid-Semester Examination",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "Hearing Screening Practical",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Stuttering Simulation Assessment",
+			"weight": "10%                                        Pass/Fail MUST PASS"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation and In-Class Participation",
+			"weight": "30%                                        Part A; Part B"
+		},
+		{
+			"name": "Data Analysis",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Take Home Final Assessment",
+			"weight": 50
+		}
+	]
+}

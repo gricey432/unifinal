@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination - via blackboard",
+			"weight": 40
+		},
+		{
+			"name": "Animal Reproductive Biology",
+			"weight": 20
+		},
+		{
+			"name": "Final exam - invigilated through ProctorU",
+			"weight": 40
+		}
+	]
+}

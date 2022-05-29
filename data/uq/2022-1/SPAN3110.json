@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tareas evaluadas/Worksheets",
+			"weight": "16%                                        (4% each task)"
+		},
+		{
+			"name": "Grammar Task 1",
+			"weight": 24
+		},
+		{
+			"name": "Reading-comprehension",
+			"weight": 10
+		},
+		{
+			"name": "Oral group presentation",
+			"weight": "22%                                        (includes 4% Wiki)"
+		},
+		{
+			"name": "Grammar exam",
+			"weight": 28
+		}
+	]
+}

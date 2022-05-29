@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Take-home exercises",
+			"weight": 20
+		},
+		{
+			"name": "Progress Test & Quizzes or Tests",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Take Home Exam Set Timed via Blackboard",
+			"weight": 40
+		}
+	]
+}

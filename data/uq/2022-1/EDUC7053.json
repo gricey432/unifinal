@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Journal",
+			"weight": "20%                                        200+200 words"
+		},
+		{
+			"name": "Article Presentation + peer review",
+			"weight": "20%                                        1000 words"
+		},
+		{
+			"name": "Essay Plan & Essay",
+			"weight": "25%                                        1600-2000 words"
+		},
+		{
+			"name": "Project Report",
+			"weight": "35%                                        2500 words"
+		}
+	]
+}

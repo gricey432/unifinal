@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 25
+		},
+		{
+			"name": "Risk assessment report",
+			"weight": 30
+		},
+		{
+			"name": "Online non‐invigilated examination",
+			"weight": 45
+		}
+	]
+}

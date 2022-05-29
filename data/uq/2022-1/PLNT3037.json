@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Draft Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Short Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Project Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (in person invigilated exam)",
+			"weight": 50
+		}
+	]
+}

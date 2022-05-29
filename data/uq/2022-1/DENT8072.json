@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Conference style oral presentation",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Research report",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Thesis examination",
+			"weight": "MUST PASS"
+		}
+	]
+}

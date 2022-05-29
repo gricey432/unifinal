@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Active Participation in Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Student-Led Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Modeling Essay",
+			"weight": 50
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coodinator"
+		},
+		{
+			"name": "Paper",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "N/A"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Group Peer Mark",
+			"weight": 5
+		},
+		{
+			"name": "Complex Case Written Project",
+			"weight": 50
+		},
+		{
+			"name": "Health Promotion / Community Education Resource",
+			"weight": 30
+		}
+	]
+}

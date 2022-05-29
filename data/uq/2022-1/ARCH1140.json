@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Essay Question, Building & Reference",
+			"weight": 10
+		},
+		{
+			"name": "Verbal Presentation of Select Bibliography",
+			"weight": "30%                                        IVAH"
+		},
+		{
+			"name": "Essay on Selected Question",
+			"weight": 60
+		}
+	]
+}

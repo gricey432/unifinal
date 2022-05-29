@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Background, Context, and Objectives",
+			"weight": 20
+		},
+		{
+			"name": "Mark for participation in the group assessments",
+			"weight": 5
+		},
+		{
+			"name": "Video quiz on biases",
+			"weight": 5
+		},
+		{
+			"name": "Analysing an environmental problem",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 45
+		}
+	]
+}

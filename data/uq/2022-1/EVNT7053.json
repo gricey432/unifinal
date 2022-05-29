@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Non-cumulative Review Quizzes",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Elevator Pitch",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Client Event Proposal",
+			"weight": "40%                                        Group Work"
+		}
+	]
+}

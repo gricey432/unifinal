@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Practice Essay",
+			"weight": "50%                                        1500 words"
+		},
+		{
+			"name": "Oral Viva",
+			"weight": 50
+		}
+	]
+}

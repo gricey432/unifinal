@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-fieldwork report",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 20
+		},
+		{
+			"name": "Case Study",
+			"weight": 40
+		}
+	]
+}

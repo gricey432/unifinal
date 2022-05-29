@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Visualisation - Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Data Visualisation - Project Report",
+			"weight": 50
+		},
+		{
+			"name": "Final - Take Home Assessment",
+			"weight": 30
+		}
+	]
+}

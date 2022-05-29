@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Paper 1 (1000 words)",
+			"weight": 17
+		},
+		{
+			"name": "Reddit Discussion",
+			"weight": 12
+		},
+		{
+			"name": "Weekly quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Writing Workshop Activity",
+			"weight": 1
+		},
+		{
+			"name": "Paper 2 (1200 words)",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Papers",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-Class Quizzes",
+			"weight": "https://my.uq.edu.au/node/189/3#3\n\t\t\tPLEASE SELECT ‘MID SEMESTER EXAM’ WHEN APPLYING FOR IN-CLASS QUIZZES"
+		},
+		{
+			"name": "Online Discussions",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Handout",
+			"weight": "Contact the Course Coordinator"
+		}
+	]
+}

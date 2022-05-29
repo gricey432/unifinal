@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Online Open-Book Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Module 2 Online Open-Book Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Module 3 Literature Review on PCSK9 Inhibitors",
+			"weight": 40
+		}
+	]
+}

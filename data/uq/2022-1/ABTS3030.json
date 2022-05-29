@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Wikipedia Entry and Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Reflective Research Essay",
+			"weight": 40
+		}
+	]
+}

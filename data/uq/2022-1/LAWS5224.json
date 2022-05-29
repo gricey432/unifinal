@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance, preparation and participation",
+			"weight": 15
+		},
+		{
+			"name": "Comparative analysis of law, policy and practice",
+			"weight": "40%                                        (2000 words + 3-5 minutes)"
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": "45%                                        2500 words"
+		}
+	]
+}

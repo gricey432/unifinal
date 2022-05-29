@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly spoken/written assignment",
+			"weight": "20%                                        (2% x 10)"
+		},
+		{
+			"name": "Writing assignment",
+			"weight": "20%                                        (5% + 15%)"
+		},
+		{
+			"name": "In-class review of grammar and vocabulary",
+			"weight": "20%                                        (10% x 2)"
+		},
+		{
+			"name": "Final individual interview",
+			"weight": 40
+		}
+	]
+}

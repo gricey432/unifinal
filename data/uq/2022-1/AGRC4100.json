@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1a: IFL Science Article",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 1b: Nature Research highlights",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Results and Discussion",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 3: Scientific poster presentations",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4: Fake Science Oral Presentation",
+			"weight": 30
+		}
+	]
+}

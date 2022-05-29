@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Application of theory and concepts",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Online Quiz 4",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Online Quiz 5",
+			"weight": "2.5%                                        (best 4 of 5)"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Close reading essay",
+			"weight": "20%                                        1000 words (+/- 10%)"
+		},
+		{
+			"name": "Essay marking and feedback",
+			"weight": "20%                                        1000 words (+/- 10%)"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        1500 words (+/- 10%)"
+		}
+	]
+}

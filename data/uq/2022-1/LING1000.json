@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 via Inspera",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2 via download and TurnItIn",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 via Inspera",
+			"weight": 15
+		},
+		{
+			"name": "Final assessment",
+			"weight": 40
+		}
+	]
+}

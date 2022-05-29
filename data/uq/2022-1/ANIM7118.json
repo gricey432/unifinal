@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Industry lecture",
+			"weight": 30
+		},
+		{
+			"name": "Rehabilitation Work and Reflections",
+			"weight": 20
+		},
+		{
+			"name": "Online Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 25
+		}
+	]
+}

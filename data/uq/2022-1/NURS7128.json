@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Written essay",
+			"weight": 40
+		},
+		{
+			"name": "Assignment 2: Case Study",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Participation aux forums sur Blackboard",
+			"weight": 10
+		},
+		{
+			"name": "Le mél amical et lettre formelle",
+			"weight": 20
+		},
+		{
+			"name": "Message audio(visuel)",
+			"weight": 20
+		},
+		{
+			"name": "Le récit autobiographique interculturel",
+			"weight": 20
+		},
+		{
+			"name": "Présentation orale",
+			"weight": 30
+		}
+	]
+}

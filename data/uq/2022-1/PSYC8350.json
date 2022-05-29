@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical folio",
+			"weight": "mandatory"
+		},
+		{
+			"name": "Audio or audio visual recording of client sessions",
+			"weight": "Optional according to facilities at site"
+		},
+		{
+			"name": "Mid-Placement & End-Placement Review",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Log",
+			"weight": "https://my.uq.edu.au/node/218/2%232"
+		},
+		{
+			"name": "Reviews",
+			"weight": "Contact Externships Manager"
+		}
+	]
+}

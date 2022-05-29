@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Test the Problem + Solution Review",
+			"weight": "35%                                        Team"
+		},
+		{
+			"name": "Test the Solution",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Individual & Peer Impact Statement",
+			"weight": "40%                                        Individual; Peer Assessment"
+		}
+	]
+}

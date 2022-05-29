@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research",
+			"weight": "0%                                        pass/resubmit/fail (100% penalty for fail/non-submission)"
+		},
+		{
+			"name": "MSc Progress Talk",
+			"weight": "0%                                        (10% penalty for inadequate-completion)"
+		},
+		{
+			"name": "Progress Report and Literature Review",
+			"weight": "0%                                        pass/resubmit/fail (100% penalty for fail/non-submission)"
+		},
+		{
+			"name": "MSc Talk",
+			"weight": "0%                                        (10% penalty for non-completion)"
+		},
+		{
+			"name": "Masters Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Oral Examination",
+			"weight": "0%                                        (Helps examiners determine thesis grade)"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Case Studies",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Written Assignment",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

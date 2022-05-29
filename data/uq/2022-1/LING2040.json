@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Language Profile",
+			"weight": 5
+		},
+		{
+			"name": "Assignments",
+			"weight": "50%                                        10 assignments"
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Final take home assignment",
+			"weight": 40
+		}
+	]
+}

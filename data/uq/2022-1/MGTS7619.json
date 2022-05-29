@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Multi-choice and short-answer Online Test",
+			"weight": 50
+		},
+		{
+			"name": "Embodying Values Presentation",
+			"weight": 50
+		}
+	]
+}

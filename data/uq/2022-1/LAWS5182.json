@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal",
+			"weight": 30
+		},
+		{
+			"name": "Optional draft essay for feedback",
+			"weight": 0
+		},
+		{
+			"name": "Research essay",
+			"weight": 70
+		}
+	]
+}

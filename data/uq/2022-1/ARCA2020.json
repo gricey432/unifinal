@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics and practice in Australian archaeology",
+			"weight": 40
+		},
+		{
+			"name": "Digital padlet of your significant site",
+			"weight": 20
+		},
+		{
+			"name": "The Archaeology of a Significant Site",
+			"weight": 40
+		}
+	]
+}

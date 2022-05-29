@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Individual Work",
+			"weight": 35
+		},
+		{
+			"name": "Assignment 2: Group Submission",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 3: Research Paper (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 4: Individual Seminar on Research Paper",
+			"weight": 10
+		}
+	]
+}

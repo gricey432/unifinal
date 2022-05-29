@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Assignment 1 - ODEs",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 2 - Hydrogenlike atom",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 3 - PDEs",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 4 - Multi-electron atom",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 5 - Monte-Carlo, Ising model",
+			"weight": 18
+		},
+		{
+			"name": "Assignment 6 - Many-body quantum system",
+			"weight": 18
+		}
+	]
+}

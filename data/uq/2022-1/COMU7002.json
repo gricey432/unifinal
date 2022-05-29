@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal (milestone task)",
+			"weight": "milestone1000 words (minimum)"
+		},
+		{
+			"name": "Draft project report (milestone task)",
+			"weight": "milestone3000 words (minimum)"
+		},
+		{
+			"name": "Final project report",
+			"weight": "100%                                        6000 words (+/- 10%) incl. references"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Class Contribution",
+			"weight": 5
+		},
+		{
+			"name": "Sociocultural issues in Practice",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz - Behavioural Observation Methodology",
+			"weight": 10
+		},
+		{
+			"name": "Animal Behaviour Project",
+			"weight": 30
+		},
+		{
+			"name": "Animals and human health",
+			"weight": 29
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "Final exam - invigilated through ProctorU",
+			"weight": 30
+		}
+	]
+}

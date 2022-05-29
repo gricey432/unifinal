@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessments",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 1",
+			"weight": 10
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 2",
+			"weight": 10
+		},
+		{
+			"name": "Redland City Council Landscape Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice, true/false quiz - 3",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam (online)",
+			"weight": 20
+		}
+	]
+}

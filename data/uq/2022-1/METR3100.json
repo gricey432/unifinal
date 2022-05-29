@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Three Virtual-Practicals with Prework",
+			"weight": 24
+		},
+		{
+			"name": "Engineering Framework Report",
+			"weight": 16
+		},
+		{
+			"name": "Actuator Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

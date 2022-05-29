@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Literature review and Project Plan (Research",
+			"weight": 35
+		},
+		{
+			"name": "Final report",
+			"weight": 65
+		}
+	]
+}

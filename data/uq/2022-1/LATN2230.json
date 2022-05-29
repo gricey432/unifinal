@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Declension, Conjugation, Principal Parts Quizzes",
+			"weight": 8
+		},
+		{
+			"name": "Latin email correspondance",
+			"weight": 12
+		},
+		{
+			"name": "Homework Exercises",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Exam set timed on Blackboard",
+			"weight": 45
+		}
+	]
+}

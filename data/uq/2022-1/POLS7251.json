@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Encyclopedia Entry 1",
+			"weight": 20
+		},
+		{
+			"name": "Encyclopedia Entry 2",
+			"weight": 20
+		},
+		{
+			"name": "Long Essay (4000 words)",
+			"weight": 60
+		}
+	]
+}

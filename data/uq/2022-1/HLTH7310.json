@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Foundation Assessment",
+			"weight": "40%                                        1,750-2,000 words"
+		},
+		{
+			"name": "A2",
+			"weight": "60%                                        4,000-5,000 words"
+		}
+	]
+}

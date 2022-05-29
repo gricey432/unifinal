@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Activity report/case log",
+			"weight": "P/F"
+		},
+		{
+			"name": "Reflective essay on the elective placement",
+			"weight": 10
+		},
+		{
+			"name": "Clinical elective placement performance assessment",
+			"weight": 40
+		},
+		{
+			"name": "Student details, Topic and Supervisor Confirmation",
+			"weight": 10
+		},
+		{
+			"name": "EBVM: Systematic review of an intervention",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple Choice Quiz",
+			"weight": "30%                                        Completion of four online learning modules through associated quizzes"
+		},
+		{
+			"name": "Comparing and contrasting theoretical approaches",
+			"weight": "70%                                        3000 Words"
+		},
+		{
+			"name": "Oral Exam: Case Conceptualisation Competency",
+			"weight": "Non-graded Pass (Hurdle requirement)"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Policy Recommendation (1000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment (2000 words)",
+			"weight": 30
+		}
+	]
+}

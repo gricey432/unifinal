@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Entries",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Historiographical Research Essay",
+			"weight": "40%                                        2000 words"
+		},
+		{
+			"name": "10 Minute Group Performances and Reflection",
+			"weight": "30%                                        10 mins and 500 words"
+		}
+	]
+}

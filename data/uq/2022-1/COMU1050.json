@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation & attendance",
+			"weight": 10
+		},
+		{
+			"name": "Problem-Based Assessment Task --1",
+			"weight": 45
+		},
+		{
+			"name": "Problem-Based Assessment Task --2",
+			"weight": 45
+		}
+	]
+}

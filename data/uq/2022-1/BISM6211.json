@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to and Leadership of Class Discuss",
+			"weight": 20
+		},
+		{
+			"name": "Midsemester Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 45
+		}
+	]
+}

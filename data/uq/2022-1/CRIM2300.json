@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Comparative Problem-Response Brief",
+			"weight": 25
+		},
+		{
+			"name": "Comparative case study",
+			"weight": 45
+		},
+		{
+			"name": "Take Home Final Exercise",
+			"weight": 30
+		}
+	]
+}

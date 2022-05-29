@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Innovation Case Study",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Idea Management proposal",
+			"weight": "35%                                        Individual"
+		},
+		{
+			"name": "Idea Management Report",
+			"weight": "35%                                        Team; 4,000 Words"
+		}
+	]
+}

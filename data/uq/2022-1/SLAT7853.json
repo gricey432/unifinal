@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "SLAT7853 thesis presentation",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Dissertation",
+			"weight": 100
+		}
+	]
+}

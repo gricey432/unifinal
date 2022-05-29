@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Management of Learning",
+			"weight": 9
+		},
+		{
+			"name": "Essay 1",
+			"weight": "45%                                        1500 words"
+		},
+		{
+			"name": "Research Essay 46% = 6% Essay Plan + 40% Essay",
+			"weight": "46%                                        2500 words"
+		}
+	]
+}

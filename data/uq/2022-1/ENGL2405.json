@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Preparation, Writing, and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Critical Essay",
+			"weight": "45%                                        2000-2200 words (ex. quotations)"
+		},
+		{
+			"name": "Take Home Timed assignment",
+			"weight": 40
+		}
+	]
+}

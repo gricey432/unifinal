@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Written Assignment - Mid Semester",
+			"weight": 20
+		},
+		{
+			"name": "Case Study Written Assignment - End Semester",
+			"weight": 35
+		},
+		{
+			"name": "Case Study Video",
+			"weight": 10
+		},
+		{
+			"name": "Weekly quizzes",
+			"weight": 35
+		}
+	]
+}

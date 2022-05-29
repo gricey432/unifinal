@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Aural Practical Tasks",
+			"weight": 40
+		},
+		{
+			"name": "Aural Skills Test",
+			"weight": 10
+		},
+		{
+			"name": "Worksheets",
+			"weight": 25
+		},
+		{
+			"name": "Keyboard test",
+			"weight": 10
+		},
+		{
+			"name": "Chorale Harmonisation",
+			"weight": 15
+		}
+	]
+}

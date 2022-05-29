@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Class Participation",
+			"weight": 15
+		},
+		{
+			"name": "Video presentations",
+			"weight": 20
+		},
+		{
+			"name": "Research essay proposal",
+			"weight": "10%                                        500 words"
+		},
+		{
+			"name": "Group Presentation",
+			"weight": "20%                                        Outline 1000 words"
+		},
+		{
+			"name": "Research essay",
+			"weight": "35%                                        2500 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1:participation on discussion board",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2:object biography",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Research Essay",
+			"weight": 40
+		}
+	]
+}

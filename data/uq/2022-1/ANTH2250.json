@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Illness Narrative Essay",
+			"weight": 40
+		},
+		{
+			"name": "Conversation-style article pitch",
+			"weight": 5
+		},
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Conversation-Style Article",
+			"weight": 40
+		}
+	]
+}

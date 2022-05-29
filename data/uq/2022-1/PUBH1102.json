@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1a-d: In-class writing task (weeks 4,6,8,10)",
+			"weight": 20
+		},
+		{
+			"name": "Task 2: Suburb comparison",
+			"weight": 30
+		},
+		{
+			"name": "Task 3 Part A: Group-designed interactive game",
+			"weight": 20
+		},
+		{
+			"name": "Task 3 Part B: Reflection on your interactive game",
+			"weight": 30
+		}
+	]
+}

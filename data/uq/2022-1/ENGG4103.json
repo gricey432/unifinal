@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment No.1 Maintenance Strategy Formulation",
+			"weight": "30%                                        Includes Peer Assessment"
+		},
+		{
+			"name": "Part A Weibull curve fitting exercise",
+			"weight": 10
+		},
+		{
+			"name": "Part A - Physical Asset Management",
+			"weight": 10
+		},
+		{
+			"name": "Assignment No.2 - Individual",
+			"weight": 30
+		},
+		{
+			"name": "Part B Capital Replacement",
+			"weight": 10
+		},
+		{
+			"name": "Part B - Physical Asset Management",
+			"weight": 10
+		}
+	]
+}

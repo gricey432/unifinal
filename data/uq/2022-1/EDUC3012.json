@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "AT1:Video Assignment",
+			"weight": 20
+		},
+		{
+			"name": "AT2: Critical Reflection Essay - Health",
+			"weight": 40
+		},
+		{
+			"name": "AT3:Interview - Reporting Assessment in Senior PE",
+			"weight": 40
+		}
+	]
+}

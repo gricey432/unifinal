@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1",
+			"weight": 50
+		},
+		{
+			"name": "Final exam - Invigilated through ProctorU",
+			"weight": 50
+		}
+	]
+}

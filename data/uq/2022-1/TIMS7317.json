@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creating Change for Sustainability",
+			"weight": "15%                                        photo diary & 700 words"
+		},
+		{
+			"name": "Team Sustainability Analysis & Presentation",
+			"weight": "35%                                        Team; Peer Assessment"
+		},
+		{
+			"name": "Major Project",
+			"weight": "50%                                        Individual; 3,000 words"
+		}
+	]
+}

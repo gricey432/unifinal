@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Business and Marketing Plan Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflection - Teamwork",
+			"weight": 10
+		},
+		{
+			"name": "Dietitian ePortfolio Initiation",
+			"weight": 35
+		},
+		{
+			"name": "Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Business and Marketing Plan Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Critical Reflection - Teamwork",
+			"weight": 10
+		},
+		{
+			"name": "Dietitian ePortfolio",
+			"weight": 35
+		}
+	]
+}

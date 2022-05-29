@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Interim report",
+			"weight": 30
+		},
+		{
+			"name": "Thesis or other appropriate technical report",
+			"weight": 70
+		}
+	]
+}

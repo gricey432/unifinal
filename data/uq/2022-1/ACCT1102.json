@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MID SEMESTER EXAM (Topics 1 - 3)",
+			"weight": 20
+		},
+		{
+			"name": "GROUP ASSIGNMENT (Topics 4 - 7)",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "FINAL EXAM (Topics 8 - 12)",
+			"weight": 50
+		}
+	]
+}

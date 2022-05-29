@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Individual Course Project - algorithm design",
+			"weight": 10
+		},
+		{
+			"name": "Paper Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Individual Course Project - implementation",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

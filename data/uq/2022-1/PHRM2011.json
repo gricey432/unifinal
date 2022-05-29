@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "EOS Consultation Exam",
+			"weight": "20%                                        Pass/Fail"
+		},
+		{
+			"name": "Blackboard Quizzes (x5)",
+			"weight": 15
+		},
+		{
+			"name": "Dispensing Exam",
+			"weight": "10%                                        Pass/Fail"
+		},
+		{
+			"name": "Written Exam",
+			"weight": "55%                                        Pass/Fail"
+		}
+	]
+}

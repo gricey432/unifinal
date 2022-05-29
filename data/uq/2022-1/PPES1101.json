@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation & Reading Questions",
+			"weight": 18
+		},
+		{
+			"name": "Essay Proposal (700 words)",
+			"weight": 10
+		},
+		{
+			"name": "Research Essay (2500 words)",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Assignment (1000 words)",
+			"weight": 22
+		}
+	]
+}

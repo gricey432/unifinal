@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Innovation project proposal",
+			"weight": 10
+		},
+		{
+			"name": "Innovation Business Plan & Board Pitch",
+			"weight": 50
+		},
+		{
+			"name": "Innovation project pitch",
+			"weight": 15
+		},
+		{
+			"name": "Professional Portfolio",
+			"weight": 25
+		}
+	]
+}

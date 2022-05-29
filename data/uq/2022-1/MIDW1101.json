@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment item 1",
+			"weight": 20
+		},
+		{
+			"name": "Assessment item 2",
+			"weight": 40
+		},
+		{
+			"name": "MIDW1101 Exam",
+			"weight": 40
+		}
+	]
+}

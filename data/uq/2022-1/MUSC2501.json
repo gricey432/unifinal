@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Responses to Selected Readings",
+			"weight": 40
+		},
+		{
+			"name": "Transcription exercise",
+			"weight": 30
+		},
+		{
+			"name": "Critical writing on a chosen topic",
+			"weight": 30
+		}
+	]
+}

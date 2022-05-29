@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Project Due Diligence",
+			"weight": "25%                                        Group"
+		},
+		{
+			"name": "Assignment 2: Making Things Better - Part 1",
+			"weight": "40%                                        IVAH"
+		},
+		{
+			"name": "Assignment 3: Making things Better - Part 2",
+			"weight": 35
+		}
+	]
+}

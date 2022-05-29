@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of users and their features",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Ideation, Prototyping, and Testing (live present.)",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "Individual Reflective Journal entry",
+			"weight": "5%                                        Individual"
+		},
+		{
+			"name": "Ideation, Prototyping, and Testing (report)",
+			"weight": "35%                                        Group"
+		}
+	]
+}

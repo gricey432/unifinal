@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "CircuitLab Simulation and Viva",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise Submission",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Sem Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam - Invigilated closed book",
+			"weight": 50
+		}
+	]
+}

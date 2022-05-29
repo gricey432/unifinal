@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Number 1",
+			"weight": 10
+		},
+		{
+			"name": "Number 2",
+			"weight": 10
+		},
+		{
+			"name": "Number 3",
+			"weight": 10
+		},
+		{
+			"name": "Number 4",
+			"weight": 10
+		},
+		{
+			"name": "Number 5",
+			"weight": 10
+		},
+		{
+			"name": "Final take home assignment",
+			"weight": 20
+		},
+		{
+			"name": "Number 6",
+			"weight": 10
+		},
+		{
+			"name": "Oral exam covering part II of the course",
+			"weight": 20
+		}
+	]
+}

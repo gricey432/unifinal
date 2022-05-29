@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assigned Digital Innovation chapter",
+			"weight": "40%                                        Team"
+		},
+		{
+			"name": "Analytical thinking",
+			"weight": "20%                                        Team"
+		},
+		{
+			"name": "Week 4 checkpoint",
+			"weight": "Formative"
+		},
+		{
+			"name": "Week 8 checkpoint",
+			"weight": "Formative"
+		},
+		{
+			"name": "Investigate a real application",
+			"weight": 40
+		}
+	]
+}

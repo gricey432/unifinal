@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Letter to the Editor",
+			"weight": 35
+		},
+		{
+			"name": "Study Protocol Abstract",
+			"weight": 15
+		},
+		{
+			"name": "Research Proposal + Ethics",
+			"weight": 50
+		}
+	]
+}

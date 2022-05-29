@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Character practice booklet and exercise sheet",
+			"weight": 20
+		},
+		{
+			"name": "Exam 1",
+			"weight": 40
+		},
+		{
+			"name": "Exam 2",
+			"weight": 40
+		}
+	]
+}

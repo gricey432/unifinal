@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assessment Task 1",
-			"weight": "45%                                        5400 words in total (3 entries)"
+			"weight": 45
 		},
 		{
 			"name": "Assessment Task 2",
-			"weight": "55%                                        2500 words"
+			"weight": 55
 		}
 	]
 }

@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Short Essay",
-			"weight": "35%                                        1500 words"
+			"weight": 35
 		},
 		{
 			"name": "Long Essay or Video Essay",
-			"weight": "45%                                        2000 Words"
+			"weight": 45
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Ongoing development and submission of Portfolio",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Problem identification",
-			"weight": "10%                                        Team"
+			"weight": 10
 		},
 		{
 			"name": "Interim project critique",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Project exhibit and documentation",
-			"weight": "30%                                        Team"
+			"weight": 30
 		},
 		{
 			"name": "Assessment & weight",

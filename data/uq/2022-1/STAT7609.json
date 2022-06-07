@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Tutorial Excerices",
-			"weight": "10%                                        for each Module"
+			"weight": 10
 		},
 		{
 			"name": "assignment 1,2,3",
-			"weight": "60%                                        20% each"
+			"weight": 60
 		}
 	]
 }

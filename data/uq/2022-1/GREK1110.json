@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Homework Assignments x 5",
-			"weight": "20%                                        WEEKS 4-13"
+			"weight": 20
 		},
 		{
 			"name": "Mid-Semester Assignment",
-			"weight": "30%                                        WEEK 7"
+			"weight": 30
 		},
 		{
 			"name": "Set-Timed via Blackboard",

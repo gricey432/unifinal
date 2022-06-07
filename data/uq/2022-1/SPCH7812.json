@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "End of Semester Theory Exam",
-			"weight": "50%                                        Must Pass (Part A)"
+			"weight": 50
 		}
 	]
 }

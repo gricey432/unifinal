@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Book Review Essay",
-			"weight": "25%                                        1000"
+			"weight": 25
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Exam Essay",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		}
 	]
 }

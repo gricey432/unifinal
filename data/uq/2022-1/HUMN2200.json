@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Blog Post on Chosen Origin Story",
-			"weight": "20%                                        500-750 Words"
+			"weight": 20
 		},
 		{
 			"name": "Video for Advanced Humanities Youtube Channel",
-			"weight": "25%                                        7-10 minutes (ca 1,000 words)"
+			"weight": 25
 		},
 		{
 			"name": "IN CLASS: Me-In-a-Minute Video",
-			"weight": "10%                                        1 minute, (ca 200 words)"
+			"weight": 10
 		},
 		{
 			"name": "Critical Reflective Essay",
-			"weight": "30%                                        1,000 - 1,200 words"
+			"weight": 30
 		}
 	]
 }

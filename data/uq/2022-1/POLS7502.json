@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Video Reflection: Presentation 1",
-			"weight": "10%                                        5-minute video"
+			"weight": 10
 		},
 		{
 			"name": "Video Reflection: Presentation 2",
-			"weight": "10%                                        5-minute video"
+			"weight": 10
 		},
 		{
 			"name": "Draft Conflict Analysis (2500 Words)",

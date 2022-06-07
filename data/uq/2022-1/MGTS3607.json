@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Analysis & Executive Summaries",
-			"weight": "20%                                        Individual; 2x 500 words"
+			"weight": 20
 		},
 		{
 			"name": "Evaluation of a Performance Management System",
-			"weight": "35%                                        Individual; 2,000 words"
+			"weight": 35
 		},
 		{
 			"name": "Final Case Analysis",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		}
 	]
 }

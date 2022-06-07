@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Small Case Study",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Large Case Study",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Time-bound Assessment",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

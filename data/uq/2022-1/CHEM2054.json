@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Laboratory Skills Competencies",
-			"weight": "0%                                        Pass/Fail. Fail = failure of the course"
+			"weight": 0
 		},
 		{
 			"name": "Laboratory component CHEM2054",
-			"weight": "80%                                        ie 10 reports/sheets worth 8 % each"
+			"weight": 80
 		},
 		{
 			"name": "Lab Notebook",
-			"weight": "0%                                        Pass/Fail - fail = downgrade of one grade level"
+			"weight": 0
 		},
 		{
 			"name": "Ethics of Chemistry essay",

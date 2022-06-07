@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Reading Activity",
-			"weight": "12%                                        4% per module"
+			"weight": 12
 		},
 		{
 			"name": "Critical Journal",
-			"weight": "15%                                        5% per module"
+			"weight": 15
 		},
 		{
 			"name": "End-of-module assessment",
-			"weight": "45%                                        15% per module"
+			"weight": 45
 		},
 		{
 			"name": "Group project",

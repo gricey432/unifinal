@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Project Plan and Annotated Bibliography",
-			"weight": "20%                                        10% each for Plan and Bibliography - 20% in TOTAL"
+			"weight": 20
 		},
 		{
 			"name": "Reading Log",

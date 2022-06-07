@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly On-line Quizzes (2.5% each)",
-			"weight": "20%                                        Best 8 of 11 quizzes count 2.5% each ."
+			"weight": 20
 		},
 		{
 			"name": "Online Mid-semester test",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Audio filter design project demonstration",
-			"weight": "10%                                        (Alternative Weight: 0%)"
+			"weight": 10
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        (Alternative Weight: 60%)"
+			"weight": 50
 		}
 	]
 }

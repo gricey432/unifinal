@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Active Learning - in-workshop",
-			"weight": "0%                                        up to 1% bonus"
+			"weight": 0
 		},
 		{
 			"name": "Active Learning - Reading Quiz",

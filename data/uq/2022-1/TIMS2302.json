@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assigned Digital Innovation chapter",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Analytical thinking",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Week 4 checkpoint",

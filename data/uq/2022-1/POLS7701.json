@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Literature review",
-			"weight": "20%                                        1500 words"
+			"weight": 20
 		},
 		{
 			"name": "Full Research Proposal",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		}
 	]
 }

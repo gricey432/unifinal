@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Strategic Framework Analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Politics of Organisational Structure",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Myself as Strategist",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

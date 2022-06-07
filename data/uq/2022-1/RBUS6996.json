@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Research Proposal Presentation",
-			"weight": "10%                                        15 mins + 5 mins Q&A"
+			"weight": 10
 		},
 		{
 			"name": "Honours Thesis",

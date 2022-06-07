@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Problem statement & project plan",
-			"weight": "15%                                        500 words"
+			"weight": 15
 		},
 		{
 			"name": "Literature review and research questions",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Research proposal",
-			"weight": "45%                                        2000 words"
+			"weight": 45
 		}
 	]
 }

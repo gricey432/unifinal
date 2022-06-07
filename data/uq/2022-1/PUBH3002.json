@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Policy Context Background Paper",
-			"weight": "30%                                        1000 Word limit"
+			"weight": 30
 		},
 		{
 			"name": "Health Policy Document Analysis",
-			"weight": "40%                                        2000 Word limit"
+			"weight": 40
 		},
 		{
 			"name": "Policy brief",
-			"weight": "30%                                        1000 Word limit"
+			"weight": 30
 		}
 	]
 }

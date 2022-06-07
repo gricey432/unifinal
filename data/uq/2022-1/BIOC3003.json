@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Quiz during prac session in week 10",
-			"weight": "1%                                        Pass or Fail"
+			"weight": 1
 		},
 		{
 			"name": "A written report covering both prac sessions",

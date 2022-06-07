@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1",
-			"weight": "15% or 0%"
+			"weight": 15
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "15% or 0%"
+			"weight": 15
 		},
 		{
 			"name": "Final exam",
-			"weight": "70% or 100%"
+			"weight": 70
 		}
 	]
 }

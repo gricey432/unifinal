@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Midterm Take Home Essay Completed online",
-			"weight": "35%                                        1400 words"
+			"weight": 35
 		},
 		{
 			"name": "Philosophy Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "UNDERGRADUATE",

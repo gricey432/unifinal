@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Tourism development blog",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Critical essays",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		}
 	]
 }

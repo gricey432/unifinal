@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Exercises",
-			"weight": "20%                                        (Individual: best 8 of 10)"
+			"weight": 20
 		},
 		{
 			"name": "Problem Set I",

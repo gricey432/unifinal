@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Assessment 2: Communication research report",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		},
 		{
 			"name": "Assessment 3: annotated bibliography & article",
-			"weight": "30%                                        2250 words"
+			"weight": 30
 		}
 	]
 }

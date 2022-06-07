@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Clinical educator feedback (simulation clinics)",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "End of Semester Theory Exam",

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Student Seminar",
-			"weight": "0%                                        pass / fail"
+			"weight": 0
 		},
 		{
 			"name": "Researcher Questions #1",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Class Participation",
-			"weight": "0%                                        pass / fail"
+			"weight": 0
 		},
 		{
 			"name": "Research Proposal - Introduction",

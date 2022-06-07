@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Blog article",
-			"weight": "50%                                        Individual; 2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Case study report",
-			"weight": "50%                                        Individual; 3000 words"
+			"weight": 50
 		}
 	]
 }

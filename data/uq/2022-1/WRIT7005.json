@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessment 1: Critical response",
-			"weight": "25%                                        2000 words"
+			"weight": 25
 		},
 		{
 			"name": "Assessment 2: Heuristic",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Assessment 3: Literature Review",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

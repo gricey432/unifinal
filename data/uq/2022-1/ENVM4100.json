@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Group Peer Assessment Semester 1",
-			"weight": "0%                                        Formative but compulsory"
+			"weight": 0
 		},
 		{
 			"name": "Presentation to Client",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Group Peer Assessment Semester 2",
-			"weight": "10%                                        Summative and compulsory"
+			"weight": 10
 		},
 		{
 			"name": "Final Project Report",
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "Staff appraisal of participation and contribution",
-			"weight": "5%                                        Pass / fail"
+			"weight": 5
 		}
 	]
 }

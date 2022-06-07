@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Critical Analysis",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        100-200 word abstract & 2000 word essay"
+			"weight": 50
 		}
 	]
 }

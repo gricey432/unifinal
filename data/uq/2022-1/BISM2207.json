@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Lab Quizzes",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "System Development",
-			"weight": "35%                                        Team (30% submission + 5% Peer Assessment Mark)"
+			"weight": 35
 		},
 		{
 			"name": "Take Home Assessment",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		}
 	]
 }

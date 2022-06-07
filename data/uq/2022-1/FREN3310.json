@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Translations",
-			"weight": "20%                                        (Translation 2 10%, Translation 3 10%)"
+			"weight": 20
 		},
 		{
 			"name": "Team Translation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Final Translation Project",
-			"weight": "30%                                        (15% translation, 15% commentary)"
+			"weight": 30
 		},
 		{
 			"name": "Final Exam - Translation and Commentary",

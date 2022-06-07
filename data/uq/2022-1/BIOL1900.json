@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "30%                                        5 quizzes each worth 6%"
+			"weight": 30
 		},
 		{
 			"name": "Research Interview",

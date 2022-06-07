@@ -10,19 +10,19 @@
 		},
 		{
 			"name": "Reflective Journal 1",
-			"weight": "10%                                        600 words"
+			"weight": 10
 		},
 		{
 			"name": "Textual Analysis",
-			"weight": "30%                                        1200 words"
+			"weight": 30
 		},
 		{
 			"name": "Reflective Journal 2",
-			"weight": "10%                                        600 words"
+			"weight": 10
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

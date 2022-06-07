@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Classification - Jupyter Notebook",
-			"weight": "50%                                        Individual; 1500 words"
+			"weight": 50
 		},
 		{
 			"name": "Text Analytics - Jupyter Notebook",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

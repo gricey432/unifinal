@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Scoping report",
-			"weight": "50%                                        Individual; 2,800-3,000 words"
+			"weight": 50
 		},
 		{
 			"name": "Sponsorship proposal",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

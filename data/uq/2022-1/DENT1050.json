@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Hand Hygiene Module",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Preclinic Olympics",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Peer study companion",

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "The marketing plan design",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Marketing plan presentation",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Final marketing plan",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Final examination - invigilated through ProctorU",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

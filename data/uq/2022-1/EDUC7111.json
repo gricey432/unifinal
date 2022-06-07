@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Critical Review",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Analysis of Key Educational Issue(s)",
-			"weight": "50%                                        2500 words (excl. references)"
+			"weight": 50
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Essay I",
-			"weight": "35%                                        A 1500 word essay due Wednesday 27 April"
+			"weight": 35
 		},
 		{
 			"name": "Tutorial Participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Essay II",
-			"weight": "45%                                        A 2000 word essay due Monday 13 June"
+			"weight": 45
 		}
 	]
 }

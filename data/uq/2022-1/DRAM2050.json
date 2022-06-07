@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Historiographical Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "10 Minute Group Performances and Reflection",
-			"weight": "30%                                        10 mins and 500 words"
+			"weight": 30
 		}
 	]
 }

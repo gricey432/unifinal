@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Practical 1: Uncertainty measurement",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Mid-semester online quiz",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Practical 2: Dissolved oxygen",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Capstone final report",
-			"weight": "25%                                        Group"
+			"weight": 25
 		},
 		{
 			"name": "Peer assessment for capstone reports",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Final examination",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		}
 	]
 }

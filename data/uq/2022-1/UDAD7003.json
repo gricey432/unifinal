@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Urban Data Analysis and Site Research",
-			"weight": "30%                                        Individual - 20%; Group  10%"
+			"weight": 30
 		},
 		{
 			"name": "Weekly Progress Check",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Urban Design  - Hurdle",
-			"weight": "60%                                        Individual - 50%; Group - 10%"
+			"weight": 60
 		}
 	]
 }

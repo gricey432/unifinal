@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Service Plan",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "End of Semester Theory Exam",

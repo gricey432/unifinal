@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-semester exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Social Marketing Certification",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Digital Marketing Strategy",
-			"weight": "40%                                        Individual;"
+			"weight": 40
 		}
 	]
 }

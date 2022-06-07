@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reports on Bending of Beams Practical and Studios",
-			"weight": "10%                                        Bending of Beams Practical 5%, Studios 2 x 2.5% = 5%"
+			"weight": 10
 		},
 		{
 			"name": "Mid-semester Exam",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Materials Part 35%, Structures Part 15%"
+			"weight": 50
 		}
 	]
 }

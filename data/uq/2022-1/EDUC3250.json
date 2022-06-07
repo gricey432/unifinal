@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "5 In-class Quizzes",
-			"weight": "50%                                        10% each"
+			"weight": 50
 		},
 		{
 			"name": "Unit Planning",

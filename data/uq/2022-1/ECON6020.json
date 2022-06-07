@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Assignment 2",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Final Exam - Online Exam",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Innovation Case Study",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Idea Management proposal",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Idea Management Report",
-			"weight": "35%                                        Team; 4,000 Words"
+			"weight": 35
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Pre-tutorial quizzes",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Mid-semester examination on modules 1 and 2.",

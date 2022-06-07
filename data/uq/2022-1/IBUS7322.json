@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Team Case Study Presentation",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Service Delivery Process",
-			"weight": "40%                                        1,500 words max"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Assessment",

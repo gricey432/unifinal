@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Classification Assignment",
-			"weight": "50%                                        Individual;"
+			"weight": 50
 		},
 		{
 			"name": "Text Analytics Assignment",
-			"weight": "50%                                        Individual; Business Analytics Project"
+			"weight": 50
 		}
 	]
 }

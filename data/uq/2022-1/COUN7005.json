@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Online Quiz 1",
-			"weight": "20%                                        20 MCQ items"
+			"weight": 20
 		},
 		{
 			"name": "Case Study Report",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Online Quiz 2",
-			"weight": "20%                                        20 MCQ items"
+			"weight": 20
 		},
 		{
 			"name": "Type of Assessment",

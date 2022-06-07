@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tutorial Notes (3 x 300 words)",
-			"weight": "30%                                        900 words in total"
+			"weight": 30
 		},
 		{
 			"name": "Tutorial Participation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Exam",

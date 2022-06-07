@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Tutorial Activity (Blue Discussion Board)",
-			"weight": "15%                                        5% per module"
+			"weight": 15
 		},
 		{
 			"name": "Peer evaluation of tutorial prep and participation",

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Consumer Insight Analysis Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Advertising Campaign Project",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Learning Reflection",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

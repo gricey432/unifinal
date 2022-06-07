@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reflective Practice Essay",
-			"weight": "50%                                        1500 words"
+			"weight": 50
 		},
 		{
 			"name": "Oral Viva",

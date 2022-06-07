@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Self-Assessed Participation",
-			"weight": "10%                                        200 words"
+			"weight": 10
 		},
 		{
 			"name": "Memoir / Personal Essay",
-			"weight": "15%                                        750 words"
+			"weight": 15
 		},
 		{
 			"name": "Analysis of Writing Craft",
-			"weight": "25%                                        1250 words"
+			"weight": 25
 		},
 		{
 			"name": "Creative Non-Fiction",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		}
 	]
 }

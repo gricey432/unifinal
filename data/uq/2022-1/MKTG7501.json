@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Marketing exam",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "STP Analysis",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Marketing mix case evaluation",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Assignment No.1 Maintenance Strategy Formulation",
-			"weight": "30%                                        Includes Peer Assessment"
+			"weight": 30
 		},
 		{
 			"name": "Part A Weibull curve fitting exercise",

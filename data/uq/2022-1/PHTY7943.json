@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Follow Up Consultation VIVAs",
-			"weight": "30%                                        (2x15% each)"
+			"weight": 30
 		}
 	]
 }

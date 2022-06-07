@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Microteaching presentation",
-			"weight": "30%                                        20 minute presentation"
+			"weight": 30
 		},
 		{
 			"name": "Learning and teaching sequence and assessment task",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		},
 		{
 			"name": "Weekly reflective journal",
-			"weight": "20%                                        1000 words"
+			"weight": 20
 		}
 	]
 }

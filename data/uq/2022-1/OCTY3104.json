@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Environment Presentation & Facilitated Discussion",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Case-Based Assignment",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Mid Semester Theory Exam",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

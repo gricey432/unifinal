@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Take Home Exam",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

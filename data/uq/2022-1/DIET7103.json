@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Demonstrating interviewing/counselling skill",
-			"weight": "15%                                        Video and written accompaniment"
+			"weight": 15
 		},
 		{
 			"name": "Critical reflection on counselling",
-			"weight": "15%                                        Written reflection"
+			"weight": 15
 		},
 		{
 			"name": "Weekly quizzes and activities",
-			"weight": "20%                                        Quizzes"
+			"weight": 20
 		},
 		{
 			"name": "Final exam",

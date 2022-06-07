@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Formative Practical Lab notebook",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "3 Quizzes in Weeks 5, 9 and 12",

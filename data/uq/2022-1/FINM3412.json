@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Investment Valuation Project and Presentation",
-			"weight": "65%                                        Team/Individual"
+			"weight": 65
 		}
 	]
 }

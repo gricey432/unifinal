@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Response to Readings (6)",
-			"weight": "6%                                        (6 x 1%), 150-200 Words each"
+			"weight": 6
 		},
 		{
 			"name": "Tutorial Participation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Short Writing Exercises (3)",
-			"weight": "24%                                        (3 x 8%), 500 Words each"
+			"weight": 24
 		},
 		{
 			"name": "Draft of your short story",

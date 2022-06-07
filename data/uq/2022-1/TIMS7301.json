@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "New venture Project - Investor Pitch",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "New Venture Project Report (Supporting Documents)",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Reflection on my entrepreneurial journey",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Case Analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Discussion Forum",
-			"weight": "20%                                        (10 discussion during Semester)"
+			"weight": 20
 		},
 		{
 			"name": "Online MCQ exam",

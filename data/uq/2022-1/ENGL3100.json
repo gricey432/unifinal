@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Essay 1",
-			"weight": "45%                                        1500 words"
+			"weight": 45
 		},
 		{
 			"name": "Research Essay 46% = 6% Essay Plan + 40% Essay",
-			"weight": "46%                                        2500 words"
+			"weight": 46
 		}
 	]
 }

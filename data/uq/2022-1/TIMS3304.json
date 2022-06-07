@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Test the Problem + Solution Review",
-			"weight": "35%                                        Team"
+			"weight": 35
 		},
 		{
 			"name": "Test the Solution",
-			"weight": "25%                                        Team"
+			"weight": 25
 		},
 		{
 			"name": "Individual & Peer Impact Statement",
-			"weight": "40%                                        Individual; Peer Assessment"
+			"weight": 40
 		}
 	]
 }

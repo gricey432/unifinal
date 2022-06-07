@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Planning for the future",
-			"weight": "40%                                        15-20 min. presentation + Approx 2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Junior Unit Plan",
-			"weight": "30%                                        Approx 2500 words"
+			"weight": 30
 		},
 		{
 			"name": "Senior Unit of Work",
-			"weight": "30%                                        Approx 2850 words"
+			"weight": 30
 		}
 	]
 }

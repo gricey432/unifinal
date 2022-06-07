@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assessing and Teaching Children's Writing",
-			"weight": "30%                                        1500 word equivalent"
+			"weight": 30
 		},
 		{
 			"name": "Quality literature book trailer and rationale",
-			"weight": "40%                                        1500 word equivalent"
+			"weight": 40
 		},
 		{
 			"name": "Teaching Reading",
-			"weight": "30%                                        1500 word equivalent"
+			"weight": 30
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Task 1: Tutorial Tasks",
-			"weight": "25%                                        250 or 500 words per task (5 tasks)"
+			"weight": 25
 		},
 		{
 			"name": "Task 2: Translation Teaching & learning fractions",
-			"weight": "40%                                        + or - 10% of 3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Task 3: Developing a lesson sequence/rationale",
-			"weight": "35%                                        + or - 10% of 2500 words"
+			"weight": 35
 		}
 	]
 }

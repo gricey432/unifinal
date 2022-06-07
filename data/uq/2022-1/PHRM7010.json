@@ -2,23 +2,23 @@
 	"assessment": [
 		{
 			"name": "Completion of Integrity Tutorial",
-			"weight": "0%                                        Pass/Fail"
+			"weight": 0
 		},
 		{
 			"name": "Tutorial Presentations & BLUE Discussion Boards",
-			"weight": "15%                                        5% per module"
+			"weight": 15
 		},
 		{
 			"name": "Individual contributions GREEN discussion boards",
-			"weight": "15%                                        5% per Module"
+			"weight": 15
 		},
 		{
 			"name": "Reflection on Professional Practice",
-			"weight": "5%                                        Pass/Fail"
+			"weight": 5
 		},
 		{
 			"name": "Analysis of MI video",
-			"weight": "5%                                        Pass / Fail"
+			"weight": 5
 		},
 		{
 			"name": "Critical Appraisal of a journal article",

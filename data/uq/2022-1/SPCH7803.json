@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Fluency and Voice Mid-Semester Examination",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Hearing Screening Practical",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Stuttering Simulation Assessment",
-			"weight": "10%                                        Pass/Fail MUST PASS"
+			"weight": 10
 		},
 		{
 			"name": "End of Semester Theory Exam",

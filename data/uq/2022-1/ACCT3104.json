@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Non-invigilated Mid-Semester Exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Case Study Available Fri 8 April; Due Fri 29 April",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam Invigilated ProctorU.",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

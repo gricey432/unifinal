@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Practical Clinical Examination and Viva",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "Article Quiz",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Semester 2 Written Exam",
-			"weight": "40%                                        Hurdle"
+			"weight": 40
 		}
 	]
 }

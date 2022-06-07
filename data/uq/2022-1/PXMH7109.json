@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Practicum",
-			"weight": "0%                                        Performance Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Reflective Journal",
-			"weight": "50%                                        10 posts 300/400 words"
+			"weight": 50
 		},
 		{
 			"name": "Case Report",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		}
 	]
 }

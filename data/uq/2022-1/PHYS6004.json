@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Student lecture",
-			"weight": "20%                                        Satisfactory performance on this task is a hurdle to pass the course"
+			"weight": 20
 		},
 		{
 			"name": "Final oral exam",
-			"weight": "40%                                        Satisfactory performance on this task is a hurdle to pass the course"
+			"weight": 40
 		}
 	]
 }

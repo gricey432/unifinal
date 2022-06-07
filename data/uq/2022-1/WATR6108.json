@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Mid Semester Exam",
-			"weight": "15%                                        Hurdle"
+			"weight": 15
 		},
 		{
 			"name": "Final Exam",
-			"weight": "45%                                        Hurdle"
+			"weight": 45
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Problem-based Learning Quizzes (5 per student)",
-			"weight": "5%                                        (1% per quiz)"
+			"weight": 5
 		},
 		{
 			"name": "End of Semester Theory Exam",

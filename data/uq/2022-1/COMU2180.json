@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Golden Target Campaign Review",
-			"weight": "20%                                        1,000 words"
+			"weight": 20
 		},
 		{
 			"name": "Media Plan & Assets",
-			"weight": "60%                                        Plan 1,000 + Media Assets"
+			"weight": 60
 		},
 		{
 			"name": "Course reflection",
-			"weight": "20%                                        1,000 words"
+			"weight": 20
 		}
 	]
 }

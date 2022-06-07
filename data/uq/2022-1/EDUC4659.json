@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Learning and teaching sequence and assessment task",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		},
 		{
 			"name": "Professional engagement and communication",
-			"weight": "30%                                        250+1500 words"
+			"weight": 30
 		}
 	]
 }

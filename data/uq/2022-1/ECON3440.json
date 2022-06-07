@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Take Home Test (3 @ 25% each)",
-			"weight": "75%                                        Individual"
+			"weight": 75
 		},
 		{
 			"name": "Essay",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		}
 	]
 }

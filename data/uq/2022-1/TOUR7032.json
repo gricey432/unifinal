@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Review and summarize articles",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Problem solving",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Market research presentation",
-			"weight": "35%                                        Team"
+			"weight": 35
 		}
 	]
 }

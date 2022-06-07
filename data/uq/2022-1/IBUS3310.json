@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Study Presentation",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Company analysis",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Assessment",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

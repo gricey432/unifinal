@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-exam (invigilated exam)",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		},
 		{
 			"name": "Individual Case Study: Audit Planning and testing",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Final Exam (invigilated exam)",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		}
 	]
 }

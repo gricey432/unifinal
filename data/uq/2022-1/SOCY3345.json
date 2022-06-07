@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Critical Topic Review (10 reviews)",
-			"weight": "60%                                        (6% per review)"
+			"weight": 60
 		},
 		{
 			"name": "Application of theory to actual events",

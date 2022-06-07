@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "16%                                        (2 Quizzes; 8% Each)"
+			"weight": 16
 		},
 		{
 			"name": "Mid Semester exam",

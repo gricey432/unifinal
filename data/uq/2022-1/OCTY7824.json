@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Assignment Report",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		},
 		{
 			"name": "Written Intervention Session",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		},
 		{
 			"name": "Viva - Case Assignment Clinical Encounter",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		}
 	]
 }

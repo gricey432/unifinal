@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Reading response",
-			"weight": "20%                                        10 x (2 points each)"
+			"weight": 20
 		},
 		{
 			"name": "Essays",
-			"weight": "70%                                        best 2 of 3 essays (35% each)"
+			"weight": 70
 		},
 		{
 			"name": "Tutorial Participation",

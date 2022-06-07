@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Information Sheet with Reflection",
-			"weight": "40%                                        Marked out of 100"
+			"weight": 40
 		},
 		{
 			"name": "Response to Case Study with Court Report",
-			"weight": "60%                                        Marked out of 100"
+			"weight": 60
 		}
 	]
 }

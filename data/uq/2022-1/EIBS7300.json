@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Portfolio of users and their features",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Ideation, Prototyping, and Testing (live present.)",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Individual Reflective Journal entry",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		},
 		{
 			"name": "Ideation, Prototyping, and Testing (report)",
-			"weight": "35%                                        Group"
+			"weight": 35
 		}
 	]
 }

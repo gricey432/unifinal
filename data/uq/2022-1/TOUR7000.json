@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Exam and RIPPLE",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Research Tender Proposal",
-			"weight": "50%                                        Individual, 4000 words"
+			"weight": 50
 		},
 		{
 			"name": "Take Home Assessment",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Objective Structured Clinical Examination (OSCE)",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Clinical Portfolio & I/O Radiography Competency",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Type of Assessment",

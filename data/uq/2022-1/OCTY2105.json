@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid-semester Exam",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "End Semester Exam",
-			"weight": "55%                                        MUST PASS"
+			"weight": 55
 		}
 	]
 }

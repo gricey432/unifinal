@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Early Years Critical Literature Reflection",
-			"weight": "10%                                        2 paragraphs approx"
+			"weight": 10
 		},
 		{
 			"name": "Early childhood learning spaces",
-			"weight": "35%                                        1500 words approx."
+			"weight": 35
 		},
 		{
 			"name": "Early years documentation & planning",
-			"weight": "55%                                        2100 words approx."
+			"weight": 55
 		}
 	]
 }

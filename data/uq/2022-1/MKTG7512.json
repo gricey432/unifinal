@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case study analysis (oral presentation)",
-			"weight": "20%                                        Group; Peer Assessment"
+			"weight": 20
 		},
 		{
 			"name": "Critical Analysis of Marketing Strategy",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Online Blackboard exam",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

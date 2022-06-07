@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Case Study 1",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Invigilated Mid-Semester Exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Case Study 2",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Invigilated Final Exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Preclinical competency- Paediatric dentistry",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Online Endo Quiz",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Preclinical competency- Fixed Prosthodontics",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Endodontic Case Portfolio",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "End of Semester exam",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

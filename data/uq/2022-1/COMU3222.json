@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Presentation and written report",
-			"weight": "20%                                        600 words - Via Turnitin"
+			"weight": 20
 		},
 		{
 			"name": "Political Speech",
-			"weight": "20%                                        1000 words - Via Turnitin"
+			"weight": 20
 		},
 		{
 			"name": "Analysing a policy/lobby campaign",
-			"weight": "20%                                        800 words - Via Turnitin"
+			"weight": 20
 		},
 		{
 			"name": "Political Campaign",
-			"weight": "40%                                        1400-word portfolio - Submitted via Blackboard"
+			"weight": 40
 		}
 	]
 }

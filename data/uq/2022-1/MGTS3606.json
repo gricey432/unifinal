@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Team Global Mobility Handbook",
-			"weight": "50%                                        Team"
+			"weight": 50
 		},
 		{
 			"name": "Individual Global Mobility Handbook",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

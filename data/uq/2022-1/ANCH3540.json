@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Tutorial Papers",
-			"weight": "50%                                        25% per tutorial paper"
+			"weight": 50
 		}
 	]
 }

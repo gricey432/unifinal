@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Primary Source Analysis",
-			"weight": "25%                                        1000 words"
+			"weight": 25
 		},
 		{
 			"name": "Essay, Podcast, or Documentary Movie",
-			"weight": "45%                                        3000 words or 12-15 Mins"
+			"weight": 45
 		}
 	]
 }

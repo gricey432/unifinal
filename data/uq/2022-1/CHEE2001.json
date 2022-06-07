@@ -2,27 +2,27 @@
 	"assessment": [
 		{
 			"name": "Assignment 1",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		},
 		{
 			"name": "Assignment 2",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Assignment 3",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		},
 		{
 			"name": "Project Group Report",
-			"weight": "25%                                        Group, Hurdle"
+			"weight": 25
 		},
 		{
 			"name": "Project Presentation",
-			"weight": "5%                                        Group"
+			"weight": 5
 		},
 		{
 			"name": "Final Exam",
-			"weight": "45%                                        Hurdle"
+			"weight": 45
 		}
 	]
 }

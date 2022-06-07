@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Tourism System Model",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Pressure State Response (PSR) Model",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "On-line Assessment",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

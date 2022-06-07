@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "4 x Quizzes",
-			"weight": "40%                                        10% each"
+			"weight": 40
 		},
 		{
 			"name": "Written Commentary",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "End of Year Examination",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Type of Assessment",

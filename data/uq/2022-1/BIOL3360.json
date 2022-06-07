@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "6 x 30 minute quizzes",
-			"weight": "10%                                        each"
+			"weight": 10
 		},
 		{
 			"name": "Communications Prac Exam",

@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Two Laboratory experiment quizzes",
-			"weight": "10%                                        Completion of both quizzes"
+			"weight": 10
 		},
 		{
 			"name": "Laboratory online experiment and report",
-			"weight": "15%                                        Completion of both online laboratory reports"
+			"weight": 15
 		},
 		{
 			"name": "Final examination",

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Cloud Kitchens and Future F&B Experience Design",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		},
 		{
 			"name": "Food and Beverage Experience Evaluation and Design",
-			"weight": "55%                                        Individual"
+			"weight": 55
 		}
 	]
 }

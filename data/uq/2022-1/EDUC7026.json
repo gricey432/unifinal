@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Task 1 Project Plan",
-			"weight": "30%                                        500-1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Task 2 Project Report",
-			"weight": "70%                                        5000-6000 words"
+			"weight": 70
 		}
 	]
 }

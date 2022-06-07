@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Workshop presentation & facilitation",
-			"weight": "30%                                        Individual or Pairs;"
+			"weight": 30
 		},
 		{
 			"name": "Article Review Essay",
-			"weight": "30%                                        1,500 Words;"
+			"weight": 30
 		},
 		{
 			"name": "Research paper (including a literature review)",
-			"weight": "40%                                        3,000 Words"
+			"weight": 40
 		}
 	]
 }

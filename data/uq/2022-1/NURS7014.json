@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Case study presentation",
-			"weight": "40%                                        20 minutes"
+			"weight": 40
 		},
 		{
 			"name": "Essay - Case study",
-			"weight": "40%                                        2000 Words"
+			"weight": 40
 		}
 	]
 }

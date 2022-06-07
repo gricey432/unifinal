@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Project Plan",
-			"weight": "20%                                        Part A; 2,000 words; Part B; Presentaion"
+			"weight": 20
 		},
 		{
 			"name": "The Final Report",
-			"weight": "55%                                        Group"
+			"weight": 55
 		},
 		{
 			"name": "Individual Report",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		}
 	]
 }

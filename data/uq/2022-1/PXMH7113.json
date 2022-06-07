@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Discussion Board",
-			"weight": "25%                                        2 posts/500 words each"
+			"weight": 25
 		},
 		{
 			"name": "Oral Case Presentation",
-			"weight": "25%                                        15 minutes"
+			"weight": 25
 		},
 		{
 			"name": "Analysing the Psychoanalytic Process",
-			"weight": "50%                                        2500 words"
+			"weight": 50
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Clinical Skills Videos",
-			"weight": "30%                                        90 marks"
+			"weight": 30
 		},
 		{
 			"name": "Skills Video & Case Study Commenting",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "50%                                        150 marks"
+			"weight": 50
 		}
 	]
 }

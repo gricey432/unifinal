@@ -19,7 +19,7 @@ const scraper: Scraper = {
             for (const tr of $coursePage(".offerings > tbody > tr").toArray()) {
                 // Cols: Course offerings, Location Mode, Course Profile
                 const tds = cheerio(tr).children("td").toArray();
-                if (cheerio(tds[0]).text().trim() === `Semester ${semester}, ${year}`) {
+                if (cheerio(tds[0]).text().trim().startsWith(`Semester ${semester}, ${year}`)) {
                     const url = cheerio(tds[3]).find('a').first().attr("href");
                     if (url) {
                         return url;

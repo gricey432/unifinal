@@ -83,6 +83,9 @@ function generateConfig(config: Config) {
                     from: 'src/ads.txt',
                 },
                 {
+                    from: 'src/404.html',
+                },
+                {
                     from: `site-specific/${config.name}`,
                 }
             ]),

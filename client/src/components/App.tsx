@@ -1,6 +1,6 @@
 import * as React from "react";
 import {useState} from "react";
-import {BrowserRouter, Route, Redirect} from "react-router-dom";
+import {MemoryRouter, Route, Redirect} from "react-router-dom";
 import * as Cookie from "js-cookie";
 import * as tinyColor from "tinycolor2";
 
@@ -53,8 +53,8 @@ const App: React.FunctionComponent = () => {
 // App has to be wrapped in a router so that the useHistory works
 export const WrappedApp: React.FunctionComponent = () => {
     return (
-        <BrowserRouter>
+        <MemoryRouter>
             <App />
-        </BrowserRouter>
+        </MemoryRouter>
     );
 };

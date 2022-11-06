@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Project report based on field trip",
+			"weight": 50
+		}
+	]
+}

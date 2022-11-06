@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Reflective Critique",
+			"weight": 20
+		},
+		{
+			"name": "Scenario Planning for Strategic Management",
+			"weight": 40
+		},
+		{
+			"name": "Individual Assessment",
+			"weight": 40
+		}
+	]
+}

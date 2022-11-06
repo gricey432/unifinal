@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Study in Marketing Proposal (A1)",
+			"weight": 20
+		},
+		{
+			"name": "Strategic Marketing Presentation (A2)",
+			"weight": 30
+		},
+		{
+			"name": "Advanced Study in Marketing Report (A3)",
+			"weight": 50
+		}
+	]
+}

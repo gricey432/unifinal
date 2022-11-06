@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project based learning",
+			"weight": 50
+		},
+		{
+			"name": "In-class Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "In-class Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		}
+	]
+}

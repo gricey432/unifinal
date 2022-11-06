@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Practical Exam - Manual handling",
+			"weight": 25
+		},
+		{
+			"name": "Ergonomics assignment",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Practice Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 30
+		}
+	]
+}

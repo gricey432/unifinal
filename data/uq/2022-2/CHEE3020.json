@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1 Series: Progress Memo",
+			"weight": 5
+		},
+		{
+			"name": "Project 1 Series: Report",
+			"weight": 25
+		},
+		{
+			"name": "Project 2 series: Progress Memo",
+			"weight": 5
+		},
+		{
+			"name": "Project 2 series: Report",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

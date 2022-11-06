@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communication skills memo",
+			"weight": 15
+		},
+		{
+			"name": "Instruction set",
+			"weight": 25
+		},
+		{
+			"name": "Remote collaboration project",
+			"weight": 45
+		},
+		{
+			"name": "Reading response portfolio",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Dynamic Models",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Size Spectrum Models",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 3: Statistics",
+			"weight": 20
+		},
+		{
+			"name": "Final Assignment",
+			"weight": 40
+		}
+	]
+}

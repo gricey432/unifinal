@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Task 4b: School Placement Attendance Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 4a: Policies + procedures",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3: Reflective journal, starts in Week 2 - 13",
+			"weight": 40
+		},
+		{
+			"name": "Task 1: Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Design for learning",
+			"weight": 30
+		}
+	]
+}

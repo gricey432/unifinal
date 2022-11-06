@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly workshop quiz",
+			"weight": 15
+		},
+		{
+			"name": "Reflections on leadership",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on leadership in SfD",
+			"weight": 30
+		},
+		{
+			"name": "Reflections on leadership in SfR",
+			"weight": 25
+		}
+	]
+}

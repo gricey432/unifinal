@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "2 Problem Sets",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz #1",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 25
+		},
+		{
+			"name": "Article Review",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz #2",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Team Charter and Value Proposition",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: DCF Analysis of Start-Up Project",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2: Prof Eng & the Business Environment",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Sustainability and business",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 1: Start-up Pitch Slide Deck (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Start-up Pitch Presentation (Team)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

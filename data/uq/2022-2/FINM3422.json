@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Financial Modelling Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Team Project - Forecasting and Analytics Report",
+			"weight": 40
+		},
+		{
+			"name": "Individual Quantitative Modelling",
+			"weight": 20
+		}
+	]
+}

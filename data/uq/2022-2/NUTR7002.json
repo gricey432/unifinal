@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Critical Analysis Report",
+			"weight": 30
+		},
+		{
+			"name": "Public Health Proposal",
+			"weight": 40
+		}
+	]
+}

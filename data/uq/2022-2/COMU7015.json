@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workplan",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Reflective practicum report",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Evaluation by supervisor of the host organisation",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

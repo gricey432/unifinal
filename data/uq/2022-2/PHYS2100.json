@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Dynamical systems and chaos problem sheets",
+			"weight": 16
+		},
+		{
+			"name": "Special Relativity problem sheets",
+			"weight": 14
+		},
+		{
+			"name": "Lagrangian and Hamiltonian dynamics problem sheets",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

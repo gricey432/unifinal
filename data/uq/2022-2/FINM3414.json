@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 25
+		},
+		{
+			"name": "Individual Research Assignment 1",
+			"weight": 25
+		},
+		{
+			"name": "Individual Research Assignment 2",
+			"weight": 25
+		},
+		{
+			"name": "Final Take Home Exam",
+			"weight": 25
+		}
+	]
+}

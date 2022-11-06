@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Contribution to class activities",
+			"weight": 20
+		},
+		{
+			"name": "Oral presentation on selected topic / side",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

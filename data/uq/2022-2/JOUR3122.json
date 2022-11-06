@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Production and Delivery",
+			"weight": 20
+		},
+		{
+			"name": "Stories From the Field",
+			"weight": 50
+		},
+		{
+			"name": "Industry Proposal",
+			"weight": 30
+		}
+	]
+}

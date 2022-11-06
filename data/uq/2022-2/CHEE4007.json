@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Guidelines, Please Read",
+			"weight": 0
+		},
+		{
+			"name": "OHS",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "<200 word Abstract, electronic submission",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Project Execution",
+			"weight": 15
+		},
+		{
+			"name": "Thesis Report",
+			"weight": 70
+		},
+		{
+			"name": "Seminar (Presentation Schedule TBA)",
+			"weight": 15
+		}
+	]
+}

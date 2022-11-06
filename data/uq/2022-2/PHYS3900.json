@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project proposal",
+			"weight": "Pass/fail/resubmit (hurdle)"
+		},
+		{
+			"name": "Report plan",
+			"weight": 30
+		},
+		{
+			"name": "Project video presentation",
+			"weight": 30
+		},
+		{
+			"name": "Project Report",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 25
+		},
+		{
+			"name": "Self-Analysis of Translation Strategies",
+			"weight": 35
+		},
+		{
+			"name": "Essay on interpreting studies",
+			"weight": 40
+		}
+	]
+}

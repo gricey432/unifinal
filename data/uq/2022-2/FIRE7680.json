@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1 - Fire Engineering Brief",
+			"weight": 15
+		},
+		{
+			"name": "Report 2 - Evacuation and smoke management",
+			"weight": 50
+		},
+		{
+			"name": "Fire strategy presentation",
+			"weight": 10
+		},
+		{
+			"name": "Report 3 - Fire Safety Engineering Report",
+			"weight": 25
+		}
+	]
+}

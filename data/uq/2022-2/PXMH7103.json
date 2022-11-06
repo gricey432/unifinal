@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online discussion board",
+			"weight": 40
+		},
+		{
+			"name": "Reflection on practicing a therapeutic skill",
+			"weight": 20
+		},
+		{
+			"name": "Common factors across therapeutic traditions",
+			"weight": 40
+		}
+	]
+}

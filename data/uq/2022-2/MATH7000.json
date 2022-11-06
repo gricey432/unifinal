@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "4 Assignments",
+			"weight": 24
+		},
+		{
+			"name": "MATH7000 Problem Set",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 66
+		}
+	]
+}

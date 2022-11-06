@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation Exam",
+			"weight": 20
+		},
+		{
+			"name": "Agreed Placement Attendance Sheet",
+			"weight": 0
+		},
+		{
+			"name": "Hospital Placement Module Attendance",
+			"weight": 0
+		},
+		{
+			"name": "Community Placement Attendance & Evaluation",
+			"weight": 0
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Five (5) Reflective Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Dispensing Examination",
+			"weight": 10
+		},
+		{
+			"name": "Written EOS Examination",
+			"weight": 50
+		}
+	]
+}

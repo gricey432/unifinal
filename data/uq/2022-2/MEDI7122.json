@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical coaching examination (CCE)",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Medical interview with simulated patient & review",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment: Mid-Semester",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA): Summative",
+			"weight": "Performance hurdle"
+		}
+	]
+}

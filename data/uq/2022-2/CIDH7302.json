@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography & Synthesis",
+			"weight": 20
+		},
+		{
+			"name": "Digital health intervention pitch",
+			"weight": 30
+		},
+		{
+			"name": "Project Management Plan for Implementation (PMPI)",
+			"weight": 50
+		}
+	]
+}

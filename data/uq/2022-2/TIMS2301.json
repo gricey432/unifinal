@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Constructive contributions to class discussions",
+			"weight": 20
+		},
+		{
+			"name": "Trends in entrepreneurship and innovation research",
+			"weight": 40
+		},
+		{
+			"name": "Literature review on a specific topic",
+			"weight": 40
+		}
+	]
+}

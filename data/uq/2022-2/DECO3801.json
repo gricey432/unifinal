@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Active Studio Participation - Various Dates",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid Project Presentation & MVP",
+			"weight": 20
+		},
+		{
+			"name": "Final codebase, documentation and communication",
+			"weight": 60
+		},
+		{
+			"name": "Individual Reflection",
+			"weight": 20
+		}
+	]
+}

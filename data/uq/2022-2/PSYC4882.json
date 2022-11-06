@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral class presentation",
+			"weight": 40
+		},
+		{
+			"name": "Preparation, participation and peer review",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business writing portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Conference paper",
+			"weight": 30
+		},
+		{
+			"name": "Business pitch",
+			"weight": 30
+		}
+	]
+}

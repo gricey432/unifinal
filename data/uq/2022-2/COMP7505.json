@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Project",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Commentary about re-writing a judgment",
+			"weight": 50
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 40
+		}
+	]
+}

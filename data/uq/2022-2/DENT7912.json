@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Protocol Approval",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Participation and Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Culturally safe practice",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical Sciences",
+			"weight": "Pass/Fail"
+		}
+	]
+}

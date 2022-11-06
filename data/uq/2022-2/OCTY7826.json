@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Part 1 - Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Fieldwork and Case Report",
+			"weight": 35
+		},
+		{
+			"name": "Infant Simulation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Case Study Part 2 - Oral Examination",
+			"weight": 30
+		}
+	]
+}

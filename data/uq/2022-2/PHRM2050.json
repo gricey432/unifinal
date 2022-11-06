@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 (part of series)",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz 2 (part of series)",
+			"weight": 8
+		},
+		{
+			"name": "Online Quiz 3 (part of series)",
+			"weight": 9
+		},
+		{
+			"name": "Online Quiz 4 (part of series)",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 5 (part of series)",
+			"weight": 9
+		},
+		{
+			"name": "Written examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "IT Governance Mechanisms in Action Team Project",
+			"weight": 30
+		},
+		{
+			"name": "Executive Briefing:  Information Technology Impact",
+			"weight": 40
+		},
+		{
+			"name": "Data Visualisation Evaluation",
+			"weight": 30
+		}
+	]
+}

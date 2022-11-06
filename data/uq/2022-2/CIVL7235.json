@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Brief 1 - PPTX Report",
+			"weight": 25
+		},
+		{
+			"name": "Project Brief 1 - Live Presentation of the PPTX",
+			"weight": 15
+		},
+		{
+			"name": "Project Brief 2 - Report Submission",
+			"weight": 60
+		}
+	]
+}

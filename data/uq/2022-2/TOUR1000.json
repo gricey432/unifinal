@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online examination",
+			"weight": 25
+		},
+		{
+			"name": "Presentation - Destination Virtual Showcase",
+			"weight": 35
+		},
+		{
+			"name": "Individual Essay",
+			"weight": 40
+		}
+	]
+}

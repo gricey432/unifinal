@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Geospatial processing",
+			"weight": 30
+		},
+		{
+			"name": "Geospatial and web mapping projects",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

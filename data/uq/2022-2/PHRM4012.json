@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "NPS National Prescribing Curriculum Case Studies",
+			"weight": 10
+		},
+		{
+			"name": "Patient-centred integrated case (Mid-semester)",
+			"weight": 10
+		},
+		{
+			"name": "Drug knowledge, law and calculations exam",
+			"weight": 20
+		},
+		{
+			"name": "Patient-centred integrated cases (End-of-semester)",
+			"weight": 30
+		},
+		{
+			"name": "OSCE Oral Exam",
+			"weight": 30
+		}
+	]
+}

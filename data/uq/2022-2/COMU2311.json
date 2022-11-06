@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workbook - Participation",
+			"weight": 25
+		},
+		{
+			"name": "Presentation - Stakeholder consultation",
+			"weight": 25
+		},
+		{
+			"name": "Workbook - Social movements",
+			"weight": 25
+		},
+		{
+			"name": "Report - CSC case study",
+			"weight": 25
+		}
+	]
+}

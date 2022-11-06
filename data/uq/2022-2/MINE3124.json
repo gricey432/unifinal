@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Closed book examination",
+			"weight": 25
+		},
+		{
+			"name": "Practical Reports",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

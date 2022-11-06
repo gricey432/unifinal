@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-practical quiz 1",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 2",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 3",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 4",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 5",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 6",
+			"weight": 1
+		},
+		{
+			"name": "Pre-practical quiz 7",
+			"weight": 1
+		},
+		{
+			"name": "Poster presentation with 3 min talk",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory Book",
+			"weight": 28
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

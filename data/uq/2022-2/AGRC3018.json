@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sustainable Agriculture",
+			"weight": 25
+		},
+		{
+			"name": "Report on 6 day tour - INTERNAL ONLY",
+			"weight": 30
+		},
+		{
+			"name": "Sustainable Agricultural Prodn - EXTERNAL ONLY",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam (ProctorU)",
+			"weight": 45
+		}
+	]
+}

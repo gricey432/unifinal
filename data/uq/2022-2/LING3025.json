@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bilinarra History, Kinship, Phon, Parts of Speech",
+			"weight": 20
+		},
+		{
+			"name": "Case + Pronouns",
+			"weight": 20
+		},
+		{
+			"name": "Possession, Spatial Relations, Verbs in Bilinarra",
+			"weight": 20
+		},
+		{
+			"name": "Major Assignment",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 30
+		},
+		{
+			"name": "Digital Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research report",
+			"weight": 40
+		}
+	]
+}

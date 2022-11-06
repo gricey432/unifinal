@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Safety Declaration",
+			"weight": "Hurdle Task"
+		},
+		{
+			"name": "Review an Inquiry Unit of Work",
+			"weight": 30
+		},
+		{
+			"name": "Investigate a Science Phenomenon",
+			"weight": 40
+		},
+		{
+			"name": "Teaching a Science Concept",
+			"weight": 30
+		}
+	]
+}

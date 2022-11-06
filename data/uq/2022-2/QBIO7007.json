@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "News and Views",
+			"weight": 40
+		},
+		{
+			"name": "Critical thinking: topics in quantitative biology",
+			"weight": 20
+		},
+		{
+			"name": "CV, cover letter and interview",
+			"weight": 40
+		}
+	]
+}

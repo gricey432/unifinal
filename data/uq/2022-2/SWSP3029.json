@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Psychosocial assessment",
+			"weight": 40
+		},
+		{
+			"name": "Exam",
+			"weight": 60
+		}
+	]
+}

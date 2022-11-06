@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Oral Interview",
+			"weight": 15
+		},
+		{
+			"name": "Online written assessment series",
+			"weight": 40
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 25
+		},
+		{
+			"name": "Non-invigilated Online Final Written Exam",
+			"weight": 20
+		}
+	]
+}

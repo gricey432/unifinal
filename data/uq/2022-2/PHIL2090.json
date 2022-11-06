@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Online quiz 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Online quiz 3",
+			"weight": 2.5
+		},
+		{
+			"name": "Online quiz 4",
+			"weight": 2.5
+		},
+		{
+			"name": "Proposed abstract for final essay",
+			"weight": 5
+		},
+		{
+			"name": "Final essay",
+			"weight": 55
+		},
+		{
+			"name": "News article review",
+			"weight": 30
+		}
+	]
+}

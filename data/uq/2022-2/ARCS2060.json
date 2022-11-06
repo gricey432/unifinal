@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Field notebook",
+			"weight": 50
+		},
+		{
+			"name": "Archaeological site report",
+			"weight": 50
+		}
+	]
+}

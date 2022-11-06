@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Set Presentation and Report",
+			"weight": 20
+		},
+		{
+			"name": "Exam Week 6",
+			"weight": 30
+		},
+		{
+			"name": "Conference Abstract and Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Project Outcome - Clinician Rating",
+			"weight": 25
+		}
+	]
+}

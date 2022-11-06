@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research essay on a professional ethics topic",
+			"weight": 50
+		},
+		{
+			"name": "On-line quiz - trust money management",
+			"weight": 10
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": 40
+		}
+	]
+}

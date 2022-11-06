@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service interaction observation logs",
+			"weight": 35
+		},
+		{
+			"name": "Technology Insight Brief",
+			"weight": 20
+		},
+		{
+			"name": "Technology Integration Pitch",
+			"weight": 45
+		}
+	]
+}

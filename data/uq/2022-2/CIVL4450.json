@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Macroscopic modelling",
+			"weight": 20
+		},
+		{
+			"name": "Car following modelling",
+			"weight": 20
+		},
+		{
+			"name": "Problem solving",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

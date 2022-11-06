@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of an Agricultural Development Issue",
+			"weight": 10
+		},
+		{
+			"name": "Review of agricultural development book/movie",
+			"weight": 10
+		},
+		{
+			"name": "Analysis of an Agricultural Development Issue",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam Online by Zoom invigilated",
+			"weight": 40
+		}
+	]
+}

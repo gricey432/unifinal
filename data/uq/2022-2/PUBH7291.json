@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Policy analysis",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Elevator pitch + public engagement strategy",
+			"weight": "Pass / Fail"
+		}
+	]
+}

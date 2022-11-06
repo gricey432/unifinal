@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials",
+			"weight": 16
+		},
+		{
+			"name": "Close reading response",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay 34% = 4% Essay Plan + 30% Essay",
+			"weight": 34
+		},
+		{
+			"name": "Creative Writing Response",
+			"weight": 25
+		}
+	]
+}

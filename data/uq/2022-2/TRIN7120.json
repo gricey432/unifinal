@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Student in-class presentation",
+			"weight": 20
+		},
+		{
+			"name": "Professional & ethical case analysis",
+			"weight": 40
+		},
+		{
+			"name": "Essay about Australian society/culture",
+			"weight": 40
+		}
+	]
+}

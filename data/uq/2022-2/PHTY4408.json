@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		},
+		{
+			"name": "NDIS planning and reflection",
+			"weight": 10
+		},
+		{
+			"name": "Physiotherapy Service Proposal",
+			"weight": 30
+		}
+	]
+}

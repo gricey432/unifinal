@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Diary",
+			"weight": 30
+		},
+		{
+			"name": "Essay plan",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

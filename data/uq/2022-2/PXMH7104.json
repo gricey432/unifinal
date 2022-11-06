@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Humility and Professional Practice",
+			"weight": 15
+		},
+		{
+			"name": "Family Experiences and Therapeutic Practice",
+			"weight": 35
+		},
+		{
+			"name": "Concepts of Human Development and Mental Health",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1",
+			"weight": 40
+		},
+		{
+			"name": "Essay 2",
+			"weight": 40
+		},
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Research, translation, and presentation project",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

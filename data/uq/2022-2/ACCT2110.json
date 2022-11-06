@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Revenue Recognition",
+			"weight": 20
+		},
+		{
+			"name": "Online Mid-semester Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Online ProctorU invigilated Final Assessment",
+			"weight": 50
+		}
+	]
+}

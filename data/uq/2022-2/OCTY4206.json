@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "NDIS&Private Practice Pre-graduateModules Assessmt",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Peer-led seminar roles",
+			"weight": 35
+		},
+		{
+			"name": "Service proposal / Business Case Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Viva examination",
+			"weight": 30
+		}
+	]
+}

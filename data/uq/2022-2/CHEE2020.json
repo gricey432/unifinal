@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical: CSTR Temperature Control",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1: Process Equipment and Safety",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2: Process Control Loop Design",
+			"weight": 5
+		},
+		{
+			"name": "Group Project - Report & Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Final Exam - hurdle",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Pitch",
+			"weight": 20
+		},
+		{
+			"name": "Dissertation Report",
+			"weight": 70
+		},
+		{
+			"name": "Supervisor Report",
+			"weight": 10
+		}
+	]
+}

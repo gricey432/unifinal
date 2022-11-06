@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Research Design Report",
+			"weight": 25
+		},
+		{
+			"name": "Research Project Report",
+			"weight": 25
+		}
+	]
+}

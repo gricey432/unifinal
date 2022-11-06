@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Activities - Portfolio 1",
+			"weight": 5
+		},
+		{
+			"name": "In Class Activities - Portfolio 2",
+			"weight": 5
+		},
+		{
+			"name": "Group Drilling and Blasting project - Final report",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

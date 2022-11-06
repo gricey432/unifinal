@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tareas evaluadas",
+			"weight": 20
+		},
+		{
+			"name": "Prueba 1",
+			"weight": 25
+		},
+		{
+			"name": "Patrimonios de la humanidad del mundo hispano",
+			"weight": 30
+		},
+		{
+			"name": "Prueba 2",
+			"weight": 25
+		}
+	]
+}

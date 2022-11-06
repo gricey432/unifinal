@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "START and Development of Clinical Placement",
+			"weight": "NGP"
+		},
+		{
+			"name": "FINAL Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "IPCP Summative Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Midwifery OSCE",
+			"weight": "NGP"
+		}
+	]
+}

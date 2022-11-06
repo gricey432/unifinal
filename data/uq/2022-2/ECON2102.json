@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Experiments",
+			"weight": 16
+		},
+		{
+			"name": "News Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Blackboard Test",
+			"weight": 24
+		},
+		{
+			"name": "Proposal for the Policy Recommendation Report",
+			"weight": 10
+		},
+		{
+			"name": "Policy Recommendation Report",
+			"weight": 35
+		}
+	]
+}

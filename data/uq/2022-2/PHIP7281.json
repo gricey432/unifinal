@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Grant Synopsis",
+			"weight": 20
+		},
+		{
+			"name": "Formative Oral Presentation",
+			"weight": 0
+		},
+		{
+			"name": "Seminar Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 55
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 15
+		}
+	]
+}

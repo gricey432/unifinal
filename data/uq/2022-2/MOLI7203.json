@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "3. PowerPoint presentation Slides",
+			"weight": 20
+		},
+		{
+			"name": "1. Project Definition",
+			"weight": 20
+		},
+		{
+			"name": "2. Dissertation",
+			"weight": 60
+		},
+		{
+			"name": "4. Compulsory Milestone Presentation",
+			"weight": 0
+		}
+	]
+}

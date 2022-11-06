@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set/s",
+			"weight": 30
+		},
+		{
+			"name": "Workplace Training Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Emerging Issues",
+			"weight": 30
+		}
+	]
+}

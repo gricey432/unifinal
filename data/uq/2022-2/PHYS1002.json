@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Solving Assignments (3)",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory Worksheets (4)",
+			"weight": 25
+		}
+	]
+}

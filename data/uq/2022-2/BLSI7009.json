@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Monetisation Design",
+			"weight": 40
+		},
+		{
+			"name": "Business Analytics in Practice Report",
+			"weight": 40
+		},
+		{
+			"name": "Managing Business Analytics Risks",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Writing tasks (5 x 250 words each)",
+			"weight": 25
+		},
+		{
+			"name": "Rhetorical analysis",
+			"weight": 30
+		},
+		{
+			"name": "Development reflection",
+			"weight": 10
+		},
+		{
+			"name": "Persuasive report",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem based learning",
+			"weight": 25
+		},
+		{
+			"name": "Experimental Design of Materials Characterisation",
+			"weight": 15
+		},
+		{
+			"name": "Materials characterisation",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

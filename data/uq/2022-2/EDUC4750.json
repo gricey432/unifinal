@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Policy and Procedures document",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised Professional Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Graduate Teacher Performance Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Critical Reflective essay and professional goals",
+			"weight": "Pass/Fail"
+		}
+	]
+}

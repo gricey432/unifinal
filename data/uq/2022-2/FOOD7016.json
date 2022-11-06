@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Week 3 Lecture content",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2: Weeks 2 & 4 Lecture content",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3: Week 9 Lecture content",
+			"weight": 5
+		},
+		{
+			"name": "Demonstration of Laboratory techniques",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Sensory Data Analysis",
+			"weight": 15
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 30
+		},
+		{
+			"name": "Review",
+			"weight": 40
+		}
+	]
+}

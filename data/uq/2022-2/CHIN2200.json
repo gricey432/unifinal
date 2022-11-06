@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Character practice booklet and exercise sheet",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam (week 6)",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

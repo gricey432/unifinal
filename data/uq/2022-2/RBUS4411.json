@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review",
+			"weight": 20
+		},
+		{
+			"name": "Final research report",
+			"weight": 80
+		}
+	]
+}

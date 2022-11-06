@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Postnatal education",
+			"weight": 50
+		},
+		{
+			"name": "Domestic Violence: the role of the midwife",
+			"weight": 50
+		}
+	]
+}

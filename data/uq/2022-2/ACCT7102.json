@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam (on-line)",
+			"weight": 25
+		},
+		{
+			"name": "Individual Case Study Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Invigilated Final Exam",
+			"weight": 50
+		}
+	]
+}

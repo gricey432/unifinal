@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual and Team Profile Report",
+			"weight": 25
+		},
+		{
+			"name": "Team Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Team Evaluation Report",
+			"weight": 40
+		},
+		{
+			"name": "Course Reflection",
+			"weight": 15
+		}
+	]
+}

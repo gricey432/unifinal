@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Reflections",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Interim Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Final Supervisor Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Logbooks",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Practicum Project",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "ESSA Documentation",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

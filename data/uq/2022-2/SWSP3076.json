@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practice response",
+			"weight": 50
+		},
+		{
+			"name": "Disability Advocacy Strategy",
+			"weight": 50
+		}
+	]
+}

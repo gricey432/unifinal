@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflexive Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Health Equity Pitch",
+			"weight": 35
+		},
+		{
+			"name": "Meta-reflection",
+			"weight": 25
+		}
+	]
+}

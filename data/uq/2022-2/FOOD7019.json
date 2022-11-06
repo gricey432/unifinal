@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Development of a product design brief",
+			"weight": 15
+		},
+		{
+			"name": "Labelling assignment",
+			"weight": 15
+		},
+		{
+			"name": "Product Development Project Final Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination - Online Invigilated (ProctorU)",
+			"weight": 40
+		}
+	]
+}

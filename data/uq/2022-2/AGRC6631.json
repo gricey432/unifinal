@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercise (Wk 3 topic)",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial exercise (Wk 4 topic)",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Exercise (Wks 5 - 12 topics)",
+			"weight": 40
+		},
+		{
+			"name": "Review 5 journal articles",
+			"weight": 25
+		},
+		{
+			"name": "Research Proposal Report",
+			"weight": 15
+		}
+	]
+}

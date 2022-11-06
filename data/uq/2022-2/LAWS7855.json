@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Paper",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": 45
+		},
+		{
+			"name": "Reflection and Journal",
+			"weight": 15
+		}
+	]
+}

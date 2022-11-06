@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation slides",
+			"weight": 0
+		},
+		{
+			"name": "Participation",
+			"weight": 2
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 18
+		},
+		{
+			"name": "Patient diagnosis - Cardiovascular",
+			"weight": 6
+		},
+		{
+			"name": "Patient diagnosis - Cancer",
+			"weight": 6
+		},
+		{
+			"name": "Patient diagnosis - Renal",
+			"weight": 6
+		},
+		{
+			"name": "Patient diagnosis - Metabolism",
+			"weight": 6
+		},
+		{
+			"name": "Patient diagnosis - Dementia",
+			"weight": 6
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

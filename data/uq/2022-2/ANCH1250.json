@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Essay",
+			"weight": 40
+		},
+		{
+			"name": "Tutorials 1-10",
+			"weight": 10
+		},
+		{
+			"name": "Research Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

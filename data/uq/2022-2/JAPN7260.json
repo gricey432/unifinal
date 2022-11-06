@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Translation assignment 1 (medical)",
+			"weight": 25
+		},
+		{
+			"name": "Translation assignment 2 (legal)",
+			"weight": 25
+		},
+		{
+			"name": "Translation assignment 3 (medical)",
+			"weight": 25
+		},
+		{
+			"name": "Translation assignment 4 (legal)",
+			"weight": 25
+		}
+	]
+}

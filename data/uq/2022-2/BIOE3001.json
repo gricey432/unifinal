@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Assessment Series",
+			"weight": 25
+		},
+		{
+			"name": "Project 1: Model Formulation",
+			"weight": 10
+		},
+		{
+			"name": "Project 2: Model Implementation & Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Paper Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Project kick-off meeting",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Teamwork and self-reflection on learning portfolio",
+			"weight": "Criteria based"
+		},
+		{
+			"name": "Peer Assessment 1",
+			"weight": "Contributes to your mark on Design Package 1's Team Project Outputs"
+		},
+		{
+			"name": "Design Package 1",
+			"weight": "Team Project Outputs 60pts; Individual-Core 50pts; Individual-Advanced up to 20pts"
+		},
+		{
+			"name": "Peer Assessment 2",
+			"weight": "Contributes to your mark on Design Package 1's Team Project Outputs"
+		},
+		{
+			"name": "HAZOP study",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Design Package 2",
+			"weight": "Team Project Outputs 30pts; Individual-Core up to 50pts; Individual-Advanced up to 100pts"
+		},
+		{
+			"name": "Peer Assessment 3",
+			"weight": "Contributes to your mark on Design Package 2's Team Project Outputs"
+		},
+		{
+			"name": "Final Presentation",
+			"weight": "Team Project Outputs - 10 pts"
+		}
+	]
+}

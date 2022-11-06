@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Standpoint reflection",
+			"weight": 10
+		},
+		{
+			"name": "The Role of Health Promotion in Planetary Health",
+			"weight": 45
+		},
+		{
+			"name": "Reflection on Research and Action",
+			"weight": 10
+		},
+		{
+			"name": "Advocacy Letter",
+			"weight": 35
+		}
+	]
+}

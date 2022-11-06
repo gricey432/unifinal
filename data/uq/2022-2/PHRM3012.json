@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Vaccination Training",
+			"weight": 15
+		},
+		{
+			"name": "Community Pharmacy Placement",
+			"weight": 10
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": 20
+		},
+		{
+			"name": "EOS Online Inspera (Invigilated)",
+			"weight": 55
+		}
+	]
+}

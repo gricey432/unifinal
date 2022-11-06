@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Travel Demand Quiz",
+			"weight": 6
+		},
+		{
+			"name": "Transport Design Quiz",
+			"weight": 6
+		},
+		{
+			"name": "Transport Planning for Project",
+			"weight": 24
+		},
+		{
+			"name": "Roadway Design for Project",
+			"weight": 24
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual-In-Tutorial-Quizzes(30%)",
+			"weight": 30
+		},
+		{
+			"name": "Team Reflection & Analysis(30%); Peer review(10%)",
+			"weight": 40
+		},
+		{
+			"name": "Cross-Cultural Incident Analysis (30%)",
+			"weight": 30
+		}
+	]
+}

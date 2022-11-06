@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Article summaries (1/week) submit in person",
+			"weight": 15
+		},
+		{
+			"name": "Research Methods Essay (800 words excl. refs)",
+			"weight": 15
+		},
+		{
+			"name": "Policy Research Briefing (1200 words excl. refs)",
+			"weight": 20
+		},
+		{
+			"name": "Comparative Case Study (3,500 words)",
+			"weight": 50
+		}
+	]
+}

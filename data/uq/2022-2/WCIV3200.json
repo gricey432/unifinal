@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Collaboratively Written Essay",
+			"weight": 30
+		},
+		{
+			"name": "Semester Journal",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		}
+	]
+}

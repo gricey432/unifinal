@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and engagement with course",
+			"weight": 20
+		},
+		{
+			"name": "Archive research essay",
+			"weight": 40
+		},
+		{
+			"name": "Found-footage video essay or standard essay",
+			"weight": 40
+		}
+	]
+}

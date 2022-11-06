@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A: Domain Research",
+			"weight": "x1 PAIR + x1 INDIVIDUAL"
+		},
+		{
+			"name": "B: Concept Proposal",
+			"weight": "x2 GROUP/TEAM"
+		},
+		{
+			"name": "C: Design Prototype & Exhibit",
+			"weight": "x4 GROUP/TEAM"
+		},
+		{
+			"name": "D: Critical Reflection",
+			"weight": "x2 INDIVIDUAL"
+		}
+	]
+}

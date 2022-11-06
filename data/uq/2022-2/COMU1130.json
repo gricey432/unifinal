@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Platformisation, past and present (Assessment 1)",
+			"weight": 45
+		},
+		{
+			"name": "The business model of a platform (Assessment 2)",
+			"weight": 30
+		},
+		{
+			"name": "Algorithmic controversy (Assessment 3)",
+			"weight": 25
+		}
+	]
+}

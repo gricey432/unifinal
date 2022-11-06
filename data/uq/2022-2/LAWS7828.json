@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ukraine: protection during armed conflicts",
+			"weight": 40
+		},
+		{
+			"name": "Movement of Cultural Heritage Law Problem",
+			"weight": 40
+		},
+		{
+			"name": "Research paper",
+			"weight": 20
+		}
+	]
+}

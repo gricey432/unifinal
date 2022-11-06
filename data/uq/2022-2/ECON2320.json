@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: LP, IP, Production Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Transportation, Assignment, Projects",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3: Decision Theory, Inventory, Queueing",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Annotated Process Portfolio (INDV)",
+			"weight": "3"
+		},
+		{
+			"name": "A2: Design Inspiration (INDV)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "A3: Rapid Design Sprint and Reflection (INDV)",
+			"weight": "1"
+		},
+		{
+			"name": "A4: Design Computing Project (TEAM)",
+			"weight": "6"
+		}
+	]
+}

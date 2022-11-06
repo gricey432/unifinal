@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journals",
+			"weight": 15
+		},
+		{
+			"name": "Group presentation",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Journals",
+			"weight": 15
+		},
+		{
+			"name": "Group presentation",
+			"weight": 15
+		},
+		{
+			"name": "Exam",
+			"weight": 35
+		},
+		{
+			"name": "Report",
+			"weight": 35
+		}
+	]
+}

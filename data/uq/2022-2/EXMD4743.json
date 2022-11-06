@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Professionalism",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 35
+		}
+	]
+}

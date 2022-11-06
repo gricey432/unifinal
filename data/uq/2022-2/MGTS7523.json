@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "System Dynamics modelling Assignment #1",
+			"weight": 50
+		},
+		{
+			"name": "System Dynamics modelling Assignment #2",
+			"weight": 50
+		}
+	]
+}

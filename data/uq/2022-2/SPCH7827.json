@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "NDIS Module 1 Quiz",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Ethics decision making report",
+			"weight": 30
+		},
+		{
+			"name": "Planning, Providing, and Managing SP Services",
+			"weight": 30
+		},
+		{
+			"name": "Case-Based End-of-Semester Exam",
+			"weight": 40
+		}
+	]
+}

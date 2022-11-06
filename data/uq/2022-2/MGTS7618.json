@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Mind Mapping and Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Group Information Literacy and Peer Assessment",
+			"weight": 40
+		},
+		{
+			"name": "Preparing Your Path Ahead to Wise Leadership",
+			"weight": 30
+		}
+	]
+}

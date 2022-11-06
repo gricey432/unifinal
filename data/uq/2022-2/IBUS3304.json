@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Large Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Country Analysis",
+			"weight": 50
+		}
+	]
+}

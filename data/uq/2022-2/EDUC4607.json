@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Analysing assessment tasks",
+			"weight": 40
+		},
+		{
+			"name": "Task 2: Moderation Meeting - Hurdle Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3: Practice-Based Research Report",
+			"weight": 60
+		}
+	]
+}

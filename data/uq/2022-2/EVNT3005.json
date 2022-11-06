@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Planning and Context of Events Exam",
+			"weight": 20
+		},
+		{
+			"name": "Event Legacy - Gold Coast Commonwealth Games",
+			"weight": 40
+		},
+		{
+			"name": "Leadership Self-Evaluation",
+			"weight": 40
+		}
+	]
+}

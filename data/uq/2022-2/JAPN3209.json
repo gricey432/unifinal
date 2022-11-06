@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Language Analyses",
+			"weight": 40
+		},
+		{
+			"name": "Knowledge Check",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Section A Assignments (3)",
+			"weight": 15
+		},
+		{
+			"name": "Section B Assignments (2)",
+			"weight": 10
+		},
+		{
+			"name": "Formal Report(1) & Logbook entries(4)",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz of Particle Dynamics",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

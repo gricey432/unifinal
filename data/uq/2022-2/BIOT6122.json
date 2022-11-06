@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": "2 unit equivalent"
+		},
+		{
+			"name": "Proposal Seminar",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-year Methods Write-up and Check-point",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Report / Lab Performance",
+			"weight": "10 unit equivalent"
+		},
+		{
+			"name": "Seminar attendance diary",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Research Seminar",
+			"weight": "2 unit equivalent"
+		}
+	]
+}

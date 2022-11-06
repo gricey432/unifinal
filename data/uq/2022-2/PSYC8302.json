@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Observation of clinical interaction - minimum of 5",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Mid-Semester Review",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Folio of clinical work",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "End Semester Review",
+			"weight": "Pass/Recycle"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Supervised Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Individual Research report",
+			"weight": 40
+		},
+		{
+			"name": "E-Tech Case Study",
+			"weight": 40
+		}
+	]
+}

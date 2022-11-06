@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "3 x Quiz (15% each)",
+			"weight": 45
+		},
+		{
+			"name": "The Effects of Violent Video Games",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Targeting water use efficiency",
+			"weight": 7.5
+		},
+		{
+			"name": "Photosynthesis",
+			"weight": 7.5
+		},
+		{
+			"name": "Nutrients and signalling",
+			"weight": 7.5
+		},
+		{
+			"name": "Germination",
+			"weight": 7.5
+		},
+		{
+			"name": "Post-harvest physiology",
+			"weight": 7.5
+		},
+		{
+			"name": "Ethylene",
+			"weight": 7.5
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination - invigilated via ProctorU",
+			"weight": 35
+		}
+	]
+}

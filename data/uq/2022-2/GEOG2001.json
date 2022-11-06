@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Workbook",
+			"weight": 20
+		},
+		{
+			"name": "Noosa Field Trip",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam (Central)",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Multimedia concept plan",
+			"weight": 10
+		},
+		{
+			"name": "Multimedia Portfolio",
+			"weight": 50
+		}
+	]
+}

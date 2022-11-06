@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Test Series (week 5, 9, 13)",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 1 - Paper",
+			"weight": 15
+		},
+		{
+			"name": "Individual Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2 - Final Assessment",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on career development",
+			"weight": 40
+		},
+		{
+			"name": "Rationale for career development services",
+			"weight": 60
+		}
+	]
+}

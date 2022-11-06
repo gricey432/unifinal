@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theory to Practice Essay",
+			"weight": 20
+		},
+		{
+			"name": "Group Unit Plan",
+			"weight": 50
+		},
+		{
+			"name": "Co-Teaching Demonstration",
+			"weight": 30
+		}
+	]
+}

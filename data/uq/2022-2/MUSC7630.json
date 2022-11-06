@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Teaching Practice",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Oral Report and Peer Feedback",
+			"weight": 30
+		},
+		{
+			"name": "Reflection on teaching practice",
+			"weight": 40
+		}
+	]
+}

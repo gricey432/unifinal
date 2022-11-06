@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Online Midterm Slide Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Tutorial Essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

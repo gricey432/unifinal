@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Acquired Aphasia Video Exam",
+			"weight": 20
+		},
+		{
+			"name": "Acquired aphasia online exam",
+			"weight": 30
+		},
+		{
+			"name": "Cognitive Communication Disorders Exam",
+			"weight": 50
+		}
+	]
+}

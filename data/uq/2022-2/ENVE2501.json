@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Concept questions (3 @5%)",
+			"weight": 15
+		},
+		{
+			"name": "Carbon/nutrients and ecosystem services",
+			"weight": 20
+		},
+		{
+			"name": "Systems Thinking and Resilience",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

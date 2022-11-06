@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Skull ID practical report",
+			"weight": 10
+		},
+		{
+			"name": "Scat ID practical report",
+			"weight": 10
+		},
+		{
+			"name": "Bird list report",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 70
+		}
+	]
+}

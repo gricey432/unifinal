@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Lectures & Seminars",
+			"weight": 15
+		},
+		{
+			"name": "Module 1 Video Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Module 2 Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Research Essay",
+			"weight": 40
+		}
+	]
+}

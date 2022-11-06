@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Report",
+			"weight": 15
+		},
+		{
+			"name": "Design Proposal",
+			"weight": 30
+		},
+		{
+			"name": "HCI Essay",
+			"weight": 20
+		},
+		{
+			"name": "Evaluation",
+			"weight": 35
+		}
+	]
+}

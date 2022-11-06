@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Exam - RC",
+			"weight": 0
+		},
+		{
+			"name": "Concrete Practical - Participation & Report",
+			"weight": "Pass/Fail Failure to complete the Laboratory will lead to a grade of 2"
+		},
+		{
+			"name": "Concrete Technology Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Concrete Technology",
+			"weight": 25
+		},
+		{
+			"name": "Reinforced Concrete Design Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Reinforced Concrete Design",
+			"weight": 60
+		}
+	]
+}

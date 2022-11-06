@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Individual reflective essay",
+			"weight": 50
+		},
+		{
+			"name": "Event Manual",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Theoretical & Practical Review",
+			"weight": 30
+		},
+		{
+			"name": "Marketing Strategy Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Critical learning reflection",
+			"weight": 30
+		}
+	]
+}

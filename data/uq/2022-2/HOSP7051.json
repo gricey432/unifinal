@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Hotel Guest Engagement in Sustainability",
+			"weight": 45
+		},
+		{
+			"name": "Operating an eco-lodge with competitive advantages",
+			"weight": 55
+		}
+	]
+}

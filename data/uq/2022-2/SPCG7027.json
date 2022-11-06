@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding Action Research",
+			"weight": 15
+		},
+		{
+			"name": "Designing Action Research",
+			"weight": 25
+		},
+		{
+			"name": "Conducting and Communicating Action Research",
+			"weight": 60
+		}
+	]
+}

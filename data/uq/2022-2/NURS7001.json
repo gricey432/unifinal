@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case study Group Work",
+			"weight": 10
+		},
+		{
+			"name": "Written assignment Case study",
+			"weight": 40
+		},
+		{
+			"name": "Full Episode of Care, Written assignment",
+			"weight": 50
+		},
+		{
+			"name": "Nurse Practitioner e-portfolio",
+			"weight": "Non Graded"
+		}
+	]
+}

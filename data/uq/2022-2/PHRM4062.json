@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Attendance and Student Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "NCS SEAL Reflections",
+			"weight": 60
+		},
+		{
+			"name": "LLL and Employability SEAL Reflections",
+			"weight": 40
+		}
+	]
+}

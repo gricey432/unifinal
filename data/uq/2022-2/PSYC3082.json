@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz I",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 37
+		},
+		{
+			"name": "Quiz II",
+			"weight": 25
+		},
+		{
+			"name": "Self-practice Self-reflection Self-care Portfolio",
+			"weight": 13
+		}
+	]
+}

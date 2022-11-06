@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "mock interview",
+			"weight": 5
+		},
+		{
+			"name": "Innovation project proposal",
+			"weight": 15
+		},
+		{
+			"name": "Innovation Business Plan",
+			"weight": 50
+		},
+		{
+			"name": "Innovation project pitch",
+			"weight": 15
+		},
+		{
+			"name": "Board Pitch",
+			"weight": 10
+		},
+		{
+			"name": "Interview Application",
+			"weight": 5
+		}
+	]
+}

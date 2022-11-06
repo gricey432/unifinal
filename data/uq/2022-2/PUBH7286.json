@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Qualitative research proposal",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "Critical discussion qualitative research article",
+			"weight": "Pass/ Fail"
+		},
+		{
+			"name": "In-depth interview and data analysis",
+			"weight": "Pass/ Fail"
+		}
+	]
+}

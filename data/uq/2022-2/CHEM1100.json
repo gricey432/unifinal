@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Experiments & Report",
+			"weight": 25
+		},
+		{
+			"name": "Chemical Understanding & Literacy",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

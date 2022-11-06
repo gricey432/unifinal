@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading exercises",
+			"weight": 25
+		},
+		{
+			"name": "Teachers' Notes",
+			"weight": 25
+		},
+		{
+			"name": "Opening scenes of a Middle Grade or YA novel",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Cloning Strategy",
+			"weight": 20
+		},
+		{
+			"name": "Practical Participation and Competency",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Write-up",
+			"weight": 20
+		},
+		{
+			"name": "End-of-semester written exam",
+			"weight": 40
+		}
+	]
+}

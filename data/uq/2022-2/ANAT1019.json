@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Invigilated Theory exam",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester practical exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester practical exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory exam",
+			"weight": 35
+		}
+	]
+}

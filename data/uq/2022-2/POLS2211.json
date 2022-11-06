@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Supported by Reading Reports",
+			"weight": 20
+		},
+		{
+			"name": "Short Discussion Paper (800 - 1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay (2000 words)",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 30
+		}
+	]
+}

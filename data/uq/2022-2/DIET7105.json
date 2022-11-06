@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Executive Summary",
+			"weight": 40
+		},
+		{
+			"name": "Professionalism Assessment",
+			"weight": "P/F"
+		},
+		{
+			"name": "Co-design Nutrition Resource Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Quizzes",
+			"weight": 20
+		}
+	]
+}

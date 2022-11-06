@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study report",
+			"weight": 40
+		},
+		{
+			"name": "Case study presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination invigilated via ProctorU",
+			"weight": 40
+		}
+	]
+}

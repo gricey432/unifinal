@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project plan and risk assessments",
+			"weight": 20
+		},
+		{
+			"name": "Assignments and Quizzes for each weekly seminar",
+			"weight": 20
+		},
+		{
+			"name": "Seminar",
+			"weight": 20
+		},
+		{
+			"name": "Independent project report",
+			"weight": 40
+		}
+	]
+}

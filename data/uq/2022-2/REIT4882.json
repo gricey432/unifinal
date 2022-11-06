@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Academic Integrity Tutorial",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Progress Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Seminar Participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Poster and Demonstration",
+			"weight": 25
+		},
+		{
+			"name": "Thesis Report Submission",
+			"weight": 50
+		}
+	]
+}

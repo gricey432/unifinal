@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Simulation Report and Reflection",
+			"weight": 50
+		},
+		{
+			"name": "Team Performance in Cesim Simulation",
+			"weight": 50
+		}
+	]
+}

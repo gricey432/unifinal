@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Philosophical Essay",
+			"weight": 28
+		},
+		{
+			"name": "Web Assignment",
+			"weight": 2
+		},
+		{
+			"name": "Final Philosophical Essay (Research)",
+			"weight": 60
+		}
+	]
+}

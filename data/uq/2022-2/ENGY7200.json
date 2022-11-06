@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Modules Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Competitor Analysis (Group)",
+			"weight": 20
+		},
+		{
+			"name": "Competitor Analysis (Group)",
+			"weight": 30
+		},
+		{
+			"name": "Business Model Innovation",
+			"weight": 40
+		}
+	]
+}

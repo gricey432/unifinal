@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 30
+		},
+		{
+			"name": "A1 - Hindsight",
+			"weight": 20
+		},
+		{
+			"name": "A2 - Insight",
+			"weight": 25
+		},
+		{
+			"name": "A3 - Foresight",
+			"weight": 25
+		}
+	]
+}

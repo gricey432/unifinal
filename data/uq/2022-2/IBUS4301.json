@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal development",
+			"weight": 50
+		},
+		{
+			"name": "Discussion: Leadership, moderation, participation",
+			"weight": 30
+		},
+		{
+			"name": "Research manuscript review",
+			"weight": 20
+		}
+	]
+}

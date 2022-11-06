@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Reports",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Future food and nutrition",
+			"weight": 30
+		}
+	]
+}

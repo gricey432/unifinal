@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Brief",
+			"weight": 35
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 45
+		},
+		{
+			"name": "Cover Letter",
+			"weight": 20
+		}
+	]
+}

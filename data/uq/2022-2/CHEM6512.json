@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 12.5
+		},
+		{
+			"name": "Advanced Coursework",
+			"weight": 12.5
+		},
+		{
+			"name": "Draft Research Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Report & Research Performance",
+			"weight": 62.5
+		},
+		{
+			"name": "Final Seminar",
+			"weight": 12.5
+		}
+	]
+}

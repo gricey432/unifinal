@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 01 (Observing the Street)",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 02 (Sectional Studies)",
+			"weight": 35
+		},
+		{
+			"name": "Assignment 03 (Essay and Report + Booklet)",
+			"weight": 50
+		}
+	]
+}

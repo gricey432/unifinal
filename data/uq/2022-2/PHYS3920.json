@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem solving",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory written report (x 2)",
+			"weight": 20
+		},
+		{
+			"name": "Computational Project and Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam: two-hour, closed-book exam",
+			"weight": 40
+		}
+	]
+}

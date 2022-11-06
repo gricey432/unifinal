@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly On-line Quizzes (2% each)",
+			"weight": 20
+		},
+		{
+			"name": "On-Campus Mid-semester test",
+			"weight": 20
+		},
+		{
+			"name": "Audio filter design project",
+			"weight": 5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Building a Portfolio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Supervised professional experience placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Microteaching presentation",
+			"weight": "Pass/Fail"
+		}
+	]
+}

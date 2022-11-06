@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 35
+		},
+		{
+			"name": "Analysis of a major food poisoning outbreak",
+			"weight": 25
+		},
+		{
+			"name": "End of semester exam - invigilated via ProctorU",
+			"weight": 40
+		}
+	]
+}

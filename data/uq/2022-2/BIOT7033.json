@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Examination - Biotech Concepts Module",
+			"weight": 25
+		},
+		{
+			"name": "Medical Biotechnology Module",
+			"weight": 25
+		},
+		{
+			"name": "Quiz on Agricultural / Industrial Biotech Module",
+			"weight": 15
+		},
+		{
+			"name": "Mini-conference",
+			"weight": 35
+		}
+	]
+}

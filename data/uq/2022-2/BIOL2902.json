@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "The Genetic Basis of Stuff and Things",
+			"weight": 40
+		},
+		{
+			"name": "Genetics practical",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Kahoot! Quiz Creation",
+			"weight": 10
+		},
+		{
+			"name": "Grammar Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Take-Home Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

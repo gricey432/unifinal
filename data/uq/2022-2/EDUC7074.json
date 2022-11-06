@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practice Reflections",
+			"weight": 50
+		},
+		{
+			"name": "Project",
+			"weight": 50
+		},
+		{
+			"name": "Log of Practicum Experience",
+			"weight": "Pass/Fail"
+		}
+	]
+}

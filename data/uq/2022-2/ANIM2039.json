@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mare and Foal Care Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Stud Farm Comparative Study",
+			"weight": 25
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination invigilated via ProctorU",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Blog - Communication with Older People",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Practical Examination",
+			"weight": 30
+		},
+		{
+			"name": "Mid Semester Theory Examination",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 30
+		}
+	]
+}

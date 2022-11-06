@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Study Module Yarning Circles",
+			"weight": 10
+		},
+		{
+			"name": "Online Study Module Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Exploring theoretical standpoint",
+			"weight": 30
+		},
+		{
+			"name": "Working in Partnership with First Nations Peoples",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design thinking output",
+			"weight": 20
+		},
+		{
+			"name": "Exploring and transforming data",
+			"weight": 30
+		},
+		{
+			"name": "Business analytics solution",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A2. Elevator pitch",
+			"weight": 10
+		},
+		{
+			"name": "A1. Professional Poster",
+			"weight": 15
+		},
+		{
+			"name": "A3. Professional Development Plan",
+			"weight": 35
+		},
+		{
+			"name": "A4. Reflective Workplace Journals",
+			"weight": 40
+		}
+	]
+}

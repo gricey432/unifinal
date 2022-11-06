@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study on Module 1 - Organic horticulture",
+			"weight": 10
+		},
+		{
+			"name": "Case Study on Module 2 - Protected cropping",
+			"weight": 10
+		},
+		{
+			"name": "Case study on Module 3 - Urban food production",
+			"weight": 10
+		},
+		{
+			"name": "Online discussion via Teams",
+			"weight": 10
+		},
+		{
+			"name": "Video presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam - Online Invigilated through ProctorU",
+			"weight": 40
+		}
+	]
+}

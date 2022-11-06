@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "HABS1240 IPCP Groupwork Tasks",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Walking away from Omelas",
+			"weight": 40
+		},
+		{
+			"name": "Central Examination",
+			"weight": 60
+		}
+	]
+}

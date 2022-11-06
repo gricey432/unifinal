@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Comms/PR concepts + application",
+			"weight": 30
+		},
+		{
+			"name": "Building relations today",
+			"weight": 35
+		},
+		{
+			"name": "Pitching your newsworthy piece strategy",
+			"weight": 5
+		},
+		{
+			"name": "\"Newsworthy\" strategy and asset",
+			"weight": 30
+		}
+	]
+}

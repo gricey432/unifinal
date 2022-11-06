@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Australian and Pacific Islands' Registries",
+			"weight": 20
+		},
+		{
+			"name": "Research Paper - Marine Pollution",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": 40
+		}
+	]
+}

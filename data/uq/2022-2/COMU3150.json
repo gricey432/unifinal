@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CREATE: Plan and create an online exhibition video",
+			"weight": 30
+		},
+		{
+			"name": "PROMOTE: Promote your online exhibition video",
+			"weight": 30
+		},
+		{
+			"name": "EVALUATE: Evaluation and reflection report",
+			"weight": 40
+		}
+	]
+}

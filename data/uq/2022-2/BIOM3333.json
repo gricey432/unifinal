@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Meetings with Research Mentor",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Group Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Group lab book",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Written Manuscript",
+			"weight": 50
+		},
+		{
+			"name": "Your review of another student's manuscript",
+			"weight": 10
+		}
+	]
+}

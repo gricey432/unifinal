@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Midsemester exam",
+			"weight": 15
+		},
+		{
+			"name": "Applying Organisational Theories",
+			"weight": 35
+		},
+		{
+			"name": "Individual Organisational Problem Analysis",
+			"weight": 50
+		}
+	]
+}

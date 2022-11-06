@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Formulation and Presentation of a New Product",
+			"weight": 30
+		},
+		{
+			"name": "Contrasting bush food with western counterparts",
+			"weight": 20
+		},
+		{
+			"name": "Nutritional Value of Bush Foods",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination - Online Invigilated (ProctorU)",
+			"weight": 30
+		}
+	]
+}

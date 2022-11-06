@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Hydrological analysis",
+			"weight": 29
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 16
+		},
+		{
+			"name": "Final exam",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer behaviour project proposal",
+			"weight": 40
+		},
+		{
+			"name": "Consumer behaviour Project Report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Presentation",
+			"weight": 40
+		},
+		{
+			"name": "MIDW2105",
+			"weight": 60
+		}
+	]
+}

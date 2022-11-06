@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1  Problem Statement",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 2  Interactive Prototype",
+			"weight": 50
+		},
+		{
+			"name": "Video presentation",
+			"weight": 30
+		}
+	]
+}

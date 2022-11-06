@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ideation of Prototypes (minimum 3)",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Finalize Prototype I Idea",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Prototype Suite",
+			"weight": 90
+		},
+		{
+			"name": "Learning Reflection",
+			"weight": 10
+		}
+	]
+}

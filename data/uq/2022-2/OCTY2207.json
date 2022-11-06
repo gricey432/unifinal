@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Theory to Practice Exercises",
+			"weight": 50
+		},
+		{
+			"name": "Access Audit Assignment",
+			"weight": 50
+		}
+	]
+}

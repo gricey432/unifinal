@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "(3x)POP QUIZ",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 4. - Compulsory Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography + Exegesis Plan",
+			"weight": 20
+		},
+		{
+			"name": "Exegesis + Creative Work",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Peer teaching task",
+			"weight": 20
+		},
+		{
+			"name": "Neuroanatomy theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "Regional and Surface Anatomy Quiz",
+			"weight": 10
+		},
+		{
+			"name": "ROM and MMT Practical Viva",
+			"weight": 30
+		}
+	]
+}

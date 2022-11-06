@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Participation",
+			"weight": 30
+		},
+		{
+			"name": "Online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Research report on cybercrime and policing",
+			"weight": 50
+		}
+	]
+}

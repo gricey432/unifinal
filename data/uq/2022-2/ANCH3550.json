@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorials 1-10",
+			"weight": 10
+		},
+		{
+			"name": "Tutorial Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "RD Milns Exhibition Review",
+			"weight": 35
+		},
+		{
+			"name": "Short Research Assignment",
+			"weight": 40
+		}
+	]
+}

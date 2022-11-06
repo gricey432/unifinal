@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Historical Archaeology Case Study Video",
+			"weight": 20
+		},
+		{
+			"name": "Cemetery Exercise",
+			"weight": 40
+		},
+		{
+			"name": "Dodgy Report",
+			"weight": 40
+		}
+	]
+}

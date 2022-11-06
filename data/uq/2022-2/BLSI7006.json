@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Innovation Thesis and Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Business Model Canvas",
+			"weight": 40
+		},
+		{
+			"name": "Putting your BMC into Practice",
+			"weight": 40
+		}
+	]
+}

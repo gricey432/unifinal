@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Consultation Exam (Patient Counselling)",
+			"weight": 25
+		},
+		{
+			"name": "Online Feedback Quizzes 10×2%",
+			"weight": 20
+		},
+		{
+			"name": "Effective Communication Learning Activity",
+			"weight": 10
+		},
+		{
+			"name": "On-campus invigilated Inspera Exam",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Foundations, Human Factors, & Org Crime Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Terrorism & Cyber Warfare Exercise",
+			"weight": 30
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project Report",
+			"weight": "P/F"
+		},
+		{
+			"name": "Business Project Report",
+			"weight": "P/F"
+		},
+		{
+			"name": "Project Scoping Proposal",
+			"weight": "P/F"
+		},
+		{
+			"name": "Final point review",
+			"weight": "P/F"
+		},
+		{
+			"name": "Mid point review",
+			"weight": "P/F"
+		},
+		{
+			"name": "Project Plan",
+			"weight": "P/F"
+		}
+	]
+}

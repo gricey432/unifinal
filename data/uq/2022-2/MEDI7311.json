@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentations (CCP 1 and CCP 2)",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Participation Assessment - Surgery",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Short Answer (SAQ)and Multiple Choice (MCQ)exams",
+			"weight": 70
+		}
+	]
+}

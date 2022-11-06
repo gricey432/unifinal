@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and discussion",
+			"weight": 10
+		},
+		{
+			"name": "Short Assignment 1",
+			"weight": 30
+		},
+		{
+			"name": "Short assignment 2",
+			"weight": 30
+		},
+		{
+			"name": "Short assignment 3 (case analysis)",
+			"weight": 30
+		}
+	]
+}

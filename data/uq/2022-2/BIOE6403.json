@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "WHS and Risk Assessment to be read & consented to.",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Initial Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Instrumentation amplifier & filter (wk 8)",
+			"weight": 15
+		},
+		{
+			"name": "Digitisation and feature detection (wk 13)",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

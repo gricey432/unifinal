@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three quizzes assessing module content",
+			"weight": 35
+		},
+		{
+			"name": "Case study presentation",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

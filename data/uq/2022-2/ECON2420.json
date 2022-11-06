@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Quiz 1",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard Quiz 2",
+			"weight": 2.5
+		},
+		{
+			"name": "Problem Set",
+			"weight": 40
+		},
+		{
+			"name": "Blackboard Quiz 3",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard Quiz 4",
+			"weight": 2.5
+		},
+		{
+			"name": "Blackboard Quiz 5",
+			"weight": 2.5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

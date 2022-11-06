@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written Reflection & Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Cross-Cultural Work Adjustment Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Final Examination, Closed Book - ProctorU",
+			"weight": 20
+		}
+	]
+}

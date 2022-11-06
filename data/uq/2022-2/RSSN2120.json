@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assessment series",
+			"weight": 40
+		},
+		{
+			"name": "Midsemester Oral Interview",
+			"weight": 15
+		},
+		{
+			"name": "Interview Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Oral Interview",
+			"weight": 25
+		}
+	]
+}

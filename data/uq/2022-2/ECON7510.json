@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation on assigned topic",
+			"weight": 30
+		},
+		{
+			"name": "Presentation on your chosen country",
+			"weight": 30
+		},
+		{
+			"name": "2,500 Word country seminar paper",
+			"weight": 40
+		}
+	]
+}

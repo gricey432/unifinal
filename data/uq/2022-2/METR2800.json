@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participate in project planning meetings",
+			"weight": 10
+		},
+		{
+			"name": "Project Management Plan",
+			"weight": 10
+		},
+		{
+			"name": "Design Review 1: Design Synthesis",
+			"weight": 10
+		},
+		{
+			"name": "Design Review 2: Detailed design",
+			"weight": 15
+		},
+		{
+			"name": "Design Review 3: Build and verification",
+			"weight": 15
+		},
+		{
+			"name": "Demonstration against stakeholder requirements",
+			"weight": 40
+		}
+	]
+}

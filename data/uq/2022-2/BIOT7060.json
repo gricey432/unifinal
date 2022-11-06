@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 and 2 Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Module 3 and 4 \"Shark Tank\"",
+			"weight": 30
+		},
+		{
+			"name": "Module 5 Biomechanics application",
+			"weight": 20
+		},
+		{
+			"name": "Module 6 Nanoscience Innovation Poster",
+			"weight": 20
+		}
+	]
+}

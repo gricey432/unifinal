@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Study Task",
+			"weight": 30
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		}
+	]
+}

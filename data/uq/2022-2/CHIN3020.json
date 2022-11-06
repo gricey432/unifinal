@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online exercise",
+			"weight": 20
+		},
+		{
+			"name": "Writing tasks",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 35
+		}
+	]
+}

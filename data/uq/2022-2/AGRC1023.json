@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Round 1",
+			"weight": 2
+		},
+		{
+			"name": "Round 2",
+			"weight": 2
+		},
+		{
+			"name": "Round 3",
+			"weight": 2
+		},
+		{
+			"name": "Round 4",
+			"weight": 2
+		},
+		{
+			"name": "Round 5",
+			"weight": 2
+		},
+		{
+			"name": "Round 6",
+			"weight": 2
+		},
+		{
+			"name": "Round 7",
+			"weight": 2
+		},
+		{
+			"name": "Round 8",
+			"weight": 2
+		},
+		{
+			"name": "Round 9",
+			"weight": 2
+		},
+		{
+			"name": "Round 10",
+			"weight": 2
+		},
+		{
+			"name": "Round 11",
+			"weight": 2
+		},
+		{
+			"name": "Round 12",
+			"weight": 2
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		},
+		{
+			"name": "Final Assessment",
+			"weight": 36
+		}
+	]
+}

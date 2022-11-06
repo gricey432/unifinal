@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Site Study & Concept",
+			"weight": 40
+		},
+		{
+			"name": "Design Development, Representation & Communication",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Hand-ins",
+			"weight": 10
+		},
+		{
+			"name": "Short essay 1,500 words",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay (2,500 words)",
+			"weight": 45
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		}
+	]
+}

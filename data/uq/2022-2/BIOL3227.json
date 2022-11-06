@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ecosystems or rare plants",
+			"weight": 30
+		},
+		{
+			"name": "Plant collection and key to collection",
+			"weight": 40
+		},
+		{
+			"name": "Practical exam",
+			"weight": 30
+		}
+	]
+}

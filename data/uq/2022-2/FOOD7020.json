@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Invigilated Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Invigilated Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Process Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Group Process Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Process Report 3",
+			"weight": 10
+		},
+		{
+			"name": "Group Process Report 4",
+			"weight": 10
+		},
+		{
+			"name": "Group Process Report 5",
+			"weight": 10
+		},
+		{
+			"name": "Group Practical Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Group Practical Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Practical Report 3",
+			"weight": 10
+		}
+	]
+}

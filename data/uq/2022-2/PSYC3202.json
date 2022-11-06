@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture Engagement Activities",
+			"weight": 10
+		},
+		{
+			"name": "Applied Report & Critical Essay",
+			"weight": 45
+		},
+		{
+			"name": "Group Presentations & Peer Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Take home exam",
+			"weight": 25
+		}
+	]
+}

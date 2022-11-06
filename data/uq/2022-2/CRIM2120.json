@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical essay",
+			"weight": 50
+		},
+		{
+			"name": "Collaborative group exercise",
+			"weight": 10
+		},
+		{
+			"name": "Assessment  Policy Brief",
+			"weight": 40
+		}
+	]
+}

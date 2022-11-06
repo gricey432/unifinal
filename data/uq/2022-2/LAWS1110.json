@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance",
+			"weight": 10
+		},
+		{
+			"name": "Justice, Human Rights, and Criminal Process",
+			"weight": 40
+		},
+		{
+			"name": "Final Take Home Assessment",
+			"weight": 50
+		}
+	]
+}

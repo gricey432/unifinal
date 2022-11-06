@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Group Presentations",
+			"weight": 15
+		},
+		{
+			"name": "Comparative Research Essay",
+			"weight": 45
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 25
+		}
+	]
+}

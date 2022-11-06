@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Profile",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Telehealth Presentation",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "Field Trips Attendance",
+			"weight": "Compliance hurdle"
+		}
+	]
+}

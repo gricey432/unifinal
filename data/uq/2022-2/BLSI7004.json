@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Customer Experience (CX) Essay",
+			"weight": 30
+		},
+		{
+			"name": "Customer Journey Map (CJM) & Video Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Managerial Report on CJM",
+			"weight": 30
+		}
+	]
+}

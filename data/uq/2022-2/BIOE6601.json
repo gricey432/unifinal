@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computerised Tomography Reconstruction",
+			"weight": 20
+		},
+		{
+			"name": "Nuclear Medicine Imaging",
+			"weight": 10
+		},
+		{
+			"name": "Magnetic Resonance Imaging Reconstruction",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical VIVA exam",
+			"weight": 60
+		},
+		{
+			"name": "Clinical forms, records and checklists",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Written report",
+			"weight": 25
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 15
+		}
+	]
+}

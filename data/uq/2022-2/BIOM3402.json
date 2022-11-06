@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Peptides as drugs",
+			"weight": 25
+		},
+		{
+			"name": "The inflammasome",
+			"weight": 15
+		},
+		{
+			"name": "Glycotherapeutic receptors",
+			"weight": 15
+		},
+		{
+			"name": "Proteins as drugs",
+			"weight": 15
+		},
+		{
+			"name": "Invigilated End of Semester Examination",
+			"weight": 30
+		}
+	]
+}

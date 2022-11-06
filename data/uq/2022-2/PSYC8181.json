@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion of complex neuropsychological cases",
+			"weight": 50
+		},
+		{
+			"name": "Rehabilitation Case Study Discussion",
+			"weight": 50
+		}
+	]
+}

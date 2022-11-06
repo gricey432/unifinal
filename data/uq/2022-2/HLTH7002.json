@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 2: MCQ (Online)",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 1: Online Discussion and webinar",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 4: Final Essay",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 3: Short Case",
+			"weight": 20
+		}
+	]
+}

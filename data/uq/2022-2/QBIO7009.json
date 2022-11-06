@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computational Project plan",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Project Final Report",
+			"weight": 70
+		},
+		{
+			"name": "Project Final Seminar",
+			"weight": 30
+		},
+		{
+			"name": "Project supervisor's report",
+			"weight": "Pass/Fail"
+		}
+	]
+}

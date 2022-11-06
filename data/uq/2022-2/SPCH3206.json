@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Final Theory Exam - In Week 9",
+			"weight": 40
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 35
+		}
+	]
+}

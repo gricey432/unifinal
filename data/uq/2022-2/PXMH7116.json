@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "[PSY] Presentation of Preliminary Findings",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[AT] Presentation of Findings",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[AT] Art Exhibition",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "Attendance in Supervisory Meeting",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[PSY & AT] Thesis",
+			"weight": 100
+		}
+	]
+}

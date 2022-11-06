@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Eight (8) quizzes, each worth 2.5%",
+			"weight": 20
+		},
+		{
+			"name": "Assignment A: Industry Report (2,500 words)",
+			"weight": 25
+		},
+		{
+			"name": "Assignment B - End of Course Seminar Video",
+			"weight": 25
+		},
+		{
+			"name": "Assignment C - Student Evaluation and Supervisors",
+			"weight": 30
+		}
+	]
+}

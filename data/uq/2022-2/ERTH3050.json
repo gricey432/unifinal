@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lake Moondarra mapping project",
+			"weight": 40
+		},
+		{
+			"name": "Field Techniques",
+			"weight": 10
+		},
+		{
+			"name": "Individual mapping",
+			"weight": 20
+		},
+		{
+			"name": "Mica Creek mapping project",
+			"weight": 30
+		}
+	]
+}

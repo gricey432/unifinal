@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Laboratory OH&S Training",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-semester online quiz",
+			"weight": 15
+		},
+		{
+			"name": "Part 1: Model Development and Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Part 2: Model solution, validation and application",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		},
+		{
+			"name": "Computer based practical exam",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Financial analysis and valuation project part 1",
+			"weight": 20
+		},
+		{
+			"name": "Financial analysis and valuation project part 2",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

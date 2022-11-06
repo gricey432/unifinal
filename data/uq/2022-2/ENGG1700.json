@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Safety Induction",
+			"weight": 0
+		},
+		{
+			"name": "Weekly online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Peer Assessment - Truss Project",
+			"weight": 0
+		},
+		{
+			"name": "Truss Design Challenge",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

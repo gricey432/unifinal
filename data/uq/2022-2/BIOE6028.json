@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Metabolic Engineering Weeks 1-5",
+			"weight": 20
+		},
+		{
+			"name": "Undergraduate Laboratory Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Prac Report & Data analysis",
+			"weight": 10
+		},
+		{
+			"name": "Strain design & Metabolic model - Project",
+			"weight": 40
+		},
+		{
+			"name": "Strain design & Metabolic model - Presentation",
+			"weight": 30
+		}
+	]
+}

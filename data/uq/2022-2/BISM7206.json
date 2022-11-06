@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1 - Mid semester exam",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Task 2 - Team Project",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Task 3 - Final Exam",
+			"weight": 40
+		}
+	]
+}

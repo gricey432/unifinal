@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 19
+		},
+		{
+			"name": "Critiquing McAdam's Multilevel Personality Theory",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 51
+		}
+	]
+}

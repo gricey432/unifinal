@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Task",
+			"weight": 50
+		},
+		{
+			"name": "Political speech",
+			"weight": 50
+		}
+	]
+}

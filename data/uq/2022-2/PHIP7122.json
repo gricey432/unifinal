@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Poster Presentation of Preclinical Research",
+			"weight": 15
+		},
+		{
+			"name": "Quality Assurance Research Project",
+			"weight": 40
+		},
+		{
+			"name": "Toxicology review assignment and quiz",
+			"weight": 15
+		},
+		{
+			"name": "Pharmaceutical Analysis Research Project Report",
+			"weight": 20
+		},
+		{
+			"name": "Pharmacokinetic and Pharmacodynamic Online Quiz",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Final clinical competence assessment",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "mini-Clinical evaluation exercise (mini-CEX)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Direct observation of procedures (DOPs)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Oral examination focused on care planning",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Objective Structured Clinical Examination",
+			"weight": "P/F MUST PASS"
+		}
+	]
+}

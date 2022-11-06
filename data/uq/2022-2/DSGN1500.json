@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Cause and Effects of Design",
+			"weight": 20
+		},
+		{
+			"name": "Historical Analysis: Problem and Solutions",
+			"weight": 30
+		},
+		{
+			"name": "New Solution and Potential Impacts",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of MRs and partaking in Peer Review",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of PR Tools for Organisation",
+			"weight": 70
+		}
+	]
+}

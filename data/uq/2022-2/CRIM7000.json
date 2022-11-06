@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Theory Application Case Study",
+			"weight": 40
+		},
+		{
+			"name": "Theory Visualisation Infographic",
+			"weight": 30
+		}
+	]
+}

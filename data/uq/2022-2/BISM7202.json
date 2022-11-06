@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Invigilated Multiple-Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "MS Office Assignment - Office 365 Excel",
+			"weight": 40
+		},
+		{
+			"name": "Online Invigilated End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

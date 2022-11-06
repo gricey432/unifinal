@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment Submissions and Peer reviews",
+			"weight": 30
+		},
+		{
+			"name": "Submission of two assignments (student choice)",
+			"weight": 40
+		},
+		{
+			"name": "Audiovisual file for the video presentation",
+			"weight": 30
+		}
+	]
+}

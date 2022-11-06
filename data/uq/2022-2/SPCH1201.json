@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Communication and Ageing Report",
+			"weight": 50
+		},
+		{
+			"name": "Pre-clinical simulation",
+			"weight": "Pass/Fail (Must pass)"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

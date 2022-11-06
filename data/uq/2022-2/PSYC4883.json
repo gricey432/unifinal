@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group led case analysis and discussion",
+			"weight": 30
+		},
+		{
+			"name": "Engaged audience role",
+			"weight": 20
+		},
+		{
+			"name": "Case analysis",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Letter to parents",
+			"weight": 20
+		},
+		{
+			"name": "Interview Report - Occupational Formulation",
+			"weight": 35
+		},
+		{
+			"name": "Mental State Examination Quiz",
+			"weight": 10
+		},
+		{
+			"name": "End Semester Theory Exam",
+			"weight": 35
+		}
+	]
+}

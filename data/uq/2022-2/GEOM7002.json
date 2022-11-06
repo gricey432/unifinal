@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project 1: Modelling Spatial Accessibility",
+			"weight": 25
+		},
+		{
+			"name": "Project 2: Spatial Statistical Analysis",
+			"weight": 30
+		},
+		{
+			"name": "StoryMaps Presentation",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam - Online",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Surveillance system evaluation",
+			"weight": 40
+		},
+		{
+			"name": "Short answer question assignment",
+			"weight": 40
+		}
+	]
+}

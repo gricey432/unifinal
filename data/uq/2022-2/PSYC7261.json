@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Experience and treatment of a comorbidity",
+			"weight": 30
+		},
+		{
+			"name": "Class presentation critical review of AOD resource",
+			"weight": 30
+		},
+		{
+			"name": "Critical review of AOD resource",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz Series",
+			"weight": 45
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Project",
+			"weight": 25
+		}
+	]
+}

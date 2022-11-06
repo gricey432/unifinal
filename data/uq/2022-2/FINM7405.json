@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Based Online Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Assignment - Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment - Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Blackboard Based Online Final Exam",
+			"weight": 40
+		}
+	]
+}

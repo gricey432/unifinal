@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Recorded radio interview on a conservation issue",
+			"weight": 20
+		},
+		{
+			"name": "Conservation Planning Prac Report",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

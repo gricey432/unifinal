@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Criminal Justice Job Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Group Video Presentation (including reflection)",
+			"weight": 35
+		},
+		{
+			"name": "Research paper",
+			"weight": 40
+		}
+	]
+}

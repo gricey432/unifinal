@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Meta-learning task 1",
+			"weight": 3
+		},
+		{
+			"name": "Meta-learning task 2",
+			"weight": 3
+		},
+		{
+			"name": "Meta-learning task 3",
+			"weight": 3
+		},
+		{
+			"name": "Meta-learning task 4",
+			"weight": 3
+		},
+		{
+			"name": "Microanatomy of the Skin, EMG & Somatosensory",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "System integration Essay",
+			"weight": 18
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 50
+		}
+	]
+}

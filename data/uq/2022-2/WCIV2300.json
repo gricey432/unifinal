@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 15
+		},
+		{
+			"name": "Video presentation",
+			"weight": 25
+		},
+		{
+			"name": "Staged reading",
+			"weight": 18
+		},
+		{
+			"name": "Research essay",
+			"weight": 42
+		}
+	]
+}

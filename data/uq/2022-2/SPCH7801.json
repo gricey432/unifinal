@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Communication across the lifespan",
+			"weight": 40
+		},
+		{
+			"name": "Speech Pathology Clinic Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Simulated patient clinical assessment",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

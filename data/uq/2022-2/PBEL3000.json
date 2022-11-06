@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Giving, Receiving and Using Feedback",
+			"weight": 40
+		},
+		{
+			"name": "Team Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Industry Report",
+			"weight": 40
+		}
+	]
+}

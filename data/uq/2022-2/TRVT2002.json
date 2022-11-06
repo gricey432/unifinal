@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Distribution Strategy",
+			"weight": 40
+		},
+		{
+			"name": "Role play reflection",
+			"weight": 20
+		},
+		{
+			"name": "Sales Dialogue",
+			"weight": 40
+		}
+	]
+}

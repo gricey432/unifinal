@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Questions",
+			"weight": 20
+		},
+		{
+			"name": "Discussion Leader + Critical Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Blog Post or Case Study",
+			"weight": 25
+		},
+		{
+			"name": "Podcast text or Research Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Building frame (group submission)",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2: Developed documentation",
+			"weight": 70
+		}
+	]
+}

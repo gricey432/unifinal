@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar exercises, discussions, group work",
+			"weight": 15
+		},
+		{
+			"name": "Weekly online tests",
+			"weight": 20
+		},
+		{
+			"name": "Group research project",
+			"weight": 65
+		}
+	]
+}

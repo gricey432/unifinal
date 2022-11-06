@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Orthopaedics Assessment of Clinical Competency",
+			"weight": 12
+		},
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": 48
+		},
+		{
+			"name": "Clinical Participation Assessment - Orthopaedics",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Ophthalmology Assessment of Clinical Competency",
+			"weight": "Performance hurdle: Students must achieve the required standard."
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": 40
+		}
+	]
+}

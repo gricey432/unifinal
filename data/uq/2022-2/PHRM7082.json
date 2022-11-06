@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lectures and Workshops",
+			"weight": "Participation"
+		},
+		{
+			"name": "Team Discussion Reports",
+			"weight": 60
+		},
+		{
+			"name": "Mid-semester online quiz",
+			"weight": 20
+		},
+		{
+			"name": "Patient Interaction",
+			"weight": 20
+		}
+	]
+}

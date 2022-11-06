@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Standpoint reflection",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "The Role of Health Promotion in Planetary Health",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Reflection on Research and Action",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Advocacy Letter",
+			"weight": "Pass / Fail"
+		}
+	]
+}

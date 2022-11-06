@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Participation in Class",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz regarding APS Code and National Guideline",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Competency Assessment - Ethical Dilemmas",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Written Research Proposal",
+			"weight": "Pass/Fail"
+		}
+	]
+}

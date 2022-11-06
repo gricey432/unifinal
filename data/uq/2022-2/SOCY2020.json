@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research essay",
+			"weight": 40
+		},
+		{
+			"name": "Sociological analysis of an environmental film",
+			"weight": 40
+		},
+		{
+			"name": "Dialogue and reflection",
+			"weight": 20
+		}
+	]
+}

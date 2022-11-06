@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Question Authoring and Answering via RiPPLE",
+			"weight": 10
+		},
+		{
+			"name": "Team Project",
+			"weight": 30
+		},
+		{
+			"name": "Share Valuation Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Online Exam",
+			"weight": 30
+		}
+	]
+}

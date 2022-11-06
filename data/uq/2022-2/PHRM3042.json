@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz - SDL session 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - Practical Schedule 1",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - Practical Schedule 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment - SDL session 2",
+			"weight": 20
+		},
+		{
+			"name": "On campus-invigilated digital examination",
+			"weight": 50
+		}
+	]
+}

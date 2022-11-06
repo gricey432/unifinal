@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Self and Peer Review Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Assessed Discussion Board Cases",
+			"weight": 50
+		},
+		{
+			"name": "Final Summative Assessment",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "3 x Quiz (20% each)",
+			"weight": 60
+		},
+		{
+			"name": "Self monitoring project",
+			"weight": 40
+		}
+	]
+}

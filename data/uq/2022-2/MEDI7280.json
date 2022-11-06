@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Urban LInCC Learning Journal",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Written assignment on patient experience",
+			"weight": "Performance hurdle"
+		},
+		{
+			"name": "History taking and Physical Examination Mini-CEXs",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Health Promotion Strategy",
+			"weight": 50
+		},
+		{
+			"name": "Theory exam",
+			"weight": 50
+		}
+	]
+}

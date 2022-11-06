@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Knowledge, Practice, and Engagement",
+			"weight": 20
+		},
+		{
+			"name": "Professional Practice",
+			"weight": 30
+		},
+		{
+			"name": "Professional Knowledge/Engagement",
+			"weight": 50
+		}
+	]
+}

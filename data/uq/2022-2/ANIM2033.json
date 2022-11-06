@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio of critical reflection",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 30
+		},
+		{
+			"name": "PBL Workshop",
+			"weight": 15
+		},
+		{
+			"name": "Conflict management plan - fieldtrip",
+			"weight": 30
+		}
+	]
+}

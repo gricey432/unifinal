@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Task 1",
+			"weight": 35
+		},
+		{
+			"name": "Oral Task 2",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Online Task",
+			"weight": 25
+		}
+	]
+}

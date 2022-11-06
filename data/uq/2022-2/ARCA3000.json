@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation, Written Reflection and Engagement",
+			"weight": 40
+		},
+		{
+			"name": "Letter of Dissatisfaction",
+			"weight": 20
+		},
+		{
+			"name": "Essay Questions",
+			"weight": 40
+		}
+	]
+}

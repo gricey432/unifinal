@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Assignment#1:Hydraulic modelling of sewer network",
+			"weight": 20
+		},
+		{
+			"name": "Exam covering the materials covered until week 8",
+			"weight": 30
+		},
+		{
+			"name": "Assignment#2: Development of sewer management plan",
+			"weight": 25
+		}
+	]
+}

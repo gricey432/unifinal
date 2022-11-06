@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Algeria Project : Video, Essay and Dossier",
+			"weight": 30
+		},
+		{
+			"name": "Group Oral",
+			"weight": 20
+		},
+		{
+			"name": "Academic essay",
+			"weight": 20
+		},
+		{
+			"name": "Discussion : \"Petit pays\" and course texts",
+			"weight": 30
+		}
+	]
+}

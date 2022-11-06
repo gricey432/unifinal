@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessable Tutorial Submissions",
+			"weight": 10
+		},
+		{
+			"name": "Business Law Problem Question Submission",
+			"weight": 15
+		},
+		{
+			"name": "Business Law Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Online Invigilated Corporate Law Final Exam",
+			"weight": 50
+		}
+	]
+}

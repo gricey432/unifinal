@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "ONLINE",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 65
+		},
+		{
+			"name": "Laboratory Practical",
+			"weight": "Pass/Fail Failure to complete ALL Laboratory Practicals will lead to a grade of 2."
+		},
+		{
+			"name": "Laboratory Practical",
+			"weight": "Pass/Fail Failure to complete ALL Laboratory Practicals will lead to a grade of 2."
+		},
+		{
+			"name": "Laboratory Practical",
+			"weight": "Pass/Fail Failure to complete ALL Laboratory Practicals will lead to a grade of 2."
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Readings Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Curriculum Project: Unit Plan & Reflection",
+			"weight": 50
+		},
+		{
+			"name": "Critical Research Essay",
+			"weight": 40
+		}
+	]
+}

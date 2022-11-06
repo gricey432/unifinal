@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Newspaper Article Reviews 1",
+			"weight": 25
+		},
+		{
+			"name": "Individual Essay",
+			"weight": 50
+		},
+		{
+			"name": "Microeconomics Lectures 1 to 4",
+			"weight": 7.5
+		},
+		{
+			"name": "Microeconomics Lectures 1 to 7",
+			"weight": 7.5
+		},
+		{
+			"name": "Macroeconomics Lectures 8 to 10",
+			"weight": 10
+		}
+	]
+}

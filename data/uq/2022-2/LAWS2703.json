@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Take-Home Problem Solving Exercise",
+			"weight": 35
+		},
+		{
+			"name": "Online Final Examination",
+			"weight": 65
+		}
+	]
+}

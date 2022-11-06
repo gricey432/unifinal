@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Sports analysis",
+			"weight": 30
+		},
+		{
+			"name": "Objective Structured Clinical Exam",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester Written Exam",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Two Case Studies",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Site Supervisor Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

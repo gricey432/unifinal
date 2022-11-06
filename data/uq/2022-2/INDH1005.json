@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Self Reflection/Personal Standpoint",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2: Video Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Advocacy Letter to MP",
+			"weight": 40
+		}
+	]
+}

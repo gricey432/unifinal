@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "REMOTE STUDENTS Practical Reports",
+			"weight": 30
+		},
+		{
+			"name": "Practical report 1 Dairy 1 first part",
+			"weight": 2.5
+		},
+		{
+			"name": "Practical report 2 Horses",
+			"weight": 4
+		},
+		{
+			"name": "Practical report 3 Goats",
+			"weight": 4
+		},
+		{
+			"name": "Practical report 4 Microclimates",
+			"weight": 5
+		},
+		{
+			"name": "Practical report 5 Climate Models",
+			"weight": 4.5
+		},
+		{
+			"name": "Practical report 6 Cold Blooded Truth",
+			"weight": 3.5
+		},
+		{
+			"name": "Practical report 7 Reptiles",
+			"weight": 4
+		},
+		{
+			"name": "Practical report 1 Dairy 1 second part",
+			"weight": 2.5
+		},
+		{
+			"name": "Thermoregulation",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination invigilated via ProctorU",
+			"weight": 40
+		}
+	]
+}

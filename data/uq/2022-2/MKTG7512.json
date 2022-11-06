@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study report",
+			"weight": 40
+		},
+		{
+			"name": "Case study analysis (oral presentation)",
+			"weight": 20
+		},
+		{
+			"name": "Online Blackboard exam",
+			"weight": 40
+		}
+	]
+}

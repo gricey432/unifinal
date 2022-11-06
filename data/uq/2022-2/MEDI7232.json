@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "RiPPLE",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

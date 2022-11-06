@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Customer and Market Selection",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2 - Lessons Learned Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 3 - Final Business Model",
+			"weight": 40
+		}
+	]
+}

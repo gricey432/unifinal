@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Journal from in-class and computing activities",
+			"weight": "Formative"
+		},
+		{
+			"name": "Mid-semester quiz",
+			"weight": 15
+		},
+		{
+			"name": "Computing practical examination",
+			"weight": 15
+		},
+		{
+			"name": "Modelling Project Report",
+			"weight": 25
+		},
+		{
+			"name": "Theory exam (open book)",
+			"weight": 45
+		}
+	]
+}

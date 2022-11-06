@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Digital Story",
+			"weight": 30
+		},
+		{
+			"name": "Critical Research Essay",
+			"weight": 40
+		}
+	]
+}

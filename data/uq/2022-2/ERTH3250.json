@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Hydrogeological Project + Report",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 45
+		}
+	]
+}

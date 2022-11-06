@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: discussion of readings",
+			"weight": 20
+		},
+		{
+			"name": "2: Topical essay - choose a title. 2400 words max",
+			"weight": 35
+		},
+		{
+			"name": "3.Museum Management Project Report. 2700 words max",
+			"weight": 45
+		}
+	]
+}

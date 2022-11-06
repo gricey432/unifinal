@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Fortnightly problem set",
+			"weight": 30
+		},
+		{
+			"name": "Course Seminar",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

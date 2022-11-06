@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Question 1 (Module 1)",
+			"weight": 5
+		},
+		{
+			"name": "Concept Question 2 (Module 2)",
+			"weight": 5
+		},
+		{
+			"name": "Concept Question 3 (Module 3)",
+			"weight": 5
+		},
+		{
+			"name": "Concept Question 4 (Module 4)",
+			"weight": 5
+		},
+		{
+			"name": "Concept Question 5 (Module 5)",
+			"weight": 5
+		},
+		{
+			"name": "Student presentation",
+			"weight": 5
+		},
+		{
+			"name": "Project Final Submission",
+			"weight": 30
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

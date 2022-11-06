@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement Preparation and Progression",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

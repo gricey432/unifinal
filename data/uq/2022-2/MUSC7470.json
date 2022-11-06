@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Five Assignments",
+			"weight": 50
+		},
+		{
+			"name": "Project 1 - Two-part Invention",
+			"weight": 25
+		},
+		{
+			"name": "Project 2 - Three-part Fugue",
+			"weight": 25
+		}
+	]
+}

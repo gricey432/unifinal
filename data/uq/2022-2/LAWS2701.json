@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar attendance",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester court report",
+			"weight": 40
+		},
+		{
+			"name": "Final Take Home Assessment",
+			"weight": 50
+		}
+	]
+}

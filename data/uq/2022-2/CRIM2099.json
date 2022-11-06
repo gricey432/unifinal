@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Activities and Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assignment (1200 words)",
+			"weight": 40
+		},
+		{
+			"name": "Governmental Taskforce Submission (1500 words)",
+			"weight": 45
+		}
+	]
+}

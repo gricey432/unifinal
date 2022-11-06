@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Introductory Paragraphs",
+			"weight": 24
+		},
+		{
+			"name": "Class Research Project",
+			"weight": 38
+		},
+		{
+			"name": "Research Essay",
+			"weight": 38
+		}
+	]
+}

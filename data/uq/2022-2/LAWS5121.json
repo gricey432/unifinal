@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Property negotiation",
+			"weight": 10
+		},
+		{
+			"name": "Property division",
+			"weight": 30
+		},
+		{
+			"name": "Online Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment Task 1 - Site Study and Concept",
+			"weight": 30
+		},
+		{
+			"name": "Assignment Task 2 - Design Resolution",
+			"weight": 70
+		}
+	]
+}

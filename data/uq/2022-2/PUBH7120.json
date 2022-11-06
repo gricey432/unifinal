@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Write an article for The Conversation",
+			"weight": 30
+		},
+		{
+			"name": "Advocacy for a public health policy action",
+			"weight": 30
+		},
+		{
+			"name": "Job application",
+			"weight": 40
+		}
+	]
+}

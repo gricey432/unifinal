@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch your idea and completion of wiki page",
+			"weight": 10
+		},
+		{
+			"name": "Understanding the study area and its potential",
+			"weight": 55
+		},
+		{
+			"name": "Regeneration plan (Group work)",
+			"weight": 35
+		}
+	]
+}

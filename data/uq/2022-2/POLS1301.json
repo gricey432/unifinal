@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Reports",
+			"weight": 20
+		},
+		{
+			"name": "Article/Chapter Review (1500 words)",
+			"weight": 20
+		},
+		{
+			"name": "Major Essay (2000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 30
+		}
+	]
+}

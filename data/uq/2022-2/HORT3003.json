@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Solution(s) for horticultural challenge/problem",
+			"weight": 20
+		},
+		{
+			"name": "Introduction of a new crop",
+			"weight": 30
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam - Online Invigilated through ProctorU",
+			"weight": 40
+		}
+	]
+}

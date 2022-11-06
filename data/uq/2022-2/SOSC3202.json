@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project Reflection",
+			"weight": 15
+		},
+		{
+			"name": "Feedback Summary Sheet for Research Participants",
+			"weight": 15
+		},
+		{
+			"name": "Draft research report",
+			"weight": 0
+		},
+		{
+			"name": "Group Video and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final research report",
+			"weight": 50
+		},
+		{
+			"name": "Revised Report Delivered to Industry Partner",
+			"weight": "Required for award of grade"
+		}
+	]
+}

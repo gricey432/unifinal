@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Topic evaluation",
+			"weight": 25
+		},
+		{
+			"name": "Workshop presentation",
+			"weight": 35
+		},
+		{
+			"name": "Case study Practical, due in Week 12",
+			"weight": 40
+		}
+	]
+}

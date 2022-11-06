@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Epidemiology assignment",
+			"weight": 20
+		},
+		{
+			"name": "MSE - Microbiology & Virology",
+			"weight": 20
+		},
+		{
+			"name": "Practical exam",
+			"weight": 15
+		},
+		{
+			"name": "EOS Exam - Parasitology, Epidemiology & Immunology",
+			"weight": 45
+		}
+	]
+}

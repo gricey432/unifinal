@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Surveys and uploads",
+			"weight": 12
+		},
+		{
+			"name": "Choice of assessment",
+			"weight": 22
+		},
+		{
+			"name": "Participation: 8 tutorials and 5 MediaLabs",
+			"weight": 26
+		},
+		{
+			"name": "Long Essay (2400 words)",
+			"weight": 40
+		}
+	]
+}

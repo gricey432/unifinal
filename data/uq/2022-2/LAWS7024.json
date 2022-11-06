@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Moot Court Role Play",
+			"weight": 20
+		},
+		{
+			"name": "Moot  Court Plan",
+			"weight": 20
+		},
+		{
+			"name": "Moot Court Case Review",
+			"weight": 30
+		}
+	]
+}

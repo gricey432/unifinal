@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Decision-Making Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Simulation Experience",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 35
+		}
+	]
+}

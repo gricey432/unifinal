@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Grammar, translation and scansion exercises x 5",
+			"weight": 40
+		},
+		{
+			"name": "Mid-Semester Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Set -Timed via Blackboard",
+			"weight": 35
+		}
+	]
+}

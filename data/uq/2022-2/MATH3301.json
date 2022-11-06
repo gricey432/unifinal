@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": 40
+		},
+		{
+			"name": "Mid-Semester Examination Design Theory",
+			"weight": 30
+		},
+		{
+			"name": "Graph Theory Project Report",
+			"weight": 30
+		}
+	]
+}

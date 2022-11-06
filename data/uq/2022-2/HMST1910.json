@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Six online quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Assessment Task 1 (Thematic Reference List)",
+			"weight": 15
+		},
+		{
+			"name": "Assessment Task 2",
+			"weight": 35
+		}
+	]
+}

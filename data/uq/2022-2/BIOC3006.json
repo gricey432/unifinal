@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Xanthine oxidase laboratory report",
+			"weight": 22.5
+		},
+		{
+			"name": "Set of 2 quizzes on foundational understanding",
+			"weight": 10
+		},
+		{
+			"name": "Computer exercise",
+			"weight": 17.5
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

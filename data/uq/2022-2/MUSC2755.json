@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Performance Report/Director's Report",
+			"weight": 70
+		},
+		{
+			"name": "Hurdle Task - Week 2 - Chamber Music ONLY",
+			"weight": 0
+		},
+		{
+			"name": "Performance Report/Director's Report",
+			"weight": 30
+		}
+	]
+}

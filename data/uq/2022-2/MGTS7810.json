@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Small Group PowerPoint Case Study Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Individual Case Analysis Discussion",
+			"weight": 0
+		},
+		{
+			"name": "Final Essay - Individual Case Analysis",
+			"weight": 60
+		}
+	]
+}

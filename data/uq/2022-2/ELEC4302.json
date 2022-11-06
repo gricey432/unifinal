@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial submission",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam  - Blackboard Non invigilated",
+			"weight": 15
+		},
+		{
+			"name": "Hardware and software Laboratory exercise",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

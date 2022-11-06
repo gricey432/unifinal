@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Point and End Point Reviews",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Case Presentations",
+			"weight": "Must be completed to Pass"
+		},
+		{
+			"name": "Placement Folio",
+			"weight": "Must be completed to pass"
+		}
+	]
+}

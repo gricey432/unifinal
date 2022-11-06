@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 X 500 word reflections on content",
+			"weight": 30
+		},
+		{
+			"name": "1000 word review essay",
+			"weight": 30
+		},
+		{
+			"name": "2500 word essay",
+			"weight": 40
+		}
+	]
+}

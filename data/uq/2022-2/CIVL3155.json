@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory reports",
+			"weight": 16
+		},
+		{
+			"name": "Team Project",
+			"weight": 29
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 55
+		}
+	]
+}

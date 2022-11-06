@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Tutorial and Blog Participation",
+			"weight": 20
+		},
+		{
+			"name": "Take-Home Assignment (1,000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Assignment (2,500 words)",
+			"weight": 50
+		}
+	]
+}

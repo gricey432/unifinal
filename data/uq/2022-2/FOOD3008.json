@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Group Practical Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Group Practical Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Group Practical Report 3",
+			"weight": 10
+		},
+		{
+			"name": "Invigilated Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "Invigilated Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination - Online Invigilated (Zoom)",
+			"weight": 50
+		}
+	]
+}

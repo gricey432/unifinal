@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "SAMARCO tailling's dam burst",
+			"weight": 15
+		},
+		{
+			"name": "Mt Coot-tha Geochemical Survey",
+			"weight": 35
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

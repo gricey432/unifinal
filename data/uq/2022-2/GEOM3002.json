@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Spatial analysis and modelling I",
+			"weight": 25
+		},
+		{
+			"name": "Spatial analysis and modelling II",
+			"weight": 30
+		},
+		{
+			"name": "StoryMap Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final",
+			"weight": 25
+		}
+	]
+}

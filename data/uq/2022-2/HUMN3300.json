@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar & Mini-Internship Participation",
+			"weight": 15
+		},
+		{
+			"name": "Draft Research Outline",
+			"weight": 20
+		},
+		{
+			"name": "Interview about Mini-Internship",
+			"weight": 25
+		},
+		{
+			"name": "Project Literature Review",
+			"weight": 40
+		}
+	]
+}

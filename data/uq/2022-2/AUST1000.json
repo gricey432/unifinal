@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Media Piece and Letters",
+			"weight": 35
+		},
+		{
+			"name": "Exhibition Concept & Rationale",
+			"weight": 45
+		}
+	]
+}

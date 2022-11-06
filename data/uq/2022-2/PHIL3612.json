@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of selected readings",
+			"weight": 30
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Final essay",
+			"weight": 60
+		}
+	]
+}

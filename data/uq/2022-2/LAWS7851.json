@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Journal",
+			"weight": 30
+		},
+		{
+			"name": "Research Paper",
+			"weight": 70
+		}
+	]
+}

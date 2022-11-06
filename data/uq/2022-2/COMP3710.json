@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Fractals with Tensorflow",
+			"weight": 10
+		},
+		{
+			"name": "Pattern Recognition Problem",
+			"weight": 20
+		},
+		{
+			"name": "Pattern Analysis Algorithm",
+			"weight": 40
+		},
+		{
+			"name": "Final",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3D model and blog entry",
+			"weight": 45
+		},
+		{
+			"name": "Podcast and Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Social media content curation",
+			"weight": 15
+		}
+	]
+}

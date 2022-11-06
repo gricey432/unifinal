@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Science Communication Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 20
+		},
+		{
+			"name": "Bioinformatics assignment",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service Encounter Critique",
+			"weight": 30
+		},
+		{
+			"name": "Service Blueprint",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Analysis",
+			"weight": 40
+		}
+	]
+}

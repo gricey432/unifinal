@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Integrated Assessment Sequence",
+			"weight": 20
+		},
+		{
+			"name": "Online Practical Exam",
+			"weight": 20
+		},
+		{
+			"name": "Anatomy/Physiology/Biochemistry/Nutrition Theory",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple choice quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Critical analysis",
+			"weight": 35
+		},
+		{
+			"name": "Final Philosophical Essay",
+			"weight": 55
+		}
+	]
+}

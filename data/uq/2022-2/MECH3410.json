@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 65
+		},
+		{
+			"name": "Weekly Tutorial Questions",
+			"weight": 10
+		},
+		{
+			"name": "Exp 1 (Aerofoil)",
+			"weight": 15
+		},
+		{
+			"name": "Experiment 2 and 3 logbook entries",
+			"weight": 10
+		}
+	]
+}

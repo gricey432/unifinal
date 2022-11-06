@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Dysphagia Simulation (paediatric)",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

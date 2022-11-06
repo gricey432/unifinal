@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Latin & Greek",
+			"weight": 100
+		},
+		{
+			"name": "Anc History, Studies in Religion, History",
+			"weight": 100
+		},
+		{
+			"name": "Philosophy Thesis",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Persuasive speech",
+			"weight": 50
+		},
+		{
+			"name": "Role play & Question-and-answer",
+			"weight": 50
+		}
+	]
+}

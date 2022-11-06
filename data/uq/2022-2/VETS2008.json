@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group project: Critical literature review",
+			"weight": 20
+		},
+		{
+			"name": "Male, female and pregnancy/parturition/lactation",
+			"weight": 30
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

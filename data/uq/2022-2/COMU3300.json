@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Online Debate",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 2: Online Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: Research Essay",
+			"weight": 40
+		}
+	]
+}

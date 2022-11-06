@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated bibliography & book chapter edit update",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam - Modules 1 to 6",
+			"weight": 30
+		},
+		{
+			"name": "Marsupial and monotreme Literature Review",
+			"weight": 20
+		},
+		{
+			"name": "Final exam - Modules 7 to 12",
+			"weight": 30
+		}
+	]
+}

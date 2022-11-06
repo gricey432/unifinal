@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Five Online Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Five Practicals",
+			"weight": 50
+		}
+	]
+}

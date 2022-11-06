@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities",
+			"weight": 20
+		},
+		{
+			"name": "JavaScript Functional Programming",
+			"weight": 30
+		},
+		{
+			"name": "React Web App",
+			"weight": 25
+		},
+		{
+			"name": "React Native App",
+			"weight": 25
+		}
+	]
+}

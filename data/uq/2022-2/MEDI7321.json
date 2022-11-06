@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentation and Discussion",
+			"weight": "9 of 25 assessment criteria"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance hurdle: Students must meet this criterion regardless of the overall course marks"
+		},
+		{
+			"name": "Peer-led Teaching & Learning",
+			"weight": "4 out of 25 criteria"
+		},
+		{
+			"name": "Understanding the Person Discussion",
+			"weight": "6 of 25 Assessment Criteria"
+		},
+		{
+			"name": "Medicine in Society Tutorials (ViM or CiM)",
+			"weight": "Performance hurdle: Students must meet this criterion regardless of the overall course marks"
+		},
+		{
+			"name": "Learning Reflection 1",
+			"weight": "2 out of 25 criteria"
+		},
+		{
+			"name": "Learning Reflection 2",
+			"weight": "2 out of 25 criteria"
+		},
+		{
+			"name": "Learning Reflection 3",
+			"weight": "2 out of 25 criteria"
+		},
+		{
+			"name": "MiS MCQ Quizzes",
+			"weight": "Compliance Hurdle: Students must complete this requirement to pass the course"
+		},
+		{
+			"name": "Queensland Ambulance Services - Clinical Scenarios",
+			"weight": "Compliance Hurdle: Students must complete this requirement to pass the course"
+		}
+	]
+}

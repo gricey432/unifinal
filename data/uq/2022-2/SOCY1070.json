@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "CL-JE (Contextualise Learning - Journal Entries)",
+			"weight": 50
+		},
+		{
+			"name": "Infographic: Axes of Inequality",
+			"weight": 40
+		},
+		{
+			"name": "Learning Statement",
+			"weight": 10
+		}
+	]
+}

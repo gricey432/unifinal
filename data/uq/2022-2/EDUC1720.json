@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "AT3: Mathematical problem-solving tasks",
+			"weight": 50
+		},
+		{
+			"name": "AT1: Role of mathematics and numeracy",
+			"weight": 25
+		},
+		{
+			"name": "AT2: Numeracy video/powerpoint: Real life maths",
+			"weight": 25
+		}
+	]
+}

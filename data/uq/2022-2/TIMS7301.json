@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Analysis",
+			"weight": 30
+		},
+		{
+			"name": "New venture Project - Investor Pitch",
+			"weight": 20
+		},
+		{
+			"name": "New Venture Project Report (Supporting Documents)",
+			"weight": 20
+		},
+		{
+			"name": "Reflection on my entrepreneurial journey",
+			"weight": 30
+		}
+	]
+}

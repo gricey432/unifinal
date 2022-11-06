@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis and Design UML assessment portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Core Knowledge Test with Inspera Assessment",
+			"weight": 35
+		},
+		{
+			"name": "Reflective Journal on WIL Mendix Blended Learning",
+			"weight": 25
+		}
+	]
+}

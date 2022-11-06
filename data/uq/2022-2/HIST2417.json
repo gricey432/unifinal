@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short essay (three format options)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		},
+		{
+			"name": "Essay Outline",
+			"weight": 10
+		},
+		{
+			"name": "Contributions to tutorials",
+			"weight": 20
+		}
+	]
+}

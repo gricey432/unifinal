@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading summary",
+			"weight": 11
+		},
+		{
+			"name": "Masterclass and Audio or video case presentation",
+			"weight": 24
+		},
+		{
+			"name": "Conflict Analysis (2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Peacebuilding Policy Proposal (1500 words)",
+			"weight": 25
+		}
+	]
+}

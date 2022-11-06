@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "OHSMS Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Current Approaches to OHS Management",
+			"weight": 30
+		},
+		{
+			"name": "Problem Set",
+			"weight": 40
+		}
+	]
+}

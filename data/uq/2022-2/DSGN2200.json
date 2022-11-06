@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1. Circular Design Framework",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2. Full Circle Furniture",
+			"weight": 60
+		}
+	]
+}

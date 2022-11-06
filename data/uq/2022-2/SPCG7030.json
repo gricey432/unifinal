@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "TASK A - Formulation of topic",
+			"weight": 10
+		},
+		{
+			"name": "TASK B - Directed study proposal",
+			"weight": 30
+		},
+		{
+			"name": "TASK C - Directed study final submission",
+			"weight": 60
+		}
+	]
+}

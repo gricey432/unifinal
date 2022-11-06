@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Community Education QI Project - 3 stages",
+			"weight": 50
+		},
+		{
+			"name": "Professional Practice Reflection Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Speech Pathology Advocacy Video Assignment",
+			"weight": 30
+		}
+	]
+}

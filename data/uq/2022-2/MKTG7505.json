@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project: new product concept presentation",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Critical Analysis of NPD/NSD Case study",
+			"weight": 25
+		},
+		{
+			"name": "Major project: Concept testing report (video)",
+			"weight": 40
+		}
+	]
+}

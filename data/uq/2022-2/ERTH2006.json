@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practical component through the semester",
+			"weight": 60
+		},
+		{
+			"name": "Theory exam",
+			"weight": 40
+		}
+	]
+}

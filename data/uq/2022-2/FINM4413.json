@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study",
+			"weight": 20
+		},
+		{
+			"name": "Corporate Finance Pitch",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 20
+		}
+	]
+}

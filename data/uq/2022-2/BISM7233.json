@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 35
+		},
+		{
+			"name": "Power BI take home Assignment 750-1000 words",
+			"weight": 25
+		},
+		{
+			"name": "Business Analytics Case Study",
+			"weight": 40
+		}
+	]
+}

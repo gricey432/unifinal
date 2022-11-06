@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Task 4A: Policies & Procedures for Prof Experience",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 1: Professional development \"byte\"",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Critical reflection",
+			"weight": 30
+		},
+		{
+			"name": "Task 4B: Field Experience Placement Log",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 3: Case study evaluating a teaching program",
+			"weight": 40
+		}
+	]
+}

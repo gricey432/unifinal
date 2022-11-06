@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three Online Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "report",
+			"weight": 40
+		}
+	]
+}

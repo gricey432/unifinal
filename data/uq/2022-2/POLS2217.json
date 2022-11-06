@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial preparation and (online) participation",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review (2000 words)",
+			"weight": 35
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 50
+		}
+	]
+}

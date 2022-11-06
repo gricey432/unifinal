@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Group Project Report",
+			"weight": 55
+		},
+		{
+			"name": "Patient Education Video and Information Sheet",
+			"weight": 45
+		}
+	]
+}

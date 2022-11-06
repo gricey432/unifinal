@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ration formulation",
+			"weight": 20
+		},
+		{
+			"name": "glycemic index of supplements",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

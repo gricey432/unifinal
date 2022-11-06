@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project Implementation",
+			"weight": 20
+		},
+		{
+			"name": "Individual Programming Tasks",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

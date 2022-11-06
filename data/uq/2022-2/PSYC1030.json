@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Weekly online lecture quizzes",
+			"weight": 27
+		},
+		{
+			"name": "Cycle of Science: Individual study e-Poster",
+			"weight": 19
+		},
+		{
+			"name": "Cycle of Science: Group-designed study e-Poster",
+			"weight": 19
+		},
+		{
+			"name": "Introduction + References",
+			"weight": 29
+		}
+	]
+}

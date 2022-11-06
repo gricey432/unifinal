@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Intellectual Property and Patent Law",
+			"weight": 20
+		},
+		{
+			"name": "Commercialisation Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Human Research Ethics Application",
+			"weight": 30
+		},
+		{
+			"name": "Project Management plan - gantt chart",
+			"weight": 20
+		}
+	]
+}

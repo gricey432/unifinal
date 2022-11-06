@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Policy Knowledge Analysis - 1",
+			"weight": 20
+		},
+		{
+			"name": "Policy Knowledge Analysis - 2",
+			"weight": 20
+		},
+		{
+			"name": "Policy Research Essay",
+			"weight": 50
+		}
+	]
+}

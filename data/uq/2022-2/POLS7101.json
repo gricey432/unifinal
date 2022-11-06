@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Attendance and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Text Analysis (1200 words)",
+			"weight": 20
+		},
+		{
+			"name": "Text Analysis (1200 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Case Study (3000 words)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Fixed Prosthodontics Preclinical Competency PFM",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Exam Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Endodontic Preclinical e-Portfolio",
+			"weight": "P/F (Must Pass)"
+		},
+		{
+			"name": "Preclinical Competency - Molar Endodontics",
+			"weight": 25
+		},
+		{
+			"name": "Clinical Practice Performance",
+			"weight": "P/F (Must Pass)"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 35
+		}
+	]
+}

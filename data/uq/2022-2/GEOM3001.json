@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Remote Sensing Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Online quiz series (4 total)",
+			"weight": 10
+		},
+		{
+			"name": "Remote Sensing Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Integrative essay",
+			"weight": 30
+		}
+	]
+}

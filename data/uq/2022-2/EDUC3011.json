@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Part A: Digital Curation",
+			"weight": 20
+		},
+		{
+			"name": "Part B: Preliminary Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Part C: Sociological Story",
+			"weight": 50
+		}
+	]
+}

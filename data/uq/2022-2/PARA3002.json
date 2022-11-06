@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-tutorial quizzes",
+			"weight": 0
+		},
+		{
+			"name": "Practical quiz # 1 - during Semester (School)",
+			"weight": 30
+		},
+		{
+			"name": "Practical quiz # 2",
+			"weight": 20
+		},
+		{
+			"name": "Theory examination",
+			"weight": 50
+		}
+	]
+}

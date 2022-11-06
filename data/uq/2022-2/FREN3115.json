@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Test écrit",
+			"weight": 25
+		},
+		{
+			"name": "Jeu de rôle descriptif : Objet mystère",
+			"weight": 25
+		},
+		{
+			"name": "Discussion de votre dossier de textes",
+			"weight": 25
+		},
+		{
+			"name": "Dossier descriptif",
+			"weight": 25
+		}
+	]
+}

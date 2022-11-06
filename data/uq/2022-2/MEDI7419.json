@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-year Portfolio Review",
+			"weight": "Compliance Hurdle: Students must complete regardless of other outcomes"
+		},
+		{
+			"name": "Institute of Health Improvement online modules",
+			"weight": "Compliance Hurdle: Students must complete regardless of overall course outcomes"
+		},
+		{
+			"name": "Summative Portfolio Review",
+			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "DOPS & COPS",
+			"weight": "Submit prescribed number per semester to avoid showing insufficient progress in WLP"
+		},
+		{
+			"name": "Mini-Clinical Evaluation Exercise (Mini-CEX)",
+			"weight": "Submit prescribed number per semester to avoid showing insufficient progress in WLP"
+		},
+		{
+			"name": "Semester Task Plan",
+			"weight": "Contributes to Mid-year and Summative Portfolio Review"
+		},
+		{
+			"name": "Semester Task Review",
+			"weight": "Contributes to Mid-year and Summative Portfolio Review"
+		}
+	]
+}

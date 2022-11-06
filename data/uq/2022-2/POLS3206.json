@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial partic & completion of Online module",
+			"weight": 20
+		},
+		{
+			"name": "Policy Research Report and Brief (3500) words)",
+			"weight": 50
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 30
+		}
+	]
+}

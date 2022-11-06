@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Energy Workbook and Travel Diary",
+			"weight": 15
+		},
+		{
+			"name": "Energy Efficiency Presentation (Group)",
+			"weight": 15
+		},
+		{
+			"name": "Personal Energy Audit",
+			"weight": 35
+		},
+		{
+			"name": "Transport Strategy for Brisbane 2032",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1. PHTY7934 Modular Tasks",
+			"weight": 40
+		},
+		{
+			"name": "2. PHTY7934 Mid Semester Presentation",
+			"weight": 20
+		},
+		{
+			"name": "3. PHTY7934 End of Semester Assignment Part A & B",
+			"weight": 40
+		}
+	]
+}

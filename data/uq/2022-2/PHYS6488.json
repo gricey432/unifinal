@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": 0
+		},
+		{
+			"name": "Honours Progress Talk",
+			"weight": 0
+		},
+		{
+			"name": "Progress Report with Literature Review",
+			"weight": 0
+		},
+		{
+			"name": "Honours Final Talk",
+			"weight": 0
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

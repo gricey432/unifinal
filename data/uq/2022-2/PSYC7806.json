@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Presentation of a Children's Story",
+			"weight": 10
+		},
+		{
+			"name": "Creative Piece of Work",
+			"weight": 45
+		},
+		{
+			"name": "Critical Review of an Intervention Used with Child",
+			"weight": 45
+		}
+	]
+}

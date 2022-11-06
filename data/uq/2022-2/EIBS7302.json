@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Blogging on innovation",
+			"weight": 30
+		},
+		{
+			"name": "Reflective essay on disruptive innovation",
+			"weight": 30
+		},
+		{
+			"name": "Self-written case study",
+			"weight": 40
+		}
+	]
+}

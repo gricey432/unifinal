@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Surveillance system evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Short answer question assignment",
+			"weight": "Pass/Fail"
+		}
+	]
+}

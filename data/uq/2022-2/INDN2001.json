@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly task",
+			"weight": 60
+		},
+		{
+			"name": "Presentation on Indonesian pluralisms",
+			"weight": 40
+		}
+	]
+}

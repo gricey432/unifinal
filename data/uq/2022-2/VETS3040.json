@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online module SDL and quiz activities",
+			"weight": 30
+		},
+		{
+			"name": "Mid-semester examination Online",
+			"weight": 30
+		},
+		{
+			"name": "Applied skills log",
+			"weight": 0
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Programming Problem Project",
+			"weight": 24
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 4",
+			"weight": 12
+		},
+		{
+			"name": "Assignment 5",
+			"weight": 12
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

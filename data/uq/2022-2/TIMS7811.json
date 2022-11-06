@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team presentation on industry innovation project",
+			"weight": 30
+		},
+		{
+			"name": "Consulting Report - Innovation strategy",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reflection Essay",
+			"weight": 30
+		}
+	]
+}

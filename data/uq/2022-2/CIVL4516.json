@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Design report",
+			"weight": 30
+		},
+		{
+			"name": "Design report",
+			"weight": 25
+		},
+		{
+			"name": "Design pitch",
+			"weight": 25
+		},
+		{
+			"name": "Design report",
+			"weight": 20
+		},
+		{
+			"name": "Workshop Participation",
+			"weight": "Pass/Fail Hurdle"
+		}
+	]
+}

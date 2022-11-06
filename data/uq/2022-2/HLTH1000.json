@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online & in-class tutorial learning summaries",
+			"weight": 20
+		},
+		{
+			"name": "Reflection and short answer",
+			"weight": 20
+		},
+		{
+			"name": "Report (Group)",
+			"weight": 30
+		},
+		{
+			"name": "Report",
+			"weight": 30
+		}
+	]
+}

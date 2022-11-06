@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Refugee artefacts and the law",
+			"weight": 40
+		},
+		{
+			"name": "Immigration and Refugee Law Rights and Realities",
+			"weight": 60
+		}
+	]
+}

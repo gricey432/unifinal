@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "RiPPLE Activities",
+			"weight": 10
+		},
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		}
+	]
+}

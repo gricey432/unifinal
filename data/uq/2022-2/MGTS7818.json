@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Proposal Pitch",
+			"weight": 25
+		},
+		{
+			"name": "Final Pitch Presentation and Report",
+			"weight": 75
+		}
+	]
+}

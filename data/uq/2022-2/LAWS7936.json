@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Note and Citation Exercise",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal & Work Book",
+			"weight": 25
+		},
+		{
+			"name": "In Class Questions",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

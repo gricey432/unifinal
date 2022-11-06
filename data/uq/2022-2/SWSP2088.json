@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Community Work Practice Skills",
+			"weight": 40
+		},
+		{
+			"name": "Community Development Project",
+			"weight": 60
+		}
+	]
+}

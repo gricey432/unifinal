@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension Exam",
+			"weight": 25
+		},
+		{
+			"name": "Oral Interview",
+			"weight": 25
+		},
+		{
+			"name": "Grammar Exam",
+			"weight": 25
+		},
+		{
+			"name": "Writing Portfolio",
+			"weight": 25
+		}
+	]
+}

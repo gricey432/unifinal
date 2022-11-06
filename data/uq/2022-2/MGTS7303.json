@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study analysis (Part A & Part B)",
+			"weight": 40
+		},
+		{
+			"name": "Reflection report I",
+			"weight": 30
+		},
+		{
+			"name": "Reflection report II",
+			"weight": 30
+		}
+	]
+}

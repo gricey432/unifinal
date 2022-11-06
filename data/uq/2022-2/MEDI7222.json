@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment(CPA) - Formative",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment(CPA) - Summative",
+			"weight": "Performance Hurdle"
+		}
+	]
+}

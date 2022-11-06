@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Team Charter",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Individual Essay",
+			"weight": 25
+		},
+		{
+			"name": "Team Project",
+			"weight": 50
+		},
+		{
+			"name": "Individual Reflection",
+			"weight": 25
+		}
+	]
+}

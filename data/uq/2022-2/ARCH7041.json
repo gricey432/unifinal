@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design Precedent Analysis",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 1 - Design Report",
+			"weight": 50
+		},
+		{
+			"name": "Assignment 2 - Contract Report",
+			"weight": 40
+		}
+	]
+}

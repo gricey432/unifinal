@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "In-class exam",
+			"weight": 40
+		},
+		{
+			"name": "Psych-education for parents/carers",
+			"weight": 60
+		}
+	]
+}

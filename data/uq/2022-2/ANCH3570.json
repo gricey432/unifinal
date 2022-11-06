@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional ePortfolio",
+			"weight": 60
+		},
+		{
+			"name": "Research Essay",
+			"weight": 25
+		},
+		{
+			"name": "Writing for Different Audiences",
+			"weight": 15
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Synbio Research Proposal",
+			"weight": 50
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis Essay",
+			"weight": 40
+		},
+		{
+			"name": "Strategic Plan",
+			"weight": 50
+		},
+		{
+			"name": "Weekly Learning Log",
+			"weight": 10
+		}
+	]
+}

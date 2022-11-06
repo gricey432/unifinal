@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion Board Posts x 5",
+			"weight": 35
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

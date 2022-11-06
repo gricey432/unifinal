@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Interview",
+			"weight": 30
+		},
+		{
+			"name": "Worksheets",
+			"weight": 10
+		},
+		{
+			"name": "Written compositions",
+			"weight": 60
+		}
+	]
+}

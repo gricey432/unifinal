@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation: article summary + class discussion",
+			"weight": 20
+		},
+		{
+			"name": "Online assignment x 3",
+			"weight": 30
+		},
+		{
+			"name": "Data and interpretation",
+			"weight": 25
+		},
+		{
+			"name": "Research project - Final Report",
+			"weight": 25
+		}
+	]
+}

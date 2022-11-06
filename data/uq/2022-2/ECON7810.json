@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion of research articles",
+			"weight": 15
+		},
+		{
+			"name": "Written critical appraisal",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

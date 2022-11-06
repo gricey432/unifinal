@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "written assignment",
+			"weight": 30
+		},
+		{
+			"name": "Understanding Cultural Safety Module 3 reflection",
+			"weight": 10
+		},
+		{
+			"name": "Written Exam",
+			"weight": 60
+		}
+	]
+}

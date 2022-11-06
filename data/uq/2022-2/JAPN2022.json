@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Task 1 and 2",
+			"weight": 40
+		},
+		{
+			"name": "Reading Task 1 and 2",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Online Tasks",
+			"weight": 20
+		}
+	]
+}

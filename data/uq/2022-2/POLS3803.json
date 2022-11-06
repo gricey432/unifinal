@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial attendance and participation",
+			"weight": 16
+		},
+		{
+			"name": "Essay Plan",
+			"weight": 15
+		},
+		{
+			"name": "Choose your own political thinker (3000 words)",
+			"weight": 44
+		},
+		{
+			"name": "Oral Assessment (10 minutes)",
+			"weight": 25
+		}
+	]
+}

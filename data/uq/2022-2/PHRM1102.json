@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Oral consultation exam",
+			"weight": 25
+		},
+		{
+			"name": "Ongoing Engagement Tasks",
+			"weight": 20
+		},
+		{
+			"name": "Dispensing Portfolio Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Suite of dispensing exercises/questions in Bb",
+			"weight": "Hurdle to pass the course"
+		},
+		{
+			"name": "Extended Written (EBM) Assignment",
+			"weight": 20
+		},
+		{
+			"name": "On-campus invigilated Inspera Exam",
+			"weight": 25
+		}
+	]
+}

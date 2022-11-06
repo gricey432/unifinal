@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Recorded Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Quiz One",
+			"weight": 10
+		},
+		{
+			"name": "Quiz Two",
+			"weight": 10
+		},
+		{
+			"name": "Report",
+			"weight": 50
+		}
+	]
+}

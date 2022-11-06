@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Bacterial infections",
+			"weight": 20
+		},
+		{
+			"name": "Viral infections",
+			"weight": 20
+		},
+		{
+			"name": "Fungal Infections",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

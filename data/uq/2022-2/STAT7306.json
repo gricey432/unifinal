@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics presentation",
+			"weight": 10
+		},
+		{
+			"name": "Ethics Essay",
+			"weight": 10
+		},
+		{
+			"name": "Genetic data analysis - Part 1",
+			"weight": 25
+		},
+		{
+			"name": "Genetic data analysis - Part 2",
+			"weight": 15
+		},
+		{
+			"name": "12-hour document upload non-invigilated assignment",
+			"weight": 40
+		}
+	]
+}

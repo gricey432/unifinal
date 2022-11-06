@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research on International News Reporting",
+			"weight": 40
+		},
+		{
+			"name": "Critical Analysis of Issues in Conflict Reporting",
+			"weight": 60
+		}
+	]
+}

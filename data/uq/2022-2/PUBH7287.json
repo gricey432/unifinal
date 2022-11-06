@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Summative Assessment 1",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Health Risk Assessment",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Summative Assessment 2",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Environmental Health Policy Brief",
+			"weight": "Pass / Fail"
+		}
+	]
+}

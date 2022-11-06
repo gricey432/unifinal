@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension ONLINE TASKS",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 1: MODULE 1 BRAZIL",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 2: MODULE 2 MEXICO",
+			"weight": 25
+		},
+		{
+			"name": "ESSAY 3: MODULE 3 ARGENTINA",
+			"weight": 25
+		}
+	]
+}

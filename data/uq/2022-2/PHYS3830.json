@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module: Computer Control and Electronics",
+			"weight": 25
+		},
+		{
+			"name": "Module: Advanced Spectroscopy",
+			"weight": 25
+		},
+		{
+			"name": "Module: Quantum Technology",
+			"weight": 25
+		},
+		{
+			"name": "Module: Microfabrication and Advanced Imaging",
+			"weight": 25
+		}
+	]
+}

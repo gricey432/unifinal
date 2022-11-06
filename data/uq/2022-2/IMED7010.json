@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 6.6
+		},
+		{
+			"name": "Clinical Skills Videos",
+			"weight": 10
+		},
+		{
+			"name": "Skills Video & Case Study Commenting",
+			"weight": 33.4
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

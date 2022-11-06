@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Progress Report",
+			"weight": 2
+		},
+		{
+			"name": "Politics, Philosophy and Economics Honours Thesis",
+			"weight": 98
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Key Word Signing Assignment - Paired assignment",
+			"weight": 25
+		},
+		{
+			"name": "Family-centred Practice Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Description and Management of a Child",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Series of four separate quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Designing a drug dosage regimen",
+			"weight": 20
+		},
+		{
+			"name": "Online, invigilated exam",
+			"weight": 40
+		}
+	]
+}

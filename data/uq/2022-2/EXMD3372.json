@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Client Training and Assessment Skills",
+			"weight": 20
+		},
+		{
+			"name": "Preparation for major prac",
+			"weight": 5
+		},
+		{
+			"name": "Final Personal Training Report",
+			"weight": 55
+		},
+		{
+			"name": "Interprofessional Collaborative Practice Modules",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Draft personal training program",
+			"weight": 20
+		}
+	]
+}

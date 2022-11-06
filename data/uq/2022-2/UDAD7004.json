@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Regenerative Design Framework - Macro scale",
+			"weight": 35
+		},
+		{
+			"name": "Regenerative Design Framework - Micro Scale",
+			"weight": 15
+		},
+		{
+			"name": "Regenerative Design Guidelines - Micro Scale",
+			"weight": 50
+		}
+	]
+}

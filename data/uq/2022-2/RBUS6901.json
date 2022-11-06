@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Conducting a qualitative management study",
+			"weight": 35
+		},
+		{
+			"name": "Seminar on a qualitative research approach",
+			"weight": 10
+		},
+		{
+			"name": "Using qualitative approaches in your own research",
+			"weight": 55
+		}
+	]
+}

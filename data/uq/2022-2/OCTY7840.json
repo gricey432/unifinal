@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Job application simulation",
+			"weight": 30
+		},
+		{
+			"name": "Clinical performance in fieldwork experience",
+			"weight": 35
+		},
+		{
+			"name": "Client report",
+			"weight": 20
+		},
+		{
+			"name": "Job application simulation Assignment",
+			"weight": 15
+		}
+	]
+}

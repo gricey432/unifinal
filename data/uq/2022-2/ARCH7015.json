@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission 1 - Research (Group work)",
+			"weight": 30
+		},
+		{
+			"name": "Submission 2 - Design Concept (Individual work)",
+			"weight": 10
+		},
+		{
+			"name": "Submission 3 - Detailed Design and a Prototype",
+			"weight": 60
+		}
+	]
+}

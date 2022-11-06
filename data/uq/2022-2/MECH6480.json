@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ASSIGNMENT 1: Simulation of incompressible flow",
+			"weight": 25
+		},
+		{
+			"name": "ASSIGNMENT 2: Simulation of compressible Flow",
+			"weight": 25
+		},
+		{
+			"name": "Case study activities",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

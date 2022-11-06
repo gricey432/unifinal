@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Presentations in English and LOTE",
+			"weight": 30
+		},
+		{
+			"name": "Interpreting Assessment",
+			"weight": 70
+		}
+	]
+}

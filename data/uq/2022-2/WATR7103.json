@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Lab prac report 1 (individual)",
+			"weight": 7
+		},
+		{
+			"name": "Lab prac report 2 (individual)",
+			"weight": 8
+		},
+		{
+			"name": "Workshop 1 report (group)",
+			"weight": 20
+		},
+		{
+			"name": "Workshop 2 report (group)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

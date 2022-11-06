@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical translation assessment 1 (assignment)",
+			"weight": 25
+		},
+		{
+			"name": "Practical translation assessment 2 (in class)",
+			"weight": 25
+		},
+		{
+			"name": "Practical translation assessment 3 (assignment)",
+			"weight": 25
+		},
+		{
+			"name": "Practical translation assessment 4 (in class)",
+			"weight": 25
+		}
+	]
+}

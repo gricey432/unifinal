@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Reflection on Music Education",
+			"weight": 20
+		},
+		{
+			"name": "Annotated Bibliography and Critical Review",
+			"weight": 40
+		},
+		{
+			"name": "Theory to Practice in Music Education",
+			"weight": 40
+		}
+	]
+}

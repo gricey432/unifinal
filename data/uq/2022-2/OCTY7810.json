@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Prac (fieldwork simulation) and Peer Review",
+			"weight": 35
+		},
+		{
+			"name": "Developmental Assessment Viva",
+			"weight": 25
+		},
+		{
+			"name": "Online Indigenous Health Modules and Quizzes",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

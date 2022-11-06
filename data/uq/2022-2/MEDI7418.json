@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Contributes to Mid-year and Summative Portfolio Review"
+		},
+		{
+			"name": "Evidence of Learning and Achievement Report",
+			"weight": "Contributes to Summative Portfolio Review"
+		},
+		{
+			"name": "WLP Task - Mini -CEX Mini Clinical Evaluation",
+			"weight": "Contributes to Mid-year and Summative Portfolio Review"
+		},
+		{
+			"name": "Supplementary Course Learning Plan",
+			"weight": "Contributes to Summative Portfolio Review"
+		},
+		{
+			"name": "Summative Supplementary WLP Review",
+			"weight": "Contributes to Portfolio Review"
+		},
+		{
+			"name": "DOPS and COPS - Practical tasks",
+			"weight": "Contributes to Summative Portfolio Review"
+		}
+	]
+}

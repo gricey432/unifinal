@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment#1: Culture, community and food",
+			"weight": 25
+		},
+		{
+			"name": "Case-study-based assessment",
+			"weight": 35
+		},
+		{
+			"name": "Assessment#3: Design a nutrition program proposal",
+			"weight": 40
+		}
+	]
+}

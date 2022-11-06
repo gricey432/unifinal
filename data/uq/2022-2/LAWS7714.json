@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Who is a refugee?",
+			"weight": 30
+		},
+		{
+			"name": "Access to refugee protection and durable solutions",
+			"weight": 70
+		}
+	]
+}

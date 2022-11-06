@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Short Writing task",
+			"weight": 10
+		},
+		{
+			"name": "Team oral presentation on seminar",
+			"weight": 20
+		},
+		{
+			"name": "Literature review and paper critique",
+			"weight": 30
+		},
+		{
+			"name": "Final report on Discipline Activity",
+			"weight": 40
+		}
+	]
+}

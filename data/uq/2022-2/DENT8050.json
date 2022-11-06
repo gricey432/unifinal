@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "In-Class activities",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail MUST PASS"
+		}
+	]
+}

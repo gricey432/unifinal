@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Academic English Screening",
+			"weight": "compulsory"
+		},
+		{
+			"name": "Milestone Presentations (Sequence)",
+			"weight": 50
+		},
+		{
+			"name": "Concept Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Digital Engagement Portfolio (Individual)",
+			"weight": 10
+		},
+		{
+			"name": "Final Report (Team)",
+			"weight": 20
+		}
+	]
+}

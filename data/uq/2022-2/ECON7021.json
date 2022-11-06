@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Author, Moderate and Answer Questions via RiPPLE",
+			"weight": 10
+		},
+		{
+			"name": "Impact Comparison",
+			"weight": 25
+		},
+		{
+			"name": "Policy Response",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

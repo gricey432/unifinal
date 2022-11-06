@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing Anthropology",
+			"weight": 30
+		},
+		{
+			"name": "Reading Anthropology",
+			"weight": 30
+		},
+		{
+			"name": "Doing Anthropology",
+			"weight": 40
+		}
+	]
+}

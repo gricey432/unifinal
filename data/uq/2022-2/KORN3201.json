@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final individual interview",
+			"weight": 40
+		},
+		{
+			"name": "Short writings",
+			"weight": 15
+		},
+		{
+			"name": "In-class presentation",
+			"weight": 20
+		},
+		{
+			"name": "Grammar Review",
+			"weight": 25
+		}
+	]
+}

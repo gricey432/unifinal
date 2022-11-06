@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory skills",
+			"weight": 12
+		},
+		{
+			"name": "Plant hormone report",
+			"weight": 12
+		},
+		{
+			"name": "Plant Biodiversity",
+			"weight": 12
+		},
+		{
+			"name": "Plant-Environment Interactions",
+			"weight": 12
+		},
+		{
+			"name": "Plant Disease",
+			"weight": 12
+		},
+		{
+			"name": "Mid Semester exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam Online ProctorU Invigilated",
+			"weight": 25
+		}
+	]
+}

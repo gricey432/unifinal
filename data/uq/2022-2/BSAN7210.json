@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Reflective Essay",
+			"weight": 45
+		},
+		{
+			"name": "Final Group Presentation and Individual Reflection",
+			"weight": 55
+		}
+	]
+}

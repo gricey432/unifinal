@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching & Professionalism",
+			"weight": "pass / fail"
+		},
+		{
+			"name": "Diagnostic Assessment and Planning Task",
+			"weight": 20
+		},
+		{
+			"name": "Designing CLA Learning Experiences",
+			"weight": 30
+		},
+		{
+			"name": "Assessing and Evaluating Task",
+			"weight": 50
+		}
+	]
+}

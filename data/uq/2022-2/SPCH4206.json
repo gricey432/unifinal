@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Evaluation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Paediatric dysphagia simulation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Oral Exam - Clinical Viva",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

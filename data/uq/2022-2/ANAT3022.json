@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory report on Brain Dissection Tasks",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "Theory Final Exam",
+			"weight": 40
+		}
+	]
+}

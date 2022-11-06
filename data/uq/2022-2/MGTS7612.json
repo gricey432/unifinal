@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Recruitment & Selection Strategy Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Recruitment & Selection Strategy",
+			"weight": 40
+		},
+		{
+			"name": "HR planning, Recruitment and Selection",
+			"weight": 30
+		}
+	]
+}

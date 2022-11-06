@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Participation(Hurdle requirement)",
+			"weight": 12
+		},
+		{
+			"name": "In Class Quiz 1",
+			"weight": 35
+		},
+		{
+			"name": "In Cass Quiz 2",
+			"weight": 35
+		},
+		{
+			"name": "Video Analysis Assignment",
+			"weight": 18
+		}
+	]
+}

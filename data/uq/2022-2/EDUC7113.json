@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem statement for your inquiry",
+			"weight": 15
+		},
+		{
+			"name": "Literature review and plan of actions for inquiry",
+			"weight": 40
+		},
+		{
+			"name": "Inquiry report",
+			"weight": 45
+		}
+	]
+}

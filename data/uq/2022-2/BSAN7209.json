@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business Case with Pitch",
+			"weight": 40
+		},
+		{
+			"name": "Individual Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Report",
+			"weight": 20
+		}
+	]
+}

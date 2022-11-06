@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Identifying hypotheses and data",
+			"weight": 15
+		},
+		{
+			"name": "Statistical Modelling",
+			"weight": 25
+		},
+		{
+			"name": "Data Analysis and Optimisation Problem",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

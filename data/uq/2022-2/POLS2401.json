@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation - quiz and via Zoom",
+			"weight": 24
+		},
+		{
+			"name": "Major essay (2500 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 36
+		}
+	]
+}

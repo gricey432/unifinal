@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Constitutive Relationships",
+			"weight": 10
+		},
+		{
+			"name": "Unsaturated and problematic soils",
+			"weight": 10
+		},
+		{
+			"name": "Biological processes and geophysical methods",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 70
+		}
+	]
+}

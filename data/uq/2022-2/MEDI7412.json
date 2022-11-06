@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "STANDARDISED CLINICAL EXAMINATION (SCE)/viva",
+			"weight": 30
+		},
+		{
+			"name": "WBA Neonatal, Short Case, Long Case",
+			"weight": 30
+		},
+		{
+			"name": "MULTIPLE CHOICE QUESTIONS",
+			"weight": 40
+		},
+		{
+			"name": "CLINICAL PARTICIPATION ASSESSMENT - PAEDIATRICS",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "CRITICALLY APPRAISED TOPIC (CAT) AND PEER REVIEW",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		}
+	]
+}

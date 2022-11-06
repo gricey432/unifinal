@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Feed composition, sampling and analysis",
+			"weight": 3
+		},
+		{
+			"name": "Feed intake, sampling and dry matter",
+			"weight": 3
+		},
+		{
+			"name": "Digestibility of feeds",
+			"weight": 3
+		},
+		{
+			"name": "Chicken growth bioassay including report",
+			"weight": 12
+		},
+		{
+			"name": "Energy calculations",
+			"weight": 3
+		},
+		{
+			"name": "Feed optimization",
+			"weight": 3
+		},
+		{
+			"name": "Cat and dog nutrient requirements and supply",
+			"weight": 3
+		},
+		{
+			"name": "Online Zoom Invigilated",
+			"weight": 20
+		},
+		{
+			"name": "Nutritional Study Design",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - Online Invigilated Through ProctorU",
+			"weight": 35
+		}
+	]
+}

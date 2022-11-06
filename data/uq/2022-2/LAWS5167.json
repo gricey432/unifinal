@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Asian Law Bulletin",
+			"weight": 50
+		},
+		{
+			"name": "Online Final Examination",
+			"weight": 50
+		}
+	]
+}

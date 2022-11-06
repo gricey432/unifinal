@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in PASS classes",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Practical Test 2",
+			"weight": 5
+		},
+		{
+			"name": "Practical Test 3",
+			"weight": 5
+		},
+		{
+			"name": "Meta-learning Task 1",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning Task 2",
+			"weight": 2
+		},
+		{
+			"name": "Meta-learning Task 3",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 29
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

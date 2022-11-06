@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1: Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 2: Planning and Instruction",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 3: Matthew",
+			"weight": 40
+		}
+	]
+}

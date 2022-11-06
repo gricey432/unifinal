@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1a",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 1b",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 1c",
+			"weight": 5
+		},
+		{
+			"name": "ONLINE Mid-Semester Test",
+			"weight": 30
+		},
+		{
+			"name": "Economics of the Environment Blog and Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 30
+		}
+	]
+}

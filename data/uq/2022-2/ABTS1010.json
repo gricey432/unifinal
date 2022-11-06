@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz - Multiple Choice",
+			"weight": 10
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 30
+		},
+		{
+			"name": "TSRA Project Report",
+			"weight": 40
+		}
+	]
+}

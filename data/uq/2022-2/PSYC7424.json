@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Preliminary Report",
+			"weight": 40
+		},
+		{
+			"name": "Behaviourally anchored ratings",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 50
+		}
+	]
+}

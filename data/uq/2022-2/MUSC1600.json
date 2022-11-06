@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Task 1",
+			"weight": 15
+		},
+		{
+			"name": "Practical Task 2",
+			"weight": 15
+		},
+		{
+			"name": "Aural Dictation Test",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment 1",
+			"weight": 10
+		},
+		{
+			"name": "Written Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment 3",
+			"weight": 20
+		}
+	]
+}

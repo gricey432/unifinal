@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "ICU Workbook & Clinical Engagement Record",
+			"weight": 10
+		},
+		{
+			"name": "Anaesthesia Workbook & Clinical Engagement Record",
+			"weight": 10
+		},
+		{
+			"name": "ED Workbook & Clinical Engagement Record",
+			"weight": 10
+		},
+		{
+			"name": "Critical Care End of Semester MCQ Exam",
+			"weight": 70
+		},
+		{
+			"name": "CCC online modules including quizzes",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment - ED",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

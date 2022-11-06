@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 10
+		},
+		{
+			"name": "Olympic & Paralympic Organising Committee - Report",
+			"weight": 40
+		},
+		{
+			"name": "Sociological Media & Exegesis",
+			"weight": 50
+		}
+	]
+}

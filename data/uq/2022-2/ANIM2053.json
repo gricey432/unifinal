@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Feed composition, sampling and analysis",
+			"weight": 3
+		},
+		{
+			"name": "Feed intake, sampling and dry matter",
+			"weight": 3
+		},
+		{
+			"name": "Digestibility of feeds",
+			"weight": 3
+		},
+		{
+			"name": "Energy calculations",
+			"weight": 3
+		},
+		{
+			"name": "Feed optimization",
+			"weight": 3
+		},
+		{
+			"name": "Chicken growth bioassay report",
+			"weight": 17
+		},
+		{
+			"name": "Cat and dog nutrient requirements and supply",
+			"weight": 3
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination invigilated via ProctorU",
+			"weight": 45
+		}
+	]
+}

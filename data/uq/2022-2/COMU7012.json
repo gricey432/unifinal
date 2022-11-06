@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Power of Identity",
+			"weight": 40
+		},
+		{
+			"name": "Case Study of a Media Reform Movement",
+			"weight": 10
+		},
+		{
+			"name": "Media Reform = Social Change. Discuss",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Practice Reflection Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Ethical Decision Making Examination",
+			"weight": 30
+		},
+		{
+			"name": "Speech Pathology Advocacy Video Assignment",
+			"weight": 50
+		}
+	]
+}

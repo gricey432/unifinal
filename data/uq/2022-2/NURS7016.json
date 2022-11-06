@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 Presentation of 5 clinical vignettes",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2 Reflective Case Study",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "First Nations' deadline news story",
+			"weight": 25
+		},
+		{
+			"name": "Social Justice Video News story",
+			"weight": 40
+		},
+		{
+			"name": "Deadline news story",
+			"weight": 35
+		}
+	]
+}

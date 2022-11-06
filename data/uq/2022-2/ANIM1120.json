@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Veterinary Nursing on-line placement tool",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "OH&S package",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Practical Assessment Sequence",
+			"weight": 20
+		},
+		{
+			"name": "Fear free Veterinary Certification Program",
+			"weight": 10
+		},
+		{
+			"name": "Behaviour interpretation and report write-up",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 60
+		}
+	]
+}

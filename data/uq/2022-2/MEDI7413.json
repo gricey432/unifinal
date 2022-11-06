@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Multimedia Presentation",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Reflective essay",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		},
+		{
+			"name": "Learning Plan",
+			"weight": "Performance Hurdle: Students must pass regardless of overall course marks"
+		}
+	]
+}

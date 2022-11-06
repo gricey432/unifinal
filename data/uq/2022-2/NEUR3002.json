@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 22
+		},
+		{
+			"name": "Journal Club Participation and Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Laboratory Practical Pre-Quiz and Report",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 38
+		}
+	]
+}

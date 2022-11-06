@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "1. Project Plan",
+			"weight": 20
+		},
+		{
+			"name": "2. Writing Sample & Synopsis",
+			"weight": 20
+		},
+		{
+			"name": "3. Workshopping participation",
+			"weight": 10
+		},
+		{
+			"name": "4. Advanced Writing Project",
+			"weight": 50
+		}
+	]
+}

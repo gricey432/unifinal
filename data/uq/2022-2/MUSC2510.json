@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final exam (on Blackboard)",
+			"weight": 40
+		},
+		{
+			"name": "Class discussion",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Listening guide",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial participation and compositions",
+			"weight": 30
+		}
+	]
+}

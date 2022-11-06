@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Two-hour document upload non-invigilated exam",
+			"weight": 52
+		},
+		{
+			"name": "4 Assignments",
+			"weight": 48
+		}
+	]
+}

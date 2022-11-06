@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Paper Critique",
+			"weight": 15
+		},
+		{
+			"name": "Assessment 2: presentations on case studies",
+			"weight": 35
+		},
+		{
+			"name": "Assessment 3: oral exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Blog Post",
+			"weight": 50
+		},
+		{
+			"name": "Short Essays",
+			"weight": 50
+		}
+	]
+}

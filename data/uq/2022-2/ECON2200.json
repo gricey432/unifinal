@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation 1",
+			"weight": 20
+		},
+		{
+			"name": "Warm Up Reading Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Team Presentation 2",
+			"weight": 40
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 10
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 10
+		}
+	]
+}

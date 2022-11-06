@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Emerging Technology: Theory and Analysis - Part A",
+			"weight": 10
+		},
+		{
+			"name": "Emerging Technology: Theory and Analysis - Part B",
+			"weight": 45
+		},
+		{
+			"name": "Digital Transformation Hackathon",
+			"weight": 45
+		}
+	]
+}

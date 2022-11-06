@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Teacher's Report",
+			"weight": 30
+		},
+		{
+			"name": "Instrumental, Vocal or Composition Workshop",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Recital",
+			"weight": 70
+		},
+		{
+			"name": "Ensemble Director Report",
+			"weight": "Pass/Fail"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Fact Sheet assessment",
+			"weight": 20
+		},
+		{
+			"name": "Written Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Exam for MIDW1104 - On campus examination",
+			"weight": 40
+		}
+	]
+}

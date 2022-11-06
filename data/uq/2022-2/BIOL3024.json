@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "INSPERA on-line quizzes based on modules",
+			"weight": 40
+		},
+		{
+			"name": "Distance Sampling: assignment #1",
+			"weight": 20
+		},
+		{
+			"name": "Research tools - assignment #2",
+			"weight": 20
+		},
+		{
+			"name": "Hot topics review assignment",
+			"weight": 20
+		}
+	]
+}

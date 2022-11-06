@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Modelling a laboratory experiment",
+			"weight": 25
+		},
+		{
+			"name": "Modelling an environmental system",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

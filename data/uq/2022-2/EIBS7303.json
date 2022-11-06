@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective essay Journal",
+			"weight": 60
+		},
+		{
+			"name": "Building Innovation Capability: Video Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Building Innovation Capability: Written Report",
+			"weight": 25
+		}
+	]
+}

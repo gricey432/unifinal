@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Q&A Panel Discussion",
+			"weight": 10
+		},
+		{
+			"name": "Critical Article Review",
+			"weight": 15
+		},
+		{
+			"name": "Biographical Note",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review",
+			"weight": 45
+		}
+	]
+}

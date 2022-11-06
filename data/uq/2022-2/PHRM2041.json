@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Drug Analysis Laboratory Worksheet",
+			"weight": 10
+		},
+		{
+			"name": "Drug Analysis Online Open-Book Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Drug Analysis/Med Chem Sports Doping Video",
+			"weight": 40
+		},
+		{
+			"name": "Med Chem Online Open-Book Quiz",
+			"weight": 30
+		}
+	]
+}

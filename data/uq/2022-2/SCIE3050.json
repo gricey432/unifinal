@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract and Risk Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Workshops and Placement",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Reflective Practice 1, 2 and 3",
+			"weight": 0
+		},
+		{
+			"name": "Placement Supervisor Report",
+			"weight": "Pass/Fail. Student must gain at least 8/20 on this item to pass the course."
+		},
+		{
+			"name": "Placement Showcase Presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Final Reflection",
+			"weight": "Pass/Fail"
+		}
+	]
+}

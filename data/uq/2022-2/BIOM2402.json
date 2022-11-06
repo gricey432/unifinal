@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-laboratory quiz",
+			"weight": "3 x 1% = 3% total"
+		},
+		{
+			"name": "Virtual Ileum Report",
+			"weight": 9
+		},
+		{
+			"name": "Pharmacology of ileum contractions",
+			"weight": 23
+		},
+		{
+			"name": "Mid-Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 35
+		}
+	]
+}

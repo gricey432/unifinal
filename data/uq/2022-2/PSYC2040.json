@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Quiz",
+			"weight": 50
+		},
+		{
+			"name": "Final Research Report",
+			"weight": 30
+		},
+		{
+			"name": "Media Diary",
+			"weight": 10
+		}
+	]
+}

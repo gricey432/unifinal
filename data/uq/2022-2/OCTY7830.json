@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural responsiveness Sessional Placement",
+			"weight": 35
+		},
+		{
+			"name": "Reflexive Debriefing",
+			"weight": 35
+		},
+		{
+			"name": "One Small Action_GEMS",
+			"weight": 30
+		}
+	]
+}

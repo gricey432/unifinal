@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Periodic Assessments",
+			"weight": 40
+		},
+		{
+			"name": "Research Project 1",
+			"weight": 15
+		},
+		{
+			"name": "Research Project 2",
+			"weight": 15
+		},
+		{
+			"name": "Research Project 3",
+			"weight": 15
+		},
+		{
+			"name": "Selected Topics in Regression Analysis",
+			"weight": 15
+		}
+	]
+}

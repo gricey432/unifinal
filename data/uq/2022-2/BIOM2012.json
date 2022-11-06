@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 6
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 6
+		},
+		{
+			"name": "Hypothesis, outline & bibliography (group work)",
+			"weight": 4
+		},
+		{
+			"name": "Experiment Design Proposal (group work)",
+			"weight": 9
+		},
+		{
+			"name": "Meta-learning 1 (individual)",
+			"weight": 2.5
+		},
+		{
+			"name": "Lab Report (individual)",
+			"weight": 20
+		},
+		{
+			"name": "Meta-learning 2 (individual)",
+			"weight": 2.5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

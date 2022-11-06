@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Tests",
+			"weight": 30
+		},
+		{
+			"name": "Mystery Planet Part 1",
+			"weight": 15
+		},
+		{
+			"name": "Mystery Planet Part 2",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

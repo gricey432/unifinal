@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Tutorials",
+			"weight": 10
+		},
+		{
+			"name": "Classifying variables, deriving predictions",
+			"weight": 20
+		},
+		{
+			"name": "Identifying confounds, evaluating research",
+			"weight": 20
+		},
+		{
+			"name": "End of semester examination",
+			"weight": 50
+		}
+	]
+}

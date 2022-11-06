@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review Article Plan",
+			"weight": 0
+		},
+		{
+			"name": "Review Article",
+			"weight": 100
+		},
+		{
+			"name": "Review Article Interview",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar participation",
+			"weight": 15
+		},
+		{
+			"name": "Visual analysis essay",
+			"weight": 20
+		},
+		{
+			"name": "Final essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Argument Map",
+			"weight": 15
+		},
+		{
+			"name": "Argumentative / persuasive essay",
+			"weight": 60
+		},
+		{
+			"name": "Reflective Journal",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Research Seminar",
+			"weight": 15
+		},
+		{
+			"name": "Comprehensive review of relevant literature",
+			"weight": 0
+		},
+		{
+			"name": "Supervisor's report",
+			"weight": 15
+		},
+		{
+			"name": "Project Report/Thesis",
+			"weight": 70
+		}
+	]
+}

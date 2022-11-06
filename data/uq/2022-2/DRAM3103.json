@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Activity",
+			"weight": 30
+		},
+		{
+			"name": "Conference Paper Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

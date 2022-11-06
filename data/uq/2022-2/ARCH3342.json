@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Local Practice",
+			"weight": 70
+		},
+		{
+			"name": "Contemporary Practice Cultures",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Midwifery OSCE",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Preparation and Development",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		}
+	]
+}

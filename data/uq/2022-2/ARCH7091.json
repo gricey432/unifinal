@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1: Knowledge Precincts: Understanding Place",
+			"weight": 40
+		},
+		{
+			"name": "2: Knowledge Precincts: Connecting Place",
+			"weight": 60
+		}
+	]
+}

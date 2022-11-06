@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "A1) Climate responsive vernacular architecture",
+			"weight": 30
+		},
+		{
+			"name": "A2) Integrated sustainable home design",
+			"weight": 70
+		}
+	]
+}

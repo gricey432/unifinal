@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Translation project (600 words)",
+			"weight": 30
+		},
+		{
+			"name": "Medical knowledge assignment (600 words)",
+			"weight": 30
+		},
+		{
+			"name": "Medical Interpreting Assessment",
+			"weight": 40
+		}
+	]
+}

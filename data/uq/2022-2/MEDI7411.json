@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical reasoning MCQ Part A Obstetrics",
+			"weight": 30
+		},
+		{
+			"name": "Exam - MCQ Exam Part A  - Obstetrics",
+			"weight": 20
+		},
+		{
+			"name": "Clinical reasoning MCQ Part B Gynaecology",
+			"weight": 30
+		},
+		{
+			"name": "Exam - MCQ Exam Part B - Gynaecology",
+			"weight": 20
+		},
+		{
+			"name": "Birth Log - Documented Vaginal Deliveries",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		},
+		{
+			"name": "Clinical Participation Assessment - Obstetrics",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Workplace-based assessment (WBA) - Obstetrics",
+			"weight": "Performance Hurdle: Pass/Fail"
+		},
+		{
+			"name": "Workplace-based Assessment (WBA) - Gynaecology",
+			"weight": "Performance Hurdle: Pass/Fail"
+		},
+		{
+			"name": "Clinical Participation Assessment - Gynaecology",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

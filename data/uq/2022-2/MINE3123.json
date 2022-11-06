@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project",
+			"weight": 10
+		},
+		{
+			"name": "Individual Project",
+			"weight": 10
+		},
+		{
+			"name": "Group Project (Groups of 3-4)",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

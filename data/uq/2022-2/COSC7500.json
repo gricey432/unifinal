@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1-6 assignments",
+			"weight": 60
+		},
+		{
+			"name": "C programming exercise",
+			"weight": 10
+		},
+		{
+			"name": "Project",
+			"weight": 30
+		}
+	]
+}

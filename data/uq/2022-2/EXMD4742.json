@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Reports - Cardiac and Respiratory",
+			"weight": 25
+		},
+		{
+			"name": "Practical Examination (Hurdle)",
+			"weight": 20
+		},
+		{
+			"name": "Asthma & Heart Foundation E-Learning Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 35
+		}
+	]
+}

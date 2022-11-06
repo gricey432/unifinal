@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review: Nurturing Workplace Culture",
+			"weight": 40
+		},
+		{
+			"name": "Critical Analysis: leadership & workplace culture",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic Report",
+			"weight": 40
+		},
+		{
+			"name": "Future Report",
+			"weight": 30
+		},
+		{
+			"name": "Simulation Reflective Review",
+			"weight": 30
+		}
+	]
+}

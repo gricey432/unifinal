@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Patient management task",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Case Based Practical Examination",
+			"weight": 35
+		}
+	]
+}

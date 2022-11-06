@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Technology use and capability questionnaires",
+			"weight": 0
+		},
+		{
+			"name": "Assignment (1): Critical reflection",
+			"weight": 20
+		},
+		{
+			"name": "Assignment (2): Evaluation",
+			"weight": 35
+		},
+		{
+			"name": "Assignment (3): Podcasting Project",
+			"weight": 45
+		}
+	]
+}

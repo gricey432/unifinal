@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "10 online quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Main assignment - test development proposal",
+			"weight": 40
+		}
+	]
+}

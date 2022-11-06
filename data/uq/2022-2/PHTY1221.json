@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Practical Exam Cardiovascular System",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 30
+		}
+	]
+}

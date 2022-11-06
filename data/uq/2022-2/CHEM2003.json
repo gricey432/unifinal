@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Lab Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semeseter Examination (Online)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

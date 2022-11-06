@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Conceptual Framework",
+			"weight": 50
+		},
+		{
+			"name": "Viva voce/ Full Episode of Care",
+			"weight": 50
+		},
+		{
+			"name": "Nurse Practitioner e-portfolio",
+			"weight": 0
+		},
+		{
+			"name": "IPP Hours 96",
+			"weight": 0
+		}
+	]
+}

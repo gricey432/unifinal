@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Video pitch - group",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz - individual",
+			"weight": 15
+		},
+		{
+			"name": "Business Plan - group",
+			"weight": 35
+		},
+		{
+			"name": "Final Pitch - group",
+			"weight": 30
+		}
+	]
+}

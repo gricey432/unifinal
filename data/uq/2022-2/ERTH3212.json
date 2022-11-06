@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-field trip assignment",
+			"weight": 10
+		},
+		{
+			"name": "Group's field zonation data and map",
+			"weight": 20
+		},
+		{
+			"name": "Field Report",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 20
+		}
+	]
+}

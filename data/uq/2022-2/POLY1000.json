@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on weeks 1-3 material",
+			"weight": 25
+		},
+		{
+			"name": "Analysing social policy using WPR approach",
+			"weight": 35
+		},
+		{
+			"name": "Analysing the impact of social policy",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1a - Group research proposal presentation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Task 1b - Group research proposal",
+			"weight": 40
+		},
+		{
+			"name": "Task 2 - Group research report",
+			"weight": 60
+		}
+	]
+}

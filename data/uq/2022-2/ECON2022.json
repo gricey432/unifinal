@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Team Presentation 2",
+			"weight": 40
+		},
+		{
+			"name": "Team Presentation 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 15
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 15
+		}
+	]
+}

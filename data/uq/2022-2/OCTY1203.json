@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written report AND Prac (fieldwork simulation)",
+			"weight": 35
+		},
+		{
+			"name": "Developmental Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Online Indigenous Health Module and Quiz",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Participation Assessments 3 x 5%",
+			"weight": 15
+		},
+		{
+			"name": "In Class Quizzes for Modules 1, 2 and 3",
+			"weight": 45
+		},
+		{
+			"name": "Neuromechanics in Practice Project",
+			"weight": 40
+		}
+	]
+}

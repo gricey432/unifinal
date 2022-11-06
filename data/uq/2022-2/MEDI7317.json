@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Summative Supplementary WLP Review",
+			"weight": "Performance Hurdle: Students must pass regardless of other outcomes"
+		},
+		{
+			"name": "Learning Plan",
+			"weight": "Contributes to Summative Supplementary WLP Review"
+		},
+		{
+			"name": "Evidence of learning and achievement report",
+			"weight": "Contributes to Summative Supplementary WLP Review"
+		},
+		{
+			"name": "DOPS",
+			"weight": "Submit prescribed number in the semester to pass the Supplementary WLP course"
+		},
+		{
+			"name": "Mini-Clinical Evaluation Exercise (Mini-CEX)",
+			"weight": "Submit prescribed number in the semester to pass the Supplementary WLP course"
+		}
+	]
+}

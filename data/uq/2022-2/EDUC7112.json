@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Professional Learning Network",
+			"weight": 15
+		},
+		{
+			"name": "Presentation of the Design an Innovation",
+			"weight": 40
+		},
+		{
+			"name": "Evaluating the implementation of an Innovation",
+			"weight": 45
+		}
+	]
+}

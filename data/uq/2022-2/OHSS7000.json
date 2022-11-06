@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Submission #1",
+			"weight": 20
+		},
+		{
+			"name": "Submission #2",
+			"weight": 20
+		},
+		{
+			"name": "EOS Take Home Problem Set",
+			"weight": 40
+		},
+		{
+			"name": "Submission #3",
+			"weight": 20
+		}
+	]
+}

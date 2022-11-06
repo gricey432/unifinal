@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Practical questions 1 - Doe Management",
+			"weight": 3
+		},
+		{
+			"name": "Practical questions 2 - Parasitology",
+			"weight": 3
+		},
+		{
+			"name": "Practical questions 3 - Birthing",
+			"weight": 3
+		},
+		{
+			"name": "Practical questions 4 - Selection and breeding",
+			"weight": 3
+		},
+		{
+			"name": "Practical questions 5 - Meat Quality",
+			"weight": 3
+		},
+		{
+			"name": "Welfare issues",
+			"weight": 10
+		},
+		{
+			"name": "Beef cattle, sheep, or goats",
+			"weight": 45
+		},
+		{
+			"name": "End of Semester exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop In-class Submissions",
+			"weight": 20
+		},
+		{
+			"name": "Reflective Workbook",
+			"weight": 40
+		},
+		{
+			"name": "Research Project",
+			"weight": 40
+		}
+	]
+}

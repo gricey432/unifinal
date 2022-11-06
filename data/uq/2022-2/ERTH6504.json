@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Honours Thesis",
+			"weight": 90
+		},
+		{
+			"name": "Oral defence",
+			"weight": 10
+		}
+	]
+}

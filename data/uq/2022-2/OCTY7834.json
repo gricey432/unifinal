@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case study of service user",
+			"weight": 35
+		},
+		{
+			"name": "Online Quiz SHRS NDIS & Private Practice Quiz",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Access Audit Assignment",
+			"weight": 35
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

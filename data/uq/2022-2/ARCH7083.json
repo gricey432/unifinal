@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Site Selection and Research Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Essay & Iterative Collage & Booklet",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Cognitive Commentary",
+			"weight": 35
+		},
+		{
+			"name": "Annotated Unit Plan",
+			"weight": 45
+		}
+	]
+}

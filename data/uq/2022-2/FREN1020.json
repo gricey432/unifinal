@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Hurdle",
+			"weight": 0
+		},
+		{
+			"name": "Video guide",
+			"weight": 20
+		},
+		{
+			"name": "In-class exam",
+			"weight": 30
+		},
+		{
+			"name": "Oral interaction (Conversation)",
+			"weight": 20
+		},
+		{
+			"name": "Exam : Reading comprehension; written production",
+			"weight": 30
+		}
+	]
+}

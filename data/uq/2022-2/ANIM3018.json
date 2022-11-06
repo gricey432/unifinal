@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mapping Exercise",
+			"weight": 25
+		},
+		{
+			"name": "Wildlife Data Report",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 4",
+			"weight": 5
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "(Programming Intensive)",
+			"weight": 60
+		},
+		{
+			"name": "In-Class Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Take Home Assignment (Programming Intensive)",
+			"weight": 30
+		}
+	]
+}

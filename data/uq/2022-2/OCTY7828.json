@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": 35
+		},
+		{
+			"name": "Sessional Placement (Adult Physical)",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Assignment",
+			"weight": 40
+		}
+	]
+}

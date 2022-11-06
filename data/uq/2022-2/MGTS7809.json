@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Group Video Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Enhancing Your Ethical Competence through SHRM",
+			"weight": 35
+		},
+		{
+			"name": "SHRM \"Win\"/Success Report",
+			"weight": 40
+		},
+		{
+			"name": "Group Video Presentation - Peer Assessment",
+			"weight": 0
+		}
+	]
+}

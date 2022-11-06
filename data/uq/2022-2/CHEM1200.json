@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Five Practicals",
+			"weight": 25
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 40
+		}
+	]
+}

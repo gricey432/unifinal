@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Essay and Photo Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Weekly short essay response",
+			"weight": 30
+		},
+		{
+			"name": "Innovation case study",
+			"weight": 40
+		}
+	]
+}

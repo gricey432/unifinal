@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz #1",
+			"weight": 18
+		},
+		{
+			"name": "PechaKucha Presentation",
+			"weight": 14
+		},
+		{
+			"name": "Quiz #2",
+			"weight": 32
+		},
+		{
+			"name": "Quiz #3",
+			"weight": 36
+		}
+	]
+}

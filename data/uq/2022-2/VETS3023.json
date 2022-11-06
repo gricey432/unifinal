@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Discipline-based Online Quizzes",
+			"weight": 75
+		},
+		{
+			"name": "Blood Film Evaluation Exercise",
+			"weight": 25
+		}
+	]
+}

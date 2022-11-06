@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Class - 4 practicals",
+			"weight": 20
+		},
+		{
+			"name": "Achieve Online Computer quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

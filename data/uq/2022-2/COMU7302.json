@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Stakeholder and Issues Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Crisis Analysis/case study",
+			"weight": 60
+		}
+	]
+}

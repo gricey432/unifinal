@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Experience Appraisal",
+			"weight": 20
+		},
+		{
+			"name": "Online mid-semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Visitor Experience Redesign Project",
+			"weight": 40
+		}
+	]
+}

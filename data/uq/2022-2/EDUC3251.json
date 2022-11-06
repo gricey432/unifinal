@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lesson Plan and Mandatory Practical Rationale",
+			"weight": 50
+		},
+		{
+			"name": "External Provider Evaluation and Recommendation",
+			"weight": 20
+		},
+		{
+			"name": "Data Test and Guide to Making Judgements (GTMJ)",
+			"weight": 30
+		}
+	]
+}

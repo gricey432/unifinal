@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly SEAL Reflections",
+			"weight": 60
+		},
+		{
+			"name": "Placement Participation and Student Evaluation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Optimising Holistic Patient Care",
+			"weight": 40
+		}
+	]
+}

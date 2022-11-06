@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three online quizzes - multiple choice",
+			"weight": 30
+		},
+		{
+			"name": "Innovation in environmental management in mining",
+			"weight": 30
+		},
+		{
+			"name": "Group impact assessment and management plan",
+			"weight": 40
+		}
+	]
+}

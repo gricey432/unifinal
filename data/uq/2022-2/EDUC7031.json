@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching presentation",
+			"weight": 30
+		},
+		{
+			"name": "Curriculum Design",
+			"weight": 40
+		},
+		{
+			"name": "Critical reflection",
+			"weight": 30
+		}
+	]
+}

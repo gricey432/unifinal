@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "End of Placement assessment",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Oral Exam - Clinical Viva",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

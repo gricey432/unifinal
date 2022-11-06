@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": 25
+		},
+		{
+			"name": "PeerMark of a peer's Portfolio Draft",
+			"weight": 5
+		},
+		{
+			"name": "Portfolio - FINAL",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Practical Examination",
+			"weight": 40
+		}
+	]
+}

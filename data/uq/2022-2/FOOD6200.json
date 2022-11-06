@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Research Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Academic Supervisor Report",
+			"weight": 15
+		},
+		{
+			"name": "Industry Supervisor Report",
+			"weight": 15
+		},
+		{
+			"name": "Thesis about the research and translation",
+			"weight": 50
+		},
+		{
+			"name": "Presentation",
+			"weight": 20
+		}
+	]
+}

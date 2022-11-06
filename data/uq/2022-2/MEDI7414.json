@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Standardised Clinical Scenario",
+			"weight": 50
+		},
+		{
+			"name": "Multiple Choice Examination",
+			"weight": 50
+		},
+		{
+			"name": "Marked Admission",
+			"weight": "Performance Hurdle: Students must pass this assessment item regardless of overall course marks"
+		},
+		{
+			"name": "On Call Shift Participation",
+			"weight": "Compliance Hurdle: Students must complete regardless of overall course marks"
+		},
+		{
+			"name": "Clinical Participation Assessment - Med Spec",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "NPS Online Modules",
+			"weight": "Compliance Hurdle: Students must complete regardless of overall course marks"
+		}
+	]
+}

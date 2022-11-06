@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Thesis Re-Proposal Structure & Essay",
+			"weight": 20
+		},
+		{
+			"name": "Final Thesis",
+			"weight": 70
+		},
+		{
+			"name": "Thesis Corrections and Upload",
+			"weight": 10
+		}
+	]
+}

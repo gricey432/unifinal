@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Exercises",
+			"weight": 25
+		},
+		{
+			"name": "Discipline Paper Critique",
+			"weight": 15
+		},
+		{
+			"name": "Field Report",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

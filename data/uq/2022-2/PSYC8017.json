@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Active Engagement in Workshops",
+			"weight": 15
+		},
+		{
+			"name": "Resource handout and presentation",
+			"weight": 40
+		},
+		{
+			"name": "Closing the Gap: Submission to Qld Govt",
+			"weight": 45
+		}
+	]
+}

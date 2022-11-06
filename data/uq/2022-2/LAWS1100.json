@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation",
+			"weight": 15
+		},
+		{
+			"name": "Online Mid Semester Examination",
+			"weight": 15
+		},
+		{
+			"name": "Problem Scenario Exercise",
+			"weight": 20
+		},
+		{
+			"name": "Online Invigilated Final Examination",
+			"weight": 50
+		}
+	]
+}

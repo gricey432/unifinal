@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review of an HCI Method",
+			"weight": 20
+		},
+		{
+			"name": "Project Progress Presentation",
+			"weight": 15
+		},
+		{
+			"name": "User Research Paper",
+			"weight": 35
+		},
+		{
+			"name": "Design Envisionment Poster",
+			"weight": 30
+		}
+	]
+}

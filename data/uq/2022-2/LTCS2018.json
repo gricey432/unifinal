@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Analysis and Comparison",
+			"weight": 60
+		}
+	]
+}

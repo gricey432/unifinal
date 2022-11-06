@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 2: Four frames individual report",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 1. Four frames group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Assessment 3: Change management analysis",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Personal Learning Philosophy Blog",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2 - Written Response",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 - Translation Presentation",
+			"weight": 30
+		}
+	]
+}

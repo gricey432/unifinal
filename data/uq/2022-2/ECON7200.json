@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 30
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Central Bank Report",
+			"weight": 30
+		}
+	]
+}

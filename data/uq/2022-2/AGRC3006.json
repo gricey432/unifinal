@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Theme question 1",
+			"weight": 10
+		},
+		{
+			"name": "Theme question 2",
+			"weight": 10
+		},
+		{
+			"name": "Theme question 3",
+			"weight": 10
+		},
+		{
+			"name": "Sampling Assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam - Online Invigilated through ProctorU",
+			"weight": 45
+		}
+	]
+}

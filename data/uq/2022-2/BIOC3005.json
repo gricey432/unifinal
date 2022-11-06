@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "UQ Ripple",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Current topics in Genomics - discussion session",
+			"weight": 10
+		},
+		{
+			"name": "Proteomics practical - laboratory notebook",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

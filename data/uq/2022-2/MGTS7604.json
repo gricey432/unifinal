@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Team Consulting Report",
+			"weight": 40
+		},
+		{
+			"name": "Consulting Presentation",
+			"weight": 35
+		}
+	]
+}

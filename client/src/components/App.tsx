@@ -21,7 +21,6 @@ const App: React.FunctionComponent = () => {
     }
 
     function randomiseBackground() {
-        window.ga('send', 'event', 'Easter', 'colour');
         // XXX: tinycolor is mutable
         const colour = tinyColor.random();
         const left = colour.clone().spin(-40);

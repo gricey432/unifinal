@@ -89,7 +89,6 @@ export const Course: React.FunctionComponent<Props> = (props) => {
     });
 
     function clickShowMoreDetail() {
-        window.ga('send', 'event', 'MoreDetail', 'enable');
         setMoreDetail(true);
     }
 

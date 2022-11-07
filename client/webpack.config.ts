@@ -70,6 +70,7 @@ function generateConfig(config: Config) {
                     ...config,
                     cachebust: Date.now(),
                 },
+                inject: false
             }),
             new webpack.DefinePlugin(globalConsts),
             new MiniCssExtractPlugin({

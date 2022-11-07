@@ -20,16 +20,13 @@ export const CourseRoute: React.FunctionComponent<RouteComponentProps<{semesterI
     async function loadOffering() {
         setBadCourseCode(false);
         setOfferingData(undefined);
-        window.ga('send', 'event', 'Course', 'load', courseCode);
         try {
             const resp = await fetch(`/data/${semesterId}/${courseCode}.json`);
             if (!resp.ok) throw Error();
             const data: OfferingData = await resp.json();
             setOfferingData(data);
-            window.ga('send', 'event', 'Course', 'loadValid', courseCode);
         } catch (e) {
             setBadCourseCode(true);
-            window.ga('send', 'event', 'Course', 'loadInvalid', courseCode);
         }
     }
 

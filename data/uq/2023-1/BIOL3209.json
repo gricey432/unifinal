@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes on weekly learning materials",
+			"weight": 50
+		},
+		{
+			"name": "Skills portfolio based on practicals",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz",
+			"weight": "24%                                        Hurdle (8 in total, best 6 used)"
+		},
+		{
+			"name": "TE Lab Based Practical Booklet",
+			"weight": "8%                                        Hurdle"
+		},
+		{
+			"name": "TE Lab based Angiogenesis Practical Report",
+			"weight": "8%                                        Hurdle"
+		},
+		{
+			"name": "C&T Engineering Innovation Project Proposal",
+			"weight": 40
+		},
+		{
+			"name": "C&T Engineering Innovation Project Pitch",
+			"weight": 20
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "Only University approved and labelled calculators can be used in all quizzes or exams for this course. Please consult https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators for information about approved calculators and obtaining a label for non-approved calculators.",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review of Small Hospitality Business",
+			"weight": "25%                                        1000 words"
+		},
+		{
+			"name": "Feasibility Analysis",
+			"weight": "50%                                        Maximum 4,000 words"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "25%                                        Individual"
+		}
+	]
+}

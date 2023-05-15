@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Online Practical Class using Lt instance #1",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #2",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #3",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #4",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #5",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #6",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #7",
+			"weight": 2.5
+		},
+		{
+			"name": "Online Practical Class using Lt instance #8",
+			"weight": 2.5
+		},
+		{
+			"name": "Week 8 Mid-sem Exam (Zoom invigilated)",
+			"weight": 30
+		},
+		{
+			"name": "Woolly Mammoth 2.0",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Quiz",
+			"weight": 22
+		}
+	]
+}

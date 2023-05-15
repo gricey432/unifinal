@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Minor Essay (1000 words)",
+			"weight": 15
+		},
+		{
+			"name": "Major Essay (2200 words)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment (1500 words)",
+			"weight": 25
+		}
+	]
+}

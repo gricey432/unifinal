@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Consumer Insight Analysis Report",
+			"weight": "30%                                        Individual; 1,500 Words"
+		},
+		{
+			"name": "Advertising Campaign Project",
+			"weight": "40%                                        Group"
+		},
+		{
+			"name": "Learning Reflection",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

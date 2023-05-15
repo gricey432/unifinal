@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": "20%                                        Individual; 800-1,000 words"
+		},
+		{
+			"name": "Stakeholder script",
+			"weight": "30%                                        Individual; Approx 1,500 words"
+		},
+		{
+			"name": "Impact report",
+			"weight": "50%                                        Individual; 3,000-3,500 words"
+		}
+	]
+}

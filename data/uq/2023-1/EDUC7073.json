@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ePortfolio of Practice Reflections",
+			"weight": 50
+		},
+		{
+			"name": "Project",
+			"weight": "50%                                        3000 words"
+		},
+		{
+			"name": "Log of Practicum Experience",
+			"weight": "Pass/Fail"
+		}
+	]
+}

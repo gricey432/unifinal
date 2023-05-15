@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Progress Report",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Report",
+			"weight": 60
+		}
+	]
+}

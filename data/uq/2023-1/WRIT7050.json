@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and participation",
+			"weight": 10
+		},
+		{
+			"name": "Exercise Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Historical research",
+			"weight": 30
+		},
+		{
+			"name": "First pages",
+			"weight": 40
+		}
+	]
+}

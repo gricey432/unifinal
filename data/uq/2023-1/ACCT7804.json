@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Open Book exam",
+			"weight": 30
+		},
+		{
+			"name": "Corporate Disclosure",
+			"weight": 20
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

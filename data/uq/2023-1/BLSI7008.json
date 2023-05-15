@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Culture Alignment Framework Analysis",
+			"weight": "30%                                        8-10 minutes"
+		},
+		{
+			"name": "Service Innovation Culture Presentation",
+			"weight": "40%                                        10 minutes + Q&A"
+		},
+		{
+			"name": "Case Study",
+			"weight": "30%                                        2000-2500 words"
+		}
+	]
+}

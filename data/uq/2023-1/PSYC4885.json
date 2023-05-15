@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Student Oral Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Preparation, Participation",
+			"weight": 10
+		},
+		{
+			"name": "Infographic",
+			"weight": 20
+		},
+		{
+			"name": "Essay (2000 words)",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact the Course Coordinator"
+		},
+		{
+			"name": "Infographic",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

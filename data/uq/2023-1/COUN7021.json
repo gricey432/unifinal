@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Counselling Competency Interview",
+			"weight": "Hurdle Requirement"
+		},
+		{
+			"name": "Core Skills Competency",
+			"weight": "Formative"
+		},
+		{
+			"name": "Student Declaration",
+			"weight": "Formative"
+		},
+		{
+			"name": "Supervision Contract",
+			"weight": "Formative"
+		},
+		{
+			"name": "Learning Journal",
+			"weight": "Ongoing"
+		},
+		{
+			"name": "Formative Supervisor Evaluation of Practice",
+			"weight": "Formative"
+		},
+		{
+			"name": "Placement Portfolio",
+			"weight": "Pass/Fail"
+		}
+	]
+}

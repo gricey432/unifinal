@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Design process documentation and reflection",
+			"weight": "10%                                        Individual"
+		},
+		{
+			"name": "Project",
+			"weight": "40%                                        Team"
+		},
+		{
+			"name": "Studio Portfolio",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Research report",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Assessment & weight",
+			"weight": "Problem Identification"
+		},
+		{
+			"name": "Example 1",
+			"weight": "Fail (2)"
+		},
+		{
+			"name": "Example 2",
+			"weight": "Fail + (3)"
+		},
+		{
+			"name": "Example 3",
+			"weight": "Credit (5)"
+		}
+	]
+}

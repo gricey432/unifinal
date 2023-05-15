@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Coding in-class problem set",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1",
+			"weight": 15
+		},
+		{
+			"name": "Assignment 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment 3",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 55
+		}
+	]
+}

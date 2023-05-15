@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Executive Summary: \"Fact Sheet\"",
+			"weight": 10
+		},
+		{
+			"name": "10-Minute Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation Psychology Core Competency",
+			"weight": "30% (20% demo, 10% self-eval)"
+		},
+		{
+			"name": "Written Report",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Handout",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Demonstration",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

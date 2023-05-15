@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1. Preliminary Design - SITE AND CONTEXT",
+			"weight": 40
+		},
+		{
+			"name": "2. Detailed Design - PAVILION AND FENCE",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PBL1",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "PBL2",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 55
+		}
+	]
+}

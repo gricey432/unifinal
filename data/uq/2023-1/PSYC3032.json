@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Quizzes",
+			"weight": "40%                                        Attempt must be made to pass this course"
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "Unessay",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Quizzes",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Unessay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Quizzes",
+			"weight": "N/A"
+		}
+	]
+}

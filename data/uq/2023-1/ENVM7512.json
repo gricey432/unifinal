@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Background, Context, Objectives, and Group Work",
+			"weight": 25
+		},
+		{
+			"name": "Video quiz on biases",
+			"weight": 5
+		},
+		{
+			"name": "Analysing an environmental problem",
+			"weight": 25
+		},
+		{
+			"name": "Exam",
+			"weight": 45
+		}
+	]
+}

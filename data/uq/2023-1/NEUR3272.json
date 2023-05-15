@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "10 Workshop Problem Sets",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Small Group Video--Analyse a Social Behaviour",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Systematic review written report",
+			"weight": 60
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Online quiz",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "Peer Teaching Videos",
+			"weight": 25
+		},
+		{
+			"name": "OSCE Oral Consultation Exam",
+			"weight": 15
+		},
+		{
+			"name": "OSCE Reflection",
+			"weight": 10
+		}
+	]
+}

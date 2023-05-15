@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz 1 & 2",
+			"weight": 10
+		},
+		{
+			"name": "Assignment One",
+			"weight": 30
+		},
+		{
+			"name": "Case study Analysis",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

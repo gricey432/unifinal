@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Project Execution",
+			"weight": 5
+		},
+		{
+			"name": "Workshop completion",
+			"weight": "Grade cap"
+		},
+		{
+			"name": "Thesis Proposal",
+			"weight": 12
+		},
+		{
+			"name": "Interim Report",
+			"weight": 13
+		},
+		{
+			"name": "Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 60
+		}
+	]
+}

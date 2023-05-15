@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop exercises",
+			"weight": 10
+		},
+		{
+			"name": "Philosophy assignment",
+			"weight": 15
+		},
+		{
+			"name": "Python & communication assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Digital Transformation Priorities (A1)",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Digital Transformation Roadmap (A2)",
+			"weight": "60%                                        Individual"
+		}
+	]
+}

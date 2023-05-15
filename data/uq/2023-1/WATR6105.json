@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Individual journal reflection",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2 - Design concept options and analysis",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 3 - Individual report on concepts",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4 - Final report and presentation",
+			"weight": 35
+		}
+	]
+}

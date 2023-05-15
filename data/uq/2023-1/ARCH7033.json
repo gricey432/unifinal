@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "The Sustainability Problem",
+			"weight": 40
+		},
+		{
+			"name": "The Sustainability Strategy",
+			"weight": 60
+		},
+		{
+			"name": "To meet professional accreditation, public engagement and quality assurance obligations, digital copies of all course assessment items must be submitted in addition to any hard copy submission requirements specified in individual Course / Studio Outlines. The School of Architecture uses Turnitin for assessment submission. Turnitin is accessed through the course Blackboard site. Turnitin also checks for plagarism or instances where the original work of others is not appropriately acknowledged.",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Wicked problem taming activity",
+			"weight": 20
+		},
+		{
+			"name": "Video (individual input)",
+			"weight": 20
+		},
+		{
+			"name": "Video (group output)",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 50
+		}
+	]
+}

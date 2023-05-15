@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Flashcard Creation",
+			"weight": 10
+		},
+		{
+			"name": "Weekly Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "ChatGPT Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "ChatGPT Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-Class Quizzes",
+			"weight": "https://my.uq.edu.au/node/189/3#3\n\t\t\tPLEASE SELECT ‘MID SEMESTER EXAM’ WHEN APPLYING FOR IN-CLASS QUIZZES"
+		}
+	]
+}

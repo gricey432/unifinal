@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online activity questions (LearnX)",
+			"weight": 2.5
+		},
+		{
+			"name": "Textbook readings and associated questions",
+			"weight": "0%                                        Examinable"
+		},
+		{
+			"name": "Practical preparation and participation",
+			"weight": 2.5
+		},
+		{
+			"name": "Mini tests",
+			"weight": "40%                                        3 x 13.33%"
+		},
+		{
+			"name": "Scientific Summary",
+			"weight": 5
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

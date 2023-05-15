@@ -1,0 +1,64 @@
+{
+	"assessment": [
+		{
+			"name": "Philosophy Thesis 1",
+			"weight": 50
+		},
+		{
+			"name": "Philosophy Thesis 2",
+			"weight": 50
+		},
+		{
+			"name": "Greek or Latin Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Ancient History Thesis",
+			"weight": 100
+		},
+		{
+			"name": "History Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Studies in Religion Thesis",
+			"weight": 100
+		},
+		{
+			"name": "HONOURS",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

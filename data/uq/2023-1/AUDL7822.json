@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem-based Learning Quizzes (5 per student)",
+			"weight": "5%                                        (1% per quiz)"
+		},
+		{
+			"name": "Critical essay",
+			"weight": 30
+		},
+		{
+			"name": "End-of-semester exam",
+			"weight": 65
+		}
+	]
+}

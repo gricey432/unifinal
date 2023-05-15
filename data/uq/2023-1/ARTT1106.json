@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": "30%                                        800 Words"
+		},
+		{
+			"name": "Annotated Bibliography and Essay Plan",
+			"weight": "15%                                        500 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        1500 Words"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical competency- Paediatric dentistry",
+			"weight": "20%                                        MUST PASS"
+		},
+		{
+			"name": "Preclinical competency- Fixed Prosthodontics",
+			"weight": 15
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": "0%                                        P/F MUST PASS"
+		},
+		{
+			"name": "Endodontic Case Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio (ePAD  Work Based Assessment)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Module 1-Prosthodontics and Paediatric Dentistry",
+			"weight": "20%                                        MUST PASS"
+		},
+		{
+			"name": "Module 2 Endodontics and Orthodontics",
+			"weight": "35%                                        MUST PASS"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

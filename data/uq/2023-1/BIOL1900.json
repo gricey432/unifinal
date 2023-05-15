@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": "30%                                        6 quizzes each worth 5%"
+		},
+		{
+			"name": "Research Interview",
+			"weight": 30
+		},
+		{
+			"name": "Developmental Lab Report",
+			"weight": 40
+		}
+	]
+}

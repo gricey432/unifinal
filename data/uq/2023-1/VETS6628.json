@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Honours Assessment Authenticity Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Student participation",
+			"weight": "10%                                        of final course mark"
+		},
+		{
+			"name": "Honours final seminar",
+			"weight": "20%                                        of final course mark"
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": "70%                                        of final course mark"
+		}
+	]
+}

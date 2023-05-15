@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self and Peer Review Assignments",
+			"weight": "30%                                        (6 @ 5% each)"
+		},
+		{
+			"name": "Assessed Discussion Board Cases",
+			"weight": "40%                                        (10 @ 4% each)"
+		},
+		{
+			"name": "End of semester exam - Paper 1",
+			"weight": "10%                                        40 MCQs"
+		},
+		{
+			"name": "End of semester exam - Paper 2",
+			"weight": "20%                                        (10 cases @ 2% each)"
+		}
+	]
+}

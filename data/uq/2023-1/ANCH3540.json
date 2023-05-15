@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation",
+			"weight": 5
+		},
+		{
+			"name": "Research Essay",
+			"weight": 45
+		},
+		{
+			"name": "Tutorial Papers",
+			"weight": "50%                                        25% per tutorial paper"
+		}
+	]
+}

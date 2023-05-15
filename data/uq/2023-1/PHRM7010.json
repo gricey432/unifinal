@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Activities",
+			"weight": "10%                                        P/F Integrity Module, 5% Reflection, 5% Motivational Interviewing video analysis"
+		},
+		{
+			"name": "Group Work Participation and Tutorial Presentation",
+			"weight": "30%                                        GREEN Boards: 5% per Module, BLUE boards and tutorial presentations: 5% per module"
+		},
+		{
+			"name": "Critical Appraisal of a journal article",
+			"weight": 25
+		},
+		{
+			"name": "Drug Information - Evaluation & Response",
+			"weight": 35
+		}
+	]
+}

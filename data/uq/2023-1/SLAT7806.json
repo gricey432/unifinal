@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Study Tasks",
+			"weight": 30
+		},
+		{
+			"name": "Academic Integrity Online Module",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Library research project",
+			"weight": 30
+		},
+		{
+			"name": "Research proposal",
+			"weight": 40
+		}
+	]
+}

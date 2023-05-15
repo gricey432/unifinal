@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-directed learning modules",
+			"weight": "Satisfactory"
+		},
+		{
+			"name": "Team Discussion Reports",
+			"weight": "Satisfactory"
+		},
+		{
+			"name": "e-Portfolio",
+			"weight": "Competent/Satisfactory"
+		},
+		{
+			"name": "Seminars 1 and 2",
+			"weight": "Attendance and participation"
+		}
+	]
+}

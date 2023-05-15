@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study",
+			"weight": 20
+		},
+		{
+			"name": "Accident Investigation Report",
+			"weight": 30
+		},
+		{
+			"name": "Tool Box Talk",
+			"weight": 10
+		},
+		{
+			"name": "Exam",
+			"weight": 40
+		}
+	]
+}

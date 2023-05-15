@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module Assignments",
+			"weight": 60
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 6
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "Module Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

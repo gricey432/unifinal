@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Engagement",
+			"weight": 25
+		},
+		{
+			"name": "Policy Recommendation (1000 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (1500 words)",
+			"weight": 25
+		}
+	]
+}

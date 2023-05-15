@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem set 1",
+			"weight": 12
+		},
+		{
+			"name": "Problem set 2",
+			"weight": 12
+		},
+		{
+			"name": "Problem set 3",
+			"weight": 12
+		},
+		{
+			"name": "Final Exam",
+			"weight": 64
+		}
+	]
+}

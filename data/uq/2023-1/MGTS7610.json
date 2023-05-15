@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Business writing portfolio",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Conference paper",
+			"weight": "40%                                        Individual; 1,500 words"
+		},
+		{
+			"name": "Business pitch",
+			"weight": "30%                                        Individual; 5 minute"
+		}
+	]
+}

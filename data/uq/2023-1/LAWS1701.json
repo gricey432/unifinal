@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Exercise Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Advanced Seminar Preparation",
+			"weight": 10
+		},
+		{
+			"name": "In-Class Progress Test",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Assignment",
+			"weight": "20%                                        Individual;"
+		},
+		{
+			"name": "Online Final Exam",
+			"weight": 55
+		}
+	]
+}

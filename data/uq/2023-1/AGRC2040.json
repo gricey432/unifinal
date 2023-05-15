@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "APSIM assessment 1",
+			"weight": 15
+		},
+		{
+			"name": "APSIM assessment 2",
+			"weight": 15
+		},
+		{
+			"name": "Managing soil water for dryland crop production",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam - invigilated via ProctorU",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Strategic analysis",
+			"weight": 40
+		},
+		{
+			"name": "Business Studio Design Tools For Making Decisions",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "Take home assignment",
+			"weight": 30
+		}
+	]
+}

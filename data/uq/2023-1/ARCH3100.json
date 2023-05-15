@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Interim Critique",
+			"weight": 30
+		},
+		{
+			"name": "Design development and detailing",
+			"weight": 10
+		},
+		{
+			"name": "Final Project",
+			"weight": "60%                                        Hurdle"
+		}
+	]
+}

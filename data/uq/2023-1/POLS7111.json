@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review A (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Review B (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major Essay (4000 words plus references)",
+			"weight": 50
+		}
+	]
+}

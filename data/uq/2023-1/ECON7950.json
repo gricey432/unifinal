@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 20
+		},
+		{
+			"name": "Reverse Research Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Pitching Your Own Research",
+			"weight": 50
+		}
+	]
+}

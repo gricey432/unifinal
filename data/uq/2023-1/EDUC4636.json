@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online engagement with learning modules",
+			"weight": 10
+		},
+		{
+			"name": "Unit overview, lesson plan & microteaching task",
+			"weight": "30%                                        2500 words"
+		},
+		{
+			"name": "Teaching learning and assessment plan (TLAP)",
+			"weight": "35%                                        3000 words"
+		},
+		{
+			"name": "Professional development module",
+			"weight": "25%                                        Video: 4-5 mins; Study guide: 800-1000 words"
+		}
+	]
+}

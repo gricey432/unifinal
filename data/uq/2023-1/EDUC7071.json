@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Microteaching presentation",
+			"weight": "30%                                        20 minute presentation"
+		},
+		{
+			"name": "Learning and teaching sequence task",
+			"weight": "50%                                        2500 words"
+		},
+		{
+			"name": "Weekly reflective journal",
+			"weight": "20%                                        1000 words"
+		}
+	]
+}

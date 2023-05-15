@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Primary research article critique",
+			"weight": 40
+		},
+		{
+			"name": "Dietitian e-portfolio finalisation",
+			"weight": 50
+		},
+		{
+			"name": "Peer review of paper critique draft",
+			"weight": 10
+		}
+	]
+}

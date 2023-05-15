@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Company case analysis",
+			"weight": "15%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Mid Semester Exam (online, during class time)",
+			"weight": "35%                                        1 hour"
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": "50%                                        1.5 hours"
+		},
+		{
+			"name": "Administrator board",
+			"weight": ""
+		},
+		{
+			"name": "Administrator board",
+			"weight": ""
+		},
+		{
+			"name": "Noticeboards",
+			"weight": ""
+		},
+		{
+			"name": "Administrator board",
+			"weight": ""
+		},
+		{
+			"name": "IBUS2301",
+			"weight": ""
+		}
+	]
+}

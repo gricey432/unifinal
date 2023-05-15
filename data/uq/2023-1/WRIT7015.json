@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment one",
+			"weight": "15%                                        500-700 words"
+		},
+		{
+			"name": "Assignment two",
+			"weight": "35%                                        6-8 minutes"
+		},
+		{
+			"name": "Assignment three",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

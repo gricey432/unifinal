@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1",
+			"weight": "5%                                        Individual"
+		},
+		{
+			"name": "Assignment 2",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Assignment 3",
+			"weight": "5%                                        Individual"
+		},
+		{
+			"name": "Project Report and Presentation",
+			"weight": "30%                                        Group, Hurdle"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        Individual, Hurdle"
+		}
+	]
+}

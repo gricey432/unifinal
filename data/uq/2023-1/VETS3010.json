@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Practical skills competency checklist",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Virology Exam",
+			"weight": 17.5
+		},
+		{
+			"name": "Mid semester Bacteriology exam",
+			"weight": 15
+		},
+		{
+			"name": "Parasitology Semester One Exam",
+			"weight": 27.5
+		},
+		{
+			"name": "Bacteriology & Public Health Exam(Semester 2)",
+			"weight": 20
+		},
+		{
+			"name": "Integration exam",
+			"weight": 20
+		}
+	]
+}

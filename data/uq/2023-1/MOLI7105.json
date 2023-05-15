@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "1. Project Definition",
+			"weight": 30
+		},
+		{
+			"name": "2. Dissertation",
+			"weight": 70
+		}
+	]
+}

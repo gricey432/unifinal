@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Consultation & Medical Records Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Preclinical EMS",
+			"weight": 5
+		},
+		{
+			"name": "Hot Topics",
+			"weight": 20
+		},
+		{
+			"name": "Clinic Visit Assignment",
+			"weight": 5
+		},
+		{
+			"name": "Preclinical Extramural Placements",
+			"weight": "P/F"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 60
+		}
+	]
+}

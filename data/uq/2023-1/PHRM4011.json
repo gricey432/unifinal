@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quizzes",
+			"weight": "7 quizzes- 21% in total"
+		},
+		{
+			"name": "Student Grand Round group presentation",
+			"weight": 25
+		},
+		{
+			"name": "Reflection on learning",
+			"weight": 14
+		},
+		{
+			"name": "End of semester case assignment",
+			"weight": 40
+		}
+	]
+}

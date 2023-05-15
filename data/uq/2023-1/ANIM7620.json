@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Animal physiology",
+			"weight": 25
+		},
+		{
+			"name": "Analysis of an Animal Welfare Issue",
+			"weight": 25
+		},
+		{
+			"name": "Animal Nutrition",
+			"weight": 25
+		},
+		{
+			"name": "Animal Reproduction Or Physiology 2",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Looking at life",
+			"weight": 8
+		},
+		{
+			"name": "Assessment 2: Responses to light",
+			"weight": 8
+		},
+		{
+			"name": "Assessment 3: Invertebrates",
+			"weight": 8
+		},
+		{
+			"name": "Assessment 4: What makes a plant?",
+			"weight": 8
+		},
+		{
+			"name": "Dynamic Study Modules",
+			"weight": 13
+		},
+		{
+			"name": "Final Examination",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "Compréhension écrite + mél formel",
+			"weight": 25
+		},
+		{
+			"name": "Conseils pour réussir l'université",
+			"weight": 20
+		},
+		{
+			"name": "Analyse autobiographique interculturelle",
+			"weight": 55
+		}
+	]
+}

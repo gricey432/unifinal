@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ARCS2080 A. Diversity & Recovery of plant remains",
+			"weight": 40
+		},
+		{
+			"name": "ARCS2080 B. Macrofossil Analysis",
+			"weight": 30
+		},
+		{
+			"name": "ARCS2080 C. Microfossil Analysis",
+			"weight": 30
+		}
+	]
+}

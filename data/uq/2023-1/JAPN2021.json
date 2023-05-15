@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Language Level Check",
+			"weight": 0
+		},
+		{
+			"name": "Oral Task 1",
+			"weight": 50
+		},
+		{
+			"name": "Oral Task 2",
+			"weight": 50
+		}
+	]
+}

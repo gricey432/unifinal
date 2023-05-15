@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End-of-module assessment",
+			"weight": "60%                                        20% per module"
+		},
+		{
+			"name": "Workshop preparation poster",
+			"weight": 10
+		},
+		{
+			"name": "Group project workshop",
+			"weight": 20
+		},
+		{
+			"name": "Post-workshop reflection",
+			"weight": 10
+		}
+	]
+}

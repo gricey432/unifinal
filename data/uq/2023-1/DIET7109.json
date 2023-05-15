@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report manuscript",
+			"weight": 45
+		},
+		{
+			"name": "Conference style presentation of project results",
+			"weight": 30
+		},
+		{
+			"name": "Written outline of proposed project",
+			"weight": 15
+		},
+		{
+			"name": "Active participation in workshops",
+			"weight": 10
+		}
+	]
+}

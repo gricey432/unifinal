@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory report handed in one week following lab",
+			"weight": 40
+		},
+		{
+			"name": "Written report",
+			"weight": 20
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

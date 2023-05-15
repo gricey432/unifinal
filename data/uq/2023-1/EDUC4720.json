@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional learning plan",
+			"weight": 10
+		},
+		{
+			"name": "Critical Review",
+			"weight": 25
+		},
+		{
+			"name": "Participation in professional learning communities",
+			"weight": 25
+		},
+		{
+			"name": "Resource portfolio and pedagogical statement",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Understanding the customer problem",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Startup Pitch and supporting documentation",
+			"weight": "25%                                        Team"
+		},
+		{
+			"name": "Examination",
+			"weight": 50
+		}
+	]
+}

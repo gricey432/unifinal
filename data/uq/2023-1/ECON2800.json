@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Midterm Exam",
+			"weight": 35
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 15
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 40
+		}
+	]
+}

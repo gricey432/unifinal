@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial reflection Weeks 4-8",
+			"weight": "25%                                        25 marks"
+		},
+		{
+			"name": "Image Annotation Weeks 4-8",
+			"weight": "25%                                        25 marks"
+		},
+		{
+			"name": "Exhibition Proposal Plan",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Exhibition Proposal",
+			"weight": "50%                                        2500 words"
+		}
+	]
+}

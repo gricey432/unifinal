@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract",
+			"weight": 0
+		},
+		{
+			"name": "Literature Review",
+			"weight": 50
+		},
+		{
+			"name": "Presentation",
+			"weight": 50
+		}
+	]
+}

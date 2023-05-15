@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "RiPPLE tasks",
+			"weight": 20
+		},
+		{
+			"name": "Music Research Foundations",
+			"weight": 20
+		},
+		{
+			"name": "Critical Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 30
+		}
+	]
+}

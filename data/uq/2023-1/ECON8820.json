@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Group / Student Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Exercise 1",
+			"weight": 10
+		},
+		{
+			"name": "Exercise 2",
+			"weight": 10
+		},
+		{
+			"name": "Exercise 3",
+			"weight": 10
+		},
+		{
+			"name": "Exercise 4",
+			"weight": 10
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 30
+		}
+	]
+}

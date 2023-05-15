@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Production Technologies and Productivity Change",
+			"weight": 20
+		},
+		{
+			"name": "Piecewise Frontier Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Deterministic and Stochastic Frontier Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

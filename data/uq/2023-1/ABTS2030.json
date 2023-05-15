@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "General Knowledge - Multiple Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Assessment.2 includes parts;(A)and(B):",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 3.Reflection(Video/Podcast) OR an ESSAY",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 4. Critical Essay",
+			"weight": 40
+		}
+	]
+}

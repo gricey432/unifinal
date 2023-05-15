@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Discussion participation",
+			"weight": 15
+		},
+		{
+			"name": "Weekly Problem Sets",
+			"weight": "20%                                        (Best 5 of 6)"
+		},
+		{
+			"name": "Paper presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Proposal on Market Design",
+			"weight": 35
+		},
+		{
+			"name": "All assignments must be submitted by the due date and time stated in the course profile. For this course, students are required to submit their assignments via turnitin on the course Blackboard site.",
+			"weight": ""
+		}
+	]
+}

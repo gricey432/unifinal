@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Data Visulisation Quiz- part 1",
+			"weight": 10
+		},
+		{
+			"name": "Data Visualisation - Project Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Data Visualisation Quiz- part 2",
+			"weight": 10
+		},
+		{
+			"name": "Data Visualisation - Project Report",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": "15%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": "10%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "11 Online Quizzes (best 10 counted, 2% each)",
+			"weight": "20%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Final exam",
+			"weight": "55%                                        Hurdle"
+		}
+	]
+}

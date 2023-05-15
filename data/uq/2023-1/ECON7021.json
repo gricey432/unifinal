@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Author, Moderate and Answer Questions via RiPPLE",
+			"weight": "15%                                        (3 x 5%)"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Impact Comparison",
+			"weight": 25
+		},
+		{
+			"name": "Policy Response",
+			"weight": 30
+		}
+	]
+}

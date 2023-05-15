@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1. Participation",
+			"weight": 10
+		},
+		{
+			"name": "A2. Participatory situation analysis",
+			"weight": 50
+		},
+		{
+			"name": "A3. Participatory communication strategy",
+			"weight": 40
+		}
+	]
+}

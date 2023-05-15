@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly quizzes",
+			"weight": "12%                                        Cumulative score"
+		},
+		{
+			"name": "Video assignment",
+			"weight": 18
+		},
+		{
+			"name": "Report on topics from Lectures 2-5.",
+			"weight": 40
+		},
+		{
+			"name": "Written critical review of article",
+			"weight": 30
+		}
+	]
+}

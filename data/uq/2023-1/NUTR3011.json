@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pop Nutrition Data collection & Interpretation",
+			"weight": 20
+		},
+		{
+			"name": "Problem-based assessment",
+			"weight": 45
+		},
+		{
+			"name": "Investigation of a Population Nutrition issue",
+			"weight": 35
+		}
+	]
+}

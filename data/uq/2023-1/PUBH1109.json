@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Keep Queenslanders Healthy Report",
+			"weight": 40
+		},
+		{
+			"name": "Data collection protocol",
+			"weight": 40
+		},
+		{
+			"name": "Online timed Blackboard quiz",
+			"weight": 20
+		}
+	]
+}

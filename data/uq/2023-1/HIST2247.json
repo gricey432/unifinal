@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Op-Ed piece",
+			"weight": "20%                                        750"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "50%                                        2000 words"
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": 20
+		}
+	]
+}

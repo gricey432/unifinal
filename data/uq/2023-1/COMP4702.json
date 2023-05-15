@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Practical Demonstration",
+			"weight": 18
+		},
+		{
+			"name": "Assignment",
+			"weight": 22
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

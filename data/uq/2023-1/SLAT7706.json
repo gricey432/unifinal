@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online task -submit before noon each Monday (AEST)",
+			"weight": 20
+		},
+		{
+			"name": "Portfolio of blog reflections",
+			"weight": "30%                                        1500 words (excluding references)"
+		},
+		{
+			"name": "Group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Current issues in applied linguistics",
+			"weight": "30%                                        1200 words (excluding references)"
+		}
+	]
+}

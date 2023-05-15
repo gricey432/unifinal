@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz Prosthodontics",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Portfolio (Digital ePAD)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Full Gold Crown preparation",
+			"weight": 25
+		},
+		{
+			"name": "Preclinical competency - Endodontics",
+			"weight": "25%                                        MUST PASS"
+		},
+		{
+			"name": "RPD DESIGN EXAM",
+			"weight": 10
+		},
+		{
+			"name": "Written End of Semester Examination",
+			"weight": "30%                                        MUST PASS"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

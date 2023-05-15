@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Team Workshop",
+			"weight": "20%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Team Evaluation Report",
+			"weight": "40%                                        Individual; 2,000 Words"
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": "20%                                        Individual; 1400 words"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Part 1: Practical 1 (TLs & Impedance Transformers)",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Part 2: Practical 2 (Hybrid Circuits)",
+			"weight": 10
+		},
+		{
+			"name": "Part 3:Practical 3(Analyis and Design of Antennas)",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

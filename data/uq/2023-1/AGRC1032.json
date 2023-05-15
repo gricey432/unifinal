@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 (Environmental monitoring) Prac report",
+			"weight": 15
+		},
+		{
+			"name": "Module 2 (Distribution & Diversity) Prac Report",
+			"weight": 15
+		},
+		{
+			"name": "Module 3 (Ecological site assessmet) Prac report",
+			"weight": 15
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Final examination",
+			"weight": 45
+		}
+	]
+}

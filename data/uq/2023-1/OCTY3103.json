@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Sessional Placement (Adult Physical)",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Case Study Assignment - Assessment Plan",
+			"weight": "30%                                        (Must Pass)"
+		},
+		{
+			"name": "Case Study Assignment - Intervention Plan",
+			"weight": "30%                                        (Must Pass)"
+		},
+		{
+			"name": "Viva Examination",
+			"weight": "40%                                        (Must Pass)"
+		}
+	]
+}

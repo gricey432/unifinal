@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at Weekly Seminars",
+			"weight": 15
+		},
+		{
+			"name": "Project Plan and Annotated Bibliography",
+			"weight": "20%                                        10% each for Plan and Bibliography - 20% in TOTAL"
+		},
+		{
+			"name": "Reading Log",
+			"weight": 15
+		},
+		{
+			"name": "Major Research Essay/Project (4000 words)",
+			"weight": 50
+		}
+	]
+}

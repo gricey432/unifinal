@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Continuous assessment of professional performance",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "Continuous assessment: clinical performance",
+			"weight": "70%                                        Compulsory pass"
+		},
+		{
+			"name": "Continuous assessment: professional performance",
+			"weight": "30%                                        Compulsory pass"
+		}
+	]
+}

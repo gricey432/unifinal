@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "AoCC - Part A Orthopaedics & Part B Ophthalmology",
+			"weight": "12%(Ortho) P/F(Ophthal) Performance Hurdle: Students must meet the passing standard."
+		},
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": "48%                                        Performance Hurdle: Students must meet the passing standard in order to pass the course."
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": "40%                                        Performance Hurdle: Students must meet the passing standard in order to pass the course."
+		},
+		{
+			"name": "Clinical Participation Assessment - Orthopaedics",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

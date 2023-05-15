@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Primary Source Analysis",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        1500 words"
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": "30%                                        1000 words"
+		}
+	]
+}

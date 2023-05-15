@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical sight translation assessment",
+			"weight": 25
+		},
+		{
+			"name": "Health communication in community settings",
+			"weight": 25
+		},
+		{
+			"name": "Monologue interpreting",
+			"weight": 50
+		}
+	]
+}

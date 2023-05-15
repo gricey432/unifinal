@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 25
+		},
+		{
+			"name": "Initial Consultation VIVA",
+			"weight": 15
+		},
+		{
+			"name": "Progressive Clinical Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Follow Up Consultation VIVAs",
+			"weight": 30
+		}
+	]
+}

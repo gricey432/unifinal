@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Based Online Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Trading Game",
+			"weight": "15%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Individual Report",
+			"weight": "15%                                        Individual"
+		},
+		{
+			"name": "Blackboard Based Online Final Exam",
+			"weight": 40
+		}
+	]
+}

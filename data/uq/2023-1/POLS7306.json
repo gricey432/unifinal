@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-Crisis Preparation Questions",
+			"weight": 25
+		},
+		{
+			"name": "Acute-Phase Questions (500 word each question)",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Research Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

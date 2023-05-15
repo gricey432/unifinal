@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online midsemester exam",
+			"weight": "25%                                        Individual"
+		},
+		{
+			"name": "Project Assignment",
+			"weight": "30%                                        Individual; 2,500 Words"
+		},
+		{
+			"name": "Final Exam (Taken on Blackboard)",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Week 2: BIOMECHANICS/TISSUES Quiz: Tissues",
+			"weight": 4
+		},
+		{
+			"name": "Week 3: BIOMECHANICS/TISSUES Quiz: Muscle",
+			"weight": 12
+		},
+		{
+			"name": "Week 4: BIOMECHANICS/TISSUES Quiz: Tendon/Ligament",
+			"weight": 12
+		},
+		{
+			"name": "Week 5: BIOMECHANICS/TISSUES Quiz: Bone",
+			"weight": 12
+		},
+		{
+			"name": "End of Semester Exam - Prac",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam - Theory",
+			"weight": 30
+		}
+	]
+}

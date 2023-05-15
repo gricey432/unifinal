@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Group Wiki Assignment Outline",
+			"weight": 5
+		},
+		{
+			"name": "Group Wiki Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Journal Club Presentation",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

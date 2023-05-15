@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester take home assessment",
+			"weight": 40
+		},
+		{
+			"name": "Online Final Examination - Invigilated",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Submission - Stage 1 (White paper)",
+			"weight": 20
+		},
+		{
+			"name": "Practical Examination - MS Project",
+			"weight": 25
+		},
+		{
+			"name": "Project Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Comprehensive Final Project Report",
+			"weight": 35
+		}
+	]
+}

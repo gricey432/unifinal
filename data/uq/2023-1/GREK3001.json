@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": 35
+		},
+		{
+			"name": "Participation via zoom",
+			"weight": 20
+		},
+		{
+			"name": "In-Class Presentation via zoom",
+			"weight": 10
+		},
+		{
+			"name": "Supervised via zoom",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practicals and online modules",
+			"weight": 15
+		},
+		{
+			"name": "Research Report",
+			"weight": 20
+		},
+		{
+			"name": "Virtual Redland Shire Field Trip Report & Quiz",
+			"weight": 15
+		},
+		{
+			"name": "End of semester exam (online)",
+			"weight": 50
+		}
+	]
+}

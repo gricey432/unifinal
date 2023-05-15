@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Debate",
+			"weight": 20
+		},
+		{
+			"name": "Platform Business Analysis",
+			"weight": "40%                                        2000 words"
+		},
+		{
+			"name": "Essay on Platformisation and Governance",
+			"weight": "40%                                        2000 words"
+		}
+	]
+}

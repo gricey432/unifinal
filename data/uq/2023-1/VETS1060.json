@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment Sequence",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam (Central)",
+			"weight": 15
+		},
+		{
+			"name": "Animal Diversity - written report",
+			"weight": 5
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

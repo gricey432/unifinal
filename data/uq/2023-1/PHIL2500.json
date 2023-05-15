@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay I",
+			"weight": "40%                                        1500 word essay due Wednesday 27 April"
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Essay II",
+			"weight": "45%                                        1800 word essay due Friday June 9"
+		}
+	]
+}

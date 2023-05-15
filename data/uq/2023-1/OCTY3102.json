@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Paediatric Placement",
+			"weight": "35%                                        MUST PASS"
+		},
+		{
+			"name": "Team communication in a hospital environment",
+			"weight": "20%                                        MUST PASS"
+		},
+		{
+			"name": "Written preparation for viva exam",
+			"weight": "15%                                        MUST PASS"
+		},
+		{
+			"name": "End of Semester Oral viva Exam",
+			"weight": "30%                                        MUST PASS"
+		}
+	]
+}

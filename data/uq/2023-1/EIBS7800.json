@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Customer and Market Selection",
+			"weight": 30
+		},
+		{
+			"name": "The Busisness Model journey and Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Final Business Model Canvas Report",
+			"weight": 40
+		}
+	]
+}

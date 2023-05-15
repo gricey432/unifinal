@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "#1 Laboratory Class Worksheets - Living soils",
+			"weight": 5
+		},
+		{
+			"name": "#2 Laboratory Class Worksheets - Entomology",
+			"weight": 5
+		},
+		{
+			"name": "#3 Laboratory Class Worksheets - Weeds",
+			"weight": 5
+		},
+		{
+			"name": "#4 Laboratory Class Worksheets - Pathology",
+			"weight": 5
+		},
+		{
+			"name": "Scientific Communication",
+			"weight": 25
+		},
+		{
+			"name": "3MT of Poster",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam - invigilated through ProctorU",
+			"weight": 40
+		}
+	]
+}

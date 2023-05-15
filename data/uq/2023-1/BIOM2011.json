@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Nernst Potential",
+			"weight": 5
+		},
+		{
+			"name": "Meta-Learning Task 1",
+			"weight": 5
+		},
+		{
+			"name": "Cardiac Function",
+			"weight": 20
+		},
+		{
+			"name": "Meta-Learning Task 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 1 - Muscle",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 2 - Endocrinology",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 3 - Epithelial",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 4 - Neuro",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 5 - Sensory",
+			"weight": 3
+		},
+		{
+			"name": "Quiz 6 - Immunology",
+			"weight": 3
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Series of quizzes",
+			"weight": 25
+		},
+		{
+			"name": "Series of reflections on learning",
+			"weight": 15
+		},
+		{
+			"name": "Development of a clinical trial protocol",
+			"weight": 35
+		},
+		{
+			"name": "Oral presentation",
+			"weight": 25
+		}
+	]
+}

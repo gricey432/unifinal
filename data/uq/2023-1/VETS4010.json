@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam A, Semester 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam B, Semester 1",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam A, Semester 2",
+			"weight": 15
+		},
+		{
+			"name": "Mid-Semester Exam B, Semester 2",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Skills Examination",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester 2 Exam",
+			"weight": 15
+		}
+	]
+}

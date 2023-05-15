@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Challenges",
+			"weight": 16
+		},
+		{
+			"name": "Midsemester exam",
+			"weight": 20
+		},
+		{
+			"name": "Reflection paper",
+			"weight": 29
+		},
+		{
+			"name": "Individual Organisational Problem Analysis",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": "25%                                        Topics 1 to 4"
+		},
+		{
+			"name": "Financial Report Analysis and Decision Making",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": "50%                                        All topics"
+		}
+	]
+}

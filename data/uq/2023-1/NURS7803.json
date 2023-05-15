@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Salary, performance and reward",
+			"weight": 50
+		},
+		{
+			"name": "Future workforce directions in aged care",
+			"weight": 50
+		}
+	]
+}

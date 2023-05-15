@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly reading responses (100 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Proposal (in preparation for major essay)",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay",
+			"weight": "50%                                        2000 words"
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

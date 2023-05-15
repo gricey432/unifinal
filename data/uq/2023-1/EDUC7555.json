@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Unit Plan",
+			"weight": "20%                                        1000 words equivalent"
+		},
+		{
+			"name": "Lesson Sequence and Written Account",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Classroom Activities and Pedagogical Statement",
+			"weight": "20%                                        1500 words equivalent"
+		},
+		{
+			"name": "Resource Portfolio and Critical Reflection",
+			"weight": "30%                                        2000 words equivalent"
+		}
+	]
+}

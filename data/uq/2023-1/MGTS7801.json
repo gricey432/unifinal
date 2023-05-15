@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Group presentation (via Multi-media)",
+			"weight": "20%                                        Group"
+		},
+		{
+			"name": "Four frames case study analysis",
+			"weight": "40%                                        Individual; 2000 words"
+		},
+		{
+			"name": "Personal development plan",
+			"weight": "40%                                        Individual; 3000 words"
+		}
+	]
+}

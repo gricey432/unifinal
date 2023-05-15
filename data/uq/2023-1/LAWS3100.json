@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial assessment",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Take Home Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination - Invigilated",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Module 1 Immunology",
+			"weight": 25
+		},
+		{
+			"name": "Module 2 and Module 3 (Bacteria/Parasites) quiz",
+			"weight": 30
+		},
+		{
+			"name": "Module 4 Viral Diseases Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Module 5 poster presentation",
+			"weight": 25
+		}
+	]
+}

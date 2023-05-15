@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Padlet Entry (500 words) and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Reflection Essay (1,500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay Plan (500 words + 1-Page Structure)",
+			"weight": 10
+		},
+		{
+			"name": "Major Research Essay (3,000 words)",
+			"weight": 50
+		}
+	]
+}

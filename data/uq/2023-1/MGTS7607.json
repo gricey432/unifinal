@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Ethics Essay",
+			"weight": 25
+		},
+		{
+			"name": "Case Analysis",
+			"weight": 55
+		},
+		{
+			"name": "Managing Ethical Issues in Future",
+			"weight": 20
+		}
+	]
+}

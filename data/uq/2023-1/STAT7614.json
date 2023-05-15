@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "Written assignment",
+			"weight": 40
+		},
+		{
+			"name": "Module exercises 1,2,3,4",
+			"weight": "20%                                        total. 4%,4%,8% & 4% respectively"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Ethics and practice in Australian archaeology",
+			"weight": 40
+		},
+		{
+			"name": "In-class exam held during your tutorial time",
+			"weight": 40
+		},
+		{
+			"name": "The archaeology of a significant site",
+			"weight": 20
+		}
+	]
+}

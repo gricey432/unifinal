@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Computer Practicals",
+			"weight": "18%                                        6 submissions (3% each)"
+		},
+		{
+			"name": "In-Class Practical Assessment 1",
+			"weight": 16
+		},
+		{
+			"name": "In-Class Practical Assessment 2",
+			"weight": 16
+		},
+		{
+			"name": "End-of-Semester Exam",
+			"weight": 50
+		}
+	]
+}

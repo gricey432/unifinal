@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: team plan",
+			"weight": 5
+		},
+		{
+			"name": "Assessment 2: Individual report",
+			"weight": 25
+		},
+		{
+			"name": "Assessment 3: team report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

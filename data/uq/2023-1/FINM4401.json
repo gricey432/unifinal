@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Academic paper critique",
+			"weight": 15
+		},
+		{
+			"name": "Literature Review",
+			"weight": "50%                                        Group"
+		},
+		{
+			"name": "Assignment",
+			"weight": 35
+		}
+	]
+}

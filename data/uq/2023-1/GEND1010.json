@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Essay Proposal",
+			"weight": "20%                                        500 words"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        1800 words"
+		},
+		{
+			"name": "Take Home Exam",
+			"weight": "30%                                        800 words"
+		}
+	]
+}

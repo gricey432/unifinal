@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Short Paper (1500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Long Essay 2500 words",
+			"weight": 50
+		},
+		{
+			"name": "Weekly diary entry",
+			"weight": 20
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

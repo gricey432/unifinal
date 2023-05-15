@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1 Neuroanatomy and Neurophysiology",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 2 OGTT and GIT Anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 3 CVS Anatomy and Physiology",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 4 Spirometry interpretation",
+			"weight": 4
+		},
+		{
+			"name": "Online Quiz 5 Dialysis",
+			"weight": 4
+		},
+		{
+			"name": "Oral group presentation",
+			"weight": 20
+		},
+		{
+			"name": "Invigilated end of semester Exam",
+			"weight": 60
+		}
+	]
+}

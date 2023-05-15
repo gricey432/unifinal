@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Essay",
+			"weight": 55
+		},
+		{
+			"name": "UNDERGRADUATE",
+			"weight": ""
+		},
+		{
+			"name": "Grade X",
+			"weight": ""
+		},
+		{
+			"name": "Grade 1",
+			"weight": ""
+		},
+		{
+			"name": "Grade 2",
+			"weight": ""
+		},
+		{
+			"name": "Grade 3",
+			"weight": ""
+		},
+		{
+			"name": "Grade 4",
+			"weight": ""
+		},
+		{
+			"name": "Grade 5",
+			"weight": ""
+		},
+		{
+			"name": "Grade 6",
+			"weight": ""
+		},
+		{
+			"name": "Grade 7",
+			"weight": ""
+		}
+	]
+}

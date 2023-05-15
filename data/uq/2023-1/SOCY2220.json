@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "weekly reflection journal",
+			"weight": "20%                                        2000 words"
+		},
+		{
+			"name": "Communicating Globalisation and Development",
+			"weight": "40%                                        1200 words"
+		},
+		{
+			"name": "Concepts and theories of development",
+			"weight": "40%                                        1500 words"
+		}
+	]
+}

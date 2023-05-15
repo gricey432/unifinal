@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Project",
+			"weight": "30%                                        Team; Peer Assessment"
+		},
+		{
+			"name": "Share Valuation Report",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Final Online Exam",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

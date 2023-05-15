@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Evaluation Exercise (CEX)",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Case Scenario  Individual Reply",
+			"weight": 30
+		},
+		{
+			"name": "In depth analysis of pharmacological therapy.",
+			"weight": 40
+		},
+		{
+			"name": "NP ePortfolio 2.3 & 3.1",
+			"weight": "0%                                        Pass/ Fail"
+		},
+		{
+			"name": "IPP Hours 96",
+			"weight": "0%                                        Complete / Incomplete"
+		}
+	]
+}

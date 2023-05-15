@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Initial Project Plan",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "Evidence of Human Research Ethics Approval",
+			"weight": "0%                                        Hurdle - if required"
+		},
+		{
+			"name": "Supervisors Report",
+			"weight": "20%                                        Waiver might apply in exceptional circumstances"
+		},
+		{
+			"name": "Research Project",
+			"weight": 80
+		}
+	]
+}

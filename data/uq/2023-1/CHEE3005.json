@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": "6%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": "6%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": "6%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Problem Set 4",
+			"weight": "6%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Reactor Practical",
+			"weight": "5%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Problem Set 5",
+			"weight": "6%                                        Part of in-semester Hurdle"
+		},
+		{
+			"name": "Reactor Design",
+			"weight": "15%                                        Part of in-semester hurdle"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "50%                                        Hurdle"
+		}
+	]
+}

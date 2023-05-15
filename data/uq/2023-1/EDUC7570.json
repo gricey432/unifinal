@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Tutorial Tasks",
+			"weight": "25%                                        250 or 500 words per task (5 tasks)"
+		},
+		{
+			"name": "Task 2: Translation: Teaching & learning fractions",
+			"weight": "40%                                        2500 words"
+		},
+		{
+			"name": "Task 3: Developing a lesson sequence/rationale",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

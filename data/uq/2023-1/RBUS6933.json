@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature Review",
+			"weight": "30%                                        3,000 words"
+		},
+		{
+			"name": "Research Design Proposal",
+			"weight": "40%                                        4,000 words"
+		},
+		{
+			"name": "Research Presentation",
+			"weight": "30%                                        15 mins"
+		}
+	]
+}

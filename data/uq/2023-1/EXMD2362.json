@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Infographic creation and presentation",
+			"weight": 10
+		},
+		{
+			"name": "Resistance training practical exam",
+			"weight": 30
+		},
+		{
+			"name": "Assignment: Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Theory exam",
+			"weight": 30
+		}
+	]
+}

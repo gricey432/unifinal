@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial report",
+			"weight": 15
+		},
+		{
+			"name": "3 Online Quizzes",
+			"weight": 45
+		},
+		{
+			"name": "Self monitoring project",
+			"weight": "40%                                        Submission compulsory to pass course"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Lab Report",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial Exercise",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

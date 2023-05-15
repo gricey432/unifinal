@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Country Analysis Health Report",
+			"weight": 20
+		},
+		{
+			"name": "Critical Analysis Report",
+			"weight": 45
+		},
+		{
+			"name": "Proposal for a surveillance or control strategy",
+			"weight": 35
+		}
+	]
+}

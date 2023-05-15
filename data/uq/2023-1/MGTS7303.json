@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case study analysis",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Business Simulation",
+			"weight": "40%                                        Group"
+		},
+		{
+			"name": "Reflection report",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

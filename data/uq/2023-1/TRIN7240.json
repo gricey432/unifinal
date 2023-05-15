@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Post-editing assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Post-editing assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Case-study report on CAT tools and MT",
+			"weight": 30
+		},
+		{
+			"name": "Post-editing examination",
+			"weight": 30
+		}
+	]
+}

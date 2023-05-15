@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Community Engagement Plan (group assignment)",
+			"weight": 40
+		},
+		{
+			"name": "Essay (individual)",
+			"weight": 40
+		}
+	]
+}

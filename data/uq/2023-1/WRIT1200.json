@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing project - proposal",
+			"weight": 30
+		},
+		{
+			"name": "Writing project - draft and peer feedback",
+			"weight": 10
+		},
+		{
+			"name": "Writing project - Final submission",
+			"weight": 60
+		}
+	]
+}

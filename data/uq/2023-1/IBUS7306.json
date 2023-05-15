@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "'Teaming' to tame a wicked problem",
+			"weight": "30%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "In-class debate (individual outcome)",
+			"weight": 20
+		},
+		{
+			"name": "In-class debate (group outcome)",
+			"weight": 10
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

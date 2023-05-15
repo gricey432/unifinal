@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Keeper Talk",
+			"weight": 10
+		},
+		{
+			"name": "Design brief of enclosure",
+			"weight": 25
+		},
+		{
+			"name": "Husbandry Manual",
+			"weight": 45
+		},
+		{
+			"name": "Should zoos exist - reflective essay",
+			"weight": 20
+		}
+	]
+}

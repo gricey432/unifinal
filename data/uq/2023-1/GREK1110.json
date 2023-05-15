@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Take-Home Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 15
+		},
+		{
+			"name": "In-Class Tests",
+			"weight": 15
+		},
+		{
+			"name": "In Person exam: scheduled by UQ Examinations",
+			"weight": 40
+		}
+	]
+}

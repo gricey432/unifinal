@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1.a: Seminar Paper (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "Task 1.b: Seminar Video (Group)",
+			"weight": 30
+		},
+		{
+			"name": "Task 2: Final exam",
+			"weight": "40%                                        IVAH"
+		}
+	]
+}

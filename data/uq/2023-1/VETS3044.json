@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Interview - Clinical Application",
+			"weight": 15
+		},
+		{
+			"name": "Leadership & Consultation Workshops",
+			"weight": 25
+		},
+		{
+			"name": "CEMS & 2 Week Elective Placements + RCVS Tool",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "CEMS: 4 Week External Industry Placement",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Reflective Journal: CEMS External Placement",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 Examination",
+			"weight": 50
+		}
+	]
+}

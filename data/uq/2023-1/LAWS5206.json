@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini Quiz in Class",
+			"weight": 10
+		},
+		{
+			"name": "Research Paper",
+			"weight": 30
+		},
+		{
+			"name": "Take Home Assessment",
+			"weight": 60
+		}
+	]
+}

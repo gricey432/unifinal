@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Participation Activities",
+			"weight": 20
+		},
+		{
+			"name": "Inquiry Sequence 1",
+			"weight": 40
+		},
+		{
+			"name": "Inquiry Sequence 2",
+			"weight": 40
+		}
+	]
+}

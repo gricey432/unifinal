@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement with texts",
+			"weight": 30
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 45
+		}
+	]
+}

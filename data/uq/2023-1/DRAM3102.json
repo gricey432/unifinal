@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 20
+		},
+		{
+			"name": "Writer's Date - one page report",
+			"weight": "10%                                        500 words"
+		},
+		{
+			"name": "Script Dramaturgy Report",
+			"weight": "30%                                        3 page report"
+		},
+		{
+			"name": "Short Play Script",
+			"weight": "40%                                        10 minutes duration"
+		}
+	]
+}

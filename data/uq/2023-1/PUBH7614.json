@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "The health system and its context to ensure health",
+			"weight": 20
+		},
+		{
+			"name": "The health system and its context to ensure health",
+			"weight": 10
+		},
+		{
+			"name": "Performance of the health system towards UHC",
+			"weight": 50
+		}
+	]
+}

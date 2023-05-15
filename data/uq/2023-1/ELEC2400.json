@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practical lab work",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Sem Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam - Invigilated closed book",
+			"weight": 60
+		}
+	]
+}

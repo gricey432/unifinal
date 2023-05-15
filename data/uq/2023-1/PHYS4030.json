@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Course summary (optional)",
+			"weight": "10%                                        Can replace 10% of final exam mark"
+		},
+		{
+			"name": "Final Exam (Zoom invigilation)",
+			"weight": "70%                                        Will be 60% if student chooses to do Course summary"
+		}
+	]
+}

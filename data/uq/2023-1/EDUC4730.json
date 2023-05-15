@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Learning Session: ICT in STEAM",
+			"weight": 30
+		},
+		{
+			"name": "Design Activities: Evaluate, Reflect, Adapt",
+			"weight": 40
+		},
+		{
+			"name": "Digital Technologies Unit Plan Foundations",
+			"weight": 30
+		}
+	]
+}

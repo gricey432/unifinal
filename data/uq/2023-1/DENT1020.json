@@ -1,0 +1,48 @@
+{
+	"assessment": [
+		{
+			"name": "Question Authoring and Answering via RiPPLE",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Report Health Infographic",
+			"weight": 10
+		},
+		{
+			"name": "Written Commentary",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": "40%                                        MUST PASS"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

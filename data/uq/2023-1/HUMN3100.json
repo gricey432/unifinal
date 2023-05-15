@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in discussion",
+			"weight": 15
+		},
+		{
+			"name": "Annual Symposium Pitch",
+			"weight": "15%                                        7-10 minutes per group (ca 1,000-1,200 words)"
+		},
+		{
+			"name": "Interview & Feature Story on Humanities Champion",
+			"weight": "30%                                        1,000 words"
+		},
+		{
+			"name": "Critical Reflection: One Big Question",
+			"weight": "40%                                        1,500-2,000 words"
+		}
+	]
+}

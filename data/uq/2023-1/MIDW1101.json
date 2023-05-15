@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment item 1",
+			"weight": 20
+		},
+		{
+			"name": "Assessment item 2",
+			"weight": 40
+		},
+		{
+			"name": "On-campus paper invigilated exam",
+			"weight": 40
+		}
+	]
+}

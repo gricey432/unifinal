@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Advanced Inorganic Chemistry Laboratory",
+			"weight": 30
+		},
+		{
+			"name": "Symmetry and Spectroscopy",
+			"weight": 15
+		},
+		{
+			"name": "Advanced Coordination Chemistry",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Number of reschedules",
+			"weight": ""
+		},
+		{
+			"name": "First reschedule",
+			"weight": ""
+		},
+		{
+			"name": "Second reschedule",
+			"weight": ""
+		},
+		{
+			"name": "No third reschedule possible",
+			"weight": ""
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of Market Segmentation Studies",
+			"weight": "30%                                        Individual; 1500 Words"
+		},
+		{
+			"name": "Case study essay",
+			"weight": "40%                                        Individual; 1500 Words"
+		},
+		{
+			"name": "Market Research Report",
+			"weight": "30%                                        Team; 2,000 Words"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Tension and Compression (Prof Kitipornchai)",
+			"weight": 6
+		},
+		{
+			"name": "Compression and Bending (Prof Kitipornchai)",
+			"weight": 6
+		},
+		{
+			"name": "Bending & Combined Actions (Prof Kitipornchai)",
+			"weight": 6
+		},
+		{
+			"name": "Combined Actions/Portal Frames (Prof Kitipornchai)",
+			"weight": 6
+		},
+		{
+			"name": "Connections (Dr Johnny Ho)",
+			"weight": 6
+		},
+		{
+			"name": "Final Examination",
+			"weight": 70
+		}
+	]
+}

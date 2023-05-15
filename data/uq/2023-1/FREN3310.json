@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Course Placement",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "In-class Translation Exams",
+			"weight": "25%                                        (Translation 2 10%, Translation 3 15%)"
+		},
+		{
+			"name": "Team Translation Project",
+			"weight": 15
+		},
+		{
+			"name": "Individual Translation Project",
+			"weight": "30%                                        (15% translation, 15% commentary)"
+		},
+		{
+			"name": "Final Exam - Translation and Commentary",
+			"weight": "30%                                        (20% translation, 10% commentary)"
+		}
+	]
+}

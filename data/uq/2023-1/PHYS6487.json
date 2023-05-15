@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project Plan",
+			"weight": "0%                                        (100% penalty for fail/non-submission)"
+		},
+		{
+			"name": "Honours Progress Talk",
+			"weight": "0%                                        (10% penalty for fail/non-completion)"
+		},
+		{
+			"name": "Progress Report with Literature Review",
+			"weight": "0%                                        (100% penalty for fail/non-submission)"
+		},
+		{
+			"name": "Honours Final Talk",
+			"weight": "0%                                        (10% penalty for non-completion)(Helps examiners determine Thesis grade.)"
+		},
+		{
+			"name": "Honours Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Oral Examination",
+			"weight": "0%                                        (Helps examiners determine Thesis grade.)"
+		}
+	]
+}

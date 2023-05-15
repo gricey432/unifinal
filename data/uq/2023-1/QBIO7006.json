@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tidy data package",
+			"weight": 30
+		},
+		{
+			"name": "Professional report with tweet",
+			"weight": 40
+		},
+		{
+			"name": "Video presentation of graph",
+			"weight": 10
+		},
+		{
+			"name": "Shiny App or Infographic",
+			"weight": 20
+		}
+	]
+}

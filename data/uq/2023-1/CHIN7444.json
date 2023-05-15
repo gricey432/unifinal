@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Interpreting/Translation Assignments",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester Legal Interpreting/Translation Exam",
+			"weight": 30
+		},
+		{
+			"name": "Final Legal Interpreting and Translation Exam",
+			"weight": 50
+		}
+	]
+}

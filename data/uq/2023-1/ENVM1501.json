@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1: Environmental issues in context",
+			"weight": "20%                                        1000-1500 words"
+		},
+		{
+			"name": "Assignment 2: Environmental values",
+			"weight": "40%                                        2500-3000 words"
+		},
+		{
+			"name": "Assignment 3: Internet based discussion series",
+			"weight": 20
+		},
+		{
+			"name": "Video assignment",
+			"weight": 20
+		}
+	]
+}

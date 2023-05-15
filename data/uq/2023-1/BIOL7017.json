@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Prac Test 1",
+			"weight": 5
+		},
+		{
+			"name": "Prac Test 2",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Theory Exam",
+			"weight": "0% or 15%"
+		},
+		{
+			"name": "Disease Collection",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam - On Campus Invigilated",
+			"weight": "40% or 55%"
+		}
+	]
+}

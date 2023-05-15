@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "ED, ICU & Anaesthesia Workbook & Engagement Record",
+			"weight": "30%                                        Performance Hurdle: Students who fail one or more workbooks will fail the course overall"
+		},
+		{
+			"name": "Critical Care End of Semester MCQ Exam",
+			"weight": "70%                                        Performance Hurdle: Students who fail the exam will fail the course overall"
+		},
+		{
+			"name": "Clinical Participation Assessment - ED",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

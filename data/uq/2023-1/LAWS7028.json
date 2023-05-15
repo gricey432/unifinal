@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Written response to Contextual Arbitral Scenarios",
+			"weight": 30
+		},
+		{
+			"name": "Written responses: essay and/or short answers",
+			"weight": 70
+		}
+	]
+}

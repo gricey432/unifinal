@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Week 1 Orientation activities",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Proposal",
+			"weight": "12.5%                                        2 unit equivalent"
+		},
+		{
+			"name": "Research Proposal Seminar and Discussion",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Journal Club presentation & participation",
+			"weight": "6.25%                                        1 unit equivalent"
+		},
+		{
+			"name": "Progress Report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Draft Research Report",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Seminar Notebook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Research Report & Research Performance",
+			"weight": "68.8%                                        11 unit equivalent"
+		},
+		{
+			"name": "Final Research Seminar",
+			"weight": "12.5%                                        2 unit equivalent"
+		}
+	]
+}

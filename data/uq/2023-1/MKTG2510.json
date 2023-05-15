@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Marketing Performance Presentation (A1)",
+			"weight": 35
+		},
+		{
+			"name": "Market Research Report (A2)",
+			"weight": 40
+		},
+		{
+			"name": "Data Visualisation Report - Infographic (A3)",
+			"weight": 25
+		}
+	]
+}

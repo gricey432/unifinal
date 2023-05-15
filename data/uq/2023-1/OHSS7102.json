@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Learning Contract",
+			"weight": 0
+		},
+		{
+			"name": "Supervisor's Report",
+			"weight": 0
+		},
+		{
+			"name": "Ethical Practice in OHS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 2",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 3",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 4",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 5",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "OHS Task 6",
+			"weight": "Pass/Fail"
+		}
+	]
+}

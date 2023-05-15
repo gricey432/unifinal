@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Skill Building: Translation, Parsing and Grammar",
+			"weight": 30
+		},
+		{
+			"name": "Skill Building: Vocab, Grammar and Accidence",
+			"weight": 15
+		},
+		{
+			"name": "Skill Building: Recognition and Retention",
+			"weight": 15
+		},
+		{
+			"name": "In Person exam: scheduled by UQ Examinations",
+			"weight": 40
+		}
+	]
+}

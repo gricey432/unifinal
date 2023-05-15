@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Course Engagement",
+			"weight": 30
+		},
+		{
+			"name": "Policy Memo (1800 words)",
+			"weight": 25
+		},
+		{
+			"name": "Policy Research Essay (3000 words)",
+			"weight": 45
+		}
+	]
+}

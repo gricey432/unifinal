@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Initial Project Plan",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "Supervisors Report",
+			"weight": "20%                                        Waiver might apply in exceptional circumstances"
+		},
+		{
+			"name": "Research Project",
+			"weight": 80
+		}
+	]
+}

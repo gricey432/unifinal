@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 Project Plan",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 2 Placement Project Report",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Advertisement Review Report",
+			"weight": "30%                                        Individual; 1,500 Words; Part A; Part B;"
+		},
+		{
+			"name": "Media Plan",
+			"weight": "40%                                        2,500 Words; Individual;"
+		},
+		{
+			"name": "Online exam",
+			"weight": "30%                                        Individual"
+		}
+	]
+}

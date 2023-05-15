@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Examination (Online)",
+			"weight": 30
+		},
+		{
+			"name": "Goat oestrus synchronisation report",
+			"weight": 20
+		},
+		{
+			"name": "Breeding Technology Research Proposal",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Based Learning Assignments",
+			"weight": 10
+		},
+		{
+			"name": "Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Demonstrations",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

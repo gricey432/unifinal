@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Missing Data Analysis, Assumption Checks",
+			"weight": 35
+		},
+		{
+			"name": "EFA, logistic regression, and mediation",
+			"weight": 35
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Periodical Assessments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

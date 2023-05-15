@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Brief",
+			"weight": 30
+		},
+		{
+			"name": "Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Project report and reflection",
+			"weight": 50
+		}
+	]
+}

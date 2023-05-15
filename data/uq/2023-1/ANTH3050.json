@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual pecha kuchas/Ignite talks",
+			"weight": 30
+		},
+		{
+			"name": "Leading Workshop Discussion and Written Reflection",
+			"weight": "40%                                        1800 words"
+		},
+		{
+			"name": "Major essay",
+			"weight": "30%                                        2000 words"
+		}
+	]
+}

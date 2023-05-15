@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in Practical Sessions",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report 1: Soil carbon",
+			"weight": "10%                                        Individual report"
+		},
+		{
+			"name": "Practical Report 3: Fertility Status of Soil",
+			"weight": "15%                                        Group Report"
+		},
+		{
+			"name": "Practical Report 2: Water Use by Plants",
+			"weight": "10%                                        Group Report"
+		},
+		{
+			"name": "Review of selected topic",
+			"weight": "15%                                        Individual report"
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

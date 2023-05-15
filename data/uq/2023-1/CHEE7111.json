@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Non-Disclosure Agreement",
+			"weight": "Compulsory"
+		},
+		{
+			"name": "Individual exercise",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Project presentation Part A",
+			"weight": 5
+		},
+		{
+			"name": "Project report Part A",
+			"weight": 20
+		},
+		{
+			"name": "Individual exercise",
+			"weight": "10%                                        Hurdle"
+		},
+		{
+			"name": "Project presentation Part B",
+			"weight": 5
+		},
+		{
+			"name": "Project report Part B",
+			"weight": 20
+		},
+		{
+			"name": "Individual oral defence",
+			"weight": "30%                                        Hurdle"
+		}
+	]
+}

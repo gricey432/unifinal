@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Comprehension online task",
+			"weight": "25%                                        5 online tasks x 5%=25"
+		},
+		{
+			"name": "Module 1 Indigenous Pre-Columbian World",
+			"weight": "25%                                        1,500 words"
+		},
+		{
+			"name": "Module 2 Spain and Spanish America",
+			"weight": "25%                                        1,500 words"
+		},
+		{
+			"name": "Module 3 Latin America 20th Century",
+			"weight": "25%                                        1,500 words"
+		},
+		{
+			"name": "Module 4 Brazil past and present",
+			"weight": "25%                                        1,500 words"
+		}
+	]
+}

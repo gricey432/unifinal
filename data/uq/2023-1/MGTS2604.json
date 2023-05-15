@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": "30%                                        Individual; 1,500 words"
+		},
+		{
+			"name": "Career Plan Report",
+			"weight": "30%                                        Individual; 1,000 words"
+		},
+		{
+			"name": "Report on Issues in HRM - Case study Report",
+			"weight": "40%                                        Individual; 2,000 words"
+		}
+	]
+}

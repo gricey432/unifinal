@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Online Short test - Invigilated",
+			"weight": 50
+		},
+		{
+			"name": "Online Mid Sem Exam",
+			"weight": 50
+		}
+	]
+}

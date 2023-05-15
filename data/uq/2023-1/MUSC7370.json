@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Literature Review & Project Plan",
+			"weight": 35
+		},
+		{
+			"name": "Report & Reflection on Project & Presentation",
+			"weight": 15
+		}
+	]
+}

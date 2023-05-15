@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and presentation in tutorials",
+			"weight": 15
+		},
+		{
+			"name": "3 online Quizzes",
+			"weight": 60
+		},
+		{
+			"name": "Guided essay on presentation topic",
+			"weight": 25
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Class participation  and presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

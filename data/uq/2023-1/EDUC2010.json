@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Class Newsletter",
+			"weight": 30
+		},
+		{
+			"name": "Peer Teaching",
+			"weight": 35
+		},
+		{
+			"name": "Feedback for learning",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Golden Target Campaign Review",
+			"weight": "30%                                        1,000 words"
+		},
+		{
+			"name": "Media Plan",
+			"weight": "30%                                        1,200 words"
+		},
+		{
+			"name": "Media Assets (Portfolio)",
+			"weight": "40%                                        Four items"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflexivity assignment - culture & physiotherapy",
+			"weight": 15
+		},
+		{
+			"name": "End of semester practical exam",
+			"weight": "30%                                        Must Pass"
+		},
+		{
+			"name": "End-of-semester Theory Exam",
+			"weight": "55%                                        (Must Pass)"
+		}
+	]
+}

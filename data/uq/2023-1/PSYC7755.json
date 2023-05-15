@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Placement Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Placement Contract",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End-Point Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Point Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Client/Supervision(inc. Records)/Other Activities",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Professional Development Logs",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Placement Contract, Mid and End Point Reviews",
+			"weight": "Not applicable"
+		},
+		{
+			"name": "Folio",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

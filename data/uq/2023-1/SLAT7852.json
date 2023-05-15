@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual presentation",
+			"weight": 10
+		},
+		{
+			"name": "E-Portfolio",
+			"weight": "40%                                        (10% Purpose statements, 15% Reflections, 15% Bibliography)"
+		},
+		{
+			"name": "Synthesis Essay",
+			"weight": 50
+		}
+	]
+}

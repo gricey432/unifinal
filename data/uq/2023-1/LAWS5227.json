@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research Essay",
+			"weight": "40%                                        2200 words maximum"
+		},
+		{
+			"name": "Online Open Book Final Examination - Invigilated",
+			"weight": 60
+		}
+	]
+}

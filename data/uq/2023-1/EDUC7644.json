@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and microteaching",
+			"weight": "15%                                        + non-graded hurdle tasks"
+		},
+		{
+			"name": "Evaluating & teaching with digital resources",
+			"weight": "30%                                        2000 words equivalent"
+		},
+		{
+			"name": "Learning & teaching sequence and assessment task",
+			"weight": "30%                                        2000 words equivalent"
+		},
+		{
+			"name": "Professional development and communication task",
+			"weight": "25%                                        2500 words equivalent"
+		}
+	]
+}

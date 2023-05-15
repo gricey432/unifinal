@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Behaviour Change Program",
+			"weight": 50
+		},
+		{
+			"name": "Applied Psychology Report",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignments - Report, Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

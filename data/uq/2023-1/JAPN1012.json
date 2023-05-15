@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement questionnaire",
+			"weight": 0
+		},
+		{
+			"name": "Blackboard Online Tasks (8)",
+			"weight": 16
+		},
+		{
+			"name": "Oral Presentation 1 - WEEK 8",
+			"weight": 18
+		},
+		{
+			"name": "Writing Exam - WEEK 11",
+			"weight": 34
+		},
+		{
+			"name": "Oral Presentation 2 - EXAM PERIOD",
+			"weight": 32
+		}
+	]
+}

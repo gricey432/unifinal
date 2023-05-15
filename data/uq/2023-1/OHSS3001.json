@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Major Project",
+			"weight": 50
+		},
+		{
+			"name": "Practical Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Assessment Technique Challenge",
+			"weight": 15
+		},
+		{
+			"name": "Work Design Online Challenge",
+			"weight": 15
+		}
+	]
+}

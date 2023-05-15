@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Research paper",
+			"weight": 40
+		},
+		{
+			"name": "Online Open Book Final Examination - Invigilated",
+			"weight": 60
+		}
+	]
+}

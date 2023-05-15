@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Four online quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Critical Reading Response - Part 1",
+			"weight": 10
+		},
+		{
+			"name": "Critical Reading Response - Part 2",
+			"weight": 10
+		},
+		{
+			"name": "Critical Essay",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz 1: Cellular physiology",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2: Cardiovascular system",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3: Respiratory system",
+			"weight": 5
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 65
+		}
+	]
+}

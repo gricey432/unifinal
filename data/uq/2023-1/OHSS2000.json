@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in workshops",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 30
+		}
+	]
+}

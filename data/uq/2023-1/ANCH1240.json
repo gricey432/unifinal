@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Library Exercise",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Coursework Essay",
+			"weight": 40
+		},
+		{
+			"name": "In Person: Final Exam",
+			"weight": 40
+		}
+	]
+}

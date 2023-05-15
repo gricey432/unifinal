@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement, reflection and individualized learning",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Mid-Semester Formative Examination CBSSA",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Comprehensive Basic Science Examination (CBSE)",
+			"weight": "Performance hurdle"
+		}
+	]
+}

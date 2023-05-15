@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Site, basement, ground floor concept and stacking",
+			"weight": "30%                                        Group"
+		},
+		{
+			"name": "Façade and sunshade detailing",
+			"weight": 10
+		},
+		{
+			"name": "Completed developed design",
+			"weight": "50%                                        Hurdle"
+		},
+		{
+			"name": "Design Journal: Record of learning and design",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Diary Part 2",
+			"weight": 19
+		},
+		{
+			"name": "Diary Part 1",
+			"weight": 16
+		},
+		{
+			"name": "Kanji Application",
+			"weight": 25
+		},
+		{
+			"name": "Final Written Exam",
+			"weight": 40
+		}
+	]
+}

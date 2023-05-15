@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Site Evaluation (Solar)",
+			"weight": 30
+		},
+		{
+			"name": "Individual demonstration (Wind Power)",
+			"weight": "20%                                        Hurdle"
+		},
+		{
+			"name": "Group Report - Net Zero Electricity System",
+			"weight": "40%                                        PAF"
+		},
+		{
+			"name": "Only University approved and labelled calculators can be used in all quizzes or exams for this course. Please consult https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators for information about approved calculators and obtaining a label for non-approved calculators.",
+			"weight": ""
+		}
+	]
+}

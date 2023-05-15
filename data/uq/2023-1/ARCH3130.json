@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "City Scan",
+			"weight": 20
+		},
+		{
+			"name": "Urban Mapping",
+			"weight": 30
+		},
+		{
+			"name": "Interactive Representation of Urban Dynamics",
+			"weight": "50%                                        IVAH"
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "To meet professional accreditation, public engagement and quality assurance obligations, digital copies of all course assessment items must be submitted in addition to any hard copy submission requirements specified in individual Course / Studio Outlines. The School of Architecture uses Turnitin for assessment submission. Turnitin is accessed through the course Blackboard site. Turnitin also checks for plagarism or instances where the original work of others is not appropriately acknowledged.",
+			"weight": ""
+		}
+	]
+}

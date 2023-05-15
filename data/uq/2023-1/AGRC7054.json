@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Weed seeds and plants identification",
+			"weight": 10
+		},
+		{
+			"name": "Assessment 2: Crop competition and burial depth",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Exercise in class",
+			"weight": 30
+		},
+		{
+			"name": "Biology and management of a pest",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 20
+		}
+	]
+}

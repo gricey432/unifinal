@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Fisheries Biology/Ecology: Fish lab report",
+			"weight": 15
+		},
+		{
+			"name": "Aqua 1:Water quality practical report",
+			"weight": 5
+		},
+		{
+			"name": "Aqua 2:Feed trial design comprehension",
+			"weight": 5
+		},
+		{
+			"name": "Aqua 3:Genetics and breeding comprehension",
+			"weight": 5
+		},
+		{
+			"name": "Fisheries Models: Fisheries workshop write-up",
+			"weight": 20
+		},
+		{
+			"name": "Take-home assignment + Oral follow-up",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Essay",
+			"weight": "40%                                        2000 words"
+		},
+		{
+			"name": "In-class Presentation",
+			"weight": "30%                                        8-10 minutes"
+		},
+		{
+			"name": "Tutorial attendance and participation",
+			"weight": 20
+		},
+		{
+			"name": "Discussant",
+			"weight": "10%                                        5 minutes"
+		}
+	]
+}

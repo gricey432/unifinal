@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Item 1: Simulated counselling interview",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 2",
+			"weight": "35%                                        2000 words"
+		},
+		{
+			"name": "Assessment Item 3:",
+			"weight": "35%                                        2000 words"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module completion and critical reflection",
+			"weight": 10
+		},
+		{
+			"name": "Developing your project",
+			"weight": 50
+		},
+		{
+			"name": "Project presentation",
+			"weight": 40
+		}
+	]
+}

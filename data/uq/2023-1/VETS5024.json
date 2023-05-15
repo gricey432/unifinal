@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "External Clinical Placement",
+			"weight": 30
+		},
+		{
+			"name": "External Clinical Placement Reflection",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "UQ VETS Gatton Production Animal Service",
+			"weight": 30
+		},
+		{
+			"name": "On-line Case Management Scenarios",
+			"weight": 20
+		},
+		{
+			"name": "UQ VETS Production Animal Service Reflection",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case-based assignment",
+			"weight": 40
+		},
+		{
+			"name": "Module Quizzes",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": "50%                                        Must Pass"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team-based tutorial assessment",
+			"weight": "15%                                        Team"
+		},
+		{
+			"name": "Management Issue Report",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "45%                                        Individual"
+		}
+	]
+}

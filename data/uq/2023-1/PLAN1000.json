@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Local Planning Report",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 2: Urban Design Analysis Slide Deck",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3: Final Exam",
+			"weight": 20
+		}
+	]
+}

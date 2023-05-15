@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Microteaching Demonstration",
+			"weight": "20%                                        15 minute presentation"
+		},
+		{
+			"name": "Teaching and Learning Assessment Plan (TLAP)",
+			"weight": "40%                                        3000 words"
+		},
+		{
+			"name": "Professional Engagement and Communcation",
+			"weight": "40%                                        1500 word report"
+		}
+	]
+}

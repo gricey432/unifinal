@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Seminar presentation on a selected topic",
+			"weight": 40
+		},
+		{
+			"name": "Essay on a selected topic",
+			"weight": 40
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Extension applications are not applicable for this assessment item – please apply directly to the Course Coordinator."
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "Apply to the Course Coordinator."
+		},
+		{
+			"name": "",
+			"weight": ""
+		}
+	]
+}

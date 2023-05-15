@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Take-home exam based especially on practical labs",
+			"weight": 25
+		},
+		{
+			"name": "Research Project report",
+			"weight": 50
+		},
+		{
+			"name": "Online End of Semester exam",
+			"weight": 25
+		}
+	]
+}

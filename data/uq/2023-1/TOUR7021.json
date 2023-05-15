@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service Experience Oral Pitch",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Service Experience Report",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Online Assessment",
+			"weight": "40%                                        Individual"
+		}
+	]
+}

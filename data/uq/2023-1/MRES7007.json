@@ -1,0 +1,52 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1: Quiz Module 1",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 2: Design a diffusion MRI protocol",
+			"weight": 34
+		},
+		{
+			"name": "Assessment 1: Quiz Module 2",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 2: Submit draft report (optional)",
+			"weight": 0
+		},
+		{
+			"name": "Assessment 1: Quiz for Guest Lecture 1",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 1: Quiz Module 3",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 3: Design a perfusion MRI protocol",
+			"weight": 34
+		},
+		{
+			"name": "Assessment 1: Quiz module 4",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 1: Quiz for Guest Lecture 2",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 3: Submit draft report (optional)",
+			"weight": 0
+		},
+		{
+			"name": "Assessment 1: Quiz module 5",
+			"weight": 4
+		},
+		{
+			"name": "Assessment 1: Quiz module 6",
+			"weight": 4
+		}
+	]
+}

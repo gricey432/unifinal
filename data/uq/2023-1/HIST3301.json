@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Briefing (500 words)",
+			"weight": 10
+		},
+		{
+			"name": "Reflective Essay (1000 words)",
+			"weight": 25
+		},
+		{
+			"name": "Major Essay (2500 words)",
+			"weight": 45
+		}
+	]
+}

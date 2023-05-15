@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reports for Practicals 2 to 8",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 70
+		}
+	]
+}

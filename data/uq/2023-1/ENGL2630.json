@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 15
+		},
+		{
+			"name": "Critical Reflective Essay",
+			"weight": "30%                                        1000-1200 words (excl. quotations)"
+		},
+		{
+			"name": "Research Essay",
+			"weight": "55%                                        2300-2500 words (excl. quotations)"
+		}
+	]
+}

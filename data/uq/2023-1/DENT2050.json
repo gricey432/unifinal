@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical practice performance and reflection",
+			"weight": "Pass/ Fail MUST PASS"
+		},
+		{
+			"name": "Pre-clinical competency assessment - Anterior AECR",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Pre-clinical competency assessment - Occlusal",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "IPCP curriculum assessment",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "OSCE in removable prosthodontics",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Pre-clinical competency assessment: Inter-Proximal",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Viva voce",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Assignment (Report, Essay, Lab Report etc)",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "In-class quiz, exam, in-class assessment – Assessment is at a set date/time, either in person or online",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Mid-Semester or Final Examination - Central",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		},
+		{
+			"name": "Presentation",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

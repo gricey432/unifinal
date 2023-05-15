@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meetings with Supervisor",
+			"weight": 10
+		},
+		{
+			"name": "Outline of proposed independent study project",
+			"weight": 20
+		},
+		{
+			"name": "Independent Study (6000 words)",
+			"weight": 70
+		}
+	]
+}

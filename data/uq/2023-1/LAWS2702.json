@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Case Note",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Open Book Exam",
+			"weight": 60
+		}
+	]
+}

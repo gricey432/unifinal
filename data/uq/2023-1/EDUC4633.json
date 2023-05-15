@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Microteaching Hard to Teach Concepts",
+			"weight": "30%                                        Oral & 3200 words"
+		},
+		{
+			"name": "Planning a Learning Sequence and Assessment",
+			"weight": "35%                                        4200 words"
+		},
+		{
+			"name": "Professional Engagement and Communication",
+			"weight": "20%                                        Oral & 3200 words"
+		},
+		{
+			"name": "Participation and Preparation",
+			"weight": 15
+		}
+	]
+}

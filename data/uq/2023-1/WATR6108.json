@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Technology Design Series",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": "20%                                        Hurdle"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "40%                                        Hurdle"
+		}
+	]
+}

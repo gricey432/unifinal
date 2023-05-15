@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Skill Building: Vocab, Grammar and Accidence",
+			"weight": 15
+		},
+		{
+			"name": "Skill Building: Translation, Parsing and Grammar",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Exam set timed on Blackboard",
+			"weight": 45
+		}
+	]
+}

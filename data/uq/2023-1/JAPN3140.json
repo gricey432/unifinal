@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement questionnaire",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "Worksheets",
+			"weight": 20
+		},
+		{
+			"name": "In-class mid-semester exam (Zoom)",
+			"weight": 40
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

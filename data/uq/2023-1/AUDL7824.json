@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Peer critique of case studies",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "IQIPP report",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Clinical placement records",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Online telehealth viva examination",
+			"weight": "Pass/Fail"
+		}
+	]
+}

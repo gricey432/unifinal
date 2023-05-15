@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Three reflection tasks on digital health learnings",
+			"weight": 20
+		},
+		{
+			"name": "Policy review related to digital health",
+			"weight": 40
+		},
+		{
+			"name": "Video presentation",
+			"weight": 40
+		}
+	]
+}

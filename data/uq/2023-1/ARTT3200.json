@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Internship Overview",
+			"weight": "40%                                        800 words"
+		},
+		{
+			"name": "Internship - Industry-led research essay",
+			"weight": "60%                                        1200 words"
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": "40%                                        800 words"
+		},
+		{
+			"name": "Independent Study - Research Essay",
+			"weight": "60%                                        4000 words"
+		}
+	]
+}

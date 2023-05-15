@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1:Field Mapping at Kangaroo Point Cliff",
+			"weight": 15
+		},
+		{
+			"name": "In-class quizzes",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 2: Modelling of stope stability",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": "60%                                        Hurdle Rate: 40/100"
+		}
+	]
+}

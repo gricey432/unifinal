@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design thinking output",
+			"weight": "20%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Exploring and transforming data",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Business analytics solution",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

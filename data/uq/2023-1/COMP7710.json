@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Homeworks",
+			"weight": 60
+		},
+		{
+			"name": "Project Demonstration, Report, and Q&A",
+			"weight": 40
+		}
+	]
+}

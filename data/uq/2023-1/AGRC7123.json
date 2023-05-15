@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Case Study (Written Report - Zoom)",
+			"weight": 40
+		},
+		{
+			"name": "Business Plan (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Business Plan Submission (Individual)",
+			"weight": 40
+		}
+	]
+}

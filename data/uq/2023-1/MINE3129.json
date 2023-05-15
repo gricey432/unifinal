@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Rock mechanical property testing",
+			"weight": 15
+		},
+		{
+			"name": "Slope failure mode analysis",
+			"weight": 15
+		},
+		{
+			"name": "Management of mine dynamic event- a review",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": "60%                                        Hurdle Rate: 40%"
+		}
+	]
+}

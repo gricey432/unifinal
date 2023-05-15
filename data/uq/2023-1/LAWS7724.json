@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Legal Brief",
+			"weight": "30%                                        2500 words"
+		},
+		{
+			"name": "Trial Submission",
+			"weight": "70%                                        5000 words"
+		}
+	]
+}

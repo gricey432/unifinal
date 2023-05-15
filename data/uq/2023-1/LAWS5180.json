@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical days AND induction and debrief sessions",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Student Learning Plan",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Initial Reflective Journal",
+			"weight": "Mandatory"
+		},
+		{
+			"name": "Final Reflection and testimonial",
+			"weight": "Mandatory"
+		}
+	]
+}

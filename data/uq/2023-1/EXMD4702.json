@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Logbooks",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Attributes Intermediate Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Attributes Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Critical Reflections",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Students as Practitioners Documentation",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Attributes Final Assessment",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

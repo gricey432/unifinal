@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final Project Presentation",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Internship Work Diary",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Project Reflection",
+			"weight": "Pass / Fail"
+		}
+	]
+}

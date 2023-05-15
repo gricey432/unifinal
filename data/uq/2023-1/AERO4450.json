@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 12
+		},
+		{
+			"name": "Report on Cold Gas Thruster Experiment",
+			"weight": 8
+		},
+		{
+			"name": "Major assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		}
+	]
+}

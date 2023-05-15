@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Illness Narrative Essay",
+			"weight": 50
+		},
+		{
+			"name": "Case Study",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 01",
+			"weight": 30
+		},
+		{
+			"name": "Assessment 02",
+			"weight": 70
+		}
+	]
+}

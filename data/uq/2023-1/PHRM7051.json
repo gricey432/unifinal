@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Business or service development proposal outline",
+			"weight": 12
+		},
+		{
+			"name": "Module 1-3 Discussion, Presentation, Blogs",
+			"weight": "24%                                        8% per module"
+		},
+		{
+			"name": "Review of business plan proposal",
+			"weight": 18
+		},
+		{
+			"name": "Business Proposal",
+			"weight": 46
+		}
+	]
+}

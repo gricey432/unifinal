@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Mid-Semester Exam",
+			"weight": "30%                                        Individual"
+		},
+		{
+			"name": "Case Study",
+			"weight": "20%                                        Individual"
+		},
+		{
+			"name": "Final Exam Invigilated On-Campus.",
+			"weight": "50%                                        Individual"
+		}
+	]
+}

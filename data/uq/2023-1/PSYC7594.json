@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Class presentation and infographic",
+			"weight": 40
+		},
+		{
+			"name": "Group Class presentation",
+			"weight": 30
+		},
+		{
+			"name": "Written Assignment: Leadership report/article",
+			"weight": 30
+		}
+	]
+}

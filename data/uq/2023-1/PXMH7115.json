@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "[AT Students] 2 Artworks for Exhibition",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Attendance in Supervisory Meeting",
+			"weight": "Hurdle"
+		},
+		{
+			"name": "[PSY & AT Students] Research Paradigms",
+			"weight": 40
+		},
+		{
+			"name": "[PSY & AT Students] Research Proposal",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Exhibition poster and introduction text",
+			"weight": 30
+		},
+		{
+			"name": "Exhibition Review",
+			"weight": 30
+		},
+		{
+			"name": "Exhibition proposal",
+			"weight": 40
+		}
+	]
+}

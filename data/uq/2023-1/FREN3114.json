@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Course placement",
+			"weight": "0%                                        Hurdle"
+		},
+		{
+			"name": "Crime narrative and reflection",
+			"weight": 20
+		},
+		{
+			"name": "Listening exam in class time",
+			"weight": 30
+		},
+		{
+			"name": "Detective narrative",
+			"weight": 50
+		}
+	]
+}

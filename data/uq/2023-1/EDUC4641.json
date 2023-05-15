@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lesson Planning & Microteaching presentation",
+			"weight": "20%                                        15 minutes"
+		},
+		{
+			"name": "Learning and teaching sequence and assessment task",
+			"weight": "50%                                        3,000 words"
+		},
+		{
+			"name": "Professional engagement and communication",
+			"weight": "30%                                         250 word Abstract / 10 minute presentation / 1500 word report & 250 word reflection"
+		}
+	]
+}

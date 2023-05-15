@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Data processing and modelling",
+			"weight": 25
+		},
+		{
+			"name": "Computer Exercise on Data-driven Methods",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

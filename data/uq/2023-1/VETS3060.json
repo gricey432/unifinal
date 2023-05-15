@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Skills list",
+			"weight": "pass/ fail"
+		},
+		{
+			"name": "Mid Semester 1 exam",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester 2 exam",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester 1 Exam",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester 2 exam",
+			"weight": 30
+		}
+	]
+}

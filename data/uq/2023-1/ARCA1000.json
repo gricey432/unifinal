@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Site Brief",
+			"weight": 20
+		},
+		{
+			"name": "Pseuoarchaeology Case Study",
+			"weight": 30
+		},
+		{
+			"name": "Key Questions in Archaeology",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meaningful use of PA to support learning",
+			"weight": "30%                                        2000 words"
+		},
+		{
+			"name": "Facilitating a Physical Activity Session",
+			"weight": "50%                                        20% Plan (group); 20% teach (group); 10% critique (individual)"
+		},
+		{
+			"name": "Physical activity biography and future teaching",
+			"weight": "20%                                        1500 words"
+		}
+	]
+}

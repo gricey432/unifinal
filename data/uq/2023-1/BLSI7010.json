@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Service interaction observation logs",
+			"weight": 20
+		},
+		{
+			"name": "Technology insight brief",
+			"weight": "35%                                        2,000-3,000 words"
+		},
+		{
+			"name": "Technology integration pitch",
+			"weight": "45%                                        15-20 minute pitch presentation + extended pitch deck"
+		}
+	]
+}

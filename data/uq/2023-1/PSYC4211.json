@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "One-page Infographic",
+			"weight": 20
+		},
+		{
+			"name": "Group presentation on an organisational problem",
+			"weight": 30
+		},
+		{
+			"name": "In-class Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Essay on Leadership and Organisational Psychology",
+			"weight": 30
+		},
+		{
+			"name": "Type of Assessment",
+			"weight": "Link"
+		},
+		{
+			"name": "Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Quiz",
+			"weight": "NA - no extensions possible for this piece of assessment."
+		},
+		{
+			"name": "Infographic",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

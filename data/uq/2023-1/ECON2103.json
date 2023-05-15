@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Preparation",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester Online Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 35
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "",
+			"weight": ""
+		},
+		{
+			"name": "",
+			"weight": ""
+		}
+	]
+}

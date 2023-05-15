@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Questions",
+			"weight": 50
+		},
+		{
+			"name": "Sports Nutrition Multimedia Task",
+			"weight": 30
+		},
+		{
+			"name": "Review of Sports Food",
+			"weight": 20
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Verbal Presentation of Select Bibliography",
+			"weight": "30%                                        IVAH"
+		},
+		{
+			"name": "Essay on Selected Question",
+			"weight": 60
+		}
+	]
+}

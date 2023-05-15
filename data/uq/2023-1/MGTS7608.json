@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Study Analysis",
+			"weight": "35%                                        Group; Peer Assessment"
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": "35%                                        Individual assessment"
+		},
+		{
+			"name": "Written Essay",
+			"weight": "30%                                        Individual; 1,500 words"
+		}
+	]
+}

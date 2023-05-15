@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Reasoning and Reflective Practice",
+			"weight": "50%                                        2000 words"
+		},
+		{
+			"name": "Oral Viva",
+			"weight": 50
+		}
+	]
+}

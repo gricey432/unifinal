@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review",
+			"weight": 35
+		},
+		{
+			"name": "Research voyage proposal",
+			"weight": 45
+		},
+		{
+			"name": "Online tests",
+			"weight": "20%                                        (2x 10%)"
+		}
+	]
+}

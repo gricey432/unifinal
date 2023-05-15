@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "5 in 5 Science course",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Animal management-husbandry online placement tool",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Farm Safety Training Course",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Animal Behaviour Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Practical exam - handling common domestic animals",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End of Semester 1 theory examination",
+			"weight": 60
+		},
+		{
+			"name": "End of Semester 2 theory examination",
+			"weight": 25
+		}
+	]
+}

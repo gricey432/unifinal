@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Engagement tasks",
+			"weight": 10
+		},
+		{
+			"name": "Dispensing portfolio",
+			"weight": "10%                                        Hurdle to pass the course"
+		},
+		{
+			"name": "Simulated in-service presentation (team)",
+			"weight": 20
+		},
+		{
+			"name": "Objective Structured Clinical Exam (OSCE)",
+			"weight": "30%                                        Hurdle to pass the course"
+		},
+		{
+			"name": "Exam",
+			"weight": "30%                                        Hurdle to pass the course"
+		}
+	]
+}

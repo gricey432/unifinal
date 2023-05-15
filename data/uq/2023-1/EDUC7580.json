@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1: Theory to Practice Essay",
+			"weight": "20%                                        1500 words"
+		},
+		{
+			"name": "Assessment Task 2: Group Unit Plan",
+			"weight": "50%                                        3000 words"
+		},
+		{
+			"name": "Assessment Task 3: Co-Teaching Demonstration",
+			"weight": "30%                                        1500 words"
+		}
+	]
+}

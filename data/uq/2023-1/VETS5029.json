@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical EMS Performance",
+			"weight": 50
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		},
+		{
+			"name": "EMS Reflection",
+			"weight": "P/F"
+		},
+		{
+			"name": "Fifth year skills list",
+			"weight": "P/F"
+		},
+		{
+			"name": "New Graduate Tips and Tricks",
+			"weight": 20
+		},
+		{
+			"name": "Preparation for Professional Practice",
+			"weight": 10
+		}
+	]
+}

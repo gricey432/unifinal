@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical evaluation of an equine health issue",
+			"weight": 35
+		},
+		{
+			"name": "Objective evaluation of weaning",
+			"weight": 35
+		},
+		{
+			"name": "Objective assessment of an equine welfare topic",
+			"weight": 30
+		}
+	]
+}

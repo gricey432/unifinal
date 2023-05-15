@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism development blog",
+			"weight": "40%                                        Individual"
+		},
+		{
+			"name": "Critical essays",
+			"weight": "60%                                        Individual"
+		}
+	]
+}

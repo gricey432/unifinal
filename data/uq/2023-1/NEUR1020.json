@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Module Assignments",
+			"weight": 45
+		},
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "Final Exam",
+			"weight": 15
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Module Assignments",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": "https://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Final Exam",
+			"weight": "https://my.uq.edu.au/node/189/3#3"
+		}
+	]
+}

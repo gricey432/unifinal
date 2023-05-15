@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Definition of issue or problem for client",
+			"weight": 10
+		},
+		{
+			"name": "Project Brief",
+			"weight": 10
+		},
+		{
+			"name": "Literature review based on the project brief",
+			"weight": 15
+		},
+		{
+			"name": "Group Peer Assessment Semester 1",
+			"weight": "0%                                        Formative but compulsory"
+		},
+		{
+			"name": "Presentation to Client",
+			"weight": 10
+		},
+		{
+			"name": "Group Peer Assessment Semester 2",
+			"weight": "10%                                        Summative and compulsory"
+		},
+		{
+			"name": "Final Project Report",
+			"weight": 40
+		},
+		{
+			"name": "Staff appraisal of participation and contribution",
+			"weight": "5%                                        Pass / fail"
+		}
+	]
+}

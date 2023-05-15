@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Skill Competency Check List (MUST PASS)",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Skill Video",
+			"weight": 15
+		},
+		{
+			"name": "Case Study",
+			"weight": 15
+		},
+		{
+			"name": "Final Prac Exam",
+			"weight": 35
+		},
+		{
+			"name": "Theory Exam",
+			"weight": 35
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reading Reflections",
+			"weight": 30
+		},
+		{
+			"name": "Major Essay (3,000 word)",
+			"weight": 40
+		},
+		{
+			"name": "Take Home Assignment",
+			"weight": 30
+		}
+	]
+}

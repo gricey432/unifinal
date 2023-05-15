@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Knowledge Basket Storied Reflections x 4",
+			"weight": 40
+		},
+		{
+			"name": "Critical Review 1",
+			"weight": 15
+		},
+		{
+			"name": "Critical Review 2",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Presentation",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Study Online Task",
+			"weight": 20
+		},
+		{
+			"name": "Project Project Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Research Project Write-Up",
+			"weight": 50
+		}
+	]
+}

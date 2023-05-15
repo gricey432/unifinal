@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Repertoire Identification Test",
+			"weight": 30
+		},
+		{
+			"name": "Assessment Task 2 - Rehearsal Demonstration",
+			"weight": "20%                                        15-20 min. conducting"
+		},
+		{
+			"name": "4. Engagement and Participation",
+			"weight": 10
+		},
+		{
+			"name": "Formal Examination",
+			"weight": 40
+		}
+	]
+}

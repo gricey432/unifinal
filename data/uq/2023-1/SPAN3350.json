@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "FIVE (5) TASKS On-line",
+			"weight": "25%                                        5% X 5 = 25%"
+		},
+		{
+			"name": "MODULE 1 - ESSAY 1",
+			"weight": 25
+		},
+		{
+			"name": "MODULE 2 - ESSAY 2",
+			"weight": 25
+		},
+		{
+			"name": "MODULE 3 - ESSAY 3",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Trading Simulation (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Hedging Simulation Report",
+			"weight": 30
+		},
+		{
+			"name": "Hedging Simulation",
+			"weight": 10
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

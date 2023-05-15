@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 10
+		},
+		{
+			"name": "Paper Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Individual Project - Implementation and Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 60
+		},
+		{
+			"name": "Permitted use",
+			"weight": ""
+		},
+		{
+			"name": "A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.",
+			"weight": ""
+		},
+		{
+			"name": "Permitted use",
+			"weight": ""
+		},
+		{
+			"name": "A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.",
+			"weight": ""
+		}
+	]
+}

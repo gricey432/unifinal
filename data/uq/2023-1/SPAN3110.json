@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tareas evaluadas/Worksheets",
+			"weight": "20%                                        (5% each task)"
+		},
+		{
+			"name": "Grammar Task 1",
+			"weight": 25
+		},
+		{
+			"name": "Oral group presentation",
+			"weight": 30
+		},
+		{
+			"name": "Grammar exam",
+			"weight": 25
+		}
+	]
+}

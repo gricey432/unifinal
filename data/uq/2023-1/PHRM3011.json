@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Dispensing Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Community Pharmacy Placements (weeks 5-10)",
+			"weight": 20
+		},
+		{
+			"name": "Inter-Professional Practice",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "Oral Consultation Exam",
+			"weight": 25
+		},
+		{
+			"name": "Online Closed-Book Inspera Exam (invigilated)",
+			"weight": 35
+		}
+	]
+}

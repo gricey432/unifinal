@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Radio and TV News stories",
+			"weight": "40%                                        Minimum 90 seconds (two news packages)"
+		},
+		{
+			"name": "Short-form audio or video documentary",
+			"weight": "60%                                        Less than 8 minutes"
+		}
+	]
+}

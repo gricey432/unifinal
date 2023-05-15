@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Inductions",
+			"weight": "Pass/Fail Hurdle"
+		},
+		{
+			"name": "Polymer Wiki",
+			"weight": 4
+		},
+		{
+			"name": "Review of other student's Wiki pages",
+			"weight": 2
+		},
+		{
+			"name": "Practical 1 Lab report - Polymer identification",
+			"weight": 6
+		},
+		{
+			"name": "Practical 2 Lab report - Polymer melting/blending",
+			"weight": 6
+		},
+		{
+			"name": "Practical 4 lab assessment",
+			"weight": 2
+		},
+		{
+			"name": "Practical 3 Lab report - Mechanical properties",
+			"weight": 10
+		},
+		{
+			"name": "Polymer materials selection",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": "45%                                        hurdle"
+		}
+	]
+}

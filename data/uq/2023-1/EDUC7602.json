@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "AT1 Professional Experience Statement",
+			"weight": "0%                                        Pass/Fail"
+		},
+		{
+			"name": "AT2 Critical Review of the Literature",
+			"weight": "50%                                        2500 words"
+		},
+		{
+			"name": "AT3 Design and Presentation of a Numeracy Task",
+			"weight": "50%                                        2500 words + 10 minute presentation"
+		},
+		{
+			"name": "AT4 Attendance and Participation Log",
+			"weight": "0%                                        1000 words     Pass/Fail"
+		}
+	]
+}

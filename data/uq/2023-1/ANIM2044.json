@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Poultry farm visit- Report 1 /In-Lieu Assignment 1",
+			"weight": 20
+		},
+		{
+			"name": "Piggery farm visit - Report 2/In-Lieu Assignment 2",
+			"weight": 20
+		},
+		{
+			"name": "Online invigilated exam - Poultry Module",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam Online Invigilated - Pig Module",
+			"weight": 30
+		}
+	]
+}

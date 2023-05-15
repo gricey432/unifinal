@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Revision Quiz of Statics",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Risk Assessment Report",
+			"weight": 4
+		},
+		{
+			"name": "Integrated Assignment Report",
+			"weight": 16
+		},
+		{
+			"name": "Final Exam",
+			"weight": "55%                                        Materials Part 40%, Structures Part 15%"
+		}
+	]
+}

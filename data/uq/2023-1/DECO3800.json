@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Design process documentation and reflection",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Project",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Studio Portfolio",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Assessment & weight",

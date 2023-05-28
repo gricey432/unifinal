@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Data Analysis Plan",
-			"weight": "10%                                        Must Pass"
+			"weight": 10
 		},
 		{
 			"name": "Discipline-specific DMFR Case Presentation",
-			"weight": "25%                                        Must Pass"
+			"weight": 25
 		},
 		{
 			"name": "Discipline-specific Literature Review",
-			"weight": "35%                                        Must Pass"
+			"weight": 35
 		},
 		{
 			"name": "Research Proposal Presentation",
-			"weight": "30%                                        Must Pass"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

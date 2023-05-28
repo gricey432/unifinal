@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Fluency Disorders Mid-Semester Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Stuttering Simulation Assessment (Module 1)",
-			"weight": "15%                                        Pass/Fail MUST PASS"
+			"weight": 15
 		},
 		{
 			"name": "Fluency Disorders End-of-Semester Exam",

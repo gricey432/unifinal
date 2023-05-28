@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Legal perspectives in cyber security",
-			"weight": "30%                                        Individual; 3,500 Words"
+			"weight": 30
 		},
 		{
 			"name": "Organisational cyber security report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Application of cybersec org & legal principles",
-			"weight": "40%                                        Group; Peer Assessment"
+			"weight": 40
 		}
 	]
 }

@@ -6,19 +6,19 @@
 		},
 		{
 			"name": "Practical Report 1: Soil carbon",
-			"weight": "10%                                        Individual report"
+			"weight": 10
 		},
 		{
 			"name": "Practical Report 3: Fertility Status of Soil",
-			"weight": "15%                                        Group Report"
+			"weight": 15
 		},
 		{
 			"name": "Practical Report 2: Water Use by Plants",
-			"weight": "10%                                        Group Report"
+			"weight": 10
 		},
 		{
 			"name": "Review of selected topic",
-			"weight": "15%                                        Individual report"
+			"weight": 15
 		},
 		{
 			"name": "Final Examination",

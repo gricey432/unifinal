@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Design Workshop",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Design Project: Design Recommendations Report",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		}
 	]
 }

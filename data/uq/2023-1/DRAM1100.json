@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Live Performance Review",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Group Performance (OR Secondment)",
-			"weight": "20%                                        10 minutes"
+			"weight": 20
 		}
 	]
 }

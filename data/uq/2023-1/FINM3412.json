@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Investment Valuation Project and Presentation",
-			"weight": "65%                                        Team/Individual"
+			"weight": 65
 		},
 		{
 			"name": "Formative Peer Assessment",

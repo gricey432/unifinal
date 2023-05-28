@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Mini-Quizzes",
-			"weight": "20%                                        (4% each, best 5 out of 6 quizzes)"
+			"weight": 20
 		},
 		{
 			"name": "R Project",

@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Team presentation",
-			"weight": "40%                                        Team"
+			"weight": 40
 		},
 		{
 			"name": "Critical Case Analysis",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		}
 	]
 }

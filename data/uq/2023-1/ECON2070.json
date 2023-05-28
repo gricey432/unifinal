@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Review Questions",
-			"weight": "10%                                        (throughout the semester)"
+			"weight": 10
 		},
 		{
 			"name": "Game Theory in Action",
@@ -10,19 +10,19 @@
 		},
 		{
 			"name": "Online Test 1",
-			"weight": "20%                                        (Best 3 out of 4 Online Tests)"
+			"weight": 20
 		},
 		{
 			"name": "Online Test 2",
-			"weight": "20%                                        (Best 3 out of 4 Online Tests)"
+			"weight": 20
 		},
 		{
 			"name": "Online Test 3",
-			"weight": "20%                                        (Best 3 out of 4 Online Tests)"
+			"weight": 20
 		},
 		{
 			"name": "Online Test 4",
-			"weight": "20%                                        (Best 3 out of 4 Online Tests)"
+			"weight": 20
 		},
 		{
 			"name": "A penalty of 10% of the maximum possible mark allocated for the assessment item will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",

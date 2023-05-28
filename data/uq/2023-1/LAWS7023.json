@@ -5,15 +5,15 @@
 			"weight": 10
 		},
 		{
-			"name": "15% Business Law IL&AC Submission (15%)",
+			"name": 15,
 			"weight": 15
 		},
 		{
-			"name": "25% Business Law IL&AC Assignment",
+			"name": 25,
 			"weight": 25
 		},
 		{
-			"name": "50% Corporate Law Final Exam",
+			"name": 50,
 			"weight": 50
 		}
 	]

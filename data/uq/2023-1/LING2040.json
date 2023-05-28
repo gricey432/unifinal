@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Worksheets",
-			"weight": "50%                                        10 worksheets"
+			"weight": 50
 		},
 		{
 			"name": "Tutorial participation",

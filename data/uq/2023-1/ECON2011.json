@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Assignment",
-			"weight": "16%                                        2% per assignment -                                                    (Best 8 of 10)"
+			"weight": 16
 		},
 		{
 			"name": "Problem set 1",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Pre-Workshop Quizzes",
-			"weight": "30%                                        (best 8 of 11)"
+			"weight": 30
 		},
 		{
 			"name": "Post-Tutorial Quiz 1",

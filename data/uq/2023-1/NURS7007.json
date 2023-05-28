@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "IPP 12 hours",
-			"weight": "0%                                        Complete / Incomplete"
+			"weight": 0
 		}
 	]
 }

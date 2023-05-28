@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Tutorial preparation",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Homework assignment",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Quiz",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Central Bank Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

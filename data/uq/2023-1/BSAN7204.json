@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Exploratory Data Analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Analytics Practice",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Technical Report and Stakeholder Presentation",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical Skills Videos",
-			"weight": "10%                                        30 marks"
+			"weight": 10
 		},
 		{
 			"name": "Case Study",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "50%                                        150 marks"
+			"weight": 50
 		}
 	]
 }

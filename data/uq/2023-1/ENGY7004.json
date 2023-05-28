@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Investment Evaluation",
-			"weight": "50%                                        Hurdle"
+			"weight": 50
 		},
 		{
 			"name": "Oral Examination",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		}
 	]
 }

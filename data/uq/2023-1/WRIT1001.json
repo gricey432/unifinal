@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Online Module Participation",
-			"weight": "15%                                        Flexible according to % online activity completion rate"
+			"weight": 15
 		},
 		{
 			"name": "Essay Plan",

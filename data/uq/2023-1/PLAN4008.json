@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Planning Thesis",
-			"weight": "100%                                        8~12,000 words"
+			"weight": 100
 		}
 	]
 }

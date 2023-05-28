@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Problem Solving Exercises",
-			"weight": "30%                                        10% x best 3 out of 5"
+			"weight": 30
 		},
 		{
 			"name": "Analysis of Data and Short Report",
-			"weight": "30%                                        10% x best 3 out of 5"
+			"weight": 30
 		},
 		{
 			"name": "Project I: Assignment and Brief Research Report",

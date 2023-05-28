@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Primary Source Analysis",
-			"weight": "15%                                        500 words"
+			"weight": 15
 		},
 		{
 			"name": "Essay",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Exam",
-			"weight": "35%                                        1000 words"
+			"weight": 35
 		}
 	]
 }

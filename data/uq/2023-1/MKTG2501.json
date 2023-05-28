@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Consumer Behaviour Case Study",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "School-based examination",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

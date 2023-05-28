@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly summary and reflection",
-			"weight": "20%                                        (2 points x 10 submissions)"
+			"weight": 20
 		},
 		{
 			"name": "Essay Writing 1",

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "4000 words of independent writing",
-			"weight": "100%                                        4000 words"
+			"weight": 100
 		}
 	]
 }

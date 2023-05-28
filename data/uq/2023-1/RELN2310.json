@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Essays (1200 words each excluding references)",
-			"weight": "80%                                        best 2 of 3 essays (40% each)"
+			"weight": 80
 		},
 		{
 			"name": "Weekly reading responses (150 words)",

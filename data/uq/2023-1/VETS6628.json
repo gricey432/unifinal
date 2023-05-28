@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Student participation",
-			"weight": "10%                                        of final course mark"
+			"weight": 10
 		},
 		{
 			"name": "Honours final seminar",
-			"weight": "20%                                        of final course mark"
+			"weight": 20
 		},
 		{
 			"name": "Honours Thesis",
-			"weight": "70%                                        of final course mark"
+			"weight": 70
 		}
 	]
 }

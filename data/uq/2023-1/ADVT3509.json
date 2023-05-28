@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Research Insight Report",
-			"weight": "30%                                        Individual; 1,500 words"
+			"weight": 30
 		},
 		{
 			"name": "Advertising Campaign Pitch",
-			"weight": "40%                                        Group Work; Peer Assessment"
+			"weight": 40
 		},
 		{
 			"name": "Learning Reflection",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

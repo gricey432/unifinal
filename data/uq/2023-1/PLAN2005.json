@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "One-Minute-Paper (OMP)",
-			"weight": "5%                                        1% each"
+			"weight": 5
 		},
 		{
 			"name": "Paper and presentation",
-			"weight": "50%                                        30% (paper), 18% (presentation), 2% (serving in peer panel)"
+			"weight": 50
 		},
 		{
 			"name": "Online Quiz",

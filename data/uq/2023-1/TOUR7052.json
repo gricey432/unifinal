@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Review Quizzes",
-			"weight": "30%                                        Best 3 of 4"
+			"weight": 30
 		},
 		{
 			"name": "Airline Simulation",

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Analysis of trends in educational work contexts",
-			"weight": "40%                                        2000 Words"
+			"weight": 40
 		},
 		{
 			"name": "Critical analysis of an issue(s) from the course",
-			"weight": "60%                                        3000 words"
+			"weight": 60
 		}
 	]
 }

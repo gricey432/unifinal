@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Business writing portfolio",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Conference paper",
-			"weight": "40%                                        Individual; 1,500 words"
+			"weight": 40
 		},
 		{
 			"name": "Business pitch",
-			"weight": "30%                                        Individual; 5 minute"
+			"weight": 30
 		}
 	]
 }

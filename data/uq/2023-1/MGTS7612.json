@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Recruitment & Selection Strategy Presentation",
-			"weight": "30%                                        Group"
+			"weight": 30
 		},
 		{
 			"name": "Recruitment & Selection Strategy",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Recruitment and Selection",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

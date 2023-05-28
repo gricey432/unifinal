@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Non-cumulative Review Quizzes",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Elevator Pitch",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Client Event Proposal",
-			"weight": "45%                                        Group Work"
+			"weight": 45
 		}
 	]
 }

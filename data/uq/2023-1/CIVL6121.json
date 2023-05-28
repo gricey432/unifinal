@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Hydrodynamics and water quality of an estuary",
-			"weight": "40%                                        Compulsory"
+			"weight": 40
 		},
 		{
 			"name": "Project peer assessment",

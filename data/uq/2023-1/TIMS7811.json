@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case Study Presentation",
-			"weight": "25%                                        Team; 15 mins + Q&A"
+			"weight": 25
 		},
 		{
 			"name": "Reflection on simulation exercise",
-			"weight": "25%                                        Individual; 2,000 Words"
+			"weight": 25
 		},
 		{
 			"name": "Consulting Report",
-			"weight": "50%                                        Individual; 2,500 - 3,500 words"
+			"weight": 50
 		}
 	]
 }

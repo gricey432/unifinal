@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Case Study",
-			"weight": "20%                                        Individual; 2,000 Words"
+			"weight": 20
 		},
 		{
 			"name": "Mid-semester Examination",

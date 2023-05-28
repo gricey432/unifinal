@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Asian Country Analysis - Oral Presentation",
-			"weight": "20%                                        Team"
+			"weight": 20
 		},
 		{
 			"name": "Business in Asian Region",
-			"weight": "40%                                        2,000 Words; Individual"
+			"weight": 40
 		},
 		{
 			"name": "Take Home Assessment",

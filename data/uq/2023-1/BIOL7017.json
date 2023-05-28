@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Mid Semester Theory Exam",
-			"weight": "0% or 15%"
+			"weight": 0
 		},
 		{
 			"name": "Disease Collection",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "End of Semester Exam - On Campus Invigilated",
-			"weight": "40% or 55%"
+			"weight": 40
 		}
 	]
 }

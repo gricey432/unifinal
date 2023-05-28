@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Hand Hygiene Module",
-			"weight": "0%                                        PASS/FAIL"
+			"weight": 0
 		},
 		{
 			"name": "Preclinic induction",
-			"weight": "0%                                        PASS/FAIL"
+			"weight": 0
 		},
 		{
 			"name": "Tooth Morphology Quiz",

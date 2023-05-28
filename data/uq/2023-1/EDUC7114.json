@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "'Lived curriculum' journal",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "Making a case for curriculum change",
-			"weight": "60%                                        3000 words OR a 15min recorded presentation"
+			"weight": 60
 		}
 	]
 }

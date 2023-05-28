@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Postgraduate Advanced Topic Literature Review",
-			"weight": "90%                                        of course mark"
+			"weight": 90
 		},
 		{
 			"name": "Outline of literature review",
-			"weight": "10%                                        of course mark"
+			"weight": 10
 		}
 	]
 }

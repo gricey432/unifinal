@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Spoken and written journal",
-			"weight": "20%                                        (4% x 5)"
+			"weight": 20
 		},
 		{
 			"name": "Writing assignment",
-			"weight": "20%                                        (5% + 15%)"
+			"weight": 20
 		},
 		{
 			"name": "In-class review of grammar and vocabulary",

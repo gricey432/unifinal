@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Communication research thesis",
-			"weight": "100%                                        12,000 words"
+			"weight": 100
 		},
 		{
 			"name": "Thesis plan (milestone task)",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Communication project and exegesis",
-			"weight": "100%                                        Exegesis 6000 words"
+			"weight": 100
 		}
 	]
 }

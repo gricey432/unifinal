@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Practical Clinical Examination and Viva",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "End of Semester 1 exam",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester 2 Exam",
-			"weight": "36%                                        Hurdle"
+			"weight": 36
 		}
 	]
 }

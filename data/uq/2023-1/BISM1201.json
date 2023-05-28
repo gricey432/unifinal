@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Information Systems Theory and Excel",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Individual; 2 hours"
+			"weight": 50
 		}
 	]
 }

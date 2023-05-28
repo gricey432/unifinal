@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Infographic + Essay",
-			"weight": "30%                                        1100 words"
+			"weight": 30
 		},
 		{
 			"name": "Product + Explanation",
-			"weight": "30%                                        700 words"
+			"weight": 30
 		},
 		{
 			"name": "Science Journal + Reflection",
-			"weight": "40%                                        2500 words"
+			"weight": 40
 		}
 	]
 }

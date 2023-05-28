@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Key shifts in CSC Theory",
-			"weight": "45%                                        2500 Words"
+			"weight": 45
 		},
 		{
 			"name": "Essay: A Critique of participatory Communications",
-			"weight": "45%                                        2500 Words"
+			"weight": 45
 		}
 	]
 }

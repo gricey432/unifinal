@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "MCQ + RiPPLE",
-			"weight": "30%                                        (Best 9 of 12)"
+			"weight": 30
 		},
 		{
 			"name": "Country Report",

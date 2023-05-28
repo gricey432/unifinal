@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "SCE - Part A (Obstetrics) & Part B (Gynaecology)",
-			"weight": "60%                                        Also a Performance Hurdle: May reduce grade regardless of course mark and may lead to fail"
+			"weight": 60
 		},
 		{
 			"name": "MCQ Exam Part A(Obstetrics) & Part B (Gynaecology)",
-			"weight": "40%                                        Also a Performance Hurdle: May reduce grade regardless of course mark and may lead to fail"
+			"weight": 40
 		},
 		{
 			"name": "WBA - Part A (Obstetrics) & Part B (Gynaecology)",

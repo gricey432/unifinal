@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Assessment 2: Survey Research Report",
-			"weight": "35%                                        1500 words"
+			"weight": 35
 		},
 		{
 			"name": "Assessment 3: Content Analysis Report",
-			"weight": "45%                                        2000 words"
+			"weight": 45
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Computational Project",
-			"weight": "10%                                        +10% bonus"
+			"weight": 10
 		},
 		{
 			"name": "Laboratory written reports",

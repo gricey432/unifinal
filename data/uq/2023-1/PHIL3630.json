@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Essay proposal",
-			"weight": "10%                                        500 words"
+			"weight": 10
 		},
 		{
 			"name": "Essay",
-			"weight": "50%                                        3000 words"
+			"weight": 50
 		}
 	]
 }

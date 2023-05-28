@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Project Plan by Group",
-			"weight": "20%                                        Part A (10%): Written submission by group of up to 2,000 words; Part B (10%): Group Presentation"
+			"weight": 20
 		},
 		{
 			"name": "The Final Report",
-			"weight": "50%                                        Group"
+			"weight": 50
 		},
 		{
 			"name": "Individual Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

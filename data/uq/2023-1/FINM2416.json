@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Free Cash Flow Valuation of a Company",
-			"weight": "25%                                        Individual; 1200 words maximum"
+			"weight": 25
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

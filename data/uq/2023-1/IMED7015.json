@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Clinical Case Management Presentations",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		},
 		{
 			"name": "Case Essay Peer Review",
-			"weight": "10%                                        Pass Mark 60%"
+			"weight": 10
 		},
 		{
 			"name": "Case Study Essay",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		},
 		{
 			"name": "Final Examination",
-			"weight": "30%                                        Pass Mark 60%"
+			"weight": 30
 		}
 	]
 }

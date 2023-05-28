@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "A01: Analysis of an existing building",
-			"weight": "20%                                        Group work"
+			"weight": 20
 		},
 		{
 			"name": "A02: Technical drawings: initial review",
-			"weight": "30%                                        Individual (IVAH)"
+			"weight": 30
 		},
 		{
 			"name": "A03: Technical drawings: construction set",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

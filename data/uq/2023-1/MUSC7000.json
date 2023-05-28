@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Initial Project Outline",
-			"weight": "0%                                        Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Evidence of Human Research Ethics Approval",
-			"weight": "0%                                        Hurdle - if required"
+			"weight": 0
 		},
 		{
 			"name": "Literature review or equivalent",
-			"weight": "0%                                        Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Thesis submission",

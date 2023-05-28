@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Module 1 Activities",
-			"weight": "10%                                        P/F Integrity Module, 5% Reflection, 5% Motivational Interviewing video analysis"
+			"weight": 10
 		},
 		{
 			"name": "Group Work Participation and Tutorial Presentation",
-			"weight": "30%                                        GREEN Boards: 5% per Module, BLUE boards and tutorial presentations: 5% per module"
+			"weight": 30
 		},
 		{
 			"name": "Critical Appraisal of a journal article",

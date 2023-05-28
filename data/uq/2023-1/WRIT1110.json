@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Short Writing Exercise (WE1)",
-			"weight": "16%                                        500 words"
+			"weight": 16
 		},
 		{
 			"name": "Short Writing Exercise (WE2)",
-			"weight": "16%                                        700 words"
+			"weight": 16
 		},
 		{
 			"name": "Completed final short story",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

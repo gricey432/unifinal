@@ -46,7 +46,7 @@
 		},
 		{
 			"name": "Research Project Proposal",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Research Analysis Assignment",

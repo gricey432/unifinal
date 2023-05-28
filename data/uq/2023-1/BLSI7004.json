@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Customer Experience (CX) Essay",
-			"weight": "20%                                        1,500 words"
+			"weight": 20
 		},
 		{
 			"name": "Customer Journey Map (CJM)",
-			"weight": "30%                                        1,000  1,500 words + Map"
+			"weight": 30
 		},
 		{
 			"name": "Managerial Report and Employee Video",
-			"weight": "50%                                        1,500 words"
+			"weight": 50
 		}
 	]
 }

@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Perceptual assessment of vocal function",
-			"weight": "20%                                        some components MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Voice Simulation Clinic",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Theory Exam",
-			"weight": "60%                                         MUST PASS"
+			"weight": 60
 		}
 	]
 }

@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Work in Progress Presentation",
-			"weight": "15%                                        + PAF*"
+			"weight": 15
 		},
 		{
 			"name": "Group Ethics Application",
-			"weight": "30%                                        + PAF*"
+			"weight": 30
 		},
 		{
 			"name": "Group Research Proposal",
-			"weight": "35%                                        + PAF*"
+			"weight": 35
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Teaching Mathematics Essay",
-			"weight": "30%                                        2000 words (+/- 10%)"
+			"weight": 30
 		},
 		{
 			"name": "Mathematics Competency Task",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Video presentation and research brief",
-			"weight": "40%                                        3 min video (+/- 30 secs) & 1000 words (+/1 10%)"
+			"weight": 40
 		}
 	]
 }

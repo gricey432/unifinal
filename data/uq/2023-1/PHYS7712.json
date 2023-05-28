@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Outline of research",
-			"weight": "0%                                        pass/resubmit/fail (100% penalty for fail/non-submission)"
+			"weight": 0
 		},
 		{
 			"name": "Research report",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Oral Examination",
-			"weight": "0%                                        (Helps examiners determine thesis grade)"
+			"weight": 0
 		}
 	]
 }

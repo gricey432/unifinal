@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Report on Thematic Analysis - Individual",
-			"weight": "35%                                        1,500 words"
+			"weight": 35
 		},
 		{
 			"name": "CDA project proposal",
-			"weight": "15%                                        1 page"
+			"weight": 15
 		},
 		{
 			"name": "End-of-Semester Online Quiz",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "CDA Project Report",
-			"weight": "35%                                        2,500 words"
+			"weight": 35
 		}
 	]
 }

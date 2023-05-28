@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Task 1",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Task 2",
-			"weight": "70%                                        12,500-15,000 words"
+			"weight": 70
 		},
 		{
 			"name": "In the case where the final grade is 0.5 or above, the grade will be rounded up to the nearest whole number (e.g. 5.5 would become 6). In the case where the final grade is 0.49 or below, the grade will be rounded down to the nearest whole number (e.g. 6.49 would become 6).",

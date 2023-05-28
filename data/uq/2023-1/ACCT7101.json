@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "25%                                        Topics 1 to 4"
+			"weight": 25
 		},
 		{
 			"name": "Financial Report Analysis and Decision Making",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Final exam",
-			"weight": "50%                                        All topics"
+			"weight": 50
 		}
 	]
 }

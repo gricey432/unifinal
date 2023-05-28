@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Data Strategy for Service Innovation",
-			"weight": "40%                                        5 minutes"
+			"weight": 40
 		},
 		{
 			"name": "Data Visualization in Practice Report",
-			"weight": "40%                                        2,000-2,500 words (excluding Cover Page, Executive Summary, Tables, Appendices and References)"
+			"weight": 40
 		},
 		{
 			"name": "Evaluating Data Analytics Risks and Opportunities",
-			"weight": "20%                                        1000 words"
+			"weight": 20
 		}
 	]
 }

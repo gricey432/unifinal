@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Case Study Assignment - Assessment Plan",
-			"weight": "30%                                        (Must Pass)"
+			"weight": 30
 		},
 		{
 			"name": "Case Study Assignment - Intervention Plan",
-			"weight": "30%                                        (Must Pass)"
+			"weight": 30
 		},
 		{
 			"name": "Viva Examination",
-			"weight": "40%                                        (Must Pass)"
+			"weight": 40
 		}
 	]
 }

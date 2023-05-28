@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "A2. Video pitch",
-			"weight": "10%                                        Individual; speech"
+			"weight": 10
 		},
 		{
 			"name": "A1. Infographic Resume",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "A3. Professional Development Plan",
-			"weight": "35%                                        Individual; 1400 words"
+			"weight": 35
 		},
 		{
 			"name": "A4. Reflective Workplace Journals",
-			"weight": "40%                                        Individual; 1400 words"
+			"weight": 40
 		}
 	]
 }

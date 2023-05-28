@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Technology insight brief",
-			"weight": "35%                                        2,000-3,000 words"
+			"weight": 35
 		},
 		{
 			"name": "Technology integration pitch",
-			"weight": "45%                                        15-20 minute pitch presentation + extended pitch deck"
+			"weight": 45
 		}
 	]
 }

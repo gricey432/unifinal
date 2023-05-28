@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online Quizzes",
-			"weight": "50%                                        Attempt must be made at both quizzes to pass this course"
+			"weight": 50
 		},
 		{
 			"name": "Research Report",
-			"weight": "40%                                        Attempt must be made to pass this course"
+			"weight": 40
 		},
 		{
 			"name": "Media Diary",

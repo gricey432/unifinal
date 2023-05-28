@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        2200 words maximum"
+			"weight": 40
 		},
 		{
 			"name": "Online Open Book Final Examination - Invigilated",

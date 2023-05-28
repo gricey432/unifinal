@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Case Assessment Report",
-			"weight": "35%                                        Must Pass"
+			"weight": 35
 		},
 		{
 			"name": "Intervention Case Assignment",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Viva - Case Assignment Clinical Encounter",
-			"weight": "25%                                        Must Pass"
+			"weight": 25
 		}
 	]
 }

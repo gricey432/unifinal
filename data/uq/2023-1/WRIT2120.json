@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Short Pitch Document",
-			"weight": "10%                                        400 words"
+			"weight": 10
 		},
 		{
 			"name": "Film Treatment",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Screenplay Assignment",
-			"weight": "50%                                        2600 words"
+			"weight": 50
 		}
 	]
 }

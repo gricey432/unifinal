@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Course placement",
-			"weight": "0%                                        Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Crime narrative and reflection",

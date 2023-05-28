@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online midsemester exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Project Assignment",
-			"weight": "30%                                        Individual; 2,500 Words"
+			"weight": 30
 		},
 		{
 			"name": "Final Exam (Taken on Blackboard)",

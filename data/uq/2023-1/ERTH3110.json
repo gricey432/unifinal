@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Online tests",
-			"weight": "20%                                        (2x 10%)"
+			"weight": 20
 		}
 	]
 }

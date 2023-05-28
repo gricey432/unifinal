@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Power BI take home Assignment",
-			"weight": "25%                                        Individual; 1000 - 1200 words"
+			"weight": 25
 		},
 		{
 			"name": "Mid Semester Exam",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Business Analytics Case Study",
-			"weight": "40%                                        Individual; 1,800 - 2000 words"
+			"weight": 40
 		}
 	]
 }

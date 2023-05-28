@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assignment 1: Environmental issues in context",
-			"weight": "20%                                        1000-1500 words"
+			"weight": 20
 		},
 		{
 			"name": "Assignment 2: Environmental values",
-			"weight": "40%                                        2500-3000 words"
+			"weight": 40
 		},
 		{
 			"name": "Assignment 3: Internet based discussion series",

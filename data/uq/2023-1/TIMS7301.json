@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Pitch*, Video*, Autopsy*",
-			"weight": "40%                                        *Team"
+			"weight": 40
 		},
 		{
 			"name": "Across 4 key topics",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Emerging opportunities",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

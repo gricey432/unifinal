@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Exam",
-			"weight": "20%                                        Individual; During lecture time"
+			"weight": 20
 		},
 		{
 			"name": "Problem Sets Assignment",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "End-of-semester Examination",

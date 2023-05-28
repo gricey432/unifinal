@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case/Topic Analysis Assignment",
-			"weight": "25%                                        Group Presentation; Peer Assessment"
+			"weight": 25
 		},
 		{
 			"name": "Mid Semester Exam",
-			"weight": "25%                                        Timed examination"
+			"weight": 25
 		},
 		{
 			"name": "Final Exam",
-			"weight": "50%                                        Timed examination"
+			"weight": 50
 		}
 	]
 }

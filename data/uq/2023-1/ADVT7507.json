@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Google Ads Certification and Ethical Reflection",
-			"weight": "35%                                        Individual; Part A; Online modules; Part B; 1,500 word Reflection"
+			"weight": 35
 		},
 		{
 			"name": "Digital Advertising Plan",
-			"weight": "40%                                        Group; 3,500 words; Peer Assessment"
+			"weight": 40
 		}
 	]
 }

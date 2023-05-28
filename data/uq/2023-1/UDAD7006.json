@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Design Research Report + Proposal",
-			"weight": "30%                                        Individual Assignment"
+			"weight": 30
 		},
 		{
 			"name": "Strategic Urban Design Framework",
-			"weight": "70%                                        Hurdle"
+			"weight": 70
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Workbook",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Team Charter",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Week 4 Formative Feedback (Online Peer Assessment)",
-			"weight": "0%                                        Formative"
+			"weight": 0
 		},
 		{
 			"name": "Phase 1 (Schematic Design Report)",
@@ -30,11 +30,11 @@
 		},
 		{
 			"name": "Workshop Participation",
-			"weight": "0%                                        Pass/Fail Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Ethics Workshop",
-			"weight": "0%                                        Pass/Fail Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Project Discussion and Presentation",

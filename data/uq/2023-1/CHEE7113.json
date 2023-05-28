@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Individual exercise 1",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Project presentation Part A",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Individual exercise",
-			"weight": "10%                                        Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "Project presentation Part B",
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "Individual oral defence",
-			"weight": "30%                                        Hurdle"
+			"weight": 30
 		}
 	]
 }

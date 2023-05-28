@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Emerging Technology: Team presentation",
-			"weight": "10%                                        Team"
+			"weight": 10
 		},
 		{
 			"name": "Established Technology: Individual presentation",
-			"weight": "45%                                        Individual"
+			"weight": 45
 		},
 		{
 			"name": "Digital Transformation Hackathon",
-			"weight": "45%                                        Team; 10 mins; 1,000 Words"
+			"weight": 45
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "School-based Take Home Assignment",
-			"weight": "50%                                        Individual; 12 hours"
+			"weight": 50
 		},
 		{
 			"name": "Mid-Semester Exam",
-			"weight": "25%                                        Individual; 90 minutes"
+			"weight": 25
 		},
 		{
 			"name": "Case Study - Assignment",
-			"weight": "25%                                        Group"
+			"weight": 25
 		}
 	]
 }

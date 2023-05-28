@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "EOS Consultation Exam",
-			"weight": "20%                                        Pass/Fail"
+			"weight": 20
 		},
 		{
 			"name": "Blackboard Quizzes (x5)",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Dispensing Exam",
-			"weight": "15%                                        Pass/Fail"
+			"weight": 15
 		},
 		{
 			"name": "Written Exam",
-			"weight": "45%                                        Pass/Fail"
+			"weight": 45
 		}
 	]
 }

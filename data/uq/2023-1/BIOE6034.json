@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "Quiz",
-			"weight": "24%                                        Hurdle (8 in total, best 6 used)"
+			"weight": 24
 		},
 		{
 			"name": "TE Lab Based Practical Booklet",
-			"weight": "8%                                        Hurdle"
+			"weight": 8
 		},
 		{
 			"name": "TE Lab based Angiogenesis Practical Report",
-			"weight": "8%                                        Hurdle"
+			"weight": 8
 		},
 		{
 			"name": "C&T Engineering Innovation Project Proposal",

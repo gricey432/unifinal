@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "End of Semester Theory Examination",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Problem solving practical exam",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		}
 	]
 }

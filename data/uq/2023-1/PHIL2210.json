@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Short Responses: Review of Articles",
-			"weight": "20%                                        800 words"
+			"weight": 20
 		},
 		{
 			"name": "Essay Plan",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Philosophy Essay",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		},
 		{
 			"name": "UNDERGRADUATE",

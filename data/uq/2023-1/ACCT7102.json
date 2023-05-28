@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Invigilated Final Exam",
-			"weight": "50%                                        Invigilated"
+			"weight": 50
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Problem Set 1",
-			"weight": "15%                                        Part of in-semester Hurdle"
+			"weight": 15
 		},
 		{
 			"name": "Problem Set 2",
-			"weight": "10%                                        Part of in-semester Hurdle"
+			"weight": 10
 		},
 		{
 			"name": "11 Online Quizzes (best 10 counted, 2% each)",
-			"weight": "20%                                        Part of in-semester Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "Final exam",
-			"weight": "55%                                        Hurdle"
+			"weight": 55
 		}
 	]
 }

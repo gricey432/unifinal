@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Homicide Interview Group Activities",
-			"weight": "10%                                        Interview Plan (5%); Interviews (5%)"
+			"weight": 10
 		},
 		{
 			"name": "Homicide Investigation Group Report (2,500 words)",
-			"weight": "35%                                        Includes Peer Assessment Factor"
+			"weight": 35
 		}
 	]
 }

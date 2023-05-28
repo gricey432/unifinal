@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Practice with Children, Young People and Families",
-			"weight": "40%                                        Two written exercises"
+			"weight": 40
 		},
 		{
 			"name": "Family Group Conference Simulation and Review",
-			"weight": "60%                                        (simulation of family conference & structured reflection)"
+			"weight": 60
 		}
 	]
 }

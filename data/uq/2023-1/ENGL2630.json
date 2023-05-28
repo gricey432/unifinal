@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Critical Reflective Essay",
-			"weight": "30%                                        1000-1200 words (excl. quotations)"
+			"weight": 30
 		},
 		{
 			"name": "Research Essay",
-			"weight": "55%                                        2300-2500 words (excl. quotations)"
+			"weight": 55
 		}
 	]
 }

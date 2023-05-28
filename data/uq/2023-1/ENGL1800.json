@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Performance review",
-			"weight": "20%                                        1000 words (+/- 10%)"
+			"weight": 20
 		},
 		{
 			"name": "Online test: scansion and versification",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "40%                                        1500 words (+/- 10%)"
+			"weight": 40
 		}
 	]
 }

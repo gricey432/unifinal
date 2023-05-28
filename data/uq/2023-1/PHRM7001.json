@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Series of 8 separate Online Quizzes",
-			"weight": "5% per quiz (40% overall)"
+			"weight": 5
 		},
 		{
 			"name": "Evidence Based Medicine Critical Appraisal",

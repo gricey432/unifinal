@@ -2,35 +2,35 @@
 	"assessment": [
 		{
 			"name": "Assignment1:Journal Reflection1:Grad Attributes",
-			"weight": "5%                                        Individual; 400-600 words maximum"
+			"weight": 5
 		},
 		{
 			"name": "Assignment1:Journal Reflection2:Experience Failure",
-			"weight": "5%                                        Individual; 400-600 words maximum"
+			"weight": 5
 		},
 		{
 			"name": "Assignment1:Journal Reflection3:Experience Success",
-			"weight": "5%                                        Individual; 400-600 words maximum"
+			"weight": 5
 		},
 		{
 			"name": "Assignment 3:Development plan (My current reality)",
-			"weight": "5%                                        Individual; 300 words maximum"
+			"weight": 5
 		},
 		{
 			"name": "Assignment 2 (Part I): Poster Submission",
-			"weight": "10%                                        Individual; Poster"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 2(Part II): Employability Presentation",
-			"weight": "10%                                        Individual; Poster"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 1:Reflective Workplace Journals",
-			"weight": "25%                                        Individual; 2300 words maximum (excluding Appendix)"
+			"weight": 25
 		},
 		{
 			"name": "Assignment 3: Development plan",
-			"weight": "35%                                        Individual; 2000 words maximum"
+			"weight": 35
 		}
 	]
 }

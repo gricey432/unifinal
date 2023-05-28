@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Assignment 1. Article Review",
-			"weight": "30%                                        1,200 words"
+			"weight": 30
 		},
 		{
 			"name": "Assignment 2. Research Agenda",
-			"weight": "35%                                        1,000 words total"
+			"weight": 35
 		},
 		{
 			"name": "Assignment 3. Call for Research Tender",
-			"weight": "35%                                        800 words"
+			"weight": 35
 		}
 	]
 }

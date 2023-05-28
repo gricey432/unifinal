@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Turning Point Questions",
-			"weight": "20%                                        3 submissions at 5-10% each"
+			"weight": 20
 		},
 		{
 			"name": "Transactional Perspective on Occupation",
-			"weight": "40%                                        and pass/fail completion of volunteer fieldwork"
+			"weight": 40
 		},
 		{
 			"name": "End of Semester Exam",

@@ -42,11 +42,11 @@
 		},
 		{
 			"name": "Public Goods and Economics of Information",
-			"weight": "10%                                        (Best 5 of 6 CML quizzes count. See Section 5.4)"
+			"weight": 10
 		},
 		{
 			"name": "CLEAR-JE No.6",
-			"weight": "10%                                        (Best 5 of 6 CLEAR-JE count. See Section 5.4)"
+			"weight": 10
 		}
 	]
 }

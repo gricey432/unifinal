@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		},
 		{
 			"name": "In-class Presentation",
-			"weight": "30%                                        8-10 minutes"
+			"weight": 30
 		},
 		{
 			"name": "Tutorial attendance and participation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Discussant",
-			"weight": "10%                                        5 minutes"
+			"weight": 10
 		}
 	]
 }

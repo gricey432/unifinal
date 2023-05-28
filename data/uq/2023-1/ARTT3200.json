@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Internship Overview",
-			"weight": "40%                                        800 words"
+			"weight": 40
 		},
 		{
 			"name": "Internship - Industry-led research essay",
-			"weight": "60%                                        1200 words"
+			"weight": 60
 		},
 		{
 			"name": "Annotated Bibliography",
-			"weight": "40%                                        800 words"
+			"weight": 40
 		},
 		{
 			"name": "Independent Study - Research Essay",
-			"weight": "60%                                        4000 words"
+			"weight": 60
 		}
 	]
 }

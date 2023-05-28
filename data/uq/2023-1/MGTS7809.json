@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Group Live Presentation",
-			"weight": "25%                                        Group"
+			"weight": 25
 		},
 		{
 			"name": "Group Live Presentation - Peer Assessment",
-			"weight": "0%                                        Peer Assessment"
+			"weight": 0
 		},
 		{
 			"name": "SHRM Issue / Solution Report",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Enhancing Your Ethical Competence through SHRM",
-			"weight": "35%                                        Individual"
+			"weight": 35
 		}
 	]
 }

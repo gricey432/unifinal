@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Critical Analysis",
-			"weight": "45%                                        15% per analysis"
+			"weight": 45
 		},
 		{
 			"name": "Interaction Project (presentation)",

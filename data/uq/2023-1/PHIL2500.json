@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Essay I",
-			"weight": "40%                                        1500 word essay due Wednesday 27 April"
+			"weight": 40
 		},
 		{
 			"name": "Tutorial Participation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Essay II",
-			"weight": "45%                                        1800 word essay due Friday June 9"
+			"weight": 45
 		}
 	]
 }

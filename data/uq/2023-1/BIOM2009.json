@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "In-class assessment",
-			"weight": "21%                                        6 x 3.5% = 21%"
+			"weight": 21
 		},
 		{
 			"name": "Practical report",

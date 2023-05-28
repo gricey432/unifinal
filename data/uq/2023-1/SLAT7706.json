@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Portfolio of blog reflections",
-			"weight": "30%                                        1500 words (excluding references)"
+			"weight": 30
 		},
 		{
 			"name": "Group presentation",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Current issues in applied linguistics",
-			"weight": "30%                                        1200 words (excluding references)"
+			"weight": 30
 		}
 	]
 }

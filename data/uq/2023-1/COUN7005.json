@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Online Quiz",
-			"weight": "30%                                        30 MCQ items"
+			"weight": 30
 		},
 		{
 			"name": "Video Assessment with Reflection",

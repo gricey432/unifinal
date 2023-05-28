@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly quizzes",
-			"weight": "12%                                        Cumulative score"
+			"weight": 12
 		},
 		{
 			"name": "Video assignment",

@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Online Peer Assessment",
-			"weight": "0%                                        PA affects individual mark"
+			"weight": 0
 		},
 		{
 			"name": "Final  40% hurdle requirement",

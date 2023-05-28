@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Communication portfolio",
-			"weight": "40%                                        simulation (20%) & written exercises (20%)"
+			"weight": 40
 		},
 		{
 			"name": "Simulation, analysis of performance and case note",
-			"weight": "60%                                        simulation (30%) & written components (30%)"
+			"weight": 60
 		}
 	]
 }

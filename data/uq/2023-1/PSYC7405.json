@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "three lecture topics",
-			"weight": "15%                                        3 case studies 5% each"
+			"weight": 15
 		},
 		{
 			"name": "Group Presentation",

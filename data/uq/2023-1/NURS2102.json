@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Clinical Reasoning and Reflective Practice",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Oral Viva",

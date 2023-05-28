@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Team Project Report on Financial Projections",
-			"weight": "40%                                        Group; Peer Assessment"
+			"weight": 40
 		},
 		{
 			"name": "Simulation Game",
-			"weight": "5%                                        Individual"
+			"weight": 5
 		},
 		{
 			"name": "Balanced Scorecard",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Final Exam - closed book",

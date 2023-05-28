@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "ER Annotated Bibliography",
-			"weight": "50%                                        3,000 words"
+			"weight": 50
 		},
 		{
 			"name": "Essay",
-			"weight": "50%                                        3,000 words"
+			"weight": 50
 		}
 	]
 }

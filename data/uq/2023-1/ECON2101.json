@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Online Tutorial Exercises",
-			"weight": "10%                                        (Best 8 of 10)"
+			"weight": 10
 		},
 		{
 			"name": "Online Quizzes",
-			"weight": "30%                                        (3 x 10%)"
+			"weight": 30
 		},
 		{
 			"name": "Short Assignment",

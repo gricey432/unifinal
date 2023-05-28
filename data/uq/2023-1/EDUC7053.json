@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly Journal",
-			"weight": "30%                                        200+200 words"
+			"weight": 30
 		},
 		{
 			"name": "Article Presentation",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Argumentative Essay",
-			"weight": "25%                                        1200 words"
+			"weight": 25
 		},
 		{
 			"name": "Project Report",
-			"weight": "35%                                        2500 words"
+			"weight": 35
 		}
 	]
 }

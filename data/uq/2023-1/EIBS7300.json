@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Portfolio of users and their features",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Ideation, Prototyping, and Testing (live present.)",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Individual Video-reflection",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

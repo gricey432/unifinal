@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "NP ePortfolio 2.3 & 3.1",
-			"weight": "0%                                        Pass/ Fail"
+			"weight": 0
 		},
 		{
 			"name": "IPP Hours 96",
-			"weight": "0%                                        Complete / Incomplete"
+			"weight": 0
 		}
 	]
 }

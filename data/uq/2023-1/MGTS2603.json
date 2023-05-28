@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Leadership Impact Reflection Journal",
-			"weight": "25%                                        Individual; 2.5% per week"
+			"weight": 25
 		},
 		{
 			"name": "Leadership in the 21st Century",
-			"weight": "35%                                        Individual; 1,500 words"
+			"weight": 35
 		},
 		{
 			"name": "Leadership Development Plan",
-			"weight": "40%                                        Individual; 1,500 words"
+			"weight": 40
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Weekly online quiz based on class readings",
-			"weight": "20%                                        Weekly Quiz"
+			"weight": 20
 		},
 		{
 			"name": "Language analysis and tasks for a classroom text",
-			"weight": "40%                                        2,000 words"
+			"weight": 40
 		},
 		{
 			"name": "Response to a school-based scenario",
-			"weight": "40%                                        2,500 words"
+			"weight": 40
 		}
 	]
 }

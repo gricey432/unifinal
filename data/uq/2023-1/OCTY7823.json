@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Case-Based Assignment",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		},
 		{
 			"name": "Group Intervention Observation (Practical)",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Series Assessment - In Class Quizzes (Online)",
-			"weight": "40%                                        MUST PASS"
+			"weight": 40
 		},
 		{
 			"name": "Analysis of Occupation in Context",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		}
 	]
 }

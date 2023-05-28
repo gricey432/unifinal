@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Dispensing portfolio",
-			"weight": "10%                                        Hurdle to pass the course"
+			"weight": 10
 		},
 		{
 			"name": "Simulated in-service presentation (team)",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "Objective Structured Clinical Exam (OSCE)",
-			"weight": "30%                                        Hurdle to pass the course"
+			"weight": 30
 		},
 		{
 			"name": "Exam",
-			"weight": "30%                                        Hurdle to pass the course"
+			"weight": 30
 		}
 	]
 }

@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "3 x Activities",
-			"weight": "45%                                        (15% each)"
+			"weight": 45
 		},
 		{
 			"name": "Law Reform Submission",
-			"weight": "55%                                        2000 words (+/- 10%)"
+			"weight": 55
 		}
 	]
 }

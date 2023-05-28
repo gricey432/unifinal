@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Examination",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Assignment",
-			"weight": "20%                                        Individual;"
+			"weight": 20
 		},
 		{
 			"name": "Online Final Exam",

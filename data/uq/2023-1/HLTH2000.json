@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Blackboard Discussion Forum, and webinar",
-			"weight": "30%                                        Contribution to group discussion"
+			"weight": 30
 		},
 		{
 			"name": "Assignment one: MCQ",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Assignment Three: Major Essay",
-			"weight": "35%                                        2500 words max"
+			"weight": 35
 		}
 	]
 }

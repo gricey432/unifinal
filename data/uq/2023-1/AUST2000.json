@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Film Analysis",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Major Research Essay",
-			"weight": "40%                                        2000 words"
+			"weight": 40
 		}
 	]
 }

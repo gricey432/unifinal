@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Research Essay",
-			"weight": "10%                                        1000 words"
+			"weight": 10
 		},
 		{
 			"name": "Performance",

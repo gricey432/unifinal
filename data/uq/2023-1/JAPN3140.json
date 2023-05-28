@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Course placement questionnaire",
-			"weight": "0%                                        Hurdle"
+			"weight": 0
 		},
 		{
 			"name": "Worksheets",

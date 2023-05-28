@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Standardised Clinical Scenario",
-			"weight": "30%                                        Performance hurdler: Pass score 55%"
+			"weight": 30
 		},
 		{
 			"name": "Marked Admission",
-			"weight": "30%                                        Performance Hurdle: Students must pass this assessment item regardless of overall course marks"
+			"weight": 30
 		},
 		{
 			"name": "Multiple Choice Examination",
-			"weight": "40%                                        Performance Hurdle: Pass score 55%"
+			"weight": 40
 		},
 		{
 			"name": "Clinical Participation Assessment - Med Spec",

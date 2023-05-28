@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - Security Topic Analysis",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Assignment 2 - Security Topic Analysis",
-			"weight": "60%                                        Individual"
+			"weight": 60
 		}
 	]
 }

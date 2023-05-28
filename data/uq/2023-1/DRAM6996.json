@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "15,000 Word Dissertation",
-			"weight": "100%                                        15,000 words"
+			"weight": 100
 		}
 	]
 }

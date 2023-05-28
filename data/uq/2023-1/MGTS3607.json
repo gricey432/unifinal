@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Critique of Performance Management Frameworks",
-			"weight": "30%                                        Individual, 1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Case Analysis Practical",
-			"weight": "30%                                        Individual; 1,500 words"
+			"weight": 30
 		},
 		{
 			"name": "Report on Performance Management Issues in org.",
-			"weight": "40%                                        Individual, 2000 words"
+			"weight": 40
 		}
 	]
 }

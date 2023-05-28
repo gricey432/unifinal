@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Centrally Administered Invigilated Exam",
-			"weight": "40%                                        Individual; 1 hr 40 mins (incl 10 mins Planning)"
+			"weight": 40
 		},
 		{
 			"name": "Weekly Quiz | Best 10 of 12 Quizzes submitted |",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Centrally Administered Invigilated Final Exam",
-			"weight": "40%                                        Individual; 2 hours (plus 10 minutes planning)"
+			"weight": 40
 		}
 	]
 }

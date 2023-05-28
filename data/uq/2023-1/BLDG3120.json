@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Assignment 1 - Project Due Diligence",
-			"weight": "25%                                        Group"
+			"weight": 25
 		},
 		{
 			"name": "Assignment 2: Making Things Better - Part 1",
-			"weight": "40%                                        IVAH"
+			"weight": 40
 		},
 		{
 			"name": "Assignment 3: Making Things Better - Part 2",

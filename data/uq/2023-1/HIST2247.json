@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Op-Ed piece",
-			"weight": "20%                                        750"
+			"weight": 20
 		},
 		{
 			"name": "Research Essay",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		},
 		{
 			"name": "Take Home Exam",

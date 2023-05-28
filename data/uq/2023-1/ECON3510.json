@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Test 1",
-			"weight": "25%                                        one-hour timer within a two day period"
+			"weight": 25
 		},
 		{
 			"name": "Problem Set 2",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Test 2",
-			"weight": "35%                                        one-hour timer within a two day period"
+			"weight": 35
 		}
 	]
 }

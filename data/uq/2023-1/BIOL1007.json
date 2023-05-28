@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "UQ RiPPLE active learning",
-			"weight": "12%                                        Pass/Fail"
+			"weight": 12
 		},
 		{
 			"name": "Laboratory report questions",

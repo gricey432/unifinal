@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Concept Statement (Presentation 1)",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Discovery-Driven Plan (Presentation 2)",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Developing the Social Entrepreneur Mindset",
-			"weight": "20%                                        Individual; 1,000 words"
+			"weight": 20
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "In-Class Quiz",
-			"weight": "20%                                        (Individual)"
+			"weight": 20
 		},
 		{
 			"name": "Interface Inquiry and Critique",
-			"weight": "30%                                        (Individual)"
+			"weight": 30
 		},
 		{
 			"name": "Design Proposal",
-			"weight": "30%                                        (Team)"
+			"weight": 30
 		},
 		{
 			"name": "HCI Annotated Bibliography",
-			"weight": "20%                                        (Individual)"
+			"weight": 20
 		},
 		{
 			"name": "Qualitative Grade",

@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Trading Game",
-			"weight": "15%                                        Group; Peer Assessment"
+			"weight": 15
 		},
 		{
 			"name": "Individual Report",
-			"weight": "15%                                        Individual"
+			"weight": 15
 		},
 		{
 			"name": "Blackboard Based Online Final Exam",

@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Interactive presentation and report",
-			"weight": "20%                                        Group; Peer Assessment"
+			"weight": 20
 		},
 		{
 			"name": "Mid-semester exam",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		},
 		{
 			"name": "Critical analysis of marketing strategy",
-			"weight": "30%                                        Group, Peer assessment"
+			"weight": 30
 		},
 		{
 			"name": "Online Blackboard exam",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

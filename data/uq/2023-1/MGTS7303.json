@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Case study analysis",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Business Simulation",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Reflection report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		}
 	]
 }

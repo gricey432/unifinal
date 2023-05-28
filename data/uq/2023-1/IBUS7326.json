@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Research Thesis",
-			"weight": "100%                                        20,000 Words"
+			"weight": 100
 		}
 	]
 }

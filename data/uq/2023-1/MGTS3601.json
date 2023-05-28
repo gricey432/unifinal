@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Organisational Diagnosis Consulting Proposal",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		},
 		{
 			"name": "Organisational Design Consulting Presentation",
-			"weight": "40%                                        Group"
+			"weight": 40
 		},
 		{
 			"name": "Learning Reflection: Developing as a Change Agent",
-			"weight": "20%                                        Individual"
+			"weight": 20
 		}
 	]
 }

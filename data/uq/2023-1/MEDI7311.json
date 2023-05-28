@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Clinical Case Presentations (CCP 1 and CCP 2)",
-			"weight": "30%                                        Performance Hurdle: Students must meet the passing standard in order to pass the course."
+			"weight": 30
 		},
 		{
 			"name": "Short Answer (SAQ)and Multiple Choice (MCQ)exams",
-			"weight": "70%                                        Performance Hurdle: Students must achieve the passing score to pass the course"
+			"weight": 70
 		}
 	]
 }

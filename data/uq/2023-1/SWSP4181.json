@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Demonstration of skills, documentation and review",
-			"weight": "60%                                        The piece is marked out of 100: Simulation 20/100 Case note 30/100 Review & analysis 50/100"
+			"weight": 60
 		}
 	]
 }

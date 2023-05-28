@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Reflective Account",
-			"weight": "30%                                        2,000 words"
+			"weight": 30
 		},
 		{
 			"name": "Challenge Statement and Research Presentation",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Strategic Proposal",
-			"weight": "30%                                        up to 2,500 words (plus any artefacts/inclusions)"
+			"weight": 30
 		}
 	]
 }

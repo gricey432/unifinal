@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Quizzes",
-			"weight": "40%                                        Attempt must be made to pass this course"
+			"weight": 40
 		},
 		{
 			"name": "Essay",

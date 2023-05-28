@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Series Assessment - In Class Quizzes (Online)",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Case-Based Assignment",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "Analysis of Occupation in Context",
-			"weight": "25%                                        MUST PASS"
+			"weight": 25
 		}
 	]
 }

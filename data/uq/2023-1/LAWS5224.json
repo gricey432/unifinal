@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Locating academic resources",
-			"weight": "20%                                        3-5 minutes"
+			"weight": 20
 		},
 		{
 			"name": "Academic essay",
-			"weight": "60%                                        3,000 words"
+			"weight": 60
 		},
 		{
 			"name": "Constructing legal arguments",
-			"weight": "20%                                        1,000 words"
+			"weight": 20
 		}
 	]
 }

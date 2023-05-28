@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Project deliverable 1: Process analysis/control",
-			"weight": "26%                                        Hurdle"
+			"weight": 26
 		},
 		{
 			"name": "Laboratory Practical session attendance",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "Project deliverable 2: Controller design",
-			"weight": "20%                                        Hurdle"
+			"weight": 20
 		},
 		{
 			"name": "PA for Project deliverable 2 report",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "Final exam",
-			"weight": "37%                                        Hurdle"
+			"weight": 37
 		},
 		{
 			"name": "A penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if a different grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",

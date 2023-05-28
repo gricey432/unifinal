@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Tourism System Proposal",
-			"weight": "10%                                        Individual"
+			"weight": 10
 		},
 		{
 			"name": "Tourism System Presentation",
-			"weight": "50%                                        Individual; 10 mins plus script"
+			"weight": 50
 		},
 		{
 			"name": "Transport Sub System",
-			"weight": "40%                                        Individual; 1500-2000 words"
+			"weight": 40
 		}
 	]
 }

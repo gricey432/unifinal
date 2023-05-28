@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Online Multiple Choice Quiz",
-			"weight": "30%                                        Completion of four online learning modules through associated quizzes"
+			"weight": 30
 		},
 		{
 			"name": "The Art and Science of Change in Two Theories",
-			"weight": "60%                                        3000 Words"
+			"weight": 60
 		},
 		{
 			"name": "Oral Exam: Case Conceptualisation Competency",
-			"weight": "10%                                        (Hurdle requirement)"
+			"weight": 10
 		}
 	]
 }

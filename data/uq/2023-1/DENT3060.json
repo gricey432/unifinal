@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "Objective Structured Clinical Examination (OSCE)",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Clinical Portfolio (Digital ePAD)",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "End of Semester Examination",
-			"weight": "50%                                        MUST PASS"
+			"weight": 50
 		},
 		{
 			"name": "Type of Assessment",

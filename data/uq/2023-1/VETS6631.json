@@ -2,19 +2,19 @@
 	"assessment": [
 		{
 			"name": "Student participation",
-			"weight": "10%                                        of final course mark"
+			"weight": 10
 		},
 		{
 			"name": "Project proposal seminar",
-			"weight": "0%                                        Pass/fail"
+			"weight": 0
 		},
 		{
 			"name": "Honours Thesis",
-			"weight": "70%                                        of final course mark"
+			"weight": 70
 		},
 		{
 			"name": "Honours final seminar",
-			"weight": "20%                                        of final course mark"
+			"weight": 20
 		}
 	]
 }

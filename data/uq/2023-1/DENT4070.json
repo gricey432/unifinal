@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Preclinical competency- Paediatric dentistry",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Preclinical competency- Fixed Prosthodontics",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "IPCP Curriculum Assessment",
-			"weight": "0%                                        P/F MUST PASS"
+			"weight": 0
 		},
 		{
 			"name": "Endodontic Case Portfolio",
@@ -22,11 +22,11 @@
 		},
 		{
 			"name": "Module 1-Prosthodontics and Paediatric Dentistry",
-			"weight": "20%                                        MUST PASS"
+			"weight": 20
 		},
 		{
 			"name": "Module 2 Endodontics and Orthodontics",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		},
 		{
 			"name": "Type of Assessment",

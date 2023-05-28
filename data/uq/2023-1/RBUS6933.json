@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Literature Review",
-			"weight": "30%                                        3,000 words"
+			"weight": 30
 		},
 		{
 			"name": "Research Design Proposal",
-			"weight": "40%                                        4,000 words"
+			"weight": 40
 		},
 		{
 			"name": "Research Presentation",
-			"weight": "30%                                        15 mins"
+			"weight": 30
 		}
 	]
 }

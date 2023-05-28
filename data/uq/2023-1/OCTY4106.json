@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Assessment1- A&B MCPR Background & Foreground",
-			"weight": "45%                                        MUST PASS"
+			"weight": 45
 		},
 		{
 			"name": "Assessment 2 Making Connections Video Diary",
-			"weight": "35%                                        MUST PASS"
+			"weight": 35
 		}
 	]
 }

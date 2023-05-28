@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Competency Interview",
-			"weight": "30%                                        Pass/Fail/ Hurdle"
+			"weight": 30
 		},
 		{
 			"name": "Type of Assessment",

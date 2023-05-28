@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Ageing and Participation Fieldwork Report",
-			"weight": "30%                                        MUST PASS"
+			"weight": 30
 		},
 		{
 			"name": "Student tutorial presentation",

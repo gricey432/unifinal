@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Module activities",
-			"weight": "21%                                        7% per module"
+			"weight": 21
 		},
 		{
 			"name": "Project Outline",

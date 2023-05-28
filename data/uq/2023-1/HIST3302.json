@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Assessment Type 2",
-			"weight": "30%                                        1500 words"
+			"weight": 30
 		},
 		{
 			"name": "Assessment Type 3",
-			"weight": "50%                                        2000 words"
+			"weight": 50
 		}
 	]
 }

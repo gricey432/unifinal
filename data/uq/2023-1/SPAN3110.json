@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Tareas evaluadas/Worksheets",
-			"weight": "20%                                        (5% each task)"
+			"weight": 20
 		},
 		{
 			"name": "Grammar Task 1",

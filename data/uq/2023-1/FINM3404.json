@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Mid Semester Exam",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Case Study - Assignment",
-			"weight": "25%                                        Individual"
+			"weight": 25
 		},
 		{
 			"name": "Online Final Exam",
-			"weight": "50%                                        Individual"
+			"weight": 50
 		}
 	]
 }

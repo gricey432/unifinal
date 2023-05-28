@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Audio script",
-			"weight": "30%                                        1000 words"
+			"weight": 30
 		},
 		{
 			"name": "Essay on representation and power",
-			"weight": "40%                                        1500 words"
+			"weight": 40
 		}
 	]
 }

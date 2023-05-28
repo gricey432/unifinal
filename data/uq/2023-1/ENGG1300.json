@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Weekly On-line Quizzes (1.875% each)",
-			"weight": "15%                                        Best 8 of 11 quizzes count 1.875% each ."
+			"weight": 15
 		},
 		{
 			"name": "Mid-semester test (on-campus)",

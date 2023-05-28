@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Team Project",
-			"weight": "30%                                        Team; Peer Assessment"
+			"weight": 30
 		},
 		{
 			"name": "Share Valuation Report",
-			"weight": "30%                                        Individual"
+			"weight": 30
 		},
 		{
 			"name": "Final Online Exam",
-			"weight": "40%                                        Individual"
+			"weight": 40
 		}
 	]
 }

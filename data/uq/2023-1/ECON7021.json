@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Author, Moderate and Answer Questions via RiPPLE",
-			"weight": "15%                                        (3 x 5%)"
+			"weight": 15
 		},
 		{
 			"name": "Online Quiz",

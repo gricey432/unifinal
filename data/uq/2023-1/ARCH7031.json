@@ -2,15 +2,15 @@
 	"assessment": [
 		{
 			"name": "Report 1 - Significance of Country and ESD",
-			"weight": "10%                                        Individual assignment"
+			"weight": 10
 		},
 		{
 			"name": "Assignment 1 - Business plan",
-			"weight": "50%                                        Individual IVAH assignment"
+			"weight": 50
 		},
 		{
 			"name": "Assignment 2 - Consultancy report",
-			"weight": "40%                                        Collaborative assignment"
+			"weight": 40
 		}
 	]
 }

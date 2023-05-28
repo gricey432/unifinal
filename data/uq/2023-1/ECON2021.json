@@ -2,7 +2,7 @@
 	"assessment": [
 		{
 			"name": "Pre-class Reading Quizzes",
-			"weight": "10%                                        10*1% = 10% (best 10 out of 12)"
+			"weight": 10
 		},
 		{
 			"name": "Presentation 2",

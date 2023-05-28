@@ -6,11 +6,11 @@
 		},
 		{
 			"name": "Continuous assessment: professional performance",
-			"weight": "30%                                        Compulsory pass"
+			"weight": 30
 		},
 		{
 			"name": "Continuous assessment: clinical performance",
-			"weight": "70%                                        Compulsory pass"
+			"weight": 70
 		}
 	]
 }

@@ -9,10 +9,6 @@
 			"weight": 70
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Exam - Competency",
 			"weight": "Contact the Course Coordinator"
 		},

@@ -12,9 +12,5 @@
 			"name": "EFA, logistic regression, and mediation",
 			"weight": 35
 		},
-		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
 	]
 }

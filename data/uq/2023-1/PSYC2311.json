@@ -13,10 +13,6 @@
 			"weight": 20
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Tutorial Participation",
 			"weight": "See blackboard page for tutor or course coordinator contact details"
 		},

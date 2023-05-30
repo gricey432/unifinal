@@ -13,10 +13,6 @@
 			"weight": 30
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Journal",
 			"weight": "Contact your Tutor"
 		},

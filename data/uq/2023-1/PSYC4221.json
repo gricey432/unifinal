@@ -29,10 +29,6 @@
 			"weight": "Pass/Fail (Verified by placement supervisor)"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Workshop Participation",
 			"weight": "Extension applications are not applicable for this assessment item – students must contact the Course Coordinator directly prior to a missed workshop."
 		},

@@ -13,10 +13,6 @@
 			"weight": 55
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Plan",
 			"weight": "NA"
 		},

@@ -25,10 +25,6 @@
 			"weight": 20
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Presentation",
 			"weight": "Contact Tutor"
 		},

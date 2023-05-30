@@ -13,10 +13,6 @@
 			"weight": 30
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Seminar",
 			"weight": "Extension applications are not applicable for this assessment item – students must contact the Course Coordinator directly prior to a missed workshop."
 		},

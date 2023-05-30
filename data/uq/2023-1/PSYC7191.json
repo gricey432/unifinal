@@ -17,10 +17,6 @@
 			"weight": 50
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Role Play, Clinical Exams",
 			"weight": "Contact Course Coordinator"
 		},

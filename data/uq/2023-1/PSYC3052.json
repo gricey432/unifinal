@@ -16,9 +16,5 @@
 			"name": "ChatGPT Assignment 2",
 			"weight": 20
 		},
-		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
 	]
 }

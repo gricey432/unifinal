@@ -21,10 +21,6 @@
 			"weight": 40
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Student seminar",
 			"weight": "Contact Course Coordinator"
 		},

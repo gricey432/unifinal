@@ -12,9 +12,5 @@
 			"name": "Applied Psychology Report",
 			"weight": 30
 		},
-		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
 	]
 }

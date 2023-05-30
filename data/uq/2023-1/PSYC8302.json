@@ -17,10 +17,6 @@
 			"weight": "Pass/Fail"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Portfolio",
 			"weight": "Speak to course coordinator."
 		},

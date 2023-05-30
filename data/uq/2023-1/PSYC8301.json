@@ -25,10 +25,6 @@
 			"weight": "Assessed by supervisor"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Log",
 			"weight": "Not applicable."
 		},

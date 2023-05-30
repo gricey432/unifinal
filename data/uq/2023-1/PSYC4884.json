@@ -13,10 +13,6 @@
 			"weight": 40
 		},
 		{
-			"name": "Type of Assignment",
-			"weight": "Link"
-		},
-		{
 			"name": "Seminar",
 			"weight": "Contact Course Coordinator"
 		},

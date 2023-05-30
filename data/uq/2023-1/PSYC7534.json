@@ -21,10 +21,6 @@
 			"weight": "This is the most important part of the assessment"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Work-based assessment",
 			"weight": "Not applicable."
 		},

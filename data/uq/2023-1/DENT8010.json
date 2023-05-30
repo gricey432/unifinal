@@ -13,10 +13,6 @@
 			"weight": "Pass/Fail MUST PASS"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Tutorial/Lecture Participation",
 			"weight": "NA - There is no form of extension for this assessment."
 		}

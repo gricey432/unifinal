@@ -12,9 +12,5 @@
 			"name": "Self monitoring project",
 			"weight": 40
 		},
-		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
 	]
 }

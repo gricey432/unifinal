@@ -25,10 +25,6 @@
 			"weight": 30
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Tutorial/Lecture Participation",
 			"weight": "NA - There is no form of extension for this assessment."
 		}

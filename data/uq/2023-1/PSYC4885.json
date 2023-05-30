@@ -17,10 +17,6 @@
 			"weight": 40
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Participation",
 			"weight": "Contact the Course Coordinator"
 		},

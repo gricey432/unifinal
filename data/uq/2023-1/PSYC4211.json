@@ -17,10 +17,6 @@
 			"weight": 30
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Presentation",
 			"weight": "Contact Course Coordinator"
 		},

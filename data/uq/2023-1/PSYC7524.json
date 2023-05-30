@@ -29,10 +29,6 @@
 			"weight": "Pass/Fail"
 		},
 		{
-			"name": "Type of Assessment",
-			"weight": "Link"
-		},
-		{
 			"name": "Work-based assessment",
 			"weight": "Not applicable."
 		},

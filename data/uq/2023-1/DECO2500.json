@@ -21,60 +21,20 @@
 			"weight": "High Distinction\n\t\t\t(7)"
 		},
 		{
-			"name": "High Distinction",
-			"weight": ""
-		},
-		{
-			"name": "High Distinction-",
-			"weight": ""
-		},
-		{
 			"name": "Distinction+",
 			"weight": "Distinction\n\t\t\t(6)"
-		},
-		{
-			"name": "Distinction",
-			"weight": ""
-		},
-		{
-			"name": "Distinction-",
-			"weight": ""
 		},
 		{
 			"name": "Credit+",
 			"weight": "Credit\n\t\t\t(5)"
 		},
 		{
-			"name": "Credit",
-			"weight": ""
-		},
-		{
-			"name": "Credit-",
-			"weight": ""
-		},
-		{
 			"name": "Pass+",
 			"weight": "Pass\n\t\t\t(4)"
 		},
 		{
-			"name": "Pass",
-			"weight": ""
-		},
-		{
-			"name": "Pass-",
-			"weight": ""
-		},
-		{
 			"name": "Fail+",
 			"weight": "Fail\n\t\t\t(1-3)"
-		},
-		{
-			"name": "Fail",
-			"weight": ""
-		},
-		{
-			"name": "Fail-",
-			"weight": ""
 		},
 		{
 			"name": "X (No assessable work received)",

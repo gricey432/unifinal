@@ -16,25 +16,5 @@
 			"name": "Ethics of Chemistry essay",
 			"weight": 20
 		},
-		{
-			"name": "Number of reschedules",
-			"weight": ""
-		},
-		{
-			"name": "First reschedule",
-			"weight": ""
-		},
-		{
-			"name": "Second reschedule of same experiment",
-			"weight": ""
-		},
-		{
-			"name": "First reschedule plus a second reschedule (different experiments)",
-			"weight": ""
-		},
-		{
-			"name": "No third reschedule possible",
-			"weight": ""
-		}
 	]
 }

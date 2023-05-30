@@ -17,10 +17,6 @@
 			"weight": "Pass/Fail"
 		},
 		{
-			"name": "https://my.uq.edu.au/node/218/2#2",
-			"weight": ""
-		},
-		{
 			"name": "Type of Assessment",
 			"weight": "Link"
 		},

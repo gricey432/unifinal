@@ -12,13 +12,5 @@
 			"name": "Final exam",
 			"weight": 40
 		},
-		{
-			"name": "Undergraduate/Postgraduate/Honours",
-			"weight": ""
-		},
-		{
-			"name": "1: 0-24%",
-			"weight": ""
-		}
 	]
 }

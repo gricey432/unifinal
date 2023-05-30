@@ -16,13 +16,5 @@
 			"name": "End of semester exam",
 			"weight": 45
 		},
-		{
-			"name": "The assessment tasks evaluate students' abilities, skills and knowledge without the aid of Generative Artificial Intelligence (GAI). Students are advised that the use of GAI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
-			"weight": ""
-		},
-		{
-			"name": "Complaints and criticisms should be directed in the first instance to the course coordinator. If you are not satisfied with the outcome, you may bring the matter to the attention of the Director of Teaching & Learning.",
-			"weight": ""
-		}
 	]
 }

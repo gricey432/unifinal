@@ -28,13 +28,5 @@
 			"name": "Final exam",
 			"weight": 37
 		},
-		{
-			"name": "A penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if a different grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
-			"weight": ""
-		},
-		{
-			"name": "Only University approved and labelled calculators can be used in all quizzes or exams for this course. Please consult https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators for information about approved calculators and obtaining a label for non-approved calculators.",
-			"weight": ""
-		}
 	]
 }

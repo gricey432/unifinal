@@ -17,10 +17,6 @@
 			"weight": 50
 		},
 		{
-			"name": "Reason",
-			"weight": ""
-		},
-		{
 			"name": "ACCIDENT",
 			"weight": "Police report, statutory declaration."
 		},

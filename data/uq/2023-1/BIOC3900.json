@@ -16,33 +16,5 @@
 			"name": "Final Exam",
 			"weight": 50
 		},
-		{
-			"name": "ACCIDENT",
-			"weight": "Police report, statutory declaration."
-		},
-		{
-			"name": "ATHLETE",
-			"weight": "Letter from sporting body confirming selection and setting out dates of sporting commitments; itinerary."
-		},
-		{
-			"name": "DEATH",
-			"weight": "Death notice, funeral notice, and evidence of relationship.  Where appropriate, confirmation of relationship is required (e.g. statutory declaration, birth certificate).  N.B.: A medical certificate is not appropriate if applying on compassionate grounds rather than medical grounds."
-		},
-		{
-			"name": "FAMILY",
-			"weight": "Statement from medical practitioner confirming medical status of patient, relationship to student, and relevant dates."
-		},
-		{
-			"name": "MEDICAL",
-			"weight": "Medical certificate from a registered medical practitioner or registered nurse."
-		},
-		{
-			"name": "PERSONAL",
-			"weight": "Statement from counsellor / psychiatrist / psychologist detailing impact on patient; protection orders."
-		},
-		{
-			"name": "OTHER",
-			"weight": "Statutory declaration, or other appropriate evidence."
-		}
 	]
 }

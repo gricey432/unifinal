@@ -41,20 +41,8 @@
 			"weight": "Contact course coordinator"
 		},
 		{
-			"name": "Mid-Semester Checklist",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
-			"name": "Mid-Semester and End Semester Review",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
 			"name": "MSAT",
 			"weight": "Contact the Course Coordinator directly."
 		},
-		{
-			"name": "T1 Checklist",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		}
 	]
 }

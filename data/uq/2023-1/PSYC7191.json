@@ -24,13 +24,5 @@
 			"name": "Role Play, Clinical Exams",
 			"weight": "Contact Course Coordinator"
 		},
-		{
-			"name": "Case Study",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
-			"name": "Final Examination",
-			"weight": "https://my.uq.edu.au/node/189/3#3"
-		}
 	]
 }

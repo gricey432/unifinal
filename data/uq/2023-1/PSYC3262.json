@@ -17,16 +17,8 @@
 			"weight": "Link"
 		},
 		{
-			"name": "Essay",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
 			"name": "Class participation  and presentation",
 			"weight": "Contact Course Coordinator"
 		},
-		{
-			"name": "Online Quizzes",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		}
 	]
 }

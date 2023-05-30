@@ -21,10 +21,6 @@
 			"weight": "Link"
 		},
 		{
-			"name": "Essay",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
 			"name": "Presentation",
 			"weight": "Contact Course Coordinator"
 		},
@@ -32,9 +28,5 @@
 			"name": "Quiz",
 			"weight": "NA - no extensions possible for this piece of assessment."
 		},
-		{
-			"name": "Infographic",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		}
 	]
 }

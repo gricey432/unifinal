@@ -20,17 +20,5 @@
 			"name": "Research Participation",
 			"weight": "NA"
 		},
-		{
-			"name": "Module Assignments",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
-			"name": "Research Claim Essay",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
-			"name": "Final Exam",
-			"weight": "https://my.uq.edu.au/node/189/3#3"
-		}
 	]
 }

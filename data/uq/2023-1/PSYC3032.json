@@ -21,18 +21,6 @@
 			"weight": "Link"
 		},
 		{
-			"name": "Quizzes",
-			"weight": "https://my.uq.edu.au/node/189/3#3"
-		},
-		{
-			"name": "Unessay",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
-			"name": "Essay",
-			"weight": "https://my.uq.edu.au/node/218/2#2"
-		},
-		{
 			"name": "Tutorial Quizzes",
 			"weight": "N/A"
 		}

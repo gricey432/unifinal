@@ -2,11 +2,11 @@
 	"assessment": [
 		{
 			"name": "Advanced Coursework",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		},
 		{
 			"name": "Research Proposal",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		},
 		{
 			"name": "Draft Research Report",
@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "Research Report & Research Performance",
-			"weight": "62.5%                                        10 unit equivalent"
+			"weight": 62.5
 		},
 		{
 			"name": "Final Seminar and Thesis Viva",
-			"weight": "12.5%                                        2 unit equivalent"
+			"weight": 12.5
 		}
 	]
 }

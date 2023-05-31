@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "School-based Take Home Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Case Study - Assignment",
+			"weight": 25
+		}
+	]
+}

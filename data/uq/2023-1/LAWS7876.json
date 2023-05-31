@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-course reading assessment",
+			"weight": 20
+		},
+		{
+			"name": "Short answer assessment",
+			"weight": 30
+		},
+		{
+			"name": "Problem Solution",
+			"weight": 50
+		}
+	]
+}

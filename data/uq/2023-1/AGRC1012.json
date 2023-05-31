@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Business Model Canvas Report 1",
+			"weight": 10
+		},
+		{
+			"name": "Business Model Canvas Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Business Model Canvas Report 3",
+			"weight": 40
+		},
+		{
+			"name": "Group Presentation (Existing Agribusiness)",
+			"weight": 10
+		},
+		{
+			"name": "Group (Agropreneur)",
+			"weight": 30
+		}
+	]
+}

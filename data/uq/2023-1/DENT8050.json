@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Assessment",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "In-Class activities",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

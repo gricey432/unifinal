@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "NDIS Module 1 Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Disability Issues Blog/Podcast",
+			"weight": 40
+		},
+		{
+			"name": "Peer Feedback",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 50
+		}
+	]
+}

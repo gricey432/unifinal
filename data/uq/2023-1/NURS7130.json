@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Peer Teaching Session Video and PowerPoint",
+			"weight": 40
+		},
+		{
+			"name": "Coronial Inquest Findings Review",
+			"weight": 60
+		}
+	]
+}

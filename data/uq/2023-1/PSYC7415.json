@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Project report",
+			"weight": "essential element"
+		},
+		{
+			"name": "Project Proposal and Project plan",
+			"weight": "essential element"
+		},
+		{
+			"name": "Mid point review",
+			"weight": 0
+		},
+		{
+			"name": "Final point review",
+			"weight": "essential element"
+		},
+		{
+			"name": "Work based assessment",
+			"weight": "Not applicable"
+		},
+		{
+			"name": "Practical",
+			"weight": "Not applicable"
+		}
+	]
+}

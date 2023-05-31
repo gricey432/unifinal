@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A1. Infographic Resume",
+			"weight": 15
+		},
+		{
+			"name": "A2. Video pitch",
+			"weight": 10
+		},
+		{
+			"name": "A3. Professional Development Plan",
+			"weight": 35
+		},
+		{
+			"name": "A4. Team Project portfolio - team project stdnts",
+			"weight": 40
+		},
+		{
+			"name": "A4. Reflective Workplace Journal-internsh. studnts",
+			"weight": 40
+		}
+	]
+}

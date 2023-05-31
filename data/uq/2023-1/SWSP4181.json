@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Framework for practice in health and ageing",
+			"weight": 40
+		},
+		{
+			"name": "Interprofessional Collaborative Practice Modules",
+			"weight": "Pass/Fail (Must Pass)"
+		},
+		{
+			"name": "Demonstration of skills, documentation and review",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "P1: Fast Computation of User Centrality Measures",
+			"weight": 15
+		},
+		{
+			"name": "P2: Link Prediction in Social Networks",
+			"weight": 15
+		},
+		{
+			"name": "Online Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Online Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Closed Book Final Exam",
+			"weight": 50
+		}
+	]
+}

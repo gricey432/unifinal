@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Philosophy Thesis 1",
+			"weight": 50
+		},
+		{
+			"name": "Philosophy Thesis 2",
+			"weight": 50
+		},
+		{
+			"name": "Greek or Latin Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Ancient History Thesis",
+			"weight": 100
+		},
+		{
+			"name": "History Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Studies in Religion Thesis",
+			"weight": 100
+		}
+	]
+}

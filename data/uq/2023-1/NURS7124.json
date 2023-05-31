@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Skills Assessment (OSCA) and Med+Safe",
+			"weight": "NGP"
+		},
+		{
+			"name": "Placement Prep and Performance Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		}
+	]
+}

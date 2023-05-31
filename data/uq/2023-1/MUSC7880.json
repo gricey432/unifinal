@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Discussion of Musical Sketches",
+			"weight": 30
+		},
+		{
+			"name": "Portfolio of compositions",
+			"weight": 40
+		},
+		{
+			"name": "Technical exercises",
+			"weight": 30
+		}
+	]
+}

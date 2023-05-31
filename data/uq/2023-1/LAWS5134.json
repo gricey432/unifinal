@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar preparation and participation",
+			"weight": 20
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence based video submission",
+			"weight": 10
+		},
+		{
+			"name": "Quiz 1",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester 1 Examination",
+			"weight": 20
+		},
+		{
+			"name": "Intra Oral Radiography Competency",
+			"weight": 0
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 10
+		},
+		{
+			"name": "Radiography Report",
+			"weight": 20
+		},
+		{
+			"name": "End of Year Examination",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

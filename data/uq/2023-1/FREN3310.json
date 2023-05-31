@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Course Placement",
+			"weight": 0
+		},
+		{
+			"name": "In-class Translation Exams",
+			"weight": 25
+		},
+		{
+			"name": "Team Translation Project",
+			"weight": 15
+		},
+		{
+			"name": "Individual Translation Project",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Translation and Commentary",
+			"weight": 30
+		}
+	]
+}

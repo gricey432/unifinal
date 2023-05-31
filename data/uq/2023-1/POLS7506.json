@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Zoom seminar attendance and participation",
+			"weight": 12
+		},
+		{
+			"name": "Presentation and general debate",
+			"weight": 8
+		},
+		{
+			"name": "Research Essay (4000 words)",
+			"weight": 50
+		},
+		{
+			"name": "Commentary (1000 words)",
+			"weight": 30
+		}
+	]
+}

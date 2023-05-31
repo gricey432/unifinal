@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Identifying Values",
+			"weight": 15
+		},
+		{
+			"name": "Multi-choice and short-answer Online Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Embodying Values Presentation",
+			"weight": 60
+		}
+	]
+}

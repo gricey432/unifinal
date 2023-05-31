@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Community Development Table Talk",
+			"weight": 50
+		},
+		{
+			"name": "Community Development Practice",
+			"weight": 50
+		}
+	]
+}

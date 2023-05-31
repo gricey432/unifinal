@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Cultural Safety Module 1",
+			"weight": "P/F Required to pass the course"
+		},
+		{
+			"name": "Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Weekly online lecture quizzes",
+			"weight": 27
+		},
+		{
+			"name": "Cycle of Science: Individual study e-Poster",
+			"weight": 19
+		},
+		{
+			"name": "Cycle of Science: Group-designed study e-Poster",
+			"weight": 19
+		},
+		{
+			"name": "Introduction + References",
+			"weight": 29
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "NA - There is no form of extension for this assessment."
+		},
+		{
+			"name": "Posters",
+			"weight": "NA - There is no form of extension for this assessment"
+		},
+		{
+			"name": "Online Cultural Safety Module",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critique of school leadership literature",
+			"weight": 40
+		},
+		{
+			"name": "Critical analysis of leadership in action",
+			"weight": 60
+		}
+	]
+}

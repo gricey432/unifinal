@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on one Masterclass (1,500 words)",
+			"weight": 30
+		},
+		{
+			"name": "Research essay on one Masterclass (5,000 words)",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Market Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam (online)",
+			"weight": 40
+		},
+		{
+			"name": "Marketing Plan",
+			"weight": 40
+		}
+	]
+}

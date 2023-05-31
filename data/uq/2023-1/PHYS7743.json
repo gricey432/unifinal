@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research",
+			"weight": 0
+		},
+		{
+			"name": "MSc Progress Talk",
+			"weight": 0
+		},
+		{
+			"name": "Progress Report and Literature Review",
+			"weight": 0
+		},
+		{
+			"name": "MSc Talk",
+			"weight": 0
+		},
+		{
+			"name": "Masters Thesis",
+			"weight": 100
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

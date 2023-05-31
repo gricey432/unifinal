@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Writing for The Conversation",
+			"weight": 20
+		},
+		{
+			"name": "Theory Driven Solutions Showcase",
+			"weight": 40
+		},
+		{
+			"name": "Theory Application Paper",
+			"weight": 40
+		}
+	]
+}

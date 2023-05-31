@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Foundation Assessment",
+			"weight": 40
+		},
+		{
+			"name": "A2",
+			"weight": 60
+		}
+	]
+}

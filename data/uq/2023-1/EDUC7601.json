@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 2 - Essay and parent information sheet",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 3 - Applied analytical essay",
+			"weight": 40
+		},
+		{
+			"name": "Assessment 1 - Participation",
+			"weight": 20
+		}
+	]
+}

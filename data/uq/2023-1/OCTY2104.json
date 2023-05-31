@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Assessment Report",
+			"weight": 35
+		},
+		{
+			"name": "Intervention Case Assignment",
+			"weight": 40
+		},
+		{
+			"name": "Viva - Case Assignment Clinical Encounter",
+			"weight": 25
+		}
+	]
+}

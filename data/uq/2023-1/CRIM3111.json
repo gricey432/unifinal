@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Restorative Justice Conference Plan (2000 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Cybercrime and Security Report (1500 Words)",
+			"weight": 20
+		},
+		{
+			"name": "Financial Crime Investigation Activities",
+			"weight": 30
+		},
+		{
+			"name": "Financial Crime Group Report (2500 words )",
+			"weight": 30
+		}
+	]
+}

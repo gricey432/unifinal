@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Management Plan",
+			"weight": 10
+		},
+		{
+			"name": "Design Review Sequence",
+			"weight": 40
+		},
+		{
+			"name": "Demonstration against stakeholder requirements",
+			"weight": 40
+		},
+		{
+			"name": "Project reflection",
+			"weight": 10
+		}
+	]
+}

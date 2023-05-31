@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation and tasks",
+			"weight": 20
+		},
+		{
+			"name": "Online Multiple Choice Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Essay proposal",
+			"weight": 10
+		},
+		{
+			"name": "Essay",
+			"weight": 50
+		}
+	]
+}

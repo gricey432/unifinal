@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mini-Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "R Project",
+			"weight": 40
+		},
+		{
+			"name": "Python Project",
+			"weight": 40
+		}
+	]
+}

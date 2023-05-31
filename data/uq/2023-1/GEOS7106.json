@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 10
+		},
+		{
+			"name": "Risk assessment report",
+			"weight": 30
+		},
+		{
+			"name": "Research progress in hazard geography",
+			"weight": 20
+		},
+		{
+			"name": "Online non‐invigilated examination",
+			"weight": 40
+		}
+	]
+}

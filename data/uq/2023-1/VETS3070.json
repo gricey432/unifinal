@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Examination Revision Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Mid-semester 2 Examination",
+			"weight": 15
+		},
+		{
+			"name": "Surgery, Anaesthesia, Triage, Dentistry OSCE",
+			"weight": 15
+		},
+		{
+			"name": "Clinical Examination of Species OSCE",
+			"weight": 15
+		},
+		{
+			"name": "Semester 1 Examination",
+			"weight": 25
+		},
+		{
+			"name": "Semester 2 Examination",
+			"weight": 25
+		}
+	]
+}

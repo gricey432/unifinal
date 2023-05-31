@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Hand Hygiene Module",
+			"weight": 0
+		},
+		{
+			"name": "Preclinic induction",
+			"weight": 0
+		},
+		{
+			"name": "Tooth Morphology Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Virtual Patient Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

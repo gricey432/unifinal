@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester exam",
+			"weight": 20
+		},
+		{
+			"name": "SEO Content Audit",
+			"weight": 30
+		},
+		{
+			"name": "Digital Marketing Certifications",
+			"weight": 15
+		},
+		{
+			"name": "Digital Marketing Strategy",
+			"weight": 35
+		}
+	]
+}

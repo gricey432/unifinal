@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Multi-faceted Complex Case Seminars",
+			"weight": 40
+		},
+		{
+			"name": "Single Case Study Assignment",
+			"weight": 60
+		}
+	]
+}

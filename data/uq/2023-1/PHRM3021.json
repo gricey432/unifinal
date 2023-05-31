@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory-based practicals",
+			"weight": 30
+		},
+		{
+			"name": "Digital on-campus invigilated examination",
+			"weight": 70
+		}
+	]
+}

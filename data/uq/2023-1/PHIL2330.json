@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Lecture and Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "First Essay",
+			"weight": 35
+		},
+		{
+			"name": "Final Essay",
+			"weight": 55
+		}
+	]
+}

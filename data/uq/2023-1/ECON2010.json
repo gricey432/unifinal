@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises",
+			"weight": 16
+		},
+		{
+			"name": "Video: Analysis of Economic Policy Problems",
+			"weight": 28
+		},
+		{
+			"name": "Exercise I",
+			"weight": 28
+		},
+		{
+			"name": "Exercise II",
+			"weight": 28
+		}
+	]
+}

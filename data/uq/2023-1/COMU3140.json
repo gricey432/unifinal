@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Report (Part A) and Simulated Interview (Part B)",
+			"weight": 50
+		},
+		{
+			"name": "Presentation (Part A) and Reflection (Part B)",
+			"weight": 50
+		}
+	]
+}

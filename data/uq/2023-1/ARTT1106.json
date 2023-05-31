@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 15
+		},
+		{
+			"name": "Visual Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Annotated Bibliography and Essay Plan",
+			"weight": 15
+		},
+		{
+			"name": "Research Essay",
+			"weight": 40
+		}
+	]
+}

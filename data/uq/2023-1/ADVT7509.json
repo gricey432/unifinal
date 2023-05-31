@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Strategy Analysis",
+			"weight": 25
+		},
+		{
+			"name": "Creative Strategy Portfolio",
+			"weight": 35
+		},
+		{
+			"name": "Creative Strategy Campaign Development",
+			"weight": 40
+		}
+	]
+}

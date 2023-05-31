@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Family Art Therapy Intervention",
+			"weight": 30
+		},
+		{
+			"name": "Art Therapy Visual Journal",
+			"weight": 20
+		},
+		{
+			"name": "Group Art Therapy Intervention",
+			"weight": 50
+		},
+		{
+			"name": "Group and Family Therapies PSYCHOTHERAPY",
+			"weight": 20
+		},
+		{
+			"name": "Comparing group and family therapies PSYCHOTHERAPY",
+			"weight": 40
+		},
+		{
+			"name": "Topic on Group or Family Therapy PSYCHOTHERAPY",
+			"weight": 40
+		}
+	]
+}

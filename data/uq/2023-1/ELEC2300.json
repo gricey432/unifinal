@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lab sessions",
+			"weight": 20
+		},
+		{
+			"name": "Tutorials",
+			"weight": 15
+		},
+		{
+			"name": "In Week 8 (Invigilated, in class, closed book)",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Exam - Invigilated closed book",
+			"weight": 35
+		}
+	]
+}

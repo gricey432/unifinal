@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report 1. Assignment on exposure assessment",
+			"weight": 15
+		},
+		{
+			"name": "Online quiz series",
+			"weight": 36
+		},
+		{
+			"name": "Report 2. Assignment on health effects assessment",
+			"weight": 15
+		},
+		{
+			"name": "Report 3. Assignment on microbial risk assessment",
+			"weight": 34
+		}
+	]
+}

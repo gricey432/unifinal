@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Question Authoring and Answering via RiPPLE",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Written Report Health Infographic",
+			"weight": 10
+		},
+		{
+			"name": "Written Commentary",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

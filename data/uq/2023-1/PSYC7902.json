@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Module Assignments",
+			"weight": 60
+		},
+		{
+			"name": "Tutorial Worksheets",
+			"weight": 6
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		}
+	]
+}

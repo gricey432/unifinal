@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Visual Analysis Essay",
+			"weight": 20
+		},
+		{
+			"name": "Formal Analysis Essay",
+			"weight": 35
+		},
+		{
+			"name": "Revised and Supplemented Comparative Analysis",
+			"weight": 45
+		}
+	]
+}

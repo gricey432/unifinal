@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Written concept note and oral discussion",
+			"weight": 25
+		},
+		{
+			"name": "Project document",
+			"weight": 65
+		},
+		{
+			"name": "Reflection",
+			"weight": 10
+		}
+	]
+}

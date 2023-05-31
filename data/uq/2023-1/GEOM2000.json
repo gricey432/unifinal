@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Earth Observation Applications and Impacts",
+			"weight": 20
+		},
+		{
+			"name": "#1: Linking field and image spatial data QGIS",
+			"weight": 40
+		},
+		{
+			"name": "#2 Image Processing ENVI - Mapping and Monitoring",
+			"weight": 40
+		}
+	]
+}

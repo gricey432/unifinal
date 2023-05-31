@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final Exam",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Major Essay Plan (800 words)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay (3000 word)",
+			"weight": 40
+		}
+	]
+}

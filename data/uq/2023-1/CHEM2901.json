@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop assessment items",
+			"weight": 10
+		},
+		{
+			"name": "Module 1 Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Module 2 Quiz",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

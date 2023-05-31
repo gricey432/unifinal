@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Podcast on unsupervised learning",
+			"weight": 15
+		},
+		{
+			"name": "Unsupervised learning assignment",
+			"weight": 35
+		},
+		{
+			"name": "Podcast on supervised learning",
+			"weight": 15
+		},
+		{
+			"name": "Supervised learning assignment",
+			"weight": 35
+		}
+	]
+}

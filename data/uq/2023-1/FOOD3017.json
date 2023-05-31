@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Predictive Microbiology Simulation and Analysis",
+			"weight": 20
+		},
+		{
+			"name": "Hazard Analysis Critical Control Point Activity",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - Online Invigilated (ProctorU)",
+			"weight": 50
+		}
+	]
+}

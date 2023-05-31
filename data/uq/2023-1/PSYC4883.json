@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Student Seminar",
+			"weight": 0
+		},
+		{
+			"name": "Author Questions",
+			"weight": 20
+		},
+		{
+			"name": "Class Participation",
+			"weight": 0
+		},
+		{
+			"name": "Research Proposal - Introduction",
+			"weight": 40
+		},
+		{
+			"name": "Research Proposal - Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Student seminar",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

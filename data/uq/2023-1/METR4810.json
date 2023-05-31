@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Design Process and Communication (team + indv.)",
+			"weight": 20
+		},
+		{
+			"name": "Product Mark (team)",
+			"weight": 60
+		},
+		{
+			"name": "Individual Report (individual)",
+			"weight": 20
+		}
+	]
+}

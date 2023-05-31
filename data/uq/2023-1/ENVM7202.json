@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online multiple-choice quiz",
+			"weight": 40
+		},
+		{
+			"name": "Draft Conservation Action Plan",
+			"weight": 15
+		},
+		{
+			"name": "Full Conservation Action Plan",
+			"weight": 45
+		}
+	]
+}

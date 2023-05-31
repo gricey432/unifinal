@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Draft: Assessment of Journal Articles",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Assessment of Journal Articles",
+			"weight": 40
+		},
+		{
+			"name": "Draft: Surgical Audit Report",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Surgical Audit Report",
+			"weight": 30
+		},
+		{
+			"name": "Draft:Preparing a Journal Article for 'Publishing'",
+			"weight": "Compliance Hurdle"
+		},
+		{
+			"name": "Preparing a Journal Article for 'Publishing'",
+			"weight": 30
+		}
+	]
+}

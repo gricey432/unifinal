@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "AT1 Professional Experience Statement",
+			"weight": 0
+		},
+		{
+			"name": "AT2 Critical Review of the Literature",
+			"weight": 50
+		},
+		{
+			"name": "AT3 Design and Presentation of a Numeracy Task",
+			"weight": 50
+		},
+		{
+			"name": "AT4 Attendance and Participation Log",
+			"weight": 0
+		}
+	]
+}

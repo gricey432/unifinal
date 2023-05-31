@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation & attendance (AI OPTION 1)",
+			"weight": 5
+		},
+		{
+			"name": "Problem-Based Assessment Task --1 (AI OPTION 1)",
+			"weight": 45
+		},
+		{
+			"name": "Problem-Based Assessment Task --2 (AI OPTION 1)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case study Ethics in engineering",
+			"weight": 20
+		},
+		{
+			"name": "Exam during the lecture",
+			"weight": 20
+		},
+		{
+			"name": "Group assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

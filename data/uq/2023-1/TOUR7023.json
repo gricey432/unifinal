@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Infographic - External Resource Audit: Destination",
+			"weight": 30
+		},
+		{
+			"name": "Online Exam",
+			"weight": 25
+		},
+		{
+			"name": "Case Study Report",
+			"weight": 45
+		}
+	]
+}

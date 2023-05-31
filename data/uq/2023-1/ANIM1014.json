@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Companion Animal 2 OR Wildlife",
+			"weight": 6
+		},
+		{
+			"name": "Dairy Cattle",
+			"weight": 6
+		},
+		{
+			"name": "Equine",
+			"weight": 6
+		},
+		{
+			"name": "Companion Animal 1 OR Beef Cattle",
+			"weight": 6
+		},
+		{
+			"name": "Small Ruminants",
+			"weight": 6
+		},
+		{
+			"name": "Animal Behaviour Report",
+			"weight": 30
+		},
+		{
+			"name": "Animal Handling",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Examination",
+			"weight": 40
+		}
+	]
+}

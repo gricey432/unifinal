@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A1: Critique of SHRM Frameworks Report",
+			"weight": 30
+		},
+		{
+			"name": "A2: Strategic Career Plan Report",
+			"weight": 30
+		},
+		{
+			"name": "A3: Current issues in SHRM in organisations",
+			"weight": 40
+		}
+	]
+}

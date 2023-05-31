@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio",
+			"weight": 20
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Investment Valuation Project and Presentation",
+			"weight": 65
+		},
+		{
+			"name": "Formative Peer Assessment",
+			"weight": 0
+		}
+	]
+}

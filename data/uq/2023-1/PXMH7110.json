@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Journal",
+			"weight": 50
+		},
+		{
+			"name": "Practicum",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Case Study Presentation",
+			"weight": 50
+		}
+	]
+}

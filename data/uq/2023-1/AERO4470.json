@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class problems",
+			"weight": 10
+		},
+		{
+			"name": "Shock tunnel laboratory experiment",
+			"weight": 15
+		},
+		{
+			"name": "Hypersonics assignment",
+			"weight": 25
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

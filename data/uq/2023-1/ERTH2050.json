@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical exercises",
+			"weight": 15
+		},
+		{
+			"name": "Rockhampton Final report - group map",
+			"weight": 30
+		},
+		{
+			"name": "Field Exam (mapping)",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (Theory)",
+			"weight": 25
+		}
+	]
+}

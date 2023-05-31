@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Formulating your topic",
+			"weight": 5
+		},
+		{
+			"name": "Research proposal",
+			"weight": 25
+		},
+		{
+			"name": "Ethical clearance",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Progress report",
+			"weight": 10
+		},
+		{
+			"name": "Thesis",
+			"weight": 60
+		}
+	]
+}

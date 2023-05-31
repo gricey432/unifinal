@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Memoir / Personal Essay",
+			"weight": 15
+		},
+		{
+			"name": "Biography / Place Writing",
+			"weight": 25
+		},
+		{
+			"name": "Workshopping reflection",
+			"weight": 10
+		},
+		{
+			"name": "Creative Non-Fiction",
+			"weight": 50
+		}
+	]
+}

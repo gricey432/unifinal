@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Km for leu-peptide binding to aminopeptidase",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Lab report for KARI + crystal and pymol report",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 35
+		}
+	]
+}

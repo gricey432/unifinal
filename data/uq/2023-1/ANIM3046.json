@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Exercise 1. Systems Analysis and Mendel",
+			"weight": 4
+		},
+		{
+			"name": "Exercise 2. Hardy Weinberg",
+			"weight": 4
+		},
+		{
+			"name": "Exercise 3. The Breeding Objective",
+			"weight": 4
+		},
+		{
+			"name": "Exercise 4. The Key Equation",
+			"weight": 4
+		},
+		{
+			"name": "Exercise 5. Heterosis and Hybrid Vigour",
+			"weight": 4
+		},
+		{
+			"name": "The Balance of Animal Selection",
+			"weight": 30
+		},
+		{
+			"name": "End Semester Exam",
+			"weight": 50
+		}
+	]
+}

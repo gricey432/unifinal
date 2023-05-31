@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Report",
+			"weight": 20
+		},
+		{
+			"name": "Essay/Report Plan",
+			"weight": 30
+		},
+		{
+			"name": "Essay/Report",
+			"weight": 50
+		}
+	]
+}

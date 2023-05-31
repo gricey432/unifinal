@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Intake interview and self-reflection",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Suicide risk assessment",
+			"weight": "Pass/Recycle"
+		},
+		{
+			"name": "Observation of clinical interaction - minimum of 4",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Mid Placement Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Multi Station Assessment Task (MSAT)",
+			"weight": "Pass/Recycle/Fail"
+		},
+		{
+			"name": "End Placement Review",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Log",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Video",
+			"weight": "Not applicable."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact course coordinator"
+		},
+		{
+			"name": "MSAT",
+			"weight": "Contact the Course Coordinator directly."
+		}
+	]
+}

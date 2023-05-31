@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis plan (milestone task)",
+			"weight": "Pass/Fail 1,200 words (minimum)"
+		},
+		{
+			"name": "Thesis Draft (milestone)",
+			"weight": "Pass/Fail 5,000 words (minimum)"
+		},
+		{
+			"name": "Communication research thesis",
+			"weight": 100
+		},
+		{
+			"name": "Thesis plan (milestone task)",
+			"weight": "Pass/Fail 1,200 words (minimum)"
+		},
+		{
+			"name": "Thesis Draft (milestone)",
+			"weight": "milestoneProject (exegesis-3000 words minimum; + package)"
+		},
+		{
+			"name": "Communication project and exegesis",
+			"weight": 100
+		}
+	]
+}

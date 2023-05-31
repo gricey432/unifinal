@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial 1 - Presentation Style and Preparation",
+			"weight": 5
+		},
+		{
+			"name": "Tutorial 2 - Structuring an exam response",
+			"weight": 5
+		},
+		{
+			"name": "Oral Group Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Final semester exam",
+			"weight": 45
+		}
+	]
+}

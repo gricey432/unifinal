@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Turing Machines Laboratory",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Lambda Calculus Laboratory",
+			"weight": 15
+		},
+		{
+			"name": "Quantum Computation",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

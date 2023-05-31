@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Case Presentation and Discussion",
+			"weight": "9 assessment criteria"
+		},
+		{
+			"name": "Clinical Participation Assessment (CPA)",
+			"weight": "Performance hurdle: 4 assessment criteria"
+		},
+		{
+			"name": "Peer-led Teaching & Learning",
+			"weight": "5 assessment criteria"
+		},
+		{
+			"name": "Medicine in Society Tutorials (ViM or CiM)",
+			"weight": "9 assessment criteria"
+		}
+	]
+}

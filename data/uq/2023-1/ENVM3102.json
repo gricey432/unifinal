@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 1 - Project Plan",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 2 - Placement Project Poster",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 3 - Placement Project Report",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Assessment 4 - Placement Supervisor's Appraisal",
+			"weight": "PASS/FAIL. Student must achieve at least 8/20 for a Pass."
+		}
+	]
+}

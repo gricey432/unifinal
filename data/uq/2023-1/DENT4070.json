@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Preclinical competency- Paediatric dentistry",
+			"weight": 20
+		},
+		{
+			"name": "Preclinical competency- Fixed Prosthodontics",
+			"weight": 15
+		},
+		{
+			"name": "IPCP Curriculum Assessment",
+			"weight": 0
+		},
+		{
+			"name": "Endodontic Case Portfolio",
+			"weight": 10
+		},
+		{
+			"name": "Portfolio (ePAD  Work Based Assessment)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Module 1-Prosthodontics and Paediatric Dentistry",
+			"weight": 20
+		},
+		{
+			"name": "Module 2 Endodontics and Orthodontics",
+			"weight": 35
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "COMPASS(R) Midway Clinical Evaluation",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "COMPASS(R) Final Clinical Evaluation",
+			"weight": "Pass / Fail MUST PASS"
+		}
+	]
+}

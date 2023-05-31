@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Participation",
+			"weight": 15
+		},
+		{
+			"name": "Blog Post on Chosen Origin Story",
+			"weight": 20
+		},
+		{
+			"name": "Video for Advanced Humanities Youtube Channel",
+			"weight": 30
+		},
+		{
+			"name": "Me-in-a-Minute Video & Critical Reflective Essay",
+			"weight": 35
+		}
+	]
+}

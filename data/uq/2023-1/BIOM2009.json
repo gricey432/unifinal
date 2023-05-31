@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-class assessment",
+			"weight": 21
+		},
+		{
+			"name": "Practical report",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 59
+		}
+	]
+}

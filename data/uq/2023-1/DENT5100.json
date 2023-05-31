@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Online Case-based activity (two quizzes)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Final Clinical Competence Assessment",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Case based Critical Self Reflection",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Case-based Presentation and Discussion",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

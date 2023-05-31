@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation and professional conduct",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Training Needs Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Main report",
+			"weight": 50
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": 10
+		},
+		{
+			"name": "Reports",
+			"weight": "Contact Course Coosrination in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		},
+		{
+			"name": "Participation",
+			"weight": "NA"
+		},
+		{
+			"name": "Peer Assessment",
+			"weight": "Contact Course Coosrination in the first instance\n\n\t\t\thttps://my.uq.edu.au/node/218/2#2"
+		}
+	]
+}

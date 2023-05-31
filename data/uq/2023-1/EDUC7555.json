@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Unit Plan",
+			"weight": 20
+		},
+		{
+			"name": "Lesson Sequence and Written Account",
+			"weight": 30
+		},
+		{
+			"name": "Classroom Activities and Pedagogical Statement",
+			"weight": 20
+		},
+		{
+			"name": "Resource Portfolio and Critical Reflection",
+			"weight": 30
+		}
+	]
+}

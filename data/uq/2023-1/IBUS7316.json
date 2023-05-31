@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Literature Review",
+			"weight": 40
+		},
+		{
+			"name": "Time-bound Assessment",
+			"weight": 60
+		}
+	]
+}

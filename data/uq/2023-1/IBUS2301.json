@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Company case analysis",
+			"weight": 15
+		},
+		{
+			"name": "Mid Semester Exam (online, during class time)",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam (online)",
+			"weight": 50
+		}
+	]
+}

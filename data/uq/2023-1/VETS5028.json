@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Anaesthesia/Analgesia Performance Assessment",
+			"weight": 30
+		},
+		{
+			"name": "Anaesthesia Rounds Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Radiography positioning exam",
+			"weight": 5
+		},
+		{
+			"name": "Radiology case reports",
+			"weight": 15
+		},
+		{
+			"name": "Emergency and Critical Care Performance Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		}
+	]
+}

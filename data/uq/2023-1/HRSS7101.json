@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research Project Plan",
+			"weight": 20
+		},
+		{
+			"name": "Research Project Report",
+			"weight": 50
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 30
+		}
+	]
+}

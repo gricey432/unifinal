@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Video interview and analysis",
+			"weight": 50
+		},
+		{
+			"name": "Future practice assignment",
+			"weight": 50
+		}
+	]
+}

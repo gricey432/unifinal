@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1 - Research Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Active Participation in Tutorials",
+			"weight": "Hurdle Task"
+		},
+		{
+			"name": "Assignment 2 - Project Report",
+			"weight": 60
+		}
+	]
+}

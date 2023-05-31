@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Site Evaluation (Solar)",
+			"weight": 30
+		},
+		{
+			"name": "Individual demonstration (Wind Power)",
+			"weight": 20
+		},
+		{
+			"name": "Group Report - Net Zero Electricity System",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Western Religious Tradition(s) Poster",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 50
+		}
+	]
+}

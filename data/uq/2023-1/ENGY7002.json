@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Modules Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "National Case Study - Energy Trilemma",
+			"weight": 30
+		},
+		{
+			"name": "Report: Community Energy Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Individual Check-in: Community Energy Proposal",
+			"weight": 5
+		}
+	]
+}

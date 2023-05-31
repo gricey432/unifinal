@@ -1,0 +1,56 @@
+{
+	"assessment": [
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		},
+		{
+			"name": "Seminar participation",
+			"weight": 10
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 60
+		},
+		{
+			"name": "Written response to 2 readings (Media & Comms)",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay (Media & comms)",
+			"weight": 70
+		},
+		{
+			"name": "lead discussion and written reflection",
+			"weight": 30
+		},
+		{
+			"name": "Final research essay",
+			"weight": 70
+		},
+		{
+			"name": "Annotated Bibliography",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 70
+		}
+	]
+}

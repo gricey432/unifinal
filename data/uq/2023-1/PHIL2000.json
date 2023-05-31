@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Knowledge Essay",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": 15
+		},
+		{
+			"name": "Metaphysics Essay",
+			"weight": 45
+		}
+	]
+}

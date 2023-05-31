@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Exam",
+			"weight": 35
+		},
+		{
+			"name": "Individual Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

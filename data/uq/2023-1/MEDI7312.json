@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "History and Mental status examination assessment",
+			"weight": 30
+		},
+		{
+			"name": "Case-Based Written Examination",
+			"weight": 40
+		},
+		{
+			"name": "Multiple Choice Examination",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Participation Assessment",
+			"weight": "Performance hurdle:  Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Presentation of Solution to an Applied Org Problem",
+			"weight": 40
+		},
+		{
+			"name": "Class discussion/facilitation integrative reviews",
+			"weight": 20
+		},
+		{
+			"name": "Report on Solution to an Applied Org Problem",
+			"weight": 40
+		},
+		{
+			"name": "Article reviews and class factilitation",
+			"weight": "Contact the Course Coordinator."
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

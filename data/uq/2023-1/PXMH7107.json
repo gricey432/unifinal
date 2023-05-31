@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Practicum",
+			"weight": "Performance Hurdle"
+		},
+		{
+			"name": "Visual and Written Reflective Journal",
+			"weight": 50
+		},
+		{
+			"name": "Art Therapy Case Study",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Wind Farm Infographic",
+			"weight": 15
+		},
+		{
+			"name": "Solar Problem Set",
+			"weight": 15
+		},
+		{
+			"name": "Electricity Generation using Fossil Fuels",
+			"weight": 30
+		},
+		{
+			"name": "Group Project - Net Zero Energy System",
+			"weight": 40
+		}
+	]
+}

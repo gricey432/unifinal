@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Laboratory Reports",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Term Exam Theory (10%) and Practical (15%)",
+			"weight": 25
+		},
+		{
+			"name": "Prospect Evaluation Report (Group Work)",
+			"weight": 25
+		},
+		{
+			"name": "Final Theory Exam",
+			"weight": 40
+		}
+	]
+}

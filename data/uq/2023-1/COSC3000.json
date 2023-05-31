@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Project - Scientific Visualisation",
+			"weight": 50
+		},
+		{
+			"name": "Project - Computer Graphics",
+			"weight": 50
+		}
+	]
+}

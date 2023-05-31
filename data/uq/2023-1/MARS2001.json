@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Data exercises based upon workshop materials",
+			"weight": 50
+		},
+		{
+			"name": "Research project plan",
+			"weight": 15
+		},
+		{
+			"name": "Field Report",
+			"weight": 25
+		},
+		{
+			"name": "Field note book",
+			"weight": 10
+		}
+	]
+}

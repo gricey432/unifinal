@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Review Questions",
+			"weight": 10
+		},
+		{
+			"name": "Microeconomic Theory in Action",
+			"weight": 30
+		},
+		{
+			"name": "Online Test 1",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 3",
+			"weight": 20
+		},
+		{
+			"name": "Online Test 4",
+			"weight": 20
+		}
+	]
+}

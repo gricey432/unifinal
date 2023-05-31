@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Multiple-Choice Quiz",
+			"weight": 10
+		},
+		{
+			"name": "MS Excel Assignment and Reflective Essay",
+			"weight": 40
+		},
+		{
+			"name": "Invigilated End of Semester Examination",
+			"weight": 50
+		}
+	]
+}

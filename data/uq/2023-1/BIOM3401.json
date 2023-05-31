@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Aspirin ADME",
+			"weight": 5
+		},
+		{
+			"name": "Pharmacokinetics of Alcohol",
+			"weight": 10
+		},
+		{
+			"name": "Organ Bath Flowchart",
+			"weight": 2
+		},
+		{
+			"name": "Organ Bath Report",
+			"weight": 18
+		},
+		{
+			"name": "Pharmacokinetics of Alcohol Reflection",
+			"weight": 1.5
+		},
+		{
+			"name": "Organ Bath Reflection",
+			"weight": 1.5
+		},
+		{
+			"name": "Reflection",
+			"weight": 2
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Executive Summary: \"Fact Sheet\"",
+			"weight": 10
+		},
+		{
+			"name": "10-Minute Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Rehabilitation Psychology Core Competency",
+			"weight": 30
+		},
+		{
+			"name": "Written Report",
+			"weight": 40
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Demonstration",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

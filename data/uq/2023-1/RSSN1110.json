@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Written Assessment series",
+			"weight": 40
+		},
+		{
+			"name": "Course Engagement Portfolio",
+			"weight": 15
+		},
+		{
+			"name": "Mid-semester Oral Assessment",
+			"weight": 15
+		},
+		{
+			"name": "Final Oral Assessment",
+			"weight": 30
+		}
+	]
+}

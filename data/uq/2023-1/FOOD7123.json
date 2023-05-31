@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZ 1 (during lecture)",
+			"weight": 10
+		},
+		{
+			"name": "QUIZ 2 (during lecture)",
+			"weight": 10
+		},
+		{
+			"name": "QUIZ 3 (during lecture)",
+			"weight": 10
+		},
+		{
+			"name": "QUIZ 4 (during lecture)",
+			"weight": 10
+		},
+		{
+			"name": "Group Assignment and Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

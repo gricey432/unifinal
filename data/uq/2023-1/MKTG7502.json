@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Essay",
+			"weight": 30
+		},
+		{
+			"name": "Brand Strategy Audit",
+			"weight": 35
+		},
+		{
+			"name": "Contemporary Case Evaluation",
+			"weight": 35
+		}
+	]
+}

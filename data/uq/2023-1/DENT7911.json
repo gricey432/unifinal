@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Data Analysis Plan",
+			"weight": 10
+		},
+		{
+			"name": "Discipline-specific DMFR Case Presentation",
+			"weight": 25
+		},
+		{
+			"name": "Discipline-specific Literature Review",
+			"weight": 35
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

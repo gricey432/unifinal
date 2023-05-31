@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Health complexity in pregnancy",
+			"weight": 50
+		},
+		{
+			"name": "Online invigilated on campus exam",
+			"weight": 50
+		}
+	]
+}

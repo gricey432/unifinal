@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-semester Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Calculation and interpretation report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam (Online)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Individual Essay",
+			"weight": 40
+		},
+		{
+			"name": "Group Poster Presentation",
+			"weight": 40
+		}
+	]
+}

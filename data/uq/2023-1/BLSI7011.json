@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Account",
+			"weight": 30
+		},
+		{
+			"name": "Challenge Statement and Research Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Strategic Proposal",
+			"weight": 30
+		}
+	]
+}

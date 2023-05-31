@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design analysis: research & response",
+			"weight": 30
+		},
+		{
+			"name": "Final Design project (hurdle)",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Problem-based Learning Exercises",
+			"weight": 30
+		},
+		{
+			"name": "Quiz before prac session",
+			"weight": "Pass or Fail"
+		},
+		{
+			"name": "A written report covering both prac sessions",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

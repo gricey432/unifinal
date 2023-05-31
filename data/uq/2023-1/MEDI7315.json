@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Case-Based Discussion",
+			"weight": 20
+		},
+		{
+			"name": "Rural Health Project Report",
+			"weight": 30
+		},
+		{
+			"name": "MCQ Exam paper - RRM",
+			"weight": 50
+		},
+		{
+			"name": "Learning Participation Hurdle",
+			"weight": "Performance Hurdle: Students must complete this requirement to pass the course"
+		}
+	]
+}

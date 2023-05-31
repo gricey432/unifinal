@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Journal",
+			"weight": 30
+		},
+		{
+			"name": "Article Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Argumentative Essay",
+			"weight": 25
+		},
+		{
+			"name": "Project Report",
+			"weight": 35
+		}
+	]
+}

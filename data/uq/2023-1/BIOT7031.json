@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "GQMS Assignment (Individual)",
+			"weight": 30
+		},
+		{
+			"name": "GLP Assignment (Group-Based)",
+			"weight": 30
+		},
+		{
+			"name": "GCP Assignment (Group-Based)",
+			"weight": 30
+		},
+		{
+			"name": "End of semester quiz (Online)",
+			"weight": 10
+		}
+	]
+}

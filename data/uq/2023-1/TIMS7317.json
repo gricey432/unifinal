@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Individual Project - Part A",
+			"weight": 40
+		},
+		{
+			"name": "Team Sustainability Presentation and Report",
+			"weight": 25
+		},
+		{
+			"name": "Individual Project - Part B",
+			"weight": 35
+		}
+	]
+}

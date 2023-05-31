@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Musculoskeletal anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 2:ECG and spirometry",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 3: Gastrointestinal anatomy",
+			"weight": 4
+		},
+		{
+			"name": "Learning workshop 1",
+			"weight": 3
+		},
+		{
+			"name": "Task 1",
+			"weight": 3
+		},
+		{
+			"name": "Learning workshop 2",
+			"weight": 3
+		},
+		{
+			"name": "Task 2",
+			"weight": 3
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 30
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 46
+		}
+	]
+}

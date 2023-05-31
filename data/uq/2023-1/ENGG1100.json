@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Concept Report (Individual)",
+			"weight": 20
+		},
+		{
+			"name": "Oral Presentation (Team)",
+			"weight": 15
+		},
+		{
+			"name": "Engagement Portfolio (Individual)",
+			"weight": 15
+		},
+		{
+			"name": "Design Project Part 1: Demonstration",
+			"weight": 20
+		},
+		{
+			"name": "Design Project Part 2: Final Report",
+			"weight": 30
+		},
+		{
+			"name": "PAF (Individual)",
+			"weight": "Submission"
+		}
+	]
+}

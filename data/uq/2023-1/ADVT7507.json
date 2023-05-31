@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "Google Ads Certification and Ethical Reflection",
+			"weight": 35
+		},
+		{
+			"name": "Digital Advertising Plan",
+			"weight": 40
+		}
+	]
+}

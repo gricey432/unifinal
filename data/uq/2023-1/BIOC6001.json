@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of laboratory performance",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 15
+		},
+		{
+			"name": "Communicating Molecular Biology",
+			"weight": 15
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

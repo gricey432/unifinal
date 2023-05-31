@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Project Definition",
+			"weight": 15
+		},
+		{
+			"name": "PowerPoint Presentation",
+			"weight": 0
+		},
+		{
+			"name": "Clinical MRI Project",
+			"weight": 70
+		},
+		{
+			"name": "PowerPoint Slides",
+			"weight": 15
+		}
+	]
+}

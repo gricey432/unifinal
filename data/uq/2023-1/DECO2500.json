@@ -1,0 +1,72 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Interface Inquiry and Critique",
+			"weight": 40
+		},
+		{
+			"name": "Design Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Qualitative Grade",
+			"weight": "UQ Grade Band"
+		},
+		{
+			"name": "High Distinction+",
+			"weight": "High Distinction\n\t\t\t(7)"
+		},
+		{
+			"name": "Distinction+",
+			"weight": "Distinction\n\t\t\t(6)"
+		},
+		{
+			"name": "Credit+",
+			"weight": "Credit\n\t\t\t(5)"
+		},
+		{
+			"name": "Pass+",
+			"weight": "Pass\n\t\t\t(4)"
+		},
+		{
+			"name": "Fail+",
+			"weight": "Fail\n\t\t\t(1-3)"
+		},
+		{
+			"name": "X (No assessable work received)",
+			"weight": "X"
+		},
+		{
+			"name": "1",
+			"weight": "Fail (2)"
+		},
+		{
+			"name": "2",
+			"weight": "Fail (2)"
+		},
+		{
+			"name": "3",
+			"weight": "Fail (2)"
+		},
+		{
+			"name": "4",
+			"weight": "Pass (5)"
+		},
+		{
+			"name": "5",
+			"weight": "Credit (8)"
+		},
+		{
+			"name": "6",
+			"weight": "High Distinction (14)"
+		},
+		{
+			"name": "7",
+			"weight": "High Distinction (14)"
+		}
+	]
+}

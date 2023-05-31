@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Executive Summary",
+			"weight": 40
+		},
+		{
+			"name": "Professionalism Assessment",
+			"weight": "P/F"
+		},
+		{
+			"name": "Menu Planning Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Quizzes",
+			"weight": 10
+		}
+	]
+}

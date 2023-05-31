@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Teaching Mathematics Essay",
+			"weight": 30
+		},
+		{
+			"name": "Mathematics Competency Task",
+			"weight": 30
+		},
+		{
+			"name": "Video presentation and research brief",
+			"weight": 40
+		}
+	]
+}

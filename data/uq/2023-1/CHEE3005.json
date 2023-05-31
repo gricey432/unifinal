@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set 1",
+			"weight": 6
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 6
+		},
+		{
+			"name": "Problem Set 3",
+			"weight": 6
+		},
+		{
+			"name": "Problem Set 4",
+			"weight": 6
+		},
+		{
+			"name": "Reactor Practical",
+			"weight": 5
+		},
+		{
+			"name": "Problem Set 5",
+			"weight": 6
+		},
+		{
+			"name": "Reactor Design",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

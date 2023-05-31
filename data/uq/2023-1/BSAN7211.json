@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Monetisation Portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Data Monetisation Capability Assessment",
+			"weight": 20
+		},
+		{
+			"name": "Data Monetisation Strategy",
+			"weight": 40
+		}
+	]
+}

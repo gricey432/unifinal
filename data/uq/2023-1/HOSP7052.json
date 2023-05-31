@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Queensland Gaming",
+			"weight": 50
+		},
+		{
+			"name": "Report on Innovative Technology",
+			"weight": 50
+		}
+	]
+}

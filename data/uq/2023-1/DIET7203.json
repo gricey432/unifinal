@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Reflection - Cultural Safety",
+			"weight": 10
+		},
+		{
+			"name": "Critical Reflection - Teamwork",
+			"weight": 10
+		},
+		{
+			"name": "Dietitian ePortfolio Initiation",
+			"weight": 50
+		},
+		{
+			"name": "Business marketing plan and presentation",
+			"weight": 30
+		}
+	]
+}

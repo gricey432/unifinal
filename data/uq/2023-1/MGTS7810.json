@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Personal Case Discussion",
+			"weight": 0
+		},
+		{
+			"name": "Team presentation",
+			"weight": 40
+		},
+		{
+			"name": "Critical Case Analysis",
+			"weight": 60
+		}
+	]
+}

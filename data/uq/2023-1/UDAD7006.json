@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Research Report + Proposal",
+			"weight": 30
+		},
+		{
+			"name": "Strategic Urban Design Framework",
+			"weight": 70
+		}
+	]
+}

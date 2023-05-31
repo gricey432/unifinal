@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Week 1-7 Discussion Board",
+			"weight": 25
+		},
+		{
+			"name": "Week 10 improvisations",
+			"weight": 25
+		},
+		{
+			"name": "Week 13 Improvisation",
+			"weight": 25
+		},
+		{
+			"name": "Concert",
+			"weight": 25
+		}
+	]
+}

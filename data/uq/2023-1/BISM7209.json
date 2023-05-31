@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Asset safeguarding and control essay",
+			"weight": 20
+		},
+		{
+			"name": "MYOB and flowchart project",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 50
+		}
+	]
+}

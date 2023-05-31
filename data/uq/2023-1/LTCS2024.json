@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		},
+		{
+			"name": "Presentation and discussion",
+			"weight": 30
+		},
+		{
+			"name": "Reading/Viewing Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Report of presentation and discussion",
+			"weight": 20
+		}
+	]
+}

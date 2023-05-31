@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Country Report",
+			"weight": 35
+		},
+		{
+			"name": "Impact Report",
+			"weight": 35
+		},
+		{
+			"name": "CML Quizzes",
+			"weight": 30
+		}
+	]
+}

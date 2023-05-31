@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Foundational Module Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Group Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Investment Evaluation",
+			"weight": 50
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 20
+		}
+	]
+}

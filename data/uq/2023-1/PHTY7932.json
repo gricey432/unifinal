@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "PHTY7932 Personal Directed Tasks",
+			"weight": 30
+		},
+		{
+			"name": "PHTY7932 Mid-semester Assignment",
+			"weight": 25
+		},
+		{
+			"name": "PHTY7932 End of Semester Assignment",
+			"weight": 20
+		},
+		{
+			"name": "PHTY7932 End of Semester Viva Voce",
+			"weight": 25
+		}
+	]
+}

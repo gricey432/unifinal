@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Emerging Technology: Team Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Established Technology: Individual Presentation",
+			"weight": 45
+		},
+		{
+			"name": "Digital Transformation Hackathon",
+			"weight": 45
+		}
+	]
+}

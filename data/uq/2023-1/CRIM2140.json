@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Crime prevention evaluation plan",
+			"weight": 50
+		},
+		{
+			"name": "Class blog",
+			"weight": 30
+		},
+		{
+			"name": "Class presentation  crime prevention options",
+			"weight": 20
+		}
+	]
+}

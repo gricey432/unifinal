@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of zooarchaeology datasets",
+			"weight": 30
+		},
+		{
+			"name": "In-class exam",
+			"weight": 40
+		},
+		{
+			"name": "Presenting your research as a poster",
+			"weight": 30
+		}
+	]
+}

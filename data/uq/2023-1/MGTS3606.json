@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Team Global Mobility Handbook",
+			"weight": 50
+		},
+		{
+			"name": "5 Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Individual Global Mobility Handbook",
+			"weight": 30
+		}
+	]
+}

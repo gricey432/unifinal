@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory Safety Induction",
+			"weight": "Laboratory access will be denied if induction is not completed"
+		},
+		{
+			"name": "Weekly online quiz",
+			"weight": 10
+		},
+		{
+			"name": "Truss Design Challenge (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Peer Assessment - Formative",
+			"weight": 0
+		},
+		{
+			"name": "Peer Assessment - Truss Project (Individual)",
+			"weight": "Affects individual score for Truss Project"
+		},
+		{
+			"name": "Mid-Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

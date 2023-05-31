@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Evidence Summary",
+			"weight": 30
+		},
+		{
+			"name": "Introductory video",
+			"weight": 40
+		},
+		{
+			"name": "Workshop",
+			"weight": 30
+		},
+		{
+			"name": "Seminar",
+			"weight": "Extension applications are not applicable for this assessment item – students must contact the Course Coordinator directly prior to a missed workshop."
+		}
+	]
+}

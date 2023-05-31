@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Module Assignments",
+			"weight": 45
+		},
+		{
+			"name": "SONA Research Participation",
+			"weight": 6
+		},
+		{
+			"name": "Research Claim Essay",
+			"weight": 34
+		},
+		{
+			"name": "Final Exam",
+			"weight": 15
+		},
+		{
+			"name": "Research Participation",
+			"weight": "NA"
+		}
+	]
+}

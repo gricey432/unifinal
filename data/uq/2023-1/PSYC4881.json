@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Active Participation in Discussion",
+			"weight": 15
+		},
+		{
+			"name": "Student-Led Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Modeling Essay",
+			"weight": 50
+		},
+		{
+			"name": "Presentation",
+			"weight": "Contact Course Coordinator"
+		},
+		{
+			"name": "Participation",
+			"weight": "N/A"
+		}
+	]
+}

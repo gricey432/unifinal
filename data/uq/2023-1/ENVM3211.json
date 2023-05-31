@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online quiz for weeks 1 to 7",
+			"weight": 20
+		},
+		{
+			"name": "Online quiz for weeks 8 to 12",
+			"weight": 20
+		},
+		{
+			"name": "Field report",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

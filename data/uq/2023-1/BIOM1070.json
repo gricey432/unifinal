@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Minimum participation requirement at PASS",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practical Report - Osmosis",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report - Action Potential",
+			"weight": 10
+		},
+		{
+			"name": "Practical Report - Skeletal Muscle",
+			"weight": 10
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 45
+		}
+	]
+}

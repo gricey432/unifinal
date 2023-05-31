@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self and Peer Review Assignments",
+			"weight": 30
+		},
+		{
+			"name": "Assessed Discussion Board Cases",
+			"weight": 40
+		},
+		{
+			"name": "End of semester exam - Paper 1",
+			"weight": 10
+		},
+		{
+			"name": "End of semester exam - Paper 2",
+			"weight": 20
+		}
+	]
+}

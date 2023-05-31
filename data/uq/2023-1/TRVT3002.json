@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Scoping Report",
+			"weight": 50
+		},
+		{
+			"name": "Sponsorship proposal",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Series - Individual Assignment 1",
+			"weight": 5
+		},
+		{
+			"name": "Series - Individual Assignment 2",
+			"weight": 5
+		},
+		{
+			"name": "Series - Individual Assignment 3",
+			"weight": 5
+		},
+		{
+			"name": "Series - Individual Assignment 4",
+			"weight": 5
+		},
+		{
+			"name": "Series - Individual Assignment 5",
+			"weight": 5
+		},
+		{
+			"name": "Group Project - Design",
+			"weight": 35
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

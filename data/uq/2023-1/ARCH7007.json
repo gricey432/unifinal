@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "5x20 Presentations",
+			"weight": 10
+		},
+		{
+			"name": "Heritage description - Hartley Teakle",
+			"weight": 20
+		},
+		{
+			"name": "Visual diary",
+			"weight": 10
+		},
+		{
+			"name": "Adaptive reuse - Student Housing - Hartley Teakle",
+			"weight": 60
+		}
+	]
+}

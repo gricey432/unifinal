@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		},
+		{
+			"name": "Intercultural Experience Report",
+			"weight": 40
+		},
+		{
+			"name": "Intercultural Training Program",
+			"weight": 40
+		}
+	]
+}

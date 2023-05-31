@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Centrally Administered Invigilated Exam",
+			"weight": 40
+		},
+		{
+			"name": "Weekly Quiz | Best 10 of 12 Quizzes submitted |",
+			"weight": 20
+		},
+		{
+			"name": "Centrally Administered Invigilated Final Exam",
+			"weight": 40
+		}
+	]
+}

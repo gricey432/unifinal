@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Evaluating a digital health intervention",
+			"weight": 30
+		},
+		{
+			"name": "Proposal for digital health intervention",
+			"weight": 50
+		}
+	]
+}

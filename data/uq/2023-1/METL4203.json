@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz on flotation theory",
+			"weight": 10
+		},
+		{
+			"name": "Jameson Cell flotation to apply flotation physics",
+			"weight": 15
+		},
+		{
+			"name": "Pb/Zn separation to apply flotation chemistry",
+			"weight": 15
+		},
+		{
+			"name": "Flotation process design",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Examination (Closed Book)",
+			"weight": 45
+		}
+	]
+}

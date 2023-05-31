@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Practical Workbook and Unit Duties",
+			"weight": "Complete/Incomplete"
+		},
+		{
+			"name": "Mid-semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Equine Farm Strategy Plan",
+			"weight": 35
+		},
+		{
+			"name": "Final Examination",
+			"weight": 35
+		}
+	]
+}

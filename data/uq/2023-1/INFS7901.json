@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Collaborative Learning Exercises",
+			"weight": 10
+		},
+		{
+			"name": "Project",
+			"weight": 40
+		},
+		{
+			"name": "Final Exam",
+			"weight": 50
+		}
+	]
+}

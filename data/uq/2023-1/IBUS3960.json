@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Progressive development of Export Plan(Readiness)",
+			"weight": 10
+		},
+		{
+			"name": "Progressive development of export plan (Marketing)",
+			"weight": 20
+		},
+		{
+			"name": "Final submission of Export Plan - Full Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam - invigilated via ProctorU",
+			"weight": 40
+		}
+	]
+}

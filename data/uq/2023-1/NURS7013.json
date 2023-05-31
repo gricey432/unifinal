@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical reflections on Weekly modules",
+			"weight": 20
+		},
+		{
+			"name": "Presentation analysis",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 40
+		}
+	]
+}

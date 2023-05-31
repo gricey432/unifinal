@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "AoCC - Part A Orthopaedics & Part B Ophthalmology",
+			"weight": 12
+		},
+		{
+			"name": "Orthopaedics MCQ Exam",
+			"weight": 48
+		},
+		{
+			"name": "Ophthalmology MCQ Exam",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Participation Assessment - Orthopaedics",
+			"weight": "Performance hurdle. Students must meet this criterion regardless of the overall course marks."
+		}
+	]
+}

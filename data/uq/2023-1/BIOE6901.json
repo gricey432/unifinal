@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Individual engagement and participation",
+			"weight": 10
+		},
+		{
+			"name": "Research on a medical device and healthcare value",
+			"weight": 30
+		},
+		{
+			"name": "Team Project Plan",
+			"weight": 10
+		},
+		{
+			"name": "Team Project Deliverables & Oral Examination",
+			"weight": 50
+		}
+	]
+}

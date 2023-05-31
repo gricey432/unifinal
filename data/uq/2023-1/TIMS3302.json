@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pitch*, Video*, Autopsy*",
+			"weight": 40
+		},
+		{
+			"name": "Across 4 key topics",
+			"weight": 20
+		},
+		{
+			"name": "Emerging opportunities",
+			"weight": 40
+		}
+	]
+}

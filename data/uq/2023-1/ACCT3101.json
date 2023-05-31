@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 30
+		},
+		{
+			"name": "Individual Case study - Audit planning and testing",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (closed book invigilated exam)",
+			"weight": 50
+		}
+	]
+}

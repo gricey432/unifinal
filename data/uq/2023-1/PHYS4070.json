@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Lab Worksheets",
+			"weight": 0
+		},
+		{
+			"name": "Atomic Wavefunction",
+			"weight": 33.3
+		},
+		{
+			"name": "Monte-Carlo, Ising model",
+			"weight": 33.4
+		},
+		{
+			"name": "Many-body quantum",
+			"weight": 33.3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "SPCH3107 Practice Education (Module 2)",
+			"weight": "Pass/Fail MUST PASS"
+		},
+		{
+			"name": "Fluency Disorders Mid-Semester Examination",
+			"weight": 50
+		},
+		{
+			"name": "Stuttering Simulation Assessment (Module 1)",
+			"weight": 15
+		},
+		{
+			"name": "Fluency Disorders End-of-Semester Exam",
+			"weight": 35
+		}
+	]
+}

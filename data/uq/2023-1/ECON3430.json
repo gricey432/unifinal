@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Start-up company report milestone",
+			"weight": 5
+		},
+		{
+			"name": "Wikipedia article milestone",
+			"weight": 5
+		},
+		{
+			"name": "Start-up company report: First draft",
+			"weight": 30
+		},
+		{
+			"name": "Problem Set 1",
+			"weight": 20
+		},
+		{
+			"name": "Wikipedia article submission",
+			"weight": 10
+		},
+		{
+			"name": "Start-up company report: Second draft",
+			"weight": 30
+		},
+		{
+			"name": "Problem Set 2",
+			"weight": 30
+		},
+		{
+			"name": "Start-up company report: Final draft",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"assessment": [
+		{
+			"name": "Constructing a research question",
+			"weight": 2
+		},
+		{
+			"name": "Introduction to Jamovi and statistical thinking",
+			"weight": 2
+		},
+		{
+			"name": "Applying ethics processes to a research project",
+			"weight": 2
+		},
+		{
+			"name": "Describing types of data and univariate summary",
+			"weight": 2
+		},
+		{
+			"name": "Cleaning and re-categorising data",
+			"weight": 2
+		},
+		{
+			"name": "Categorical data: Summarising data",
+			"weight": 2
+		},
+		{
+			"name": "Categorical Data: Chi-square test of independence",
+			"weight": 2
+		},
+		{
+			"name": "Continuous data: Comparing two means",
+			"weight": 2
+		},
+		{
+			"name": "Continuous data: Comparing multiple means",
+			"weight": 2
+		},
+		{
+			"name": "Continuous data: Linear regression",
+			"weight": 2
+		},
+		{
+			"name": "Research Proposal Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Research Project Proposal",
+			"weight": 40
+		},
+		{
+			"name": "Research Analysis Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

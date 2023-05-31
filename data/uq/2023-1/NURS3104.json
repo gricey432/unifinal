@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Placement Preparation and Progression",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		}
+	]
+}

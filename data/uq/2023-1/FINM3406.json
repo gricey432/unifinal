@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester - multiple choice exam",
+			"weight": 30
+		},
+		{
+			"name": "Group Report - Evaluation of Build-to-Rent Project",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester - Final Exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance at Weekly Seminars",
+			"weight": 15
+		},
+		{
+			"name": "Essay (1500 words)",
+			"weight": 15
+		},
+		{
+			"name": "Summary of 10 set readings (from separate weeks)",
+			"weight": 20
+		},
+		{
+			"name": "Research Essay OR Podcast/Reflection",
+			"weight": 50
+		}
+	]
+}

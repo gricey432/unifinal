@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "A Case-Based Approach to Therapeutics for the VT",
+			"weight": 15
+		},
+		{
+			"name": "Drug & calculation quiz",
+			"weight": 10
+		},
+		{
+			"name": "A Case-Based Approach to Therapeutics for the VT",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

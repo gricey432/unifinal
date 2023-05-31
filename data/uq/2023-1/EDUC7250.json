@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critiquing educational research",
+			"weight": 30
+		},
+		{
+			"name": "Reflective essay",
+			"weight": 30
+		},
+		{
+			"name": "Action plan",
+			"weight": 40
+		}
+	]
+}

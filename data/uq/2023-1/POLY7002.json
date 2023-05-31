@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Ministerial Briefing (Week 4)",
+			"weight": 25
+		},
+		{
+			"name": "Policy Idea (Week 6)",
+			"weight": 5
+		},
+		{
+			"name": "Policy Advocacy Strategy (Week 9)",
+			"weight": 30
+		},
+		{
+			"name": "Ministerial Policy Submission (Exam Week 1)",
+			"weight": 40
+		}
+	]
+}

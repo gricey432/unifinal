@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Code Documentation (A1)",
+			"weight": 20
+		},
+		{
+			"name": "Online App (A2)",
+			"weight": 30
+		},
+		{
+			"name": "Business Analytics Project (A3)",
+			"weight": 50
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Research pitch",
+			"weight": 10
+		},
+		{
+			"name": "Research integrity and ethics workshop",
+			"weight": "Formative"
+		},
+		{
+			"name": "Thesis introduction",
+			"weight": 30
+		},
+		{
+			"name": "Thesis methods",
+			"weight": "Formative"
+		},
+		{
+			"name": "Thesis manuscript",
+			"weight": 50
+		},
+		{
+			"name": "Knowledge Translation",
+			"weight": 10
+		}
+	]
+}

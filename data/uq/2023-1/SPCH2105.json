@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Examination (modules 1-2)",
+			"weight": 30
+		},
+		{
+			"name": "Case-Based Language Sample Analysis Task",
+			"weight": 15
+		},
+		{
+			"name": "Reflection and Action Plan",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 40
+		}
+	]
+}

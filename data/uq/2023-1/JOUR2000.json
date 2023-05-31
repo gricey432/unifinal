@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Radio and TV News stories",
+			"weight": 40
+		},
+		{
+			"name": "Short-form audio or video documentary",
+			"weight": 60
+		}
+	]
+}

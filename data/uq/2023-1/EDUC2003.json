@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Micro Teaching & Reflection",
+			"weight": 50
+		},
+		{
+			"name": "Practical, Task Cards, Report (HURDLE)",
+			"weight": 50
+		}
+	]
+}

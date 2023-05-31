@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Classification Assignment",
+			"weight": 50
+		},
+		{
+			"name": "Text Analytics Assignment",
+			"weight": 50
+		}
+	]
+}

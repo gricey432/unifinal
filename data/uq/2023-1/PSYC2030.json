@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "4 x Quiz",
+			"weight": 55
+		},
+		{
+			"name": "Poster Presentation",
+			"weight": 15
+		},
+		{
+			"name": "The Effects of Violent Video Games",
+			"weight": 30
+		}
+	]
+}

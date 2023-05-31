@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Submission of Practical Reports",
+			"weight": 30
+		},
+		{
+			"name": "Quiz during tutorial time",
+			"weight": 30
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

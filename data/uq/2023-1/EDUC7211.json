@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reflection on Readings",
+			"weight": 10
+		},
+		{
+			"name": "Data to Inform Practice",
+			"weight": 40
+		},
+		{
+			"name": "Practitioner research - analysis and proposal",
+			"weight": 50
+		}
+	]
+}

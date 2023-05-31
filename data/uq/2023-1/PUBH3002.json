@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Policy Context Background Paper",
+			"weight": 30
+		},
+		{
+			"name": "Health Policy Document Analysis",
+			"weight": 40
+		},
+		{
+			"name": "Policy Brief",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Complete ten tutorial worksheets",
+			"weight": 20
+		},
+		{
+			"name": "Positive Psychology Intervention Journal",
+			"weight": 20
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Essay",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Exercises",
+			"weight": "N/A - No extensions are possible for this piece of assessment."
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 2",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 3",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 4",
+			"weight": 5
+		},
+		{
+			"name": "Quiz 5",
+			"weight": 5
+		},
+		{
+			"name": "Vegetation condition & wildlife report",
+			"weight": 5
+		},
+		{
+			"name": "Managing wetlands for wildlife",
+			"weight": 40
+		},
+		{
+			"name": "Acoustic monitoring project",
+			"weight": 30
+		}
+	]
+}

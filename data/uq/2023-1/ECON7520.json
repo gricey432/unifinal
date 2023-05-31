@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Problem Set",
+			"weight": 15
+		},
+		{
+			"name": "Report",
+			"weight": 30
+		},
+		{
+			"name": "Final Exam",
+			"weight": 55
+		}
+	]
+}

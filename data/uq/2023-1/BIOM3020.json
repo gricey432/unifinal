@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Cardio-metabolic health, lifestyle & body comp",
+			"weight": 20
+		},
+		{
+			"name": "Histology of reproductive organs",
+			"weight": 18
+		},
+		{
+			"name": "Hot topic 1",
+			"weight": 4
+		},
+		{
+			"name": "Hot topic 2",
+			"weight": 4
+		},
+		{
+			"name": "Hot topic 3",
+			"weight": 4
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

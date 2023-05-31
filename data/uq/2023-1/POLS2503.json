@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Quality of Tutorial Participation",
+			"weight": 10
+		},
+		{
+			"name": "Audio-Visual Presentation (8-10 Minutes)",
+			"weight": 20
+		},
+		{
+			"name": "Film Review (1000 words)",
+			"weight": 30
+		},
+		{
+			"name": "Case Study Essay (2000 words)",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Project Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Workplace Feedback and student reflection",
+			"weight": 10
+		},
+		{
+			"name": "Interim Report",
+			"weight": 15
+		},
+		{
+			"name": "Oral Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Final Report",
+			"weight": 55
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "In Class Quiz Prosthodontics",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Portfolio (Digital ePAD)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "Full Gold Crown preparation",
+			"weight": 25
+		},
+		{
+			"name": "Preclinical competency - Endodontics",
+			"weight": 25
+		},
+		{
+			"name": "RPD DESIGN EXAM",
+			"weight": 10
+		},
+		{
+			"name": "Written End of Semester Examination",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

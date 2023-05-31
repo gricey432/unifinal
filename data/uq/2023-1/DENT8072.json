@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Conference style oral presentation",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Research report",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Thesis examination",
+			"weight": "MUST PASS"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

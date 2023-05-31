@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Mid Semester Examination",
+			"weight": 20
+		},
+		{
+			"name": "Five Practicals",
+			"weight": 25
+		},
+		{
+			"name": "Chemical understanding and literacy",
+			"weight": 15
+		},
+		{
+			"name": "End Semester Examination",
+			"weight": 40
+		}
+	]
+}

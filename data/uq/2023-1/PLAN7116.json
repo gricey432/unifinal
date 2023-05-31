@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "One-Minute-Papers (OMP)",
+			"weight": 10
+		},
+		{
+			"name": "Transport Analysis Report",
+			"weight": 50
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 40
+		}
+	]
+}

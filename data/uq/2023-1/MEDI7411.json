@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "SCE - Part A (Obstetrics) & Part B (Gynaecology)",
+			"weight": 60
+		},
+		{
+			"name": "MCQ Exam Part A(Obstetrics) & Part B (Gynaecology)",
+			"weight": 40
+		},
+		{
+			"name": "WBA - Part A (Obstetrics) & Part B (Gynaecology)",
+			"weight": "Performance Hurdle: Pass/Fail"
+		},
+		{
+			"name": "CPA - Part A (Obstetrics) & Part B (Gynaecology)",
+			"weight": "Performance hurdle.  Students must meet this criterion regardless of the overall course marks."
+		},
+		{
+			"name": "Birth Log - Documented Vaginal Deliveries",
+			"weight": "Compliance Hurdle: Students must complete this requirement in order to pass the course"
+		}
+	]
+}

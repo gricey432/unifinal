@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Vitamin C Practical - All Groups",
+			"weight": 15
+		},
+		{
+			"name": "Total Starch Practical - All Groups",
+			"weight": 15
+		},
+		{
+			"name": "Yoghurt Practical - All Groups",
+			"weight": 15
+		},
+		{
+			"name": "Plant-based Vs meat-based mince: a comparison",
+			"weight": 15
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

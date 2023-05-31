@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Oral Component",
+			"weight": 65
+		},
+		{
+			"name": "Written Component",
+			"weight": 35
+		},
+		{
+			"name": "Long Case Logs",
+			"weight": "Compliance hurdle"
+		},
+		{
+			"name": "Clinical Participation Assessment - Medicine",
+			"weight": "Performance Hurdle. Students must meet this criterion regardless of overall course marks"
+		},
+		{
+			"name": "Practice Long Case Examination",
+			"weight": "Compliance Hurdle"
+		}
+	]
+}

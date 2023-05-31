@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Grand Rounds",
+			"weight": 10
+		},
+		{
+			"name": "Capstone A",
+			"weight": 10
+		},
+		{
+			"name": "Capstone B",
+			"weight": 10
+		},
+		{
+			"name": "Clinical Rotation",
+			"weight": 70
+		}
+	]
+}

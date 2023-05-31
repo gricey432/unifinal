@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Participatory Practice Proposal",
+			"weight": 35
+		},
+		{
+			"name": "Participatory Practice Output",
+			"weight": 30
+		},
+		{
+			"name": "Participatory Practice Reflection",
+			"weight": 35
+		}
+	]
+}

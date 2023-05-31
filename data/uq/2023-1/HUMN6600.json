@@ -1,0 +1,40 @@
+{
+	"assessment": [
+		{
+			"name": "Essay 1",
+			"weight": 45
+		},
+		{
+			"name": "Two-Minute Thesis presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Essay 2",
+			"weight": 45
+		},
+		{
+			"name": "Participation",
+			"weight": 10
+		},
+		{
+			"name": "Research and translation project",
+			"weight": 30
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Two-Minute Thesis presentation",
+			"weight": "Hurdle requirement"
+		},
+		{
+			"name": "Presentation (Greek/Latin)",
+			"weight": 10
+		},
+		{
+			"name": "Final exam (if students enrol)",
+			"weight": 40
+		}
+	]
+}

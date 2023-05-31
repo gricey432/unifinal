@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tourism System Proposal",
+			"weight": 10
+		},
+		{
+			"name": "Tourism System Presentation",
+			"weight": 50
+		},
+		{
+			"name": "Transport Sub System",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "MCQ + RiPPLE",
+			"weight": 30
+		},
+		{
+			"name": "Country Report",
+			"weight": 35
+		},
+		{
+			"name": "Impact Report",
+			"weight": 35
+		}
+	]
+}

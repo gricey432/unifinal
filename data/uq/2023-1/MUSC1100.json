@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Performance Report/Director's Report",
+			"weight": 70
+		},
+		{
+			"name": "Performance Report/Director's Report",
+			"weight": 30
+		}
+	]
+}

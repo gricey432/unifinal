@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Statement of Intent paper (1250w)",
+			"weight": 26
+		},
+		{
+			"name": "Employability interview",
+			"weight": 2
+		},
+		{
+			"name": "Annotated thesis bibliography (1700 word max)",
+			"weight": 27
+		},
+		{
+			"name": "Seminar hosting and preparation",
+			"weight": 5
+		},
+		{
+			"name": "Methods Comparison Topic Choice",
+			"weight": 3
+		},
+		{
+			"name": "Methods Comparison Outline (900-1000 words)",
+			"weight": 7
+		},
+		{
+			"name": "Methods comparison essay (3000 word)",
+			"weight": 30
+		}
+	]
+}

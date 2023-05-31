@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Critical essay",
+			"weight": 50
+		},
+		{
+			"name": "Tourism Strategic Plan Review",
+			"weight": 50
+		}
+	]
+}

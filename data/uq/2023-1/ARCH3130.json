@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "City Scan",
+			"weight": 20
+		},
+		{
+			"name": "Urban Mapping",
+			"weight": 30
+		},
+		{
+			"name": "Interactive Representation of Urban Dynamics",
+			"weight": 50
+		}
+	]
+}

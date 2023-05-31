@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Assignment 1a: Start-up Value Proposition (Team)",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Prof Eng & the Business Environment",
+			"weight": 15
+		},
+		{
+			"name": "Quiz: Mid-semester Quiz",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 1b: Financial & Risk Analysis (Team)",
+			"weight": 25
+		},
+		{
+			"name": "Assignment 1c: Start-up Pitch Presentation (Team)",
+			"weight": 15
+		}
+	]
+}

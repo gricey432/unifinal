@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical Skills Assessment Vital Signs - OSCE",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Preparation and Development",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Skills Assessment Abdo Palpation - OSCA",
+			"weight": "NGP"
+		}
+	]
+}

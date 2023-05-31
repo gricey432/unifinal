@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Accreditation & Competency Assessments",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Professional Attributes Self-Assessment",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Critical Reflections",
+			"weight": "PASS/FAIL"
+		},
+		{
+			"name": "Placement Consolidation Video",
+			"weight": "PASS/FAIL"
+		}
+	]
+}

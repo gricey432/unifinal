@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Report on Thematic Analysis - Individual",
+			"weight": 35
+		},
+		{
+			"name": "CDA project proposal",
+			"weight": 15
+		},
+		{
+			"name": "End-of-Semester Online Quiz",
+			"weight": 15
+		},
+		{
+			"name": "CDA Project Report",
+			"weight": 35
+		}
+	]
+}

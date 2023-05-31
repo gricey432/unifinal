@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Oral presentation on assigned research paper",
+			"weight": 40
+		},
+		{
+			"name": "Class Participation",
+			"weight": 20
+		},
+		{
+			"name": "Student Essay",
+			"weight": 40
+		},
+		{
+			"name": "Seminar",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

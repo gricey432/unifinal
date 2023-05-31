@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly practicals",
+			"weight": 0
+		},
+		{
+			"name": "Semester Literature Review Project",
+			"weight": 20
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 20
+		},
+		{
+			"name": "Stratigraphic Column Report",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

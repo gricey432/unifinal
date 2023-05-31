@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Journal Entries",
+			"weight": 10
+		},
+		{
+			"name": "Scaffolding Writing Assignment I",
+			"weight": 35
+		},
+		{
+			"name": "Scaffolding Writing Assignment II",
+			"weight": 55
+		}
+	]
+}

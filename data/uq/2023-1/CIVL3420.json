@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Sustainable Transport Planning Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Sustainable Transport Design Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Sustainable Transport Planning",
+			"weight": 20
+		},
+		{
+			"name": "Sustainable Transport Design",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 40
+		}
+	]
+}

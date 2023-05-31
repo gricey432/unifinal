@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Determination of Pregnancy Status of Cattle",
+			"weight": "Pass / Fail"
+		},
+		{
+			"name": "Assisted reproductive technologies",
+			"weight": 20
+		},
+		{
+			"name": "End of Semester Exam Semester 1",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Exam Semester 2",
+			"weight": 40
+		}
+	]
+}

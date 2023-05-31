@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "News story",
+			"weight": 40
+		},
+		{
+			"name": "Journalism project",
+			"weight": 60
+		}
+	]
+}

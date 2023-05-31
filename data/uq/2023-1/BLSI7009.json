@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Data Strategy for Service Innovation",
+			"weight": 40
+		},
+		{
+			"name": "Data Visualization in Practice Report",
+			"weight": 40
+		},
+		{
+			"name": "Evaluating Data Analytics Risks and Opportunities",
+			"weight": 20
+		}
+	]
+}

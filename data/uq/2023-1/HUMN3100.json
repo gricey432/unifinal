@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Participation in discussion",
+			"weight": 15
+		},
+		{
+			"name": "Annual Symposium Pitch",
+			"weight": 15
+		},
+		{
+			"name": "Interview & Feature Story on Humanities Champion",
+			"weight": 30
+		},
+		{
+			"name": "Critical Reflection: One Big Question",
+			"weight": 40
+		}
+	]
+}

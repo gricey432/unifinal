@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "ASSESSMENT 1 Strategic Futures Presentation",
+			"weight": 20
+		},
+		{
+			"name": "ASSESSMENT 2 Workshop Activities",
+			"weight": 10
+		},
+		{
+			"name": "ASSESSMENT 3 Strategic Futures Report",
+			"weight": 30
+		},
+		{
+			"name": "ASSESSMENT 4 Final Exam",
+			"weight": 40
+		}
+	]
+}

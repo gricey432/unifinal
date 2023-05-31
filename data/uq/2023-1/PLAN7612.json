@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminars",
+			"weight": 5
+		},
+		{
+			"name": "Individual reflection",
+			"weight": 20
+		},
+		{
+			"name": "Role Play Items",
+			"weight": 35
+		},
+		{
+			"name": "Essay on Development Planning",
+			"weight": 40
+		}
+	]
+}

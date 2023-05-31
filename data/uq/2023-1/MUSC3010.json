@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Creative Production Projects",
+			"weight": 30
+		},
+		{
+			"name": "Major Project Draft",
+			"weight": 5
+		},
+		{
+			"name": "Major Creative Project & Presentation",
+			"weight": 65
+		}
+	]
+}

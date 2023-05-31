@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "A1. Project Inspiration (Deliverable 1)",
+			"weight": "Pass/Fail Individual"
+		},
+		{
+			"name": "A1. Proposal (Deliverables 2 & 3)",
+			"weight": "x1"
+		},
+		{
+			"name": "A1. Prototype (Deliverable 4 & 5)",
+			"weight": "x2"
+		},
+		{
+			"name": "A1. Final Exhibit (Deliverables 6 & 7)",
+			"weight": "x3"
+		},
+		{
+			"name": "A2. Annotated Process Portfolio",
+			"weight": "x1"
+		},
+		{
+			"name": "A3. Critical Reflection",
+			"weight": "x2"
+		},
+		{
+			"name": "Workshop Safety Induction Suite",
+			"weight": "Compulsory"
+		}
+	]
+}

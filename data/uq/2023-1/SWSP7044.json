@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 10
+		},
+		{
+			"name": "Recorded group presentation - Case analysis 1",
+			"weight": 40
+		},
+		{
+			"name": "Individual essay - Case analysis 2",
+			"weight": 50
+		}
+	]
+}

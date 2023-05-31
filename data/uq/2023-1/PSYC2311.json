@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "10 Online Quizzes - due Mondays in weeks 3 to 13",
+			"weight": 40
+		},
+		{
+			"name": "Individual Case Report",
+			"weight": 40
+		},
+		{
+			"name": "Tutorial Preparation and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Participation",
+			"weight": "See blackboard page for tutor or course coordinator contact details"
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

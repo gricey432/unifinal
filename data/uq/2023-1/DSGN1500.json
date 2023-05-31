@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Design Activities",
+			"weight": 40
+		},
+		{
+			"name": "Past, present, and future of design",
+			"weight": 60
+		}
+	]
+}

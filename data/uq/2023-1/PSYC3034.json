@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Behaviour Change Program",
+			"weight": 50
+		},
+		{
+			"name": "Applied Psychology Report",
+			"weight": 30
+		}
+	]
+}

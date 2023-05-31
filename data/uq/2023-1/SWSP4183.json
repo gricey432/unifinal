@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class, closed book exam",
+			"weight": 40
+		},
+		{
+			"name": "Interview, Formulation and Reflection",
+			"weight": 60
+		}
+	]
+}

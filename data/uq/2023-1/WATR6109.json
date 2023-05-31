@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Laboratory component",
+			"weight": 25
+		},
+		{
+			"name": "Mid semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Design Study and role-play",
+			"weight": 25
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1: Skeletal System",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 2: Muscular System",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 3: Nervous & Endocrine Systems",
+			"weight": 4
+		},
+		{
+			"name": "Quiz 4: Visceral Systems",
+			"weight": 3
+		},
+		{
+			"name": "Mid-Semester Exam (Practical)",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester Exam (Theory)",
+			"weight": 28
+		},
+		{
+			"name": "End of Semester Exam (Practical)",
+			"weight": 12
+		},
+		{
+			"name": "End of Semester Exam (Theory)",
+			"weight": 25
+		}
+	]
+}

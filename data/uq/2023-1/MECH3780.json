@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 25
+		},
+		{
+			"name": "FEA Project Assignment (Part 1/2)",
+			"weight": 10
+		},
+		{
+			"name": "FEA Project Assignment (Part 2/2)",
+			"weight": 15
+		},
+		{
+			"name": "CFD Project Assignment",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 30
+		}
+	]
+}

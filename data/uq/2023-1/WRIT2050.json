@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of Writing Craft",
+			"weight": 25
+		},
+		{
+			"name": "Novel Synopsis",
+			"weight": 20
+		},
+		{
+			"name": "Self-assessment Participation",
+			"weight": 10
+		},
+		{
+			"name": "Opening Scenes of a Novel",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Research proposal, performance and record keeping",
+			"weight": 20
+		},
+		{
+			"name": "Report and Research Topic Outlook",
+			"weight": 60
+		},
+		{
+			"name": "Final seminar",
+			"weight": 20
+		}
+	]
+}

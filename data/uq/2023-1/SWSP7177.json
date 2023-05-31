@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Communication portfolio",
+			"weight": 40
+		},
+		{
+			"name": "Simulation, analysis of performance and case note",
+			"weight": 60
+		}
+	]
+}

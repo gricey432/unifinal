@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Worksheets",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial participation",
+			"weight": 10
+		},
+		{
+			"name": "Final take home assignment",
+			"weight": 40
+		}
+	]
+}

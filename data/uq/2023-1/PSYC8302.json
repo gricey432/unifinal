@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Observation of clinical interaction - minimum of 5",
+			"weight": "Assessed by supervisor"
+		},
+		{
+			"name": "Mid Placement Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "End Placement Review",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Folio of clinical work",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Portfolio",
+			"weight": "Speak to course coordinator."
+		},
+		{
+			"name": "Video",
+			"weight": "Not applicable."
+		}
+	]
+}

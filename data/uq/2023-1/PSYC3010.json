@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Factorial Design Online Quiz",
+			"weight": 5
+		},
+		{
+			"name": "Assignment 1: Factorial Designs",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2: Multiple Regression",
+			"weight": 20
+		},
+		{
+			"name": "Exam",
+			"weight": 55
+		}
+	]
+}

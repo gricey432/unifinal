@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Missing Data Analysis, Assumption Checks",
+			"weight": 35
+		},
+		{
+			"name": "EFA, logistic regression, and mediation",
+			"weight": 35
+		}
+	]
+}

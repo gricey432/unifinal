@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Review of Small Hospitality Business",
+			"weight": 25
+		},
+		{
+			"name": "Feasibility Analysis",
+			"weight": 50
+		},
+		{
+			"name": "Final Exam",
+			"weight": 25
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Portfolio presentation",
+			"weight": 30
+		},
+		{
+			"name": "Case study analysis",
+			"weight": 40
+		},
+		{
+			"name": "Take home case study",
+			"weight": 30
+		}
+	]
+}

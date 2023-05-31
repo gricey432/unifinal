@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Task 1: Tutorial Tasks",
+			"weight": 25
+		},
+		{
+			"name": "Task 2: Translation: Teaching & learning fractions",
+			"weight": 40
+		},
+		{
+			"name": "Task 3: Developing a lesson sequence/rationale",
+			"weight": 35
+		}
+	]
+}

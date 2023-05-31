@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Homework Asignments",
+			"weight": 25
+		},
+		{
+			"name": "Mid-Semester Assignment",
+			"weight": 35
+		},
+		{
+			"name": "Take Home Set-Timed via Blackboard",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Exercises",
+			"weight": 20
+		},
+		{
+			"name": "Mid Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Sustainability Measures for Energy Systems",
+			"weight": 15
+		},
+		{
+			"name": "Final Exam",
+			"weight": 45
+		}
+	]
+}

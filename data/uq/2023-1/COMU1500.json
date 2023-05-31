@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Workshops",
+			"weight": 20
+		},
+		{
+			"name": "Lead In-class Discussion & Written Reflection",
+			"weight": 20
+		},
+		{
+			"name": "Keyword Summaries",
+			"weight": 25
+		},
+		{
+			"name": "Research Essay",
+			"weight": 35
+		}
+	]
+}

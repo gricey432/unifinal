@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Four pop quizzes (5% each) at unspecified times",
+			"weight": 20
+		},
+		{
+			"name": "3-Hour Practical Exam",
+			"weight": 25
+		},
+		{
+			"name": "Mystery Mineral Project",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam (Theory)",
+			"weight": 35
+		}
+	]
+}

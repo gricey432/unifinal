@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class Test Series (at Week 4, Week 8, Week 13)",
+			"weight": 30
+		},
+		{
+			"name": "Assignment 1 - Short Paper",
+			"weight": 10
+		},
+		{
+			"name": "Attack-Defence",
+			"weight": 20
+		},
+		{
+			"name": "Assignment 2 - Final Assessment",
+			"weight": 40
+		}
+	]
+}

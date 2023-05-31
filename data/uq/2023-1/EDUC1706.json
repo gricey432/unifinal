@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Student Safety Declaration",
+			"weight": "Hurdle Task"
+		},
+		{
+			"name": "Infographic + Essay",
+			"weight": 30
+		},
+		{
+			"name": "Product + Explanation",
+			"weight": 30
+		},
+		{
+			"name": "Science Journal + Reflection",
+			"weight": 40
+		}
+	]
+}

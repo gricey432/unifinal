@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Case Assignment Report",
+			"weight": 35
+		},
+		{
+			"name": "Written Intervention Session and Presentation",
+			"weight": 35
+		},
+		{
+			"name": "Viva - Case Assignment Clinical Encounter",
+			"weight": 30
+		}
+	]
+}

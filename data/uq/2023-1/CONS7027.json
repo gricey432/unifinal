@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oral exam - EIA assignment.",
+			"weight": 36
+		},
+		{
+			"name": "Assessment 2",
+			"weight": 32
+		},
+		{
+			"name": "Assessment 3: Writing a winning conservation grant",
+			"weight": 32
+		}
+	]
+}

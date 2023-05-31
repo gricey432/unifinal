@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Burra Charter and Legislation",
+			"weight": 30
+		},
+		{
+			"name": "GIS SEAL Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Management Plan",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Virtual Laboratory Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Shallow Footing Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

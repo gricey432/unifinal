@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Addition of Assistant Supervisor Form",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum Folio",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum Supervision Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Practicum Activity Logbook",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Point and Final Review",
+			"weight": "This is the most important part of the assessment"
+		},
+		{
+			"name": "Work-based assessment",
+			"weight": "Not applicable."
+		}
+	]
+}

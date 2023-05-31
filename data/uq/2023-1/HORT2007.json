@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Literature review on chosen topic",
+			"weight": 20
+		},
+		{
+			"name": "Practical Report: Greenhouse experiment",
+			"weight": 25
+		},
+		{
+			"name": "Presentation on homebased postharvest experiment",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam - Invigilated via ProctorU",
+			"weight": 40
+		}
+	]
+}

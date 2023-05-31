@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Digital poster and pitch of a drug/medical device",
+			"weight": 35
+		},
+		{
+			"name": "Assignment",
+			"weight": 30
+		},
+		{
+			"name": "End of Semester Quiz",
+			"weight": 35
+		}
+	]
+}

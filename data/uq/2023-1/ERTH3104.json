@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-semester assignments",
+			"weight": 30
+		},
+		{
+			"name": "Participation in weekly discussion meetings",
+			"weight": 10
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

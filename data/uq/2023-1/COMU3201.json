@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Project Pitch",
+			"weight": 30
+		},
+		{
+			"name": "Digital Arts Prototype",
+			"weight": 40
+		},
+		{
+			"name": "Conceptual and Critical Reflection",
+			"weight": 30
+		}
+	]
+}

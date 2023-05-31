@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Role play Client Descriptions & Formulations",
+			"weight": 10
+		},
+		{
+			"name": "Written Case Study Report",
+			"weight": 40
+		},
+		{
+			"name": "Clinical Competencies Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Exam",
+			"weight": 50
+		},
+		{
+			"name": "Role Play, Clinical Exams",
+			"weight": "Contact Course Coordinator"
+		}
+	]
+}

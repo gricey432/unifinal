@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Analysis of economic articles in newspapers",
+			"weight": 40
+		},
+		{
+			"name": "Analysis of a Firm",
+			"weight": 40
+		},
+		{
+			"name": "Problem Sets",
+			"weight": 20
+		}
+	]
+}

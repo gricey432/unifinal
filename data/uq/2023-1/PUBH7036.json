@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Implementation Plan",
+			"weight": 35
+		},
+		{
+			"name": "Evaluation Plan",
+			"weight": 45
+		},
+		{
+			"name": "Pitch of your health promotion intervention",
+			"weight": 20
+		}
+	]
+}

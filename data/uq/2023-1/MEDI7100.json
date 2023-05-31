@@ -1,0 +1,44 @@
+{
+	"assessment": [
+		{
+			"name": "Cumulative Achievement Task (CAT)",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Individual and Group Assignment",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Knowledge Component Synthesis",
+			"weight": "Assessment of Learning"
+		},
+		{
+			"name": "Observed Clinical Assessments (OCAs)",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Clinical Skills Component Synthesis",
+			"weight": "Assessment of Learning"
+		},
+		{
+			"name": "Engagement Indicators",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Professionalism Portfolio",
+			"weight": "Assessment for Learning"
+		},
+		{
+			"name": "Professionalism and Engagement Component Synthesis",
+			"weight": "Assessment of Learning"
+		},
+		{
+			"name": "Self Review",
+			"weight": "Assessment for Learning"
+		}
+	]
+}

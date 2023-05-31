@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Blackboard Reading Tasks",
+			"weight": 10
+		},
+		{
+			"name": "Presentation : analysis of an academic article",
+			"weight": 30
+		},
+		{
+			"name": "Debate on Flip and reflective essay",
+			"weight": 30
+		},
+		{
+			"name": "Oral discussion",
+			"weight": 30
+		}
+	]
+}

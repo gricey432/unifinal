@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "A01: Report 1 (lit review and research question)",
+			"weight": 20
+		},
+		{
+			"name": "A02: Report 2 (methods, results and analysis)",
+			"weight": 30
+		},
+		{
+			"name": "A03: Report 3 (analysis and discussion)",
+			"weight": 50
+		}
+	]
+}

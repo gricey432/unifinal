@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Critical analysis of service strategy case study",
+			"weight": 10
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 25
+		},
+		{
+			"name": "Major Project - Service strategy analysis",
+			"weight": 30
+		},
+		{
+			"name": "Final exam (online) during exam period",
+			"weight": 35
+		}
+	]
+}

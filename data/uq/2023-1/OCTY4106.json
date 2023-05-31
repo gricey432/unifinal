@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment 3 - Journal Club",
+			"weight": 20
+		},
+		{
+			"name": "Assessment1- A&B MCPR Background & Foreground",
+			"weight": 45
+		},
+		{
+			"name": "Assessment 2 Making Connections Video Diary",
+			"weight": 35
+		}
+	]
+}

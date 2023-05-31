@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Explaining social work (to a yr. 11 student)",
+			"weight": 15
+		},
+		{
+			"name": "Individual problems & social context",
+			"weight": 35
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 50
+		}
+	]
+}

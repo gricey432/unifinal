@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial Participation",
+			"weight": 20
+		},
+		{
+			"name": "Live Performance Review",
+			"weight": 30
+		},
+		{
+			"name": "Research Essay",
+			"weight": 30
+		},
+		{
+			"name": "Group Performance (OR Secondment)",
+			"weight": 20
+		}
+	]
+}

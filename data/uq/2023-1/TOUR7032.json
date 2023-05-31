@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Review of Market Segmentation Studies",
+			"weight": 30
+		},
+		{
+			"name": "Case study essay",
+			"weight": 40
+		},
+		{
+			"name": "Market Research Report",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple Choice Test",
+			"weight": 30
+		},
+		{
+			"name": "Online Final Examination - Invigilated",
+			"weight": 70
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Reports",
+			"weight": 30
+		},
+		{
+			"name": "Clinical masking exam",
+			"weight": 10
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 60
+		}
+	]
+}

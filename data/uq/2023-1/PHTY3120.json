@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Feedback Quizzes (outside class time)",
+			"weight": 10
+		},
+		{
+			"name": "Mid Semester Practical Exam",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Theory Exam",
+			"weight": 40
+		},
+		{
+			"name": "End of Semester Practical Exam",
+			"weight": 35
+		}
+	]
+}

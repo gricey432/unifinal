@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Online Test 1",
+			"weight": 30
+		},
+		{
+			"name": "Online Test 2",
+			"weight": 30
+		},
+		{
+			"name": "Behavioural Economics Research Proposal",
+			"weight": 40
+		}
+	]
+}

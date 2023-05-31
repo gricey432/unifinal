@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Four Laboratory Practicals with Prework",
+			"weight": 30
+		},
+		{
+			"name": "Engineering Framework Report",
+			"weight": 20
+		},
+		{
+			"name": "Actuator Assignment",
+			"weight": 10
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

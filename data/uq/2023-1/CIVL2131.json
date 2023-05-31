@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Self-assessed problem solving on tutorial concepts",
+			"weight": 0
+		},
+		{
+			"name": "CAFS (Concept Assessment and Feedback Sessions)",
+			"weight": 15
+		},
+		{
+			"name": "Laboratory experiments and report",
+			"weight": 25
+		},
+		{
+			"name": "Final examination",
+			"weight": 60
+		}
+	]
+}

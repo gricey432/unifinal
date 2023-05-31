@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Li-ion & next generation Li-ion battery",
+			"weight": 20
+		},
+		{
+			"name": "Hydrogen fuel cells & storage",
+			"weight": 20
+		},
+		{
+			"name": "Solar Cells",
+			"weight": 20
+		},
+		{
+			"name": "Final Exam",
+			"weight": 40
+		}
+	]
+}

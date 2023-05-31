@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Foundation Modules Multi-Choice Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Ministerial briefing: reducing carbon emissions",
+			"weight": 20
+		},
+		{
+			"name": "Energy Technology Assessment for Industry Sector",
+			"weight": 45
+		},
+		{
+			"name": "Debate on Australia's Industry Future",
+			"weight": 20
+		},
+		{
+			"name": "PAF for Group Work and Presentation",
+			"weight": "X PAF by group mark to get individual mark"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Culture Alignment Framework Analysis",
+			"weight": 30
+		},
+		{
+			"name": "Service Innovation Culture Presentation",
+			"weight": 40
+		},
+		{
+			"name": "Case Study",
+			"weight": 30
+		}
+	]
+}

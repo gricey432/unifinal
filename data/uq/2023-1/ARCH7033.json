@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "The Sustainability Problem",
+			"weight": 40
+		},
+		{
+			"name": "The Sustainability Strategy",
+			"weight": 60
+		}
+	]
+}

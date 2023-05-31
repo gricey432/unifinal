@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "QUIZ 1",
+			"weight": 10
+		},
+		{
+			"name": "QUIZ 2",
+			"weight": 10
+		},
+		{
+			"name": "QUIZ 3",
+			"weight": 10
+		},
+		{
+			"name": "Summary",
+			"weight": 15
+		},
+		{
+			"name": "Graphical Abstract",
+			"weight": 15
+		},
+		{
+			"name": "Review Report",
+			"weight": 40
+		}
+	]
+}

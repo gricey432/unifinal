@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Group A3 Infographic & Oral Presentation",
+			"weight": 20
+		},
+		{
+			"name": "Objective Structured Clinical Examination (OSCE)",
+			"weight": 30
+		},
+		{
+			"name": "Clinical Portfolio (Digital ePAD)",
+			"weight": "P/F MUST PASS"
+		},
+		{
+			"name": "End of Semester Examination",
+			"weight": 50
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

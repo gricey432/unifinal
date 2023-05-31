@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Meaningful use of PA to support learning",
+			"weight": 30
+		},
+		{
+			"name": "Facilitating a Physical Activity Session",
+			"weight": 50
+		},
+		{
+			"name": "Physical activity biography and future teaching",
+			"weight": 20
+		}
+	]
+}

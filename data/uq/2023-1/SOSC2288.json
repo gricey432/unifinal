@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Warm-Up",
+			"weight": 10
+		},
+		{
+			"name": "Reading Review: Outsider Witnessing",
+			"weight": 40
+		},
+		{
+			"name": "Facilitation Reflection",
+			"weight": 50
+		}
+	]
+}

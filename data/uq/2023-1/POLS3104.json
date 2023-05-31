@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Seminar Quiz",
+			"weight": 16
+		},
+		{
+			"name": "Discussion facilitation",
+			"weight": 10
+		},
+		{
+			"name": "Recorded Presentation",
+			"weight": 24
+		},
+		{
+			"name": "Major Essay (3000 words)",
+			"weight": 50
+		}
+	]
+}

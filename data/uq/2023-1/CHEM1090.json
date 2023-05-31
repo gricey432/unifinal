@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "In-class workshop assessment",
+			"weight": 20
+		},
+		{
+			"name": "Online quizzes",
+			"weight": 10
+		},
+		{
+			"name": "Chemistry of Everything Vlog Assignment",
+			"weight": 15
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 55
+		}
+	]
+}

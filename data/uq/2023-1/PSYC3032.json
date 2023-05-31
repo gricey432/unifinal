@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Tutorial Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Quizzes",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 20
+		},
+		{
+			"name": "Unessay",
+			"weight": 20
+		},
+		{
+			"name": "Tutorial Quizzes",
+			"weight": "N/A"
+		}
+	]
+}

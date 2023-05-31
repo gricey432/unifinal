@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "1500 word essay",
+			"weight": 40
+		},
+		{
+			"name": "Documenting Indigenous Values After Native Title",
+			"weight": 50
+		},
+		{
+			"name": "Reflection on positionality",
+			"weight": 10
+		}
+	]
+}

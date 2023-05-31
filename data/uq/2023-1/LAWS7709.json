@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Statutory Interpretation Problem",
+			"weight": 40
+		},
+		{
+			"name": "Essay",
+			"weight": 60
+		}
+	]
+}

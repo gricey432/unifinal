@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Essay Plan",
+			"weight": 20
+		},
+		{
+			"name": "Position Paper - Positive Youth Development",
+			"weight": 35
+		},
+		{
+			"name": "Adolescent Dilemma in Context",
+			"weight": 45
+		}
+	]
+}

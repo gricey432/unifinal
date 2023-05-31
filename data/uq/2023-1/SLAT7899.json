@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Critical Analysis",
+			"weight": 45
+		},
+		{
+			"name": "Interaction Project (presentation)",
+			"weight": 15
+		},
+		{
+			"name": "Interaction project (written submission)",
+			"weight": 40
+		}
+	]
+}

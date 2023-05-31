@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Tutorial participation and Quiz",
+			"weight": 15
+		},
+		{
+			"name": "Experiments and sumulation by PSS/E",
+			"weight": 25
+		},
+		{
+			"name": "Final Examination",
+			"weight": 60
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "UQ RiPPLE active learning",
+			"weight": 12
+		},
+		{
+			"name": "Laboratory report questions",
+			"weight": 10
+		},
+		{
+			"name": "Assessment of Modules A, B and C",
+			"weight": 38
+		},
+		{
+			"name": "Assessment of Modules D, E & F",
+			"weight": 40
+		}
+	]
+}

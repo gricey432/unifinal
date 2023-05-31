@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Professional Practice Reflections",
+			"weight": 25
+		},
+		{
+			"name": "Best Practice Guidelines",
+			"weight": 30
+		},
+		{
+			"name": "Homicide Interview Group Activities",
+			"weight": 10
+		},
+		{
+			"name": "Homicide Investigation Group Report (2,500 words)",
+			"weight": 35
+		}
+	]
+}

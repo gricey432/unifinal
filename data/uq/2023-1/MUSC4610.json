@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Forum, Workshop, Ensemble and Group Music Making",
+			"weight": 0
+		},
+		{
+			"name": "Thesis Evaluation",
+			"weight": 0
+		},
+		{
+			"name": "Research Proposal",
+			"weight": 0
+		},
+		{
+			"name": "Evidence of Human Research Ethics Approval",
+			"weight": 0
+		},
+		{
+			"name": "Formative Performance (Recital Submissions Only)",
+			"weight": 0
+		},
+		{
+			"name": "Conference-style Presentation",
+			"weight": 0
+		},
+		{
+			"name": "Thesis OR Creative work + Exegesis",
+			"weight": 100
+		}
+	]
+}

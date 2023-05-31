@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Workshop Exercises",
+			"weight": 15
+		},
+		{
+			"name": "Competency Test 1",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Mid-Semester Exam",
+			"weight": 20
+		},
+		{
+			"name": "Competency Test 2",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Assignment",
+			"weight": 15
+		},
+		{
+			"name": "Final examination",
+			"weight": 50
+		}
+	]
+}

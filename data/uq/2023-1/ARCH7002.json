@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Pre-design Conceptual Design Hand-in",
+			"weight": 30
+		},
+		{
+			"name": "Schematic Design and Detailed Design Development",
+			"weight": 60
+		},
+		{
+			"name": "Design Journal",
+			"weight": 10
+		}
+	]
+}

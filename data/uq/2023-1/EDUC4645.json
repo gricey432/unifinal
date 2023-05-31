@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Planning for the future",
+			"weight": 40
+		},
+		{
+			"name": "Junior Unit Plan",
+			"weight": 30
+		},
+		{
+			"name": "Senior Unit of Work",
+			"weight": 30
+		}
+	]
+}

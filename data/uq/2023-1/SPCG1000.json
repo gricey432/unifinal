@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Online Quizzes",
+			"weight": 50
+		},
+		{
+			"name": "End of Semester Exam",
+			"weight": 50
+		}
+	]
+}

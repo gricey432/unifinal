@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Class participation",
+			"weight": 5
+		},
+		{
+			"name": "Aspects of Language Contact in ...",
+			"weight": 15
+		},
+		{
+			"name": "Aspects of Language Contact in ...",
+			"weight": 30
+		},
+		{
+			"name": "Research Assignment",
+			"weight": 50
+		}
+	]
+}

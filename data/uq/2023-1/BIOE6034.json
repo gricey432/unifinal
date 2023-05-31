@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Safety Induction",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Quiz",
+			"weight": 24
+		},
+		{
+			"name": "TE Lab Based Practical Booklet",
+			"weight": 8
+		},
+		{
+			"name": "TE Lab based Angiogenesis Practical Report",
+			"weight": 8
+		},
+		{
+			"name": "C&T Engineering Innovation Project Proposal",
+			"weight": 40
+		},
+		{
+			"name": "C&T Engineering Innovation Project Pitch",
+			"weight": 20
+		}
+	]
+}

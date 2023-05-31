@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment Task 1  Critical Review Paper",
+			"weight": 40
+		},
+		{
+			"name": "Assessment Task 2  Case Study",
+			"weight": 50
+		},
+		{
+			"name": "Assessment task 3: Weekly reflective journal",
+			"weight": 10
+		}
+	]
+}

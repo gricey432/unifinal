@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "One-Minute-Paper (OMP)",
+			"weight": 5
+		},
+		{
+			"name": "Paper and presentation",
+			"weight": 50
+		},
+		{
+			"name": "Online Quiz",
+			"weight": 45
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Final examination",
+			"weight": 50
+		},
+		{
+			"name": "Laboratory report 1",
+			"weight": 10
+		},
+		{
+			"name": "Laboratory Report 2",
+			"weight": 10
+		},
+		{
+			"name": "Problem sets",
+			"weight": 30
+		}
+	]
+}

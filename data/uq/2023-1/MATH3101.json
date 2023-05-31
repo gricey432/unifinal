@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "3 Take-home assignments (#1, #2, #4)",
+			"weight": 34
+		},
+		{
+			"name": "Project Assignment (#3)",
+			"weight": 12
+		},
+		{
+			"name": "Two-hour document upload non-invigilated exam",
+			"weight": 54
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Public health critical reflection journal",
+			"weight": 10
+		},
+		{
+			"name": "Social analysis of a public health issue",
+			"weight": 40
+		},
+		{
+			"name": "Public health social innovation and elevator pitch",
+			"weight": 50
+		}
+	]
+}

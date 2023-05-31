@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Contact Session Questions",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - 1 Lecture 1 to 4",
+			"weight": 10
+		},
+		{
+			"name": "Quiz - 2 Lectures 5 to 8",
+			"weight": 10
+		},
+		{
+			"name": "Research Report",
+			"weight": 40
+		},
+		{
+			"name": "Quiz - 3 Lectures 1 to 12",
+			"weight": 30
+		}
+	]
+}

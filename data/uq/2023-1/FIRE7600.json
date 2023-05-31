@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Final interview",
+			"weight": 40
+		},
+		{
+			"name": "Mid Semester Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Individual assignment",
+			"weight": 30
+		}
+	]
+}

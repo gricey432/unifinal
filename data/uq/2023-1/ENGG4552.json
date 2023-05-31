@@ -1,0 +1,36 @@
+{
+	"assessment": [
+		{
+			"name": "Project Requirements Documentation",
+			"weight": 10
+		},
+		{
+			"name": "WebPA Team Peer Review",
+			"weight": "P/F - Impacts Group Work"
+		},
+		{
+			"name": "Preliminary Design Report",
+			"weight": 15
+		},
+		{
+			"name": "Preliminary Design Review",
+			"weight": 5
+		},
+		{
+			"name": "Demonstration Risk Assessment",
+			"weight": "P/F - Impacts Demonstration"
+		},
+		{
+			"name": "Prototype validation test/demonstration",
+			"weight": 15
+		},
+		{
+			"name": "Final design report",
+			"weight": 50
+		},
+		{
+			"name": "Presentation Evening",
+			"weight": 5
+		}
+	]
+}

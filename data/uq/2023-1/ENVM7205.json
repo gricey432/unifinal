@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Weekly Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Climate Change Paper",
+			"weight": 45
+		},
+		{
+			"name": "Climate Risk Assessment",
+			"weight": 25
+		}
+	]
+}

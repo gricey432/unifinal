@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Reflective Essay",
+			"weight": 50
+		},
+		{
+			"name": "Business Advice on Restaurant Management",
+			"weight": 50
+		}
+	]
+}

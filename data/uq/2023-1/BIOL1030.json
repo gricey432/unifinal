@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "A series of assessment tasks",
+			"weight": 20
+		},
+		{
+			"name": "Mid-semester exam",
+			"weight": 10
+		},
+		{
+			"name": "Field studies",
+			"weight": 29
+		},
+		{
+			"name": "Employability Reflection",
+			"weight": 1
+		},
+		{
+			"name": "End of semester exam",
+			"weight": 40
+		}
+	]
+}

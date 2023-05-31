@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Week 3: Journal Club",
+			"weight": 5
+		},
+		{
+			"name": "Week5: Mini Literature review and Project Plan",
+			"weight": 30
+		},
+		{
+			"name": "Week13: Final oral presentation",
+			"weight": 15
+		},
+		{
+			"name": "Week13: Final report",
+			"weight": 50
+		}
+	]
+}

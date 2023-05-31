@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Movement Analysis - Theory exam",
+			"weight": 10
+		},
+		{
+			"name": "Practical skills & problem solving exam",
+			"weight": 25
+		},
+		{
+			"name": "End of Semester Theory Examination",
+			"weight": 40
+		},
+		{
+			"name": "Problem solving practical exam",
+			"weight": 25
+		}
+	]
+}

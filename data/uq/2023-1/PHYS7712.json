@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Outline of research",
+			"weight": 0
+		},
+		{
+			"name": "Research report",
+			"weight": 100
+		},
+		{
+			"name": "Oral Examination",
+			"weight": 0
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Attendance and Participation",
+			"weight": 20
+		},
+		{
+			"name": "Seminar presentation on a selected topic",
+			"weight": 40
+		},
+		{
+			"name": "Essay on a selected topic",
+			"weight": 40
+		},
+		{
+			"name": "Presentation",
+			"weight": "Extension applications are not applicable for this assessment item – please apply directly to the Course Coordinator."
+		},
+		{
+			"name": "Participation",
+			"weight": "Apply to the Course Coordinator."
+		}
+	]
+}

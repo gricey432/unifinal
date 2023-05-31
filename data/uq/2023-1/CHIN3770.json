@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Multiple-choice e-tasks on Bb - 5 MINUTES ONLY!",
+			"weight": 10
+		},
+		{
+			"name": "ONLINE Exam 1 - 50 minutes ONLY!",
+			"weight": 30
+		},
+		{
+			"name": "ONLINE Exam 2 - 50 minutes ONLY!",
+			"weight": 30
+		},
+		{
+			"name": "ONLINE Final Exam",
+			"weight": 30
+		}
+	]
+}

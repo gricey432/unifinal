@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Mid-Placement Performance Assessment",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Placement Completion",
+			"weight": "NGP"
+		},
+		{
+			"name": "Clinical Skills Assessment (OSCA)",
+			"weight": "NGP"
+		}
+	]
+}

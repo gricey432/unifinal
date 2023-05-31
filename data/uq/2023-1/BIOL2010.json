@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Performance in journal club style discussions",
+			"weight": 30
+		},
+		{
+			"name": "Collaborative Exam 1",
+			"weight": 20
+		},
+		{
+			"name": "Practical 2 Extended Abstract",
+			"weight": 20
+		},
+		{
+			"name": "Collaborative Exam 2",
+			"weight": 30
+		}
+	]
+}

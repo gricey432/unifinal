@@ -1,0 +1,28 @@
+{
+	"assessment": [
+		{
+			"name": "Quiz 1 in Week 5",
+			"weight": 7
+		},
+		{
+			"name": "Quiz 2 in Week 9",
+			"weight": 7
+		},
+		{
+			"name": "Quiz 3 in Week 13",
+			"weight": 7
+		},
+		{
+			"name": "Formative Practical Lab notebook",
+			"weight": 0
+		},
+		{
+			"name": "End of Semester Practical Lab notebook",
+			"weight": 30
+		},
+		{
+			"name": "Final Examination",
+			"weight": 49
+		}
+	]
+}

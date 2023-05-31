@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "P2 Gene cloning and CRISPR design computer prac",
+			"weight": 20
+		},
+		{
+			"name": "P3 Transgenes and GFP laboratory report",
+			"weight": 20
+		},
+		{
+			"name": "Student seminar on selected topic",
+			"weight": 20
+		},
+		{
+			"name": "Final exam",
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Complex clinical challenges",
+			"weight": 70
+		},
+		{
+			"name": "Learning from complexity",
+			"weight": 30
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Oceanography of Australia",
+			"weight": 35
+		},
+		{
+			"name": "Quiz",
+			"weight": 30
+		},
+		{
+			"name": "Field report",
+			"weight": 35
+		}
+	]
+}

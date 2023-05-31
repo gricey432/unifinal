@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Interprofessional Simulation",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "Voice Simulation Clinic",
+			"weight": "Pass/Fail (MUST PASS)"
+		},
+		{
+			"name": "COMPASS® Midway Clinical Evaluation",
+			"weight": "Formative assessment"
+		},
+		{
+			"name": "COMPASS® Final Clinical Evaluation",
+			"weight": "Pass/Fail (MUST PASS)"
+		}
+	]
+}

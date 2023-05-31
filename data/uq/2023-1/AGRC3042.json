@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Biosecurity Stakeholder Communication",
+			"weight": 30
+		},
+		{
+			"name": "Tutorial assessment",
+			"weight": 40
+		},
+		{
+			"name": "Online Biosecurity Modules",
+			"weight": "pass/fail"
+		},
+		{
+			"name": "Theory examination",
+			"weight": 30
+		}
+	]
+}

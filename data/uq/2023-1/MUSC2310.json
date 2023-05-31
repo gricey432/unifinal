@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "In-Class Group Presentation & Annotated Biblio.",
+			"weight": 40
+		},
+		{
+			"name": "Online Quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Report addressing community/health related music",
+			"weight": 30
+		}
+	]
+}

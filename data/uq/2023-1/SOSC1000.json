@@ -1,0 +1,16 @@
+{
+	"assessment": [
+		{
+			"name": "Power, values and social problems poster",
+			"weight": 25
+		},
+		{
+			"name": "Rewrite (and reframe) the headlines",
+			"weight": 35
+		},
+		{
+			"name": "'Know where you are': place & space essay",
+			"weight": 40
+		}
+	]
+}

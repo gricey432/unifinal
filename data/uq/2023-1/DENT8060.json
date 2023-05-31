@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Clinical/Practical Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Seminar presentation/participation",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Theory Assessment",
+			"weight": "Pass/Fail"
+		},
+		{
+			"name": "Tutorial/Lecture Participation",
+			"weight": "NA - There is no form of extension for this assessment."
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Thesis Draft",
+			"weight": "Formative"
+		},
+		{
+			"name": "Final Honours Thesis",
+			"weight": 100
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"assessment": [
+		{
+			"name": "Practice with Children, Young People and Families",
+			"weight": 40
+		},
+		{
+			"name": "Family Group Conference Simulation and Review",
+			"weight": 60
+		}
+	]
+}

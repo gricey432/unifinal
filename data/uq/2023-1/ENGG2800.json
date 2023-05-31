@@ -1,0 +1,32 @@
+{
+	"assessment": [
+		{
+			"name": "Assessment of Individual Performance",
+			"weight": "Incorporated into product mark"
+		},
+		{
+			"name": "Preliminary Demo 1 (Demo sequence)",
+			"weight": 10
+		},
+		{
+			"name": "Working circuit module on PCB & pdf of schematic",
+			"weight": 5
+		},
+		{
+			"name": "Seminar Presentation",
+			"weight": 10
+		},
+		{
+			"name": "Intermediate Demo 2 (Demo sequence)",
+			"weight": 10
+		},
+		{
+			"name": "Final Demo (Demo Sequence)",
+			"weight": 60
+		},
+		{
+			"name": "Final Report and Reflection",
+			"weight": 5
+		}
+	]
+}

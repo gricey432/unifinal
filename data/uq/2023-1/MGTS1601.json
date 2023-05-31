@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "Online Quiz",
+			"weight": 20
+		},
+		{
+			"name": "Team Workshop",
+			"weight": 20
+		},
+		{
+			"name": "Team Evaluation Report",
+			"weight": 40
+		},
+		{
+			"name": "Reflective Essay",
+			"weight": 20
+		}
+	]
+}

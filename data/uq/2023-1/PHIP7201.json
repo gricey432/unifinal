@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Performance Evaluations & Feedback Action Plan",
+			"weight": 20
+		},
+		{
+			"name": "Agreed Activities",
+			"weight": 0
+		},
+		{
+			"name": "Environmental Scan",
+			"weight": 15
+		},
+		{
+			"name": "Reflective Diaries",
+			"weight": 40
+		},
+		{
+			"name": "Conference Presentation",
+			"weight": 25
+		}
+	]
+}

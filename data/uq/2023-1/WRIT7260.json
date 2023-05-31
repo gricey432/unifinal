@@ -1,0 +1,20 @@
+{
+	"assessment": [
+		{
+			"name": "7x online quizzes",
+			"weight": 30
+		},
+		{
+			"name": "Online discussion board posts",
+			"weight": 10
+		},
+		{
+			"name": "Structural and stylistic reflection",
+			"weight": 25
+		},
+		{
+			"name": "Editing task",
+			"weight": 35
+		}
+	]
+}

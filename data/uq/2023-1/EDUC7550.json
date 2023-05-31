@@ -1,0 +1,24 @@
+{
+	"assessment": [
+		{
+			"name": "Policies & procedures for professional experience",
+			"weight": "Pass/fail"
+		},
+		{
+			"name": "Critical Reflection",
+			"weight": 30
+		},
+		{
+			"name": "Assessing and Teaching Children's Writing",
+			"weight": 30
+		},
+		{
+			"name": "Quality literature book trailer and rationale",
+			"weight": 40
+		},
+		{
+			"name": "Field experience placement log",
+			"weight": "Pass/fail 1,000 words"
+		}
+	]
+}
